@@ -1,0 +1,412 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+rank: 1,om yun chol,prk,"born: nov 18, 1991",b.weight: 55.70,group: a,1: 122,2: -126,3: 126,total: 126,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,thach kim tuan,vie,"born: jan 15, 1994",b.weight: 55.70,group: a,1: -125,2: 125,3: -127,total: 125,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,yang chin-yi,tpe,"born: may 15, 1981",b.weight: 55.75,group: a,1: 115,2: 121,3: -123,total: 121,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,tran le quoc toan,vie,"born: apr 05, 1989",b.weight: 55.70,group: a,1: -120,2: -120,3: 120,total: 120,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,setiadi jadi,ina,"born: feb 02, 1985",b.weight: 55.00,group: a,1: 111,2: 115,3: 118,total: 118,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,chontey arli,kaz,"born: jul 01, 1992",b.weight: 55.65,group: a,1: -110,2: 110,3: 115,total: 115,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,dey sukhen,ind,"born: mar 28, 1989",b.weight: 55.50,group: a,1: 102,2: 106,3: -110,total: 106,56kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,om yun chol,prk,"born: nov 18, 1991",b.weight: 55.70,group: a,1: 160,2: -169,3: -169,total: 160,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,thach kim tuan,vie,"born: jan 15, 1994",b.weight: 55.70,group: a,1: 153,2: 156,3: -161,total: 156,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,tran le quoc toan,vie,"born: apr 05, 1989",b.weight: 55.70,group: a,1: 150,2: 155,3: -157,total: 155,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,yang chin-yi,tpe,"born: may 15, 1981",b.weight: 55.75,group: a,1: 142,2: -151,3: -151,total: 142,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,setiadi jadi,ina,"born: feb 02, 1985",b.weight: 55.00,group: a,1: -135,2: 135,3: -145,total: 135,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,dey sukhen,ind,"born: mar 28, 1989",b.weight: 55.50,group: a,1: 130,2: -135,3: 135,total: 135,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,chontey arli,kaz,"born: jul 01, 1992",b.weight: 55.65,group: a,1: -135,2: -135,3: -135,total: ---,56kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,om yun chol,prk,"born: nov 18, 1991",b.weight: 55.70,group: a,snatch: 126,ci&jerk: 160,total: 286,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,thach kim tuan,vie,"born: jan 15, 1994",b.weight: 55.70,group: a,snatch: 125,ci&jerk: 156,total: 281,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,tran le quoc toan,vie,"born: apr 05, 1989",b.weight: 55.70,group: a,snatch: 120,ci&jerk: 155,total: 275,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,yang chin-yi,tpe,"born: may 15, 1981",b.weight: 55.75,group: a,snatch: 121,ci&jerk: 142,total: 263,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,setiadi jadi,ina,"born: feb 02, 1985",b.weight: 55.00,group: a,snatch: 118,ci&jerk: 135,total: 253,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,dey sukhen,ind,"born: mar 28, 1989",b.weight: 55.50,group: a,snatch: 106,ci&jerk: 135,total: 241,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,chontey arli,kaz,"born: jul 01, 1992",b.weight: 55.65,group: a,snatch: 115,ci&jerk: ---,total: ---,,56kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,kim un guk,prk,"born: oct 28, 1988",b.weight: 61.85,group: a,1: -145,2: 145,3: -152,total: 145,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,huang minhao,chn,"born: aug 21, 1992",b.weight: 61.85,group: a,1: 134,2: 138,3: 140,total: 140,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,kharki farkhad,kaz,"born: apr 20, 1991",b.weight: 61.50,group: a,1: 130,2: 134,3: 138,total: 138,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,trung le quang,vie,"born: may 29, 1990",b.weight: 61.35,group: a,1: 123,2: 126,3: 128,total: 128,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,li chunsheng,chn,"born: jan 22, 1986",b.weight: 61.65,group: a,1: 128,2: -133,3: -133,total: 128,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,sarang rustam,ind,"born: dec 12, 1988",b.weight: 61.85,group: a,1: 112,2: -117,3: 117,total: 117,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,dilli senthamizh selvan,ind,"born: jun 26, 1987",b.weight: 61.75,group: a,1: 105,2: 110,3: -114,total: 110,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,davlatov qurbonali,tjk,"born: jul 14, 1989",b.weight: 61.90,group: a,1: 92,2: 100,3: -105,total: 100,62kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,kim un guk,prk,"born: oct 28, 1988",b.weight: 61.85,group: a,1: 170,2: -174,3: ---,total: 170,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,li chunsheng,chn,"born: jan 22, 1986",b.weight: 61.65,group: a,1: 162,2: 166,3: -171,total: 166,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,kharki farkhad,kaz,"born: apr 20, 1991",b.weight: 61.50,group: a,1: 165,2: -177,3: -177,total: 165,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,huang minhao,chn,"born: aug 21, 1992",b.weight: 61.85,group: a,1: -158,2: 158,3: -163,total: 158,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,trung le quang,vie,"born: may 29, 1990",b.weight: 61.35,group: a,1: 156,2: -162,3: -162,total: 156,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,sarang rustam,ind,"born: dec 12, 1988",b.weight: 61.85,group: a,1: 142,2: -147,3: 147,total: 147,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,dilli senthamizh selvan,ind,"born: jun 26, 1987",b.weight: 61.75,group: a,1: 135,2: -142,3: 142,total: 142,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,davlatov qurbonali,tjk,"born: jul 14, 1989",b.weight: 61.90,group: a,1: 115,2: -120,3: -120,total: 115,62kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,kim un guk,prk,"born: oct 28, 1988",b.weight: 61.85,group: a,snatch: 145,ci&jerk: 170,total: 315,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,kharki farkhad,kaz,"born: apr 20, 1991",b.weight: 61.50,group: a,snatch: 138,ci&jerk: 165,total: 303,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,huang minhao,chn,"born: aug 21, 1992",b.weight: 61.85,group: a,snatch: 140,ci&jerk: 158,total: 298,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,li chunsheng,chn,"born: jan 22, 1986",b.weight: 61.65,group: a,snatch: 128,ci&jerk: 166,total: 294,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,trung le quang,vie,"born: may 29, 1990",b.weight: 61.35,group: a,snatch: 128,ci&jerk: 156,total: 284,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,sarang rustam,ind,"born: dec 12, 1988",b.weight: 61.85,group: a,snatch: 117,ci&jerk: 147,total: 264,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 7,dilli senthamizh selvan,ind,"born: jun 26, 1987",b.weight: 61.75,group: a,snatch: 110,ci&jerk: 142,total: 252,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 8,davlatov qurbonali,tjk,"born: jul 14, 1989",b.weight: 61.90,group: a,snatch: 100,ci&jerk: 115,total: 215,,62kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,behrouzi jaber,iri,"born: aug 22, 1991",b.weight: 68.45,group: a,1: 140,2: 145,3: 147,total: 147,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,liang chenxi,chn,"born: dec 18, 1988",b.weight: 68.60,group: a,1: 146,2: -148,3: -148,total: 146,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,ariana i ketut,ina,"born: sep 06, 1989",b.weight: 67.90,group: a,1: 140,2: -145,3: -146,total: 140,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,hasbi muhamad,ina,"born: jul 12, 1992",b.weight: 68.45,group: a,1: -136,2: 136,3: -141,total: 136,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,nguyen dac diep,vie,"born: mar 11, 1990",b.weight: 68.55,group: a,1: 130,2: -135,3: 135,total: 135,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,balkhayev adilbek,kaz,"born: mar 18, 1994",b.weight: 68.40,group: a,1: -132,2: 132,3: -136,total: 132,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,pan chien-hung,tpe,"born: aug 07, 1988",b.weight: 68.30,group: a,1: -130,2: 130,3: -135,total: 130,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,turaev khurshed,tjk,"born: aug 30, 1986",b.weight: 68.70,group: a,1: 110,2: -115,3: 115,total: 115,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,oburjan uulu sultan,kgz,"born: aug 08, 1992",b.weight: 67.80,group: a,1: 100,2: 105,3: 110,total: 110,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,kim myong hyok,prk,"born: dec 03, 1990",b.weight: 68.60,group: a,1: -145,2: -146,3: -146,total: ---,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,mendibaev bakhram,uzb,"born: aug 27, 1983",b.weight: 68.60,group: a,1: 130,2: -135,3: -135,total: ---,69kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,kim myong hyok,prk,"born: dec 03, 1990",b.weight: 68.60,group: a,1: 174,2: 178,3: -180,total: 178,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,behrouzi jaber,iri,"born: aug 22, 1991",b.weight: 68.45,group: a,1: -176,2: 176,3: -179,total: 176,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,pan chien-hung,tpe,"born: aug 07, 1988",b.weight: 68.30,group: a,1: 160,2: -173,3: 173,total: 173,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,ariana i ketut,ina,"born: sep 06, 1989",b.weight: 67.90,group: a,1: -170,2: -170,3: 170,total: 170,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,balkhayev adilbek,kaz,"born: mar 18, 1994",b.weight: 68.40,group: a,1: 150,2: 160,3: -167,total: 160,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,nguyen dac diep,vie,"born: mar 11, 1990",b.weight: 68.55,group: a,1: 155,2: -161,3: -161,total: 155,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,turaev khurshed,tjk,"born: aug 30, 1986",b.weight: 68.70,group: a,1: 145,2: 150,3: -155,total: 150,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,oburjan uulu sultan,kgz,"born: aug 08, 1992",b.weight: 67.80,group: a,1: 125,2: 130,3: 135,total: 135,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,hasbi muhamad,ina,"born: jul 12, 1992",b.weight: 68.45,group: a,1: -170,2: -170,3: -170,total: ---,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,liang chenxi,chn,"born: dec 18, 1988",b.weight: 68.60,group: a,1: -175,2: -175,3: -178,total: ---,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,mendibaev bakhram,uzb,"born: aug 27, 1983",b.weight: 68.60,group: a,1: 155,2: 161,3: -166,total: ---,69kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,behrouzi jaber,iri,"born: aug 22, 1991",b.weight: 68.45,group: a,snatch: 147,ci&jerk: 176,total: 323,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,ariana i ketut,ina,"born: sep 06, 1989",b.weight: 67.90,group: a,snatch: 140,ci&jerk: 170,total: 310,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,pan chien-hung,tpe,"born: aug 07, 1988",b.weight: 68.30,group: a,snatch: 130,ci&jerk: 173,total: 303,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,balkhayev adilbek,kaz,"born: mar 18, 1994",b.weight: 68.40,group: a,snatch: 132,ci&jerk: 160,total: 292,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,nguyen dac diep,vie,"born: mar 11, 1990",b.weight: 68.55,group: a,snatch: 135,ci&jerk: 155,total: 290,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,turaev khurshed,tjk,"born: aug 30, 1986",b.weight: 68.70,group: a,snatch: 115,ci&jerk: 150,total: 265,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 7,oburjan uulu sultan,kgz,"born: aug 08, 1992",b.weight: 67.80,group: a,snatch: 110,ci&jerk: 135,total: 245,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,hasbi muhamad,ina,"born: jul 12, 1992",b.weight: 68.45,group: a,snatch: 136,ci&jerk: ---,total: ---,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,liang chenxi,chn,"born: dec 18, 1988",b.weight: 68.60,group: a,snatch: 146,ci&jerk: ---,total: ---,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,kim myong hyok,prk,"born: dec 03, 1990",b.weight: 68.60,group: a,snatch: ---,ci&jerk: 178,total: ---,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,mendibaev bakhram,uzb,"born: aug 27, 1983",b.weight: 68.60,group: a,snatch: ---,ci&jerk: ---,total: ---,,69kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,kim kwang song,prk,"born: feb 19, 1992",b.weight: 76.70,group: a,1: 155,2: 161,3: 164,total: 164,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,taghian chadegani rasoul,iri,"born: jan 21, 1987",b.weight: 76.50,group: a,1: 155,2: 160,3: 163,total: 163,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,zhong guoshun,chn,"born: aug 05, 1987",b.weight: 76.55,group: a,1: -153,2: 153,3: 160,total: 160,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,pavlov kirill,kaz,"born: sep 13, 1986",b.weight: 76.45,group: a,1: 150,2: -155,3: 156,total: 156,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,alimov ulugbek,uzb,"born: apr 06, 1989",b.weight: 76.15,group: a,1: -145,2: 145,3: 150,total: 150,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,somboon suchat,tha,"born: apr 12, 1991",b.weight: 76.60,group: a,1: 140,2: -145,3: 145,total: 145,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,wu tsung-ling,tpe,"born: jan 20, 1986",b.weight: 76.45,group: a,1: -138,2: 138,3: 143,total: 143,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,sivalingam sathish kumar,ind,"born: jun 23, 1992",b.weight: 76.65,group: a,1: -135,2: 135,3: 139,total: 139,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,yeeram ekkachai,tha,"born: oct 31, 1989",b.weight: 76.20,group: a,1: -130,2: -130,3: 130,total: 130,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 10,nasution sandow weldemar,ina,"born: mar 25, 1981",b.weight: 76.65,group: a,1: 130,2: -136,3: -140,total: 130,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 11,tran hoang minh duong,vie,"born: oct 15, 1992",b.weight: 76.85,group: a,1: 125,2: -130,3: -130,total: 125,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 12,al mtairi mshari,kuw,"born: jan 12, 1992",b.weight: 76.75,group: a,1: -90,2: 90,3: 93,total: 93,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 13,abuainain essa saleh,qat,"born: dec 13, 1984",b.weight: 75.45,group: a,1: 55,2: 60,3: -65,total: 60,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,huang chih-hsiang,tpe,"born: jan 11, 1992",b.weight: 76.40,group: a,1: -125,2: -125,3: -125,total: ---,77kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,taghian chadegani rasoul,iri,"born: jan 21, 1987",b.weight: 76.50,group: a,1: 195,2: -203,3: 203,total: 203,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,zhong guoshun,chn,"born: aug 05, 1987",b.weight: 76.55,group: a,1: 180,2: 188,3: 196,total: 196,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,kim kwang song,prk,"born: feb 19, 1992",b.weight: 76.70,group: a,1: -187,2: 187,3: 191,total: 191,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,alimov ulugbek,uzb,"born: apr 06, 1989",b.weight: 76.15,group: a,1: 185,2: 190,3: -195,total: 190,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,pavlov kirill,kaz,"born: sep 13, 1986",b.weight: 76.45,group: a,1: 180,2: -190,3: 190,total: 190,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,somboon suchat,tha,"born: apr 12, 1991",b.weight: 76.60,group: a,1: -181,2: 181,3: -186,total: 181,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,wu tsung-ling,tpe,"born: jan 20, 1986",b.weight: 76.45,group: a,1: 165,2: -172,3: 172,total: 172,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,yeeram ekkachai,tha,"born: oct 31, 1989",b.weight: 76.20,group: a,1: 160,2: 165,3: 170,total: 170,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 9,sivalingam sathish kumar,ind,"born: jun 23, 1992",b.weight: 76.65,group: a,1: 165,2: 170,3: -174,total: 170,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 10,tran hoang minh duong,vie,"born: oct 15, 1992",b.weight: 76.85,group: a,1: -155,2: 155,3: -160,total: 155,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 11,huang chih-hsiang,tpe,"born: jan 11, 1992",b.weight: 76.40,group: a,1: 150,2: -160,3: -160,total: 150,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 12,al mtairi mshari,kuw,"born: jan 12, 1992",b.weight: 76.75,group: a,1: 110,2: ---,3: ---,total: 110,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 13,abuainain essa saleh,qat,"born: dec 13, 1984",b.weight: 75.45,group: a,1: 75,2: 76,3: 80,total: 80,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,nasution sandow weldemar,ina,"born: mar 25, 1981",b.weight: 76.65,group: a,1: ---,2: ---,3: ---,total: ---,77kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,taghian chadegani rasoul,iri,"born: jan 21, 1987",b.weight: 76.50,group: a,snatch: 163,ci&jerk: 203,total: 366,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,zhong guoshun,chn,"born: aug 05, 1987",b.weight: 76.55,group: a,snatch: 160,ci&jerk: 196,total: 356,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,kim kwang song,prk,"born: feb 19, 1992",b.weight: 76.70,group: a,snatch: 164,ci&jerk: 191,total: 355,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,pavlov kirill,kaz,"born: sep 13, 1986",b.weight: 76.45,group: a,snatch: 156,ci&jerk: 190,total: 346,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,alimov ulugbek,uzb,"born: apr 06, 1989",b.weight: 76.15,group: a,snatch: 150,ci&jerk: 190,total: 340,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,somboon suchat,tha,"born: apr 12, 1991",b.weight: 76.60,group: a,snatch: 145,ci&jerk: 181,total: 326,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 7,wu tsung-ling,tpe,"born: jan 20, 1986",b.weight: 76.45,group: a,snatch: 143,ci&jerk: 172,total: 315,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 8,sivalingam sathish kumar,ind,"born: jun 23, 1992",b.weight: 76.65,group: a,snatch: 139,ci&jerk: 170,total: 309,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 9,yeeram ekkachai,tha,"born: oct 31, 1989",b.weight: 76.20,group: a,snatch: 130,ci&jerk: 170,total: 300,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 10,tran hoang minh duong,vie,"born: oct 15, 1992",b.weight: 76.85,group: a,snatch: 125,ci&jerk: 155,total: 280,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 11,al mtairi mshari,kuw,"born: jan 12, 1992",b.weight: 76.75,group: a,snatch: 93,ci&jerk: 110,total: 203,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 12,abuainain essa saleh,qat,"born: dec 13, 1984",b.weight: 75.45,group: a,snatch: 60,ci&jerk: 80,total: 140,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,huang chih-hsiang,tpe,"born: jan 11, 1992",b.weight: 76.40,group: a,snatch: ---,ci&jerk: 150,total: ---,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,nasution sandow weldemar,ina,"born: mar 25, 1981",b.weight: 76.65,group: a,snatch: 130,ci&jerk: ---,total: ---,,77kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,zhuang gongping,chn,"born: sep 06, 1993",b.weight: 82.85,group: a,1: -150,2: 150,3: 155,total: 155,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,yu dongju,kor,"born: aug 19, 1993",b.weight: 83.45,group: a,1: 150,2: 155,3: -157,total: 155,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,meirmanov yerbol,kaz,"born: jan 24, 1992",b.weight: 84.45,group: a,1: -155,2: 155,3: -160,total: 155,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,hoang tan tai,vie,"born: mar 30, 1990",b.weight: 84.70,group: a,1: 137,2: -145,3: 146,total: 146,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,jamaludin imam,ina,"born: feb 26, 1992",b.weight: 84.05,group: a,1: 140,2: -145,3: 145,total: 145,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,kume daiki,jpn,"born: jun 18, 1992",b.weight: 83.95,group: a,1: -130,2: -130,3: 130,total: 130,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,khaljli ali,kuw,"born: jun 05, 1993",b.weight: 84.15,group: a,1: 100,2: 117,3: 125,total: 125,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,shukurov azizjon,tjk,"born: apr 24, 1986",b.weight: 84.90,group: a,1: 115,2: 120,3: -123,total: 120,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,bader a a jaber,kuw,"born: mar 07, 1992",b.weight: 79.40,group: a,1: 100,2: 110,3: ---,total: 110,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,moradi sohrab,iri,"born: sep 22, 1988",b.weight: 85.00,group: a,1: -158,2: 158,3: -161,total: ---,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,aljumaili safaa rashid mahmood,irq,"born: jan 01, 1990",b.weight: 83.50,group: a,1: -155,2: -155,3: 156,total: ---,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,yevstafiev yevgeni,kaz,"born: may 19, 1987",b.weight: 84.70,group: a,1: 145,2: 151,3: 156,total: ---,85kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,yu dongju,kor,"born: aug 19, 1993",b.weight: 83.45,group: a,1: -185,2: 185,3: -191,total: 185,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,jamaludin imam,ina,"born: feb 26, 1992",b.weight: 84.05,group: a,1: 180,2: -190,3: -190,total: 180,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,hoang tan tai,vie,"born: mar 30, 1990",b.weight: 84.70,group: a,1: 180,2: -186,3: -186,total: 180,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,kume daiki,jpn,"born: jun 18, 1992",b.weight: 83.95,group: a,1: 165,2: 173,3: -178,total: 173,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,khaljli ali,kuw,"born: jun 05, 1993",b.weight: 84.15,group: a,1: 132,2: ---,3: ---,total: 132,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,bader a a jaber,kuw,"born: mar 07, 1992",b.weight: 79.40,group: a,1: 130,2: -140,3: -140,total: 130,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,shukurov azizjon,tjk,"born: apr 24, 1986",b.weight: 84.90,group: a,1: -155,2: -155,3: -155,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,meirmanov yerbol,kaz,"born: jan 24, 1992",b.weight: 84.45,group: a,1: ---,2: ---,3: ---,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,zhuang gongping,chn,"born: sep 06, 1993",b.weight: 82.85,group: a,1: -180,2: -180,3: -180,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,moradi sohrab,iri,"born: sep 22, 1988",b.weight: 85.00,group: a,1: 190,2: 200,3: ---,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,aljumaili safaa rashid mahmood,irq,"born: jan 01, 1990",b.weight: 83.50,group: a,1: 195,2: -202,3: -202,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,yevstafiev yevgeni,kaz,"born: may 19, 1987",b.weight: 84.70,group: a,1: -185,2: 185,3: -191,total: ---,85kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,yu dongju,kor,"born: aug 19, 1993",b.weight: 83.45,group: a,snatch: 155,ci&jerk: 185,total: 340,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,hoang tan tai,vie,"born: mar 30, 1990",b.weight: 84.70,group: a,snatch: 146,ci&jerk: 180,total: 326,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,jamaludin imam,ina,"born: feb 26, 1992",b.weight: 84.05,group: a,snatch: 145,ci&jerk: 180,total: 325,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,kume daiki,jpn,"born: jun 18, 1992",b.weight: 83.95,group: a,snatch: 130,ci&jerk: 173,total: 303,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,khaljli ali,kuw,"born: jun 05, 1993",b.weight: 84.15,group: a,snatch: 125,ci&jerk: 132,total: 257,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,bader a a jaber,kuw,"born: mar 07, 1992",b.weight: 79.40,group: a,snatch: 110,ci&jerk: 130,total: 240,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,shukurov azizjon,tjk,"born: apr 24, 1986",b.weight: 84.90,group: a,snatch: 120,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,meirmanov yerbol,kaz,"born: jan 24, 1992",b.weight: 84.45,group: a,snatch: 155,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,zhuang gongping,chn,"born: sep 06, 1993",b.weight: 82.85,group: a,snatch: 155,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,moradi sohrab,iri,"born: sep 22, 1988",b.weight: 85.00,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,aljumaili safaa rashid mahmood,irq,"born: jan 01, 1990",b.weight: 83.50,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,yevstafiev yevgeni,kaz,"born: may 19, 1987",b.weight: 84.70,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,zhang shengguo,chn,"born: apr 05, 1986",b.weight: 93.45,group: a,1: 168,2: -174,3: -174,total: 168,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,xie wei,chn,"born: mar 12, 1991",b.weight: 93.55,group: a,1: -155,2: -155,3: 155,total: 155,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,tran van hoa,vie,"born: jun 16, 1986",b.weight: 93.85,group: a,1: 145,2: 150,3: 155,total: 155,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,mali chandrakant dadu,ind,"born: aug 28, 1987",b.weight: 93.45,group: a,1: -150,2: -150,3: 150,total: 150,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,kinoshita tatsuyuki,jpn,"born: jul 14, 1991",b.weight: 87.15,group: a,1: -145,2: 145,3: -153,total: 145,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,iosif jemel jemel,kuw,"born: mar 14, 1990",b.weight: 87.75,group: a,1: 110,2: 115,3: 117,total: 117,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,alotaibi hamid,kuw,"born: may 13, 1980",b.weight: 89.40,group: a,1: 100,2: -110,3: -115,total: 100,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,hidayat rahman,ina,"born: may 17, 1987",b.weight: 92.75,group: a,1: ---,2: ---,3: ---,total: ---,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,bagherikahkesh yasin,iri,"born: nov 27, 1991",b.weight: 93.60,group: a,1: -161,2: 161,3: -167,total: ---,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,zaichikov alexandr,kaz,"born: aug 17, 1992",b.weight: 93.45,group: a,1: 168,2: 173,3: 175,total: ---,94kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,zhang shengguo,chn,"born: apr 05, 1986",b.weight: 93.45,group: a,1: 196,2: 206,3: -211,total: 206,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,xie wei,chn,"born: mar 12, 1991",b.weight: 93.55,group: a,1: 190,2: -201,3: 202,total: 202,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,mali chandrakant dadu,ind,"born: aug 28, 1987",b.weight: 93.45,group: a,1: 180,2: -185,3: -185,total: 180,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,tran van hoa,vie,"born: jun 16, 1986",b.weight: 93.85,group: a,1: 180,2: -191,3: -191,total: 180,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,iosif jemel jemel,kuw,"born: mar 14, 1990",b.weight: 87.75,group: a,1: 130,2: ---,3: ---,total: 130,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,alotaibi hamid,kuw,"born: may 13, 1980",b.weight: 89.40,group: a,1: 130,2: ---,3: ---,total: 130,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,hidayat rahman,ina,"born: may 17, 1987",b.weight: 92.75,group: a,1: ---,2: ---,3: ---,total: ---,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,kinoshita tatsuyuki,jpn,"born: jul 14, 1991",b.weight: 87.15,group: a,1: -170,2: -170,3: -170,total: ---,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,bagherikahkesh yasin,iri,"born: nov 27, 1991",b.weight: 93.60,group: a,1: -201,2: 201,3: -214,total: ---,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,zaichikov alexandr,kaz,"born: aug 17, 1992",b.weight: 93.45,group: a,1: 205,2: 210,3: -215,total: ---,94kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,zhang shengguo,chn,"born: apr 05, 1986",b.weight: 93.45,group: a,snatch: 168,ci&jerk: 206,total: 374,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,xie wei,chn,"born: mar 12, 1991",b.weight: 93.55,group: a,snatch: 155,ci&jerk: 202,total: 357,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,tran van hoa,vie,"born: jun 16, 1986",b.weight: 93.85,group: a,snatch: 155,ci&jerk: 180,total: 335,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,mali chandrakant dadu,ind,"born: aug 28, 1987",b.weight: 93.45,group: a,snatch: 150,ci&jerk: 180,total: 330,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,iosif jemel jemel,kuw,"born: mar 14, 1990",b.weight: 87.75,group: a,snatch: 117,ci&jerk: 130,total: 247,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,alotaibi hamid,kuw,"born: may 13, 1980",b.weight: 89.40,group: a,snatch: 100,ci&jerk: 130,total: 230,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,hidayat rahman,ina,"born: may 17, 1987",b.weight: 92.75,group: a,snatch: ---,ci&jerk: ---,total: ---,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,kinoshita tatsuyuki,jpn,"born: jul 14, 1991",b.weight: 87.15,group: a,snatch: 145,ci&jerk: ---,total: ---,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,bagherikahkesh yasin,iri,"born: nov 27, 1991",b.weight: 93.60,group: a,snatch: ---,ci&jerk: ---,total: ---,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,zaichikov alexandr,kaz,"born: aug 17, 1992",b.weight: 93.45,group: a,snatch: ---,ci&jerk: ---,total: ---,,94kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,nurudinov ruslan,uzb,"born: nov 24, 1991",b.weight: 103.70,group: a,1: 185,2: 190,3: -196,total: 190,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,bahramzadeh mohsen,iri,"born: aug 13, 1990",b.weight: 103.85,group: a,1: 175,2: 185,3: -188,total: 185,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,ghadami kia,iri,"born: jan 26, 1991",b.weight: 103.55,group: a,1: 168,2: 174,3: -179,total: 174,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,al aifuri mohammed jasim abbood,irq,"born: nov 22, 1981",b.weight: 104.35,group: a,1: -160,2: -160,3: 161,total: 161,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,hsieh wei-chun,tpe,"born: aug 14, 1983",b.weight: 102.35,group: a,1: 150,2: 155,3: 160,total: 160,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,yang chih-yu,tpe,"born: oct 06, 1989",b.weight: 104.55,group: a,1: -155,2: 155,3: -160,total: 155,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,victor abilash christopher,ind,"born: jul 15, 1986",b.weight: 104.55,group: a,1: 143,2: 148,3: -151,total: 148,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,bader d y a alshammari,kuw,"born: apr 28, 1991",b.weight: 105.00,group: a,1: 120,2: ---,3: ---,total: 120,105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,nurudinov ruslan,uzb,"born: nov 24, 1991",b.weight: 103.70,group: a,1: 220,2: 230,3: ---,total: 230,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,ghadami kia,iri,"born: jan 26, 1991",b.weight: 103.55,group: a,1: -205,2: 205,3: -216,total: 205,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,bahramzadeh mohsen,iri,"born: aug 13, 1990",b.weight: 103.85,group: a,1: -205,2: -205,3: 205,total: 205,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,hsieh wei-chun,tpe,"born: aug 14, 1983",b.weight: 102.35,group: a,1: 200,2: ---,3: ---,total: 200,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,yang chih-yu,tpe,"born: oct 06, 1989",b.weight: 104.55,group: a,1: -190,2: 190,3: -200,total: 190,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,victor abilash christopher,ind,"born: jul 15, 1986",b.weight: 104.55,group: a,1: 175,2: 180,3: -184,total: 180,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,bader d y a alshammari,kuw,"born: apr 28, 1991",b.weight: 105.00,group: a,1: 145,2: -155,3: 155,total: 155,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,al aifuri mohammed jasim abbood,irq,"born: nov 22, 1981",b.weight: 104.35,group: a,1: -206,2: -206,3: -206,total: ---,105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,nurudinov ruslan,uzb,"born: nov 24, 1991",b.weight: 103.70,group: a,snatch: 190,ci&jerk: 230,total: 420,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,bahramzadeh mohsen,iri,"born: aug 13, 1990",b.weight: 103.85,group: a,snatch: 185,ci&jerk: 205,total: 390,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,ghadami kia,iri,"born: jan 26, 1991",b.weight: 103.55,group: a,snatch: 174,ci&jerk: 205,total: 379,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,hsieh wei-chun,tpe,"born: aug 14, 1983",b.weight: 102.35,group: a,snatch: 160,ci&jerk: 200,total: 360,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,yang chih-yu,tpe,"born: oct 06, 1989",b.weight: 104.55,group: a,snatch: 155,ci&jerk: 190,total: 345,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,victor abilash christopher,ind,"born: jul 15, 1986",b.weight: 104.55,group: a,snatch: 148,ci&jerk: 180,total: 328,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 7,bader d y a alshammari,kuw,"born: apr 28, 1991",b.weight: 105.00,group: a,snatch: 120,ci&jerk: 155,total: 275,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,al aifuri mohammed jasim abbood,irq,"born: nov 22, 1981",b.weight: 104.35,group: a,snatch: 161,ci&jerk: ---,total: ---,,105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,sharifi sedeh rashid,iri,"born: sep 21, 1984",b.weight: 140.50,group: a,1: 185,2: 191,3: -197,total: 191,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,moulaei bahador,iri,"born: mar 21, 1992",b.weight: 130.30,group: a,1: -185,2: 186,3: -193,total: 186,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,bersanov ibragim,kaz,"born: oct 25, 1992",b.weight: 113.60,group: a,1: -177,2: 177,3: 185,total: 185,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,chen shih-chieh,tpe,"born: nov 27, 1989",b.weight: 145.35,group: a,1: 170,2: 180,3: -186,total: 180,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,dolgalev sergei,kgz,"born: nov 11, 1992",b.weight: 113.00,group: a,1: 155,2: 162,3: -166,total: 162,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,chao shih-chieh,tpe,"born: aug 19, 1990",b.weight: 136.05,group: a,1: -160,2: 160,3: -165,total: 160,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,himanshu kumar chang,ind,"born: jan 15, 1992",b.weight: 130.30,group: a,1: 147,2: -152,3: -152,total: 147,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,sandeep kumar,ind,"born: jan 01, 1980",b.weight: 133.45,group: a,1: 135,2: 142,3: 146,total: 146,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,alhusaini hassan,kuw,"born: oct 26, 1990",b.weight: 120.80,group: a,1: 100,2: 120,3: 130,total: 130,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 10,abdullah h th mesaer,kuw,"born: mar 03, 1987",b.weight: 106.80,group: a,1: 90,2: 100,3: ---,total: 100,+105kgmen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,chen shih-chieh,tpe,"born: nov 27, 1989",b.weight: 145.35,group: a,1: 221,2: -233,3: 233,total: 233,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,sharifi sedeh rashid,iri,"born: sep 21, 1984",b.weight: 140.50,group: a,1: 220,2: 226,3: -232,total: 226,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,bersanov ibragim,kaz,"born: oct 25, 1992",b.weight: 113.60,group: a,1: 210,2: 217,3: -221,total: 217,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,chao shih-chieh,tpe,"born: aug 19, 1990",b.weight: 136.05,group: a,1: 205,2: -213,3: -213,total: 205,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,himanshu kumar chang,ind,"born: jan 15, 1992",b.weight: 130.30,group: a,1: 185,2: 192,3: -195,total: 192,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,sandeep kumar,ind,"born: jan 01, 1980",b.weight: 133.45,group: a,1: 180,2: 188,3: 192,total: 192,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,dolgalev sergei,kgz,"born: nov 11, 1992",b.weight: 113.00,group: a,1: -190,2: 190,3: -200,total: 190,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,alhusaini hassan,kuw,"born: oct 26, 1990",b.weight: 120.80,group: a,1: 140,2: 150,3: 160,total: 160,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 9,abdullah h th mesaer,kuw,"born: mar 03, 1987",b.weight: 106.80,group: a,1: 120,2: ---,3: ---,total: 120,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,moulaei bahador,iri,"born: mar 21, 1992",b.weight: 130.30,group: a,1: -232,2: -232,3: -233,total: ---,+105kgmen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,sharifi sedeh rashid,iri,"born: sep 21, 1984",b.weight: 140.50,group: a,snatch: 191,ci&jerk: 226,total: 417,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 2,chen shih-chieh,tpe,"born: nov 27, 1989",b.weight: 145.35,group: a,snatch: 180,ci&jerk: 233,total: 413,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 3,bersanov ibragim,kaz,"born: oct 25, 1992",b.weight: 113.60,group: a,snatch: 185,ci&jerk: 217,total: 402,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 4,chao shih-chieh,tpe,"born: aug 19, 1990",b.weight: 136.05,group: a,snatch: 160,ci&jerk: 205,total: 365,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 5,dolgalev sergei,kgz,"born: nov 11, 1992",b.weight: 113.00,group: a,snatch: 162,ci&jerk: 190,total: 352,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 6,himanshu kumar chang,ind,"born: jan 15, 1992",b.weight: 130.30,group: a,snatch: 147,ci&jerk: 192,total: 339,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 7,sandeep kumar,ind,"born: jan 01, 1980",b.weight: 133.45,group: a,snatch: 146,ci&jerk: 192,total: 338,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 8,alhusaini hassan,kuw,"born: oct 26, 1990",b.weight: 120.80,group: a,snatch: 130,ci&jerk: 160,total: 290,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 9,abdullah h th mesaer,kuw,"born: mar 03, 1987",b.weight: 106.80,group: a,snatch: 100,ci&jerk: 120,total: 220,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: ---,moulaei bahador,iri,"born: mar 21, 1992",b.weight: 130.30,group: a,snatch: 186,ci&jerk: ---,total: ---,,+105kgmen,total,ASIAN CHAMPIONSHIPS
+rank: 1,ryang chun hwa,prk,"born: jun 12, 1991",b.weight: 47.80,group: a,1: 80,2: -84,3: -84,total: 80,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,feng linmei,chn,"born: mar 19, 1995",b.weight: 47.90,group: a,1: 75,2: -79,3: 79,total: 79,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,do thi thu hoai,vie,"born: sep 06, 1991",b.weight: 47.85,group: a,1: 75,2: 78,3: -80,total: 78,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,momotova galina,kaz,"born: nov 20, 1984",b.weight: 47.10,group: a,1: 72,2: 77,3: -80,total: 77,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,agustiani sri wahyuni,ina,"born: aug 13, 1994",b.weight: 47.50,group: a,1: 71,2: 76,3: -80,total: 76,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,pham thuy dung,vie,"born: feb 17, 1987",b.weight: 48.00,group: a,1: -73,2: 73,3: -75,total: 73,48kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,ryang chun hwa,prk,"born: jun 12, 1991",b.weight: 47.80,group: a,1: 105,2: -110,3: 110,total: 110,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,agustiani sri wahyuni,ina,"born: aug 13, 1994",b.weight: 47.50,group: a,1: 100,2: -109,3: -109,total: 100,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,do thi thu hoai,vie,"born: sep 06, 1991",b.weight: 47.85,group: a,1: -96,2: -96,3: 96,total: 96,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,pham thuy dung,vie,"born: feb 17, 1987",b.weight: 48.00,group: a,1: -95,2: -95,3: 95,total: 95,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,momotova galina,kaz,"born: nov 20, 1984",b.weight: 47.10,group: a,1: -90,2: 90,3: -95,total: 90,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,feng linmei,chn,"born: mar 19, 1995",b.weight: 47.90,group: a,1: -95,2: -95,3: -96,total: ---,48kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,ryang chun hwa,prk,"born: jun 12, 1991",b.weight: 47.80,group: a,snatch: 80,ci&jerk: 110,total: 190,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,agustiani sri wahyuni,ina,"born: aug 13, 1994",b.weight: 47.50,group: a,snatch: 76,ci&jerk: 100,total: 176,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,do thi thu hoai,vie,"born: sep 06, 1991",b.weight: 47.85,group: a,snatch: 78,ci&jerk: 96,total: 174,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,pham thuy dung,vie,"born: feb 17, 1987",b.weight: 48.00,group: a,snatch: 73,ci&jerk: 95,total: 168,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,momotova galina,kaz,"born: nov 20, 1984",b.weight: 47.10,group: a,snatch: 77,ci&jerk: 90,total: 167,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: ---,feng linmei,chn,"born: mar 19, 1995",b.weight: 47.90,group: a,snatch: 79,ci&jerk: ---,total: ---,,48kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,guo jinyan,chn,"born: jan 19, 1992",b.weight: 52.90,group: a,1: 86,2: 90,3: -93,total: 90,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,yelisseyeva margarita,kaz,"born: jul 20, 1992",b.weight: 51.90,group: a,1: 78,2: 82,3: 85,total: 85,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,safitri dewi,ina,"born: feb 10, 1993",b.weight: 52.10,group: a,1: 75,2: 80,3: -84,total: 80,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,nguyen thi thuy,vie,"born: aug 23, 1990",b.weight: 52.25,group: a,1: -78,2: 78,3: 80,total: 80,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,febrianti citra,ina,"born: feb 22, 1988",b.weight: 52.30,group: a,1: 80,2: -83,3: -83,total: 80,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,sisoeva marina,uzb,"born: may 30, 1993",b.weight: 53.00,group: a,1: -80,2: 80,3: -85,total: 80,53kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,guo jinyan,chn,"born: jan 19, 1992",b.weight: 52.90,group: a,1: 105,2: 108,3: 112,total: 112,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,nguyen thi thuy,vie,"born: aug 23, 1990",b.weight: 52.25,group: a,1: 105,2: -107,3: 107,total: 107,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,sisoeva marina,uzb,"born: may 30, 1993",b.weight: 53.00,group: a,1: 101,2: -106,3: 106,total: 106,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,febrianti citra,ina,"born: feb 22, 1988",b.weight: 52.30,group: a,1: 98,2: 101,3: 103,total: 103,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,safitri dewi,ina,"born: feb 10, 1993",b.weight: 52.10,group: a,1: 100,2: -106,3: -106,total: 100,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,yelisseyeva margarita,kaz,"born: jul 20, 1992",b.weight: 51.90,group: a,1: 98,2: -102,3: -102,total: 98,53kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,guo jinyan,chn,"born: jan 19, 1992",b.weight: 52.90,group: a,snatch: 90,ci&jerk: 112,total: 202,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,nguyen thi thuy,vie,"born: aug 23, 1990",b.weight: 52.25,group: a,snatch: 80,ci&jerk: 107,total: 187,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,sisoeva marina,uzb,"born: may 30, 1993",b.weight: 53.00,group: a,snatch: 80,ci&jerk: 106,total: 186,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,yelisseyeva margarita,kaz,"born: jul 20, 1992",b.weight: 51.90,group: a,snatch: 85,ci&jerk: 98,total: 183,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,febrianti citra,ina,"born: feb 22, 1988",b.weight: 52.30,group: a,snatch: 80,ci&jerk: 103,total: 183,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 6,safitri dewi,ina,"born: feb 10, 1993",b.weight: 52.10,group: a,snatch: 80,ci&jerk: 100,total: 180,,53kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,ri jong hwa,prk,"born: oct 16, 1990",b.weight: 57.18,group: a,1: 100,2: 105,3: -108,total: 105,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,jong chun mi,prk,"born: mar 15, 1985",b.weight: 57.62,group: a,1: -100,2: 100,3: 104,total: 104,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,kuo hsing-chun,tpe,"born: nov 26, 1993",b.weight: 57.92,group: a,1: 102,2: -105,3: -105,total: 102,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,chen yihong,chn,"born: jun 08, 1992",b.weight: 56.38,group: a,1: 90,2: 95,3: 100,total: 100,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,kim sohwa,kor,"born: feb 04, 1992",b.weight: 57.20,group: a,1: 93,2: 96,3: -98,total: 96,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,srisurat sukanya,tha,"born: may 03, 1995",b.weight: 57.34,group: a,1: 87,2: 91,3: 94,total: 94,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,atikasari dwi,ina,"born: jan 19, 1993",b.weight: 57.28,group: a,1: 78,2: -82,3: 82,total: 82,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,pramita okta dwi,ina,"born: oct 15, 1986",b.weight: 57.30,group: a,1: 78,2: 82,3: -86,total: 82,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,lam thi bich,vie,"born: mar 09, 1992",b.weight: 56.16,group: a,1: -78,2: 78,3: 81,total: 81,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 10,devi lairenmayum premeshwori,ind,"born: dec 11, 1984",b.weight: 57.24,group: a,1: 76,2: 80,3: -83,total: 80,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 11,rajwant kaur,ind,"born: mar 02, 1987",b.weight: 57.70,group: a,1: 71,2: 75,3: -78,total: 75,58kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,kuo hsing-chun,tpe,"born: nov 26, 1993",b.weight: 57.92,group: a,1: 131,2: -134,3: 134,total: 134,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,ri jong hwa,prk,"born: oct 16, 1990",b.weight: 57.18,group: a,1: -130,2: 130,3: -133,total: 130,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,jong chun mi,prk,"born: mar 15, 1985",b.weight: 57.62,group: a,1: 130,2: -133,3: -133,total: 130,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,chen yihong,chn,"born: jun 08, 1992",b.weight: 56.38,group: a,1: 120,2: 125,3: -130,total: 125,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,kim sohwa,kor,"born: feb 04, 1992",b.weight: 57.20,group: a,1: 110,2: 114,3: -117,total: 114,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,srisurat sukanya,tha,"born: may 03, 1995",b.weight: 57.34,group: a,1: -111,2: 111,3: -115,total: 111,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,lam thi bich,vie,"born: mar 09, 1992",b.weight: 56.16,group: a,1: 100,2: 105,3: -107,total: 105,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,pramita okta dwi,ina,"born: oct 15, 1986",b.weight: 57.30,group: a,1: 103,2: -107,3: -107,total: 103,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 9,atikasari dwi,ina,"born: jan 19, 1993",b.weight: 57.28,group: a,1: -102,2: 102,3: -105,total: 102,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 10,devi lairenmayum premeshwori,ind,"born: dec 11, 1984",b.weight: 57.24,group: a,1: -97,2: 97,3: -100,total: 97,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 11,rajwant kaur,ind,"born: mar 02, 1987",b.weight: 57.70,group: a,1: 91,2: -95,3: 95,total: 95,58kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,kuo hsing-chun,tpe,"born: nov 26, 1993",b.weight: 57.92,group: a,snatch: 102,ci&jerk: 134,total: 236,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,ri jong hwa,prk,"born: oct 16, 1990",b.weight: 57.18,group: a,snatch: 105,ci&jerk: 130,total: 235,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,jong chun mi,prk,"born: mar 15, 1985",b.weight: 57.62,group: a,snatch: 104,ci&jerk: 130,total: 234,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,chen yihong,chn,"born: jun 08, 1992",b.weight: 56.38,group: a,snatch: 100,ci&jerk: 125,total: 225,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,kim sohwa,kor,"born: feb 04, 1992",b.weight: 57.20,group: a,snatch: 96,ci&jerk: 114,total: 210,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 6,srisurat sukanya,tha,"born: may 03, 1995",b.weight: 57.34,group: a,snatch: 94,ci&jerk: 111,total: 205,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 7,lam thi bich,vie,"born: mar 09, 1992",b.weight: 56.16,group: a,snatch: 81,ci&jerk: 105,total: 186,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 8,pramita okta dwi,ina,"born: oct 15, 1986",b.weight: 57.30,group: a,snatch: 82,ci&jerk: 103,total: 185,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 9,atikasari dwi,ina,"born: jan 19, 1993",b.weight: 57.28,group: a,snatch: 82,ci&jerk: 102,total: 184,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 10,devi lairenmayum premeshwori,ind,"born: dec 11, 1984",b.weight: 57.24,group: a,snatch: 80,ci&jerk: 97,total: 177,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 11,rajwant kaur,ind,"born: mar 02, 1987",b.weight: 57.70,group: a,snatch: 75,ci&jerk: 95,total: 170,,58kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,lin tzu-chi,tpe,"born: mar 19, 1988",b.weight: 60.85,group: a,1: 105,2: -110,3: 110,total: 110,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,goricheva karina,kaz,"born: apr 08, 1993",b.weight: 62.85,group: a,1: 95,2: 100,3: 104,total: 104,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,jo pok hyang,prk,"born: nov 15, 1992",b.weight: 62.75,group: a,1: -103,2: -103,3: 103,total: 103,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,wu linying,chn,"born: aug 08, 1992",b.weight: 62.35,group: a,1: 95,2: 100,3: -104,total: 100,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,nguyen thi loi,vie,"born: feb 24, 1989",b.weight: 63.00,group: a,1: -85,2: 85,3: 90,total: 90,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,darmariani sinta,ina,"born: dec 22, 1986",b.weight: 62.20,group: a,1: 88,2: -93,3: -93,total: 88,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,reena,ind,"born: jan 15, 1991",b.weight: 62.85,group: a,1: 82,2: -86,3: -86,total: 82,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,liu xia,mac,"born: jan 16, 1981",b.weight: 58.04,group: a,1: 40,2: 45,3: 50,total: 50,63kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,lin tzu-chi,tpe,"born: mar 19, 1988",b.weight: 60.85,group: a,1: 133,2: -141,3: ---,total: 133,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,jo pok hyang,prk,"born: nov 15, 1992",b.weight: 62.75,group: a,1: -133,2: 133,3: -141,total: 133,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,wu linying,chn,"born: aug 08, 1992",b.weight: 62.35,group: a,1: 122,2: -126,3: -126,total: 122,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,nguyen thi loi,vie,"born: feb 24, 1989",b.weight: 63.00,group: a,1: 110,2: 113,3: -116,total: 113,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,darmariani sinta,ina,"born: dec 22, 1986",b.weight: 62.20,group: a,1: 110,2: -116,3: -116,total: 110,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,reena,ind,"born: jan 15, 1991",b.weight: 62.85,group: a,1: 100,2: 104,3: -107,total: 104,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,liu xia,mac,"born: jan 16, 1981",b.weight: 58.04,group: a,1: 50,2: 55,3: 60,total: 60,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,goricheva karina,kaz,"born: apr 08, 1993",b.weight: 62.85,group: a,1: -122,2: -122,3: -122,total: ---,63kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,lin tzu-chi,tpe,"born: mar 19, 1988",b.weight: 60.85,group: a,snatch: 110,ci&jerk: 133,total: 243,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,jo pok hyang,prk,"born: nov 15, 1992",b.weight: 62.75,group: a,snatch: 103,ci&jerk: 133,total: 236,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,wu linying,chn,"born: aug 08, 1992",b.weight: 62.35,group: a,snatch: 100,ci&jerk: 122,total: 222,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,nguyen thi loi,vie,"born: feb 24, 1989",b.weight: 63.00,group: a,snatch: 90,ci&jerk: 113,total: 203,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,darmariani sinta,ina,"born: dec 22, 1986",b.weight: 62.20,group: a,snatch: 88,ci&jerk: 110,total: 198,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 6,reena,ind,"born: jan 15, 1991",b.weight: 62.85,group: a,snatch: 82,ci&jerk: 104,total: 186,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 7,liu xia,mac,"born: jan 16, 1981",b.weight: 58.04,group: a,snatch: 50,ci&jerk: 60,total: 110,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: ---,goricheva karina,kaz,"born: apr 08, 1993",b.weight: 62.85,group: a,snatch: 104,ci&jerk: ---,total: ---,,63kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,ryo un hui,prk,"born: aug 09, 1994",b.weight: 68.50,group: a,1: 113,2: 116,3: 118,total: 118,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,rim jong sim,prk,"born: feb 05, 1993",b.weight: 68.75,group: a,1: -112,2: 112,3: -114,total: 112,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,hung wan-ting,tpe,"born: jun 21, 1990",b.weight: 68.55,group: a,1: 98,2: 101,3: -103,total: 101,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,yu ying,chn,"born: jan 04, 1990",b.weight: 68.55,group: a,1: -100,2: 100,3: -102,total: 100,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,nauryzova gulnaz,kaz,"born: jul 04, 1987",b.weight: 67.35,group: a,1: 90,2: 95,3: 98,total: 98,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,suwannaratana wiriya,tha,"born: feb 25, 1992",b.weight: 67.65,group: a,1: -91,2: 91,3: 96,total: 96,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,tham le thi,vie,"born: feb 04, 1992",b.weight: 67.45,group: a,1: 85,2: -90,3: -90,total: 85,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,ozaki miyaka,jpn,"born: may 31, 1991",b.weight: 65.75,group: a,1: 80,2: -85,3: -85,total: 80,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 9,karanam krishna kumari,ind,"born: may 12, 1976",b.weight: 68.25,group: a,1: 75,2: -80,3: 80,total: 80,69kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,ryo un hui,prk,"born: aug 09, 1994",b.weight: 68.50,group: a,1: 142,2: 145,3: -146,total: 145,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,rim jong sim,prk,"born: feb 05, 1993",b.weight: 68.75,group: a,1: 143,2: -146,3: -146,total: 143,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,yu ying,chn,"born: jan 04, 1990",b.weight: 68.55,group: a,1: -125,2: 125,3: 128,total: 128,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,hung wan-ting,tpe,"born: jun 21, 1990",b.weight: 68.55,group: a,1: -125,2: 125,3: -128,total: 125,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,tham le thi,vie,"born: feb 04, 1992",b.weight: 67.45,group: a,1: 115,2: 120,3: 122,total: 122,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,nauryzova gulnaz,kaz,"born: jul 04, 1987",b.weight: 67.35,group: a,1: 110,2: 115,3: 120,total: 120,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,ozaki miyaka,jpn,"born: may 31, 1991",b.weight: 65.75,group: a,1: 108,2: 112,3: -115,total: 112,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,suwannaratana wiriya,tha,"born: feb 25, 1992",b.weight: 67.65,group: a,1: 111,2: -116,3: ---,total: 111,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 9,karanam krishna kumari,ind,"born: may 12, 1976",b.weight: 68.25,group: a,1: -100,2: 100,3: -103,total: 100,69kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,ryo un hui,prk,"born: aug 09, 1994",b.weight: 68.50,group: a,snatch: 118,ci&jerk: 145,total: 263,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,rim jong sim,prk,"born: feb 05, 1993",b.weight: 68.75,group: a,snatch: 112,ci&jerk: 143,total: 255,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,yu ying,chn,"born: jan 04, 1990",b.weight: 68.55,group: a,snatch: 100,ci&jerk: 128,total: 228,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,hung wan-ting,tpe,"born: jun 21, 1990",b.weight: 68.55,group: a,snatch: 101,ci&jerk: 125,total: 226,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,nauryzova gulnaz,kaz,"born: jul 04, 1987",b.weight: 67.35,group: a,snatch: 98,ci&jerk: 120,total: 218,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 6,tham le thi,vie,"born: feb 04, 1992",b.weight: 67.45,group: a,snatch: 85,ci&jerk: 122,total: 207,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 7,suwannaratana wiriya,tha,"born: feb 25, 1992",b.weight: 67.65,group: a,snatch: 96,ci&jerk: 111,total: 207,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 8,ozaki miyaka,jpn,"born: may 31, 1991",b.weight: 65.75,group: a,snatch: 80,ci&jerk: 112,total: 192,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 9,karanam krishna kumari,ind,"born: may 12, 1976",b.weight: 68.25,group: a,snatch: 80,ci&jerk: 100,total: 180,,69kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,nurmukhambetova anna,kaz,"born: jul 28, 1993",b.weight: 74.95,group: a,1: 110,2: 114,3: ---,total: 114,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,lai hsiang-ting,tpe,"born: oct 07, 1990",b.weight: 74.45,group: a,1: 96,2: 102,3: 105,total: 105,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,lin tingting,chn,"born: may 10, 1991",b.weight: 74.25,group: a,1: 99,2: 103,3: 104,total: 104,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,wang ya-jhen,tpe,"born: nov 11, 1987",b.weight: 71.95,group: a,1: 90,2: 96,3: 103,total: 103,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,shvabauer anastassiya,kaz,"born: dec 08, 1993",b.weight: 72.30,group: a,1: 93,2: 98,3: -102,total: 98,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 6,zhang shaoling,mac,"born: nov 04, 1984",b.weight: 74.20,group: a,1: 85,2: -90,3: 90,total: 90,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 7,nakamura rina,jpn,"born: dec 25, 1990",b.weight: 74.75,group: a,1: 85,2: 88,3: -91,total: 88,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 8,panwar sushila,ind,"born: dec 01, 1993",b.weight: 70.65,group: a,1: 83,2: 86,3: -88,total: 86,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,park huijin,kor,"born: jun 09, 1993",b.weight: 74.20,group: a,1: -94,2: -94,3: -94,total: ---,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,kim un ju,prk,"born: nov 11, 1989",b.weight: 74.60,group: a,1: -113,2: -113,3: -113,total: ---,75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,nurmukhambetova anna,kaz,"born: jul 28, 1993",b.weight: 74.95,group: a,1: 130,2: 135,3: -137,total: 135,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,wang ya-jhen,tpe,"born: nov 11, 1987",b.weight: 71.95,group: a,1: 122,2: 127,3: 128,total: 128,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,lin tingting,chn,"born: may 10, 1991",b.weight: 74.25,group: a,1: 121,2: 126,3: 127,total: 127,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,lai hsiang-ting,tpe,"born: oct 07, 1990",b.weight: 74.45,group: a,1: -126,2: -126,3: 126,total: 126,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,park huijin,kor,"born: jun 09, 1993",b.weight: 74.20,group: a,1: 115,2: 121,3: -126,total: 121,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,shvabauer anastassiya,kaz,"born: dec 08, 1993",b.weight: 72.30,group: a,1: -120,2: 120,3: -128,total: 120,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 7,zhang shaoling,mac,"born: nov 04, 1984",b.weight: 74.20,group: a,1: 100,2: 105,3: 110,total: 110,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 8,nakamura rina,jpn,"born: dec 25, 1990",b.weight: 74.75,group: a,1: 110,2: -113,3: -113,total: 110,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 9,panwar sushila,ind,"born: dec 01, 1993",b.weight: 70.65,group: a,1: 95,2: -99,3: 99,total: 99,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: ---,kim un ju,prk,"born: nov 11, 1989",b.weight: 74.60,group: a,1: -152,2: -152,3: -152,total: ---,75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,nurmukhambetova anna,kaz,"born: jul 28, 1993",b.weight: 74.95,group: a,snatch: 114,ci&jerk: 135,total: 249,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,wang ya-jhen,tpe,"born: nov 11, 1987",b.weight: 71.95,group: a,snatch: 103,ci&jerk: 128,total: 231,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,lin tingting,chn,"born: may 10, 1991",b.weight: 74.25,group: a,snatch: 104,ci&jerk: 127,total: 231,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,lai hsiang-ting,tpe,"born: oct 07, 1990",b.weight: 74.45,group: a,snatch: 105,ci&jerk: 126,total: 231,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,shvabauer anastassiya,kaz,"born: dec 08, 1993",b.weight: 72.30,group: a,snatch: 98,ci&jerk: 120,total: 218,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 6,zhang shaoling,mac,"born: nov 04, 1984",b.weight: 74.20,group: a,snatch: 90,ci&jerk: 110,total: 200,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 7,nakamura rina,jpn,"born: dec 25, 1990",b.weight: 74.75,group: a,snatch: 88,ci&jerk: 110,total: 198,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 8,panwar sushila,ind,"born: dec 01, 1993",b.weight: 70.65,group: a,snatch: 86,ci&jerk: 99,total: 185,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: ---,park huijin,kor,"born: jun 09, 1993",b.weight: 74.20,group: a,snatch: ---,ci&jerk: 121,total: ---,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: ---,kim un ju,prk,"born: nov 11, 1989",b.weight: 74.60,group: a,snatch: ---,ci&jerk: ---,total: ---,,75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 1,nguyen thi kim van,vie,"born: aug 05, 1988",b.weight: 102.65,group: a,1: 103,2: -106,3: 106,total: 106,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 2,yao chi-ling,tpe,"born: mar 31, 1993",b.weight: 81.75,group: a,1: 100,2: 105,3: -107,total: 105,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 3,khenjantuek praeonapa,tha,"born: jul 30, 1992",b.weight: 115.30,group: a,1: 101,2: -106,3: -106,total: 101,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 4,liu yun-chien,tpe,"born: oct 22, 1988",b.weight: 96.45,group: a,1: -95,2: 95,3: -101,total: 95,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 5,manpreet kaur,ind,"born: sep 15, 1989",b.weight: 91.00,group: a,1: 83,2: 86,3: 88,total: 88,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: ---,amanpreet kaur,ind,"born: apr 17, 1988",b.weight: 90.20,group: a,1: -77,2: -77,3: -77,total: ---,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: dsq,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 102.80,group: a,1: 105,2: 110,3: -115,total: ---,+75kgwomen,snatch,ASIAN CHAMPIONSHIPS
+rank: 1,liu yun-chien,tpe,"born: oct 22, 1988",b.weight: 96.45,group: a,1: 135,2: 140,3: 142,total: 142,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 2,khenjantuek praeonapa,tha,"born: jul 30, 1992",b.weight: 115.30,group: a,1: 134,2: 137,3: 141,total: 141,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 3,nguyen thi kim van,vie,"born: aug 05, 1988",b.weight: 102.65,group: a,1: -133,2: 133,3: 136,total: 136,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 4,yao chi-ling,tpe,"born: mar 31, 1993",b.weight: 81.75,group: a,1: 128,2: 134,3: -137,total: 134,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 5,manpreet kaur,ind,"born: sep 15, 1989",b.weight: 91.00,group: a,1: 102,2: 107,3: -111,total: 107,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 6,amanpreet kaur,ind,"born: apr 17, 1988",b.weight: 90.20,group: a,1: 90,2: 95,3: 100,total: 100,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: dsq,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 102.80,group: a,1: 140,2: 143,3: ---,total: ---,+75kgwomen,cleanjerk,ASIAN CHAMPIONSHIPS
+rank: 1,nguyen thi kim van,vie,"born: aug 05, 1988",b.weight: 102.65,group: a,snatch: 106,ci&jerk: 136,total: 242,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 2,khenjantuek praeonapa,tha,"born: jul 30, 1992",b.weight: 115.30,group: a,snatch: 101,ci&jerk: 141,total: 242,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 3,yao chi-ling,tpe,"born: mar 31, 1993",b.weight: 81.75,group: a,snatch: 105,ci&jerk: 134,total: 239,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 4,liu yun-chien,tpe,"born: oct 22, 1988",b.weight: 96.45,group: a,snatch: 95,ci&jerk: 142,total: 237,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: 5,manpreet kaur,ind,"born: sep 15, 1989",b.weight: 91.00,group: a,snatch: 88,ci&jerk: 107,total: 195,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: ---,amanpreet kaur,ind,"born: apr 17, 1988",b.weight: 90.20,group: a,snatch: ---,ci&jerk: 100,total: ---,,+75kgwomen,total,ASIAN CHAMPIONSHIPS
+rank: dsq,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 102.80,group: a,snatch: ---,ci&jerk: ---,total: ---,,+75kgwomen,total,ASIAN CHAMPIONSHIPS

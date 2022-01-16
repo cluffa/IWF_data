@@ -1,0 +1,556 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+rank: 1,zalipskyi pavlo,ukr,"born: jul 13, 1998",b.weight: 56.00,group: a,1: 106,2: 110,3: 112,total: 112,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lungu daniel,mda,"born: oct 16, 1998",b.weight: 55.80,group: a,1: 102,2: 106,3: 110,total: 110,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,luca marian-cristian,rou,"born: feb 16, 1999",b.weight: 55.95,group: a,1: 103,2: 107,3: -111,total: 107,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,massidda sergio,ita,"born: jan 26, 2002",b.weight: 55.70,group: a,1: 105,2: -110,3: -111,total: 105,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,dzhafarov ravil,rus,"born: aug 27, 1999",b.weight: 55.95,group: a,1: 97,2: -101,3: 101,total: 101,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,iancu valentin-ionadi,rou,"born: jan 16, 2000",b.weight: 55.90,group: a,1: 95,2: 100,3: -103,total: 100,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,mnatsakanyan hamlet,arm,"born: jul 05, 1998",b.weight: 55.95,group: a,1: 95,2: 100,3: -104,total: 100,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,veliji mihnet,kos,"born: aug 22, 2001",b.weight: 53.70,group: a,1: 45,2: -47,3: 47,total: 47,56kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,massidda sergio,ita,"born: jan 26, 2002",b.weight: 55.70,group: a,1: 129,2: 133,3: -136,total: 133,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,iancu valentin-ionadi,rou,"born: jan 16, 2000",b.weight: 55.90,group: a,1: 125,2: 130,3: -133,total: 130,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,luca marian-cristian,rou,"born: feb 16, 1999",b.weight: 55.95,group: a,1: 126,2: 130,3: -134,total: 130,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,lungu daniel,mda,"born: oct 16, 1998",b.weight: 55.80,group: a,1: 122,2: 126,3: 130,total: 130,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,mnatsakanyan hamlet,arm,"born: jul 05, 1998",b.weight: 55.95,group: a,1: -130,2: -130,3: 130,total: 130,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,zalipskyi pavlo,ukr,"born: jul 13, 1998",b.weight: 56.00,group: a,1: 125,2: 128,3: -131,total: 128,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,dzhafarov ravil,rus,"born: aug 27, 1999",b.weight: 55.95,group: a,1: 118,2: 123,3: -131,total: 123,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,veliji mihnet,kos,"born: aug 22, 2001",b.weight: 53.70,group: a,1: 57,2: -60,3: -60,total: 57,56kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,zalipskyi pavlo,ukr,"born: jul 13, 1998",b.weight: 56.00,group: a,snatch: 112,ci&jerk: 128,total: 240,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lungu daniel,mda,"born: oct 16, 1998",b.weight: 55.80,group: a,snatch: 110,ci&jerk: 130,total: 240,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,massidda sergio,ita,"born: jan 26, 2002",b.weight: 55.70,group: a,snatch: 105,ci&jerk: 133,total: 238,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,luca marian-cristian,rou,"born: feb 16, 1999",b.weight: 55.95,group: a,snatch: 107,ci&jerk: 130,total: 237,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,iancu valentin-ionadi,rou,"born: jan 16, 2000",b.weight: 55.90,group: a,snatch: 100,ci&jerk: 130,total: 230,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mnatsakanyan hamlet,arm,"born: jul 05, 1998",b.weight: 55.95,group: a,snatch: 100,ci&jerk: 130,total: 230,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,dzhafarov ravil,rus,"born: aug 27, 1999",b.weight: 55.95,group: a,snatch: 101,ci&jerk: 123,total: 224,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,veliji mihnet,kos,"born: aug 22, 2001",b.weight: 53.70,group: a,snatch: 47,ci&jerk: 57,total: 104,,56kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,garaev zulfat,rus,"born: jan 12, 2000",b.weight: 61.15,group: a,1: 124,2: 129,3: 134,total: 134,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,laptseu henadz,blr,"born: dec 15, 1998",b.weight: 61.95,group: a,1: 125,2: 130,3: -135,total: 130,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gungor isa,tur,"born: sep 13, 1998",b.weight: 61.90,group: a,1: 117,2: -120,3: 120,total: 120,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ruiu davide,ita,"born: jun 22, 2001",b.weight: 61.35,group: a,1: 115,2: 118,3: -120,total: 118,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kara ramazan,tur,"born: jun 19, 1999",b.weight: 61.80,group: a,1: 110,2: 114,3: 117,total: 117,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,sukhotskyi dmytro,ukr,"born: may 24, 1999",b.weight: 61.65,group: a,1: 115,2: -119,3: -120,total: 115,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,gasimov rustam,aze,"born: jan 29, 2002",b.weight: 61.60,group: a,1: -114,2: -114,3: 114,total: 114,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,pedrak benjamin ludovic matthieu,fra,"born: nov 25, 1998",b.weight: 61.90,group: a,1: -112,2: -112,3: 112,total: 112,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,vladisavljev stevan,srb,"born: jul 04, 1999",b.weight: 60.85,group: a,1: 105,2: -110,3: 110,total: 110,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,florea robert-george,rou,"born: jun 26, 2002",b.weight: 61.80,group: a,1: 103,2: 108,3: -111,total: 108,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,musteata mihail,mda,"born: may 26, 2002",b.weight: 61.55,group: a,1: -100,2: 100,3: 106,total: 106,62kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,laptseu henadz,blr,"born: dec 15, 1998",b.weight: 61.95,group: a,1: 147,2: 153,3: 161,total: 161,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,garaev zulfat,rus,"born: jan 12, 2000",b.weight: 61.15,group: a,1: 146,2: 152,3: 156,total: 156,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,sukhotskyi dmytro,ukr,"born: may 24, 1999",b.weight: 61.65,group: a,1: 140,2: 145,3: 150,total: 150,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,kara ramazan,tur,"born: jun 19, 1999",b.weight: 61.80,group: a,1: 145,2: 148,3: 150,total: 150,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ruiu davide,ita,"born: jun 22, 2001",b.weight: 61.35,group: a,1: 145,2: -147,3: 148,total: 148,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,pedrak benjamin ludovic matthieu,fra,"born: nov 25, 1998",b.weight: 61.90,group: a,1: 135,2: 140,3: 146,total: 146,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,gungor isa,tur,"born: sep 13, 1998",b.weight: 61.90,group: a,1: 135,2: 140,3: -145,total: 140,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,gasimov rustam,aze,"born: jan 29, 2002",b.weight: 61.60,group: a,1: 138,2: -143,3: -143,total: 138,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,vladisavljev stevan,srb,"born: jul 04, 1999",b.weight: 60.85,group: a,1: 130,2: 135,3: 138,total: 138,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,musteata mihail,mda,"born: may 26, 2002",b.weight: 61.55,group: a,1: 115,2: 120,3: 125,total: 125,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,florea robert-george,rou,"born: jun 26, 2002",b.weight: 61.80,group: a,1: -143,2: -143,3: -146,total: ---,62kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,laptseu henadz,blr,"born: dec 15, 1998",b.weight: 61.95,group: a,snatch: 130,ci&jerk: 161,total: 291,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,garaev zulfat,rus,"born: jan 12, 2000",b.weight: 61.15,group: a,snatch: 134,ci&jerk: 156,total: 290,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kara ramazan,tur,"born: jun 19, 1999",b.weight: 61.80,group: a,snatch: 117,ci&jerk: 150,total: 267,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ruiu davide,ita,"born: jun 22, 2001",b.weight: 61.35,group: a,snatch: 118,ci&jerk: 148,total: 266,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,sukhotskyi dmytro,ukr,"born: may 24, 1999",b.weight: 61.65,group: a,snatch: 115,ci&jerk: 150,total: 265,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gungor isa,tur,"born: sep 13, 1998",b.weight: 61.90,group: a,snatch: 120,ci&jerk: 140,total: 260,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,pedrak benjamin ludovic matthieu,fra,"born: nov 25, 1998",b.weight: 61.90,group: a,snatch: 112,ci&jerk: 146,total: 258,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,gasimov rustam,aze,"born: jan 29, 2002",b.weight: 61.60,group: a,snatch: 114,ci&jerk: 138,total: 252,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,vladisavljev stevan,srb,"born: jul 04, 1999",b.weight: 60.85,group: a,snatch: 110,ci&jerk: 138,total: 248,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,musteata mihail,mda,"born: may 26, 2002",b.weight: 61.55,group: a,snatch: 106,ci&jerk: 125,total: 231,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,florea robert-george,rou,"born: jun 26, 2002",b.weight: 61.80,group: a,snatch: 108,ci&jerk: ---,total: ---,,62kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,ilhan ramazan,tur,"born: dec 20, 1998",b.weight: 68.60,group: a,1: 136,2: -138,3: 139,total: 139,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,zharnouski ilya,blr,"born: aug 21, 2000",b.weight: 68.80,group: a,1: 134,2: -138,3: 138,total: 138,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,grigoryan armen,arm,"born: apr 15, 2000",b.weight: 68.70,group: a,1: -130,2: 130,3: 136,total: 136,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,robu marin,mda,"born: mar 19, 2000",b.weight: 68.75,group: a,1: -135,2: 135,3: -140,total: 135,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kaskulov aslan,rus,"born: dec 16, 1998",b.weight: 68.90,group: a,1: 125,2: 131,3: 135,total: 135,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,dumitrascu paul,rou,"born: jan 31, 2000",b.weight: 68.70,group: a,1: 128,2: 132,3: -135,total: 132,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kudlaszyk piotr mateusz,pol,"born: may 29, 1999",b.weight: 68.90,group: a,1: 128,2: 131,3: -133,total: 131,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,genchev valentin,bul,"born: apr 03, 2000",b.weight: 69.00,group: a,1: 120,2: 124,3: 126,total: 126,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,huber moritz,ger,"born: jun 14, 1998",b.weight: 68.70,group: a,1: 115,2: 120,3: 123,total: 123,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,grishyn taras,ukr,"born: mar 14, 1998",b.weight: 68.30,group: a,1: -122,2: -122,3: 122,total: 122,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,griscenko artjoms,lat,"born: apr 03, 2001",b.weight: 68.50,group: a,1: 115,2: 120,3: -124,total: 120,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,prijic korino,cro,"born: feb 20, 2002",b.weight: 67.25,group: a,1: 95,2: 100,3: 103,total: 103,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,kulas filip,bih,"born: aug 04, 1998",b.weight: 67.45,group: a,1: 80,2: 85,3: -88,total: 85,69kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,dumitrascu paul,rou,"born: jan 31, 2000",b.weight: 68.70,group: a,1: 170,2: -175,3: ---,total: 170,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kudlaszyk piotr mateusz,pol,"born: may 29, 1999",b.weight: 68.90,group: a,1: 158,2: 162,3: 166,total: 166,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,grigoryan armen,arm,"born: apr 15, 2000",b.weight: 68.70,group: a,1: -159,2: 160,3: 165,total: 165,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,zharnouski ilya,blr,"born: aug 21, 2000",b.weight: 68.80,group: a,1: 154,2: 158,3: 161,total: 161,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ilhan ramazan,tur,"born: dec 20, 1998",b.weight: 68.60,group: a,1: 155,2: 159,3: 161,total: 161,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,grishyn taras,ukr,"born: mar 14, 1998",b.weight: 68.30,group: a,1: 153,2: 159,3: -165,total: 159,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,robu marin,mda,"born: mar 19, 2000",b.weight: 68.75,group: a,1: -157,2: 157,3: -165,total: 157,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,kaskulov aslan,rus,"born: dec 16, 1998",b.weight: 68.90,group: a,1: 151,2: 156,3: -162,total: 156,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,genchev valentin,bul,"born: apr 03, 2000",b.weight: 69.00,group: a,1: 150,2: 155,3: -160,total: 155,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,huber moritz,ger,"born: jun 14, 1998",b.weight: 68.70,group: a,1: 140,2: 145,3: 150,total: 150,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,griscenko artjoms,lat,"born: apr 03, 2001",b.weight: 68.50,group: a,1: 145,2: -148,3: -148,total: 145,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,prijic korino,cro,"born: feb 20, 2002",b.weight: 67.25,group: a,1: 120,2: -125,3: -127,total: 120,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,kulas filip,bih,"born: aug 04, 1998",b.weight: 67.45,group: a,1: -100,2: 101,3: 104,total: 104,69kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,dumitrascu paul,rou,"born: jan 31, 2000",b.weight: 68.70,group: a,snatch: 132,ci&jerk: 170,total: 302,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,grigoryan armen,arm,"born: apr 15, 2000",b.weight: 68.70,group: a,snatch: 136,ci&jerk: 165,total: 301,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,ilhan ramazan,tur,"born: dec 20, 1998",b.weight: 68.60,group: a,snatch: 139,ci&jerk: 161,total: 300,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,zharnouski ilya,blr,"born: aug 21, 2000",b.weight: 68.80,group: a,snatch: 138,ci&jerk: 161,total: 299,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kudlaszyk piotr mateusz,pol,"born: may 29, 1999",b.weight: 68.90,group: a,snatch: 131,ci&jerk: 166,total: 297,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,robu marin,mda,"born: mar 19, 2000",b.weight: 68.75,group: a,snatch: 135,ci&jerk: 157,total: 292,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaskulov aslan,rus,"born: dec 16, 1998",b.weight: 68.90,group: a,snatch: 135,ci&jerk: 156,total: 291,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,genchev valentin,bul,"born: apr 03, 2000",b.weight: 69.00,group: a,snatch: 126,ci&jerk: 155,total: 281,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,grishyn taras,ukr,"born: mar 14, 1998",b.weight: 68.30,group: a,snatch: 122,ci&jerk: 159,total: 281,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,huber moritz,ger,"born: jun 14, 1998",b.weight: 68.70,group: a,snatch: 123,ci&jerk: 150,total: 273,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,griscenko artjoms,lat,"born: apr 03, 2001",b.weight: 68.50,group: a,snatch: 120,ci&jerk: 145,total: 265,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,prijic korino,cro,"born: feb 20, 2002",b.weight: 67.25,group: a,snatch: 103,ci&jerk: 120,total: 223,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,kulas filip,bih,"born: aug 04, 1998",b.weight: 67.45,group: a,snatch: 85,ci&jerk: 104,total: 189,,69kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,harutyunyan rafik,arm,"born: may 17, 2000",b.weight: 76.85,group: a,1: 142,2: 146,3: -150,total: 146,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lozka ihar,blr,"born: dec 02, 1999",b.weight: 76.85,group: a,1: 140,2: 143,3: 145,total: 145,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,korneluk przemyslaw,pol,"born: jun 22, 1998",b.weight: 76.95,group: a,1: 135,2: 140,3: 142,total: 142,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,mytrofanov vitalii,ukr,"born: dec 07, 1998",b.weight: 76.75,group: a,1: -137,2: 137,3: 141,total: 141,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,asghanyan ara,arm,"born: may 25, 2000",b.weight: 76.40,group: a,1: 135,2: 140,3: -143,total: 140,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,vasilonoks arturs,lat,"born: apr 16, 1998",b.weight: 76.50,group: a,1: 133,2: 137,3: 140,total: 140,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,alam omed,den,"born: may 20, 1999",b.weight: 76.95,group: a,1: 135,2: 139,3: -142,total: 139,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,suliani fabio,ita,"born: jan 24, 1999",b.weight: 72.55,group: a,1: 135,2: 138,3: -142,total: 138,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,yuksel batu han,tur,"born: oct 04, 1999",b.weight: 76.20,group: a,1: 128,2: 134,3: 137,total: 137,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,patarashvili gigi,geo,"born: jun 16, 1998",b.weight: 76.35,group: a,1: 128,2: 132,3: 136,total: 136,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,beben patryk sylwester,pol,"born: mar 18, 2000",b.weight: 76.85,group: a,1: 135,2: -140,3: -140,total: 135,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,murray christopher john,gbr,"born: feb 05, 1999",b.weight: 75.10,group: a,1: 130,2: 134,3: -137,total: 134,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,skapec vladimir,svk,"born: sep 27, 2000",b.weight: 76.15,group: a,1: 120,2: 125,3: 130,total: 130,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,epton jason paul,gbr,"born: jul 03, 2000",b.weight: 77.00,group: a,1: -124,2: -124,3: 124,total: 124,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,narcisi roel,ita,"born: nov 20, 2000",b.weight: 76.40,group: a,1: 118,2: -122,3: 122,total: 122,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,sircelj david,slo,"born: jul 29, 1998",b.weight: 76.75,group: a,1: 103,2: 107,3: 111,total: 111,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 17,kaikkonen samuel juho aleksi,fin,"born: nov 24, 1998",b.weight: 76.50,group: a,1: -105,2: -105,3: 105,total: 105,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 18,fetaovski bleron,kos,"born: jun 02, 2001",b.weight: 75.85,group: a,1: 82,2: -86,3: -88,total: 82,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 19,cakaj drin,kos,"born: apr 11, 2002",b.weight: 72.80,group: a,1: 70,2: -74,3: 74,total: 74,77kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,lozka ihar,blr,"born: dec 02, 1999",b.weight: 76.85,group: a,1: 175,2: 179,3: 182,total: 182,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,harutyunyan rafik,arm,"born: may 17, 2000",b.weight: 76.85,group: a,1: 176,2: 180,3: -183,total: 180,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,korneluk przemyslaw,pol,"born: jun 22, 1998",b.weight: 76.95,group: a,1: 170,2: -174,3: 174,total: 174,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,mytrofanov vitalii,ukr,"born: dec 07, 1998",b.weight: 76.75,group: a,1: 165,2: 170,3: -174,total: 170,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,alam omed,den,"born: may 20, 1999",b.weight: 76.95,group: a,1: 166,2: -171,3: -174,total: 166,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,yuksel batu han,tur,"born: oct 04, 1999",b.weight: 76.20,group: a,1: 160,2: 164,3: -168,total: 164,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,murray christopher john,gbr,"born: feb 05, 1999",b.weight: 75.10,group: a,1: 160,2: 164,3: -168,total: 164,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,vasilonoks arturs,lat,"born: apr 16, 1998",b.weight: 76.50,group: a,1: 158,2: 163,3: -167,total: 163,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,patarashvili gigi,geo,"born: jun 16, 1998",b.weight: 76.35,group: a,1: 157,2: -163,3: 163,total: 163,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,narcisi roel,ita,"born: nov 20, 2000",b.weight: 76.40,group: a,1: -162,2: -162,3: 162,total: 162,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,suliani fabio,ita,"born: jan 24, 1999",b.weight: 72.55,group: a,1: 160,2: -167,3: -167,total: 160,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,epton jason paul,gbr,"born: jul 03, 2000",b.weight: 77.00,group: a,1: 150,2: 157,3: -161,total: 157,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,beben patryk sylwester,pol,"born: mar 18, 2000",b.weight: 76.85,group: a,1: 155,2: -160,3: -161,total: 155,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,skapec vladimir,svk,"born: sep 27, 2000",b.weight: 76.15,group: a,1: 145,2: 150,3: -153,total: 150,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,sircelj david,slo,"born: jul 29, 1998",b.weight: 76.75,group: a,1: 130,2: 136,3: -140,total: 136,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,kaikkonen samuel juho aleksi,fin,"born: nov 24, 1998",b.weight: 76.50,group: a,1: 125,2: -130,3: -132,total: 125,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 17,fetaovski bleron,kos,"born: jun 02, 2001",b.weight: 75.85,group: a,1: 95,2: 97,3: 102,total: 102,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 18,cakaj drin,kos,"born: apr 11, 2002",b.weight: 72.80,group: a,1: 92,2: 95,3: -100,total: 95,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,asghanyan ara,arm,"born: may 25, 2000",b.weight: 76.40,group: a,1: -169,2: -169,3: -169,total: ---,77kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,lozka ihar,blr,"born: dec 02, 1999",b.weight: 76.85,group: a,snatch: 145,ci&jerk: 182,total: 327,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,harutyunyan rafik,arm,"born: may 17, 2000",b.weight: 76.85,group: a,snatch: 146,ci&jerk: 180,total: 326,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,korneluk przemyslaw,pol,"born: jun 22, 1998",b.weight: 76.95,group: a,snatch: 142,ci&jerk: 174,total: 316,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,mytrofanov vitalii,ukr,"born: dec 07, 1998",b.weight: 76.75,group: a,snatch: 141,ci&jerk: 170,total: 311,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,alam omed,den,"born: may 20, 1999",b.weight: 76.95,group: a,snatch: 139,ci&jerk: 166,total: 305,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,vasilonoks arturs,lat,"born: apr 16, 1998",b.weight: 76.50,group: a,snatch: 140,ci&jerk: 163,total: 303,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,yuksel batu han,tur,"born: oct 04, 1999",b.weight: 76.20,group: a,snatch: 137,ci&jerk: 164,total: 301,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,patarashvili gigi,geo,"born: jun 16, 1998",b.weight: 76.35,group: a,snatch: 136,ci&jerk: 163,total: 299,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,suliani fabio,ita,"born: jan 24, 1999",b.weight: 72.55,group: a,snatch: 138,ci&jerk: 160,total: 298,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,murray christopher john,gbr,"born: feb 05, 1999",b.weight: 75.10,group: a,snatch: 134,ci&jerk: 164,total: 298,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,beben patryk sylwester,pol,"born: mar 18, 2000",b.weight: 76.85,group: a,snatch: 135,ci&jerk: 155,total: 290,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,narcisi roel,ita,"born: nov 20, 2000",b.weight: 76.40,group: a,snatch: 122,ci&jerk: 162,total: 284,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,epton jason paul,gbr,"born: jul 03, 2000",b.weight: 77.00,group: a,snatch: 124,ci&jerk: 157,total: 281,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,skapec vladimir,svk,"born: sep 27, 2000",b.weight: 76.15,group: a,snatch: 130,ci&jerk: 150,total: 280,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,sircelj david,slo,"born: jul 29, 1998",b.weight: 76.75,group: a,snatch: 111,ci&jerk: 136,total: 247,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,kaikkonen samuel juho aleksi,fin,"born: nov 24, 1998",b.weight: 76.50,group: a,snatch: 105,ci&jerk: 125,total: 230,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 17,fetaovski bleron,kos,"born: jun 02, 2001",b.weight: 75.85,group: a,snatch: 82,ci&jerk: 102,total: 184,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 18,cakaj drin,kos,"born: apr 11, 2002",b.weight: 72.80,group: a,snatch: 74,ci&jerk: 95,total: 169,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,asghanyan ara,arm,"born: may 25, 2000",b.weight: 76.40,group: a,snatch: 140,ci&jerk: ---,total: ---,,77kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,davitadze revaz,geo,"born: oct 16, 1998",b.weight: 84.85,group: a,1: 158,2: 163,3: 165,total: 165,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,suharevs ritvars,lat,"born: jan 11, 1999",b.weight: 84.35,group: a,1: 154,2: 159,3: 164,total: 164,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,adamus bartlomiej stefan,pol,"born: may 12, 2000",b.weight: 84.80,group: a,1: 151,2: 155,3: 158,total: 158,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,serdiukov anton,ukr,"born: mar 28, 1998",b.weight: 84.50,group: a,1: 148,2: 153,3: 156,total: 156,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ciobanu tudor,mda,"born: feb 27, 1999",b.weight: 84.70,group: a,1: 145,2: 150,3: 154,total: 154,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,shogenov alim,rus,"born: nov 17, 1999",b.weight: 82.95,group: a,1: 142,2: -146,3: 146,total: 146,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kakabadze nodari,geo,"born: may 26, 1999",b.weight: 84.40,group: a,1: 145,2: -150,3: -152,total: 145,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,mezinskis armands,lat,"born: sep 08, 2000",b.weight: 83.95,group: a,1: 139,2: -144,3: 144,total: 144,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,coskun ismet samed,tur,"born: jan 01, 2001",b.weight: 83.60,group: a,1: 135,2: 140,3: 142,total: 142,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,stsiaposhyn ilya,blr,"born: aug 27, 1998",b.weight: 84.85,group: a,1: 142,2: -147,3: -147,total: 142,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,yakut esref,tur,"born: jun 06, 2000",b.weight: 84.80,group: a,1: -140,2: -140,3: 140,total: 140,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,faretie sony xavier,fra,"born: jun 02, 2000",b.weight: 84.10,group: a,1: 125,2: 130,3: 133,total: 133,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,margulis bronislav,isr,"born: jul 26, 1998",b.weight: 84.00,group: a,1: 121,2: 126,3: 129,total: 129,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,nadeem murtaza,gbr,"born: mar 07, 2000",b.weight: 81.00,group: a,1: 115,2: -121,3: 121,total: 121,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,postek matej,svk,"born: feb 22, 1998",b.weight: 82.15,group: a,1: 115,2: 120,3: -123,total: 120,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,plosnic josip danijel,cro,"born: apr 28, 1998",b.weight: 83.45,group: a,1: 95,2: 101,3: 105,total: 105,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,ficco cristiano giuseppe,ita,"born: apr 05, 2001",b.weight: 83.85,group: a,1: -145,2: -145,3: -145,total: ---,85kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,suharevs ritvars,lat,"born: jan 11, 1999",b.weight: 84.35,group: a,1: 186,2: 192,3: 196,total: 196,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,davitadze revaz,geo,"born: oct 16, 1998",b.weight: 84.85,group: a,1: 186,2: 192,3: 196,total: 196,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,adamus bartlomiej stefan,pol,"born: may 12, 2000",b.weight: 84.80,group: a,1: -185,2: 186,3: -192,total: 186,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ciobanu tudor,mda,"born: feb 27, 1999",b.weight: 84.70,group: a,1: 184,2: -191,3: -192,total: 184,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,mezinskis armands,lat,"born: sep 08, 2000",b.weight: 83.95,group: a,1: 174,2: 179,3: 184,total: 184,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kakabadze nodari,geo,"born: may 26, 1999",b.weight: 84.40,group: a,1: 175,2: 182,3: -187,total: 182,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,stsiaposhyn ilya,blr,"born: aug 27, 1998",b.weight: 84.85,group: a,1: 173,2: 179,3: -182,total: 179,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,serdiukov anton,ukr,"born: mar 28, 1998",b.weight: 84.50,group: a,1: 178,2: ---,3: ---,total: 178,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,shogenov alim,rus,"born: nov 17, 1999",b.weight: 82.95,group: a,1: 170,2: 177,3: -182,total: 177,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,coskun ismet samed,tur,"born: jan 01, 2001",b.weight: 83.60,group: a,1: 164,2: 170,3: -173,total: 170,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,yakut esref,tur,"born: jun 06, 2000",b.weight: 84.80,group: a,1: -170,2: 170,3: -174,total: 170,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,faretie sony xavier,fra,"born: jun 02, 2000",b.weight: 84.10,group: a,1: 158,2: 162,3: 167,total: 167,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,margulis bronislav,isr,"born: jul 26, 1998",b.weight: 84.00,group: a,1: 153,2: 159,3: -163,total: 159,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,nadeem murtaza,gbr,"born: mar 07, 2000",b.weight: 81.00,group: a,1: 139,2: 145,3: 151,total: 151,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,postek matej,svk,"born: feb 22, 1998",b.weight: 82.15,group: a,1: 145,2: 150,3: -153,total: 150,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,plosnic josip danijel,cro,"born: apr 28, 1998",b.weight: 83.45,group: a,1: 120,2: 125,3: 130,total: 130,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,ficco cristiano giuseppe,ita,"born: apr 05, 2001",b.weight: 83.85,group: a,1: ---,2: ---,3: ---,total: ---,85kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,davitadze revaz,geo,"born: oct 16, 1998",b.weight: 84.85,group: a,snatch: 165,ci&jerk: 196,total: 361,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,suharevs ritvars,lat,"born: jan 11, 1999",b.weight: 84.35,group: a,snatch: 164,ci&jerk: 196,total: 360,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,adamus bartlomiej stefan,pol,"born: may 12, 2000",b.weight: 84.80,group: a,snatch: 158,ci&jerk: 186,total: 344,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ciobanu tudor,mda,"born: feb 27, 1999",b.weight: 84.70,group: a,snatch: 154,ci&jerk: 184,total: 338,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,serdiukov anton,ukr,"born: mar 28, 1998",b.weight: 84.50,group: a,snatch: 156,ci&jerk: 178,total: 334,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mezinskis armands,lat,"born: sep 08, 2000",b.weight: 83.95,group: a,snatch: 144,ci&jerk: 184,total: 328,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kakabadze nodari,geo,"born: may 26, 1999",b.weight: 84.40,group: a,snatch: 145,ci&jerk: 182,total: 327,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,shogenov alim,rus,"born: nov 17, 1999",b.weight: 82.95,group: a,snatch: 146,ci&jerk: 177,total: 323,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,stsiaposhyn ilya,blr,"born: aug 27, 1998",b.weight: 84.85,group: a,snatch: 142,ci&jerk: 179,total: 321,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,coskun ismet samed,tur,"born: jan 01, 2001",b.weight: 83.60,group: a,snatch: 142,ci&jerk: 170,total: 312,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,yakut esref,tur,"born: jun 06, 2000",b.weight: 84.80,group: a,snatch: 140,ci&jerk: 170,total: 310,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,faretie sony xavier,fra,"born: jun 02, 2000",b.weight: 84.10,group: a,snatch: 133,ci&jerk: 167,total: 300,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,margulis bronislav,isr,"born: jul 26, 1998",b.weight: 84.00,group: a,snatch: 129,ci&jerk: 159,total: 288,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,nadeem murtaza,gbr,"born: mar 07, 2000",b.weight: 81.00,group: a,snatch: 121,ci&jerk: 151,total: 272,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 15,postek matej,svk,"born: feb 22, 1998",b.weight: 82.15,group: a,snatch: 120,ci&jerk: 150,total: 270,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 16,plosnic josip danijel,cro,"born: apr 28, 1998",b.weight: 83.45,group: a,snatch: 105,ci&jerk: 130,total: 235,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,ficco cristiano giuseppe,ita,"born: apr 05, 2001",b.weight: 83.85,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,tsikhantsou yauheni,blr,"born: nov 04, 1998",b.weight: 93.55,group: a,1: 170,2: 178,3: ---,total: 178,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,pyrohov kyryl,ukr,"born: may 24, 1998",b.weight: 93.80,group: a,1: 160,2: 165,3: 168,total: 168,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,babakyan samvel,arm,"born: dec 08, 1998",b.weight: 92.75,group: a,1: 155,2: 160,3: 165,total: 165,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,avagyan karen,arm,"born: may 12, 1999",b.weight: 89.90,group: a,1: 158,2: 161,3: 165,total: 165,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,szmeja pawel,pol,"born: mar 22, 1999",b.weight: 93.65,group: a,1: 152,2: 156,3: 159,total: 159,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,pushmin artem,rus,"born: jun 30, 1999",b.weight: 93.90,group: a,1: 146,2: -151,3: 151,total: 151,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,yantsevych yevhenii,ukr,"born: sep 26, 2000",b.weight: 92.30,group: a,1: 148,2: -151,3: -152,total: 148,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,curcuruto matteo,ita,"born: aug 17, 1998",b.weight: 93.65,group: a,1: 148,2: -153,3: -153,total: 148,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,romanak tomas,svk,"born: dec 18, 2000",b.weight: 93.80,group: a,1: 138,2: 142,3: 146,total: 146,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,mert ertan,tur,"born: oct 12, 1998",b.weight: 93.40,group: a,1: 138,2: 142,3: -145,total: 142,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,trebichavsky jan marek,svk,"born: jan 15, 1999",b.weight: 93.85,group: a,1: -131,2: -131,3: 133,total: 133,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,andrijauskas karolis,ltu,"born: nov 04, 1998",b.weight: 93.15,group: a,1: -121,2: 121,3: 128,total: 128,94kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,tsikhantsou yauheni,blr,"born: nov 04, 1998",b.weight: 93.55,group: a,1: -207,2: -207,3: 207,total: 207,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,babakyan samvel,arm,"born: dec 08, 1998",b.weight: 92.75,group: a,1: 196,2: -204,3: -206,total: 196,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,avagyan karen,arm,"born: may 12, 1999",b.weight: 89.90,group: a,1: -189,2: -189,3: 193,total: 193,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,pyrohov kyryl,ukr,"born: may 24, 1998",b.weight: 93.80,group: a,1: 185,2: 190,3: 192,total: 192,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,szmeja pawel,pol,"born: mar 22, 1999",b.weight: 93.65,group: a,1: 176,2: 181,3: -186,total: 181,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mert ertan,tur,"born: oct 12, 1998",b.weight: 93.40,group: a,1: 175,2: -181,3: 181,total: 181,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,pushmin artem,rus,"born: jun 30, 1999",b.weight: 93.90,group: a,1: 180,2: -186,3: -191,total: 180,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,romanak tomas,svk,"born: dec 18, 2000",b.weight: 93.80,group: a,1: 172,2: 176,3: 180,total: 180,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,curcuruto matteo,ita,"born: aug 17, 1998",b.weight: 93.65,group: a,1: -177,2: -180,3: 180,total: 180,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,yantsevych yevhenii,ukr,"born: sep 26, 2000",b.weight: 92.30,group: a,1: 177,2: -181,3: -181,total: 177,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,andrijauskas karolis,ltu,"born: nov 04, 1998",b.weight: 93.15,group: a,1: 160,2: 165,3: -171,total: 165,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,trebichavsky jan marek,svk,"born: jan 15, 1999",b.weight: 93.85,group: a,1: 150,2: -161,3: -161,total: 150,94kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,tsikhantsou yauheni,blr,"born: nov 04, 1998",b.weight: 93.55,group: a,snatch: 178,ci&jerk: 207,total: 385,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,babakyan samvel,arm,"born: dec 08, 1998",b.weight: 92.75,group: a,snatch: 165,ci&jerk: 196,total: 361,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,pyrohov kyryl,ukr,"born: may 24, 1998",b.weight: 93.80,group: a,snatch: 168,ci&jerk: 192,total: 360,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,avagyan karen,arm,"born: may 12, 1999",b.weight: 89.90,group: a,snatch: 165,ci&jerk: 193,total: 358,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,szmeja pawel,pol,"born: mar 22, 1999",b.weight: 93.65,group: a,snatch: 159,ci&jerk: 181,total: 340,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,pushmin artem,rus,"born: jun 30, 1999",b.weight: 93.90,group: a,snatch: 151,ci&jerk: 180,total: 331,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,curcuruto matteo,ita,"born: aug 17, 1998",b.weight: 93.65,group: a,snatch: 148,ci&jerk: 180,total: 328,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,romanak tomas,svk,"born: dec 18, 2000",b.weight: 93.80,group: a,snatch: 146,ci&jerk: 180,total: 326,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,yantsevych yevhenii,ukr,"born: sep 26, 2000",b.weight: 92.30,group: a,snatch: 148,ci&jerk: 177,total: 325,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,mert ertan,tur,"born: oct 12, 1998",b.weight: 93.40,group: a,snatch: 142,ci&jerk: 181,total: 323,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,andrijauskas karolis,ltu,"born: nov 04, 1998",b.weight: 93.15,group: a,snatch: 128,ci&jerk: 165,total: 293,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,trebichavsky jan marek,svk,"born: jan 15, 1999",b.weight: 93.85,group: a,snatch: 133,ci&jerk: 150,total: 283,,94kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,chkheidze irakli,geo,"born: jan 05, 1999",b.weight: 102.00,group: a,1: 163,2: 167,3: 170,total: 170,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,martirosyan arsen,arm,"born: jul 24, 1998",b.weight: 99.40,group: a,1: 160,2: 165,3: -170,total: 165,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,vagaitsev daniil,rus,"born: nov 13, 2001",b.weight: 104.80,group: a,1: 155,2: 160,3: 164,total: 164,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,arlionak andrei,blr,"born: jan 17, 1999",b.weight: 104.50,group: a,1: 157,2: -163,3: 163,total: 163,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,fischer david,aut,"born: nov 03, 1998",b.weight: 104.40,group: a,1: -162,2: 162,3: -165,total: 162,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kurouski kanstantsin,blr,"born: aug 04, 2000",b.weight: 104.70,group: a,1: 145,2: 150,3: 155,total: 155,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,izdebski marcin,pol,"born: mar 06, 1999",b.weight: 104.60,group: a,1: 145,2: 149,3: 153,total: 153,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,sakkas jordan,gbr,"born: apr 25, 1999",b.weight: 103.50,group: a,1: 138,2: 142,3: 146,total: 146,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,vinci alessandro,ita,"born: feb 21, 1999",b.weight: 103.80,group: a,1: -143,2: -143,3: 143,total: 143,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,paulus samuel,svk,"born: mar 15, 1999",b.weight: 102.20,group: a,1: 125,2: 130,3: 133,total: 133,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,galdikas darius,ltu,"born: oct 26, 2000",b.weight: 100.40,group: a,1: 120,2: -125,3: -125,total: 120,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,peltonen roni jali kasperi,fin,"born: oct 06, 1998",b.weight: 102.60,group: a,1: -146,2: -146,3: -147,total: ---,105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,chkheidze irakli,geo,"born: jan 05, 1999",b.weight: 102.00,group: a,1: 202,2: 209,3: 216,total: 216,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,fischer david,aut,"born: nov 03, 1998",b.weight: 104.40,group: a,1: 200,2: 205,3: -211,total: 205,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,martirosyan arsen,arm,"born: jul 24, 1998",b.weight: 99.40,group: a,1: -201,2: -201,3: 201,total: 201,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,vagaitsev daniil,rus,"born: nov 13, 2001",b.weight: 104.80,group: a,1: 192,2: -200,3: -201,total: 192,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,arlionak andrei,blr,"born: jan 17, 1999",b.weight: 104.50,group: a,1: 188,2: -200,3: -200,total: 188,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kurouski kanstantsin,blr,"born: aug 04, 2000",b.weight: 104.70,group: a,1: 170,2: 178,3: 183,total: 183,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,vinci alessandro,ita,"born: feb 21, 1999",b.weight: 103.80,group: a,1: 170,2: 180,3: -191,total: 180,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,sakkas jordan,gbr,"born: apr 25, 1999",b.weight: 103.50,group: a,1: 175,2: 180,3: -184,total: 180,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,izdebski marcin,pol,"born: mar 06, 1999",b.weight: 104.60,group: a,1: 175,2: -181,3: -181,total: 175,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,paulus samuel,svk,"born: mar 15, 1999",b.weight: 102.20,group: a,1: -155,2: 155,3: 160,total: 160,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,galdikas darius,ltu,"born: oct 26, 2000",b.weight: 100.40,group: a,1: 150,2: 155,3: -160,total: 155,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,peltonen roni jali kasperi,fin,"born: oct 06, 1998",b.weight: 102.60,group: a,1: ---,2: ---,3: ---,total: ---,105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,chkheidze irakli,geo,"born: jan 05, 1999",b.weight: 102.00,group: a,snatch: 170,ci&jerk: 216,total: 386,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,fischer david,aut,"born: nov 03, 1998",b.weight: 104.40,group: a,snatch: 162,ci&jerk: 205,total: 367,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,martirosyan arsen,arm,"born: jul 24, 1998",b.weight: 99.40,group: a,snatch: 165,ci&jerk: 201,total: 366,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,vagaitsev daniil,rus,"born: nov 13, 2001",b.weight: 104.80,group: a,snatch: 164,ci&jerk: 192,total: 356,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,arlionak andrei,blr,"born: jan 17, 1999",b.weight: 104.50,group: a,snatch: 163,ci&jerk: 188,total: 351,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kurouski kanstantsin,blr,"born: aug 04, 2000",b.weight: 104.70,group: a,snatch: 155,ci&jerk: 183,total: 338,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,izdebski marcin,pol,"born: mar 06, 1999",b.weight: 104.60,group: a,snatch: 153,ci&jerk: 175,total: 328,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,sakkas jordan,gbr,"born: apr 25, 1999",b.weight: 103.50,group: a,snatch: 146,ci&jerk: 180,total: 326,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,vinci alessandro,ita,"born: feb 21, 1999",b.weight: 103.80,group: a,snatch: 143,ci&jerk: 180,total: 323,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,paulus samuel,svk,"born: mar 15, 1999",b.weight: 102.20,group: a,snatch: 133,ci&jerk: 160,total: 293,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,galdikas darius,ltu,"born: oct 26, 2000",b.weight: 100.40,group: a,snatch: 120,ci&jerk: 155,total: 275,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,peltonen roni jali kasperi,fin,"born: oct 06, 1998",b.weight: 102.60,group: a,snatch: ---,ci&jerk: ---,total: ---,,105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,ziaziulin eduard,blr,"born: oct 29, 1998",b.weight: 135.00,group: a,1: 183,2: -190,3: 190,total: 190,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lalayan varazdat,arm,"born: may 01, 1999",b.weight: 139.50,group: a,1: 175,2: 180,3: 184,total: 184,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,hanzenko oleh,ukr,"born: dec 10, 1999",b.weight: 147.90,group: a,1: 167,2: 172,3: 176,total: 176,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,naniev arsen,rus,"born: jun 05, 1998",b.weight: 118.10,group: a,1: 165,2: 171,3: -176,total: 171,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,wegrzyn jakub,pol,"born: jul 28, 1999",b.weight: 135.50,group: a,1: 165,2: -170,3: 171,total: 171,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gogichaev dmitrii,rus,"born: aug 20, 2000",b.weight: 130.40,group: a,1: 165,2: 170,3: -175,total: 170,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaplan yildiray,tur,"born: apr 19, 2000",b.weight: 123.30,group: a,1: 155,2: -160,3: -160,total: 155,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,hollo szilard david,hun,"born: mar 07, 2000",b.weight: 145.00,group: a,1: 145,2: 150,3: 153,total: 153,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,klevtsov nikita,est,"born: dec 19, 2000",b.weight: 122.30,group: a,1: 137,2: 142,3: 146,total: 146,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,knietas mantas,ltu,"born: jul 22, 1999",b.weight: 106.10,group: a,1: 110,2: 115,3: -120,total: 115,+105kgmen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,ziaziulin eduard,blr,"born: oct 29, 1998",b.weight: 135.00,group: a,1: 215,2: 223,3: ---,total: 223,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lalayan varazdat,arm,"born: may 01, 1999",b.weight: 139.50,group: a,1: 210,2: 222,3: -230,total: 222,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gogichaev dmitrii,rus,"born: aug 20, 2000",b.weight: 130.40,group: a,1: 202,2: 208,3: 216,total: 216,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,hanzenko oleh,ukr,"born: dec 10, 1999",b.weight: 147.90,group: a,1: 195,2: 201,3: -206,total: 201,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,naniev arsen,rus,"born: jun 05, 1998",b.weight: 118.10,group: a,1: 190,2: 200,3: -207,total: 200,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,wegrzyn jakub,pol,"born: jul 28, 1999",b.weight: 135.50,group: a,1: 195,2: -200,3: -201,total: 195,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaplan yildiray,tur,"born: apr 19, 2000",b.weight: 123.30,group: a,1: 185,2: 190,3: -195,total: 190,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,klevtsov nikita,est,"born: dec 19, 2000",b.weight: 122.30,group: a,1: 168,2: 174,3: 178,total: 178,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,knietas mantas,ltu,"born: jul 22, 1999",b.weight: 106.10,group: a,1: 145,2: -150,3: 150,total: 150,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,hollo szilard david,hun,"born: mar 07, 2000",b.weight: 145.00,group: a,1: -185,2: -185,3: -185,total: ---,+105kgmen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,ziaziulin eduard,blr,"born: oct 29, 1998",b.weight: 135.00,group: a,snatch: 190,ci&jerk: 223,total: 413,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lalayan varazdat,arm,"born: may 01, 1999",b.weight: 139.50,group: a,snatch: 184,ci&jerk: 222,total: 406,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gogichaev dmitrii,rus,"born: aug 20, 2000",b.weight: 130.40,group: a,snatch: 170,ci&jerk: 216,total: 386,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,hanzenko oleh,ukr,"born: dec 10, 1999",b.weight: 147.90,group: a,snatch: 176,ci&jerk: 201,total: 377,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,naniev arsen,rus,"born: jun 05, 1998",b.weight: 118.10,group: a,snatch: 171,ci&jerk: 200,total: 371,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,wegrzyn jakub,pol,"born: jul 28, 1999",b.weight: 135.50,group: a,snatch: 171,ci&jerk: 195,total: 366,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaplan yildiray,tur,"born: apr 19, 2000",b.weight: 123.30,group: a,snatch: 155,ci&jerk: 190,total: 345,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,klevtsov nikita,est,"born: dec 19, 2000",b.weight: 122.30,group: a,snatch: 146,ci&jerk: 178,total: 324,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,knietas mantas,ltu,"born: jul 22, 1999",b.weight: 106.10,group: a,snatch: 115,ci&jerk: 150,total: 265,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,hollo szilard david,hun,"born: mar 07, 2000",b.weight: 145.00,group: a,snatch: 153,ci&jerk: ---,total: ---,,+105kgmen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,imperio giulia,ita,"born: dec 07, 2001",b.weight: 47.70,group: a,1: 65,2: 69,3: 71,total: 71,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kozina kseniia,rus,"born: oct 27, 1998",b.weight: 47.95,group: a,1: 65,2: 68,3: 70,total: 70,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,karakol gamze,tur,"born: dec 15, 1998",b.weight: 48.00,group: a,1: -68,2: 68,3: 70,total: 70,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,dumitrescu bianca-daniela,rou,"born: jun 16, 2000",b.weight: 47.60,group: a,1: 65,2: 68,3: -71,total: 68,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,dogan ayse,tur,"born: feb 12, 2000",b.weight: 47.90,group: a,1: 67,2: -70,3: -71,total: 67,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mukkala kirsi-marja,fin,"born: nov 18, 1999",b.weight: 48.00,group: a,1: -64,2: 64,3: -68,total: 64,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,oleskiewicz sylwia malgorzata,pol,"born: jun 23, 1999",b.weight: 47.95,group: a,1: 63,2: -67,3: -67,total: 63,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,grabucea ecaterina,mda,"born: jul 31, 2001",b.weight: 45.25,group: a,1: 53,2: 56,3: 58,total: 58,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,dimitrova dayana dimitrova,bul,"born: oct 22, 2000",b.weight: 47.85,group: a,1: 72,2: -74,3: ---,total: ---,48kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,karakol gamze,tur,"born: dec 15, 1998",b.weight: 48.00,group: a,1: -87,2: 87,3: 91,total: 91,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,oleskiewicz sylwia malgorzata,pol,"born: jun 23, 1999",b.weight: 47.95,group: a,1: 80,2: -86,3: 86,total: 86,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kozina kseniia,rus,"born: oct 27, 1998",b.weight: 47.95,group: a,1: 83,2: -87,3: -88,total: 83,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,dogan ayse,tur,"born: feb 12, 2000",b.weight: 47.90,group: a,1: 82,2: -85,3: -85,total: 82,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,dumitrescu bianca-daniela,rou,"born: jun 16, 2000",b.weight: 47.60,group: a,1: 82,2: -85,3: -86,total: 82,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,imperio giulia,ita,"born: dec 07, 2001",b.weight: 47.70,group: a,1: 80,2: -84,3: -86,total: 80,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,mukkala kirsi-marja,fin,"born: nov 18, 1999",b.weight: 48.00,group: a,1: 74,2: 77,3: -80,total: 77,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,grabucea ecaterina,mda,"born: jul 31, 2001",b.weight: 45.25,group: a,1: 73,2: 76,3: -78,total: 76,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,dimitrova dayana dimitrova,bul,"born: oct 22, 2000",b.weight: 47.85,group: a,1: 92,2: ---,3: ---,total: ---,48kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,karakol gamze,tur,"born: dec 15, 1998",b.weight: 48.00,group: a,snatch: 70,ci&jerk: 91,total: 161,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kozina kseniia,rus,"born: oct 27, 1998",b.weight: 47.95,group: a,snatch: 70,ci&jerk: 83,total: 153,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,imperio giulia,ita,"born: dec 07, 2001",b.weight: 47.70,group: a,snatch: 71,ci&jerk: 80,total: 151,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,dumitrescu bianca-daniela,rou,"born: jun 16, 2000",b.weight: 47.60,group: a,snatch: 68,ci&jerk: 82,total: 150,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,dogan ayse,tur,"born: feb 12, 2000",b.weight: 47.90,group: a,snatch: 67,ci&jerk: 82,total: 149,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,oleskiewicz sylwia malgorzata,pol,"born: jun 23, 1999",b.weight: 47.95,group: a,snatch: 63,ci&jerk: 86,total: 149,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,mukkala kirsi-marja,fin,"born: nov 18, 1999",b.weight: 48.00,group: a,snatch: 64,ci&jerk: 77,total: 141,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,grabucea ecaterina,mda,"born: jul 31, 2001",b.weight: 45.25,group: a,snatch: 58,ci&jerk: 76,total: 134,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,dimitrova dayana dimitrova,bul,"born: oct 22, 2000",b.weight: 47.85,group: a,snatch: ---,ci&jerk: ---,total: ---,,48kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,novitskaia kristina,rus,"born: sep 22, 1999",b.weight: 53.00,group: a,1: 80,2: 83,3: 85,total: 85,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,konotop kamila,ukr,"born: mar 23, 2001",b.weight: 52.40,group: a,1: 79,2: 82,3: 84,total: 84,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,magistris lucrezia,ita,"born: apr 21, 1999",b.weight: 52.85,group: a,1: 80,2: -84,3: -86,total: 80,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,hanhur mariia,ukr,"born: aug 24, 2000",b.weight: 52.90,group: a,1: 78,2: -81,3: -81,total: 78,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,sheleh natalya,blr,"born: oct 07, 1998",b.weight: 52.90,group: a,1: 77,2: -81,3: -81,total: 77,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,morrow fraer letitia,gbr,"born: jul 20, 1998",b.weight: 52.45,group: a,1: 73,2: -76,3: 76,total: 76,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,azimova sabina,aze,"born: nov 02, 2000",b.weight: 52.85,group: a,1: 73,2: -76,3: 76,total: 76,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,rigaud garance ariette ouiza,fra,"born: nov 12, 1999",b.weight: 52.65,group: a,1: 72,2: -75,3: 75,total: 75,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,walzak pauline,ger,"born: jun 25, 1999",b.weight: 52.95,group: a,1: 68,2: 70,3: 72,total: 72,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,grigoras bianca geanina,rou,"born: mar 20, 2000",b.weight: 52.85,group: a,1: 65,2: 68,3: 70,total: 70,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,staneva victoria gancheva,bul,"born: jan 11, 2002",b.weight: 52.80,group: a,1: 64,2: 67,3: -70,total: 67,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,hincu teodora-luminita,mda,"born: apr 05, 2003",b.weight: 51.95,group: a,1: 63,2: 65,3: -68,total: 65,53kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,novitskaia kristina,rus,"born: sep 22, 1999",b.weight: 53.00,group: a,1: 100,2: 103,3: 106,total: 106,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,azimova sabina,aze,"born: nov 02, 2000",b.weight: 52.85,group: a,1: 94,2: 98,3: 100,total: 100,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,magistris lucrezia,ita,"born: apr 21, 1999",b.weight: 52.85,group: a,1: 95,2: 98,3: 99,total: 99,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,konotop kamila,ukr,"born: mar 23, 2001",b.weight: 52.40,group: a,1: 94,2: 96,3: 98,total: 98,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,sheleh natalya,blr,"born: oct 07, 1998",b.weight: 52.90,group: a,1: 93,2: 97,3: -99,total: 97,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,hanhur mariia,ukr,"born: aug 24, 2000",b.weight: 52.90,group: a,1: 94,2: -97,3: -98,total: 94,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,morrow fraer letitia,gbr,"born: jul 20, 1998",b.weight: 52.45,group: a,1: -94,2: 94,3: -98,total: 94,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,rigaud garance ariette ouiza,fra,"born: nov 12, 1999",b.weight: 52.65,group: a,1: 92,2: -96,3: -99,total: 92,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,staneva victoria gancheva,bul,"born: jan 11, 2002",b.weight: 52.80,group: a,1: 83,2: 88,3: -90,total: 88,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,walzak pauline,ger,"born: jun 25, 1999",b.weight: 52.95,group: a,1: -87,2: 87,3: -89,total: 87,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,grigoras bianca geanina,rou,"born: mar 20, 2000",b.weight: 52.85,group: a,1: 84,2: -87,3: -87,total: 84,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,hincu teodora-luminita,mda,"born: apr 05, 2003",b.weight: 51.95,group: a,1: 75,2: 79,3: 81,total: 81,53kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,novitskaia kristina,rus,"born: sep 22, 1999",b.weight: 53.00,group: a,snatch: 85,ci&jerk: 106,total: 191,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,konotop kamila,ukr,"born: mar 23, 2001",b.weight: 52.40,group: a,snatch: 84,ci&jerk: 98,total: 182,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,magistris lucrezia,ita,"born: apr 21, 1999",b.weight: 52.85,group: a,snatch: 80,ci&jerk: 99,total: 179,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,azimova sabina,aze,"born: nov 02, 2000",b.weight: 52.85,group: a,snatch: 76,ci&jerk: 100,total: 176,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,sheleh natalya,blr,"born: oct 07, 1998",b.weight: 52.90,group: a,snatch: 77,ci&jerk: 97,total: 174,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,hanhur mariia,ukr,"born: aug 24, 2000",b.weight: 52.90,group: a,snatch: 78,ci&jerk: 94,total: 172,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,morrow fraer letitia,gbr,"born: jul 20, 1998",b.weight: 52.45,group: a,snatch: 76,ci&jerk: 94,total: 170,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,rigaud garance ariette ouiza,fra,"born: nov 12, 1999",b.weight: 52.65,group: a,snatch: 75,ci&jerk: 92,total: 167,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,walzak pauline,ger,"born: jun 25, 1999",b.weight: 52.95,group: a,snatch: 72,ci&jerk: 87,total: 159,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,staneva victoria gancheva,bul,"born: jan 11, 2002",b.weight: 52.80,group: a,snatch: 67,ci&jerk: 88,total: 155,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,grigoras bianca geanina,rou,"born: mar 20, 2000",b.weight: 52.85,group: a,snatch: 70,ci&jerk: 84,total: 154,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,hincu teodora-luminita,mda,"born: apr 05, 2003",b.weight: 51.95,group: a,snatch: 65,ci&jerk: 81,total: 146,,53kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,olaru raluca-andreea,rou,"born: jan 26, 2001",b.weight: 57.55,group: a,1: 84,2: 87,3: 90,total: 90,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,penciu andreea,rou,"born: sep 07, 2000",b.weight: 57.60,group: a,1: 84,2: 87,3: 89,total: 89,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,cakin aysegul,tur,"born: jun 24, 1999",b.weight: 57.80,group: a,1: 84,2: 86,3: 88,total: 88,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,tymoshchuk mariia,ukr,"born: aug 02, 1999",b.weight: 58.00,group: a,1: -81,2: 81,3: 85,total: 85,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,furdik irina,rus,"born: jun 16, 1998",b.weight: 57.75,group: a,1: 80,2: 83,3: -85,total: 83,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,piccinno chiara,ita,"born: jul 05, 2001",b.weight: 56.70,group: a,1: -75,2: 75,3: 80,total: 80,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,corbu giulia,ita,"born: apr 27, 2000",b.weight: 57.40,group: a,1: 73,2: 76,3: 78,total: 78,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,koltowska patrycja dorota,pol,"born: jan 03, 1999",b.weight: 57.95,group: a,1: 75,2: 77,3: -79,total: 77,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,sireteanu dorina,mda,"born: jan 10, 2000",b.weight: 57.20,group: a,1: -73,2: 73,3: 76,total: 76,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,ciobanu tatiana,mda,"born: apr 26, 2001",b.weight: 57.75,group: a,1: 68,2: 71,3: 73,total: 73,58kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,cakin aysegul,tur,"born: jun 24, 1999",b.weight: 57.80,group: a,1: 106,2: 110,3: -115,total: 110,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,olaru raluca-andreea,rou,"born: jan 26, 2001",b.weight: 57.55,group: a,1: 103,2: 107,3: -110,total: 107,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,penciu andreea,rou,"born: sep 07, 2000",b.weight: 57.60,group: a,1: 100,2: 103,3: 107,total: 107,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,furdik irina,rus,"born: jun 16, 1998",b.weight: 57.75,group: a,1: 99,2: 102,3: -105,total: 102,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,tymoshchuk mariia,ukr,"born: aug 02, 1999",b.weight: 58.00,group: a,1: 99,2: -102,3: 102,total: 102,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,piccinno chiara,ita,"born: jul 05, 2001",b.weight: 56.70,group: a,1: 90,2: 95,3: 99,total: 99,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,sireteanu dorina,mda,"born: jan 10, 2000",b.weight: 57.20,group: a,1: 90,2: 93,3: -95,total: 93,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,corbu giulia,ita,"born: apr 27, 2000",b.weight: 57.40,group: a,1: -93,2: -93,3: 93,total: 93,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,koltowska patrycja dorota,pol,"born: jan 03, 1999",b.weight: 57.95,group: a,1: 85,2: 88,3: -90,total: 88,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,ciobanu tatiana,mda,"born: apr 26, 2001",b.weight: 57.75,group: a,1: 84,2: -87,3: 87,total: 87,58kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,cakin aysegul,tur,"born: jun 24, 1999",b.weight: 57.80,group: a,snatch: 88,ci&jerk: 110,total: 198,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,olaru raluca-andreea,rou,"born: jan 26, 2001",b.weight: 57.55,group: a,snatch: 90,ci&jerk: 107,total: 197,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,penciu andreea,rou,"born: sep 07, 2000",b.weight: 57.60,group: a,snatch: 89,ci&jerk: 107,total: 196,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,tymoshchuk mariia,ukr,"born: aug 02, 1999",b.weight: 58.00,group: a,snatch: 85,ci&jerk: 102,total: 187,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,furdik irina,rus,"born: jun 16, 1998",b.weight: 57.75,group: a,snatch: 83,ci&jerk: 102,total: 185,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,piccinno chiara,ita,"born: jul 05, 2001",b.weight: 56.70,group: a,snatch: 80,ci&jerk: 99,total: 179,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,corbu giulia,ita,"born: apr 27, 2000",b.weight: 57.40,group: a,snatch: 78,ci&jerk: 93,total: 171,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,sireteanu dorina,mda,"born: jan 10, 2000",b.weight: 57.20,group: a,snatch: 76,ci&jerk: 93,total: 169,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,koltowska patrycja dorota,pol,"born: jan 03, 1999",b.weight: 57.95,group: a,snatch: 77,ci&jerk: 88,total: 165,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,ciobanu tatiana,mda,"born: apr 26, 2001",b.weight: 57.75,group: a,snatch: 73,ci&jerk: 87,total: 160,,58kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,koha rebeka,lat,"born: may 19, 1998",b.weight: 59.95,group: a,1: 95,2: 100,3: ---,total: 100,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,levent nuray,tur,"born: may 08, 2000",b.weight: 62.20,group: a,1: 87,2: 90,3: 92,total: 92,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,valodzka siuzanna,blr,"born: aug 17, 2000",b.weight: 62.15,group: a,1: 86,2: 89,3: 91,total: 91,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,shaimanova nataliia,rus,"born: jan 21, 1998",b.weight: 61.80,group: a,1: 83,2: 86,3: 88,total: 88,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,grigoriu maria-luana,rou,"born: feb 07, 2000",b.weight: 62.50,group: a,1: 86,2: -89,3: -90,total: 86,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ilkhanova kateryna,ukr,"born: sep 02, 2000",b.weight: 62.65,group: a,1: 80,2: 83,3: 86,total: 86,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,ilie mihaela,rou,"born: aug 14, 2002",b.weight: 62.35,group: a,1: 82,2: 85,3: -87,total: 85,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,nuiro naomy maeva,fra,"born: feb 16, 1999",b.weight: 62.40,group: a,1: 80,2: 84,3: -87,total: 84,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,cilcic ecaterina,mda,"born: mar 16, 1998",b.weight: 62.45,group: a,1: 80,2: -83,3: 83,total: 83,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,kirychuk alina,ukr,"born: mar 11, 1999",b.weight: 62.85,group: a,1: 77,2: 80,3: 82,total: 82,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,aradottir birna,isl,"born: feb 16, 1999",b.weight: 61.20,group: a,1: 73,2: 79,3: 81,total: 81,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,talastera suvi tuulia,fin,"born: jan 06, 1999",b.weight: 62.90,group: a,1: 78,2: -80,3: 80,total: 80,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,davila sansinena susana,esp,"born: feb 07, 1998",b.weight: 62.80,group: a,1: 75,2: -78,3: 78,total: 78,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,graillot vicky,fra,"born: jul 02, 2000",b.weight: 62.10,group: a,1: -75,2: 75,3: -80,total: 75,63kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,koha rebeka,lat,"born: may 19, 1998",b.weight: 59.95,group: a,1: 115,2: 120,3: ---,total: 120,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,levent nuray,tur,"born: may 08, 2000",b.weight: 62.20,group: a,1: 107,2: 111,3: 115,total: 115,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,grigoriu maria-luana,rou,"born: feb 07, 2000",b.weight: 62.50,group: a,1: 108,2: 111,3: -115,total: 111,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,valodzka siuzanna,blr,"born: aug 17, 2000",b.weight: 62.15,group: a,1: 105,2: 110,3: -113,total: 110,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kirychuk alina,ukr,"born: mar 11, 1999",b.weight: 62.85,group: a,1: 103,2: 108,3: -112,total: 108,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,shaimanova nataliia,rus,"born: jan 21, 1998",b.weight: 61.80,group: a,1: 104,2: -108,3: 108,total: 108,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,nuiro naomy maeva,fra,"born: feb 16, 1999",b.weight: 62.40,group: a,1: 100,2: 105,3: -110,total: 105,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,ilie mihaela,rou,"born: aug 14, 2002",b.weight: 62.35,group: a,1: 104,2: -109,3: -109,total: 104,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,ilkhanova kateryna,ukr,"born: sep 02, 2000",b.weight: 62.65,group: a,1: 98,2: -102,3: 102,total: 102,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,graillot vicky,fra,"born: jul 02, 2000",b.weight: 62.10,group: a,1: 97,2: 100,3: -104,total: 100,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,cilcic ecaterina,mda,"born: mar 16, 1998",b.weight: 62.45,group: a,1: -100,2: 100,3: -103,total: 100,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,davila sansinena susana,esp,"born: feb 07, 1998",b.weight: 62.80,group: a,1: -95,2: 95,3: -98,total: 95,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,talastera suvi tuulia,fin,"born: jan 06, 1999",b.weight: 62.90,group: a,1: 94,2: -98,3: -98,total: 94,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,aradottir birna,isl,"born: feb 16, 1999",b.weight: 61.20,group: a,1: 83,2: 88,3: -92,total: 88,63kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,koha rebeka,lat,"born: may 19, 1998",b.weight: 59.95,group: a,snatch: 100,ci&jerk: 120,total: 220,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,levent nuray,tur,"born: may 08, 2000",b.weight: 62.20,group: a,snatch: 92,ci&jerk: 115,total: 207,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,valodzka siuzanna,blr,"born: aug 17, 2000",b.weight: 62.15,group: a,snatch: 91,ci&jerk: 110,total: 201,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,grigoriu maria-luana,rou,"born: feb 07, 2000",b.weight: 62.50,group: a,snatch: 86,ci&jerk: 111,total: 197,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,shaimanova nataliia,rus,"born: jan 21, 1998",b.weight: 61.80,group: a,snatch: 88,ci&jerk: 108,total: 196,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kirychuk alina,ukr,"born: mar 11, 1999",b.weight: 62.85,group: a,snatch: 82,ci&jerk: 108,total: 190,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,ilie mihaela,rou,"born: aug 14, 2002",b.weight: 62.35,group: a,snatch: 85,ci&jerk: 104,total: 189,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,nuiro naomy maeva,fra,"born: feb 16, 1999",b.weight: 62.40,group: a,snatch: 84,ci&jerk: 105,total: 189,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,ilkhanova kateryna,ukr,"born: sep 02, 2000",b.weight: 62.65,group: a,snatch: 86,ci&jerk: 102,total: 188,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,cilcic ecaterina,mda,"born: mar 16, 1998",b.weight: 62.45,group: a,snatch: 83,ci&jerk: 100,total: 183,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,graillot vicky,fra,"born: jul 02, 2000",b.weight: 62.10,group: a,snatch: 75,ci&jerk: 100,total: 175,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,talastera suvi tuulia,fin,"born: jan 06, 1999",b.weight: 62.90,group: a,snatch: 80,ci&jerk: 94,total: 174,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,davila sansinena susana,esp,"born: feb 07, 1998",b.weight: 62.80,group: a,snatch: 78,ci&jerk: 95,total: 173,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 14,aradottir birna,isl,"born: feb 16, 1999",b.weight: 61.20,group: a,snatch: 81,ci&jerk: 88,total: 169,,63kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,alexe alexandra,rou,"born: apr 20, 2000",b.weight: 67.80,group: a,1: 86,2: 90,3: 92,total: 92,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,andreeva mariia,rus,"born: may 14, 2001",b.weight: 66.80,group: a,1: 88,2: -91,3: 91,total: 91,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,hernandez martin ilia,esp,"born: apr 12, 1998",b.weight: 68.30,group: a,1: 82,2: -86,3: 88,total: 88,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,altun berfin,tur,"born: nov 01, 1999",b.weight: 67.35,group: a,1: -85,2: -85,3: 85,total: 85,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,fomina anna,swe,"born: mar 31, 1998",b.weight: 66.85,group: a,1: 82,2: -87,3: -89,total: 82,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,kozuchowska marta,pol,"born: dec 09, 2000",b.weight: 63.50,group: a,1: 75,2: 78,3: 80,total: 80,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,fernezova eliska,svk,"born: sep 14, 1999",b.weight: 66.50,group: a,1: 75,2: 79,3: -81,total: 79,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,selin jutta karoliina,fin,"born: jun 01, 1999",b.weight: 67.95,group: a,1: 74,2: 77,3: -80,total: 77,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,rosendahl freja,den,"born: sep 30, 1999",b.weight: 68.20,group: a,1: 72,2: 75,3: -77,total: 75,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,gude line,den,"born: feb 19, 1998",b.weight: 68.60,group: a,1: 64,2: 67,3: 70,total: 70,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,durante alessia,ita,"born: may 14, 1999",b.weight: 68.75,group: a,1: -88,2: ---,3: ---,total: ---,69kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,altun berfin,tur,"born: nov 01, 1999",b.weight: 67.35,group: a,1: 110,2: 115,3: -118,total: 115,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,hernandez martin ilia,esp,"born: apr 12, 1998",b.weight: 68.30,group: a,1: 110,2: -115,3: 115,total: 115,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,alexe alexandra,rou,"born: apr 20, 2000",b.weight: 67.80,group: a,1: 107,2: 111,3: -113,total: 111,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,andreeva mariia,rus,"born: may 14, 2001",b.weight: 66.80,group: a,1: 107,2: 110,3: -113,total: 110,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,fomina anna,swe,"born: mar 31, 1998",b.weight: 66.85,group: a,1: 100,2: 105,3: -111,total: 105,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,fernezova eliska,svk,"born: sep 14, 1999",b.weight: 66.50,group: a,1: 98,2: -101,3: 101,total: 101,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kozuchowska marta,pol,"born: dec 09, 2000",b.weight: 63.50,group: a,1: 95,2: 98,3: -100,total: 98,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,selin jutta karoliina,fin,"born: jun 01, 1999",b.weight: 67.95,group: a,1: -94,2: 94,3: -100,total: 94,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,gude line,den,"born: feb 19, 1998",b.weight: 68.60,group: a,1: -84,2: 86,3: 90,total: 90,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,rosendahl freja,den,"born: sep 30, 1999",b.weight: 68.20,group: a,1: 81,2: 84,3: -86,total: 84,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,durante alessia,ita,"born: may 14, 1999",b.weight: 68.75,group: a,1: ---,2: ---,3: ---,total: ---,69kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,alexe alexandra,rou,"born: apr 20, 2000",b.weight: 67.80,group: a,snatch: 92,ci&jerk: 111,total: 203,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,hernandez martin ilia,esp,"born: apr 12, 1998",b.weight: 68.30,group: a,snatch: 88,ci&jerk: 115,total: 203,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,andreeva mariia,rus,"born: may 14, 2001",b.weight: 66.80,group: a,snatch: 91,ci&jerk: 110,total: 201,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,altun berfin,tur,"born: nov 01, 1999",b.weight: 67.35,group: a,snatch: 85,ci&jerk: 115,total: 200,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,fomina anna,swe,"born: mar 31, 1998",b.weight: 66.85,group: a,snatch: 82,ci&jerk: 105,total: 187,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,fernezova eliska,svk,"born: sep 14, 1999",b.weight: 66.50,group: a,snatch: 79,ci&jerk: 101,total: 180,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kozuchowska marta,pol,"born: dec 09, 2000",b.weight: 63.50,group: a,snatch: 80,ci&jerk: 98,total: 178,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,selin jutta karoliina,fin,"born: jun 01, 1999",b.weight: 67.95,group: a,snatch: 77,ci&jerk: 94,total: 171,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,gude line,den,"born: feb 19, 1998",b.weight: 68.60,group: a,snatch: 70,ci&jerk: 90,total: 160,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,rosendahl freja,den,"born: sep 30, 1999",b.weight: 68.20,group: a,snatch: 75,ci&jerk: 84,total: 159,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,durante alessia,ita,"born: may 14, 1999",b.weight: 68.75,group: a,snatch: ---,ci&jerk: ---,total: ---,,69kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,rubanovich nikol bella,isr,"born: may 09, 1998",b.weight: 72.95,group: a,1: 93,2: 97,3: -99,total: 97,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,tydyyakova tatiana,rus,"born: feb 10, 1998",b.weight: 74.50,group: a,1: 87,2: 90,3: 93,total: 93,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,narin dilara,tur,"born: mar 17, 2002",b.weight: 74.85,group: a,1: -88,2: 88,3: 92,total: 92,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,senicova nikola,svk,"born: may 27, 2000",b.weight: 74.80,group: a,1: -85,2: 85,3: -91,total: 85,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,rutkowska milena,pol,"born: jan 04, 2001",b.weight: 69.10,group: a,1: 80,2: 83,3: 85,total: 85,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mityko veronika,hun,"born: jul 26, 2000",b.weight: 73.10,group: a,1: 79,2: 82,3: 84,total: 84,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,minkova dziyana,blr,"born: may 07, 2001",b.weight: 74.45,group: a,1: 83,2: -87,3: -87,total: 83,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,barzak wiktoria izabela,pol,"born: may 01, 1998",b.weight: 74.85,group: a,1: 75,2: 79,3: -82,total: 79,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,stepaniuk anastasiia,ukr,"born: may 21, 2003",b.weight: 69.55,group: a,1: 73,2: 76,3: -79,total: 76,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,dermicek hermana,cro,"born: apr 06, 2002",b.weight: 69.10,group: a,1: 62,2: 65,3: 68,total: 68,75kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,narin dilara,tur,"born: mar 17, 2002",b.weight: 74.85,group: a,1: 118,2: 120,3: ---,total: 120,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,tydyyakova tatiana,rus,"born: feb 10, 1998",b.weight: 74.50,group: a,1: 110,2: 117,3: -119,total: 117,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,rubanovich nikol bella,isr,"born: may 09, 1998",b.weight: 72.95,group: a,1: 105,2: 110,3: 112,total: 112,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,senicova nikola,svk,"born: may 27, 2000",b.weight: 74.80,group: a,1: 107,2: -111,3: 111,total: 111,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,minkova dziyana,blr,"born: may 07, 2001",b.weight: 74.45,group: a,1: -105,2: 105,3: 108,total: 108,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,barzak wiktoria izabela,pol,"born: may 01, 1998",b.weight: 74.85,group: a,1: 100,2: 105,3: -109,total: 105,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,mityko veronika,hun,"born: jul 26, 2000",b.weight: 73.10,group: a,1: 97,2: 101,3: 103,total: 103,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,rutkowska milena,pol,"born: jan 04, 2001",b.weight: 69.10,group: a,1: 97,2: -101,3: -101,total: 97,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,stepaniuk anastasiia,ukr,"born: may 21, 2003",b.weight: 69.55,group: a,1: 85,2: 89,3: 91,total: 91,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,dermicek hermana,cro,"born: apr 06, 2002",b.weight: 69.10,group: a,1: 75,2: 80,3: 82,total: 82,75kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,narin dilara,tur,"born: mar 17, 2002",b.weight: 74.85,group: a,snatch: 92,ci&jerk: 120,total: 212,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,tydyyakova tatiana,rus,"born: feb 10, 1998",b.weight: 74.50,group: a,snatch: 93,ci&jerk: 117,total: 210,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,rubanovich nikol bella,isr,"born: may 09, 1998",b.weight: 72.95,group: a,snatch: 97,ci&jerk: 112,total: 209,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,senicova nikola,svk,"born: may 27, 2000",b.weight: 74.80,group: a,snatch: 85,ci&jerk: 111,total: 196,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,minkova dziyana,blr,"born: may 07, 2001",b.weight: 74.45,group: a,snatch: 83,ci&jerk: 108,total: 191,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,mityko veronika,hun,"born: jul 26, 2000",b.weight: 73.10,group: a,snatch: 84,ci&jerk: 103,total: 187,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,barzak wiktoria izabela,pol,"born: may 01, 1998",b.weight: 74.85,group: a,snatch: 79,ci&jerk: 105,total: 184,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,rutkowska milena,pol,"born: jan 04, 2001",b.weight: 69.10,group: a,snatch: 85,ci&jerk: 97,total: 182,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,stepaniuk anastasiia,ukr,"born: may 21, 2003",b.weight: 69.55,group: a,snatch: 76,ci&jerk: 91,total: 167,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,dermicek hermana,cro,"born: apr 06, 2002",b.weight: 69.10,group: a,snatch: 68,ci&jerk: 82,total: 150,,75kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,fischer sarah,aut,"born: nov 09, 2000",b.weight: 87.75,group: a,1: 98,2: 101,3: -103,total: 101,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,riazanova daria,rus,"born: aug 24, 2000",b.weight: 87.80,group: a,1: 96,2: -100,3: 100,total: 100,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,boynuegri tugce,tur,"born: oct 12, 1998",b.weight: 86.30,group: a,1: 93,2: 97,3: -100,total: 97,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,vlasenko anastasiia,ukr,"born: may 02, 2001",b.weight: 89.85,group: a,1: 87,2: 90,3: -94,total: 90,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,aghabekyan diana,arm,"born: mar 03, 1999",b.weight: 89.60,group: a,1: -84,2: 84,3: 89,total: 89,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,schreiber chantal,ger,"born: jun 22, 1998",b.weight: 88.55,group: a,1: 84,2: 88,3: -92,total: 88,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,boros viktoria,hun,"born: jul 22, 2001",b.weight: 87.60,group: a,1: 80,2: 85,3: 87,total: 87,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,krylov mona,isr,"born: oct 26, 1998",b.weight: 85.30,group: a,1: -80,2: 80,3: 84,total: 84,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,uziak elzbieta,pol,"born: nov 27, 1999",b.weight: 89.50,group: a,1: 81,2: -84,3: -85,total: 81,90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,riazanova daria,rus,"born: aug 24, 2000",b.weight: 87.80,group: a,1: 125,2: 131,3: -135,total: 131,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,fischer sarah,aut,"born: nov 09, 2000",b.weight: 87.75,group: a,1: 123,2: 129,3: -135,total: 129,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,aghabekyan diana,arm,"born: mar 03, 1999",b.weight: 89.60,group: a,1: 109,2: -116,3: 119,total: 119,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,schreiber chantal,ger,"born: jun 22, 1998",b.weight: 88.55,group: a,1: 109,2: 114,3: 118,total: 118,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,boynuegri tugce,tur,"born: oct 12, 1998",b.weight: 86.30,group: a,1: 112,2: -116,3: 117,total: 117,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,vlasenko anastasiia,ukr,"born: may 02, 2001",b.weight: 89.85,group: a,1: 109,2: 114,3: -117,total: 114,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,uziak elzbieta,pol,"born: nov 27, 1999",b.weight: 89.50,group: a,1: 103,2: 109,3: -111,total: 109,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,krylov mona,isr,"born: oct 26, 1998",b.weight: 85.30,group: a,1: 100,2: -104,3: 105,total: 105,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,boros viktoria,hun,"born: jul 22, 2001",b.weight: 87.60,group: a,1: 97,2: 102,3: -105,total: 102,90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,riazanova daria,rus,"born: aug 24, 2000",b.weight: 87.80,group: a,snatch: 100,ci&jerk: 131,total: 231,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,fischer sarah,aut,"born: nov 09, 2000",b.weight: 87.75,group: a,snatch: 101,ci&jerk: 129,total: 230,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,boynuegri tugce,tur,"born: oct 12, 1998",b.weight: 86.30,group: a,snatch: 97,ci&jerk: 117,total: 214,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,aghabekyan diana,arm,"born: mar 03, 1999",b.weight: 89.60,group: a,snatch: 89,ci&jerk: 119,total: 208,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,schreiber chantal,ger,"born: jun 22, 1998",b.weight: 88.55,group: a,snatch: 88,ci&jerk: 118,total: 206,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,vlasenko anastasiia,ukr,"born: may 02, 2001",b.weight: 89.85,group: a,snatch: 90,ci&jerk: 114,total: 204,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,uziak elzbieta,pol,"born: nov 27, 1999",b.weight: 89.50,group: a,snatch: 81,ci&jerk: 109,total: 190,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,boros viktoria,hun,"born: jul 22, 2001",b.weight: 87.60,group: a,snatch: 87,ci&jerk: 102,total: 189,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,krylov mona,isr,"born: oct 26, 1998",b.weight: 85.30,group: a,snatch: 84,ci&jerk: 105,total: 189,,90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,karolak magdalena,pol,"born: jun 01, 1999",b.weight: 122.40,group: a,1: 98,2: 101,3: 103,total: 103,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,zubko anna,rus,"born: feb 16, 1999",b.weight: 105.20,group: a,1: 93,2: 97,3: 100,total: 100,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gunal melike,tur,"born: apr 05, 1998",b.weight: 110.50,group: a,1: -95,2: 95,3: 99,total: 99,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,dalalyan arpine,arm,"born: feb 18, 1999",b.weight: 115.60,group: a,1: 95,2: -100,3: -102,total: 95,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ivanova dzhesika,bul,"born: oct 26, 1998",b.weight: 92.55,group: a,1: 85,2: 90,3: 94,total: 94,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gyurus barbara,hun,"born: aug 12, 1998",b.weight: 124.50,group: a,1: 82,2: 86,3: -88,total: 86,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,janiak julia,pol,"born: oct 21, 2002",b.weight: 92.20,group: a,1: -77,2: 77,3: 79,total: 79,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,crnjac ana,cro,"born: oct 03, 2002",b.weight: 102.40,group: a,1: -60,2: 60,3: -67,total: 60,+90kgwomen,snatch,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,dalalyan arpine,arm,"born: feb 18, 1999",b.weight: 115.60,group: a,1: 132,2: 137,3: -145,total: 137,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,karolak magdalena,pol,"born: jun 01, 1999",b.weight: 122.40,group: a,1: 128,2: 133,3: 136,total: 136,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gunal melike,tur,"born: apr 05, 1998",b.weight: 110.50,group: a,1: 118,2: 124,3: 127,total: 127,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,zubko anna,rus,"born: feb 16, 1999",b.weight: 105.20,group: a,1: 118,2: 124,3: -127,total: 124,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ivanova dzhesika,bul,"born: oct 26, 1998",b.weight: 92.55,group: a,1: 105,2: 110,3: 117,total: 117,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gyurus barbara,hun,"born: aug 12, 1998",b.weight: 124.50,group: a,1: 101,2: -106,3: 106,total: 106,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,janiak julia,pol,"born: oct 21, 2002",b.weight: 92.20,group: a,1: 93,2: -97,3: 97,total: 97,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,crnjac ana,cro,"born: oct 03, 2002",b.weight: 102.40,group: a,1: 75,2: 80,3: 83,total: 83,+90kgwomen,cleanjerk,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,karolak magdalena,pol,"born: jun 01, 1999",b.weight: 122.40,group: a,snatch: 103,ci&jerk: 136,total: 239,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,dalalyan arpine,arm,"born: feb 18, 1999",b.weight: 115.60,group: a,snatch: 95,ci&jerk: 137,total: 232,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gunal melike,tur,"born: apr 05, 1998",b.weight: 110.50,group: a,snatch: 99,ci&jerk: 127,total: 226,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,zubko anna,rus,"born: feb 16, 1999",b.weight: 105.20,group: a,snatch: 100,ci&jerk: 124,total: 224,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,ivanova dzhesika,bul,"born: oct 26, 1998",b.weight: 92.55,group: a,snatch: 94,ci&jerk: 117,total: 211,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gyurus barbara,hun,"born: aug 12, 1998",b.weight: 124.50,group: a,snatch: 86,ci&jerk: 106,total: 192,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,janiak julia,pol,"born: oct 21, 2002",b.weight: 92.20,group: a,snatch: 79,ci&jerk: 97,total: 176,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,crnjac ana,cro,"born: oct 03, 2002",b.weight: 102.40,group: a,snatch: 60,ci&jerk: 83,total: 143,,+90kgwomen,total,2018 EUROPEAN JUNIOR CHAMPIONSHIPS

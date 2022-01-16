@@ -1,0 +1,88 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+rank: 1,hoang anh tuan,vie,"born: feb 12, 1985",b.weight: 55.56,group: a,1: 122,2: 125,3: 128,total: 128,56kgmen,snatch,OLYMPIC TEST EVENT
+rank: 2,alvarez boulet sergio,cub,"born: oct 11, 1979",b.weight: 55.91,group: a,1: -118,2: 118,3: 120,total: 120,56kgmen,snatch,OLYMPIC TEST EVENT
+rank: 3,lu linbi,chn,"born: aug 20, 1981",b.weight: 55.86,group: a,1: 113,2: 118,3: -121,total: 118,56kgmen,snatch,OLYMPIC TEST EVENT
+rank: 4,wu jingbiao,chn,"born: jan 10, 1989",b.weight: 55.64,group: a,1: 110,2: 116,3: -123,total: 116,56kgmen,snatch,OLYMPIC TEST EVENT
+rank: 5,adam robert,hun,"born: sep 15, 1982",b.weight: 55.65,group: a,1: 93,2: 97,3: -100,total: 97,56kgmen,snatch,OLYMPIC TEST EVENT
+rank: 1,lu linbi,chn,"born: aug 20, 1981",b.weight: 55.86,group: a,1: 143,2: -151,3: 153,total: 153,56kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 2,alvarez boulet sergio,cub,"born: oct 11, 1979",b.weight: 55.91,group: a,1: -151,2: 151,3: -155,total: 151,56kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 3,hoang anh tuan,vie,"born: feb 12, 1985",b.weight: 55.56,group: a,1: -150,2: 150,3: -154,total: 150,56kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 4,wu jingbiao,chn,"born: jan 10, 1989",b.weight: 55.64,group: a,1: 130,2: 135,3: 140,total: 140,56kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 5,adam robert,hun,"born: sep 15, 1982",b.weight: 55.65,group: a,1: 120,2: -125,3: -125,total: 120,56kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 1,hoang anh tuan,vie,"born: feb 12, 1985",b.weight: 55.56,group: a,snatch: 128,ci&jerk: 150,total: 278,,56kgmen,total,OLYMPIC TEST EVENT
+rank: 2,lu linbi,chn,"born: aug 20, 1981",b.weight: 55.86,group: a,snatch: 118,ci&jerk: 153,total: 271,,56kgmen,total,OLYMPIC TEST EVENT
+rank: 3,alvarez boulet sergio,cub,"born: oct 11, 1979",b.weight: 55.91,group: a,snatch: 120,ci&jerk: 151,total: 271,,56kgmen,total,OLYMPIC TEST EVENT
+rank: 4,wu jingbiao,chn,"born: jan 10, 1989",b.weight: 55.64,group: a,snatch: 116,ci&jerk: 140,total: 256,,56kgmen,total,OLYMPIC TEST EVENT
+rank: 5,adam robert,hun,"born: sep 15, 1982",b.weight: 55.65,group: a,snatch: 97,ci&jerk: 120,total: 217,,56kgmen,total,OLYMPIC TEST EVENT
+rank: 1,steiner matthias,ger,"born: aug 25, 1982",b.weight: 137.33,group: a,1: 185,2: 190,3: 193,total: 193,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 2,burgener casey,usa,"born: aug 15, 1982",b.weight: 125.64,group: a,1: -170,2: 170,3: 180,total: 180,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 3,sun hai bo,chn,"born: mar 25, 1983",b.weight: 142.63,group: a,1: 180,2: -190,3: ---,total: 180,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 4,kleszcz grzegorz,pol,"born: nov 12, 1977",b.weight: 132.06,group: a,1: -175,2: 175,3: -180,total: 175,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 5,gao le,chn,"born: mar 08, 1983",b.weight: 139.53,group: a,1: 150,2: -165,3: 171,total: 171,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 6,dolega robert,pol,"born: dec 31, 1977",b.weight: 106.23,group: a,1: 165,2: 170,3: -175,total: 170,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 7,ota kazuomi,jpn,"born: jul 01, 1986",b.weight: 141.99,group: a,1: 155,2: -160,3: 160,total: 160,+105kgmen,snatch,OLYMPIC TEST EVENT
+rank: 1,steiner matthias,ger,"born: aug 25, 1982",b.weight: 137.33,group: a,1: 216,2: -225,3: 230,total: 230,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 2,kleszcz grzegorz,pol,"born: nov 12, 1977",b.weight: 132.06,group: a,1: 220,2: -225,3: -225,total: 220,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 3,gao le,chn,"born: mar 08, 1983",b.weight: 139.53,group: a,1: 211,2: 220,3: -226,total: 220,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 4,dolega robert,pol,"born: dec 31, 1977",b.weight: 106.23,group: a,1: 205,2: 210,3: -213,total: 210,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 5,burgener casey,usa,"born: aug 15, 1982",b.weight: 125.64,group: a,1: 210,2: -220,3: -220,total: 210,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 6,ota kazuomi,jpn,"born: jul 01, 1986",b.weight: 141.99,group: a,1: 190,2: 200,3: -203,total: 200,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: ---,sun hai bo,chn,"born: mar 25, 1983",b.weight: 142.63,group: a,1: -211,2: ---,3: ---,total: ---,+105kgmen,cleanjerk,OLYMPIC TEST EVENT
+rank: 1,steiner matthias,ger,"born: aug 25, 1982",b.weight: 137.33,group: a,snatch: 193,ci&jerk: 230,total: 423,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 2,kleszcz grzegorz,pol,"born: nov 12, 1977",b.weight: 132.06,group: a,snatch: 175,ci&jerk: 220,total: 395,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 3,gao le,chn,"born: mar 08, 1983",b.weight: 139.53,group: a,snatch: 171,ci&jerk: 220,total: 391,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 4,burgener casey,usa,"born: aug 15, 1982",b.weight: 125.64,group: a,snatch: 180,ci&jerk: 210,total: 390,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 5,dolega robert,pol,"born: dec 31, 1977",b.weight: 106.23,group: a,snatch: 170,ci&jerk: 210,total: 380,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 6,ota kazuomi,jpn,"born: jul 01, 1986",b.weight: 141.99,group: a,snatch: 160,ci&jerk: 200,total: 360,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: ---,sun hai bo,chn,"born: mar 25, 1983",b.weight: 142.63,group: a,snatch: 180,ci&jerk: ---,total: ---,,+105kgmen,total,OLYMPIC TEST EVENT
+rank: 1,wang mingjuan,chn,"born: oct 11, 1985",b.weight: 49.04,group: a,1: 85,2: 90,3: 92,total: 92,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 2,cen lijuan,chn,"born: jul 06, 1985",b.weight: 52.23,group: a,1: 80,2: 85,3: 90,total: 90,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 3,suda chaleephay,tha,"born: jun 06, 1987",b.weight: 52.52,group: a,1: 85,2: 89,3: - 91,total: 89,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 4,miyake hiromi,jpn,"born: nov 18, 1985",b.weight: 49.11,group: a,1: 78,2: 80,3: 82,total: 82,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 5,de la puente maria alvarez,esp,"born: mar 11, 1989",b.weight: 52.72,group: a,1: 75,2: 80,3: - 85,total: 80,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 6,lachaume andrieux virginie c. r.,fra,"born: mar 21, 1980",b.weight: 52.84,group: a,1: 73,2: 77,3: - 79,total: 77,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 7,amnuaiporn maneewan,tha,"born: apr 07, 1987",b.weight: 50.19,group: a,1: - 73,2: 73,3: - 75,total: 73,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 8,rowinska malwina,pol,"born: nov 06, 1986",b.weight: 52.96,group: a,1: 70,2: 73,3: - 75,total: 73,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 9,toua loa dika,png,"born: jun 23, 1984",b.weight: 51.80,group: a,1: 60,2: 65,3: 70,total: 70,53kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 1,wang mingjuan,chn,"born: oct 11, 1985",b.weight: 49.04,group: a,1: 105,2: 110,3: 113,total: 113,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 2,cen lijuan,chn,"born: jul 06, 1985",b.weight: 52.23,group: a,1: 100,2: 105,3: 111,total: 111,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 3,miyake hiromi,jpn,"born: nov 18, 1985",b.weight: 49.11,group: a,1: 103,2: 108,3: 110,total: 110,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 4,suda chaleephay,tha,"born: jun 06, 1987",b.weight: 52.52,group: a,1: 105,2: 110,3: -114,total: 110,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 5,rowinska malwina,pol,"born: nov 06, 1986",b.weight: 52.96,group: a,1: 95,2: 99,3: -101,total: 99,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 6,lachaume andrieux virginie c. r.,fra,"born: mar 21, 1980",b.weight: 52.84,group: a,1: 92,2: - 96,3: 96,total: 96,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 7,amnuaiporn maneewan,tha,"born: apr 07, 1987",b.weight: 50.19,group: a,1: 92,2: 95,3: - 98,total: 95,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 8,toua loa dika,png,"born: jun 23, 1984",b.weight: 51.80,group: a,1: 85,2: 90,3: 95,total: 95,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 9,de la puente maria alvarez,esp,"born: mar 11, 1989",b.weight: 52.72,group: a,1: 90,2: 95,3: -100,total: 95,53kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 1,wang mingjuan,chn,"born: oct 11, 1985",b.weight: 49.04,group: a,snatch: 92,ci&jerk: 113,total: 205,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 2,cen lijuan,chn,"born: jul 06, 1985",b.weight: 52.23,group: a,snatch: 90,ci&jerk: 111,total: 201,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 3,suda chaleephay,tha,"born: jun 06, 1987",b.weight: 52.52,group: a,snatch: 89,ci&jerk: 110,total: 199,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 4,miyake hiromi,jpn,"born: nov 18, 1985",b.weight: 49.11,group: a,snatch: 82,ci&jerk: 110,total: 192,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 5,de la puente maria alvarez,esp,"born: mar 11, 1989",b.weight: 52.72,group: a,snatch: 80,ci&jerk: 95,total: 175,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 6,lachaume andrieux virginie c. r.,fra,"born: mar 21, 1980",b.weight: 52.84,group: a,snatch: 77,ci&jerk: 96,total: 173,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 7,rowinska malwina,pol,"born: nov 06, 1986",b.weight: 52.96,group: a,snatch: 73,ci&jerk: 99,total: 172,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 8,amnuaiporn maneewan,tha,"born: apr 07, 1987",b.weight: 50.19,group: a,snatch: 73,ci&jerk: 95,total: 168,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 9,toua loa dika,png,"born: jun 23, 1984",b.weight: 51.80,group: a,snatch: 70,ci&jerk: 95,total: 165,,53kgwomen,total,OLYMPIC TEST EVENT
+rank: 1,huang huang,chn,"born: may 06, 1987",b.weight: 127.54,group: a,1: 110,2: 116,3: 119,total: 119,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 2,roditi aikaterini,gre,"born: may 23, 1983",b.weight: 101.34,group: a,1: 110,2: 115,3: 117,total: 117,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 3,kasapi vasiliki,gre,"born: mar 22, 1983",b.weight: 130.96,group: a,1: -115,2: 115,3: -118,total: 115,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 4,valentin perez lidia,esp,"born: feb 10, 1985",b.weight: 78.10,group: a,1: 105,2: 110,3: -116,total: 110,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 5,li rongyan,chn,"born: jan 05, 1991",b.weight: 76.90,group: a,1: 95,2: 102,3: -107,total: 102,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 6,shimamoto mami,jpn,"born: sep 24, 1987",b.weight: 108.96,group: a,1: 94,2: 98,3: -103,total: 98,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 7,jonai fumiko,jpn,"born: feb 19, 1985",b.weight: 109.77,group: a,1: 92,2: - 95,3: - 95,total: 92,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 8,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 83.22,group: a,1: 80,2: 85,3: - 87,total: 85,+75kgwomen,snatch,OLYMPIC TEST EVENT
+rank: 1,huang huang,chn,"born: may 06, 1987",b.weight: 127.54,group: a,1: 143,2: 148,3: 150,total: 150,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 2,roditi aikaterini,gre,"born: may 23, 1983",b.weight: 101.34,group: a,1: 132,2: -137,3: 137,total: 137,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 3,kasapi vasiliki,gre,"born: mar 22, 1983",b.weight: 130.96,group: a,1: -135,2: 135,3: -142,total: 135,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 4,shimamoto mami,jpn,"born: sep 24, 1987",b.weight: 108.96,group: a,1: 130,2: -135,3: -135,total: 130,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 5,li rongyan,chn,"born: jan 05, 1991",b.weight: 76.90,group: a,1: 120,2: -127,3: 127,total: 127,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 6,valentin perez lidia,esp,"born: feb 10, 1985",b.weight: 78.10,group: a,1: 120,2: 125,3: -131,total: 125,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 7,jonai fumiko,jpn,"born: feb 19, 1985",b.weight: 109.77,group: a,1: 125,2: -131,3: -131,total: 125,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: ---,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 83.22,group: a,1: -105,2: -105,3: ---,total: ---,+75kgwomen,cleanjerk,OLYMPIC TEST EVENT
+rank: 1,huang huang,chn,"born: may 06, 1987",b.weight: 127.54,group: a,snatch: 119,ci&jerk: 150,total: 269,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 2,roditi aikaterini,gre,"born: may 23, 1983",b.weight: 101.34,group: a,snatch: 117,ci&jerk: 137,total: 254,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 3,kasapi vasiliki,gre,"born: mar 22, 1983",b.weight: 130.96,group: a,snatch: 115,ci&jerk: 135,total: 250,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 4,valentin perez lidia,esp,"born: feb 10, 1985",b.weight: 78.10,group: a,snatch: 110,ci&jerk: 125,total: 235,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 5,li rongyan,chn,"born: jan 05, 1991",b.weight: 76.90,group: a,snatch: 102,ci&jerk: 127,total: 229,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 6,shimamoto mami,jpn,"born: sep 24, 1987",b.weight: 108.96,group: a,snatch: 98,ci&jerk: 130,total: 228,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: 7,jonai fumiko,jpn,"born: feb 19, 1985",b.weight: 109.77,group: a,snatch: 92,ci&jerk: 125,total: 217,,+75kgwomen,total,OLYMPIC TEST EVENT
+rank: ---,aborneva alexandra,kaz,"born: oct 30, 1986",b.weight: 83.22,group: a,snatch: 85,ci&jerk: ---,total: ---,,+75kgwomen,total,OLYMPIC TEST EVENT

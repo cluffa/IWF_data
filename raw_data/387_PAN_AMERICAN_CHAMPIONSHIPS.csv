@@ -1,0 +1,715 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+rank: 1,berna gonzalez carlos andres,col,"born: jan 21, 1990",b.weight: 56.00,group: a,1: 113,2: 116,3: 119,total: 119,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,garcia brito luis alberto,dom,"born: apr 19, 1995",b.weight: 55.77,group: a,1: -114,2: 115,3: 118,total: 118,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,ferruzola alava rafael patricio,ecu,"born: oct 16, 1997",b.weight: 55.99,group: a,1: 103,2: 106,3: 108,total: 108,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,barrera sandoval francisco javier,chi,"born: may 14, 1987",b.weight: 55.96,group: a,1: 100,2: 104,3: 107,total: 107,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,soto diego,chi,"born: jan 28, 1988",b.weight: 55.92,group: a,1: 90,2: 95,3: 100,total: 100,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,olmedo alvarez ruben alexis,pur,"born: mar 22, 1984",b.weight: 55.95,group: a,1: 95,2: -98,3: 98,total: 98,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,rivera barros julian javier,ecu,"born: jul 28, 1999",b.weight: 55.73,group: a,1: -96,2: 96,3: -101,total: 96,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,cruz lopez dario enrique,gua,"born: aug 23, 1997",b.weight: 55.71,group: a,1: 95,2: -99,3: -101,total: 95,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,martinez castillo ronnier zaed,pan,"born: dec 12, 2001",b.weight: 55.35,group: a,1: 89,2: 91,3: 93,total: 93,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,leyes jonatan martin,arg,"born: may 12, 2001",b.weight: 55.43,group: a,1: 83,2: -88,3: 88,total: 88,56kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,berna gonzalez carlos andres,col,"born: jan 21, 1990",b.weight: 56.00,group: a,1: 145,2: 149,3: 151,total: 151,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,garcia brito luis alberto,dom,"born: apr 19, 1995",b.weight: 55.77,group: a,1: -146,2: 146,3: 150,total: 150,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,ferruzola alava rafael patricio,ecu,"born: oct 16, 1997",b.weight: 55.99,group: a,1: 128,2: 132,3: 135,total: 135,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,barrera sandoval francisco javier,chi,"born: may 14, 1987",b.weight: 55.96,group: a,1: 130,2: 134,3: -137,total: 134,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,rivera barros julian javier,ecu,"born: jul 28, 1999",b.weight: 55.73,group: a,1: 125,2: -130,3: 131,total: 131,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,soto diego,chi,"born: jan 28, 1988",b.weight: 55.92,group: a,1: 112,2: 121,3: 126,total: 126,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,martinez castillo ronnier zaed,pan,"born: dec 12, 2001",b.weight: 55.35,group: a,1: 117,2: 120,3: 121,total: 121,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,cruz lopez dario enrique,gua,"born: aug 23, 1997",b.weight: 55.71,group: a,1: 120,2: -124,3: -126,total: 120,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,olmedo alvarez ruben alexis,pur,"born: mar 22, 1984",b.weight: 55.95,group: a,1: -115,2: 115,3: -120,total: 115,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,leyes jonatan martin,arg,"born: may 12, 2001",b.weight: 55.43,group: a,1: 110,2: -113,3: 113,total: 113,56kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,berna gonzalez carlos andres,col,"born: jan 21, 1990",b.weight: 56.00,group: a,snatch: 119,ci&jerk: 151,total: 270,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,garcia brito luis alberto,dom,"born: apr 19, 1995",b.weight: 55.77,group: a,snatch: 118,ci&jerk: 150,total: 268,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,ferruzola alava rafael patricio,ecu,"born: oct 16, 1997",b.weight: 55.99,group: a,snatch: 108,ci&jerk: 135,total: 243,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,barrera sandoval francisco javier,chi,"born: may 14, 1987",b.weight: 55.96,group: a,snatch: 107,ci&jerk: 134,total: 241,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,rivera barros julian javier,ecu,"born: jul 28, 1999",b.weight: 55.73,group: a,snatch: 96,ci&jerk: 131,total: 227,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,soto diego,chi,"born: jan 28, 1988",b.weight: 55.92,group: a,snatch: 100,ci&jerk: 126,total: 226,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,cruz lopez dario enrique,gua,"born: aug 23, 1997",b.weight: 55.71,group: a,snatch: 95,ci&jerk: 120,total: 215,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,martinez castillo ronnier zaed,pan,"born: dec 12, 2001",b.weight: 55.35,group: a,snatch: 93,ci&jerk: 121,total: 214,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,olmedo alvarez ruben alexis,pur,"born: mar 22, 1984",b.weight: 55.95,group: a,snatch: 98,ci&jerk: 115,total: 213,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,leyes jonatan martin,arg,"born: may 12, 2001",b.weight: 55.43,group: a,snatch: 88,ci&jerk: 113,total: 201,,56kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,zurita vallejo cristhian david,ecu,"born: feb 10, 1998",b.weight: 61.65,group: a,1: -121,2: 121,3: 125,total: 125,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,villareal dariel,cub,"born: feb 28, 1994",b.weight: 61.56,group: a,1: 120,2: 124,3: -126,total: 124,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,higuita barrera luis fernando,col,"born: jan 10, 1997",b.weight: 61.82,group: a,1: 123,2: -125,3: -126,total: 123,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,vazquez mendez antonio,mex,"born: aug 12, 1993",b.weight: 61.95,group: a,1: 121,2: -125,3: -126,total: 121,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,lopez pena roy sherlock,ven,"born: oct 21, 1992",b.weight: 61.65,group: a,1: 120,2: -125,3: -126,total: 120,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,pineda zeta edgar ismael,gua,"born: aug 17, 1997",b.weight: 61.20,group: a,1: 110,2: 116,3: -120,total: 116,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,acosta gonzalez julio cesar,chi,"born: jul 22, 1987",b.weight: 61.92,group: a,1: 112,2: 116,3: -119,total: 116,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,cruz escobar ramon ernesto,esa,"born: may 23, 1995",b.weight: 61.70,group: a,1: 110,2: 115,3: -117,total: 115,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,carrasco valdez jefri miguel,dom,"born: nov 15, 1995",b.weight: 61.42,group: a,1: 111,2: 115,3: -117,total: 115,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,balam naal maximiliano,mex,"born: feb 09, 1998",b.weight: 61.52,group: a,1: 107,2: 111,3: -113,total: 111,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,salamanca pineda julio cesar,esa,"born: jul 15, 1989",b.weight: 61.83,group: a,1: 110,2: -113,3: -113,total: 110,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,jimenes nahuel carlos daniel,arg,"born: jun 21, 1996",b.weight: 61.66,group: a,1: 106,2: 110,3: -114,total: 110,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,guzman perez bryan gilberto,pur,"born: nov 30, 1997",b.weight: 58.98,group: a,1: 95,2: 100,3: 103,total: 103,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,villanueva molina axiel,pur,"born: sep 15, 1996",b.weight: 60.39,group: a,1: 98,2: -102,3: -103,total: 98,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,cuevas arcia dario isael,pan,"born: apr 21, 1996",b.weight: 60.94,group: a,1: 90,2: 95,3: 97,total: 97,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,rojas briones kevin yorjanny,crc,"born: mar 28, 1996",b.weight: 59.82,group: a,1: -88,2: -88,3: 88,total: 88,62kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,vazquez mendez antonio,mex,"born: aug 12, 1993",b.weight: 61.95,group: a,1: 161,2: -170,3: -170,total: 161,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,higuita barrera luis fernando,col,"born: jan 10, 1997",b.weight: 61.82,group: a,1: 153,2: 156,3: 158,total: 158,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,lopez pena roy sherlock,ven,"born: oct 21, 1992",b.weight: 61.65,group: a,1: 150,2: 154,3: -157,total: 154,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,pineda zeta edgar ismael,gua,"born: aug 17, 1997",b.weight: 61.20,group: a,1: 150,2: -155,3: -155,total: 150,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,zurita vallejo cristhian david,ecu,"born: feb 10, 1998",b.weight: 61.65,group: a,1: 143,2: 148,3: -151,total: 148,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,balam naal maximiliano,mex,"born: feb 09, 1998",b.weight: 61.52,group: a,1: 136,2: 142,3: 147,total: 147,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,acosta gonzalez julio cesar,chi,"born: jul 22, 1987",b.weight: 61.92,group: a,1: 140,2: 146,3: -151,total: 146,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,carrasco valdez jefri miguel,dom,"born: nov 15, 1995",b.weight: 61.42,group: a,1: 141,2: 146,3: -148,total: 146,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,villareal dariel,cub,"born: feb 28, 1994",b.weight: 61.56,group: a,1: 145,2: -150,3: -150,total: 145,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,salamanca pineda julio cesar,esa,"born: jul 15, 1989",b.weight: 61.83,group: a,1: 140,2: 145,3: ---,total: 145,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,cruz escobar ramon ernesto,esa,"born: may 23, 1995",b.weight: 61.70,group: a,1: 140,2: -146,3: -147,total: 140,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,jimenes nahuel carlos daniel,arg,"born: jun 21, 1996",b.weight: 61.66,group: a,1: -136,2: -136,3: 136,total: 136,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,guzman perez bryan gilberto,pur,"born: nov 30, 1997",b.weight: 58.98,group: a,1: 120,2: 127,3: -131,total: 127,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,villanueva molina axiel,pur,"born: sep 15, 1996",b.weight: 60.39,group: a,1: 120,2: -127,3: 127,total: 127,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,cuevas arcia dario isael,pan,"born: apr 21, 1996",b.weight: 60.94,group: a,1: 117,2: 121,3: -123,total: 121,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,rojas briones kevin yorjanny,crc,"born: mar 28, 1996",b.weight: 59.82,group: a,1: 103,2: -110,3: 110,total: 110,62kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,vazquez mendez antonio,mex,"born: aug 12, 1993",b.weight: 61.95,group: a,snatch: 121,ci&jerk: 161,total: 282,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,higuita barrera luis fernando,col,"born: jan 10, 1997",b.weight: 61.82,group: a,snatch: 123,ci&jerk: 158,total: 281,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,lopez pena roy sherlock,ven,"born: oct 21, 1992",b.weight: 61.65,group: a,snatch: 120,ci&jerk: 154,total: 274,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,zurita vallejo cristhian david,ecu,"born: feb 10, 1998",b.weight: 61.65,group: a,snatch: 125,ci&jerk: 148,total: 273,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,villareal dariel,cub,"born: feb 28, 1994",b.weight: 61.56,group: a,snatch: 124,ci&jerk: 145,total: 269,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,pineda zeta edgar ismael,gua,"born: aug 17, 1997",b.weight: 61.20,group: a,snatch: 116,ci&jerk: 150,total: 266,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,acosta gonzalez julio cesar,chi,"born: jul 22, 1987",b.weight: 61.92,group: a,snatch: 116,ci&jerk: 146,total: 262,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,carrasco valdez jefri miguel,dom,"born: nov 15, 1995",b.weight: 61.42,group: a,snatch: 115,ci&jerk: 146,total: 261,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,balam naal maximiliano,mex,"born: feb 09, 1998",b.weight: 61.52,group: a,snatch: 111,ci&jerk: 147,total: 258,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,cruz escobar ramon ernesto,esa,"born: may 23, 1995",b.weight: 61.70,group: a,snatch: 115,ci&jerk: 140,total: 255,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,salamanca pineda julio cesar,esa,"born: jul 15, 1989",b.weight: 61.83,group: a,snatch: 110,ci&jerk: 145,total: 255,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,jimenes nahuel carlos daniel,arg,"born: jun 21, 1996",b.weight: 61.66,group: a,snatch: 110,ci&jerk: 136,total: 246,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,guzman perez bryan gilberto,pur,"born: nov 30, 1997",b.weight: 58.98,group: a,snatch: 103,ci&jerk: 127,total: 230,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,villanueva molina axiel,pur,"born: sep 15, 1996",b.weight: 60.39,group: a,snatch: 98,ci&jerk: 127,total: 225,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,cuevas arcia dario isael,pan,"born: apr 21, 1996",b.weight: 60.94,group: a,snatch: 97,ci&jerk: 121,total: 218,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,rojas briones kevin yorjanny,crc,"born: mar 28, 1996",b.weight: 59.82,group: a,snatch: 88,ci&jerk: 110,total: 198,,62kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,mosquera lozano luis javier,col,"born: mar 27, 1995",b.weight: 68.82,group: a,1: -145,2: 145,3: -156,total: 145,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,mayora pernia julio ruben,ven,"born: sep 02, 1996",b.weight: 68.65,group: a,1: 135,2: 140,3: 143,total: 143,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,munoz martinez jonathan antonio,mex,"born: nov 10, 1995",b.weight: 68.89,group: a,1: 132,2: -136,3: 137,total: 137,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,alvarado celis whilliam alexey,bra,"born: feb 13, 1988",b.weight: 68.59,group: a,1: 127,2: 132,3: 136,total: 136,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,herrera cepeda erik elvis,ecu,"born: jul 28, 1994",b.weight: 68.85,group: a,1: 125,2: 130,3: -133,total: 130,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,fernandes silveira rafael,bra,"born: dec 27, 1996",b.weight: 68.60,group: a,1: 120,2: 125,3: 128,total: 128,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,guanteo alejandro,chi,"born: jan 01, 1995",b.weight: 68.80,group: a,1: 115,2: -121,3: 121,total: 121,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,rosario garcia jean carlos,dom,"born: feb 25, 1995",b.weight: 68.57,group: a,1: 115,2: 120,3: -123,total: 120,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,batista valdespino juan abdiel,pan,"born: may 27, 1990",b.weight: 68.29,group: a,1: 113,2: 117,3: 119,total: 119,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,bustamante yetzari,chi,"born: dec 03, 1987",b.weight: 68.85,group: a,1: 110,2: 115,3: 118,total: 118,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,mendez ye henry geovany,gua,"born: mar 15, 1999",b.weight: 66.86,group: a,1: 107,2: 111,3: -116,total: 111,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,lopez franco jonas,arg,"born: oct 28, 1985",b.weight: 67.79,group: a,1: 98,2: 102,3: 105,total: 105,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,romero franco emiliano,arg,"born: aug 30, 1997",b.weight: 68.34,group: a,1: -100,2: -100,3: 100,total: 100,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,coria gutierrez bernardo,uru,"born: jun 06, 1995",b.weight: 67.27,group: a,1: 93,2: 98,3: -102,total: 98,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,carvajal sanchez esteban francisco,crc,"born: aug 02, 1992",b.weight: 68.09,group: a,1: 92,2: -98,3: 98,total: 98,69kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,mosquera lozano luis javier,col,"born: mar 27, 1995",b.weight: 68.82,group: a,1: 175,2: 180,3: -190,total: 180,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,mayora pernia julio ruben,ven,"born: sep 02, 1996",b.weight: 68.65,group: a,1: 168,2: 172,3: -179,total: 172,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,munoz martinez jonathan antonio,mex,"born: nov 10, 1995",b.weight: 68.89,group: a,1: 167,2: 171,3: -179,total: 171,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,herrera cepeda erik elvis,ecu,"born: jul 28, 1994",b.weight: 68.85,group: a,1: 160,2: 167,3: 170,total: 170,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,alvarado celis whilliam alexey,bra,"born: feb 13, 1988",b.weight: 68.59,group: a,1: 158,2: -163,3: 163,total: 163,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rosario garcia jean carlos,dom,"born: feb 25, 1995",b.weight: 68.57,group: a,1: 150,2: 154,3: 160,total: 160,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,guanteo alejandro,chi,"born: jan 01, 1995",b.weight: 68.80,group: a,1: 145,2: 152,3: -155,total: 152,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,batista valdespino juan abdiel,pan,"born: may 27, 1990",b.weight: 68.29,group: a,1: 145,2: 150,3: 152,total: 152,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,bustamante yetzari,chi,"born: dec 03, 1987",b.weight: 68.85,group: a,1: 145,2: 151,3: -154,total: 151,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,fernandes silveira rafael,bra,"born: dec 27, 1996",b.weight: 68.60,group: a,1: 146,2: 150,3: -153,total: 150,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,mendez ye henry geovany,gua,"born: mar 15, 1999",b.weight: 66.86,group: a,1: -135,2: 136,3: -141,total: 136,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,romero franco emiliano,arg,"born: aug 30, 1997",b.weight: 68.34,group: a,1: 125,2: 135,3: -140,total: 135,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,lopez franco jonas,arg,"born: oct 28, 1985",b.weight: 67.79,group: a,1: 128,2: 133,3: -136,total: 133,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,carvajal sanchez esteban francisco,crc,"born: aug 02, 1992",b.weight: 68.09,group: a,1: 118,2: 122,3: -126,total: 122,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,coria gutierrez bernardo,uru,"born: jun 06, 1995",b.weight: 67.27,group: a,1: 115,2: 121,3: -126,total: 121,69kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,mosquera lozano luis javier,col,"born: mar 27, 1995",b.weight: 68.82,group: a,snatch: 145,ci&jerk: 180,total: 325,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,mayora pernia julio ruben,ven,"born: sep 02, 1996",b.weight: 68.65,group: a,snatch: 143,ci&jerk: 172,total: 315,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,munoz martinez jonathan antonio,mex,"born: nov 10, 1995",b.weight: 68.89,group: a,snatch: 137,ci&jerk: 171,total: 308,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,herrera cepeda erik elvis,ecu,"born: jul 28, 1994",b.weight: 68.85,group: a,snatch: 130,ci&jerk: 170,total: 300,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,alvarado celis whilliam alexey,bra,"born: feb 13, 1988",b.weight: 68.59,group: a,snatch: 136,ci&jerk: 163,total: 299,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rosario garcia jean carlos,dom,"born: feb 25, 1995",b.weight: 68.57,group: a,snatch: 120,ci&jerk: 160,total: 280,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,fernandes silveira rafael,bra,"born: dec 27, 1996",b.weight: 68.60,group: a,snatch: 128,ci&jerk: 150,total: 278,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,guanteo alejandro,chi,"born: jan 01, 1995",b.weight: 68.80,group: a,snatch: 121,ci&jerk: 152,total: 273,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,batista valdespino juan abdiel,pan,"born: may 27, 1990",b.weight: 68.29,group: a,snatch: 119,ci&jerk: 152,total: 271,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,bustamante yetzari,chi,"born: dec 03, 1987",b.weight: 68.85,group: a,snatch: 118,ci&jerk: 151,total: 269,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,mendez ye henry geovany,gua,"born: mar 15, 1999",b.weight: 66.86,group: a,snatch: 111,ci&jerk: 136,total: 247,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,lopez franco jonas,arg,"born: oct 28, 1985",b.weight: 67.79,group: a,snatch: 105,ci&jerk: 133,total: 238,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,romero franco emiliano,arg,"born: aug 30, 1997",b.weight: 68.34,group: a,snatch: 100,ci&jerk: 135,total: 235,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,carvajal sanchez esteban francisco,crc,"born: aug 02, 1992",b.weight: 68.09,group: a,snatch: 98,ci&jerk: 122,total: 220,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,coria gutierrez bernardo,uru,"born: jun 06, 1995",b.weight: 67.27,group: a,snatch: 98,ci&jerk: 121,total: 219,,69kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,lopez lopez yeison,col,"born: jan 09, 1999",b.weight: 76.94,group: a,1: 153,2: 158,3: 162,total: 162,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,rodallegas carvajal brayan santiago,col,"born: nov 15, 1997",b.weight: 76.97,group: a,1: 146,2: 150,3: 152,total: 152,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,sanchez rivero junior antonio,ven,"born: jun 01, 1989",b.weight: 75.34,group: a,1: 142,2: 147,3: 151,total: 151,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,bianco iii angelo,usa,"born: jun 24, 1993",b.weight: 76.72,group: a,1: 140,2: 145,3: -150,total: 145,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,castro palma darvin jesus,ven,"born: jun 11, 1995",b.weight: 76.82,group: a,1: 137,2: 142,3: -146,total: 142,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,reyes oscar,cub,"born: oct 06, 1996",b.weight: 75.73,group: a,1: 137,2: -142,3: 142,total: 142,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,maurus harrison james,usa,"born: feb 26, 2000",b.weight: 76.81,group: a,1: -138,2: 138,3: 142,total: 142,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,bellemarre alex,can,"born: jun 22, 1998",b.weight: 76.51,group: a,1: 140,2: -144,3: -144,total: 140,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,pena mejia juan jesus,dom,"born: dec 15, 1992",b.weight: 76.66,group: a,1: 136,2: -141,3: -141,total: 136,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,boisclair jerome,can,"born: aug 13, 1991",b.weight: 76.93,group: b,1: 130,2: -134,3: 134,total: 134,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,gurrola ortiz rogelio alfonso,mex,"born: aug 19, 1997",b.weight: 76.94,group: a,1: 133,2: -137,3: -137,total: 133,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,viquez quiroz maximo,pan,"born: feb 12, 1982",b.weight: 76.30,group: b,1: 127,2: 131,3: -135,total: 131,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,gaspar machado rafael,bra,"born: may 18, 1990",b.weight: 76.47,group: b,1: 130,2: -135,3: -135,total: 130,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,valdizon coronado oscar fernando,gua,"born: jun 12, 1989",b.weight: 75.09,group: b,1: 125,2: -131,3: -132,total: 125,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,batista estrada ariel eloy,pan,"born: mar 12, 1991",b.weight: 74.97,group: b,1: -125,2: 125,3: -130,total: 125,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,sanchez velez jorge jesus,pur,"born: nov 04, 1998",b.weight: 71.66,group: b,1: 122,2: -128,3: -128,total: 122,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,borget jose carlos,arg,"born: apr 11, 1996",b.weight: 76.42,group: b,1: 108,2: 115,3: 118,total: 118,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto montecino eduardo alexis,chi,"born: mar 25, 1995",b.weight: 71.75,group: b,1: 110,2: -117,3: 117,total: 117,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,forde romario anderson,bar,"born: dec 10, 1996",b.weight: 76.39,group: b,1: 115,2: -120,3: -120,total: 115,77kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,lopez lopez yeison,col,"born: jan 09, 1999",b.weight: 76.94,group: a,1: 187,2: 190,3: -200,total: 190,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,bianco iii angelo,usa,"born: jun 24, 1993",b.weight: 76.72,group: a,1: 175,2: 182,3: 188,total: 188,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,maurus harrison james,usa,"born: feb 26, 2000",b.weight: 76.81,group: a,1: -180,2: 180,3: 186,total: 186,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,sanchez rivero junior antonio,ven,"born: jun 01, 1989",b.weight: 75.34,group: a,1: 180,2: -186,3: -187,total: 180,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,rodallegas carvajal brayan santiago,col,"born: nov 15, 1997",b.weight: 76.97,group: a,1: 179,2: -186,3: -187,total: 179,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,castro palma darvin jesus,ven,"born: jun 11, 1995",b.weight: 76.82,group: a,1: 168,2: 173,3: -179,total: 173,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,reyes oscar,cub,"born: oct 06, 1996",b.weight: 75.73,group: a,1: 167,2: 172,3: -175,total: 172,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,sanchez velez jorge jesus,pur,"born: nov 04, 1998",b.weight: 71.66,group: b,1: -160,2: 160,3: 168,total: 168,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,gurrola ortiz rogelio alfonso,mex,"born: aug 19, 1997",b.weight: 76.94,group: a,1: 162,2: 166,3: -171,total: 166,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,valdizon coronado oscar fernando,gua,"born: jun 12, 1989",b.weight: 75.09,group: b,1: 160,2: -166,3: 166,total: 166,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,pena mejia juan jesus,dom,"born: dec 15, 1992",b.weight: 76.66,group: a,1: 165,2: -170,3: -170,total: 165,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,bellemarre alex,can,"born: jun 22, 1998",b.weight: 76.51,group: a,1: 160,2: -165,3: 165,total: 165,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,gaspar machado rafael,bra,"born: may 18, 1990",b.weight: 76.47,group: b,1: -156,2: 156,3: 162,total: 162,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,viquez quiroz maximo,pan,"born: feb 12, 1982",b.weight: 76.30,group: b,1: 155,2: 160,3: -162,total: 160,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,boisclair jerome,can,"born: aug 13, 1991",b.weight: 76.93,group: b,1: -160,2: 160,3: -166,total: 160,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,forde romario anderson,bar,"born: dec 10, 1996",b.weight: 76.39,group: b,1: 150,2: 155,3: -160,total: 155,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,batista estrada ariel eloy,pan,"born: mar 12, 1991",b.weight: 74.97,group: b,1: 150,2: -155,3: 155,total: 155,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto montecino eduardo alexis,chi,"born: mar 25, 1995",b.weight: 71.75,group: b,1: 140,2: 145,3: 150,total: 150,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,borget jose carlos,arg,"born: apr 11, 1996",b.weight: 76.42,group: b,1: 135,2: -140,3: -140,total: 135,77kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,lopez lopez yeison,col,"born: jan 09, 1999",b.weight: 76.94,group: a,snatch: 162,ci&jerk: 190,total: 352,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,bianco iii angelo,usa,"born: jun 24, 1993",b.weight: 76.72,group: a,snatch: 145,ci&jerk: 188,total: 333,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,rodallegas carvajal brayan santiago,col,"born: nov 15, 1997",b.weight: 76.97,group: a,snatch: 152,ci&jerk: 179,total: 331,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,sanchez rivero junior antonio,ven,"born: jun 01, 1989",b.weight: 75.34,group: a,snatch: 151,ci&jerk: 180,total: 331,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,maurus harrison james,usa,"born: feb 26, 2000",b.weight: 76.81,group: a,snatch: 142,ci&jerk: 186,total: 328,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,castro palma darvin jesus,ven,"born: jun 11, 1995",b.weight: 76.82,group: a,snatch: 142,ci&jerk: 173,total: 315,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,reyes oscar,cub,"born: oct 06, 1996",b.weight: 75.73,group: a,snatch: 142,ci&jerk: 172,total: 314,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,bellemarre alex,can,"born: jun 22, 1998",b.weight: 76.51,group: a,snatch: 140,ci&jerk: 165,total: 305,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,pena mejia juan jesus,dom,"born: dec 15, 1992",b.weight: 76.66,group: a,snatch: 136,ci&jerk: 165,total: 301,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,gurrola ortiz rogelio alfonso,mex,"born: aug 19, 1997",b.weight: 76.94,group: a,snatch: 133,ci&jerk: 166,total: 299,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,boisclair jerome,can,"born: aug 13, 1991",b.weight: 76.93,group: b,snatch: 134,ci&jerk: 160,total: 294,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gaspar machado rafael,bra,"born: may 18, 1990",b.weight: 76.47,group: b,snatch: 130,ci&jerk: 162,total: 292,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,viquez quiroz maximo,pan,"born: feb 12, 1982",b.weight: 76.30,group: b,snatch: 131,ci&jerk: 160,total: 291,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,valdizon coronado oscar fernando,gua,"born: jun 12, 1989",b.weight: 75.09,group: b,snatch: 125,ci&jerk: 166,total: 291,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,sanchez velez jorge jesus,pur,"born: nov 04, 1998",b.weight: 71.66,group: b,snatch: 122,ci&jerk: 168,total: 290,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,batista estrada ariel eloy,pan,"born: mar 12, 1991",b.weight: 74.97,group: b,snatch: 125,ci&jerk: 155,total: 280,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,forde romario anderson,bar,"born: dec 10, 1996",b.weight: 76.39,group: b,snatch: 115,ci&jerk: 155,total: 270,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto montecino eduardo alexis,chi,"born: mar 25, 1995",b.weight: 71.75,group: b,snatch: 117,ci&jerk: 150,total: 267,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,borget jose carlos,arg,"born: apr 11, 1996",b.weight: 76.42,group: b,snatch: 118,ci&jerk: 135,total: 253,,77kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,moreno torres jhor esneider,col,"born: oct 02, 1995",b.weight: 84.84,group: a,1: 153,2: 157,3: 160,total: 160,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,rivas mosquera jhonatan,col,"born: jul 11, 1998",b.weight: 84.72,group: a,1: -155,2: 155,3: 159,total: 159,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,hernandez paumier yoelmis,cub,"born: apr 25, 1986",b.weight: 83.45,group: a,1: 150,2: 155,3: 158,total: 158,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,vallenilla sanchez keydomar giovanni,ven,"born: oct 08, 1999",b.weight: 84.36,group: a,1: 150,2: 156,3: -160,total: 156,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,saez vera olfides,cub,"born: sep 24, 1994",b.weight: 84.60,group: a,1: 150,2: -155,3: 155,total: 155,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,luna marin angel jose,ven,"born: oct 13, 1994",b.weight: 84.28,group: a,1: 147,2: 154,3: -158,total: 154,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,ferreira da silva josue lucas,bra,"born: aug 07, 1992",b.weight: 84.61,group: a,1: -150,2: -150,3: 150,total: 150,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,rosa da silva welisson,bra,"born: nov 22, 1983",b.weight: 84.52,group: a,1: 140,2: 146,3: -151,total: 146,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,gaitan jonathan,mex,"born: dec 12, 1991",b.weight: 84.52,group: b,1: 128,2: 132,3: -135,total: 132,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,marineau mathieu,can,"born: dec 01, 1990",b.weight: 84.77,group: b,1: 120,2: 130,3: -135,total: 130,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,hernandez martinez alexander,pur,"born: jan 28, 1990",b.weight: 84.15,group: b,1: 123,2: 130,3: -137,total: 130,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,araujo gonzalez amilcar assis,pan,"born: jan 20, 1988",b.weight: 84.91,group: b,1: 115,2: 120,3: 125,total: 125,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lopez farias bastian andres,chi,"born: sep 26, 1995",b.weight: 84.39,group: a,1: -145,2: -145,3: -145,total: ---,85kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,hernandez paumier yoelmis,cub,"born: apr 25, 1986",b.weight: 83.45,group: a,1: 194,2: 199,3: 203,total: 203,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,moreno torres jhor esneider,col,"born: oct 02, 1995",b.weight: 84.84,group: a,1: 192,2: 196,3: 200,total: 200,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,vallenilla sanchez keydomar giovanni,ven,"born: oct 08, 1999",b.weight: 84.36,group: a,1: 189,2: -194,3: 195,total: 195,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,luna marin angel jose,ven,"born: oct 13, 1994",b.weight: 84.28,group: a,1: -189,2: 189,3: 194,total: 194,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,saez vera olfides,cub,"born: sep 24, 1994",b.weight: 84.60,group: a,1: 185,2: 190,3: 193,total: 193,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,lopez farias bastian andres,chi,"born: sep 26, 1995",b.weight: 84.39,group: a,1: 184,2: -190,3: 191,total: 191,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,rivas mosquera jhonatan,col,"born: jul 11, 1998",b.weight: 84.72,group: a,1: 187,2: -192,3: ---,total: 187,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,rosa da silva welisson,bra,"born: nov 22, 1983",b.weight: 84.52,group: a,1: 175,2: 182,3: -190,total: 182,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,ferreira da silva josue lucas,bra,"born: aug 07, 1992",b.weight: 84.61,group: a,1: 176,2: -185,3: -188,total: 176,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,hernandez martinez alexander,pur,"born: jan 28, 1990",b.weight: 84.15,group: b,1: 160,2: 165,3: 172,total: 172,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,marineau mathieu,can,"born: dec 01, 1990",b.weight: 84.77,group: b,1: 158,2: 167,3: -176,total: 167,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gaitan jonathan,mex,"born: dec 12, 1991",b.weight: 84.52,group: b,1: 161,2: 166,3: -172,total: 166,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,araujo gonzalez amilcar assis,pan,"born: jan 20, 1988",b.weight: 84.91,group: b,1: -150,2: -150,3: -150,total: ---,85kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,hernandez paumier yoelmis,cub,"born: apr 25, 1986",b.weight: 83.45,group: a,snatch: 158,ci&jerk: 203,total: 361,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,moreno torres jhor esneider,col,"born: oct 02, 1995",b.weight: 84.84,group: a,snatch: 160,ci&jerk: 200,total: 360,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,vallenilla sanchez keydomar giovanni,ven,"born: oct 08, 1999",b.weight: 84.36,group: a,snatch: 156,ci&jerk: 195,total: 351,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,saez vera olfides,cub,"born: sep 24, 1994",b.weight: 84.60,group: a,snatch: 155,ci&jerk: 193,total: 348,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,luna marin angel jose,ven,"born: oct 13, 1994",b.weight: 84.28,group: a,snatch: 154,ci&jerk: 194,total: 348,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rivas mosquera jhonatan,col,"born: jul 11, 1998",b.weight: 84.72,group: a,snatch: 159,ci&jerk: 187,total: 346,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,rosa da silva welisson,bra,"born: nov 22, 1983",b.weight: 84.52,group: a,snatch: 146,ci&jerk: 182,total: 328,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,ferreira da silva josue lucas,bra,"born: aug 07, 1992",b.weight: 84.61,group: a,snatch: 150,ci&jerk: 176,total: 326,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,hernandez martinez alexander,pur,"born: jan 28, 1990",b.weight: 84.15,group: b,snatch: 130,ci&jerk: 172,total: 302,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,gaitan jonathan,mex,"born: dec 12, 1991",b.weight: 84.52,group: b,snatch: 132,ci&jerk: 166,total: 298,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,marineau mathieu,can,"born: dec 01, 1990",b.weight: 84.77,group: b,snatch: 130,ci&jerk: 167,total: 297,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lopez farias bastian andres,chi,"born: sep 26, 1995",b.weight: 84.39,group: a,snatch: ---,ci&jerk: 191,total: ---,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,araujo gonzalez amilcar assis,pan,"born: jan 20, 1988",b.weight: 84.91,group: b,snatch: 125,ci&jerk: ---,total: ---,,85kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,burns colin thomas,usa,"born: sep 26, 1983",b.weight: 93.92,group: a,1: 160,2: 165,3: 169,total: 169,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,gregorio machado marco tulio,bra,"born: nov 03, 1991",b.weight: 93.49,group: a,1: 161,2: 166,3: -170,total: 166,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,quinones benites victor manuel,cub,"born: jan 03, 1992",b.weight: 92.80,group: a,1: 157,2: 161,3: 166,total: 166,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,arias mosquera jeyson alonso,ven,"born: sep 09, 1993",b.weight: 93.68,group: a,1: 150,2: 156,3: -160,total: 156,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,ferrin arroyo paul alexander,ecu,"born: oct 20, 1995",b.weight: 93.70,group: a,1: 150,2: -155,3: 156,total: 156,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,damron nathan charles,usa,"born: may 06, 1996",b.weight: 93.21,group: a,1: 150,2: -156,3: -156,total: 150,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,perez fuentes rigoberto,mex,"born: mar 13, 1994",b.weight: 93.82,group: a,1: 141,2: -146,3: 146,total: 146,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,lamenza lopez luis armando,pur,"born: may 06, 1998",b.weight: 92.69,group: b,1: 135,2: 140,3: 145,total: 145,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,kienitz maximiliano claus,arg,"born: sep 04, 1990",b.weight: 91.77,group: a,1: 138,2: -142,3: 142,total: 142,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,castillo rodriguez javier antonio,gua,"born: may 07, 1986",b.weight: 91.16,group: a,1: 135,2: 140,3: -143,total: 140,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,wormald cisterna kevin enrique,chi,"born: sep 11, 1996",b.weight: 85.32,group: a,1: 137,2: -142,3: -142,total: 137,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,juanico puppo enrique,uru,"born: oct 14, 1994",b.weight: 93.09,group: b,1: 130,2: -136,3: -136,total: 130,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,arzamendia vatteone ronald alberto,par,"born: nov 17, 1993",b.weight: 92.26,group: b,1: -125,2: 125,3: 130,total: 130,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,martinez castillo mario omar,pan,"born: feb 06, 1990",b.weight: 93.36,group: b,1: -127,2: 127,3: -131,total: 127,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,linton perez christopher,crc,"born: feb 04, 1987",b.weight: 92.37,group: b,1: 121,2: 125,3: -130,total: 125,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,badilla cespedes luis andres,crc,"born: feb 19, 1988",b.weight: 87.24,group: b,1: ---,2: ---,3: ---,total: ---,94kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,arias mosquera jeyson alonso,ven,"born: sep 09, 1993",b.weight: 93.68,group: a,1: 190,2: 195,3: 200,total: 200,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,burns colin thomas,usa,"born: sep 26, 1983",b.weight: 93.92,group: a,1: 191,2: -197,3: 197,total: 197,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,gregorio machado marco tulio,bra,"born: nov 03, 1991",b.weight: 93.49,group: a,1: 190,2: 195,3: -201,total: 195,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,damron nathan charles,usa,"born: may 06, 1996",b.weight: 93.21,group: a,1: 184,2: -192,3: 193,total: 193,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,ferrin arroyo paul alexander,ecu,"born: oct 20, 1995",b.weight: 93.70,group: a,1: 183,2: 187,3: 192,total: 192,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,quinones benites victor manuel,cub,"born: jan 03, 1992",b.weight: 92.80,group: a,1: 191,2: -196,3: -196,total: 191,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,perez fuentes rigoberto,mex,"born: mar 13, 1994",b.weight: 93.82,group: a,1: 181,2: 185,3: 190,total: 190,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,kienitz maximiliano claus,arg,"born: sep 04, 1990",b.weight: 91.77,group: a,1: 172,2: 180,3: -182,total: 180,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,lamenza lopez luis armando,pur,"born: may 06, 1998",b.weight: 92.69,group: b,1: 170,2: -177,3: 177,total: 177,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,castillo rodriguez javier antonio,gua,"born: may 07, 1986",b.weight: 91.16,group: a,1: 170,2: 176,3: -180,total: 176,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,wormald cisterna kevin enrique,chi,"born: sep 11, 1996",b.weight: 85.32,group: a,1: 170,2: -180,3: -180,total: 170,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,arzamendia vatteone ronald alberto,par,"born: nov 17, 1993",b.weight: 92.26,group: b,1: 155,2: 160,3: 163,total: 163,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,linton perez christopher,crc,"born: feb 04, 1987",b.weight: 92.37,group: b,1: 155,2: 160,3: 163,total: 163,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,juanico puppo enrique,uru,"born: oct 14, 1994",b.weight: 93.09,group: b,1: 155,2: 161,3: -164,total: 161,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,martinez castillo mario omar,pan,"born: feb 06, 1990",b.weight: 93.36,group: b,1: -156,2: 156,3: 160,total: 160,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,badilla cespedes luis andres,crc,"born: feb 19, 1988",b.weight: 87.24,group: b,1: ---,2: ---,3: ---,total: ---,94kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,burns colin thomas,usa,"born: sep 26, 1983",b.weight: 93.92,group: a,snatch: 169,ci&jerk: 197,total: 366,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,gregorio machado marco tulio,bra,"born: nov 03, 1991",b.weight: 93.49,group: a,snatch: 166,ci&jerk: 195,total: 361,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,quinones benites victor manuel,cub,"born: jan 03, 1992",b.weight: 92.80,group: a,snatch: 166,ci&jerk: 191,total: 357,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,arias mosquera jeyson alonso,ven,"born: sep 09, 1993",b.weight: 93.68,group: a,snatch: 156,ci&jerk: 200,total: 356,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,ferrin arroyo paul alexander,ecu,"born: oct 20, 1995",b.weight: 93.70,group: a,snatch: 156,ci&jerk: 192,total: 348,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,damron nathan charles,usa,"born: may 06, 1996",b.weight: 93.21,group: a,snatch: 150,ci&jerk: 193,total: 343,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,perez fuentes rigoberto,mex,"born: mar 13, 1994",b.weight: 93.82,group: a,snatch: 146,ci&jerk: 190,total: 336,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,lamenza lopez luis armando,pur,"born: may 06, 1998",b.weight: 92.69,group: b,snatch: 145,ci&jerk: 177,total: 322,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,kienitz maximiliano claus,arg,"born: sep 04, 1990",b.weight: 91.77,group: a,snatch: 142,ci&jerk: 180,total: 322,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,castillo rodriguez javier antonio,gua,"born: may 07, 1986",b.weight: 91.16,group: a,snatch: 140,ci&jerk: 176,total: 316,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,wormald cisterna kevin enrique,chi,"born: sep 11, 1996",b.weight: 85.32,group: a,snatch: 137,ci&jerk: 170,total: 307,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,arzamendia vatteone ronald alberto,par,"born: nov 17, 1993",b.weight: 92.26,group: b,snatch: 130,ci&jerk: 163,total: 293,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,juanico puppo enrique,uru,"born: oct 14, 1994",b.weight: 93.09,group: b,snatch: 130,ci&jerk: 161,total: 291,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,linton perez christopher,crc,"born: feb 04, 1987",b.weight: 92.37,group: b,snatch: 125,ci&jerk: 163,total: 288,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,martinez castillo mario omar,pan,"born: feb 06, 1990",b.weight: 93.36,group: b,snatch: 127,ci&jerk: 160,total: 287,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,badilla cespedes luis andres,crc,"born: feb 19, 1988",b.weight: 87.24,group: b,snatch: ---,ci&jerk: ---,total: ---,,94kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,arroyo valdez jorge david,ecu,"born: sep 23, 1991",b.weight: 104.30,group: a,1: 174,2: 176,3: 182,total: 182,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,kitts wesley brian,usa,"born: may 22, 1990",b.weight: 104.63,group: a,1: 162,2: 170,3: 175,total: 175,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,columbie saname juan,cub,"born: jan 24, 1995",b.weight: 102.71,group: a,1: 158,2: 163,3: 167,total: 167,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,familia checo jose andres,dom,"born: nov 24, 1990",b.weight: 104.66,group: a,1: 157,2: -165,3: 165,total: 165,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,gonzalez barrios jesus abrahan,ven,"born: apr 22, 1991",b.weight: 103.94,group: a,1: 163,2: -171,3: -171,total: 163,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,lemus calanche gilberto antonio,gua,"born: feb 04, 1994",b.weight: 104.80,group: a,1: 150,2: 160,3: 163,total: 163,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,aguilar hernandez josue raul,cub,"born: jan 06, 1996",b.weight: 104.57,group: a,1: 153,2: -158,3: -158,total: 153,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,campos juan,dom,"born: nov 05, 1992",b.weight: 104.23,group: a,1: 145,2: 152,3: -157,total: 152,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,viera espinoza hernan moises,per,"born: jan 16, 1993",b.weight: 104.85,group: b,1: 150,2: -155,3: -155,total: 150,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,almeida de sousa rogerio,bra,"born: jun 04, 1995",b.weight: 104.32,group: b,1: -150,2: 150,3: -157,total: 150,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,osorio dangelo antoinne,usa,"born: oct 13, 1993",b.weight: 101.11,group: a,1: -140,2: 140,3: 150,total: 150,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,meidl ryan david,can,"born: oct 25, 1987",b.weight: 104.57,group: b,1: -140,2: 140,3: 147,total: 147,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,kuiperi joel paul,aru,"born: feb 11, 1996",b.weight: 102.69,group: b,1: 131,2: 137,3: 143,total: 143,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,solito alejo gaston,arg,"born: may 19, 1994",b.weight: 97.17,group: b,1: 130,2: 137,3: -142,total: 137,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,mcknee ivorn preston,bar,"born: may 14, 1981",b.weight: 104.55,group: b,1: -130,2: 130,3: -145,total: 130,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,picun roux diego emiliano,uru,"born: nov 23, 1994",b.weight: 99.04,group: b,1: 120,2: 126,3: -132,total: 126,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,ramirez rojas jose fabio,crc,"born: sep 30, 1996",b.weight: 100.23,group: b,1: 113,2: 117,3: 120,total: 120,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,araya chavarria mario alberto,crc,"born: nov 23, 1992",b.weight: 95.44,group: b,1: 110,2: 115,3: -118,total: 115,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,verdugo ramirez oscar rene,mex,"born: jun 23, 1989",b.weight: 104.47,group: a,1: -155,2: -156,3: -156,total: ---,105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,osorio dangelo antoinne,usa,"born: oct 13, 1993",b.weight: 101.11,group: a,1: 191,2: 202,3: 210,total: 210,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,columbie saname juan,cub,"born: jan 24, 1995",b.weight: 102.71,group: a,1: -200,2: 200,3: 206,total: 206,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,viera espinoza hernan moises,per,"born: jan 16, 1993",b.weight: 104.85,group: b,1: 195,2: 201,3: 205,total: 205,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,familia checo jose andres,dom,"born: nov 24, 1990",b.weight: 104.66,group: a,1: 201,2: -209,3: -209,total: 201,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,kitts wesley brian,usa,"born: may 22, 1990",b.weight: 104.63,group: a,1: 200,2: -208,3: -209,total: 200,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,gonzalez barrios jesus abrahan,ven,"born: apr 22, 1991",b.weight: 103.94,group: a,1: 200,2: -209,3: -209,total: 200,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,aguilar hernandez josue raul,cub,"born: jan 06, 1996",b.weight: 104.57,group: a,1: 190,2: 195,3: 200,total: 200,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,arroyo valdez jorge david,ecu,"born: sep 23, 1991",b.weight: 104.30,group: a,1: 193,2: -200,3: 200,total: 200,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,almeida de sousa rogerio,bra,"born: jun 04, 1995",b.weight: 104.32,group: b,1: 190,2: -200,3: -200,total: 190,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,lemus calanche gilberto antonio,gua,"born: feb 04, 1994",b.weight: 104.80,group: a,1: 175,2: 182,3: 187,total: 187,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,verdugo ramirez oscar rene,mex,"born: jun 23, 1989",b.weight: 104.47,group: a,1: 180,2: 190,3: -200,total: 190,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,campos juan,dom,"born: nov 05, 1992",b.weight: 104.23,group: a,1: -185,2: -185,3: 185,total: 185,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,mcknee ivorn preston,bar,"born: may 14, 1981",b.weight: 104.55,group: b,1: 170,2: 178,3: 182,total: 182,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,meidl ryan david,can,"born: oct 25, 1987",b.weight: 104.57,group: b,1: 175,2: 180,3: -185,total: 180,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,solito alejo gaston,arg,"born: may 19, 1994",b.weight: 97.17,group: b,1: 162,2: -169,3: 172,total: 172,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,kuiperi joel paul,aru,"born: feb 11, 1996",b.weight: 102.69,group: b,1: 161,2: -170,3: -172,total: 161,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,araya chavarria mario alberto,crc,"born: nov 23, 1992",b.weight: 95.44,group: b,1: 150,2: 157,3: -160,total: 157,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,picun roux diego emiliano,uru,"born: nov 23, 1994",b.weight: 99.04,group: b,1: 147,2: 156,3: -161,total: 156,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,ramirez rojas jose fabio,crc,"born: sep 30, 1996",b.weight: 100.23,group: b,1: 135,2: 142,3: 147,total: 147,105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,arroyo valdez jorge david,ecu,"born: sep 23, 1991",b.weight: 104.30,group: a,snatch: 182,ci&jerk: 200,total: 382,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,kitts wesley brian,usa,"born: may 22, 1990",b.weight: 104.63,group: a,snatch: 175,ci&jerk: 200,total: 375,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,columbie saname juan,cub,"born: jan 24, 1995",b.weight: 102.71,group: a,snatch: 167,ci&jerk: 206,total: 373,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,familia checo jose andres,dom,"born: nov 24, 1990",b.weight: 104.66,group: a,snatch: 165,ci&jerk: 201,total: 366,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,gonzalez barrios jesus abrahan,ven,"born: apr 22, 1991",b.weight: 103.94,group: a,snatch: 163,ci&jerk: 200,total: 363,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,osorio dangelo antoinne,usa,"born: oct 13, 1993",b.weight: 101.11,group: a,snatch: 150,ci&jerk: 210,total: 360,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,viera espinoza hernan moises,per,"born: jan 16, 1993",b.weight: 104.85,group: b,snatch: 150,ci&jerk: 205,total: 355,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,aguilar hernandez josue raul,cub,"born: jan 06, 1996",b.weight: 104.57,group: a,snatch: 153,ci&jerk: 200,total: 353,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,lemus calanche gilberto antonio,gua,"born: feb 04, 1994",b.weight: 104.80,group: a,snatch: 163,ci&jerk: 187,total: 350,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,almeida de sousa rogerio,bra,"born: jun 04, 1995",b.weight: 104.32,group: b,snatch: 150,ci&jerk: 190,total: 340,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,campos juan,dom,"born: nov 05, 1992",b.weight: 104.23,group: a,snatch: 152,ci&jerk: 185,total: 337,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,meidl ryan david,can,"born: oct 25, 1987",b.weight: 104.57,group: b,snatch: 147,ci&jerk: 180,total: 327,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,mcknee ivorn preston,bar,"born: may 14, 1981",b.weight: 104.55,group: b,snatch: 130,ci&jerk: 182,total: 312,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,solito alejo gaston,arg,"born: may 19, 1994",b.weight: 97.17,group: b,snatch: 137,ci&jerk: 172,total: 309,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,kuiperi joel paul,aru,"born: feb 11, 1996",b.weight: 102.69,group: b,snatch: 143,ci&jerk: 161,total: 304,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,picun roux diego emiliano,uru,"born: nov 23, 1994",b.weight: 99.04,group: b,snatch: 126,ci&jerk: 156,total: 282,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,araya chavarria mario alberto,crc,"born: nov 23, 1992",b.weight: 95.44,group: b,snatch: 115,ci&jerk: 157,total: 272,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,ramirez rojas jose fabio,crc,"born: sep 30, 1996",b.weight: 100.23,group: b,snatch: 120,ci&jerk: 147,total: 267,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,verdugo ramirez oscar rene,mex,"born: jun 23, 1989",b.weight: 104.47,group: a,snatch: ---,ci&jerk: 190,total: ---,,105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,salas manguis fernando fabricio,ecu,"born: feb 10, 1988",b.weight: 165.45,group: a,1: 171,2: 176,3: 178,total: 178,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,gregorio machado mateus filipe,bra,"born: jul 05, 1993",b.weight: 113.39,group: a,1: -175,2: -175,3: 176,total: 176,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,wilkes caine morgan,usa,"born: jul 10, 1987",b.weight: 149.96,group: a,1: 170,2: 175,3: -178,total: 175,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,cossio santiago sanchez,col,"born: aug 03, 1995",b.weight: 132.30,group: a,1: 160,2: 172,3: -178,total: 172,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,calero torres anderson jimmy,ecu,"born: sep 04, 1992",b.weight: 150.65,group: a,1: 160,2: -167,3: 167,total: 167,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,harak ethan,usa,"born: mar 22, 1991",b.weight: 120.09,group: a,1: 155,2: 161,3: -168,total: 161,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,medina andueza josue said,mex,"born: jun 15, 1998",b.weight: 118.92,group: a,1: 152,2: 156,3: 161,total: 161,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,hoil mas luis alberto,gua,"born: sep 07, 1990",b.weight: 147.70,group: a,1: 140,2: 146,3: 153,total: 153,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,aneses nieves pedro jose,pur,"born: jun 09, 1988",b.weight: 123.43,group: a,1: 140,2: 145,3: -148,total: 145,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,salas montero paul johan,crc,"born: jun 29, 1996",b.weight: 112.36,group: b,1: 120,2: 124,3: -130,total: 124,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,romero federico,arg,"born: dec 10, 1992",b.weight: 108.42,group: b,1: 117,2: 123,3: -128,total: 123,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,marra calabria rodrigo sebastian,uru,"born: nov 10, 1994",b.weight: 106.44,group: b,1: 90,2: 104,3: 111,total: 111,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,fallas andrei,crc,"born: sep 09, 1997",b.weight: 110.32,group: b,1: 103,2: -108,3: 108,total: 108,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,seni umpierrez emanuel matias,uru,"born: jan 18, 1999",b.weight: 113.79,group: b,1: 96,2: 102,3: -108,total: 102,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lauret rodriguez luis manuel,cub,"born: jan 20, 1997",b.weight: 114.22,group: a,1: -166,2: -166,3: -166,total: ---,+105kgmen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,wilkes caine morgan,usa,"born: jul 10, 1987",b.weight: 149.96,group: a,1: 209,2: 215,3: 219,total: 219,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,salas manguis fernando fabricio,ecu,"born: feb 10, 1988",b.weight: 165.45,group: a,1: 208,2: 215,3: -218,total: 215,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,lauret rodriguez luis manuel,cub,"born: jan 20, 1997",b.weight: 114.22,group: a,1: 193,2: 200,3: 205,total: 205,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,gregorio machado mateus filipe,bra,"born: jul 05, 1993",b.weight: 113.39,group: a,1: 202,2: -210,3: -210,total: 202,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,harak ethan,usa,"born: mar 22, 1991",b.weight: 120.09,group: a,1: 201,2: -206,3: -207,total: 201,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,calero torres anderson jimmy,ecu,"born: sep 04, 1992",b.weight: 150.65,group: a,1: 194,2: -200,3: 201,total: 201,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,cossio santiago sanchez,col,"born: aug 03, 1995",b.weight: 132.30,group: a,1: 190,2: 200,3: -205,total: 200,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,medina andueza josue said,mex,"born: jun 15, 1998",b.weight: 118.92,group: a,1: 186,2: 191,3: -195,total: 191,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,hoil mas luis alberto,gua,"born: sep 07, 1990",b.weight: 147.70,group: a,1: 180,2: 190,3: -200,total: 190,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,aneses nieves pedro jose,pur,"born: jun 09, 1988",b.weight: 123.43,group: a,1: 179,2: 185,3: -190,total: 185,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,salas montero paul johan,crc,"born: jun 29, 1996",b.weight: 112.36,group: b,1: 150,2: 156,3: 159,total: 159,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,romero federico,arg,"born: dec 10, 1992",b.weight: 108.42,group: b,1: 145,2: 152,3: 158,total: 158,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,marra calabria rodrigo sebastian,uru,"born: nov 10, 1994",b.weight: 106.44,group: b,1: 120,2: 140,3: -155,total: 140,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,fallas andrei,crc,"born: sep 09, 1997",b.weight: 110.32,group: b,1: 130,2: -138,3: 138,total: 138,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,seni umpierrez emanuel matias,uru,"born: jan 18, 1999",b.weight: 113.79,group: b,1: 110,2: 124,3: 131,total: 131,+105kgmen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,wilkes caine morgan,usa,"born: jul 10, 1987",b.weight: 149.96,group: a,snatch: 175,ci&jerk: 219,total: 394,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,salas manguis fernando fabricio,ecu,"born: feb 10, 1988",b.weight: 165.45,group: a,snatch: 178,ci&jerk: 215,total: 393,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,gregorio machado mateus filipe,bra,"born: jul 05, 1993",b.weight: 113.39,group: a,snatch: 176,ci&jerk: 202,total: 378,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,cossio santiago sanchez,col,"born: aug 03, 1995",b.weight: 132.30,group: a,snatch: 172,ci&jerk: 200,total: 372,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,calero torres anderson jimmy,ecu,"born: sep 04, 1992",b.weight: 150.65,group: a,snatch: 167,ci&jerk: 201,total: 368,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,harak ethan,usa,"born: mar 22, 1991",b.weight: 120.09,group: a,snatch: 161,ci&jerk: 201,total: 362,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,medina andueza josue said,mex,"born: jun 15, 1998",b.weight: 118.92,group: a,snatch: 161,ci&jerk: 191,total: 352,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,hoil mas luis alberto,gua,"born: sep 07, 1990",b.weight: 147.70,group: a,snatch: 153,ci&jerk: 190,total: 343,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,aneses nieves pedro jose,pur,"born: jun 09, 1988",b.weight: 123.43,group: a,snatch: 145,ci&jerk: 185,total: 330,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,salas montero paul johan,crc,"born: jun 29, 1996",b.weight: 112.36,group: b,snatch: 124,ci&jerk: 159,total: 283,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,romero federico,arg,"born: dec 10, 1992",b.weight: 108.42,group: b,snatch: 123,ci&jerk: 158,total: 281,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,marra calabria rodrigo sebastian,uru,"born: nov 10, 1994",b.weight: 106.44,group: b,snatch: 111,ci&jerk: 140,total: 251,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,fallas andrei,crc,"born: sep 09, 1997",b.weight: 110.32,group: b,snatch: 108,ci&jerk: 138,total: 246,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,seni umpierrez emanuel matias,uru,"born: jan 18, 1999",b.weight: 113.79,group: b,snatch: 102,ci&jerk: 131,total: 233,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lauret rodriguez luis manuel,cub,"born: jan 20, 1997",b.weight: 114.22,group: a,snatch: ---,ci&jerk: 205,total: ---,,+105kgmen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,segura segura ana iris,col,"born: jul 26, 1991",b.weight: 48.00,group: a,1: -77,2: 77,3: -81,total: 77,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,ritchey alyssa lynn,usa,"born: apr 14, 1989",b.weight: 48.00,group: a,1: 72,2: 75,3: 77,total: 77,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,winters kathleen danielle,usa,"born: mar 04, 1993",b.weight: 48.00,group: a,1: 70,2: 73,3: 76,total: 76,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,valencia hernandez carolina,mex,"born: feb 08, 1985",b.weight: 47.62,group: a,1: -75,2: 75,3: -78,total: 75,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,sanmartin matute cinthya elizabeth,ecu,"born: apr 04, 1997",b.weight: 47.87,group: a,1: 71,2: 74,3: -77,total: 74,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,braddock amanda melissa,can,"born: feb 10, 1989",b.weight: 47.85,group: a,1: -73,2: 73,3: -76,total: 73,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,montero ramos ludia marguiela,cub,"born: apr 17, 1999",b.weight: 47.48,group: a,1: 69,2: 72,3: -75,total: 72,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,bermudez perez elianny,cub,"born: jan 19, 1996",b.weight: 47.90,group: a,1: 67,2: 70,3: -71,total: 70,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,landeros lopez katherine ignacia,chi,"born: jan 19, 1991",b.weight: 47.67,group: a,1: 60,2: 63,3: 65,total: 65,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,reynoso lopez de galeano margoth y.,gua,"born: feb 25, 1989",b.weight: 47.75,group: a,1: 63,2: -66,3: -66,total: 63,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,gonzalez mairena jessica massiel,nca,"born: jan 25, 2000",b.weight: 47.08,group: a,1: 55,2: -58,3: -60,total: 55,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,cadiz cinthia rocio,arg,"born: aug 30, 1991",b.weight: 47.17,group: a,1: 43,2: 47,3: -50,total: 47,48kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,segura segura ana iris,col,"born: jul 26, 1991",b.weight: 48.00,group: a,1: 98,2: 100,3: -105,total: 100,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,valencia hernandez carolina,mex,"born: feb 08, 1985",b.weight: 47.62,group: a,1: 96,2: 98,3: -101,total: 98,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,braddock amanda melissa,can,"born: feb 10, 1989",b.weight: 47.85,group: a,1: 93,2: 96,3: -99,total: 96,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,ritchey alyssa lynn,usa,"born: apr 14, 1989",b.weight: 48.00,group: a,1: 91,2: 95,3: -100,total: 95,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,winters kathleen danielle,usa,"born: mar 04, 1993",b.weight: 48.00,group: a,1: 90,2: 94,3: -97,total: 94,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,sanmartin matute cinthya elizabeth,ecu,"born: apr 04, 1997",b.weight: 47.87,group: a,1: 88,2: 92,3: -95,total: 92,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,bermudez perez elianny,cub,"born: jan 19, 1996",b.weight: 47.90,group: a,1: 86,2: 89,3: 91,total: 91,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,montero ramos ludia marguiela,cub,"born: apr 17, 1999",b.weight: 47.48,group: a,1: -80,2: 80,3: 84,total: 84,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,landeros lopez katherine ignacia,chi,"born: jan 19, 1991",b.weight: 47.67,group: a,1: 80,2: 83,3: -86,total: 83,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,reynoso lopez de galeano margoth y.,gua,"born: feb 25, 1989",b.weight: 47.75,group: a,1: 80,2: -85,3: -85,total: 80,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,gonzalez mairena jessica massiel,nca,"born: jan 25, 2000",b.weight: 47.08,group: a,1: 66,2: 70,3: 73,total: 73,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,cadiz cinthia rocio,arg,"born: aug 30, 1991",b.weight: 47.17,group: a,1: 53,2: -58,3: -58,total: 53,48kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,segura segura ana iris,col,"born: jul 26, 1991",b.weight: 48.00,group: a,snatch: 77,ci&jerk: 100,total: 177,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,valencia hernandez carolina,mex,"born: feb 08, 1985",b.weight: 47.62,group: a,snatch: 75,ci&jerk: 98,total: 173,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,ritchey alyssa lynn,usa,"born: apr 14, 1989",b.weight: 48.00,group: a,snatch: 77,ci&jerk: 95,total: 172,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,winters kathleen danielle,usa,"born: mar 04, 1993",b.weight: 48.00,group: a,snatch: 76,ci&jerk: 94,total: 170,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,braddock amanda melissa,can,"born: feb 10, 1989",b.weight: 47.85,group: a,snatch: 73,ci&jerk: 96,total: 169,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,sanmartin matute cinthya elizabeth,ecu,"born: apr 04, 1997",b.weight: 47.87,group: a,snatch: 74,ci&jerk: 92,total: 166,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,bermudez perez elianny,cub,"born: jan 19, 1996",b.weight: 47.90,group: a,snatch: 70,ci&jerk: 91,total: 161,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,montero ramos ludia marguiela,cub,"born: apr 17, 1999",b.weight: 47.48,group: a,snatch: 72,ci&jerk: 84,total: 156,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,landeros lopez katherine ignacia,chi,"born: jan 19, 1991",b.weight: 47.67,group: a,snatch: 65,ci&jerk: 83,total: 148,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,reynoso lopez de galeano margoth y.,gua,"born: feb 25, 1989",b.weight: 47.75,group: a,snatch: 63,ci&jerk: 80,total: 143,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,gonzalez mairena jessica massiel,nca,"born: jan 25, 2000",b.weight: 47.08,group: a,snatch: 55,ci&jerk: 73,total: 128,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,cadiz cinthia rocio,arg,"born: aug 30, 1991",b.weight: 47.17,group: a,snatch: 47,ci&jerk: 53,total: 100,,48kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dos reis santos rosane,bra,"born: jun 20, 1987",b.weight: 52.36,group: a,1: 85,2: 88,3: -90,total: 88,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,hogan caitlin leigh,usa,"born: may 22, 1988",b.weight: 52.86,group: a,1: 81,2: 84,3: 86,total: 86,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,laurindo moraes leticia cristina,bra,"born: nov 20, 1995",b.weight: 52.56,group: a,1: -83,2: 83,3: 86,total: 86,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,piron candelario beatriz elizabeth,dom,"born: feb 27, 1995",b.weight: 49.46,group: a,1: 85,2: -88,3: -88,total: 85,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,sinisterra torres yenny,col,"born: may 04, 2000",b.weight: 52.64,group: a,1: 80,2: 83,3: -85,total: 83,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,villar barboza rusmeris,col,"born: mar 28, 1983",b.weight: 52.55,group: a,1: -82,2: -82,3: 82,total: 82,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,vera gabriela yoshie,chi,"born: oct 05, 1985",b.weight: 52.97,group: a,1: 75,2: 80,3: -83,total: 80,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,silvestre velgar yafreisy,dom,"born: jan 06, 1995",b.weight: 52.85,group: a,1: -80,2: 80,3: -84,total: 80,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,perez rojas gerainys del carmen,ven,"born: apr 29, 1997",b.weight: 52.87,group: a,1: -78,2: 78,3: -81,total: 78,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,gonzalez gala niulis poroye,cub,"born: aug 29, 1997",b.weight: 52.91,group: b,1: 72,2: 74,3: -76,total: 74,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,hernandez chamorro jenifer carolina,ecu,"born: aug 30, 1994",b.weight: 52.66,group: b,1: -71,2: -71,3: 71,total: 71,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,capponi georgina caren,arg,"born: feb 28, 1988",b.weight: 52.21,group: b,1: 67,2: 70,3: -73,total: 70,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,leiva florencia camila,arg,"born: jun 06, 2001",b.weight: 52.90,group: b,1: 63,2: 68,3: 70,total: 70,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,rito enocksson sofia julia,uru,"born: nov 02, 1985",b.weight: 53.00,group: b,1: -67,2: 67,3: -70,total: 67,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,cojom pac de andres elida magdalena,gua,"born: jul 22, 1986",b.weight: 52.61,group: b,1: 60,2: 65,3: -68,total: 65,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,pavon montiel javiana del socorro,nca,"born: sep 09, 1999",b.weight: 52.55,group: b,1: 60,2: -65,3: -67,total: 60,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,ucelo marroquin emelyn gabriela,gua,"born: dec 18, 1996",b.weight: 50.53,group: b,1: 55,2: 60,3: -63,total: 60,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,rodriguez apu karla esmeralda,crc,"born: jul 18, 1992",b.weight: 52.20,group: b,1: 56,2: 60,3: -63,total: 60,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,rodriguez sandoval odalys marie,pur,"born: sep 21, 1997",b.weight: 51.88,group: b,1: 57,2: -60,3: -60,total: 57,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,burgos ortiz lely berlitt,pur,"born: jun 06, 1985",b.weight: 50.57,group: b,1: -72,2: -72,3: -72,total: ---,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,batchelor cortney christine,usa,"born: may 09, 1991",b.weight: 52.93,group: a,1: -82,2: -82,3: -82,total: ---,53kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,villar barboza rusmeris,col,"born: mar 28, 1983",b.weight: 52.55,group: a,1: 105,2: -108,3: 108,total: 108,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,hogan caitlin leigh,usa,"born: may 22, 1988",b.weight: 52.86,group: a,1: 103,2: 105,3: 107,total: 107,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,piron candelario beatriz elizabeth,dom,"born: feb 27, 1995",b.weight: 49.46,group: a,1: 104,2: 106,3: -108,total: 106,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,dos reis santos rosane,bra,"born: jun 20, 1987",b.weight: 52.36,group: a,1: 101,2: 104,3: 106,total: 106,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,laurindo moraes leticia cristina,bra,"born: nov 20, 1995",b.weight: 52.56,group: a,1: 100,2: 104,3: -107,total: 104,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,silvestre velgar yafreisy,dom,"born: jan 06, 1995",b.weight: 52.85,group: a,1: -102,2: -102,3: 102,total: 102,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,perez rojas gerainys del carmen,ven,"born: apr 29, 1997",b.weight: 52.87,group: a,1: 98,2: 101,3: -103,total: 101,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,batchelor cortney christine,usa,"born: may 09, 1991",b.weight: 52.93,group: a,1: 98,2: -101,3: 101,total: 101,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,vera gabriela yoshie,chi,"born: oct 05, 1985",b.weight: 52.97,group: a,1: -100,2: 100,3: -105,total: 100,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,sinisterra torres yenny,col,"born: may 04, 2000",b.weight: 52.64,group: a,1: -99,2: -99,3: 99,total: 99,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,gonzalez gala niulis poroye,cub,"born: aug 29, 1997",b.weight: 52.91,group: b,1: 92,2: 95,3: -99,total: 95,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,hernandez chamorro jenifer carolina,ecu,"born: aug 30, 1994",b.weight: 52.66,group: b,1: 90,2: 94,3: -100,total: 94,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,burgos ortiz lely berlitt,pur,"born: jun 06, 1985",b.weight: 50.57,group: b,1: 90,2: -93,3: -94,total: 90,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,rito enocksson sofia julia,uru,"born: nov 02, 1985",b.weight: 53.00,group: b,1: 85,2: -89,3: -89,total: 85,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,capponi georgina caren,arg,"born: feb 28, 1988",b.weight: 52.21,group: b,1: 80,2: -85,3: 85,total: 85,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,cojom pac de andres elida magdalena,gua,"born: jul 22, 1986",b.weight: 52.61,group: b,1: 78,2: 81,3: -85,total: 81,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,ucelo marroquin emelyn gabriela,gua,"born: dec 18, 1996",b.weight: 50.53,group: b,1: 80,2: -85,3: -85,total: 80,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,pavon montiel javiana del socorro,nca,"born: sep 09, 1999",b.weight: 52.55,group: b,1: 72,2: 75,3: 79,total: 79,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,rodriguez sandoval odalys marie,pur,"born: sep 21, 1997",b.weight: 51.88,group: b,1: 75,2: -80,3: -80,total: 75,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 20,leiva florencia camila,arg,"born: jun 06, 2001",b.weight: 52.90,group: b,1: 70,2: 75,3: -80,total: 75,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 21,rodriguez apu karla esmeralda,crc,"born: jul 18, 1992",b.weight: 52.20,group: b,1: 54,2: -70,3: -70,total: 54,53kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dos reis santos rosane,bra,"born: jun 20, 1987",b.weight: 52.36,group: a,snatch: 88,ci&jerk: 106,total: 194,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,hogan caitlin leigh,usa,"born: may 22, 1988",b.weight: 52.86,group: a,snatch: 86,ci&jerk: 107,total: 193,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,piron candelario beatriz elizabeth,dom,"born: feb 27, 1995",b.weight: 49.46,group: a,snatch: 85,ci&jerk: 106,total: 191,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,laurindo moraes leticia cristina,bra,"born: nov 20, 1995",b.weight: 52.56,group: a,snatch: 86,ci&jerk: 104,total: 190,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,villar barboza rusmeris,col,"born: mar 28, 1983",b.weight: 52.55,group: a,snatch: 82,ci&jerk: 108,total: 190,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,sinisterra torres yenny,col,"born: may 04, 2000",b.weight: 52.64,group: a,snatch: 83,ci&jerk: 99,total: 182,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,silvestre velgar yafreisy,dom,"born: jan 06, 1995",b.weight: 52.85,group: a,snatch: 80,ci&jerk: 102,total: 182,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,vera gabriela yoshie,chi,"born: oct 05, 1985",b.weight: 52.97,group: a,snatch: 80,ci&jerk: 100,total: 180,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,perez rojas gerainys del carmen,ven,"born: apr 29, 1997",b.weight: 52.87,group: a,snatch: 78,ci&jerk: 101,total: 179,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,gonzalez gala niulis poroye,cub,"born: aug 29, 1997",b.weight: 52.91,group: b,snatch: 74,ci&jerk: 95,total: 169,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,hernandez chamorro jenifer carolina,ecu,"born: aug 30, 1994",b.weight: 52.66,group: b,snatch: 71,ci&jerk: 94,total: 165,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,capponi georgina caren,arg,"born: feb 28, 1988",b.weight: 52.21,group: b,snatch: 70,ci&jerk: 85,total: 155,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,rito enocksson sofia julia,uru,"born: nov 02, 1985",b.weight: 53.00,group: b,snatch: 67,ci&jerk: 85,total: 152,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,cojom pac de andres elida magdalena,gua,"born: jul 22, 1986",b.weight: 52.61,group: b,snatch: 65,ci&jerk: 81,total: 146,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,leiva florencia camila,arg,"born: jun 06, 2001",b.weight: 52.90,group: b,snatch: 70,ci&jerk: 75,total: 145,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,ucelo marroquin emelyn gabriela,gua,"born: dec 18, 1996",b.weight: 50.53,group: b,snatch: 60,ci&jerk: 80,total: 140,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,pavon montiel javiana del socorro,nca,"born: sep 09, 1999",b.weight: 52.55,group: b,snatch: 60,ci&jerk: 79,total: 139,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,rodriguez sandoval odalys marie,pur,"born: sep 21, 1997",b.weight: 51.88,group: b,snatch: 57,ci&jerk: 75,total: 132,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,rodriguez apu karla esmeralda,crc,"born: jul 18, 1992",b.weight: 52.20,group: b,snatch: 60,ci&jerk: 54,total: 114,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,burgos ortiz lely berlitt,pur,"born: jun 06, 1985",b.weight: 50.57,group: b,snatch: ---,ci&jerk: 90,total: ---,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,batchelor cortney christine,usa,"born: may 09, 1991",b.weight: 52.93,group: a,snatch: ---,ci&jerk: 101,total: ---,,53kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dominguez lara monica patricia,mex,"born: mar 05, 1988",b.weight: 57.99,group: a,1: -91,2: 91,3: 94,total: 94,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,escobar guerrero maria alexandra,ecu,"born: jul 17, 1980",b.weight: 57.75,group: a,1: 91,2: 94,3: -95,total: 94,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,lobon viafara maria camila,col,"born: sep 30, 1995",b.weight: 57.76,group: a,1: 90,2: 93,3: -95,total: 93,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,figueroa roldan yusleidy mariana,ven,"born: jan 09, 1993",b.weight: 57.90,group: a,1: 88,2: -92,3: 92,total: 92,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,lucero jessica marie,usa,"born: sep 26, 1989",b.weight: 57.81,group: a,1: -89,2: -89,3: 89,total: 89,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,lugo robles carolina guadalupe,mex,"born: mar 16, 1996",b.weight: 57.84,group: a,1: 85,2: 88,3: -90,total: 88,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,leguisamo candelario mildre,dom,"born: dec 31, 1994",b.weight: 56.51,group: a,1: 80,2: -84,3: 85,total: 85,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,letendre michele,can,"born: jan 23, 1986",b.weight: 57.27,group: a,1: 80,2: 84,3: -87,total: 84,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,leblanc-bazinet rachel,can,"born: oct 10, 1988",b.weight: 56.11,group: a,1: -78,2: 78,3: 82,total: 82,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,munoz miranda barbara yocelyn,chi,"born: jan 18, 1996",b.weight: 57.87,group: b,1: 70,2: 73,3: 75,total: 75,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,de candido abril,arg,"born: jul 13, 2001",b.weight: 55.58,group: b,1: 66,2: 69,3: 73,total: 73,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gonzalez contreras jessica,gua,"born: apr 02, 1995",b.weight: 57.99,group: b,1: 65,2: 70,3: -73,total: 70,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,mercado lopez scarleth elizabeth,nca,"born: aug 09, 1996",b.weight: 57.97,group: b,1: 63,2: 67,3: 70,total: 70,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,gonzalez contreras santos isabel,gua,"born: apr 17, 1992",b.weight: 57.89,group: b,1: -67,2: -70,3: 70,total: 70,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,quinones ambar,pur,"born: nov 26, 1993",b.weight: 57.15,group: b,1: -65,2: 65,3: -72,total: 65,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,ludrick rivas sema nancy,nca,"born: dec 21, 1999",b.weight: 56.87,group: b,1: -63,2: -63,3: 63,total: 63,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,toro santiago yesenia alexandra,pur,"born: oct 14, 1996",b.weight: 57.51,group: b,1: 55,2: -62,3: 62,total: 62,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto marin mariana,crc,"born: jun 17, 1994",b.weight: 57.09,group: b,1: 52,2: 56,3: -59,total: 56,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,chanderban krystol mivani,guy,"born: dec 19, 1997",b.weight: 54.84,group: b,1: -45,2: 45,3: -46,total: 45,58kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,lobon viafara maria camila,col,"born: sep 30, 1995",b.weight: 57.76,group: a,1: 110,2: 114,3: 117,total: 117,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,escobar guerrero maria alexandra,ecu,"born: jul 17, 1980",b.weight: 57.75,group: a,1: 113,2: -116,3: 117,total: 117,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,figueroa roldan yusleidy mariana,ven,"born: jan 09, 1993",b.weight: 57.90,group: a,1: 112,2: 116,3: -120,total: 116,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,dominguez lara monica patricia,mex,"born: mar 05, 1988",b.weight: 57.99,group: a,1: 112,2: 115,3: -118,total: 115,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,lucero jessica marie,usa,"born: sep 26, 1989",b.weight: 57.81,group: a,1: 110,2: -114,3: -117,total: 110,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,lugo robles carolina guadalupe,mex,"born: mar 16, 1996",b.weight: 57.84,group: a,1: -109,2: 109,3: -112,total: 109,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,leguisamo candelario mildre,dom,"born: dec 31, 1994",b.weight: 56.51,group: a,1: 102,2: 107,3: -110,total: 107,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,leblanc-bazinet rachel,can,"born: oct 10, 1988",b.weight: 56.11,group: a,1: 100,2: 104,3: 106,total: 106,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,letendre michele,can,"born: jan 23, 1986",b.weight: 57.27,group: a,1: -100,2: -100,3: 100,total: 100,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,munoz miranda barbara yocelyn,chi,"born: jan 18, 1996",b.weight: 57.87,group: b,1: 92,2: 96,3: -98,total: 96,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,quinones ambar,pur,"born: nov 26, 1993",b.weight: 57.15,group: b,1: 85,2: 91,3: -95,total: 91,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gonzalez contreras santos isabel,gua,"born: apr 17, 1992",b.weight: 57.89,group: b,1: 90,2: -93,3: -94,total: 90,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,mercado lopez scarleth elizabeth,nca,"born: aug 09, 1996",b.weight: 57.97,group: b,1: 86,2: 90,3: -93,total: 90,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,de candido abril,arg,"born: jul 13, 2001",b.weight: 55.58,group: b,1: 80,2: 85,3: 89,total: 89,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,ludrick rivas sema nancy,nca,"born: dec 21, 1999",b.weight: 56.87,group: b,1: 80,2: -86,3: 86,total: 86,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,gonzalez contreras jessica,gua,"born: apr 02, 1995",b.weight: 57.99,group: b,1: 85,2: -89,3: -90,total: 85,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,toro santiago yesenia alexandra,pur,"born: oct 14, 1996",b.weight: 57.51,group: b,1: 75,2: 80,3: 85,total: 85,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto marin mariana,crc,"born: jun 17, 1994",b.weight: 57.09,group: b,1: -68,2: 68,3: 70,total: 70,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,chanderban krystol mivani,guy,"born: dec 19, 1997",b.weight: 54.84,group: b,1: 60,2: -63,3: -63,total: 60,58kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,escobar guerrero maria alexandra,ecu,"born: jul 17, 1980",b.weight: 57.75,group: a,snatch: 94,ci&jerk: 117,total: 211,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,lobon viafara maria camila,col,"born: sep 30, 1995",b.weight: 57.76,group: a,snatch: 93,ci&jerk: 117,total: 210,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,dominguez lara monica patricia,mex,"born: mar 05, 1988",b.weight: 57.99,group: a,snatch: 94,ci&jerk: 115,total: 209,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,figueroa roldan yusleidy mariana,ven,"born: jan 09, 1993",b.weight: 57.90,group: a,snatch: 92,ci&jerk: 116,total: 208,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,lucero jessica marie,usa,"born: sep 26, 1989",b.weight: 57.81,group: a,snatch: 89,ci&jerk: 110,total: 199,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,lugo robles carolina guadalupe,mex,"born: mar 16, 1996",b.weight: 57.84,group: a,snatch: 88,ci&jerk: 109,total: 197,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,leguisamo candelario mildre,dom,"born: dec 31, 1994",b.weight: 56.51,group: a,snatch: 85,ci&jerk: 107,total: 192,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,leblanc-bazinet rachel,can,"born: oct 10, 1988",b.weight: 56.11,group: a,snatch: 82,ci&jerk: 106,total: 188,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,letendre michele,can,"born: jan 23, 1986",b.weight: 57.27,group: a,snatch: 84,ci&jerk: 100,total: 184,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,munoz miranda barbara yocelyn,chi,"born: jan 18, 1996",b.weight: 57.87,group: b,snatch: 75,ci&jerk: 96,total: 171,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,de candido abril,arg,"born: jul 13, 2001",b.weight: 55.58,group: b,snatch: 73,ci&jerk: 89,total: 162,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gonzalez contreras santos isabel,gua,"born: apr 17, 1992",b.weight: 57.89,group: b,snatch: 70,ci&jerk: 90,total: 160,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,mercado lopez scarleth elizabeth,nca,"born: aug 09, 1996",b.weight: 57.97,group: b,snatch: 70,ci&jerk: 90,total: 160,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,quinones ambar,pur,"born: nov 26, 1993",b.weight: 57.15,group: b,snatch: 65,ci&jerk: 91,total: 156,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,gonzalez contreras jessica,gua,"born: apr 02, 1995",b.weight: 57.99,group: b,snatch: 70,ci&jerk: 85,total: 155,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,ludrick rivas sema nancy,nca,"born: dec 21, 1999",b.weight: 56.87,group: b,snatch: 63,ci&jerk: 86,total: 149,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,toro santiago yesenia alexandra,pur,"born: oct 14, 1996",b.weight: 57.51,group: b,snatch: 62,ci&jerk: 85,total: 147,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 18,soto marin mariana,crc,"born: jun 17, 1994",b.weight: 57.09,group: b,snatch: 56,ci&jerk: 70,total: 126,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 19,chanderban krystol mivani,guy,"born: dec 19, 1997",b.weight: 54.84,group: b,snatch: 45,ci&jerk: 60,total: 105,,58kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,perez tigrero mercedes isabel,col,"born: aug 07, 1987",b.weight: 62.81,group: a,1: 94,2: 97,3: -101,total: 97,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,silgado atencio rosive andrea,col,"born: jun 30, 1995",b.weight: 62.85,group: a,1: 93,2: -97,3: -97,total: 93,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,charron maude g,can,"born: apr 28, 1993",b.weight: 62.49,group: a,1: -90,2: 90,3: 93,total: 93,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,peck mary-kathryn margaret,usa,"born: apr 05, 1990",b.weight: 62.81,group: a,1: 88,2: 91,3: -94,total: 91,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,villasmil mendoza solenny bolivia,ven,"born: may 12, 1981",b.weight: 62.80,group: a,1: 88,2: 90,3: -92,total: 90,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,nascimento piloto bruna luana,bra,"born: dec 07, 1990",b.weight: 62.76,group: a,1: -88,2: 88,3: -92,total: 88,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,reyes ramos flavia marie,pur,"born: dec 28, 1991",b.weight: 63.00,group: b,1: 77,2: 82,3: 87,total: 87,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,duran ayon ana lilia,mex,"born: nov 16, 1997",b.weight: 62.96,group: a,1: 85,2: -89,3: -89,total: 85,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,armijo palomos leslie patricia,chi,"born: may 30, 1985",b.weight: 62.76,group: a,1: 80,2: 85,3: -88,total: 85,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,ullua tatiana,arg,"born: apr 23, 1992",b.weight: 62.02,group: a,1: 80,2: -83,3: 83,total: 83,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,artola artola silvia del socorro,nca,"born: apr 05, 1985",b.weight: 62.98,group: b,1: -71,2: 71,3: 76,total: 76,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gonzalez contreras azucena abigail,gua,"born: apr 26, 1997",b.weight: 61.44,group: b,1: 70,2: 73,3: 75,total: 75,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,piter jennifer desiree melinda,aru,"born: jan 16, 1983",b.weight: 62.99,group: b,1: -68,2: 70,3: -74,total: 70,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,rodriguez araya maria virginia,crc,"born: apr 14, 2000",b.weight: 60.96,group: b,1: 64,2: -70,3: -70,total: 64,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,van der marel lacey sarah,can,"born: oct 05, 1987",b.weight: 62.63,group: b,1: -90,2: -90,3: -90,total: ---,63kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,silgado atencio rosive andrea,col,"born: jun 30, 1995",b.weight: 62.85,group: a,1: 120,2: 125,3: -128,total: 125,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,perez tigrero mercedes isabel,col,"born: aug 07, 1987",b.weight: 62.81,group: a,1: 121,2: 124,3: -126,total: 124,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,duran ayon ana lilia,mex,"born: nov 16, 1997",b.weight: 62.96,group: a,1: 118,2: 121,3: 123,total: 123,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,charron maude g,can,"born: apr 28, 1993",b.weight: 62.49,group: a,1: 115,2: 118,3: 122,total: 122,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,nascimento piloto bruna luana,bra,"born: dec 07, 1990",b.weight: 62.76,group: a,1: -115,2: -115,3: 115,total: 115,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,peck mary-kathryn margaret,usa,"born: apr 05, 1990",b.weight: 62.81,group: a,1: 108,2: 112,3: -118,total: 112,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,villasmil mendoza solenny bolivia,ven,"born: may 12, 1981",b.weight: 62.80,group: a,1: -110,2: 110,3: -114,total: 110,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,reyes ramos flavia marie,pur,"born: dec 28, 1991",b.weight: 63.00,group: b,1: 105,2: -112,3: -112,total: 105,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,artola artola silvia del socorro,nca,"born: apr 05, 1985",b.weight: 62.98,group: b,1: 95,2: 100,3: -104,total: 100,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,armijo palomos leslie patricia,chi,"born: may 30, 1985",b.weight: 62.76,group: a,1: -95,2: 95,3: 100,total: 100,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,van der marel lacey sarah,can,"born: oct 05, 1987",b.weight: 62.63,group: b,1: 99,2: -101,3: -101,total: 99,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,ullua tatiana,arg,"born: apr 23, 1992",b.weight: 62.02,group: a,1: 94,2: 98,3: -103,total: 98,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,piter jennifer desiree melinda,aru,"born: jan 16, 1983",b.weight: 62.99,group: b,1: 90,2: -94,3: -95,total: 90,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,gonzalez contreras azucena abigail,gua,"born: apr 26, 1997",b.weight: 61.44,group: b,1: 83,2: 88,3: -91,total: 88,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,rodriguez araya maria virginia,crc,"born: apr 14, 2000",b.weight: 60.96,group: b,1: 82,2: 87,3: -91,total: 87,63kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,perez tigrero mercedes isabel,col,"born: aug 07, 1987",b.weight: 62.81,group: a,snatch: 97,ci&jerk: 124,total: 221,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,silgado atencio rosive andrea,col,"born: jun 30, 1995",b.weight: 62.85,group: a,snatch: 93,ci&jerk: 125,total: 218,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,charron maude g,can,"born: apr 28, 1993",b.weight: 62.49,group: a,snatch: 93,ci&jerk: 122,total: 215,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,duran ayon ana lilia,mex,"born: nov 16, 1997",b.weight: 62.96,group: a,snatch: 85,ci&jerk: 123,total: 208,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,peck mary-kathryn margaret,usa,"born: apr 05, 1990",b.weight: 62.81,group: a,snatch: 91,ci&jerk: 112,total: 203,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,nascimento piloto bruna luana,bra,"born: dec 07, 1990",b.weight: 62.76,group: a,snatch: 88,ci&jerk: 115,total: 203,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,villasmil mendoza solenny bolivia,ven,"born: may 12, 1981",b.weight: 62.80,group: a,snatch: 90,ci&jerk: 110,total: 200,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,reyes ramos flavia marie,pur,"born: dec 28, 1991",b.weight: 63.00,group: b,snatch: 87,ci&jerk: 105,total: 192,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,armijo palomos leslie patricia,chi,"born: may 30, 1985",b.weight: 62.76,group: a,snatch: 85,ci&jerk: 100,total: 185,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,ullua tatiana,arg,"born: apr 23, 1992",b.weight: 62.02,group: a,snatch: 83,ci&jerk: 98,total: 181,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,artola artola silvia del socorro,nca,"born: apr 05, 1985",b.weight: 62.98,group: b,snatch: 76,ci&jerk: 100,total: 176,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,gonzalez contreras azucena abigail,gua,"born: apr 26, 1997",b.weight: 61.44,group: b,snatch: 75,ci&jerk: 88,total: 163,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,piter jennifer desiree melinda,aru,"born: jan 16, 1983",b.weight: 62.99,group: b,snatch: 70,ci&jerk: 90,total: 160,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,rodriguez araya maria virginia,crc,"born: apr 14, 2000",b.weight: 60.96,group: b,snatch: 64,ci&jerk: 87,total: 151,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,van der marel lacey sarah,can,"born: oct 05, 1987",b.weight: 62.63,group: b,snatch: ---,ci&jerk: 99,total: ---,,63kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,solis arboleda leidy yessenia,col,"born: feb 17, 1990",b.weight: 68.83,group: a,1: 102,2: 107,3: -113,total: 107,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,rogers martha ann,usa,"born: aug 23, 1995",b.weight: 68.56,group: a,1: -95,2: 96,3: 100,total: 100,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,palacios dajomes angie paola,ecu,"born: sep 12, 2000",b.weight: 68.12,group: a,1: 95,2: 99,3: -101,total: 99,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,torres wong anacarmen,mex,"born: nov 27, 1995",b.weight: 67.05,group: a,1: 94,2: 97,3: -101,total: 97,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,merino toranzo yaneysi,cub,"born: nov 18, 1997",b.weight: 68.74,group: a,1: 88,2: 91,3: 94,total: 94,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,peinado mejias laura yenireet,ven,"born: oct 21, 1992",b.weight: 68.19,group: a,1: 88,2: 92,3: -95,total: 92,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,hernandez mariela,cub,"born: apr 20, 1998",b.weight: 67.67,group: a,1: 86,2: 90,3: -92,total: 90,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,valle ulloa constanza isabel,chi,"born: apr 25, 1996",b.weight: 68.94,group: b,1: 80,2: 85,3: -90,total: 85,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,rodriguez araya ana victoria,crc,"born: jan 02, 1998",b.weight: 64.11,group: b,1: 75,2: 80,3: 83,total: 83,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,lopez rodriguez kidaisha,pur,"born: jan 03, 1993",b.weight: 68.06,group: a,1: -76,2: 76,3: 81,total: 81,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,palacios joana valeria,arg,"born: nov 08, 1996",b.weight: 65.80,group: a,1: 80,2: -85,3: -85,total: 80,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,betancourt osejo sonia salvadora,nca,"born: sep 08, 1988",b.weight: 67.27,group: b,1: 65,2: 69,3: 71,total: 71,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,maldonado panjoj maria alejandra,gua,"born: oct 16, 2001",b.weight: 68.18,group: b,1: 60,2: 62,3: 64,total: 64,69kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,solis arboleda leidy yessenia,col,"born: feb 17, 1990",b.weight: 68.83,group: a,1: 131,2: 134,3: -140,total: 134,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,rogers martha ann,usa,"born: aug 23, 1995",b.weight: 68.56,group: a,1: 125,2: 130,3: 133,total: 133,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,torres wong anacarmen,mex,"born: nov 27, 1995",b.weight: 67.05,group: a,1: 120,2: 123,3: 126,total: 126,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,palacios dajomes angie paola,ecu,"born: sep 12, 2000",b.weight: 68.12,group: a,1: 115,2: 120,3: 123,total: 123,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,merino toranzo yaneysi,cub,"born: nov 18, 1997",b.weight: 68.74,group: a,1: 116,2: 121,3: -124,total: 121,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,peinado mejias laura yenireet,ven,"born: oct 21, 1992",b.weight: 68.19,group: a,1: -110,2: 110,3: 114,total: 114,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,hernandez mariela,cub,"born: apr 20, 1998",b.weight: 67.67,group: a,1: 106,2: -111,3: 111,total: 111,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,valle ulloa constanza isabel,chi,"born: apr 25, 1996",b.weight: 68.94,group: b,1: 95,2: 100,3: 105,total: 105,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,palacios joana valeria,arg,"born: nov 08, 1996",b.weight: 65.80,group: a,1: -102,2: 102,3: -104,total: 102,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,lopez rodriguez kidaisha,pur,"born: jan 03, 1993",b.weight: 68.06,group: a,1: 97,2: -102,3: 102,total: 102,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,betancourt osejo sonia salvadora,nca,"born: sep 08, 1988",b.weight: 67.27,group: b,1: 87,2: 91,3: 93,total: 93,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,rodriguez araya ana victoria,crc,"born: jan 02, 1998",b.weight: 64.11,group: b,1: -92,2: 92,3: -95,total: 92,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,maldonado panjoj maria alejandra,gua,"born: oct 16, 2001",b.weight: 68.18,group: b,1: 85,2: 90,3: -93,total: 90,69kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,solis arboleda leidy yessenia,col,"born: feb 17, 1990",b.weight: 68.83,group: a,snatch: 107,ci&jerk: 134,total: 241,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,rogers martha ann,usa,"born: aug 23, 1995",b.weight: 68.56,group: a,snatch: 100,ci&jerk: 133,total: 233,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,torres wong anacarmen,mex,"born: nov 27, 1995",b.weight: 67.05,group: a,snatch: 97,ci&jerk: 126,total: 223,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,palacios dajomes angie paola,ecu,"born: sep 12, 2000",b.weight: 68.12,group: a,snatch: 99,ci&jerk: 123,total: 222,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,merino toranzo yaneysi,cub,"born: nov 18, 1997",b.weight: 68.74,group: a,snatch: 94,ci&jerk: 121,total: 215,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,peinado mejias laura yenireet,ven,"born: oct 21, 1992",b.weight: 68.19,group: a,snatch: 92,ci&jerk: 114,total: 206,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,hernandez mariela,cub,"born: apr 20, 1998",b.weight: 67.67,group: a,snatch: 90,ci&jerk: 111,total: 201,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,valle ulloa constanza isabel,chi,"born: apr 25, 1996",b.weight: 68.94,group: b,snatch: 85,ci&jerk: 105,total: 190,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,lopez rodriguez kidaisha,pur,"born: jan 03, 1993",b.weight: 68.06,group: a,snatch: 81,ci&jerk: 102,total: 183,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,palacios joana valeria,arg,"born: nov 08, 1996",b.weight: 65.80,group: a,snatch: 80,ci&jerk: 102,total: 182,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,rodriguez araya ana victoria,crc,"born: jan 02, 1998",b.weight: 64.11,group: b,snatch: 83,ci&jerk: 92,total: 175,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,betancourt osejo sonia salvadora,nca,"born: sep 08, 1988",b.weight: 67.27,group: b,snatch: 71,ci&jerk: 93,total: 164,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,maldonado panjoj maria alejandra,gua,"born: oct 16, 2001",b.weight: 68.18,group: b,snatch: 64,ci&jerk: 90,total: 154,,69kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dajomes barrera neisi patricia,ecu,"born: may 12, 1998",b.weight: 74.67,group: a,1: 103,2: 107,3: 110,total: 110,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,lima de araujo monique maria,bra,"born: may 30, 1992",b.weight: 74.83,group: a,1: -100,2: 100,3: 103,total: 103,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,fuentes zavala aremi,mex,"born: may 23, 1993",b.weight: 74.86,group: a,1: 101,2: -104,3: -104,total: 101,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,chirinos leon dayana aracelis,ven,"born: oct 04, 1991",b.weight: 74.71,group: a,1: 97,2: 101,3: -104,total: 101,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,montes de oca mercedes cesarina,dom,"born: may 24, 1994",b.weight: 74.80,group: a,1: 91,2: 95,3: 99,total: 99,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,beauchemin-nadeau marie-eve,can,"born: oct 13, 1988",b.weight: 74.78,group: a,1: 93,2: 98,3: -102,total: 98,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,salazar arce tamara yajaira,ecu,"born: aug 09, 1997",b.weight: 74.29,group: a,1: 93,2: 97,3: -101,total: 97,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,garza garza alejandra,mex,"born: aug 01, 1991",b.weight: 74.00,group: a,1: 95,2: -98,3: -99,total: 95,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,ngarlem kristel,can,"born: jul 20, 1995",b.weight: 73.90,group: a,1: 93,2: -97,3: -97,total: 93,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,aguilera pena melisa maida,cub,"born: jun 18, 1999",b.weight: 71.36,group: b,1: 87,2: -91,3: 91,total: 91,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,familia checo ernestina mercedes,dom,"born: nov 23, 1983",b.weight: 74.98,group: a,1: -88,2: 88,3: -92,total: 88,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,rojas castillo lenka yanara,chi,"born: mar 13, 1997",b.weight: 74.11,group: b,1: 78,2: 82,3: -87,total: 82,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,portela milichio mercedes noemi,uru,"born: mar 25, 1987",b.weight: 72.49,group: b,1: 72,2: -76,3: 76,total: 76,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,on sang moolgard ninfa del rosario,nca,"born: jun 08, 1987",b.weight: 74.22,group: b,1: 68,2: 72,3: 75,total: 75,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,stivenson omier caratiny yahosca,nca,"born: feb 02, 2000",b.weight: 74.65,group: b,1: 65,2: 70,3: -75,total: 70,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 16,zamora rodriguez laura gabriela,crc,"born: dec 20, 1991",b.weight: 69.11,group: b,1: 67,2: 70,3: -73,total: 70,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 17,quesada francine,crc,"born: mar 07, 1994",b.weight: 73.83,group: b,1: 64,2: 67,3: 70,total: 70,75kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dajomes barrera neisi patricia,ecu,"born: may 12, 1998",b.weight: 74.67,group: a,1: 128,2: 131,3: -140,total: 131,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,beauchemin-nadeau marie-eve,can,"born: oct 13, 1988",b.weight: 74.78,group: a,1: 123,2: 127,3: 130,total: 130,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,chirinos leon dayana aracelis,ven,"born: oct 04, 1991",b.weight: 74.71,group: a,1: 122,2: 126,3: 129,total: 129,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,fuentes zavala aremi,mex,"born: may 23, 1993",b.weight: 74.86,group: a,1: 125,2: 127,3: -130,total: 127,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,salazar arce tamara yajaira,ecu,"born: aug 09, 1997",b.weight: 74.29,group: a,1: 118,2: 122,3: -127,total: 122,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,ngarlem kristel,can,"born: jul 20, 1995",b.weight: 73.90,group: a,1: 120,2: -125,3: -125,total: 120,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,garza garza alejandra,mex,"born: aug 01, 1991",b.weight: 74.00,group: a,1: -120,2: 120,3: -126,total: 120,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,aguilera pena melisa maida,cub,"born: jun 18, 1999",b.weight: 71.36,group: b,1: 110,2: 114,3: 116,total: 116,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,familia checo ernestina mercedes,dom,"born: nov 23, 1983",b.weight: 74.98,group: a,1: 115,2: -120,3: -120,total: 115,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,montes de oca mercedes cesarina,dom,"born: may 24, 1994",b.weight: 74.80,group: a,1: -115,2: 115,3: -121,total: 115,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,rojas castillo lenka yanara,chi,"born: mar 13, 1997",b.weight: 74.11,group: b,1: 97,2: 105,3: 110,total: 110,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,stivenson omier caratiny yahosca,nca,"born: feb 02, 2000",b.weight: 74.65,group: b,1: 80,2: 87,3: 90,total: 90,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,zamora rodriguez laura gabriela,crc,"born: dec 20, 1991",b.weight: 69.11,group: b,1: 80,2: -88,3: 88,total: 88,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,on sang moolgard ninfa del rosario,nca,"born: jun 08, 1987",b.weight: 74.22,group: b,1: 78,2: 83,3: 87,total: 87,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,quesada francine,crc,"born: mar 07, 1994",b.weight: 73.83,group: b,1: 80,2: -83,3: 83,total: 83,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lima de araujo monique maria,bra,"born: may 30, 1992",b.weight: 74.83,group: a,1: -118,2: -120,3: -120,total: ---,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,portela milichio mercedes noemi,uru,"born: mar 25, 1987",b.weight: 72.49,group: b,1: -98,2: -98,3: -98,total: ---,75kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,dajomes barrera neisi patricia,ecu,"born: may 12, 1998",b.weight: 74.67,group: a,snatch: 110,ci&jerk: 131,total: 241,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,chirinos leon dayana aracelis,ven,"born: oct 04, 1991",b.weight: 74.71,group: a,snatch: 101,ci&jerk: 129,total: 230,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,fuentes zavala aremi,mex,"born: may 23, 1993",b.weight: 74.86,group: a,snatch: 101,ci&jerk: 127,total: 228,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,beauchemin-nadeau marie-eve,can,"born: oct 13, 1988",b.weight: 74.78,group: a,snatch: 98,ci&jerk: 130,total: 228,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,salazar arce tamara yajaira,ecu,"born: aug 09, 1997",b.weight: 74.29,group: a,snatch: 97,ci&jerk: 122,total: 219,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,garza garza alejandra,mex,"born: aug 01, 1991",b.weight: 74.00,group: a,snatch: 95,ci&jerk: 120,total: 215,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,montes de oca mercedes cesarina,dom,"born: may 24, 1994",b.weight: 74.80,group: a,snatch: 99,ci&jerk: 115,total: 214,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,ngarlem kristel,can,"born: jul 20, 1995",b.weight: 73.90,group: a,snatch: 93,ci&jerk: 120,total: 213,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,aguilera pena melisa maida,cub,"born: jun 18, 1999",b.weight: 71.36,group: b,snatch: 91,ci&jerk: 116,total: 207,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 10,familia checo ernestina mercedes,dom,"born: nov 23, 1983",b.weight: 74.98,group: a,snatch: 88,ci&jerk: 115,total: 203,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 11,rojas castillo lenka yanara,chi,"born: mar 13, 1997",b.weight: 74.11,group: b,snatch: 82,ci&jerk: 110,total: 192,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 12,on sang moolgard ninfa del rosario,nca,"born: jun 08, 1987",b.weight: 74.22,group: b,snatch: 75,ci&jerk: 87,total: 162,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 13,stivenson omier caratiny yahosca,nca,"born: feb 02, 2000",b.weight: 74.65,group: b,snatch: 70,ci&jerk: 90,total: 160,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 14,zamora rodriguez laura gabriela,crc,"born: dec 20, 1991",b.weight: 69.11,group: b,snatch: 70,ci&jerk: 88,total: 158,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 15,quesada francine,crc,"born: mar 07, 1994",b.weight: 73.83,group: b,snatch: 70,ci&jerk: 83,total: 153,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,lima de araujo monique maria,bra,"born: may 30, 1992",b.weight: 74.83,group: a,snatch: 103,ci&jerk: ---,total: ---,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: ---,portela milichio mercedes noemi,uru,"born: mar 25, 1987",b.weight: 72.49,group: b,snatch: 76,ci&jerk: ---,total: ---,,75kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,santana peguero crismery dominga,dom,"born: apr 20, 1995",b.weight: 84.95,group: a,1: 108,2: 113,3: -115,total: 113,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,valdes paris maria fernanda,chi,"born: mar 17, 1992",b.weight: 87.96,group: a,1: 103,2: 108,3: 111,total: 111,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,nieve arroyo oliba seledina,ecu,"born: nov 25, 1977",b.weight: 88.64,group: a,1: 103,2: 108,3: 111,total: 111,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,solis arboleda yessica marcela,col,"born: dec 17, 1989",b.weight: 79.53,group: a,1: 105,2: 110,3: -112,total: 110,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,perez reveron naryury alexandra,ven,"born: sep 29, 1992",b.weight: 89.45,group: a,1: 103,2: 108,3: -112,total: 108,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rodriguez miranda keyshla ivette,pur,"born: nov 15, 1991",b.weight: 87.34,group: a,1: 92,2: 97,3: 101,total: 101,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,rosario vasquez alana michel,dom,"born: feb 07, 1998",b.weight: 87.65,group: a,1: -90,2: 90,3: -95,total: 90,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,lezama carrasquel yesenia jose,ven,"born: oct 19, 1988",b.weight: 77.48,group: a,1: 85,2: -90,3: -90,total: 85,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,santillan pastrana carla soledad,arg,"born: feb 21, 2000",b.weight: 87.20,group: a,1: -78,2: -78,3: 78,total: 78,90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,valdes paris maria fernanda,chi,"born: mar 17, 1992",b.weight: 87.96,group: a,1: 133,2: 138,3: 142,total: 142,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,santana peguero crismery dominga,dom,"born: apr 20, 1995",b.weight: 84.95,group: a,1: 135,2: 139,3: -143,total: 139,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,perez reveron naryury alexandra,ven,"born: sep 29, 1992",b.weight: 89.45,group: a,1: 133,2: -137,3: -137,total: 133,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,nieve arroyo oliba seledina,ecu,"born: nov 25, 1977",b.weight: 88.64,group: a,1: 128,2: 132,3: -135,total: 132,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,solis arboleda yessica marcela,col,"born: dec 17, 1989",b.weight: 79.53,group: a,1: 128,2: -133,3: -133,total: 128,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rodriguez miranda keyshla ivette,pur,"born: nov 15, 1991",b.weight: 87.34,group: a,1: 120,2: -125,3: -126,total: 120,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,lezama carrasquel yesenia jose,ven,"born: oct 19, 1988",b.weight: 77.48,group: a,1: 110,2: 115,3: 118,total: 118,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,rosario vasquez alana michel,dom,"born: feb 07, 1998",b.weight: 87.65,group: a,1: 110,2: 116,3: -121,total: 116,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,santillan pastrana carla soledad,arg,"born: feb 21, 2000",b.weight: 87.20,group: a,1: 100,2: 104,3: 108,total: 108,90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,valdes paris maria fernanda,chi,"born: mar 17, 1992",b.weight: 87.96,group: a,snatch: 111,ci&jerk: 142,total: 253,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,santana peguero crismery dominga,dom,"born: apr 20, 1995",b.weight: 84.95,group: a,snatch: 113,ci&jerk: 139,total: 252,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,nieve arroyo oliba seledina,ecu,"born: nov 25, 1977",b.weight: 88.64,group: a,snatch: 111,ci&jerk: 132,total: 243,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,perez reveron naryury alexandra,ven,"born: sep 29, 1992",b.weight: 89.45,group: a,snatch: 108,ci&jerk: 133,total: 241,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,solis arboleda yessica marcela,col,"born: dec 17, 1989",b.weight: 79.53,group: a,snatch: 110,ci&jerk: 128,total: 238,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,rodriguez miranda keyshla ivette,pur,"born: nov 15, 1991",b.weight: 87.34,group: a,snatch: 101,ci&jerk: 120,total: 221,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,rosario vasquez alana michel,dom,"born: feb 07, 1998",b.weight: 87.65,group: a,snatch: 90,ci&jerk: 116,total: 206,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,lezama carrasquel yesenia jose,ven,"born: oct 19, 1988",b.weight: 77.48,group: a,snatch: 85,ci&jerk: 118,total: 203,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,santillan pastrana carla soledad,arg,"born: feb 21, 2000",b.weight: 87.20,group: a,snatch: 78,ci&jerk: 108,total: 186,,90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,robles sarah elizabeth,usa,"born: aug 01, 1988",b.weight: 145.59,group: a,1: 110,2: 115,3: 120,total: 120,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,saladin tolentino veronica estela,dom,"born: may 21, 1992",b.weight: 128.39,group: a,1: 111,2: 116,3: 119,total: 119,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,mascorro osuna tania guadalupe,mex,"born: nov 24, 1988",b.weight: 108.18,group: a,1: 110,2: 115,3: 118,total: 118,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,ayovi cabezas lisseth betzaida,ecu,"born: aug 07, 1998",b.weight: 120.74,group: a,1: 103,2: 108,3: 112,total: 112,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,espinosa yaniuska isabel,ven,"born: dec 05, 1986",b.weight: 106.93,group: a,1: 100,2: 105,3: 110,total: 110,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,matamala araya nicol valeska,chi,"born: aug 07, 1988",b.weight: 98.02,group: a,1: 85,2: 92,3: 97,total: 97,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,ucelo marroquin scarleth vanessa,gua,"born: apr 07, 2000",b.weight: 96.67,group: a,1: 65,2: 71,3: 74,total: 74,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,montero mata isabel cristina,crc,"born: dec 23, 1994",b.weight: 90.12,group: a,1: 70,2: 73,3: -75,total: 73,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,obando maria micaela,arg,"born: mar 20, 1999",b.weight: 95.44,group: a,1: 60,2: 66,3: -72,total: 66,+90kgwomen,snatch,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,robles sarah elizabeth,usa,"born: aug 01, 1988",b.weight: 145.59,group: a,1: 145,2: 150,3: 155,total: 155,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,saladin tolentino veronica estela,dom,"born: may 21, 1992",b.weight: 128.39,group: a,1: 136,2: 142,3: 146,total: 146,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,mascorro osuna tania guadalupe,mex,"born: nov 24, 1988",b.weight: 108.18,group: a,1: 138,2: 142,3: -148,total: 142,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,ayovi cabezas lisseth betzaida,ecu,"born: aug 07, 1998",b.weight: 120.74,group: a,1: 128,2: 135,3: 140,total: 140,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,espinosa yaniuska isabel,ven,"born: dec 05, 1986",b.weight: 106.93,group: a,1: 131,2: 138,3: -141,total: 138,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,matamala araya nicol valeska,chi,"born: aug 07, 1988",b.weight: 98.02,group: a,1: 105,2: 115,3: -120,total: 115,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,montero mata isabel cristina,crc,"born: dec 23, 1994",b.weight: 90.12,group: a,1: 91,2: 96,3: 98,total: 98,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,ucelo marroquin scarleth vanessa,gua,"born: apr 07, 2000",b.weight: 96.67,group: a,1: 90,2: 95,3: 97,total: 97,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,obando maria micaela,arg,"born: mar 20, 1999",b.weight: 95.44,group: a,1: 80,2: 85,3: -90,total: 85,+90kgwomen,cleanjerk,PAN-AMERICAN CHAMPIONSHIPS
+rank: 1,robles sarah elizabeth,usa,"born: aug 01, 1988",b.weight: 145.59,group: a,snatch: 120,ci&jerk: 155,total: 275,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 2,saladin tolentino veronica estela,dom,"born: may 21, 1992",b.weight: 128.39,group: a,snatch: 119,ci&jerk: 146,total: 265,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 3,mascorro osuna tania guadalupe,mex,"born: nov 24, 1988",b.weight: 108.18,group: a,snatch: 118,ci&jerk: 142,total: 260,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 4,ayovi cabezas lisseth betzaida,ecu,"born: aug 07, 1998",b.weight: 120.74,group: a,snatch: 112,ci&jerk: 140,total: 252,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 5,espinosa yaniuska isabel,ven,"born: dec 05, 1986",b.weight: 106.93,group: a,snatch: 110,ci&jerk: 138,total: 248,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 6,matamala araya nicol valeska,chi,"born: aug 07, 1988",b.weight: 98.02,group: a,snatch: 97,ci&jerk: 115,total: 212,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 7,ucelo marroquin scarleth vanessa,gua,"born: apr 07, 2000",b.weight: 96.67,group: a,snatch: 74,ci&jerk: 97,total: 171,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 8,montero mata isabel cristina,crc,"born: dec 23, 1994",b.weight: 90.12,group: a,snatch: 73,ci&jerk: 98,total: 171,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS
+rank: 9,obando maria micaela,arg,"born: mar 20, 1999",b.weight: 95.44,group: a,snatch: 66,ci&jerk: 85,total: 151,,+90kgwomen,total,PAN-AMERICAN CHAMPIONSHIPS

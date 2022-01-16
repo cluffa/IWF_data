@@ -1,0 +1,409 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+rank: 1,sadykov eduard,rus,"born: jan 08, 1993",b.weight: 55.95,group: a,1: 105,2: 110,3: -112,total: 110,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,chenkov todor atanasov,bul,"born: dec 13, 1993",b.weight: 55.95,group: a,1: 105,2: 110,3: -112,total: 110,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kozlowski dominik mateusz,pol,"born: jun 14, 1993",b.weight: 55.75,group: a,1: 105,2: 108,3: -110,total: 108,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,scarantino mirco,ita,"born: jan 16, 1995",b.weight: 55.50,group: a,1: 103,2: 106,3: -109,total: 106,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,margaryan smbat,arm,"born: mar 17, 1993",b.weight: 55.50,group: a,1: 100,2: -104,3: 104,total: 104,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,blidari ioan tiberiu,rou,"born: jul 07, 1994",b.weight: 55.75,group: a,1: 97,2: -101,3: -101,total: 97,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,albu marian,rou,"born: jun 15, 1996",b.weight: 55.50,group: a,1: 90,2: 95,3: -100,total: 95,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,govdeli furkan,tur,"born: jul 28, 1994",b.weight: 55.75,group: a,1: 90,2: -95,3: -95,total: 90,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,talu kalle,est,"born: mar 20, 1997",b.weight: 55.80,group: a,1: 73,2: 77,3: -80,total: 77,56kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,scarantino mirco,ita,"born: jan 16, 1995",b.weight: 55.50,group: a,1: 135,2: 140,3: ---,total: 140,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,margaryan smbat,arm,"born: mar 17, 1993",b.weight: 55.50,group: a,1: 131,2: 137,3: -145,total: 137,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,chenkov todor atanasov,bul,"born: dec 13, 1993",b.weight: 55.95,group: a,1: 126,2: 131,3: 136,total: 136,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,govdeli furkan,tur,"born: jul 28, 1994",b.weight: 55.75,group: a,1: 118,2: 123,3: -127,total: 123,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kozlowski dominik mateusz,pol,"born: jun 14, 1993",b.weight: 55.75,group: a,1: 117,2: 122,3: -127,total: 122,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,blidari ioan tiberiu,rou,"born: jul 07, 1994",b.weight: 55.75,group: a,1: -115,2: 115,3: -120,total: 115,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,talu kalle,est,"born: mar 20, 1997",b.weight: 55.80,group: a,1: 90,2: -97,3: -97,total: 90,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,albu marian,rou,"born: jun 15, 1996",b.weight: 55.50,group: a,1: ---,2: ---,3: ---,total: ---,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,sadykov eduard,rus,"born: jan 08, 1993",b.weight: 55.95,group: a,1: -130,2: -130,3: -130,total: ---,56kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,scarantino mirco,ita,"born: jan 16, 1995",b.weight: 55.50,group: a,snatch: 106,ci&jerk: 140,total: 246,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,chenkov todor atanasov,bul,"born: dec 13, 1993",b.weight: 55.95,group: a,snatch: 110,ci&jerk: 136,total: 246,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,margaryan smbat,arm,"born: mar 17, 1993",b.weight: 55.50,group: a,snatch: 104,ci&jerk: 137,total: 241,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,kozlowski dominik mateusz,pol,"born: jun 14, 1993",b.weight: 55.75,group: a,snatch: 108,ci&jerk: 122,total: 230,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,govdeli furkan,tur,"born: jul 28, 1994",b.weight: 55.75,group: a,snatch: 90,ci&jerk: 123,total: 213,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,blidari ioan tiberiu,rou,"born: jul 07, 1994",b.weight: 55.75,group: a,snatch: 97,ci&jerk: 115,total: 212,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,talu kalle,est,"born: mar 20, 1997",b.weight: 55.80,group: a,snatch: 77,ci&jerk: 90,total: 167,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,albu marian,rou,"born: jun 15, 1996",b.weight: 55.50,group: a,snatch: 95,ci&jerk: ---,total: ---,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,sadykov eduard,rus,"born: jan 08, 1993",b.weight: 55.95,group: a,snatch: 110,ci&jerk: ---,total: ---,,56kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,croitoru florin ionut,rou,"born: aug 25, 1993",b.weight: 61.70,group: a,1: 127,2: -132,3: -132,total: 127,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,sooky gergely zoltan,hun,"born: sep 19, 1993",b.weight: 61.30,group: a,1: 115,2: 120,3: 123,total: 123,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,abdulgashumov asali,rus,"born: may 05, 1994",b.weight: 61.45,group: a,1: 117,2: -122,3: 123,total: 123,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,myshov alexander,rus,"born: jul 14, 1994",b.weight: 61.80,group: a,1: -118,2: 118,3: 123,total: 123,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,terna ion,mda,"born: jul 11, 1993",b.weight: 61.80,group: a,1: 118,2: 121,3: -124,total: 121,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,doychev atanas tsvetanov,bul,"born: jun 16, 1995",b.weight: 61.60,group: a,1: 110,2: 115,3: 118,total: 118,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,shamilishvili ramini,geo,"born: may 11, 1994",b.weight: 61.10,group: a,1: 108,2: 111,3: 113,total: 113,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,kwapisz dominik maciej,pol,"born: feb 24, 1993",b.weight: 61.85,group: a,1: 105,2: 109,3: 111,total: 111,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,di giusto michael,ita,"born: feb 16, 1995",b.weight: 60.40,group: a,1: 100,2: 105,3: 108,total: 108,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,aksoy omer faruk,tur,"born: nov 07, 1995",b.weight: 61.40,group: a,1: 103,2: 108,3: -112,total: 108,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,michaelas christos,gbr,"born: jan 01, 1993",b.weight: 61.50,group: b,1: 103,2: 108,3: -112,total: 108,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,malakci emre,tur,"born: oct 19, 1993",b.weight: 61.65,group: b,1: 98,2: 103,3: -106,total: 103,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 13,shergill jaswant singh,gbr,"born: jan 14, 1993",b.weight: 60.85,group: b,1: 97,2: -102,3: -103,total: 97,62kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,croitoru florin ionut,rou,"born: aug 25, 1993",b.weight: 61.70,group: a,1: 147,2: 151,3: 155,total: 155,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,abdulgashumov asali,rus,"born: may 05, 1994",b.weight: 61.45,group: a,1: 147,2: 152,3: -155,total: 152,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,terna ion,mda,"born: jul 11, 1993",b.weight: 61.80,group: a,1: -150,2: -150,3: 150,total: 150,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,myshov alexander,rus,"born: jul 14, 1994",b.weight: 61.80,group: a,1: -145,2: 148,3: -156,total: 148,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,doychev atanas tsvetanov,bul,"born: jun 16, 1995",b.weight: 61.60,group: a,1: 140,2: 146,3: -148,total: 146,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,sooky gergely zoltan,hun,"born: sep 19, 1993",b.weight: 61.30,group: a,1: 145,2: -150,3: -150,total: 145,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kwapisz dominik maciej,pol,"born: feb 24, 1993",b.weight: 61.85,group: a,1: 130,2: 135,3: 139,total: 139,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,shamilishvili ramini,geo,"born: may 11, 1994",b.weight: 61.10,group: a,1: 135,2: -139,3: -139,total: 135,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,di giusto michael,ita,"born: feb 16, 1995",b.weight: 60.40,group: a,1: 125,2: 130,3: -135,total: 130,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,aksoy omer faruk,tur,"born: nov 07, 1995",b.weight: 61.40,group: a,1: 123,2: 128,3: -132,total: 128,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,michaelas christos,gbr,"born: jan 01, 1993",b.weight: 61.50,group: b,1: -128,2: 128,3: -133,total: 128,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,shergill jaswant singh,gbr,"born: jan 14, 1993",b.weight: 60.85,group: b,1: 125,2: -131,3: -131,total: 125,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,malakci emre,tur,"born: oct 19, 1993",b.weight: 61.65,group: b,1: -125,2: -125,3: -125,total: ---,62kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,croitoru florin ionut,rou,"born: aug 25, 1993",b.weight: 61.70,group: a,snatch: 127,ci&jerk: 155,total: 282,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,abdulgashumov asali,rus,"born: may 05, 1994",b.weight: 61.45,group: a,snatch: 123,ci&jerk: 152,total: 275,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,myshov alexander,rus,"born: jul 14, 1994",b.weight: 61.80,group: a,snatch: 123,ci&jerk: 148,total: 271,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,terna ion,mda,"born: jul 11, 1993",b.weight: 61.80,group: a,snatch: 121,ci&jerk: 150,total: 271,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,sooky gergely zoltan,hun,"born: sep 19, 1993",b.weight: 61.30,group: a,snatch: 123,ci&jerk: 145,total: 268,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,doychev atanas tsvetanov,bul,"born: jun 16, 1995",b.weight: 61.60,group: a,snatch: 118,ci&jerk: 146,total: 264,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kwapisz dominik maciej,pol,"born: feb 24, 1993",b.weight: 61.85,group: a,snatch: 111,ci&jerk: 139,total: 250,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,shamilishvili ramini,geo,"born: may 11, 1994",b.weight: 61.10,group: a,snatch: 113,ci&jerk: 135,total: 248,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,di giusto michael,ita,"born: feb 16, 1995",b.weight: 60.40,group: a,snatch: 108,ci&jerk: 130,total: 238,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,aksoy omer faruk,tur,"born: nov 07, 1995",b.weight: 61.40,group: a,snatch: 108,ci&jerk: 128,total: 236,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,michaelas christos,gbr,"born: jan 01, 1993",b.weight: 61.50,group: b,snatch: 108,ci&jerk: 128,total: 236,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,shergill jaswant singh,gbr,"born: jan 14, 1993",b.weight: 60.85,group: b,snatch: 97,ci&jerk: 125,total: 222,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,malakci emre,tur,"born: oct 19, 1993",b.weight: 61.65,group: b,snatch: 103,ci&jerk: ---,total: ---,,62kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,militosyan vardan,arm,"born: mar 07, 1995",b.weight: 68.50,group: a,1: -125,2: 125,3: 130,total: 130,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,choszcz aleksander artur,pol,"born: nov 15, 1995",b.weight: 68.20,group: a,1: 121,2: 125,3: -127,total: 125,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,sanchez lopez david,esp,"born: jul 20, 1994",b.weight: 68.60,group: a,1: 120,2: -125,3: 125,total: 125,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,bajer daniel,pol,"born: may 13, 1994",b.weight: 68.30,group: a,1: 120,2: -124,3: -124,total: 120,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,faciano samuele,ita,"born: dec 19, 1995",b.weight: 68.60,group: a,1: -115,2: 115,3: 120,total: 120,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gedik sadrettin,tur,"born: may 05, 1997",b.weight: 68.85,group: a,1: -115,2: 115,3: -120,total: 115,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,overas jantsen louis jumao-as,nor,"born: sep 02, 1994",b.weight: 67.95,group: b,1: 103,2: -106,3: 106,total: 106,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,tarasov heigo,est,"born: apr 07, 1994",b.weight: 68.75,group: b,1: 100,2: 105,3: -108,total: 105,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,krasniqi arbnor,kos,"born: oct 14, 1994",b.weight: 68.85,group: b,1: -60,2: -60,3: 60,total: 60,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,aligulizada elkhan,aze,"born: feb 04, 1995",b.weight: 68.60,group: a,1: 130,2: 135,3: -137,total: ---,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,mishvelidze shota,geo,"born: oct 18, 1994",b.weight: 68.15,group: a,1: 135,2: 140,3: 143,total: ---,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,karapetyan vladik,arm,"born: jan 22, 1993",b.weight: 68.65,group: a,1: 120,2: 125,3: 127,total: ---,69kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,militosyan vardan,arm,"born: mar 07, 1995",b.weight: 68.50,group: a,1: -155,2: 155,3: -161,total: 155,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,bajer daniel,pol,"born: may 13, 1994",b.weight: 68.30,group: a,1: 146,2: 150,3: -155,total: 150,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,sanchez lopez david,esp,"born: jul 20, 1994",b.weight: 68.60,group: a,1: -150,2: 150,3: -155,total: 150,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,choszcz aleksander artur,pol,"born: nov 15, 1995",b.weight: 68.20,group: a,1: 145,2: 149,3: -152,total: 149,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,gedik sadrettin,tur,"born: may 05, 1997",b.weight: 68.85,group: a,1: 135,2: -140,3: 141,total: 141,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,faciano samuele,ita,"born: dec 19, 1995",b.weight: 68.60,group: a,1: -135,2: -135,3: 135,total: 135,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,overas jantsen louis jumao-as,nor,"born: sep 02, 1994",b.weight: 67.95,group: b,1: 128,2: -132,3: -132,total: 128,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,tarasov heigo,est,"born: apr 07, 1994",b.weight: 68.75,group: b,1: -120,2: 120,3: -125,total: 120,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,krasniqi arbnor,kos,"born: oct 14, 1994",b.weight: 68.85,group: b,1: 70,2: -72,3: 72,total: 72,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,aligulizada elkhan,aze,"born: feb 04, 1995",b.weight: 68.60,group: a,1: 160,2: 166,3: 174,total: ---,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,mishvelidze shota,geo,"born: oct 18, 1994",b.weight: 68.15,group: a,1: 160,2: 165,3: -170,total: ---,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,karapetyan vladik,arm,"born: jan 22, 1993",b.weight: 68.65,group: a,1: 153,2: -156,3: 161,total: ---,69kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,militosyan vardan,arm,"born: mar 07, 1995",b.weight: 68.50,group: a,snatch: 130,ci&jerk: 155,total: 285,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,sanchez lopez david,esp,"born: jul 20, 1994",b.weight: 68.60,group: a,snatch: 125,ci&jerk: 150,total: 275,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,choszcz aleksander artur,pol,"born: nov 15, 1995",b.weight: 68.20,group: a,snatch: 125,ci&jerk: 149,total: 274,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,bajer daniel,pol,"born: may 13, 1994",b.weight: 68.30,group: a,snatch: 120,ci&jerk: 150,total: 270,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,gedik sadrettin,tur,"born: may 05, 1997",b.weight: 68.85,group: a,snatch: 115,ci&jerk: 141,total: 256,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,faciano samuele,ita,"born: dec 19, 1995",b.weight: 68.60,group: a,snatch: 120,ci&jerk: 135,total: 255,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,overas jantsen louis jumao-as,nor,"born: sep 02, 1994",b.weight: 67.95,group: b,snatch: 106,ci&jerk: 128,total: 234,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,tarasov heigo,est,"born: apr 07, 1994",b.weight: 68.75,group: b,snatch: 105,ci&jerk: 120,total: 225,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,krasniqi arbnor,kos,"born: oct 14, 1994",b.weight: 68.85,group: b,snatch: 60,ci&jerk: 72,total: 132,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,aligulizada elkhan,aze,"born: feb 04, 1995",b.weight: 68.60,group: a,snatch: ---,ci&jerk: ---,total: ---,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,mishvelidze shota,geo,"born: oct 18, 1994",b.weight: 68.15,group: a,snatch: ---,ci&jerk: ---,total: ---,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,karapetyan vladik,arm,"born: jan 22, 1993",b.weight: 68.65,group: a,snatch: ---,ci&jerk: ---,total: ---,,69kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,asayonak petr,blr,"born: feb 27, 1993",b.weight: 76.80,group: a,1: 145,2: 150,3: 153,total: 153,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,unanyan razmik,rus,"born: feb 05, 1994",b.weight: 76.90,group: a,1: -146,2: 146,3: -150,total: 146,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,gabritchidze irakli,geo,"born: nov 12, 1995",b.weight: 73.05,group: a,1: -138,2: -142,3: 142,total: 142,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,bejenariu-carp florin-catalin,rou,"born: jan 15, 1994",b.weight: 76.20,group: a,1: -140,2: -140,3: 142,total: 142,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,tavadze zuriko,geo,"born: sep 16, 1993",b.weight: 76.15,group: a,1: 138,2: -142,3: -142,total: 138,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,slesarevs vadims,lat,"born: mar 15, 1993",b.weight: 75.80,group: a,1: 130,2: 135,3: -140,total: 135,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,ostrovsky viktor,svk,"born: jan 27, 1995",b.weight: 76.40,group: b,1: -117,2: 118,3: 122,total: 122,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,eloranta klaus kosti kristian,fin,"born: jul 26, 1993",b.weight: 76.50,group: b,1: 110,2: 114,3: 117,total: 117,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,kaikkonen henri mikael,fin,"born: oct 13, 1993",b.weight: 76.70,group: b,1: 110,2: 114,3: -116,total: 114,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,o ronain sean,irl,"born: may 30, 1994",b.weight: 76.05,group: b,1: 92,2: -96,3: 96,total: 96,77kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,unanyan razmik,rus,"born: feb 05, 1994",b.weight: 76.90,group: a,1: 176,2: 183,3: ---,total: 183,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,asayonak petr,blr,"born: feb 27, 1993",b.weight: 76.80,group: a,1: -175,2: -175,3: 175,total: 175,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,bejenariu-carp florin-catalin,rou,"born: jan 15, 1994",b.weight: 76.20,group: a,1: -166,2: -166,3: 168,total: 168,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,tavadze zuriko,geo,"born: sep 16, 1993",b.weight: 76.15,group: a,1: -165,2: 165,3: -172,total: 165,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,slesarevs vadims,lat,"born: mar 15, 1993",b.weight: 75.80,group: a,1: 158,2: 163,3: -168,total: 163,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ostrovsky viktor,svk,"born: jan 27, 1995",b.weight: 76.40,group: b,1: -148,2: 148,3: -153,total: 148,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaikkonen henri mikael,fin,"born: oct 13, 1993",b.weight: 76.70,group: b,1: 140,2: 142,3: -148,total: 142,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,eloranta klaus kosti kristian,fin,"born: jul 26, 1993",b.weight: 76.50,group: b,1: 132,2: 138,3: -140,total: 138,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,o ronain sean,irl,"born: may 30, 1994",b.weight: 76.05,group: b,1: 124,2: 129,3: -132,total: 129,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,gabritchidze irakli,geo,"born: nov 12, 1995",b.weight: 73.05,group: a,1: -165,2: -165,3: -169,total: ---,77kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,unanyan razmik,rus,"born: feb 05, 1994",b.weight: 76.90,group: a,snatch: 146,ci&jerk: 183,total: 329,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,asayonak petr,blr,"born: feb 27, 1993",b.weight: 76.80,group: a,snatch: 153,ci&jerk: 175,total: 328,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,bejenariu-carp florin-catalin,rou,"born: jan 15, 1994",b.weight: 76.20,group: a,snatch: 142,ci&jerk: 168,total: 310,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,tavadze zuriko,geo,"born: sep 16, 1993",b.weight: 76.15,group: a,snatch: 138,ci&jerk: 165,total: 303,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,slesarevs vadims,lat,"born: mar 15, 1993",b.weight: 75.80,group: a,snatch: 135,ci&jerk: 163,total: 298,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ostrovsky viktor,svk,"born: jan 27, 1995",b.weight: 76.40,group: b,snatch: 122,ci&jerk: 148,total: 270,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,kaikkonen henri mikael,fin,"born: oct 13, 1993",b.weight: 76.70,group: b,snatch: 114,ci&jerk: 142,total: 256,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,eloranta klaus kosti kristian,fin,"born: jul 26, 1993",b.weight: 76.50,group: b,snatch: 117,ci&jerk: 138,total: 255,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,o ronain sean,irl,"born: may 30, 1994",b.weight: 76.05,group: b,snatch: 96,ci&jerk: 129,total: 225,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,gabritchidze irakli,geo,"born: nov 12, 1995",b.weight: 73.05,group: a,snatch: 142,ci&jerk: ---,total: ---,,77kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,sidakov georgiq vladimirov,rus,"born: nov 19, 1993",b.weight: 85.00,group: a,1: 150,2: 155,3: 160,total: 160,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,konotop ihor,ukr,"born: jul 21, 1995",b.weight: 84.25,group: a,1: 147,2: -151,3: 151,total: 151,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,bulat iurie,mda,"born: oct 06, 1994",b.weight: 82.75,group: a,1: 150,2: -155,3: -155,total: 150,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,mueller nico,ger,"born: nov 02, 1993",b.weight: 84.45,group: a,1: 145,2: -150,3: -150,total: 145,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,secka stefan,aut,"born: nov 09, 1993",b.weight: 82.20,group: a,1: -143,2: 143,3: -148,total: 143,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,pizzolato antonino,ita,"born: aug 20, 1996",b.weight: 84.25,group: a,1: 135,2: 140,3: -142,total: 140,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,nowara gregor,ger,"born: sep 12, 1993",b.weight: 84.90,group: a,1: 135,2: -140,3: -140,total: 135,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,bodorik michal,svk,"born: jun 05, 1996",b.weight: 84.75,group: b,1: 123,2: 127,3: 128,total: 128,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,polacek peter,svk,"born: dec 05, 1994",b.weight: 83.90,group: b,1: -120,2: -120,3: 120,total: 120,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,majlinger igor,cro,"born: may 04, 1994",b.weight: 84.25,group: b,1: -15,2: -115,3: 115,total: 115,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,darragh ian arthur james,irl,"born: jun 19, 1994",b.weight: 82.50,group: b,1: 100,2: 106,3: 110,total: 110,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,murphy eoin,irl,"born: sep 06, 1993",b.weight: 84.05,group: b,1: 105,2: -110,3: -110,total: 105,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,ismayilov kamran,aze,"born: apr 09, 1993",b.weight: 84.50,group: a,1: 141,2: -144,3: 144,total: ---,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,pielieshenko oleksandr,ukr,"born: jan 07, 1994",b.weight: 84.45,group: a,1: 156,2: 160,3: 162,total: ---,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,maligov adam,rus,"born: may 06, 1993",b.weight: 84.95,group: a,1: 157,2: 162,3: 165,total: ---,85kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,konotop ihor,ukr,"born: jul 21, 1995",b.weight: 84.25,group: a,1: 187,2: 192,3: 195,total: 195,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,sidakov georgiq vladimirov,rus,"born: nov 19, 1993",b.weight: 85.00,group: a,1: 187,2: 192,3: 195,total: 195,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,mueller nico,ger,"born: nov 02, 1993",b.weight: 84.45,group: a,1: 173,2: 180,3: 185,total: 185,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,pizzolato antonino,ita,"born: aug 20, 1996",b.weight: 84.25,group: a,1: 175,2: -181,3: -181,total: 175,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,bulat iurie,mda,"born: oct 06, 1994",b.weight: 82.75,group: a,1: 165,2: 170,3: -173,total: 170,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,secka stefan,aut,"born: nov 09, 1993",b.weight: 82.20,group: a,1: 160,2: -165,3: 166,total: 166,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,nowara gregor,ger,"born: sep 12, 1993",b.weight: 84.90,group: a,1: 160,2: -161,3: -165,total: 160,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,bodorik michal,svk,"born: jun 05, 1996",b.weight: 84.75,group: b,1: 155,2: -161,3: -161,total: 155,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,polacek peter,svk,"born: dec 05, 1994",b.weight: 83.90,group: b,1: 148,2: -156,3: -156,total: 148,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,majlinger igor,cro,"born: may 04, 1994",b.weight: 84.25,group: b,1: 135,2: -140,3: -140,total: 135,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,darragh ian arthur james,irl,"born: jun 19, 1994",b.weight: 82.50,group: b,1: 127,2: 134,3: -140,total: 134,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,murphy eoin,irl,"born: sep 06, 1993",b.weight: 84.05,group: b,1: 117,2: -121,3: 121,total: 121,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,ismayilov kamran,aze,"born: apr 09, 1993",b.weight: 84.50,group: a,1: -171,2: -171,3: -171,total: ---,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,pielieshenko oleksandr,ukr,"born: jan 07, 1994",b.weight: 84.45,group: a,1: 186,2: -190,3: 192,total: ---,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,maligov adam,rus,"born: may 06, 1993",b.weight: 84.95,group: a,1: 190,2: 195,3: 200,total: ---,85kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,sidakov georgiq vladimirov,rus,"born: nov 19, 1993",b.weight: 85.00,group: a,snatch: 160,ci&jerk: 195,total: 355,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,konotop ihor,ukr,"born: jul 21, 1995",b.weight: 84.25,group: a,snatch: 151,ci&jerk: 195,total: 346,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,mueller nico,ger,"born: nov 02, 1993",b.weight: 84.45,group: a,snatch: 145,ci&jerk: 185,total: 330,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,bulat iurie,mda,"born: oct 06, 1994",b.weight: 82.75,group: a,snatch: 150,ci&jerk: 170,total: 320,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,pizzolato antonino,ita,"born: aug 20, 1996",b.weight: 84.25,group: a,snatch: 140,ci&jerk: 175,total: 315,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,secka stefan,aut,"born: nov 09, 1993",b.weight: 82.20,group: a,snatch: 143,ci&jerk: 166,total: 309,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,nowara gregor,ger,"born: sep 12, 1993",b.weight: 84.90,group: a,snatch: 135,ci&jerk: 160,total: 295,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,bodorik michal,svk,"born: jun 05, 1996",b.weight: 84.75,group: b,snatch: 128,ci&jerk: 155,total: 283,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,polacek peter,svk,"born: dec 05, 1994",b.weight: 83.90,group: b,snatch: 120,ci&jerk: 148,total: 268,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,majlinger igor,cro,"born: may 04, 1994",b.weight: 84.25,group: b,snatch: 115,ci&jerk: 135,total: 250,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,darragh ian arthur james,irl,"born: jun 19, 1994",b.weight: 82.50,group: b,snatch: 110,ci&jerk: 134,total: 244,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,murphy eoin,irl,"born: sep 06, 1993",b.weight: 84.05,group: b,snatch: 105,ci&jerk: 121,total: 226,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,ismayilov kamran,aze,"born: apr 09, 1993",b.weight: 84.50,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,pielieshenko oleksandr,ukr,"born: jan 07, 1994",b.weight: 84.45,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,maligov adam,rus,"born: may 06, 1993",b.weight: 84.95,group: a,snatch: ---,ci&jerk: ---,total: ---,,85kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kudzik philip,ger,"born: jan 03, 1993",b.weight: 93.45,group: a,1: 150,2: 155,3: -158,total: 155,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kennedy clarence,irl,"born: aug 09, 1993",b.weight: 92.30,group: a,1: 148,2: -154,3: -154,total: 148,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,forster philipp,aut,"born: feb 14, 1994",b.weight: 93.75,group: a,1: -147,2: -147,3: 147,total: 147,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,webster sonny curtis,gbr,"born: mar 10, 1994",b.weight: 93.60,group: a,1: 138,2: 142,3: 145,total: 145,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kozevnikovs vadims,lat,"born: feb 01, 1994",b.weight: 90.70,group: a,1: 135,2: 140,3: 143,total: 143,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,szczepanik kamil pawel,pol,"born: jul 12, 1993",b.weight: 87.85,group: a,1: 140,2: -145,3: -145,total: 140,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,gasparotto mauro,ita,"born: jul 27, 1993",b.weight: 93.20,group: a,1: 135,2: -140,3: -140,total: 135,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,yazlik murat,tur,"born: jan 03, 1994",b.weight: 87.10,group: b,1: 125,2: -130,3: 130,total: 130,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,pirkkio rikhard santeri,fin,"born: dec 26, 1994",b.weight: 87.80,group: b,1: -120,2: -120,3: 120,total: 120,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,pent lembit,est,"born: feb 19, 1993",b.weight: 90.15,group: b,1: 112,2: -117,3: 117,total: 117,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,pirkkio robert aukusti,fin,"born: jun 25, 1993",b.weight: 92.95,group: b,1: -125,2: -125,3: -125,total: ---,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,kasina mateusz,pol,"born: oct 03, 1993",b.weight: 93.10,group: a,1: -150,2: -150,3: -150,total: ---,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,nabiyev nailkhan,aze,"born: nov 24, 1994",b.weight: 93.50,group: a,1: -147,2: 147,3: 153,total: ---,94kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kudzik philip,ger,"born: jan 03, 1993",b.weight: 93.45,group: a,1: 178,2: 183,3: 186,total: 186,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kennedy clarence,irl,"born: aug 09, 1993",b.weight: 92.30,group: a,1: -180,2: 180,3: -187,total: 180,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kasina mateusz,pol,"born: oct 03, 1993",b.weight: 93.10,group: a,1: 175,2: 179,3: -183,total: 179,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,szczepanik kamil pawel,pol,"born: jul 12, 1993",b.weight: 87.85,group: a,1: -175,2: 175,3: -180,total: 175,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kozevnikovs vadims,lat,"born: feb 01, 1994",b.weight: 90.70,group: a,1: 169,2: 175,3: -179,total: 175,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,webster sonny curtis,gbr,"born: mar 10, 1994",b.weight: 93.60,group: a,1: -175,2: 175,3: -181,total: 175,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,gasparotto mauro,ita,"born: jul 27, 1993",b.weight: 93.20,group: a,1: -165,2: 165,3: -170,total: 165,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,yazlik murat,tur,"born: jan 03, 1994",b.weight: 87.10,group: b,1: 150,2: 156,3: -160,total: 156,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,pirkkio robert aukusti,fin,"born: jun 25, 1993",b.weight: 92.95,group: b,1: -148,2: 148,3: -158,total: 148,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 10,pirkkio rikhard santeri,fin,"born: dec 26, 1994",b.weight: 87.80,group: b,1: 135,2: 140,3: -144,total: 140,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 11,pent lembit,est,"born: feb 19, 1993",b.weight: 90.15,group: b,1: 140,2: -144,3: -144,total: 140,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,forster philipp,aut,"born: feb 14, 1994",b.weight: 93.75,group: a,1: -183,2: -183,3: -183,total: ---,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,nabiyev nailkhan,aze,"born: nov 24, 1994",b.weight: 93.50,group: a,1: 186,2: 190,3: -202,total: ---,94kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kudzik philip,ger,"born: jan 03, 1993",b.weight: 93.45,group: a,snatch: 155,ci&jerk: 186,total: 341,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kennedy clarence,irl,"born: aug 09, 1993",b.weight: 92.30,group: a,snatch: 148,ci&jerk: 180,total: 328,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,webster sonny curtis,gbr,"born: mar 10, 1994",b.weight: 93.60,group: a,snatch: 145,ci&jerk: 175,total: 320,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,kozevnikovs vadims,lat,"born: feb 01, 1994",b.weight: 90.70,group: a,snatch: 143,ci&jerk: 175,total: 318,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,szczepanik kamil pawel,pol,"born: jul 12, 1993",b.weight: 87.85,group: a,snatch: 140,ci&jerk: 175,total: 315,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,gasparotto mauro,ita,"born: jul 27, 1993",b.weight: 93.20,group: a,snatch: 135,ci&jerk: 165,total: 300,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,yazlik murat,tur,"born: jan 03, 1994",b.weight: 87.10,group: b,snatch: 130,ci&jerk: 156,total: 286,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,pirkkio rikhard santeri,fin,"born: dec 26, 1994",b.weight: 87.80,group: b,snatch: 120,ci&jerk: 140,total: 260,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,pent lembit,est,"born: feb 19, 1993",b.weight: 90.15,group: b,snatch: 117,ci&jerk: 140,total: 257,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,forster philipp,aut,"born: feb 14, 1994",b.weight: 93.75,group: a,snatch: 147,ci&jerk: ---,total: ---,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,pirkkio robert aukusti,fin,"born: jun 25, 1993",b.weight: 92.95,group: b,snatch: ---,ci&jerk: 148,total: ---,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,kasina mateusz,pol,"born: oct 03, 1993",b.weight: 93.10,group: a,snatch: ---,ci&jerk: 179,total: ---,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,nabiyev nailkhan,aze,"born: nov 24, 1994",b.weight: 93.50,group: a,snatch: ---,ci&jerk: ---,total: ---,,94kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,samoraj jaroslaw pawel,pol,"born: jun 16, 1994",b.weight: 96.75,group: a,1: 155,2: 160,3: 162,total: 162,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,stroumpis efstathios,gre,"born: jul 12, 1993",b.weight: 102.75,group: a,1: -150,2: 150,3: 156,total: 156,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,lichovoj sergej,ltu,"born: jul 27, 1993",b.weight: 103.15,group: a,1: 155,2: -158,3: -158,total: 155,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,aleksidze viliamini,geo,"born: jan 28, 1993",b.weight: 100.50,group: a,1: 150,2: -155,3: -155,total: 150,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,jalajas mihkel,est,"born: apr 12, 1994",b.weight: 97.40,group: a,1: 135,2: 140,3: 142,total: 142,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,strasser simon,aut,"born: jun 11, 1993",b.weight: 96.30,group: a,1: 125,2: -130,3: -130,total: 125,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,keartland simon mark,irl,"born: apr 24, 1993",b.weight: 96.30,group: a,1: -115,2: 115,3: 121,total: 121,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,icel abdulkadir,tur,"born: jul 01, 1997",b.weight: 103.15,group: a,1: -108,2: -108,3: 108,total: 108,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 12,naniev timur,rus,"born: sep 20, 1994",b.weight: 104.85,group: a,1: 170,2: 180,3: 184,total: 184,105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,naniev timur,rus,"born: sep 20, 1994",b.weight: 104.85,group: a,1: 205,2: 216,3: ---,total: 216,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,stroumpis efstathios,gre,"born: jul 12, 1993",b.weight: 102.75,group: a,1: 195,2: 200,3: -203,total: 200,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,samoraj jaroslaw pawel,pol,"born: jun 16, 1994",b.weight: 96.75,group: a,1: 190,2: 195,3: -200,total: 195,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,aleksidze viliamini,geo,"born: jan 28, 1993",b.weight: 100.50,group: a,1: 185,2: 191,3: -197,total: 191,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,lichovoj sergej,ltu,"born: jul 27, 1993",b.weight: 103.15,group: a,1: 190,2: -197,3: -197,total: 190,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,jalajas mihkel,est,"born: apr 12, 1994",b.weight: 97.40,group: a,1: 167,2: 172,3: 175,total: 175,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,strasser simon,aut,"born: jun 11, 1993",b.weight: 96.30,group: a,1: -160,2: -160,3: 160,total: 160,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,keartland simon mark,irl,"born: apr 24, 1993",b.weight: 96.30,group: a,1: 135,2: -140,3: 140,total: 140,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,icel abdulkadir,tur,"born: jul 01, 1997",b.weight: 103.15,group: a,1: 130,2: 138,3: -142,total: 138,105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,naniev timur,rus,"born: sep 20, 1994",b.weight: 104.85,group: a,snatch: 184,ci&jerk: 216,total: 400,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,samoraj jaroslaw pawel,pol,"born: jun 16, 1994",b.weight: 96.75,group: a,snatch: 162,ci&jerk: 195,total: 357,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,stroumpis efstathios,gre,"born: jul 12, 1993",b.weight: 102.75,group: a,snatch: 156,ci&jerk: 200,total: 356,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,lichovoj sergej,ltu,"born: jul 27, 1993",b.weight: 103.15,group: a,snatch: 155,ci&jerk: 190,total: 345,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,aleksidze viliamini,geo,"born: jan 28, 1993",b.weight: 100.50,group: a,snatch: 150,ci&jerk: 191,total: 341,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,jalajas mihkel,est,"born: apr 12, 1994",b.weight: 97.40,group: a,snatch: 142,ci&jerk: 175,total: 317,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,strasser simon,aut,"born: jun 11, 1993",b.weight: 96.30,group: a,snatch: 125,ci&jerk: 160,total: 285,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,keartland simon mark,irl,"born: apr 24, 1993",b.weight: 96.30,group: a,snatch: 121,ci&jerk: 140,total: 261,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 9,icel abdulkadir,tur,"born: jul 01, 1997",b.weight: 103.15,group: a,snatch: 108,ci&jerk: 138,total: 246,,105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,martirosyan karen,rus,"born: feb 14, 1993",b.weight: 134.20,group: a,1: 170,2: -175,3: 175,total: 175,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lozinski bartosz,pol,"born: jul 30, 1994",b.weight: 140.60,group: a,1: 155,2: 162,3: -166,total: 162,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,litvinov david,isr,"born: sep 23, 1993",b.weight: 119.50,group: a,1: -147,2: 147,3: -152,total: 147,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,magris riccardo,ita,"born: aug 02, 1993",b.weight: 113.85,group: a,1: -135,2: 135,3: 140,total: 140,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,bijelic silvio,cro,"born: aug 04, 1994",b.weight: 138.80,group: a,1: 130,2: 137,3: -141,total: 137,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,reisecker florin,aut,"born: feb 19, 1993",b.weight: 106.10,group: a,1: 128,2: -133,3: 133,total: 133,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,talakhadze lasha,geo,"born: oct 02, 1993",b.weight: 154.50,group: a,1: 182,2: 190,3: ---,total: ---,+105kgmen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,martirosyan karen,rus,"born: feb 14, 1993",b.weight: 134.20,group: a,1: 200,2: ---,3: ---,total: 200,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lozinski bartosz,pol,"born: jul 30, 1994",b.weight: 140.60,group: a,1: 185,2: 193,3: 198,total: 198,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,bijelic silvio,cro,"born: aug 04, 1994",b.weight: 138.80,group: a,1: 176,2: 182,3: -185,total: 182,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,magris riccardo,ita,"born: aug 02, 1993",b.weight: 113.85,group: a,1: 165,2: 170,3: 175,total: 175,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,litvinov david,isr,"born: sep 23, 1993",b.weight: 119.50,group: a,1: 175,2: -180,3: -181,total: 175,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,reisecker florin,aut,"born: feb 19, 1993",b.weight: 106.10,group: a,1: -154,2: 154,3: -160,total: 154,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,talakhadze lasha,geo,"born: oct 02, 1993",b.weight: 154.50,group: a,1: 210,2: 225,3: ---,total: ---,+105kgmen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,martirosyan karen,rus,"born: feb 14, 1993",b.weight: 134.20,group: a,snatch: 175,ci&jerk: 200,total: 375,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,lozinski bartosz,pol,"born: jul 30, 1994",b.weight: 140.60,group: a,snatch: 162,ci&jerk: 198,total: 360,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,litvinov david,isr,"born: sep 23, 1993",b.weight: 119.50,group: a,snatch: 147,ci&jerk: 175,total: 322,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,bijelic silvio,cro,"born: aug 04, 1994",b.weight: 138.80,group: a,snatch: 137,ci&jerk: 182,total: 319,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,magris riccardo,ita,"born: aug 02, 1993",b.weight: 113.85,group: a,snatch: 140,ci&jerk: 175,total: 315,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,reisecker florin,aut,"born: feb 19, 1993",b.weight: 106.10,group: a,snatch: 133,ci&jerk: 154,total: 287,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: dsq,talakhadze lasha,geo,"born: oct 02, 1993",b.weight: 154.50,group: a,snatch: ---,ci&jerk: ---,total: ---,,+105kgmen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,rypinskaya yulia,blr,"born: jul 13, 1994",b.weight: 46.40,group: a,1: 63,2: 66,3: 68,total: 68,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,koha rebeka,lat,"born: may 19, 1998",b.weight: 47.40,group: a,1: 64,2: 66,3: 68,total: 68,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,feledyn katarzyna wioletta,pol,"born: nov 25, 1993",b.weight: 48.00,group: a,1: 63,2: -66,3: 66,total: 66,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,draganova natalia nacheva,bul,"born: nov 06, 1993",b.weight: 47.50,group: a,1: 60,2: 63,3: 65,total: 65,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,pandova daniela ivanova,bul,"born: sep 16, 1994",b.weight: 47.35,group: a,1: 58,2: -60,3: 61,total: 61,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,berki lilla,hun,"born: aug 29, 1993",b.weight: 47.70,group: a,1: 50,2: -53,3: 53,total: 53,48kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,rypinskaya yulia,blr,"born: jul 13, 1994",b.weight: 46.40,group: a,1: 83,2: 86,3: 88,total: 88,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,feledyn katarzyna wioletta,pol,"born: nov 25, 1993",b.weight: 48.00,group: a,1: 83,2: 86,3: -91,total: 86,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,koha rebeka,lat,"born: may 19, 1998",b.weight: 47.40,group: a,1: 77,2: 80,3: 82,total: 82,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,draganova natalia nacheva,bul,"born: nov 06, 1993",b.weight: 47.50,group: a,1: 77,2: 81,3: -83,total: 81,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,pandova daniela ivanova,bul,"born: sep 16, 1994",b.weight: 47.35,group: a,1: 70,2: 74,3: -78,total: 74,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,berki lilla,hun,"born: aug 29, 1993",b.weight: 47.70,group: a,1: 60,2: 64,3: 66,total: 66,48kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,rypinskaya yulia,blr,"born: jul 13, 1994",b.weight: 46.40,group: a,snatch: 68,ci&jerk: 88,total: 156,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,feledyn katarzyna wioletta,pol,"born: nov 25, 1993",b.weight: 48.00,group: a,snatch: 66,ci&jerk: 86,total: 152,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,koha rebeka,lat,"born: may 19, 1998",b.weight: 47.40,group: a,snatch: 68,ci&jerk: 82,total: 150,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,draganova natalia nacheva,bul,"born: nov 06, 1993",b.weight: 47.50,group: a,snatch: 65,ci&jerk: 81,total: 146,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,pandova daniela ivanova,bul,"born: sep 16, 1994",b.weight: 47.35,group: a,snatch: 61,ci&jerk: 74,total: 135,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,berki lilla,hun,"born: aug 29, 1993",b.weight: 47.70,group: a,snatch: 53,ci&jerk: 66,total: 119,,48kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,baymulkina irina,rus,"born: jan 03, 1995",b.weight: 52.35,group: a,1: 75,2: 79,3: 86,total: 86,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kansizoglu gulcihan,tur,"born: jan 06, 1993",b.weight: 52.30,group: a,1: 68,2: 71,3: 72,total: 72,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,hernandez martin atenery,esp,"born: dec 10, 1994",b.weight: 52.05,group: a,1: 68,2: 71,3: -73,total: 71,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,farina natalia maria,ita,"born: aug 01, 1996",b.weight: 52.85,group: a,1: 65,2: 69,3: -72,total: 69,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,aydin damla,tur,"born: oct 01, 1993",b.weight: 52.45,group: a,1: 68,2: -72,3: -73,total: 68,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ovsthus sarah orteza hovden,nor,"born: mar 20, 1994",b.weight: 49.80,group: a,1: -58,2: 58,3: 61,total: 61,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,szabo dominika,hun,"born: sep 23, 1997",b.weight: 51.90,group: a,1: 47,2: 50,3: 53,total: 53,53kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,baymulkina irina,rus,"born: jan 03, 1995",b.weight: 52.35,group: a,1: 95,2: 100,3: -106,total: 100,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kansizoglu gulcihan,tur,"born: jan 06, 1993",b.weight: 52.30,group: a,1: 85,2: 88,3: 90,total: 90,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,hernandez martin atenery,esp,"born: dec 10, 1994",b.weight: 52.05,group: a,1: 85,2: 88,3: -90,total: 88,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,aydin damla,tur,"born: oct 01, 1993",b.weight: 52.45,group: a,1: 83,2: 86,3: -89,total: 86,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,farina natalia maria,ita,"born: aug 01, 1996",b.weight: 52.85,group: a,1: -85,2: -85,3: 85,total: 85,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ovsthus sarah orteza hovden,nor,"born: mar 20, 1994",b.weight: 49.80,group: a,1: 72,2: 75,3: -77,total: 75,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,szabo dominika,hun,"born: sep 23, 1997",b.weight: 51.90,group: a,1: 64,2: 67,3: -70,total: 67,53kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,baymulkina irina,rus,"born: jan 03, 1995",b.weight: 52.35,group: a,snatch: 86,ci&jerk: 100,total: 186,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kansizoglu gulcihan,tur,"born: jan 06, 1993",b.weight: 52.30,group: a,snatch: 72,ci&jerk: 90,total: 162,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,hernandez martin atenery,esp,"born: dec 10, 1994",b.weight: 52.05,group: a,snatch: 71,ci&jerk: 88,total: 159,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,aydin damla,tur,"born: oct 01, 1993",b.weight: 52.45,group: a,snatch: 68,ci&jerk: 86,total: 154,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,farina natalia maria,ita,"born: aug 01, 1996",b.weight: 52.85,group: a,snatch: 69,ci&jerk: 85,total: 154,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,ovsthus sarah orteza hovden,nor,"born: mar 20, 1994",b.weight: 49.80,group: a,snatch: 61,ci&jerk: 75,total: 136,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,szabo dominika,hun,"born: sep 23, 1997",b.weight: 51.90,group: a,snatch: 53,ci&jerk: 67,total: 120,,53kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,lubina mariia,rus,"born: feb 24, 1993",b.weight: 55.60,group: a,1: 83,2: 86,3: 89,total: 89,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,heghis loredana petronela,rou,"born: jun 20, 1993",b.weight: 57.65,group: a,1: 80,2: 84,3: -87,total: 84,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,yaylyan izabella,arm,"born: jan 04, 1995",b.weight: 56.25,group: a,1: -82,2: 82,3: -84,total: 82,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,russo giorgia,ita,"born: apr 28, 1993",b.weight: 57.25,group: a,1: -75,2: 75,3: 78,total: 78,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,tuncbilek rabia,tur,"born: nov 13, 1995",b.weight: 56.60,group: a,1: -75,2: 75,3: -78,total: 75,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,grzegorek agata ewa,pol,"born: sep 11, 1994",b.weight: 57.55,group: a,1: -75,2: 75,3: -78,total: 75,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,pascutto martina,ita,"born: aug 19, 1993",b.weight: 57.40,group: a,1: 70,2: 72,3: 74,total: 74,58kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,lubina mariia,rus,"born: feb 24, 1993",b.weight: 55.60,group: a,1: 105,2: -109,3: 109,total: 109,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,heghis loredana petronela,rou,"born: jun 20, 1993",b.weight: 57.65,group: a,1: 101,2: 104,3: -110,total: 104,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,russo giorgia,ita,"born: apr 28, 1993",b.weight: 57.25,group: a,1: 97,2: 101,3: -104,total: 101,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,yaylyan izabella,arm,"born: jan 04, 1995",b.weight: 56.25,group: a,1: 100,2: -103,3: -103,total: 100,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,grzegorek agata ewa,pol,"born: sep 11, 1994",b.weight: 57.55,group: a,1: 93,2: -97,3: 97,total: 97,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,tuncbilek rabia,tur,"born: nov 13, 1995",b.weight: 56.60,group: a,1: -87,2: 87,3: 90,total: 90,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,pascutto martina,ita,"born: aug 19, 1993",b.weight: 57.40,group: a,1: 83,2: 86,3: -90,total: 86,58kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,lubina mariia,rus,"born: feb 24, 1993",b.weight: 55.60,group: a,snatch: 89,ci&jerk: 109,total: 198,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,heghis loredana petronela,rou,"born: jun 20, 1993",b.weight: 57.65,group: a,snatch: 84,ci&jerk: 104,total: 188,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,yaylyan izabella,arm,"born: jan 04, 1995",b.weight: 56.25,group: a,snatch: 82,ci&jerk: 100,total: 182,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,russo giorgia,ita,"born: apr 28, 1993",b.weight: 57.25,group: a,snatch: 78,ci&jerk: 101,total: 179,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,grzegorek agata ewa,pol,"born: sep 11, 1994",b.weight: 57.55,group: a,snatch: 75,ci&jerk: 97,total: 172,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,tuncbilek rabia,tur,"born: nov 13, 1995",b.weight: 56.60,group: a,snatch: 75,ci&jerk: 90,total: 165,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,pascutto martina,ita,"born: aug 19, 1993",b.weight: 57.40,group: a,snatch: 74,ci&jerk: 86,total: 160,,58kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,akhmetova diana,rus,"born: sep 21, 1994",b.weight: 61.70,group: a,1: -100,2: 100,3: 103,total: 103,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,likhacheva nadezda,rus,"born: aug 18, 1995",b.weight: 62.45,group: a,1: 95,2: 100,3: -103,total: 100,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,martinez santiago irene,esp,"born: sep 14, 1993",b.weight: 62.35,group: a,1: 88,2: 90,3: -94,total: 90,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ionita bianca-mihaela,rou,"born: aug 10, 1994",b.weight: 62.45,group: a,1: 85,2: -89,3: 89,total: 89,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,demirel hatice,tur,"born: aug 27, 1994",b.weight: 62.65,group: a,1: 80,2: -85,3: 85,total: 85,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,michalska aleksandra,pol,"born: feb 16, 1994",b.weight: 62.45,group: a,1: 73,2: 76,3: -78,total: 76,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,andreasen sara ellegaard,den,"born: jan 17, 1993",b.weight: 60.35,group: a,1: -58,2: 58,3: 60,total: 60,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,bombul ave,est,"born: dec 21, 1996",b.weight: 58.75,group: a,1: 53,2: -57,3: -57,total: 53,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,kurnaz mehtap,tur,"born: may 01, 1995",b.weight: 61.80,group: a,1: -80,2: -80,3: -80,total: ---,63kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,akhmetova diana,rus,"born: sep 21, 1994",b.weight: 61.70,group: a,1: 120,2: 125,3: -130,total: 125,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,likhacheva nadezda,rus,"born: aug 18, 1995",b.weight: 62.45,group: a,1: 118,2: 123,3: -127,total: 123,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,demirel hatice,tur,"born: aug 27, 1994",b.weight: 62.65,group: a,1: 106,2: -113,3: -113,total: 106,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,martinez santiago irene,esp,"born: sep 14, 1993",b.weight: 62.35,group: a,1: 100,2: -105,3: 105,total: 105,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kurnaz mehtap,tur,"born: may 01, 1995",b.weight: 61.80,group: a,1: 95,2: -100,3: 100,total: 100,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,michalska aleksandra,pol,"born: feb 16, 1994",b.weight: 62.45,group: a,1: 88,2: -92,3: -92,total: 88,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,andreasen sara ellegaard,den,"born: jan 17, 1993",b.weight: 60.35,group: a,1: 73,2: 76,3: 79,total: 79,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 8,bombul ave,est,"born: dec 21, 1996",b.weight: 58.75,group: a,1: 78,2: -83,3: -83,total: 78,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,ionita bianca-mihaela,rou,"born: aug 10, 1994",b.weight: 62.45,group: a,1: -111,2: -111,3: -112,total: ---,63kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,akhmetova diana,rus,"born: sep 21, 1994",b.weight: 61.70,group: a,snatch: 103,ci&jerk: 125,total: 228,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,likhacheva nadezda,rus,"born: aug 18, 1995",b.weight: 62.45,group: a,snatch: 100,ci&jerk: 123,total: 223,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,martinez santiago irene,esp,"born: sep 14, 1993",b.weight: 62.35,group: a,snatch: 90,ci&jerk: 105,total: 195,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,demirel hatice,tur,"born: aug 27, 1994",b.weight: 62.65,group: a,snatch: 85,ci&jerk: 106,total: 191,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,michalska aleksandra,pol,"born: feb 16, 1994",b.weight: 62.45,group: a,snatch: 76,ci&jerk: 88,total: 164,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,andreasen sara ellegaard,den,"born: jan 17, 1993",b.weight: 60.35,group: a,snatch: 60,ci&jerk: 79,total: 139,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,bombul ave,est,"born: dec 21, 1996",b.weight: 58.75,group: a,snatch: 53,ci&jerk: 78,total: 131,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,ionita bianca-mihaela,rou,"born: aug 10, 1994",b.weight: 62.45,group: a,snatch: 89,ci&jerk: ---,total: ---,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: ---,kurnaz mehtap,tur,"born: may 01, 1995",b.weight: 61.80,group: a,snatch: ---,ci&jerk: 100,total: ---,,63kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kaneva marina,rus,"born: jun 01, 1993",b.weight: 64.15,group: a,1: 90,2: 93,3: -96,total: 93,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,tretiacova ecaterina,mda,"born: dec 22, 1996",b.weight: 68.50,group: a,1: 86,2: 90,3: -92,total: 90,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kruczynska milena,pol,"born: aug 10, 1993",b.weight: 68.60,group: a,1: 85,2: 87,3: 88,total: 88,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ipek assiya,tur,"born: dec 05, 1993",b.weight: 66.80,group: a,1: -86,2: 87,3: -88,total: 87,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kentli sumeyye,tur,"born: nov 16, 1995",b.weight: 65.85,group: a,1: 83,2: 86,3: -88,total: 86,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,papikyan arevik,arm,"born: aug 09, 1995",b.weight: 68.50,group: a,1: 75,2: -79,3: 79,total: 79,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,hansson cornelia,swe,"born: jan 16, 1995",b.weight: 66.10,group: a,1: 75,2: -78,3: -78,total: 75,69kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kaneva marina,rus,"born: jun 01, 1993",b.weight: 64.15,group: a,1: 114,2: 117,3: 120,total: 120,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,kentli sumeyye,tur,"born: nov 16, 1995",b.weight: 65.85,group: a,1: 110,2: 114,3: -117,total: 114,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,tretiacova ecaterina,mda,"born: dec 22, 1996",b.weight: 68.50,group: a,1: 106,2: 110,3: 113,total: 113,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ipek assiya,tur,"born: dec 05, 1993",b.weight: 66.80,group: a,1: 100,2: 106,3: 110,total: 110,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kruczynska milena,pol,"born: aug 10, 1993",b.weight: 68.60,group: a,1: -106,2: -106,3: 106,total: 106,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,papikyan arevik,arm,"born: aug 09, 1995",b.weight: 68.50,group: a,1: 94,2: 99,3: -105,total: 99,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,hansson cornelia,swe,"born: jan 16, 1995",b.weight: 66.10,group: a,1: 88,2: 91,3: -93,total: 91,69kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,kaneva marina,rus,"born: jun 01, 1993",b.weight: 64.15,group: a,snatch: 93,ci&jerk: 120,total: 213,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,tretiacova ecaterina,mda,"born: dec 22, 1996",b.weight: 68.50,group: a,snatch: 90,ci&jerk: 113,total: 203,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kentli sumeyye,tur,"born: nov 16, 1995",b.weight: 65.85,group: a,snatch: 86,ci&jerk: 114,total: 200,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,ipek assiya,tur,"born: dec 05, 1993",b.weight: 66.80,group: a,snatch: 87,ci&jerk: 110,total: 197,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,kruczynska milena,pol,"born: aug 10, 1993",b.weight: 68.60,group: a,snatch: 88,ci&jerk: 106,total: 194,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,papikyan arevik,arm,"born: aug 09, 1995",b.weight: 68.50,group: a,snatch: 79,ci&jerk: 99,total: 178,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,hansson cornelia,swe,"born: jan 16, 1995",b.weight: 66.10,group: a,snatch: 75,ci&jerk: 91,total: 166,,69kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,makhiyanova lyaysan,rus,"born: may 02, 1993",b.weight: 74.45,group: a,1: 95,2: 98,3: 100,total: 100,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,beloborodova maria,rus,"born: jan 13, 1995",b.weight: 70.40,group: a,1: 93,2: -97,3: 97,total: 97,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kisil valentyna,ukr,"born: jul 05, 1998",b.weight: 73.60,group: a,1: -88,2: 88,3: 92,total: 92,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,wior jolanta malgorzata,pol,"born: sep 22, 1995",b.weight: 70.05,group: a,1: 85,2: 88,3: 91,total: 91,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,brunelli carlotta,ita,"born: apr 11, 1993",b.weight: 74.80,group: a,1: 85,2: -89,3: -90,total: 85,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,vanbellinghen anna marie-j a m,bel,"born: mar 10, 1994",b.weight: 74.85,group: a,1: 85,2: -90,3: -90,total: 85,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,konstantinidi eleni,gre,"born: feb 03, 1995",b.weight: 74.65,group: a,1: 75,2: 77,3: -80,total: 77,75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,makhiyanova lyaysan,rus,"born: may 02, 1993",b.weight: 74.45,group: a,1: 116,2: 121,3: -130,total: 121,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,beloborodova maria,rus,"born: jan 13, 1995",b.weight: 70.40,group: a,1: 115,2: 120,3: -125,total: 120,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kisil valentyna,ukr,"born: jul 05, 1998",b.weight: 73.60,group: a,1: -103,2: 103,3: 107,total: 107,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,vanbellinghen anna marie-j a m,bel,"born: mar 10, 1994",b.weight: 74.85,group: a,1: -107,2: 107,3: -109,total: 107,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,wior jolanta malgorzata,pol,"born: sep 22, 1995",b.weight: 70.05,group: a,1: 100,2: 105,3: -108,total: 105,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,brunelli carlotta,ita,"born: apr 11, 1993",b.weight: 74.80,group: a,1: -102,2: -102,3: 103,total: 103,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,konstantinidi eleni,gre,"born: feb 03, 1995",b.weight: 74.65,group: a,1: 90,2: -95,3: 95,total: 95,75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,makhiyanova lyaysan,rus,"born: may 02, 1993",b.weight: 74.45,group: a,snatch: 100,ci&jerk: 121,total: 221,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,beloborodova maria,rus,"born: jan 13, 1995",b.weight: 70.40,group: a,snatch: 97,ci&jerk: 120,total: 217,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,kisil valentyna,ukr,"born: jul 05, 1998",b.weight: 73.60,group: a,snatch: 92,ci&jerk: 107,total: 199,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,wior jolanta malgorzata,pol,"born: sep 22, 1995",b.weight: 70.05,group: a,snatch: 91,ci&jerk: 105,total: 196,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,vanbellinghen anna marie-j a m,bel,"born: mar 10, 1994",b.weight: 74.85,group: a,snatch: 85,ci&jerk: 107,total: 192,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 6,brunelli carlotta,ita,"born: apr 11, 1993",b.weight: 74.80,group: a,snatch: 85,ci&jerk: 103,total: 188,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 7,konstantinidi eleni,gre,"born: feb 03, 1995",b.weight: 74.65,group: a,snatch: 77,ci&jerk: 95,total: 172,,75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,aanei andreea,rou,"born: nov 18, 1993",b.weight: 106.30,group: a,1: 102,2: 108,3: 114,total: 114,+75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,baranovska iryna,ukr,"born: jan 13, 1996",b.weight: 81.75,group: a,1: 88,2: 91,3: 93,total: 93,+75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,drozdziel marta,pol,"born: may 24, 1993",b.weight: 85.35,group: a,1: 90,2: -92,3: 92,total: 92,+75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,buttiglieri roberta,ita,"born: jul 13, 1993",b.weight: 94.65,group: a,1: 85,2: 89,3: 91,total: 91,+75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,molnar martina szilvia,hun,"born: jan 08, 1996",b.weight: 104.85,group: a,1: 80,2: 86,3: 89,total: 89,+75kgwomen,snatch,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,aanei andreea,rou,"born: nov 18, 1993",b.weight: 106.30,group: a,1: 135,2: 140,3: -145,total: 140,+75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,baranovska iryna,ukr,"born: jan 13, 1996",b.weight: 81.75,group: a,1: 111,2: 116,3: 120,total: 120,+75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,drozdziel marta,pol,"born: may 24, 1993",b.weight: 85.35,group: a,1: 105,2: 108,3: 110,total: 110,+75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,buttiglieri roberta,ita,"born: jul 13, 1993",b.weight: 94.65,group: a,1: 105,2: 108,3: 110,total: 110,+75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,molnar martina szilvia,hun,"born: jan 08, 1996",b.weight: 104.85,group: a,1: 100,2: 106,3: 109,total: 109,+75kgwomen,cleanjerk,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 1,aanei andreea,rou,"born: nov 18, 1993",b.weight: 106.30,group: a,snatch: 114,ci&jerk: 140,total: 254,,+75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 2,baranovska iryna,ukr,"born: jan 13, 1996",b.weight: 81.75,group: a,snatch: 93,ci&jerk: 120,total: 213,,+75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 3,drozdziel marta,pol,"born: may 24, 1993",b.weight: 85.35,group: a,snatch: 92,ci&jerk: 110,total: 202,,+75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 4,buttiglieri roberta,ita,"born: jul 13, 1993",b.weight: 94.65,group: a,snatch: 91,ci&jerk: 110,total: 201,,+75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
+rank: 5,molnar martina szilvia,hun,"born: jan 08, 1996",b.weight: 104.85,group: a,snatch: 89,ci&jerk: 109,total: 198,,+75kgwomen,total,EUROPEAN JUNIOR CHAMPIONSHIPS
