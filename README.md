@@ -1,9 +1,6 @@
 # weightlifting
 wip personal project
 
-missing:
-15
-
 Ideas
 
 - in R:
