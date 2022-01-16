@@ -1,0 +1,811 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+Rank: 1,SCARANTINO Mirco,ITA,"Born: Jan 16, 1995",B.weight: 55.90,Group: A,1: 114,2: 117,3: 120,Total: 120,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KOZLOWSKI Dominik Mateusz,POL,"Born: Jun 14, 1993",B.weight: 55.75,Group: A,1: 111,2: 114,3: -116,Total: 114,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,CIOTOIU Ilie-Constantin,ROU,"Born: Jul 11, 1995",B.weight: 56.00,Group: A,1: 108,2: 111,3: -115,Total: 111,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SAHIN Muammer,TUR,"Born: Feb 05, 1994",B.weight: 55.95,Group: A,1: 110,2: -115,3: -116,Total: 110,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,YILMAZ Okan,TUR,"Born: Feb 10, 1994",B.weight: 55.90,Group: A,1: -103,2: 103,3: -106,Total: 103,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,BOGOJEVIC Georgije,CRO,"Born: Aug 13, 1988",B.weight: 55.05,Group: B,1: 60,2: 65,3: -70,Total: 65,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BRACHI GARCIA Josue,ESP,"Born: Sep 08, 1992",B.weight: 55.65,Group: A,1: -118,2: -118,3: -118,Total: ---,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,CROITORU Florin Ionut,ROU,"Born: Aug 25, 1993",B.weight: 55.85,Group: A,1: -107,2: ---,3: ---,Total: ---,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,DUDOGLO Iuri,MDA,"Born: Jul 09, 1991",B.weight: 55.75,Group: A,1: -114,2: 115,3: -118,Total: ---,56kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,SCARANTINO Mirco,ITA,"Born: Jan 16, 1995",B.weight: 55.90,Group: A,1: 140,2: 146,3: ---,Total: 146,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CIOTOIU Ilie-Constantin,ROU,"Born: Jul 11, 1995",B.weight: 56.00,Group: A,1: -131,2: 131,3: -140,Total: 131,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KOZLOWSKI Dominik Mateusz,POL,"Born: Jun 14, 1993",B.weight: 55.75,Group: A,1: -124,2: 124,3: 127,Total: 127,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SAHIN Muammer,TUR,"Born: Feb 05, 1994",B.weight: 55.95,Group: A,1: 120,2: 126,3: -130,Total: 126,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,YILMAZ Okan,TUR,"Born: Feb 10, 1994",B.weight: 55.90,Group: A,1: 125,2: -131,3: -132,Total: 125,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,BOGOJEVIC Georgije,CRO,"Born: Aug 13, 1988",B.weight: 55.05,Group: B,1: 90,2: -95,3: 95,Total: 95,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BRACHI GARCIA Josue,ESP,"Born: Sep 08, 1992",B.weight: 55.65,Group: A,1: ---,2: ---,3: ---,Total: ---,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,CROITORU Florin Ionut,ROU,"Born: Aug 25, 1993",B.weight: 55.85,Group: A,1: ---,2: ---,3: ---,Total: ---,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,DUDOGLO Iuri,MDA,"Born: Jul 09, 1991",B.weight: 55.75,Group: A,1: 135,2: 146,3: -152,Total: ---,56kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,SCARANTINO Mirco,ITA,"Born: Jan 16, 1995",B.weight: 55.90,Group: A,Snatch: 120,CI&Jerk: 146,Total: 266,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CIOTOIU Ilie-Constantin,ROU,"Born: Jul 11, 1995",B.weight: 56.00,Group: A,Snatch: 111,CI&Jerk: 131,Total: 242,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KOZLOWSKI Dominik Mateusz,POL,"Born: Jun 14, 1993",B.weight: 55.75,Group: A,Snatch: 114,CI&Jerk: 127,Total: 241,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SAHIN Muammer,TUR,"Born: Feb 05, 1994",B.weight: 55.95,Group: A,Snatch: 110,CI&Jerk: 126,Total: 236,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,YILMAZ Okan,TUR,"Born: Feb 10, 1994",B.weight: 55.90,Group: A,Snatch: 103,CI&Jerk: 125,Total: 228,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,BOGOJEVIC Georgije,CRO,"Born: Aug 13, 1988",B.weight: 55.05,Group: B,Snatch: 65,CI&Jerk: 95,Total: 160,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BRACHI GARCIA Josue,ESP,"Born: Sep 08, 1992",B.weight: 55.65,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,CROITORU Florin Ionut,ROU,"Born: Aug 25, 1993",B.weight: 55.85,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,DUDOGLO Iuri,MDA,"Born: Jul 09, 1991",B.weight: 55.75,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,56kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,SEZER Bunyami,TUR,"Born: Jul 04, 1988",B.weight: 62.00,Group: A,1: 130,2: 132,3: 135,Total: 135,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.95,Group: A,1: 125,2: 129,3: 131,Total: 131,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ATAK Hursit,TUR,"Born: May 24, 1991",B.weight: 62.00,Group: A,1: 125,2: 128,3: 130,Total: 130,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ILIE Ionut,ROU,"Born: Jan 02, 1993",B.weight: 61.85,Group: A,1: 123,2: 126,3: 129,Total: 129,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.90,Group: A,1: 123,2: -126,3: 127,Total: 127,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.85,Group: A,1: 123,2: 126,3: -128,Total: 126,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.90,Group: A,1: -125,2: -125,3: 126,Total: 126,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,CERCIZ Arberi,ALB,"Born: Apr 28, 1997",B.weight: 61.30,Group: B,1: -117,2: 117,3: 125,Total: 125,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SHAMILISHVILI Ramini,GEO,"Born: May 11, 1994",B.weight: 61.95,Group: A,1: 117,2: 121,3: 123,Total: 123,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,AVDIRAJ Romario,ALB,"Born: Feb 03, 1994",B.weight: 61.85,Group: B,1: -111,2: 111,3: -120,Total: 111,62kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,ATAK Hursit,TUR,"Born: May 24, 1991",B.weight: 62.00,Group: A,1: 160,2: -165,3: -170,Total: 160,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.90,Group: A,1: 151,2: 157,3: -160,Total: 157,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.85,Group: A,1: 150,2: 154,3: -158,Total: 154,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.95,Group: A,1: -150,2: 150,3: 154,Total: 154,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,SEZER Bunyami,TUR,"Born: Jul 04, 1988",B.weight: 62.00,Group: A,1: 151,2: -153,3: 154,Total: 154,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.90,Group: A,1: -150,2: 153,3: -159,Total: 153,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ILIE Ionut,ROU,"Born: Jan 02, 1993",B.weight: 61.85,Group: A,1: -150,2: -150,3: 151,Total: 151,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SHAMILISHVILI Ramini,GEO,"Born: May 11, 1994",B.weight: 61.95,Group: A,1: 140,2: 144,3: 147,Total: 147,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,AVDIRAJ Romario,ALB,"Born: Feb 03, 1994",B.weight: 61.85,Group: B,1: 142,2: -150,3: -150,Total: 142,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,CERCIZ Arberi,ALB,"Born: Apr 28, 1997",B.weight: 61.30,Group: B,1: 137,2: -145,3: -145,Total: 137,62kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,ATAK Hursit,TUR,"Born: May 24, 1991",B.weight: 62.00,Group: A,Snatch: 130,CI&Jerk: 160,Total: 290,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,SEZER Bunyami,TUR,"Born: Jul 04, 1988",B.weight: 62.00,Group: A,Snatch: 135,CI&Jerk: 154,Total: 289,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.95,Group: A,Snatch: 131,CI&Jerk: 154,Total: 285,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.90,Group: A,Snatch: 126,CI&Jerk: 157,Total: 283,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,ILIE Ionut,ROU,"Born: Jan 02, 1993",B.weight: 61.85,Group: A,Snatch: 129,CI&Jerk: 151,Total: 280,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.90,Group: A,Snatch: 127,CI&Jerk: 153,Total: 280,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.85,Group: A,Snatch: 126,CI&Jerk: 154,Total: 280,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SHAMILISHVILI Ramini,GEO,"Born: May 11, 1994",B.weight: 61.95,Group: A,Snatch: 123,CI&Jerk: 147,Total: 270,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,CERCIZ Arberi,ALB,"Born: Apr 28, 1997",B.weight: 61.30,Group: B,Snatch: 125,CI&Jerk: 137,Total: 262,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,AVDIRAJ Romario,ALB,"Born: Feb 03, 1994",B.weight: 61.85,Group: B,Snatch: 111,CI&Jerk: 142,Total: 253,,62kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.85,Group: A,1: -145,2: 145,3: 150,Total: 150,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,ZANNI Mirko,ITA,"Born: Oct 16, 1997",B.weight: 68.00,Group: A,1: 135,2: -140,3: 143,Total: 143,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,OKYAY Ahmet Turan,TUR,"Born: May 06, 1996",B.weight: 68.90,Group: A,1: 135,2: -141,3: 142,Total: 142,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,JOACHIM Robert Friedrich,GER,"Born: Jan 13, 1987",B.weight: 68.85,Group: A,1: 134,2: 138,3: 141,Total: 141,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,KINGUE MATAM Bernardin Ledoux,FRA,"Born: May 20, 1990",B.weight: 68.75,Group: A,1: 140,2: -143,3: -144,Total: 140,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SANCHEZ LOPEZ David,ESP,"Born: Jul 20, 1994",B.weight: 68.95,Group: A,1: 135,2: 140,3: -143,Total: 140,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.85,Group: A,1: 136,2: 140,3: -144,Total: 140,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,CASTRO MARINO Victor,ESP,"Born: Dec 18, 1992",B.weight: 68.65,Group: B,1: 130,2: 135,3: 138,Total: 138,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 68.85,Group: A,1: 132,2: 136,3: -139,Total: 136,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,WISNIEWSKI Damian,POL,"Born: Nov 23, 1986",B.weight: 68.60,Group: B,1: 130,2: -134,3: 135,Total: 135,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,MINCHEV Zlatko Ganchev,BUL,"Born: Nov 08, 1993",B.weight: 69.00,Group: A,1: -133,2: 133,3: -135,Total: 133,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,MINCHEV Dian Ganchev,BUL,"Born: Sep 29, 1983",B.weight: 68.85,Group: A,1: -128,2: -130,3: 130,Total: 130,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 68.75,Group: B,1: 125,2: -129,3: 129,Total: 129,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,KRASNIQI Arbnor,KOS,"Born: Oct 14, 1994",B.weight: 68.90,Group: B,1: 94,2: 98,3: -102,Total: 98,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 69.00,Group: A,1: -145,2: -145,3: -145,Total: ---,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,KNEZ Ivan,CRO,"Born: Dec 17, 1983",B.weight: 68.60,Group: B,1: -90,2: -90,3: -90,Total: ---,69kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KINGUE MATAM Bernardin Ledoux,FRA,"Born: May 20, 1990",B.weight: 68.75,Group: A,1: 174,2: 180,3: ---,Total: 180,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,JOACHIM Robert Friedrich,GER,"Born: Jan 13, 1987",B.weight: 68.85,Group: A,1: 167,2: 172,3: 176,Total: 176,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 69.00,Group: A,1: 170,2: 175,3: -178,Total: 175,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SANCHEZ LOPEZ David,ESP,"Born: Jul 20, 1994",B.weight: 68.95,Group: A,1: 169,2: -173,3: 173,Total: 173,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,OKYAY Ahmet Turan,TUR,"Born: May 06, 1996",B.weight: 68.90,Group: A,1: 156,2: 162,3: 170,Total: 170,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.85,Group: A,1: 162,2: -168,3: 169,Total: 169,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 68.85,Group: A,1: 164,2: -169,3: 169,Total: 169,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,WISNIEWSKI Damian,POL,"Born: Nov 23, 1986",B.weight: 68.60,Group: B,1: 160,2: 166,3: -168,Total: 166,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.85,Group: A,1: 163,2: -169,3: -170,Total: 163,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MINCHEV Dian Ganchev,BUL,"Born: Sep 29, 1983",B.weight: 68.85,Group: A,1: 162,2: -169,3: -170,Total: 162,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,ZANNI Mirko,ITA,"Born: Oct 16, 1997",B.weight: 68.00,Group: A,1: 155,2: 162,3: -170,Total: 162,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,CASTRO MARINO Victor,ESP,"Born: Dec 18, 1992",B.weight: 68.65,Group: B,1: 155,2: -162,3: 162,Total: 162,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,MINCHEV Zlatko Ganchev,BUL,"Born: Nov 08, 1993",B.weight: 69.00,Group: A,1: -160,2: 160,3: -165,Total: 160,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 68.75,Group: B,1: 152,2: -156,3: 156,Total: 156,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KNEZ Ivan,CRO,"Born: Dec 17, 1983",B.weight: 68.60,Group: B,1: 115,2: 120,3: -123,Total: 120,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KRASNIQI Arbnor,KOS,"Born: Oct 14, 1994",B.weight: 68.90,Group: B,1: 119,2: -122,3: -122,Total: 119,69kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KINGUE MATAM Bernardin Ledoux,FRA,"Born: May 20, 1990",B.weight: 68.75,Group: A,Snatch: 140,CI&Jerk: 180,Total: 320,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.85,Group: A,Snatch: 150,CI&Jerk: 169,Total: 319,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,JOACHIM Robert Friedrich,GER,"Born: Jan 13, 1987",B.weight: 68.85,Group: A,Snatch: 141,CI&Jerk: 176,Total: 317,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SANCHEZ LOPEZ David,ESP,"Born: Jul 20, 1994",B.weight: 68.95,Group: A,Snatch: 140,CI&Jerk: 173,Total: 313,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,OKYAY Ahmet Turan,TUR,"Born: May 06, 1996",B.weight: 68.90,Group: A,Snatch: 142,CI&Jerk: 170,Total: 312,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,ZANNI Mirko,ITA,"Born: Oct 16, 1997",B.weight: 68.00,Group: A,Snatch: 143,CI&Jerk: 162,Total: 305,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 68.85,Group: A,Snatch: 136,CI&Jerk: 169,Total: 305,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.85,Group: A,Snatch: 140,CI&Jerk: 163,Total: 303,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,WISNIEWSKI Damian,POL,"Born: Nov 23, 1986",B.weight: 68.60,Group: B,Snatch: 135,CI&Jerk: 166,Total: 301,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,CASTRO MARINO Victor,ESP,"Born: Dec 18, 1992",B.weight: 68.65,Group: B,Snatch: 138,CI&Jerk: 162,Total: 300,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,MINCHEV Zlatko Ganchev,BUL,"Born: Nov 08, 1993",B.weight: 69.00,Group: A,Snatch: 133,CI&Jerk: 160,Total: 293,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,MINCHEV Dian Ganchev,BUL,"Born: Sep 29, 1983",B.weight: 68.85,Group: A,Snatch: 130,CI&Jerk: 162,Total: 292,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 68.75,Group: B,Snatch: 129,CI&Jerk: 156,Total: 285,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,KRASNIQI Arbnor,KOS,"Born: Oct 14, 1994",B.weight: 68.90,Group: B,Snatch: 98,CI&Jerk: 119,Total: 217,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 69.00,Group: A,Snatch: ---,CI&Jerk: 175,Total: ---,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,KNEZ Ivan,CRO,"Born: Dec 17, 1983",B.weight: 68.60,Group: B,Snatch: ---,CI&Jerk: 120,Total: ---,,69kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,GODELLI Daniel,ALB,"Born: Jan 10, 1992",B.weight: 76.40,Group: A,1: -156,2: -158,3: 161,Total: 161,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CAPTARI Dumitru,ROU,"Born: Jul 12, 1989",B.weight: 76.85,Group: B,1: 150,2: 155,3: 160,Total: 160,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MARTIN Razvan Constantin,ROU,"Born: Dec 22, 1991",B.weight: 76.75,Group: A,1: 150,2: 155,3: 158,Total: 158,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,LIKHARAD Vadzim,BLR,"Born: Sep 06, 1993",B.weight: 76.55,Group: A,1: 153,2: 157,3: -159,Total: 157,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,LANG Max Richard,GER,"Born: Dec 06, 1992",B.weight: 76.20,Group: A,1: 150,2: 154,3: 156,Total: 156,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,QERIMAJ Erkand,ALB,"Born: Aug 10, 1988",B.weight: 76.85,Group: A,1: 155,2: -158,3: -158,Total: 155,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PETROV Sergei,RUS,"Born: Feb 17, 1994",B.weight: 75.15,Group: A,1: 145,2: 151,3: -154,Total: 151,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.60,Group: B,1: 145,2: 150,3: -154,Total: 150,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,MATA PEREZ Andres Eduardo,ESP,"Born: Nov 11, 1992",B.weight: 76.75,Group: A,1: -145,2: 145,3: 150,Total: 150,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MUELLER Nico,GER,"Born: Nov 02, 1993",B.weight: 76.70,Group: A,1: 143,2: 148,3: -151,Total: 148,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,LOMTADZE Giorgi,GEO,"Born: Nov 22, 1992",B.weight: 76.70,Group: B,1: 140,2: 144,3: 146,Total: 146,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.75,Group: B,1: -140,2: 140,3: 145,Total: 145,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 76.75,Group: B,1: 142,2: -146,3: -146,Total: 142,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,GONZALEZ BAEZ Alejandro,ESP,"Born: Sep 22, 1990",B.weight: 76.65,Group: B,1: 135,2: 140,3: -145,Total: 140,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.50,Group: B,1: 125,2: 130,3: 136,Total: 136,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,SASNAUSKAS Martynas,LTU,"Born: Jul 19, 1992",B.weight: 76.20,Group: B,1: 130,2: -135,3: -135,Total: 130,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,SMAJILA Luka,SLO,"Born: Jan 24, 1994",B.weight: 76.10,Group: B,1: 112,2: 116,3: -119,Total: 116,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,ZECIC Nermin,BIH,"Born: Dec 29, 1996",B.weight: 74.60,Group: B,1: 105,2: 109,3: -113,Total: 109,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BEYTULA Yunder Nedim,BUL,"Born: Jan 09, 1992",B.weight: 77.00,Group: A,1: -146,2: -146,3: -146,Total: ---,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,SPAC Alexandr,MDA,"Born: Nov 21, 1989",B.weight: 76.60,Group: B,1: 140,2: 145,3: 148,Total: ---,77kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CAPTARI Dumitru,ROU,"Born: Jul 12, 1989",B.weight: 76.85,Group: B,1: 190,2: 195,3: 200,Total: 200,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,QERIMAJ Erkand,ALB,"Born: Aug 10, 1988",B.weight: 76.85,Group: A,1: -188,2: -190,3: 193,Total: 193,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MARTIN Razvan Constantin,ROU,"Born: Dec 22, 1991",B.weight: 76.75,Group: A,1: 185,2: 190,3: -194,Total: 190,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,LANG Max Richard,GER,"Born: Dec 06, 1992",B.weight: 76.20,Group: A,1: 178,2: 184,3: 188,Total: 188,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,MATA PEREZ Andres Eduardo,ESP,"Born: Nov 11, 1992",B.weight: 76.75,Group: A,1: 187,2: -193,3: -194,Total: 187,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,GODELLI Daniel,ALB,"Born: Jan 10, 1992",B.weight: 76.40,Group: A,1: 186,2: -191,3: -192,Total: 186,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,LIKHARAD Vadzim,BLR,"Born: Sep 06, 1993",B.weight: 76.55,Group: A,1: 180,2: 185,3: -192,Total: 185,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.60,Group: B,1: 175,2: 180,3: 185,Total: 185,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,BEYTULA Yunder Nedim,BUL,"Born: Jan 09, 1992",B.weight: 77.00,Group: A,1: 180,2: -189,3: -189,Total: 180,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,PETROV Sergei,RUS,"Born: Feb 17, 1994",B.weight: 75.15,Group: A,1: 175,2: 180,3: -185,Total: 180,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,GONZALEZ BAEZ Alejandro,ESP,"Born: Sep 22, 1990",B.weight: 76.65,Group: B,1: 170,2: -175,3: 180,Total: 180,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,MUELLER Nico,GER,"Born: Nov 02, 1993",B.weight: 76.70,Group: A,1: 178,2: -183,3: -183,Total: 178,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.75,Group: B,1: 175,2: -181,3: -181,Total: 175,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,LOMTADZE Giorgi,GEO,"Born: Nov 22, 1992",B.weight: 76.70,Group: B,1: 165,2: -170,3: -170,Total: 165,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 76.75,Group: B,1: 160,2: -165,3: 165,Total: 165,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.50,Group: B,1: 160,2: -166,3: -166,Total: 160,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,SASNAUSKAS Martynas,LTU,"Born: Jul 19, 1992",B.weight: 76.20,Group: B,1: 155,2: 160,3: -166,Total: 160,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,SMAJILA Luka,SLO,"Born: Jan 24, 1994",B.weight: 76.10,Group: B,1: 140,2: -145,3: 145,Total: 145,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,ZECIC Nermin,BIH,"Born: Dec 29, 1996",B.weight: 74.60,Group: B,1: 130,2: 136,3: 140,Total: 140,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,SPAC Alexandr,MDA,"Born: Nov 21, 1989",B.weight: 76.60,Group: B,1: 175,2: -180,3: 181,Total: ---,77kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CAPTARI Dumitru,ROU,"Born: Jul 12, 1989",B.weight: 76.85,Group: B,Snatch: 160,CI&Jerk: 200,Total: 360,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MARTIN Razvan Constantin,ROU,"Born: Dec 22, 1991",B.weight: 76.75,Group: A,Snatch: 158,CI&Jerk: 190,Total: 348,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,QERIMAJ Erkand,ALB,"Born: Aug 10, 1988",B.weight: 76.85,Group: A,Snatch: 155,CI&Jerk: 193,Total: 348,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,GODELLI Daniel,ALB,"Born: Jan 10, 1992",B.weight: 76.40,Group: A,Snatch: 161,CI&Jerk: 186,Total: 347,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,LANG Max Richard,GER,"Born: Dec 06, 1992",B.weight: 76.20,Group: A,Snatch: 156,CI&Jerk: 188,Total: 344,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,LIKHARAD Vadzim,BLR,"Born: Sep 06, 1993",B.weight: 76.55,Group: A,Snatch: 157,CI&Jerk: 185,Total: 342,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,MATA PEREZ Andres Eduardo,ESP,"Born: Nov 11, 1992",B.weight: 76.75,Group: A,Snatch: 150,CI&Jerk: 187,Total: 337,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.60,Group: B,Snatch: 150,CI&Jerk: 185,Total: 335,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,PETROV Sergei,RUS,"Born: Feb 17, 1994",B.weight: 75.15,Group: A,Snatch: 151,CI&Jerk: 180,Total: 331,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MUELLER Nico,GER,"Born: Nov 02, 1993",B.weight: 76.70,Group: A,Snatch: 148,CI&Jerk: 178,Total: 326,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.75,Group: B,Snatch: 145,CI&Jerk: 175,Total: 320,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,GONZALEZ BAEZ Alejandro,ESP,"Born: Sep 22, 1990",B.weight: 76.65,Group: B,Snatch: 140,CI&Jerk: 180,Total: 320,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,LOMTADZE Giorgi,GEO,"Born: Nov 22, 1992",B.weight: 76.70,Group: B,Snatch: 146,CI&Jerk: 165,Total: 311,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 76.75,Group: B,Snatch: 142,CI&Jerk: 165,Total: 307,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.50,Group: B,Snatch: 136,CI&Jerk: 160,Total: 296,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,SASNAUSKAS Martynas,LTU,"Born: Jul 19, 1992",B.weight: 76.20,Group: B,Snatch: 130,CI&Jerk: 160,Total: 290,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,SMAJILA Luka,SLO,"Born: Jan 24, 1994",B.weight: 76.10,Group: B,Snatch: 116,CI&Jerk: 145,Total: 261,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,ZECIC Nermin,BIH,"Born: Dec 29, 1996",B.weight: 74.60,Group: B,Snatch: 109,CI&Jerk: 140,Total: 249,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BEYTULA Yunder Nedim,BUL,"Born: Jan 09, 1992",B.weight: 77.00,Group: A,Snatch: ---,CI&Jerk: 180,Total: ---,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,SPAC Alexandr,MDA,"Born: Nov 21, 1989",B.weight: 76.60,Group: B,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,PIELIESHENKO Oleksandr,UKR,"Born: Jan 07, 1994",B.weight: 84.55,Group: A,1: -170,2: 170,3: 175,Total: 175,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,OKULOV Artem,RUS,"Born: May 05, 1994",B.weight: 84.90,Group: A,1: 165,2: -170,3: -170,Total: 165,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KHADASEVICH Pavel,BLR,"Born: Jul 16, 1993",B.weight: 84.60,Group: A,1: 160,2: -164,3: -164,Total: 160,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KARAPETYAN Andranik,ARM,"Born: Dec 15, 1995",B.weight: 82.15,Group: B,1: 145,2: 155,3: 160,Total: 160,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 85.00,Group: A,1: 159,2: -164,3: -166,Total: 159,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,MULLER Michael,GER,"Born: Sep 24, 1987",B.weight: 84.50,Group: A,1: 149,2: 153,3: 157,Total: 157,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,SHORAJ Krenar,ALB,"Born: Jan 15, 1992",B.weight: 84.25,Group: B,1: 145,2: 150,3: 156,Total: 156,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SCHWARZBACH Tom,GER,"Born: Jul 23, 1986",B.weight: 84.60,Group: A,1: 150,2: 154,3: 156,Total: 156,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,IMADOUCHENE Romain Jordan Sebastien,FRA,"Born: Sep 05, 1995",B.weight: 84.55,Group: A,1: -152,2: 152,3: -157,Total: 152,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MUSIC Amar,CRO,"Born: Mar 21, 1987",B.weight: 84.70,Group: A,1: 150,2: -153,3: -153,Total: 150,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 84.90,Group: B,1: 142,2: 147,3: 150,Total: 150,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,TOKOLA Milko Olavi,FIN,"Born: Oct 10, 1992",B.weight: 85.00,Group: B,1: 145,2: -149,3: 150,Total: 150,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,TKAC Richard,SVK,"Born: May 24, 1985",B.weight: 83.95,Group: B,1: 140,2: -145,3: 145,Total: 145,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,VAUTARD Brandon Robert Jean,FRA,"Born: Sep 09, 1996",B.weight: 84.40,Group: B,1: 143,2: -148,3: -148,Total: 143,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,TABAKU Ermand,ALB,"Born: Aug 06, 1992",B.weight: 84.70,Group: B,1: 143,2: -146,3: -147,Total: 143,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KACINSKAS Irmantas,LTU,"Born: Feb 23, 1992",B.weight: 84.30,Group: B,1: 140,2: -145,3: -146,Total: 140,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,BESLER Turgay,TUR,"Born: Dec 10, 1993",B.weight: 85.00,Group: B,1: -140,2: 140,3: -145,Total: 140,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,BROWN Sean Kevin,IRL,"Born: Jun 03, 1991",B.weight: 84.30,Group: B,1: 132,2: 136,3: 140,Total: 140,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,NYKANEN Jesse Juhani,FIN,"Born: Feb 06, 1996",B.weight: 84.60,Group: B,1: 135,2: -138,3: -138,Total: 135,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,MARKOV Ivan Markov,BUL,"Born: Sep 14, 1988",B.weight: 84.75,Group: A,1: -168,2: -168,3: -168,Total: ---,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MUDREUSKI Maksim,BLR,"Born: Apr 22, 1994",B.weight: 84.65,Group: A,1: 156,2: -161,3: -161,Total: ---,85kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,OKULOV Artem,RUS,"Born: May 05, 1994",B.weight: 84.90,Group: A,1: 198,2: 203,3: 212,Total: 212,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 85.00,Group: A,1: 190,2: 195,3: 199,Total: 199,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,PIELIESHENKO Oleksandr,UKR,"Born: Jan 07, 1994",B.weight: 84.55,Group: A,1: 202,2: -211,3: 211,Total: 211,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,SCHWARZBACH Tom,GER,"Born: Jul 23, 1986",B.weight: 84.60,Group: A,1: 190,2: 196,3: -201,Total: 196,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KHADASEVICH Pavel,BLR,"Born: Jul 16, 1993",B.weight: 84.60,Group: A,1: 185,2: 191,3: 196,Total: 196,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 84.90,Group: B,1: 191,2: 195,3: -199,Total: 195,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SHORAJ Krenar,ALB,"Born: Jan 15, 1992",B.weight: 84.25,Group: B,1: 186,2: -191,3: 192,Total: 192,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,VAUTARD Brandon Robert Jean,FRA,"Born: Sep 09, 1996",B.weight: 84.40,Group: B,1: 180,2: -190,3: 190,Total: 190,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MULLER Michael,GER,"Born: Sep 24, 1987",B.weight: 84.50,Group: A,1: -188,2: 188,3: -196,Total: 188,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,IMADOUCHENE Romain Jordan Sebastien,FRA,"Born: Sep 05, 1995",B.weight: 84.55,Group: A,1: 187,2: -194,3: -194,Total: 187,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,TOKOLA Milko Olavi,FIN,"Born: Oct 10, 1992",B.weight: 85.00,Group: B,1: 172,2: 180,3: ---,Total: 180,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,TKAC Richard,SVK,"Born: May 24, 1985",B.weight: 83.95,Group: B,1: 175,2: 180,3: -186,Total: 180,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,BESLER Turgay,TUR,"Born: Dec 10, 1993",B.weight: 85.00,Group: B,1: 162,2: 170,3: 177,Total: 177,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,KACINSKAS Irmantas,LTU,"Born: Feb 23, 1992",B.weight: 84.30,Group: B,1: 165,2: 171,3: 177,Total: 177,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,TABAKU Ermand,ALB,"Born: Aug 06, 1992",B.weight: 84.70,Group: B,1: 173,2: 176,3: -178,Total: 176,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,BROWN Sean Kevin,IRL,"Born: Jun 03, 1991",B.weight: 84.30,Group: B,1: 162,2: 166,3: 170,Total: 170,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,NYKANEN Jesse Juhani,FIN,"Born: Feb 06, 1996",B.weight: 84.60,Group: B,1: 163,2: -169,3: 170,Total: 170,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,KARAPETYAN Andranik,ARM,"Born: Dec 15, 1995",B.weight: 82.15,Group: B,1: 155,2: 165,3: -175,Total: 165,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,MARKOV Ivan Markov,BUL,"Born: Sep 14, 1988",B.weight: 84.75,Group: A,1: ---,2: ---,3: ---,Total: ---,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,MUSIC Amar,CRO,"Born: Mar 21, 1987",B.weight: 84.70,Group: A,1: -184,2: -184,3: -184,Total: ---,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MUDREUSKI Maksim,BLR,"Born: Apr 22, 1994",B.weight: 84.65,Group: A,1: -185,2: -185,3: -185,Total: ---,85kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,PIELIESHENKO Oleksandr,UKR,"Born: Jan 07, 1994",B.weight: 84.55,Group: A,Snatch: 175,CI&Jerk: 211,Total: 386,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,OKULOV Artem,RUS,"Born: May 05, 1994",B.weight: 84.90,Group: A,Snatch: 165,CI&Jerk: 212,Total: 377,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 85.00,Group: A,Snatch: 159,CI&Jerk: 199,Total: 358,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KHADASEVICH Pavel,BLR,"Born: Jul 16, 1993",B.weight: 84.60,Group: A,Snatch: 160,CI&Jerk: 196,Total: 356,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,SCHWARZBACH Tom,GER,"Born: Jul 23, 1986",B.weight: 84.60,Group: A,Snatch: 156,CI&Jerk: 196,Total: 352,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SHORAJ Krenar,ALB,"Born: Jan 15, 1992",B.weight: 84.25,Group: B,Snatch: 156,CI&Jerk: 192,Total: 348,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,MULLER Michael,GER,"Born: Sep 24, 1987",B.weight: 84.50,Group: A,Snatch: 157,CI&Jerk: 188,Total: 345,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 84.90,Group: B,Snatch: 150,CI&Jerk: 195,Total: 345,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,IMADOUCHENE Romain Jordan Sebastien,FRA,"Born: Sep 05, 1995",B.weight: 84.55,Group: A,Snatch: 152,CI&Jerk: 187,Total: 339,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,VAUTARD Brandon Robert Jean,FRA,"Born: Sep 09, 1996",B.weight: 84.40,Group: B,Snatch: 143,CI&Jerk: 190,Total: 333,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,TOKOLA Milko Olavi,FIN,"Born: Oct 10, 1992",B.weight: 85.00,Group: B,Snatch: 150,CI&Jerk: 180,Total: 330,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,KARAPETYAN Andranik,ARM,"Born: Dec 15, 1995",B.weight: 82.15,Group: B,Snatch: 160,CI&Jerk: 165,Total: 325,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,TKAC Richard,SVK,"Born: May 24, 1985",B.weight: 83.95,Group: B,Snatch: 145,CI&Jerk: 180,Total: 325,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,TABAKU Ermand,ALB,"Born: Aug 06, 1992",B.weight: 84.70,Group: B,Snatch: 143,CI&Jerk: 176,Total: 319,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,BESLER Turgay,TUR,"Born: Dec 10, 1993",B.weight: 85.00,Group: B,Snatch: 140,CI&Jerk: 177,Total: 317,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KACINSKAS Irmantas,LTU,"Born: Feb 23, 1992",B.weight: 84.30,Group: B,Snatch: 140,CI&Jerk: 177,Total: 317,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,BROWN Sean Kevin,IRL,"Born: Jun 03, 1991",B.weight: 84.30,Group: B,Snatch: 140,CI&Jerk: 170,Total: 310,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,NYKANEN Jesse Juhani,FIN,"Born: Feb 06, 1996",B.weight: 84.60,Group: B,Snatch: 135,CI&Jerk: 170,Total: 305,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,MARKOV Ivan Markov,BUL,"Born: Sep 14, 1988",B.weight: 84.75,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,MUSIC Amar,CRO,"Born: Mar 21, 1987",B.weight: 84.70,Group: A,Snatch: 150,CI&Jerk: ---,Total: ---,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MUDREUSKI Maksim,BLR,"Born: Apr 22, 1994",B.weight: 84.65,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,85kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,DIDZBALIS Aurimas,LTU,"Born: Jun 13, 1991",B.weight: 93.50,Group: A,1: 173,2: 177,3: 181,Total: 181,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CHUMAK Dmytro,UKR,"Born: Jul 11, 1990",B.weight: 93.55,Group: A,1: 170,2: 174,3: -178,Total: 174,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,SPIESS Jurgen Christian,GER,"Born: Mar 26, 1984",B.weight: 93.45,Group: A,1: 165,2: 170,3: 173,Total: 173,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MANUSHI Redon,FRA,"Born: May 02, 1990",B.weight: 92.85,Group: B,1: 167,2: 172,3: -175,Total: 172,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,GRELA Lukasz Roman,POL,"Born: Nov 25, 1986",B.weight: 93.95,Group: A,1: 170,2: -174,3: -176,Total: 170,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SHIKOV Georgi Stoilov,BUL,"Born: May 21, 1993",B.weight: 93.95,Group: A,1: 163,2: 167,3: 170,Total: 170,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BERSANAU Aliaksandr,BLR,"Born: Sep 01, 1992",B.weight: 93.00,Group: A,1: -165,2: 166,3: -171,Total: 166,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,ARAT Ibrahim,TUR,"Born: Dec 02, 1988",B.weight: 93.80,Group: A,1: -163,2: -166,3: 166,Total: 166,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,VITER Yaroslav,UKR,"Born: Dec 05, 1992",B.weight: 92.80,Group: B,1: 160,2: 165,3: -168,Total: 165,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,KLIMONOV Egor,RUS,"Born: Aug 24, 1992",B.weight: 94.00,Group: A,1: -165,2: 165,3: -170,Total: 165,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,ONICA Nicolae,ROU,"Born: Jun 24, 1993",B.weight: 93.30,Group: A,1: 160,2: -166,3: -166,Total: 160,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,GHUKASYAN Karush,ARM,"Born: Apr 04, 1995",B.weight: 93.90,Group: B,1: 160,2: -165,3: -165,Total: 160,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,KARINA Endri,ALB,"Born: Mar 02, 1989",B.weight: 93.65,Group: B,1: 155,2: 160,3: -165,Total: 160,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 93.25,Group: B,1: 155,2: -160,3: -162,Total: 155,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,RETULAINEN Eero Eljas,FIN,"Born: Oct 13, 1992",B.weight: 93.85,Group: B,1: 146,2: -150,3: 150,Total: 150,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,WEBSTER Sonny Curtis,GBR,"Born: Mar 10, 1994",B.weight: 93.70,Group: B,1: 148,2: -153,3: -154,Total: 148,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,KOZEVNIKOVS Vadims,LAT,"Born: Feb 01, 1994",B.weight: 91.85,Group: B,1: 142,2: 147,3: -150,Total: 147,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,ZIVKOVIC Milos,AUT,"Born: Oct 24, 1992",B.weight: 93.20,Group: C,1: -140,2: 140,3: 147,Total: 147,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,MUGURDUMOV Artur,ISR,"Born: Jun 06, 1988",B.weight: 93.90,Group: C,1: 137,2: 142,3: 146,Total: 146,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 20,VASPORI Gabor,HUN,"Born: Oct 26, 1983",B.weight: 93.95,Group: C,1: 140,2: 144,3: -147,Total: 144,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 21,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.80,Group: B,1: -140,2: 140,3: ---,Total: 140,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 22,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 92.85,Group: C,1: 128,2: -133,3: 135,Total: 135,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 23,PERASOVIC Ivan,CRO,"Born: Jan 27, 1990",B.weight: 92.75,Group: C,1: 120,2: 125,3: 130,Total: 130,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 24,MESAROS Adam,CRO,"Born: May 13, 1995",B.weight: 93.85,Group: C,1: 120,2: 125,3: -130,Total: 125,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MALIGOV Adam,RUS,"Born: May 06, 1993",B.weight: 92.75,Group: A,1: 172,2: 176,3: 180,Total: ---,94kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CHUMAK Dmytro,UKR,"Born: Jul 11, 1990",B.weight: 93.55,Group: A,1: 207,2: 210,3: 214,Total: 214,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KLIMONOV Egor,RUS,"Born: Aug 24, 1992",B.weight: 94.00,Group: A,1: 205,2: -213,3: 213,Total: 213,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,DIDZBALIS Aurimas,LTU,"Born: Jun 13, 1991",B.weight: 93.50,Group: A,1: 205,2: -213,3: -215,Total: 205,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,VITER Yaroslav,UKR,"Born: Dec 05, 1992",B.weight: 92.80,Group: B,1: 200,2: 205,3: -210,Total: 205,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,BERSANAU Aliaksandr,BLR,"Born: Sep 01, 1992",B.weight: 93.00,Group: A,1: 200,2: 205,3: -212,Total: 205,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,ARAT Ibrahim,TUR,"Born: Dec 02, 1988",B.weight: 93.80,Group: A,1: 202,2: -211,3: -213,Total: 202,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,SPIESS Jurgen Christian,GER,"Born: Mar 26, 1984",B.weight: 93.45,Group: A,1: 200,2: -207,3: -209,Total: 200,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,GHUKASYAN Karush,ARM,"Born: Apr 04, 1995",B.weight: 93.90,Group: B,1: 190,2: 200,3: -207,Total: 200,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ONICA Nicolae,ROU,"Born: Jun 24, 1993",B.weight: 93.30,Group: A,1: -200,2: 200,3: -206,Total: 200,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,SHIKOV Georgi Stoilov,BUL,"Born: May 21, 1993",B.weight: 93.95,Group: A,1: 195,2: -201,3: -201,Total: 195,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,GRELA Lukasz Roman,POL,"Born: Nov 25, 1986",B.weight: 93.95,Group: A,1: 195,2: -201,3: -201,Total: 195,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.80,Group: B,1: 185,2: 190,3: -200,Total: 190,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,MANUSHI Redon,FRA,"Born: May 02, 1990",B.weight: 92.85,Group: B,1: -185,2: 185,3: 190,Total: 190,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,RETULAINEN Eero Eljas,FIN,"Born: Oct 13, 1992",B.weight: 93.85,Group: B,1: 184,2: -189,3: 189,Total: 189,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,WEBSTER Sonny Curtis,GBR,"Born: Mar 10, 1994",B.weight: 93.70,Group: B,1: -189,2: -189,3: 189,Total: 189,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KOZEVNIKOVS Vadims,LAT,"Born: Feb 01, 1994",B.weight: 91.85,Group: B,1: 188,2: -193,3: -193,Total: 188,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,KARINA Endri,ALB,"Born: Mar 02, 1989",B.weight: 93.65,Group: B,1: 185,2: -190,3: -190,Total: 185,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,MUGURDUMOV Artur,ISR,"Born: Jun 06, 1988",B.weight: 93.90,Group: C,1: 173,2: 175,3: -178,Total: 175,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,ZIVKOVIC Milos,AUT,"Born: Oct 24, 1992",B.weight: 93.20,Group: C,1: -170,2: 174,3: -178,Total: 174,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 20,VASPORI Gabor,HUN,"Born: Oct 26, 1983",B.weight: 93.95,Group: C,1: -172,2: -173,3: 174,Total: 174,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 21,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 92.85,Group: C,1: 161,2: 166,3: -171,Total: 166,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 22,MESAROS Adam,CRO,"Born: May 13, 1995",B.weight: 93.85,Group: C,1: 160,2: -165,3: 165,Total: 165,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PERASOVIC Ivan,CRO,"Born: Jan 27, 1990",B.weight: 92.75,Group: C,1: -145,2: -145,3: -145,Total: ---,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 93.25,Group: B,1: ---,2: ---,3: ---,Total: ---,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MALIGOV Adam,RUS,"Born: May 06, 1993",B.weight: 92.75,Group: A,1: 208,2: -215,3: ---,Total: ---,94kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CHUMAK Dmytro,UKR,"Born: Jul 11, 1990",B.weight: 93.55,Group: A,Snatch: 174,CI&Jerk: 214,Total: 388,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,DIDZBALIS Aurimas,LTU,"Born: Jun 13, 1991",B.weight: 93.50,Group: A,Snatch: 181,CI&Jerk: 205,Total: 386,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KLIMONOV Egor,RUS,"Born: Aug 24, 1992",B.weight: 94.00,Group: A,Snatch: 165,CI&Jerk: 213,Total: 378,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,SPIESS Jurgen Christian,GER,"Born: Mar 26, 1984",B.weight: 93.45,Group: A,Snatch: 173,CI&Jerk: 200,Total: 373,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,BERSANAU Aliaksandr,BLR,"Born: Sep 01, 1992",B.weight: 93.00,Group: A,Snatch: 166,CI&Jerk: 205,Total: 371,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,VITER Yaroslav,UKR,"Born: Dec 05, 1992",B.weight: 92.80,Group: B,Snatch: 165,CI&Jerk: 205,Total: 370,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ARAT Ibrahim,TUR,"Born: Dec 02, 1988",B.weight: 93.80,Group: A,Snatch: 166,CI&Jerk: 202,Total: 368,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SHIKOV Georgi Stoilov,BUL,"Born: May 21, 1993",B.weight: 93.95,Group: A,Snatch: 170,CI&Jerk: 195,Total: 365,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,GRELA Lukasz Roman,POL,"Born: Nov 25, 1986",B.weight: 93.95,Group: A,Snatch: 170,CI&Jerk: 195,Total: 365,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MANUSHI Redon,FRA,"Born: May 02, 1990",B.weight: 92.85,Group: B,Snatch: 172,CI&Jerk: 190,Total: 362,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,GHUKASYAN Karush,ARM,"Born: Apr 04, 1995",B.weight: 93.90,Group: B,Snatch: 160,CI&Jerk: 200,Total: 360,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,ONICA Nicolae,ROU,"Born: Jun 24, 1993",B.weight: 93.30,Group: A,Snatch: 160,CI&Jerk: 200,Total: 360,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,KARINA Endri,ALB,"Born: Mar 02, 1989",B.weight: 93.65,Group: B,Snatch: 160,CI&Jerk: 185,Total: 345,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,RETULAINEN Eero Eljas,FIN,"Born: Oct 13, 1992",B.weight: 93.85,Group: B,Snatch: 150,CI&Jerk: 189,Total: 339,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,WEBSTER Sonny Curtis,GBR,"Born: Mar 10, 1994",B.weight: 93.70,Group: B,Snatch: 148,CI&Jerk: 189,Total: 337,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KOZEVNIKOVS Vadims,LAT,"Born: Feb 01, 1994",B.weight: 91.85,Group: B,Snatch: 147,CI&Jerk: 188,Total: 335,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.80,Group: B,Snatch: 140,CI&Jerk: 190,Total: 330,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,ZIVKOVIC Milos,AUT,"Born: Oct 24, 1992",B.weight: 93.20,Group: C,Snatch: 147,CI&Jerk: 174,Total: 321,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 19,MUGURDUMOV Artur,ISR,"Born: Jun 06, 1988",B.weight: 93.90,Group: C,Snatch: 146,CI&Jerk: 175,Total: 321,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 20,VASPORI Gabor,HUN,"Born: Oct 26, 1983",B.weight: 93.95,Group: C,Snatch: 144,CI&Jerk: 174,Total: 318,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 21,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 92.85,Group: C,Snatch: 135,CI&Jerk: 166,Total: 301,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 22,MESAROS Adam,CRO,"Born: May 13, 1995",B.weight: 93.85,Group: C,Snatch: 125,CI&Jerk: 165,Total: 290,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PERASOVIC Ivan,CRO,"Born: Jan 27, 1990",B.weight: 92.75,Group: C,Snatch: 130,CI&Jerk: ---,Total: ---,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 93.25,Group: B,Snatch: 155,CI&Jerk: ---,Total: ---,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: DSQ,MALIGOV Adam,RUS,"Born: May 06, 1993",B.weight: 92.75,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,94kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MARTIROSYAN Simon,ARM,"Born: Feb 17, 1997",B.weight: 104.90,Group: A,1: 184,2: -190,3: -190,Total: 184,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MARTIROSJAN Sargis,AUT,"Born: Sep 14, 1986",B.weight: 104.55,Group: A,1: -178,2: -181,3: 181,Total: 181,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,GOSPODINOV Vasil Georgiev,BUL,"Born: Nov 05, 1993",B.weight: 103.35,Group: A,1: 175,2: 180,3: -183,Total: 180,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,AUDZEYEU Mikhail,BLR,"Born: Feb 02, 1982",B.weight: 104.70,Group: A,1: 173,2: -176,3: 176,Total: 176,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,RUIZ I VELASCO Marcos,ESP,"Born: Oct 13, 1996",B.weight: 104.40,Group: A,1: 175,2: -181,3: -181,Total: 175,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 105.00,Group: A,1: 170,2: -174,3: -175,Total: 170,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BUDEK Przemyslaw,POL,"Born: Apr 04, 1992",B.weight: 104.55,Group: A,1: 165,2: 170,3: -173,Total: 170,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,KOVAC Matej,SVK,"Born: Jun 01, 1992",B.weight: 104.80,Group: B,1: 161,2: 167,3: 170,Total: 170,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,GASPARYAN Samvel,ARM,"Born: Nov 24, 1997",B.weight: 102.65,Group: A,1: 160,2: 165,3: -170,Total: 165,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,REVA Kostiantyn,UKR,"Born: Aug 04, 1993",B.weight: 104.70,Group: A,1: -165,2: 165,3: -172,Total: 165,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,PYLYPENKO Vasyl,UKR,"Born: Nov 03, 1991",B.weight: 104.75,Group: A,1: -165,2: -165,3: 165,Total: 165,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,SIDISKIS Arnas,LTU,"Born: Jul 05, 1990",B.weight: 104.55,Group: B,1: 157,2: 163,3: -166,Total: 163,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,KUZIC Nenad,SRB,"Born: Sep 17, 1991",B.weight: 103.95,Group: B,1: 160,2: -165,3: -166,Total: 160,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,LICHOVOJ Sergej,LTU,"Born: Jul 27, 1993",B.weight: 104.35,Group: B,1: 155,2: 160,3: -164,Total: 160,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KRYWULT Patrik,CZE,"Born: Aug 25, 1990",B.weight: 103.95,Group: B,1: 150,2: 155,3: 158,Total: 158,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 105.00,Group: B,1: 151,2: 156,3: -162,Total: 156,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,FORSTER Philipp,AUT,"Born: Feb 14, 1994",B.weight: 104.75,Group: B,1: 150,2: 155,3: -160,Total: 155,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,AGREN Stefan Vilhelm Mauritz,SWE,"Born: Sep 15, 1988",B.weight: 104.50,Group: C,1: 154,2: -159,3: -159,Total: 154,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,GASIOR Jiri,CZE,"Born: Jan 24, 1991",B.weight: 103.40,Group: B,1: -147,2: 147,3: 150,Total: 150,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 20,LEHTIKANGAS Kimmo Kristian,FIN,"Born: Feb 16, 1992",B.weight: 97.45,Group: C,1: 143,2: -147,3: 147,Total: 147,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 21,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.90,Group: C,1: 144,2: -149,3: -149,Total: 144,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 22,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 104.80,Group: C,1: 143,2: -147,3: -148,Total: 143,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 23,KEARTLAND Simon Mark,IRL,"Born: Apr 24, 1993",B.weight: 104.75,Group: C,1: 128,2: -132,3: -133,Total: 128,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BEDZHANYAN David,RUS,"Born: Sep 06, 1988",B.weight: 104.50,Group: A,1: -170,2: -170,3: -172,Total: ---,105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MARTIROSYAN Simon,ARM,"Born: Feb 17, 1997",B.weight: 104.90,Group: A,1: -220,2: 220,3: 230,Total: 230,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,BEDZHANYAN David,RUS,"Born: Sep 06, 1988",B.weight: 104.50,Group: A,1: 213,2: 221,3: -231,Total: 221,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,GOSPODINOV Vasil Georgiev,BUL,"Born: Nov 05, 1993",B.weight: 103.35,Group: A,1: 212,2: 217,3: -225,Total: 217,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 105.00,Group: A,1: 210,2: -217,3: 217,Total: 217,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,REVA Kostiantyn,UKR,"Born: Aug 04, 1993",B.weight: 104.70,Group: A,1: 201,2: 208,3: 216,Total: 216,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,GASPARYAN Samvel,ARM,"Born: Nov 24, 1997",B.weight: 102.65,Group: A,1: 205,2: 210,3: -212,Total: 210,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PYLYPENKO Vasyl,UKR,"Born: Nov 03, 1991",B.weight: 104.75,Group: A,1: 200,2: 208,3: -211,Total: 208,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MARTIROSJAN Sargis,AUT,"Born: Sep 14, 1986",B.weight: 104.55,Group: A,1: 205,2: -210,3: -210,Total: 205,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,AUDZEYEU Mikhail,BLR,"Born: Feb 02, 1982",B.weight: 104.70,Group: A,1: 198,2: -203,3: 203,Total: 203,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,BUDEK Przemyslaw,POL,"Born: Apr 04, 1992",B.weight: 104.55,Group: A,1: 201,2: -206,3: -208,Total: 201,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,KUZIC Nenad,SRB,"Born: Sep 17, 1991",B.weight: 103.95,Group: B,1: 200,2: -205,3: -205,Total: 200,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,KOVAC Matej,SVK,"Born: Jun 01, 1992",B.weight: 104.80,Group: B,1: 195,2: 200,3: -205,Total: 200,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 105.00,Group: B,1: -190,2: 190,3: 200,Total: 200,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,SIDISKIS Arnas,LTU,"Born: Jul 05, 1990",B.weight: 104.55,Group: B,1: 188,2: 193,3: 197,Total: 197,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,LICHOVOJ Sergej,LTU,"Born: Jul 27, 1993",B.weight: 104.35,Group: B,1: 188,2: 193,3: -197,Total: 193,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,FORSTER Philipp,AUT,"Born: Feb 14, 1994",B.weight: 104.75,Group: B,1: 185,2: 192,3: -197,Total: 192,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,GASIOR Jiri,CZE,"Born: Jan 24, 1991",B.weight: 103.40,Group: B,1: 182,2: 187,3: 190,Total: 190,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,KRYWULT Patrik,CZE,"Born: Aug 25, 1990",B.weight: 103.95,Group: B,1: 180,2: ---,3: ---,Total: 180,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,LEHTIKANGAS Kimmo Kristian,FIN,"Born: Feb 16, 1992",B.weight: 97.45,Group: C,1: 170,2: 178,3: -183,Total: 178,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 20,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 104.80,Group: C,1: 170,2: -175,3: -175,Total: 170,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 21,KEARTLAND Simon Mark,IRL,"Born: Apr 24, 1993",B.weight: 104.75,Group: C,1: 154,2: 160,3: -169,Total: 160,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.90,Group: C,1: -176,2: -178,3: -178,Total: ---,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,AGREN Stefan Vilhelm Mauritz,SWE,"Born: Sep 15, 1988",B.weight: 104.50,Group: C,1: -192,2: -192,3: -192,Total: ---,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,RUIZ I VELASCO Marcos,ESP,"Born: Oct 13, 1996",B.weight: 104.40,Group: A,1: -203,2: -203,3: -203,Total: ---,105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MARTIROSYAN Simon,ARM,"Born: Feb 17, 1997",B.weight: 104.90,Group: A,Snatch: 184,CI&Jerk: 230,Total: 414,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,GOSPODINOV Vasil Georgiev,BUL,"Born: Nov 05, 1993",B.weight: 103.35,Group: A,Snatch: 180,CI&Jerk: 217,Total: 397,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 105.00,Group: A,Snatch: 170,CI&Jerk: 217,Total: 387,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MARTIROSJAN Sargis,AUT,"Born: Sep 14, 1986",B.weight: 104.55,Group: A,Snatch: 181,CI&Jerk: 205,Total: 386,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,REVA Kostiantyn,UKR,"Born: Aug 04, 1993",B.weight: 104.70,Group: A,Snatch: 165,CI&Jerk: 216,Total: 381,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,AUDZEYEU Mikhail,BLR,"Born: Feb 02, 1982",B.weight: 104.70,Group: A,Snatch: 176,CI&Jerk: 203,Total: 379,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GASPARYAN Samvel,ARM,"Born: Nov 24, 1997",B.weight: 102.65,Group: A,Snatch: 165,CI&Jerk: 210,Total: 375,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,PYLYPENKO Vasyl,UKR,"Born: Nov 03, 1991",B.weight: 104.75,Group: A,Snatch: 165,CI&Jerk: 208,Total: 373,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,BUDEK Przemyslaw,POL,"Born: Apr 04, 1992",B.weight: 104.55,Group: A,Snatch: 170,CI&Jerk: 201,Total: 371,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,KOVAC Matej,SVK,"Born: Jun 01, 1992",B.weight: 104.80,Group: B,Snatch: 170,CI&Jerk: 200,Total: 370,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,SIDISKIS Arnas,LTU,"Born: Jul 05, 1990",B.weight: 104.55,Group: B,Snatch: 163,CI&Jerk: 197,Total: 360,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,KUZIC Nenad,SRB,"Born: Sep 17, 1991",B.weight: 103.95,Group: B,Snatch: 160,CI&Jerk: 200,Total: 360,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 105.00,Group: B,Snatch: 156,CI&Jerk: 200,Total: 356,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,LICHOVOJ Sergej,LTU,"Born: Jul 27, 1993",B.weight: 104.35,Group: B,Snatch: 160,CI&Jerk: 193,Total: 353,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,FORSTER Philipp,AUT,"Born: Feb 14, 1994",B.weight: 104.75,Group: B,Snatch: 155,CI&Jerk: 192,Total: 347,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,GASIOR Jiri,CZE,"Born: Jan 24, 1991",B.weight: 103.40,Group: B,Snatch: 150,CI&Jerk: 190,Total: 340,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,KRYWULT Patrik,CZE,"Born: Aug 25, 1990",B.weight: 103.95,Group: B,Snatch: 158,CI&Jerk: 180,Total: 338,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,LEHTIKANGAS Kimmo Kristian,FIN,"Born: Feb 16, 1992",B.weight: 97.45,Group: C,Snatch: 147,CI&Jerk: 178,Total: 325,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 19,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 104.80,Group: C,Snatch: 143,CI&Jerk: 170,Total: 313,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 20,KEARTLAND Simon Mark,IRL,"Born: Apr 24, 1993",B.weight: 104.75,Group: C,Snatch: 128,CI&Jerk: 160,Total: 288,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.90,Group: C,Snatch: 144,CI&Jerk: ---,Total: ---,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,AGREN Stefan Vilhelm Mauritz,SWE,"Born: Sep 15, 1988",B.weight: 104.50,Group: C,Snatch: 154,CI&Jerk: ---,Total: ---,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,RUIZ I VELASCO Marcos,ESP,"Born: Oct 13, 1996",B.weight: 104.40,Group: A,Snatch: 175,CI&Jerk: ---,Total: ---,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,BEDZHANYAN David,RUS,"Born: Sep 06, 1988",B.weight: 104.50,Group: A,Snatch: ---,CI&Jerk: 221,Total: ---,,105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TALAKHADZE Lasha,GEO,"Born: Oct 02, 1993",B.weight: 158.10,Group: A,1: 203,2: 210,3: 217,Total: 217,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MINASYAN Gor,ARM,"Born: Oct 25, 1994",B.weight: 141.85,Group: A,1: 200,2: 205,3: 211,Total: 211,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,TURMANIDZE Irakli,GEO,"Born: Dec 13, 1984",B.weight: 135.35,Group: A,1: 190,2: 197,3: 201,Total: 201,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ALBEGOV Ruslan,RUS,"Born: Jan 26, 1988",B.weight: 159.20,Group: A,1: 186,2: 192,3: 196,Total: 196,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,PROSHAK Oleg,UKR,"Born: Nov 06, 1983",B.weight: 127.20,Group: A,1: 185,2: 190,3: -195,Total: 190,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,ALEKSANYAN Ruben,ARM,"Born: Mar 14, 1990",B.weight: 151.15,Group: A,1: -190,2: 190,3: -195,Total: 190,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,MZHACHYK Aliaksei,BLR,"Born: Jun 30, 1996",B.weight: 135.15,Group: B,1: 175,2: 182,3: -190,Total: 182,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,NAGY Peter,HUN,"Born: Jan 16, 1986",B.weight: 157.20,Group: A,1: 176,2: 181,3: -185,Total: 181,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 149.75,Group: A,1: 180,2: -185,3: -185,Total: 180,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,KUCERA Kamil,CZE,"Born: Mar 19, 1985",B.weight: 141.00,Group: A,1: 175,2: 180,3: -185,Total: 180,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 124.70,Group: A,1: 175,2: -180,3: 180,Total: 180,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,TATARCIK Radoslav,SVK,"Born: Mar 08, 1992",B.weight: 111.15,Group: B,1: 169,2: 173,3: -175,Total: 173,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,VASYLEVSKYI Roman,UKR,"Born: May 11, 1993",B.weight: 107.45,Group: B,1: 166,2: -172,3: 172,Total: 172,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,VUKOVIC Ante,CRO,"Born: Apr 08, 1986",B.weight: 135.45,Group: B,1: 167,2: 171,3: -173,Total: 171,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,OLSHANETSKYI Igor,ISR,"Born: Feb 16, 1986",B.weight: 131.90,Group: B,1: 160,2: 166,3: 170,Total: 170,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 145.95,Group: B,1: 167,2: -174,3: -174,Total: 167,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,KRUZEL Ondrej,SVK,"Born: Aug 23, 1988",B.weight: 115.70,Group: B,1: 160,2: -165,3: 166,Total: 166,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,LITVINOV David,ISR,"Born: Sep 23, 1993",B.weight: 118.75,Group: B,1: 165,2: -170,3: -171,Total: 165,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,GUNNARSSON Andri,ISL,"Born: Jan 14, 1983",B.weight: 129.20,Group: C,1: 150,2: 160,3: -165,Total: 160,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 20,SLEVINSKIS Vincas,LTU,"Born: Jan 15, 1990",B.weight: 126.75,Group: C,1: 150,2: -156,3: 156,Total: 156,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 21,KAJDOCSI Tivadar,SRB,"Born: Oct 15, 1993",B.weight: 129.95,Group: C,1: 140,2: 145,3: 150,Total: 150,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 22,ROININEN Teemu Tapio,FIN,"Born: Jul 10, 1986",B.weight: 136.50,Group: C,1: -147,2: -147,3: 147,Total: 147,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 23,JUCIUS Deivydas,LTU,"Born: Dec 17, 1998",B.weight: 128.80,Group: C,1: 140,2: -147,3: -147,Total: 140,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 24,BIJELIC Silvio,CRO,"Born: Aug 04, 1994",B.weight: 145.40,Group: C,1: -130,2: 130,3: 135,Total: 135,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 25,MIFSUD Kieran,MLT,"Born: Jun 26, 1999",B.weight: 106.35,Group: C,1: 121,2: -126,3: 127,Total: 127,+105kgMen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TALAKHADZE Lasha,GEO,"Born: Oct 02, 1993",B.weight: 158.10,Group: A,1: 238,2: 245,3: 250,Total: 250,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 149.75,Group: A,1: 235,2: 242,3: 246,Total: 246,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ALEKSANYAN Ruben,ARM,"Born: Mar 14, 1990",B.weight: 151.15,Group: A,1: 240,2: 244,3: -247,Total: 244,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ALBEGOV Ruslan,RUS,"Born: Jan 26, 1988",B.weight: 159.20,Group: A,1: 237,2: -243,3: -245,Total: 237,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,MINASYAN Gor,ARM,"Born: Oct 25, 1994",B.weight: 141.85,Group: A,1: 235,2: -240,3: -240,Total: 235,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,NAGY Peter,HUN,"Born: Jan 16, 1986",B.weight: 157.20,Group: A,1: 215,2: 220,3: 224,Total: 224,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,KUCERA Kamil,CZE,"Born: Mar 19, 1985",B.weight: 141.00,Group: A,1: 217,2: 222,3: -226,Total: 222,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MZHACHYK Aliaksei,BLR,"Born: Jun 30, 1996",B.weight: 135.15,Group: B,1: 210,2: 218,3: -223,Total: 218,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,OLSHANETSKYI Igor,ISR,"Born: Feb 16, 1986",B.weight: 131.90,Group: B,1: 205,2: 211,3: 216,Total: 216,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 145.95,Group: B,1: 210,2: 215,3: -220,Total: 215,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 124.70,Group: A,1: 213,2: -221,3: -222,Total: 213,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,KRUZEL Ondrej,SVK,"Born: Aug 23, 1988",B.weight: 115.70,Group: B,1: 200,2: 204,3: -208,Total: 204,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,LITVINOV David,ISR,"Born: Sep 23, 1993",B.weight: 118.75,Group: B,1: 190,2: -201,3: 202,Total: 202,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,VUKOVIC Ante,CRO,"Born: Apr 08, 1986",B.weight: 135.45,Group: B,1: 195,2: -202,3: 202,Total: 202,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,VASYLEVSKYI Roman,UKR,"Born: May 11, 1993",B.weight: 107.45,Group: B,1: 195,2: 200,3: -203,Total: 200,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,GUNNARSSON Andri,ISL,"Born: Jan 14, 1983",B.weight: 129.20,Group: C,1: 185,2: 195,3: -200,Total: 195,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,ROININEN Teemu Tapio,FIN,"Born: Jul 10, 1986",B.weight: 136.50,Group: C,1: 190,2: -196,3: ---,Total: 190,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,KAJDOCSI Tivadar,SRB,"Born: Oct 15, 1993",B.weight: 129.95,Group: C,1: 185,2: 190,3: -195,Total: 190,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,SLEVINSKIS Vincas,LTU,"Born: Jan 15, 1990",B.weight: 126.75,Group: C,1: 185,2: 190,3: -195,Total: 190,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 20,TATARCIK Radoslav,SVK,"Born: Mar 08, 1992",B.weight: 111.15,Group: B,1: 182,2: 187,3: -190,Total: 187,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 21,JUCIUS Deivydas,LTU,"Born: Dec 17, 1998",B.weight: 128.80,Group: C,1: 177,2: -180,3: ---,Total: 177,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 22,BIJELIC Silvio,CRO,"Born: Aug 04, 1994",B.weight: 145.40,Group: C,1: 160,2: 175,3: ---,Total: 175,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 23,MIFSUD Kieran,MLT,"Born: Jun 26, 1999",B.weight: 106.35,Group: C,1: 155,2: -160,3: 160,Total: 160,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,TURMANIDZE Irakli,GEO,"Born: Dec 13, 1984",B.weight: 135.35,Group: A,1: ---,2: ---,3: ---,Total: ---,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PROSHAK Oleg,UKR,"Born: Nov 06, 1983",B.weight: 127.20,Group: A,1: -220,2: -220,3: -220,Total: ---,+105kgMen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TALAKHADZE Lasha,GEO,"Born: Oct 02, 1993",B.weight: 158.10,Group: A,Snatch: 217,CI&Jerk: 250,Total: 467,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MINASYAN Gor,ARM,"Born: Oct 25, 1994",B.weight: 141.85,Group: A,Snatch: 211,CI&Jerk: 235,Total: 446,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ALEKSANYAN Ruben,ARM,"Born: Mar 14, 1990",B.weight: 151.15,Group: A,Snatch: 190,CI&Jerk: 244,Total: 434,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ALBEGOV Ruslan,RUS,"Born: Jan 26, 1988",B.weight: 159.20,Group: A,Snatch: 196,CI&Jerk: 237,Total: 433,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 149.75,Group: A,Snatch: 180,CI&Jerk: 246,Total: 426,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,NAGY Peter,HUN,"Born: Jan 16, 1986",B.weight: 157.20,Group: A,Snatch: 181,CI&Jerk: 224,Total: 405,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,KUCERA Kamil,CZE,"Born: Mar 19, 1985",B.weight: 141.00,Group: A,Snatch: 180,CI&Jerk: 222,Total: 402,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MZHACHYK Aliaksei,BLR,"Born: Jun 30, 1996",B.weight: 135.15,Group: B,Snatch: 182,CI&Jerk: 218,Total: 400,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 124.70,Group: A,Snatch: 180,CI&Jerk: 213,Total: 393,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,OLSHANETSKYI Igor,ISR,"Born: Feb 16, 1986",B.weight: 131.90,Group: B,Snatch: 170,CI&Jerk: 216,Total: 386,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 145.95,Group: B,Snatch: 167,CI&Jerk: 215,Total: 382,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,VUKOVIC Ante,CRO,"Born: Apr 08, 1986",B.weight: 135.45,Group: B,Snatch: 171,CI&Jerk: 202,Total: 373,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,VASYLEVSKYI Roman,UKR,"Born: May 11, 1993",B.weight: 107.45,Group: B,Snatch: 172,CI&Jerk: 200,Total: 372,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,KRUZEL Ondrej,SVK,"Born: Aug 23, 1988",B.weight: 115.70,Group: B,Snatch: 166,CI&Jerk: 204,Total: 370,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,LITVINOV David,ISR,"Born: Sep 23, 1993",B.weight: 118.75,Group: B,Snatch: 165,CI&Jerk: 202,Total: 367,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,TATARCIK Radoslav,SVK,"Born: Mar 08, 1992",B.weight: 111.15,Group: B,Snatch: 173,CI&Jerk: 187,Total: 360,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,GUNNARSSON Andri,ISL,"Born: Jan 14, 1983",B.weight: 129.20,Group: C,Snatch: 160,CI&Jerk: 195,Total: 355,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,SLEVINSKIS Vincas,LTU,"Born: Jan 15, 1990",B.weight: 126.75,Group: C,Snatch: 156,CI&Jerk: 190,Total: 346,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 19,KAJDOCSI Tivadar,SRB,"Born: Oct 15, 1993",B.weight: 129.95,Group: C,Snatch: 150,CI&Jerk: 190,Total: 340,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 20,ROININEN Teemu Tapio,FIN,"Born: Jul 10, 1986",B.weight: 136.50,Group: C,Snatch: 147,CI&Jerk: 190,Total: 337,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 21,JUCIUS Deivydas,LTU,"Born: Dec 17, 1998",B.weight: 128.80,Group: C,Snatch: 140,CI&Jerk: 177,Total: 317,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 22,BIJELIC Silvio,CRO,"Born: Aug 04, 1994",B.weight: 145.40,Group: C,Snatch: 135,CI&Jerk: 175,Total: 310,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 23,MIFSUD Kieran,MLT,"Born: Jun 26, 1999",B.weight: 106.35,Group: C,Snatch: 127,CI&Jerk: 160,Total: 287,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,TURMANIDZE Irakli,GEO,"Born: Dec 13, 1984",B.weight: 135.35,Group: A,Snatch: 201,CI&Jerk: ---,Total: ---,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,PROSHAK Oleg,UKR,"Born: Nov 06, 1983",B.weight: 127.20,Group: A,Snatch: 190,CI&Jerk: ---,Total: ---,,+105kgMen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,CSENGERI Monica-Suneta,ROU,"Born: Mar 21, 1996",B.weight: 47.85,Group: A,1: 80,2: 83,3: 85,Total: 85,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MICHEL Anais,FRA,"Born: Jan 12, 1988",B.weight: 47.80,Group: A,1: 76,2: 78,3: 80,Total: 80,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ANDRIES Elena Ramona,ROU,"Born: Sep 21, 1994",B.weight: 47.60,Group: A,1: 72,2: -75,3: 75,Total: 75,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,PAGLIARO Alessandra,ITA,"Born: Jul 16, 1997",B.weight: 46.55,Group: A,1: 67,2: 70,3: 73,Total: 73,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,ERDOGAN Saziye,TUR,"Born: Feb 23, 1992",B.weight: 47.70,Group: A,1: 72,2: -75,3: -75,Total: 72,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.85,Group: A,1: 68,2: 70,3: -73,Total: 70,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ZACHAREK Agnieszka,POL,"Born: Aug 21, 1992",B.weight: 47.80,Group: A,1: 67,2: -69,3: 70,Total: 70,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,PIPILIARIDOU Maria,GRE,"Born: Sep 30, 1986",B.weight: 47.85,Group: A,1: -62,2: 62,3: 66,Total: 66,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,HAAPANIEMI Sonja Marika,FIN,"Born: Dec 18, 1989",B.weight: 47.85,Group: B,1: 59,2: 61,3: 63,Total: 63,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,STEVANOVIC Tijana,SRB,"Born: Dec 06, 1993",B.weight: 47.70,Group: B,1: -62,2: -63,3: 63,Total: 63,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,MAJER Tihana,CRO,"Born: Jun 14, 1991",B.weight: 48.00,Group: B,1: -55,2: 55,3: -60,Total: 55,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,CRAIG Gabrielle Alexandria,IRL,"Born: Oct 14, 1985",B.weight: 47.05,Group: B,1: 51,2: 53,3: 55,Total: 55,48kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MICHEL Anais,FRA,"Born: Jan 12, 1988",B.weight: 47.80,Group: A,1: 95,2: 100,3: ---,Total: 100,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CSENGERI Monica-Suneta,ROU,"Born: Mar 21, 1996",B.weight: 47.85,Group: A,1: -94,2: 94,3: -97,Total: 94,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ERDOGAN Saziye,TUR,"Born: Feb 23, 1992",B.weight: 47.70,Group: A,1: 90,2: -93,3: -93,Total: 90,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ANDRIES Elena Ramona,ROU,"Born: Sep 21, 1994",B.weight: 47.60,Group: A,1: -89,2: 89,3: -92,Total: 89,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.85,Group: A,1: -88,2: 88,3: -92,Total: 88,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,PAGLIARO Alessandra,ITA,"Born: Jul 16, 1997",B.weight: 46.55,Group: A,1: 83,2: 86,3: -90,Total: 86,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PIPILIARIDOU Maria,GRE,"Born: Sep 30, 1986",B.weight: 47.85,Group: A,1: 83,2: -86,3: 86,Total: 86,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,ZACHAREK Agnieszka,POL,"Born: Aug 21, 1992",B.weight: 47.80,Group: A,1: 85,2: -89,3: -89,Total: 85,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,STEVANOVIC Tijana,SRB,"Born: Dec 06, 1993",B.weight: 47.70,Group: B,1: 74,2: 76,3: 79,Total: 79,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,HAAPANIEMI Sonja Marika,FIN,"Born: Dec 18, 1989",B.weight: 47.85,Group: B,1: -74,2: 74,3: -77,Total: 74,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,MAJER Tihana,CRO,"Born: Jun 14, 1991",B.weight: 48.00,Group: B,1: 70,2: -76,3: -77,Total: 70,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,CRAIG Gabrielle Alexandria,IRL,"Born: Oct 14, 1985",B.weight: 47.05,Group: B,1: 62,2: 64,3: 66,Total: 66,48kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MICHEL Anais,FRA,"Born: Jan 12, 1988",B.weight: 47.80,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,CSENGERI Monica-Suneta,ROU,"Born: Mar 21, 1996",B.weight: 47.85,Group: A,Snatch: 85,CI&Jerk: 94,Total: 179,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,ANDRIES Elena Ramona,ROU,"Born: Sep 21, 1994",B.weight: 47.60,Group: A,Snatch: 75,CI&Jerk: 89,Total: 164,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,ERDOGAN Saziye,TUR,"Born: Feb 23, 1992",B.weight: 47.70,Group: A,Snatch: 72,CI&Jerk: 90,Total: 162,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,PAGLIARO Alessandra,ITA,"Born: Jul 16, 1997",B.weight: 46.55,Group: A,Snatch: 73,CI&Jerk: 86,Total: 159,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.85,Group: A,Snatch: 70,CI&Jerk: 88,Total: 158,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ZACHAREK Agnieszka,POL,"Born: Aug 21, 1992",B.weight: 47.80,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,PIPILIARIDOU Maria,GRE,"Born: Sep 30, 1986",B.weight: 47.85,Group: A,Snatch: 66,CI&Jerk: 86,Total: 152,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,STEVANOVIC Tijana,SRB,"Born: Dec 06, 1993",B.weight: 47.70,Group: B,Snatch: 63,CI&Jerk: 79,Total: 142,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,HAAPANIEMI Sonja Marika,FIN,"Born: Dec 18, 1989",B.weight: 47.85,Group: B,Snatch: 63,CI&Jerk: 74,Total: 137,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,MAJER Tihana,CRO,"Born: Jun 14, 1991",B.weight: 48.00,Group: B,Snatch: 55,CI&Jerk: 70,Total: 125,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,CRAIG Gabrielle Alexandria,IRL,"Born: Oct 14, 1985",B.weight: 47.05,Group: B,Snatch: 55,CI&Jerk: 66,Total: 121,,48kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 52.75,Group: A,1: 84,2: 86,3: -89,Total: 86,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,HERNANDEZ MARTIN Atenery,ESP,"Born: Dec 10, 1994",B.weight: 52.65,Group: A,1: 82,2: 84,3: 86,Total: 86,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,TUNADAGI Bediha,TUR,"Born: Aug 20, 1985",B.weight: 52.40,Group: A,1: -83,2: 84,3: -87,Total: 84,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,PANKOVA Liudmila,BLR,"Born: Mar 25, 1997",B.weight: 52.85,Group: A,1: 78,2: 81,3: 83,Total: 83,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,VELI Evagjelia,ALB,"Born: Jul 16, 1991",B.weight: 52.75,Group: A,1: -80,2: -81,3: 82,Total: 82,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,OVSTHUS Sarah Orteza Hovden,NOR,"Born: Mar 20, 1994",B.weight: 52.50,Group: A,1: 76,2: 78,3: -80,Total: 78,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GARCIA SUAREZ Noelia,ESP,"Born: May 09, 1997",B.weight: 52.55,Group: B,1: 74,2: 76,3: -78,Total: 76,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,RUSSO Giorgia,ITA,"Born: Apr 28, 1993",B.weight: 52.45,Group: A,1: 73,2: -76,3: 76,Total: 76,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ZALATAROVA Aksana,ISR,"Born: Feb 18, 1984",B.weight: 52.95,Group: A,1: 73,2: -76,3: 76,Total: 76,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,JACOBSEN Rebekka Tao,NOR,"Born: Sep 12, 1996",B.weight: 52.80,Group: B,1: 70,2: 72,3: 74,Total: 74,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,BRUHN Katrine Nim,DEN,"Born: Dec 29, 1991",B.weight: 52.50,Group: B,1: 65,2: 69,3: 72,Total: 72,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,LAGERKRANS Pauliina Maria,FIN,"Born: Aug 11, 1989",B.weight: 52.30,Group: A,1: -71,2: -71,3: 72,Total: 72,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,HAYES Rachel Ilyse,ISR,"Born: Jul 12, 1988",B.weight: 52.50,Group: B,1: -65,2: 65,3: -68,Total: 65,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,TALAHATU Evita Juanita,NED,"Born: Apr 21, 1987",B.weight: 52.75,Group: B,1: 58,2: -62,3: -62,Total: 58,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,HARTE Eithne Marie,IRL,"Born: Nov 19, 1982",B.weight: 52.65,Group: B,1: -57,2: 57,3: -59,Total: 57,53kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 52.75,Group: A,1: 104,2: 106,3: -108,Total: 106,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,PANKOVA Liudmila,BLR,"Born: Mar 25, 1997",B.weight: 52.85,Group: A,1: 99,2: 103,3: 106,Total: 106,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,HERNANDEZ MARTIN Atenery,ESP,"Born: Dec 10, 1994",B.weight: 52.65,Group: A,1: 102,2: -105,3: 105,Total: 105,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,RUSSO Giorgia,ITA,"Born: Apr 28, 1993",B.weight: 52.45,Group: A,1: 94,2: 101,3: -105,Total: 101,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,VELI Evagjelia,ALB,"Born: Jul 16, 1991",B.weight: 52.75,Group: A,1: 100,2: -104,3: -104,Total: 100,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,OVSTHUS Sarah Orteza Hovden,NOR,"Born: Mar 20, 1994",B.weight: 52.50,Group: A,1: 94,2: 97,3: -99,Total: 97,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,JACOBSEN Rebekka Tao,NOR,"Born: Sep 12, 1996",B.weight: 52.80,Group: B,1: 91,2: 93,3: 95,Total: 95,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,GARCIA SUAREZ Noelia,ESP,"Born: May 09, 1997",B.weight: 52.55,Group: B,1: 89,2: -92,3: 92,Total: 92,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ZALATAROVA Aksana,ISR,"Born: Feb 18, 1984",B.weight: 52.95,Group: A,1: 90,2: -93,3: -93,Total: 90,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,LAGERKRANS Pauliina Maria,FIN,"Born: Aug 11, 1989",B.weight: 52.30,Group: A,1: 88,2: -91,3: -91,Total: 88,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,BRUHN Katrine Nim,DEN,"Born: Dec 29, 1991",B.weight: 52.50,Group: B,1: 83,2: 87,3: -89,Total: 87,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,HAYES Rachel Ilyse,ISR,"Born: Jul 12, 1988",B.weight: 52.50,Group: B,1: 80,2: 84,3: -87,Total: 84,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,TALAHATU Evita Juanita,NED,"Born: Apr 21, 1987",B.weight: 52.75,Group: B,1: 76,2: 79,3: -82,Total: 79,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,HARTE Eithne Marie,IRL,"Born: Nov 19, 1982",B.weight: 52.65,Group: B,1: 72,2: 76,3: 79,Total: 79,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,TUNADAGI Bediha,TUR,"Born: Aug 20, 1985",B.weight: 52.40,Group: A,1: -104,2: -104,3: -105,Total: ---,53kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 52.75,Group: A,Snatch: 86,CI&Jerk: 106,Total: 192,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,HERNANDEZ MARTIN Atenery,ESP,"Born: Dec 10, 1994",B.weight: 52.65,Group: A,Snatch: 86,CI&Jerk: 105,Total: 191,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,PANKOVA Liudmila,BLR,"Born: Mar 25, 1997",B.weight: 52.85,Group: A,Snatch: 83,CI&Jerk: 106,Total: 189,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,VELI Evagjelia,ALB,"Born: Jul 16, 1991",B.weight: 52.75,Group: A,Snatch: 82,CI&Jerk: 100,Total: 182,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,RUSSO Giorgia,ITA,"Born: Apr 28, 1993",B.weight: 52.45,Group: A,Snatch: 76,CI&Jerk: 101,Total: 177,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,OVSTHUS Sarah Orteza Hovden,NOR,"Born: Mar 20, 1994",B.weight: 52.50,Group: A,Snatch: 78,CI&Jerk: 97,Total: 175,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,JACOBSEN Rebekka Tao,NOR,"Born: Sep 12, 1996",B.weight: 52.80,Group: B,Snatch: 74,CI&Jerk: 95,Total: 169,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,GARCIA SUAREZ Noelia,ESP,"Born: May 09, 1997",B.weight: 52.55,Group: B,Snatch: 76,CI&Jerk: 92,Total: 168,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ZALATAROVA Aksana,ISR,"Born: Feb 18, 1984",B.weight: 52.95,Group: A,Snatch: 76,CI&Jerk: 90,Total: 166,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,LAGERKRANS Pauliina Maria,FIN,"Born: Aug 11, 1989",B.weight: 52.30,Group: A,Snatch: 72,CI&Jerk: 88,Total: 160,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,BRUHN Katrine Nim,DEN,"Born: Dec 29, 1991",B.weight: 52.50,Group: B,Snatch: 72,CI&Jerk: 87,Total: 159,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,HAYES Rachel Ilyse,ISR,"Born: Jul 12, 1988",B.weight: 52.50,Group: B,Snatch: 65,CI&Jerk: 84,Total: 149,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,TALAHATU Evita Juanita,NED,"Born: Apr 21, 1987",B.weight: 52.75,Group: B,Snatch: 58,CI&Jerk: 79,Total: 137,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,HARTE Eithne Marie,IRL,"Born: Nov 19, 1982",B.weight: 52.65,Group: B,Snatch: 57,CI&Jerk: 79,Total: 136,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,TUNADAGI Bediha,TUR,"Born: Aug 20, 1985",B.weight: 52.40,Group: A,Snatch: 84,CI&Jerk: ---,Total: ---,,53kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 57.25,Group: A,1: 92,2: 95,3: -97,Total: 95,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,IVASIUK Veronika,UKR,"Born: Oct 12, 1995",B.weight: 57.90,Group: A,1: 90,2: 93,3: 95,Total: 95,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KHLESTKINA Natalia,RUS,"Born: Apr 23, 1992",B.weight: 57.75,Group: A,1: 92,2: -95,3: 95,Total: 95,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MOLIE Madalina-Bianca,ROU,"Born: Apr 27, 1996",B.weight: 57.95,Group: B,1: 91,2: 94,3: -96,Total: 94,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,LEPSA Irina-Lacramioara,ROU,"Born: Jun 06, 1992",B.weight: 57.95,Group: A,1: 90,2: 93,3: -95,Total: 93,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,IVANOVA Anastasiia,RUS,"Born: Feb 11, 1990",B.weight: 57.70,Group: A,1: 85,2: 89,3: -92,Total: 89,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.65,Group: A,1: 86,2: -89,3: 89,Total: 89,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,ROOS Anna Angelica Ulrika,SWE,"Born: Apr 15, 1989",B.weight: 57.65,Group: A,1: 85,2: 87,3: 88,Total: 88,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,BENTELI Konstantina,GRE,"Born: Aug 24, 1993",B.weight: 57.90,Group: A,1: 86,2: -90,3: -90,Total: 86,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,KENTLI Sumeyye,TUR,"Born: Nov 16, 1995",B.weight: 57.90,Group: A,1: -83,2: 83,3: 86,Total: 86,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,KRASKA Katarzyna Wioleta,POL,"Born: May 06, 1993",B.weight: 57.55,Group: A,1: 85,2: -87,3: -87,Total: 85,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,SKANDI EL ASAAD Mouna,ESP,"Born: Jan 10, 1992",B.weight: 57.75,Group: B,1: 82,2: 85,3: -88,Total: 85,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,TSEVELEVA Darya,BLR,"Born: Feb 20, 1996",B.weight: 57.45,Group: B,1: 83,2: -87,3: -87,Total: 83,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.80,Group: B,1: 81,2: -84,3: -84,Total: 81,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,SOJAT Tea,CRO,"Born: Jun 13, 1991",B.weight: 57.25,Group: B,1: 75,2: -77,3: -77,Total: 75,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,STESL Nastasja,SLO,"Born: May 28, 1991",B.weight: 57.00,Group: B,1: 66,2: -69,3: 71,Total: 71,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,IOANNOU Dimitra,CYP,"Born: Sep 13, 1993",B.weight: 57.70,Group: B,1: 65,2: 70,3: -72,Total: 70,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,RIORDAN Hilary Agnes,IRL,"Born: May 18, 1988",B.weight: 57.10,Group: B,1: 63,2: 65,3: -68,Total: 65,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,BRONSTEIN Neta,ISR,"Born: Nov 27, 1989",B.weight: 57.45,Group: B,1: 60,2: 64,3: -67,Total: 64,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 20,GRACANIN Lucija,CRO,"Born: Apr 27, 2001",B.weight: 54.45,Group: B,1: 50,2: 52,3: 54,Total: 54,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,LIUKKONEN Laura Anita,FIN,"Born: Jan 27, 1991",B.weight: 57.50,Group: B,1: -76,2: -76,3: -77,Total: ---,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: ---,YAYLYAN Izabella,ARM,"Born: Jan 04, 1995",B.weight: 57.70,Group: A,1: -87,2: -87,3: -87,Total: ---,58kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KHLESTKINA Natalia,RUS,"Born: Apr 23, 1992",B.weight: 57.75,Group: A,1: 114,2: 117,3: 119,Total: 119,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 57.25,Group: A,1: 110,2: 114,3: 118,Total: 118,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KENTLI Sumeyye,TUR,"Born: Nov 16, 1995",B.weight: 57.90,Group: A,1: 114,2: 116,3: -119,Total: 116,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MOLIE Madalina-Bianca,ROU,"Born: Apr 27, 1996",B.weight: 57.95,Group: B,1: 110,2: -114,3: 114,Total: 114,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,LEPSA Irina-Lacramioara,ROU,"Born: Jun 06, 1992",B.weight: 57.95,Group: A,1: 113,2: -117,3: -117,Total: 113,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,ROOS Anna Angelica Ulrika,SWE,"Born: Apr 15, 1989",B.weight: 57.65,Group: A,1: 109,2: 113,3: -115,Total: 113,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.65,Group: A,1: 110,2: -113,3: 113,Total: 113,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,KRASKA Katarzyna Wioleta,POL,"Born: May 06, 1993",B.weight: 57.55,Group: A,1: -112,2: -113,3: 113,Total: 113,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,IVASIUK Veronika,UKR,"Born: Oct 12, 1995",B.weight: 57.90,Group: A,1: 106,2: 111,3: -115,Total: 111,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,SKANDI EL ASAAD Mouna,ESP,"Born: Jan 10, 1992",B.weight: 57.75,Group: B,1: 105,2: 109,3: -113,Total: 109,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.80,Group: B,1: 105,2: 107,3: 109,Total: 109,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,BENTELI Konstantina,GRE,"Born: Aug 24, 1993",B.weight: 57.90,Group: A,1: 100,2: 106,3: -109,Total: 106,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,YAYLYAN Izabella,ARM,"Born: Jan 04, 1995",B.weight: 57.70,Group: A,1: 101,2: 106,3: ---,Total: 106,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,TSEVELEVA Darya,BLR,"Born: Feb 20, 1996",B.weight: 57.45,Group: B,1: 103,2: 106,3: ---,Total: 106,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,IVANOVA Anastasiia,RUS,"Born: Feb 11, 1990",B.weight: 57.70,Group: A,1: 102,2: -107,3: -107,Total: 102,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,LIUKKONEN Laura Anita,FIN,"Born: Jan 27, 1991",B.weight: 57.50,Group: B,1: 96,2: 101,3: -105,Total: 101,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,STESL Nastasja,SLO,"Born: May 28, 1991",B.weight: 57.00,Group: B,1: -86,2: 86,3: 90,Total: 90,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,SOJAT Tea,CRO,"Born: Jun 13, 1991",B.weight: 57.25,Group: B,1: 85,2: 88,3: -92,Total: 88,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,RIORDAN Hilary Agnes,IRL,"Born: May 18, 1988",B.weight: 57.10,Group: B,1: 81,2: 84,3: -86,Total: 84,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 20,IOANNOU Dimitra,CYP,"Born: Sep 13, 1993",B.weight: 57.70,Group: B,1: 80,2: -85,3: -85,Total: 80,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 21,BRONSTEIN Neta,ISR,"Born: Nov 27, 1989",B.weight: 57.45,Group: B,1: -80,2: 80,3: -83,Total: 80,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 22,GRACANIN Lucija,CRO,"Born: Apr 27, 2001",B.weight: 54.45,Group: B,1: 60,2: 62,3: 64,Total: 64,58kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KHLESTKINA Natalia,RUS,"Born: Apr 23, 1992",B.weight: 57.75,Group: A,Snatch: 95,CI&Jerk: 119,Total: 214,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 57.25,Group: A,Snatch: 95,CI&Jerk: 118,Total: 213,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MOLIE Madalina-Bianca,ROU,"Born: Apr 27, 1996",B.weight: 57.95,Group: B,Snatch: 94,CI&Jerk: 114,Total: 208,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,IVASIUK Veronika,UKR,"Born: Oct 12, 1995",B.weight: 57.90,Group: A,Snatch: 95,CI&Jerk: 111,Total: 206,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,LEPSA Irina-Lacramioara,ROU,"Born: Jun 06, 1992",B.weight: 57.95,Group: A,Snatch: 93,CI&Jerk: 113,Total: 206,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.65,Group: A,Snatch: 89,CI&Jerk: 113,Total: 202,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,KENTLI Sumeyye,TUR,"Born: Nov 16, 1995",B.weight: 57.90,Group: A,Snatch: 86,CI&Jerk: 116,Total: 202,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,ROOS Anna Angelica Ulrika,SWE,"Born: Apr 15, 1989",B.weight: 57.65,Group: A,Snatch: 88,CI&Jerk: 113,Total: 201,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,KRASKA Katarzyna Wioleta,POL,"Born: May 06, 1993",B.weight: 57.55,Group: A,Snatch: 85,CI&Jerk: 113,Total: 198,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,SKANDI EL ASAAD Mouna,ESP,"Born: Jan 10, 1992",B.weight: 57.75,Group: B,Snatch: 85,CI&Jerk: 109,Total: 194,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,BENTELI Konstantina,GRE,"Born: Aug 24, 1993",B.weight: 57.90,Group: A,Snatch: 86,CI&Jerk: 106,Total: 192,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,IVANOVA Anastasiia,RUS,"Born: Feb 11, 1990",B.weight: 57.70,Group: A,Snatch: 89,CI&Jerk: 102,Total: 191,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.80,Group: B,Snatch: 81,CI&Jerk: 109,Total: 190,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,TSEVELEVA Darya,BLR,"Born: Feb 20, 1996",B.weight: 57.45,Group: B,Snatch: 83,CI&Jerk: 106,Total: 189,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,SOJAT Tea,CRO,"Born: Jun 13, 1991",B.weight: 57.25,Group: B,Snatch: 75,CI&Jerk: 88,Total: 163,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,STESL Nastasja,SLO,"Born: May 28, 1991",B.weight: 57.00,Group: B,Snatch: 71,CI&Jerk: 90,Total: 161,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,IOANNOU Dimitra,CYP,"Born: Sep 13, 1993",B.weight: 57.70,Group: B,Snatch: 70,CI&Jerk: 80,Total: 150,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,RIORDAN Hilary Agnes,IRL,"Born: May 18, 1988",B.weight: 57.10,Group: B,Snatch: 65,CI&Jerk: 84,Total: 149,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 19,BRONSTEIN Neta,ISR,"Born: Nov 27, 1989",B.weight: 57.45,Group: B,Snatch: 64,CI&Jerk: 80,Total: 144,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 20,GRACANIN Lucija,CRO,"Born: Apr 27, 2001",B.weight: 54.45,Group: B,Snatch: 54,CI&Jerk: 64,Total: 118,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,LIUKKONEN Laura Anita,FIN,"Born: Jan 27, 1991",B.weight: 57.50,Group: B,Snatch: ---,CI&Jerk: 101,Total: ---,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,YAYLYAN Izabella,ARM,"Born: Jan 04, 1995",B.weight: 57.70,Group: A,Snatch: ---,CI&Jerk: 106,Total: ---,,58kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TOMA Loredana-Elena,ROU,"Born: May 10, 1995",B.weight: 62.65,Group: A,1: 100,2: -104,3: -104,Total: 100,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,ALEEVA Tatiana,RUS,"Born: Mar 01, 1991",B.weight: 62.95,Group: A,1: 95,2: -98,3: 98,Total: 98,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,TURIEVA Tima,RUS,"Born: Jun 22, 1992",B.weight: 62.75,Group: A,1: 97,2: -101,3: -101,Total: 97,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,HULPAN Florina-Sorina,ROU,"Born: Mar 07, 1997",B.weight: 63.00,Group: A,1: -90,2: 91,3: 96,Total: 96,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: B,1: 92,2: 95,3: -98,Total: 95,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 62.05,Group: A,1: 87,2: 90,3: 92,Total: 92,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,VUOHIJOKI Anni Teija Orvokki,FIN,"Born: May 24, 1988",B.weight: 62.75,Group: A,1: 90,2: -92,3: -92,Total: 90,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,DAVIES Sarah,GBR,"Born: Aug 19, 1992",B.weight: 62.55,Group: A,1: -87,2: 87,3: 90,Total: 90,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ANDERSSON Ine Drablos,NOR,"Born: Aug 17, 1989",B.weight: 62.45,Group: B,1: 83,2: -86,3: 87,Total: 87,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 61.55,Group: B,1: 80,2: 84,3: 86,Total: 86,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,OHMAN Marina,ISR,"Born: Jan 02, 1983",B.weight: 63.00,Group: B,1: 80,2: 83,3: 85,Total: 85,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,RETULAINEN Saara Sylvia Amanda,FIN,"Born: May 30, 1993",B.weight: 62.40,Group: A,1: 84,2: -88,3: -88,Total: 84,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,HELGADOTTIR Thuridur Erla,ISL,"Born: Jul 30, 1991",B.weight: 58.65,Group: B,1: 79,2: -83,3: -83,Total: 79,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,SIMONSEN Amanda,DEN,"Born: Jun 18, 1991",B.weight: 62.65,Group: B,1: 77,2: -80,3: -80,Total: 77,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,HORNA Ivana,SVK,"Born: Aug 31, 1990",B.weight: 62.65,Group: B,1: 70,2: 74,3: 77,Total: 77,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 62.85,Group: B,1: 73,2: -76,3: 76,Total: 76,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 17,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 62.15,Group: B,1: 70,2: 72,3: -75,Total: 72,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 18,KALO Sarit,ISR,"Born: Sep 13, 1990",B.weight: 62.00,Group: B,1: 66,2: 70,3: 72,Total: 72,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 19,MACNEILL Aoife Maria,IRL,"Born: Apr 03, 1985",B.weight: 62.55,Group: B,1: 71,2: -74,3: -74,Total: 71,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 20,KLATSIA Alexandra,CYP,"Born: Sep 19, 1985",B.weight: 62.00,Group: B,1: 71,2: -74,3: -74,Total: 71,63kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TOMA Loredana-Elena,ROU,"Born: May 10, 1995",B.weight: 62.65,Group: A,1: 121,2: 126,3: -130,Total: 126,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,ALEEVA Tatiana,RUS,"Born: Mar 01, 1991",B.weight: 62.95,Group: A,1: 120,2: -124,3: 125,Total: 125,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,TURIEVA Tima,RUS,"Born: Jun 22, 1992",B.weight: 62.75,Group: A,1: 121,2: -127,3: -127,Total: 121,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,DAVIES Sarah,GBR,"Born: Aug 19, 1992",B.weight: 62.55,Group: A,1: 112,2: 115,3: 118,Total: 118,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,HULPAN Florina-Sorina,ROU,"Born: Mar 07, 1997",B.weight: 63.00,Group: A,1: 110,2: 114,3: 117,Total: 117,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,VUOHIJOKI Anni Teija Orvokki,FIN,"Born: May 24, 1988",B.weight: 62.75,Group: A,1: -111,2: 111,3: -116,Total: 111,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 62.05,Group: A,1: 105,2: 109,3: -113,Total: 109,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,RETULAINEN Saara Sylvia Amanda,FIN,"Born: May 30, 1993",B.weight: 62.40,Group: A,1: 98,2: -107,3: 107,Total: 107,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ANDERSSON Ine Drablos,NOR,"Born: Aug 17, 1989",B.weight: 62.45,Group: B,1: 103,2: 106,3: -108,Total: 106,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: B,1: 105,2: -108,3: -108,Total: 105,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 61.55,Group: B,1: 100,2: 104,3: -107,Total: 104,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,HELGADOTTIR Thuridur Erla,ISL,"Born: Jul 30, 1991",B.weight: 58.65,Group: B,1: 102,2: -106,3: -107,Total: 102,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,HORNA Ivana,SVK,"Born: Aug 31, 1990",B.weight: 62.65,Group: B,1: 95,2: 99,3: -103,Total: 99,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,OHMAN Marina,ISR,"Born: Jan 02, 1983",B.weight: 63.00,Group: B,1: 93,2: 96,3: 98,Total: 98,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KLATSIA Alexandra,CYP,"Born: Sep 19, 1985",B.weight: 62.00,Group: B,1: 90,2: 95,3: -98,Total: 95,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,MACNEILL Aoife Maria,IRL,"Born: Apr 03, 1985",B.weight: 62.55,Group: B,1: 90,2: -93,3: -93,Total: 90,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 17,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 62.85,Group: B,1: 90,2: -93,3: -93,Total: 90,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 18,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 62.15,Group: B,1: 89,2: -92,3: -92,Total: 89,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 19,KALO Sarit,ISR,"Born: Sep 13, 1990",B.weight: 62.00,Group: B,1: 88,2: -91,3: -91,Total: 88,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 20,SIMONSEN Amanda,DEN,"Born: Jun 18, 1991",B.weight: 62.65,Group: B,1: 86,2: -89,3: -91,Total: 86,63kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,TOMA Loredana-Elena,ROU,"Born: May 10, 1995",B.weight: 62.65,Group: A,Snatch: 100,CI&Jerk: 126,Total: 226,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,ALEEVA Tatiana,RUS,"Born: Mar 01, 1991",B.weight: 62.95,Group: A,Snatch: 98,CI&Jerk: 125,Total: 223,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,TURIEVA Tima,RUS,"Born: Jun 22, 1992",B.weight: 62.75,Group: A,Snatch: 97,CI&Jerk: 121,Total: 218,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,HULPAN Florina-Sorina,ROU,"Born: Mar 07, 1997",B.weight: 63.00,Group: A,Snatch: 96,CI&Jerk: 117,Total: 213,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,DAVIES Sarah,GBR,"Born: Aug 19, 1992",B.weight: 62.55,Group: A,Snatch: 90,CI&Jerk: 118,Total: 208,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 62.05,Group: A,Snatch: 92,CI&Jerk: 109,Total: 201,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,VUOHIJOKI Anni Teija Orvokki,FIN,"Born: May 24, 1988",B.weight: 62.75,Group: A,Snatch: 90,CI&Jerk: 111,Total: 201,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: B,Snatch: 95,CI&Jerk: 105,Total: 200,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,ANDERSSON Ine Drablos,NOR,"Born: Aug 17, 1989",B.weight: 62.45,Group: B,Snatch: 87,CI&Jerk: 106,Total: 193,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,RETULAINEN Saara Sylvia Amanda,FIN,"Born: May 30, 1993",B.weight: 62.40,Group: A,Snatch: 84,CI&Jerk: 107,Total: 191,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 61.55,Group: B,Snatch: 86,CI&Jerk: 104,Total: 190,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,OHMAN Marina,ISR,"Born: Jan 02, 1983",B.weight: 63.00,Group: B,Snatch: 85,CI&Jerk: 98,Total: 183,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,HELGADOTTIR Thuridur Erla,ISL,"Born: Jul 30, 1991",B.weight: 58.65,Group: B,Snatch: 79,CI&Jerk: 102,Total: 181,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,HORNA Ivana,SVK,"Born: Aug 31, 1990",B.weight: 62.65,Group: B,Snatch: 77,CI&Jerk: 99,Total: 176,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 62.85,Group: B,Snatch: 76,CI&Jerk: 90,Total: 166,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,KLATSIA Alexandra,CYP,"Born: Sep 19, 1985",B.weight: 62.00,Group: B,Snatch: 71,CI&Jerk: 95,Total: 166,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 17,SIMONSEN Amanda,DEN,"Born: Jun 18, 1991",B.weight: 62.65,Group: B,Snatch: 77,CI&Jerk: 86,Total: 163,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 18,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 62.15,Group: B,Snatch: 72,CI&Jerk: 89,Total: 161,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 19,MACNEILL Aoife Maria,IRL,"Born: Apr 03, 1985",B.weight: 62.55,Group: B,Snatch: 71,CI&Jerk: 90,Total: 161,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 20,KALO Sarit,ISR,"Born: Sep 13, 1990",B.weight: 62.00,Group: B,Snatch: 72,CI&Jerk: 88,Total: 160,,63kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,ROMANOVA Anastasiia,RUS,"Born: Oct 02, 1991",B.weight: 68.95,Group: A,1: 103,2: 107,3: 112,Total: 112,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 68.30,Group: A,1: 93,2: 96,3: 100,Total: 100,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KHLYAN Mariya,UKR,"Born: Jun 08, 1992",B.weight: 68.70,Group: A,1: 96,2: -99,3: 99,Total: 99,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,BEGAJ Romela,ALB,"Born: Nov 02, 1986",B.weight: 67.45,Group: A,1: 98,2: -101,3: -101,Total: 98,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,JUNG Beata,HUN,"Born: Jan 02, 1994",B.weight: 68.60,Group: A,1: 93,2: -97,3: 98,Total: 98,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,PANOVA Hanna,UKR,"Born: Jun 25, 1998",B.weight: 67.70,Group: A,1: 90,2: 94,3: 97,Total: 97,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,STRENIUS Patricia Caroline,SWE,"Born: Nov 23, 1989",B.weight: 68.75,Group: A,1: 93,2: 96,3: -98,Total: 96,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,MIKHALENKA Anastasiya,BLR,"Born: Dec 08, 1995",B.weight: 68.60,Group: A,1: 95,2: -99,3: -99,Total: 95,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 67.95,Group: B,1: 85,2: 89,3: 92,Total: 92,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 67.55,Group: B,1: 87,2: 90,3: 92,Total: 92,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,DE GREGORIO LORENZO Ana,ESP,"Born: Feb 01, 1991",B.weight: 68.00,Group: B,1: 85,2: 89,3: -92,Total: 89,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 69.00,Group: B,1: -82,2: -82,3: 84,Total: 84,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 66.70,Group: B,1: 75,2: 79,3: 81,Total: 81,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 14,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 67.85,Group: B,1: 75,2: 80,3: -85,Total: 80,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KLEINSTAPEL Monique Maria Johanna,NED,"Born: Dec 17, 1982",B.weight: 68.10,Group: B,1: -76,2: 76,3: -80,Total: 76,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 16,RUMENOVIC Ivana,CRO,"Born: Aug 27, 1999",B.weight: 64.05,Group: B,1: -50,2: 50,3: -58,Total: 50,69kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,ROMANOVA Anastasiia,RUS,"Born: Oct 02, 1991",B.weight: 68.95,Group: A,1: 125,2: 131,3: -135,Total: 131,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MIKHALENKA Anastasiya,BLR,"Born: Dec 08, 1995",B.weight: 68.60,Group: A,1: 122,2: 127,3: 130,Total: 130,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,KHLYAN Mariya,UKR,"Born: Jun 08, 1992",B.weight: 68.70,Group: A,1: 120,2: 124,3: 126,Total: 126,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 68.30,Group: A,1: 120,2: -124,3: 124,Total: 124,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,STRENIUS Patricia Caroline,SWE,"Born: Nov 23, 1989",B.weight: 68.75,Group: A,1: 118,2: 123,3: -126,Total: 123,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,BEGAJ Romela,ALB,"Born: Nov 02, 1986",B.weight: 67.45,Group: A,1: -121,2: 121,3: -1125,Total: 121,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 67.55,Group: B,1: 112,2: -117,3: 117,Total: 117,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,PANOVA Hanna,UKR,"Born: Jun 25, 1998",B.weight: 67.70,Group: A,1: -115,2: 115,3: -119,Total: 115,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,DE GREGORIO LORENZO Ana,ESP,"Born: Feb 01, 1991",B.weight: 68.00,Group: B,1: 105,2: 109,3: 112,Total: 112,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 67.95,Group: B,1: 105,2: -109,3: -109,Total: 105,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,JUNG Beata,HUN,"Born: Jan 02, 1994",B.weight: 68.60,Group: A,1: 105,2: -110,3: -112,Total: 105,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 67.85,Group: B,1: 93,2: 98,3: 102,Total: 102,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 69.00,Group: B,1: 98,2: -103,3: ---,Total: 98,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 14,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 66.70,Group: B,1: 90,2: -94,3: 94,Total: 94,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KLEINSTAPEL Monique Maria Johanna,NED,"Born: Dec 17, 1982",B.weight: 68.10,Group: B,1: -90,2: -90,3: 90,Total: 90,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 16,RUMENOVIC Ivana,CRO,"Born: Aug 27, 1999",B.weight: 64.05,Group: B,1: 60,2: 65,3: -67,Total: 65,69kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,ROMANOVA Anastasiia,RUS,"Born: Oct 02, 1991",B.weight: 68.95,Group: A,Snatch: 112,CI&Jerk: 131,Total: 243,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KHLYAN Mariya,UKR,"Born: Jun 08, 1992",B.weight: 68.70,Group: A,Snatch: 99,CI&Jerk: 126,Total: 225,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MIKHALENKA Anastasiya,BLR,"Born: Dec 08, 1995",B.weight: 68.60,Group: A,Snatch: 95,CI&Jerk: 130,Total: 225,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 68.30,Group: A,Snatch: 100,CI&Jerk: 124,Total: 224,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,BEGAJ Romela,ALB,"Born: Nov 02, 1986",B.weight: 67.45,Group: A,Snatch: 98,CI&Jerk: 121,Total: 219,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,STRENIUS Patricia Caroline,SWE,"Born: Nov 23, 1989",B.weight: 68.75,Group: A,Snatch: 96,CI&Jerk: 123,Total: 219,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,PANOVA Hanna,UKR,"Born: Jun 25, 1998",B.weight: 67.70,Group: A,Snatch: 97,CI&Jerk: 115,Total: 212,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 67.55,Group: B,Snatch: 92,CI&Jerk: 117,Total: 209,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,JUNG Beata,HUN,"Born: Jan 02, 1994",B.weight: 68.60,Group: A,Snatch: 98,CI&Jerk: 105,Total: 203,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,DE GREGORIO LORENZO Ana,ESP,"Born: Feb 01, 1991",B.weight: 68.00,Group: B,Snatch: 89,CI&Jerk: 112,Total: 201,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 67.95,Group: B,Snatch: 92,CI&Jerk: 105,Total: 197,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 69.00,Group: B,Snatch: 84,CI&Jerk: 98,Total: 182,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 67.85,Group: B,Snatch: 80,CI&Jerk: 102,Total: 182,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 14,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 66.70,Group: B,Snatch: 81,CI&Jerk: 94,Total: 175,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 15,KLEINSTAPEL Monique Maria Johanna,NED,"Born: Dec 17, 1982",B.weight: 68.10,Group: B,Snatch: 76,CI&Jerk: 90,Total: 166,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 16,RUMENOVIC Ivana,CRO,"Born: Aug 27, 1999",B.weight: 64.05,Group: B,Snatch: 50,CI&Jerk: 65,Total: 115,,69kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,DEKHA Iryna,UKR,"Born: May 14, 1996",B.weight: 74.70,Group: A,1: 114,2: 117,3: 120,Total: 120,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 74.90,Group: A,1: 112,2: 115,3: -118,Total: 115,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,VOSTRIKOVA Mariia,RUS,"Born: Nov 02, 1993",B.weight: 71.55,Group: A,1: 105,2: 110,3: 113,Total: 113,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 73.40,Group: A,1: 98,2: -101,3: 101,Total: 101,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,KAYA Rabia,TUR,"Born: Dec 05, 1994",B.weight: 74.85,Group: A,1: 93,2: -97,3: 98,Total: 98,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,PRISCEPA Natalia,MDA,"Born: Oct 17, 1989",B.weight: 74.90,Group: A,1: -98,2: -98,3: 98,Total: 98,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ILMARINEN Meri Tuuli Linnea,FIN,"Born: Jun 04, 1991",B.weight: 74.75,Group: A,1: 9,2: 97,3: -100,Total: 97,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,BRUNELLI Carlotta,ITA,"Born: Apr 11, 1993",B.weight: 74.65,Group: B,1: 93,2: 97,3: -100,Total: 97,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,WIOR Jolanta Malgorzata,POL,"Born: Sep 22, 1995",B.weight: 73.15,Group: A,1: -95,2: 95,3: -97,Total: 95,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,SAARHELO Marianne Ellen Vilhelmiina,FIN,"Born: Feb 16, 1994",B.weight: 71.45,Group: A,1: 88,2: 92,3: -95,Total: 92,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 69.05,Group: B,1: 82,2: 86,3: -89,Total: 86,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,SVECOVA Julie,CZE,"Born: Jun 29, 1984",B.weight: 69.50,Group: B,1: 74,2: 77,3: 80,Total: 80,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,DERMICEK Hermana,CRO,"Born: Apr 06, 2002",B.weight: 69.30,Group: B,1: 50,2: 53,3: 55,Total: 55,75kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 74.90,Group: A,1: 132,2: 137,3: ---,Total: 137,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 73.40,Group: A,1: 122,2: 126,3: -128,Total: 126,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,VOSTRIKOVA Mariia,RUS,"Born: Nov 02, 1993",B.weight: 71.55,Group: A,1: 125,2: -129,3: -129,Total: 125,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,PRISCEPA Natalia,MDA,"Born: Oct 17, 1989",B.weight: 74.90,Group: A,1: 114,2: 118,3: 120,Total: 120,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,WIOR Jolanta Malgorzata,POL,"Born: Sep 22, 1995",B.weight: 73.15,Group: A,1: 114,2: 118,3: 119,Total: 119,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SAARHELO Marianne Ellen Vilhelmiina,FIN,"Born: Feb 16, 1994",B.weight: 71.45,Group: A,1: 113,2: 118,3: -121,Total: 118,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BRUNELLI Carlotta,ITA,"Born: Apr 11, 1993",B.weight: 74.65,Group: B,1: 113,2: 116,3: -119,Total: 116,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,ILMARINEN Meri Tuuli Linnea,FIN,"Born: Jun 04, 1991",B.weight: 74.75,Group: A,1: 115,2: -118,3: -118,Total: 115,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SVECOVA Julie,CZE,"Born: Jun 29, 1984",B.weight: 69.50,Group: B,1: 86,2: 89,3: -92,Total: 89,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,DERMICEK Hermana,CRO,"Born: Apr 06, 2002",B.weight: 69.30,Group: B,1: 60,2: 65,3: 67,Total: 67,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,DEKHA Iryna,UKR,"Born: May 14, 1996",B.weight: 74.70,Group: A,1: -137,2: -137,3: -137,Total: ---,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,KAYA Rabia,TUR,"Born: Dec 05, 1994",B.weight: 74.85,Group: A,1: -122,2: -122,3: -122,Total: ---,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: ---,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 69.05,Group: B,1: -100,2: -100,3: -100,Total: ---,75kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 74.90,Group: A,Snatch: 115,CI&Jerk: 137,Total: 252,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,VOSTRIKOVA Mariia,RUS,"Born: Nov 02, 1993",B.weight: 71.55,Group: A,Snatch: 113,CI&Jerk: 125,Total: 238,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 73.40,Group: A,Snatch: 101,CI&Jerk: 126,Total: 227,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,PRISCEPA Natalia,MDA,"Born: Oct 17, 1989",B.weight: 74.90,Group: A,Snatch: 98,CI&Jerk: 120,Total: 218,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,WIOR Jolanta Malgorzata,POL,"Born: Sep 22, 1995",B.weight: 73.15,Group: A,Snatch: 95,CI&Jerk: 119,Total: 214,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,BRUNELLI Carlotta,ITA,"Born: Apr 11, 1993",B.weight: 74.65,Group: B,Snatch: 97,CI&Jerk: 116,Total: 213,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,ILMARINEN Meri Tuuli Linnea,FIN,"Born: Jun 04, 1991",B.weight: 74.75,Group: A,Snatch: 97,CI&Jerk: 115,Total: 212,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SAARHELO Marianne Ellen Vilhelmiina,FIN,"Born: Feb 16, 1994",B.weight: 71.45,Group: A,Snatch: 92,CI&Jerk: 118,Total: 210,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SVECOVA Julie,CZE,"Born: Jun 29, 1984",B.weight: 69.50,Group: B,Snatch: 80,CI&Jerk: 89,Total: 169,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,DERMICEK Hermana,CRO,"Born: Apr 06, 2002",B.weight: 69.30,Group: B,Snatch: 55,CI&Jerk: 67,Total: 122,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,DEKHA Iryna,UKR,"Born: May 14, 1996",B.weight: 74.70,Group: A,Snatch: 120,CI&Jerk: ---,Total: ---,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,KAYA Rabia,TUR,"Born: Dec 05, 1994",B.weight: 74.85,Group: A,Snatch: 98,CI&Jerk: ---,Total: ---,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: ---,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 69.05,Group: B,Snatch: 86,CI&Jerk: ---,Total: ---,,75kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 86.70,Group: A,1: 105,2: 108,3: 110,Total: 110,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,MSTIEVA Diana,RUS,"Born: Nov 25, 1994",B.weight: 89.70,Group: A,1: 104,2: -108,3: 109,Total: 109,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,HAKOBYAN Tatev,ARM,"Born: Mar 21, 1996",B.weight: 81.25,Group: A,1: 100,2: 105,3: -108,Total: 105,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 85.20,Group: A,1: 102,2: -106,3: -107,Total: 102,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,WIEJAK Malgorzata Antonina,POL,"Born: May 05, 1992",B.weight: 79.45,Group: A,1: 98,2: -101,3: 101,Total: 101,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SCHROTH Nina,GER,"Born: Aug 16, 1991",B.weight: 79.00,Group: A,1: 97,2: -98,3: 98,Total: 98,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 80.15,Group: B,1: 86,2: 90,3: 93,Total: 93,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 75.10,Group: B,1: -88,2: 88,3: 92,Total: 92,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SZUROMI Timea Reka,HUN,"Born: Oct 30, 1983",B.weight: 76.00,Group: B,1: 86,2: 89,3: -92,Total: 89,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 10,VENNEKILDE Marie Louise,DEN,"Born: Jan 03, 1986",B.weight: 89.90,Group: B,1: -78,2: 78,3: 83,Total: 83,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 11,KRULJAC Mihaela,CRO,"Born: May 20, 1984",B.weight: 75.45,Group: B,1: 76,2: -79,3: 79,Total: 79,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 12,SEVEN Ayse,TUR,"Born: Oct 28, 1987",B.weight: 86.55,Group: B,1: 70,2: 77,3: -80,Total: 77,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 13,BUDISA Karmen,CRO,"Born: Aug 14, 1998",B.weight: 77.30,Group: B,1: 50,2: 55,3: -60,Total: 55,90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MSTIEVA Diana,RUS,"Born: Nov 25, 1994",B.weight: 89.70,Group: A,1: 126,2: 129,3: 132,Total: 132,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 86.70,Group: A,1: 124,2: 127,3: 130,Total: 130,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 85.20,Group: A,1: 122,2: 127,3: -129,Total: 127,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,HAKOBYAN Tatev,ARM,"Born: Mar 21, 1996",B.weight: 81.25,Group: A,1: -121,2: 121,3: 125,Total: 125,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,WIEJAK Malgorzata Antonina,POL,"Born: May 05, 1992",B.weight: 79.45,Group: A,1: 120,2: 124,3: -128,Total: 124,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SCHROTH Nina,GER,"Born: Aug 16, 1991",B.weight: 79.00,Group: A,1: 112,2: 116,3: 119,Total: 119,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 80.15,Group: B,1: 112,2: 116,3: -118,Total: 116,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SZUROMI Timea Reka,HUN,"Born: Oct 30, 1983",B.weight: 76.00,Group: B,1: 107,2: -111,3: 111,Total: 111,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,SEVEN Ayse,TUR,"Born: Oct 28, 1987",B.weight: 86.55,Group: B,1: 103,2: 108,3: -111,Total: 108,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 10,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 75.10,Group: B,1: 100,2: 104,3: 107,Total: 107,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 11,KRULJAC Mihaela,CRO,"Born: May 20, 1984",B.weight: 75.45,Group: B,1: 96,2: 101,3: 103,Total: 103,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 12,VENNEKILDE Marie Louise,DEN,"Born: Jan 03, 1986",B.weight: 89.90,Group: B,1: 100,2: -104,3: -105,Total: 100,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 13,BUDISA Karmen,CRO,"Born: Aug 14, 1998",B.weight: 77.30,Group: B,1: 60,2: -66,3: -68,Total: 60,90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,MSTIEVA Diana,RUS,"Born: Nov 25, 1994",B.weight: 89.70,Group: A,Snatch: 109,CI&Jerk: 132,Total: 241,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 86.70,Group: A,Snatch: 110,CI&Jerk: 130,Total: 240,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,HAKOBYAN Tatev,ARM,"Born: Mar 21, 1996",B.weight: 81.25,Group: A,Snatch: 105,CI&Jerk: 125,Total: 230,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 85.20,Group: A,Snatch: 102,CI&Jerk: 127,Total: 229,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,WIEJAK Malgorzata Antonina,POL,"Born: May 05, 1992",B.weight: 79.45,Group: A,Snatch: 101,CI&Jerk: 124,Total: 225,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,SCHROTH Nina,GER,"Born: Aug 16, 1991",B.weight: 79.00,Group: A,Snatch: 98,CI&Jerk: 119,Total: 217,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 80.15,Group: B,Snatch: 93,CI&Jerk: 116,Total: 209,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,SZUROMI Timea Reka,HUN,"Born: Oct 30, 1983",B.weight: 76.00,Group: B,Snatch: 89,CI&Jerk: 111,Total: 200,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 75.10,Group: B,Snatch: 92,CI&Jerk: 107,Total: 199,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 10,SEVEN Ayse,TUR,"Born: Oct 28, 1987",B.weight: 86.55,Group: B,Snatch: 77,CI&Jerk: 108,Total: 185,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 11,VENNEKILDE Marie Louise,DEN,"Born: Jan 03, 1986",B.weight: 89.90,Group: B,Snatch: 83,CI&Jerk: 100,Total: 183,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 12,KRULJAC Mihaela,CRO,"Born: May 20, 1984",B.weight: 75.45,Group: B,Snatch: 79,CI&Jerk: 103,Total: 182,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 13,BUDISA Karmen,CRO,"Born: Aug 14, 1998",B.weight: 77.30,Group: B,Snatch: 55,CI&Jerk: 60,Total: 115,,90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KASHIRINA Tatiana,RUS,"Born: Jan 24, 1991",B.weight: 107.05,Group: A,1: 132,2: 137,3: -140,Total: 137,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 2,LYSENKO Anastasiia,UKR,"Born: Dec 02, 1995",B.weight: 104.00,Group: A,1: 115,2: 120,3: 125,Total: 125,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 103.00,Group: A,1: 97,2: 101,3: 104,Total: 104,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 124.50,Group: A,1: 97,2: -100,3: 101,Total: 101,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 5,MIERZEJEWSKA Aleksandra Emilia,POL,"Born: Mar 05, 1992",B.weight: 139.40,Group: A,1: 95,2: 98,3: 100,Total: 100,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 6,MAKAROVA Hanna,UKR,"Born: Oct 11, 1993",B.weight: 122.50,Group: A,1: 90,2: 96,3: -99,Total: 96,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GUNAL Melike,TUR,"Born: Apr 05, 1998",B.weight: 106.35,Group: B,1: 75,2: 82,3: 85,Total: 85,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 8,KRALOVA Tereza,CZE,"Born: Oct 22, 1989",B.weight: 90.75,Group: B,1: 73,2: 77,3: 80,Total: 80,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 9,CRNJAC Ana,CRO,"Born: Oct 03, 2002",B.weight: 90.25,Group: B,1: 50,2: 55,3: 57,Total: 57,+90kgWomen,Snatch,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KASHIRINA Tatiana,RUS,"Born: Jan 24, 1991",B.weight: 107.05,Group: A,1: 168,2: 178,3: 180,Total: 180,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 2,LYSENKO Anastasiia,UKR,"Born: Dec 02, 1995",B.weight: 104.00,Group: A,1: 136,2: 144,3: 152,Total: 152,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 103.00,Group: A,1: 120,2: 126,3: 130,Total: 130,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 4,MIERZEJEWSKA Aleksandra Emilia,POL,"Born: Mar 05, 1992",B.weight: 139.40,Group: A,1: 127,2: -135,3: -135,Total: 127,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 5,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 124.50,Group: A,1: 126,2: -134,3: -134,Total: 126,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 6,MAKAROVA Hanna,UKR,"Born: Oct 11, 1993",B.weight: 122.50,Group: A,1: 120,2: 126,3: -132,Total: 126,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GUNAL Melike,TUR,"Born: Apr 05, 1998",B.weight: 106.35,Group: B,1: 95,2: 100,3: 105,Total: 105,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 8,KRALOVA Tereza,CZE,"Born: Oct 22, 1989",B.weight: 90.75,Group: B,1: 83,2: 88,3: 92,Total: 92,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 9,CRNJAC Ana,CRO,"Born: Oct 03, 2002",B.weight: 90.25,Group: B,1: 65,2: 68,3: 70,Total: 70,+90kgWomen,CleanJerk,EUROPEAN CHAMPIONSHIPS
+Rank: 1,KASHIRINA Tatiana,RUS,"Born: Jan 24, 1991",B.weight: 107.05,Group: A,Snatch: 137,CI&Jerk: 180,Total: 317,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 2,LYSENKO Anastasiia,UKR,"Born: Dec 02, 1995",B.weight: 104.00,Group: A,Snatch: 125,CI&Jerk: 152,Total: 277,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 3,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 103.00,Group: A,Snatch: 104,CI&Jerk: 130,Total: 234,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 4,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 124.50,Group: A,Snatch: 101,CI&Jerk: 126,Total: 227,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 5,MIERZEJEWSKA Aleksandra Emilia,POL,"Born: Mar 05, 1992",B.weight: 139.40,Group: A,Snatch: 100,CI&Jerk: 127,Total: 227,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 6,MAKAROVA Hanna,UKR,"Born: Oct 11, 1993",B.weight: 122.50,Group: A,Snatch: 96,CI&Jerk: 126,Total: 222,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 7,GUNAL Melike,TUR,"Born: Apr 05, 1998",B.weight: 106.35,Group: B,Snatch: 85,CI&Jerk: 105,Total: 190,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 8,KRALOVA Tereza,CZE,"Born: Oct 22, 1989",B.weight: 90.75,Group: B,Snatch: 80,CI&Jerk: 92,Total: 172,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS
+Rank: 9,CRNJAC Ana,CRO,"Born: Oct 03, 2002",B.weight: 90.25,Group: B,Snatch: 57,CI&Jerk: 70,Total: 127,,+90kgWomen,Total,EUROPEAN CHAMPIONSHIPS

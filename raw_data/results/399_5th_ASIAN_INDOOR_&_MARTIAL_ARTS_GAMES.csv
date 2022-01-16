@@ -1,0 +1,553 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
+Rank: 1,THACH Kim Tuan,VIE,"Born: Jan 15, 1994",B.weight: 55.75,Group: A,1: 125,2: 129,3: 131,Total: 131,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,JIA Xionghui,CHN,"Born: Jan 20, 1998",B.weight: 55.98,Group: A,1: 118,2: 123,3: 128,Total: 128,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,TRAN Le Quoc Toan,VIE,"Born: Apr 05, 1989",B.weight: 55.80,Group: A,1: 120,2: 124,3: -127,Total: 124,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SON Igor,KAZ,"Born: Nov 16, 1998",B.weight: 55.94,Group: A,1: 110,2: 115,3: 120,Total: 120,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,EGODAWATTE ARACHCHIGE DON Kamal D E,SRI,"Born: Jul 12, 1988",B.weight: 55.52,Group: A,1: 108,2: 110,3: 112,Total: 112,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,HANDURDYYEV Omarguly,TKM,"Born: Dec 17, 1988",B.weight: 55.91,Group: A,1: 110,2: -114,3: -115,Total: 110,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,ALSALEEM Seraj Abdulrahim M,KSA,"Born: Feb 10, 1996",B.weight: 55.94,Group: A,1: 105,2: 110,3: -113,Total: 110,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,BUPPHAMALA Patiphan,THA,"Born: Aug 27, 1999",B.weight: 55.95,Group: A,1: 105,2: 110,3: -113,Total: 110,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TULO Manueli,FIJ,"Born: Mar 25, 1990",B.weight: 55.73,Group: A,1: 105,2: -109,3: -109,Total: 105,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.72,Group: A,1: 92,2: 97,3: 102,Total: 102,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,CHEN Chia-Lung,TPE,"Born: Mar 28, 2001",B.weight: 55.64,Group: A,1: 92,2: 95,3: -97,Total: 95,56kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,TRAN Le Quoc Toan,VIE,"Born: Apr 05, 1989",B.weight: 55.80,Group: A,1: 147,2: 152,3: -159,Total: 152,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,THACH Kim Tuan,VIE,"Born: Jan 15, 1994",B.weight: 55.75,Group: A,1: 147,2: 151,3: -153,Total: 151,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,JIA Xionghui,CHN,"Born: Jan 20, 1998",B.weight: 55.98,Group: A,1: 133,2: 138,3: 141,Total: 141,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ALSALEEM Seraj Abdulrahim M,KSA,"Born: Feb 10, 1996",B.weight: 55.94,Group: A,1: 134,2: 140,3: -142,Total: 140,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,SON Igor,KAZ,"Born: Nov 16, 1998",B.weight: 55.94,Group: A,1: 137,2: -150,3: -150,Total: 137,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,TULO Manueli,FIJ,"Born: Mar 25, 1990",B.weight: 55.73,Group: A,1: -135,2: 135,3: -140,Total: 135,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,BUPPHAMALA Patiphan,THA,"Born: Aug 27, 1999",B.weight: 55.95,Group: A,1: 127,2: 132,3: -136,Total: 132,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,HANDURDYYEV Omarguly,TKM,"Born: Dec 17, 1988",B.weight: 55.91,Group: A,1: 130,2: ---,3: ---,Total: 130,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.72,Group: A,1: 125,2: 129,3: -132,Total: 129,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,EGODAWATTE ARACHCHIGE DON Kamal D E,SRI,"Born: Jul 12, 1988",B.weight: 55.52,Group: A,1: -128,2: 128,3: -132,Total: 128,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,CHEN Chia-Lung,TPE,"Born: Mar 28, 2001",B.weight: 55.64,Group: A,1: 112,2: 115,3: -118,Total: 115,56kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,THACH Kim Tuan,VIE,"Born: Jan 15, 1994",B.weight: 55.75,Group: A,Snatch: 131,CI&Jerk: 151,Total: 282,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TRAN Le Quoc Toan,VIE,"Born: Apr 05, 1989",B.weight: 55.80,Group: A,Snatch: 124,CI&Jerk: 152,Total: 276,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,JIA Xionghui,CHN,"Born: Jan 20, 1998",B.weight: 55.98,Group: A,Snatch: 128,CI&Jerk: 141,Total: 269,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SON Igor,KAZ,"Born: Nov 16, 1998",B.weight: 55.94,Group: A,Snatch: 120,CI&Jerk: 137,Total: 257,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ALSALEEM Seraj Abdulrahim M,KSA,"Born: Feb 10, 1996",B.weight: 55.94,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,BUPPHAMALA Patiphan,THA,"Born: Aug 27, 1999",B.weight: 55.95,Group: A,Snatch: 110,CI&Jerk: 132,Total: 242,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,EGODAWATTE ARACHCHIGE DON Kamal D E,SRI,"Born: Jul 12, 1988",B.weight: 55.52,Group: A,Snatch: 112,CI&Jerk: 128,Total: 240,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,HANDURDYYEV Omarguly,TKM,"Born: Dec 17, 1988",B.weight: 55.91,Group: A,Snatch: 110,CI&Jerk: 130,Total: 240,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TULO Manueli,FIJ,"Born: Mar 25, 1990",B.weight: 55.73,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.72,Group: A,Snatch: 102,CI&Jerk: 129,Total: 231,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,CHEN Chia-Lung,TPE,"Born: Mar 28, 2001",B.weight: 55.64,Group: A,Snatch: 95,CI&Jerk: 115,Total: 210,,56kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,TRINH Van Vinh,VIE,"Born: Dec 17, 1995",B.weight: 61.77,Group: A,1: 128,2: 133,3: 136,Total: 136,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SAHETMYRADOV Meretguly,TKM,"Born: Mar 26, 1988",B.weight: 61.95,Group: A,1: 125,2: 129,3: 132,Total: 132,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,LEI Haitao,CHN,"Born: Jan 10, 1989",B.weight: 61.98,Group: A,1: 126,2: 131,3: -135,Total: 131,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,JON Ho Gyong,PRK,"Born: Jun 14, 1994",B.weight: 61.43,Group: A,1: -120,2: 120,3: 124,Total: 124,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 61.81,Group: A,1: 116,2: 121,3: -125,Total: 121,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,PURKON Muhamad,INA,"Born: Apr 23, 1990",B.weight: 61.24,Group: A,1: -120,2: 121,3: -126,Total: 121,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,ALABDULAL Abbas Salman A,KSA,"Born: Jun 09, 1991",B.weight: 61.78,Group: A,1: 115,2: 119,3: -121,Total: 119,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,ALSULAMI Faisal Khalid M,KSA,"Born: May 14, 1996",B.weight: 61.80,Group: A,1: 113,2: 117,3: -121,Total: 117,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 61.67,Group: A,1: -113,2: -113,3: 113,Total: 113,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 61.97,Group: B,1: 105,2: 109,3: -111,Total: 109,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,MOSES Ezekiel,NRU,"Born: Jul 02, 2001",B.weight: 61.45,Group: B,1: 90,2: 95,3: 97,Total: 97,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,NARANJO Julius Irvin,GUM,"Born: Jun 14, 1991",B.weight: 62.00,Group: B,1: -92,2: 92,3: 95,Total: 95,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,RAOBU Manuila,TUV,"Born: Sep 18, 2000",B.weight: 61.12,Group: B,1: 90,2: -95,3: -95,Total: 90,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,BETERO Takirua,KIR,"Born: Jan 10, 1999",B.weight: 61.58,Group: B,1: -87,2: 87,3: -92,Total: 87,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,SAKHI ZADA Shafiq Jan,AFG,"Born: Aug 07, 1991",B.weight: 60.81,Group: B,1: 70,2: 78,3: -82,Total: 78,62kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,TRINH Van Vinh,VIE,"Born: Dec 17, 1995",B.weight: 61.77,Group: A,1: 162,2: 166,3: -173,Total: 166,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,JON Ho Gyong,PRK,"Born: Jun 14, 1994",B.weight: 61.43,Group: A,1: 156,2: 162,3: -164,Total: 162,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 61.81,Group: A,1: 156,2: 160,3: -167,Total: 160,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,LEI Haitao,CHN,"Born: Jan 10, 1989",B.weight: 61.98,Group: A,1: 157,2: -163,3: -172,Total: 157,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,SAHETMYRADOV Meretguly,TKM,"Born: Mar 26, 1988",B.weight: 61.95,Group: A,1: 155,2: -159,3: -161,Total: 155,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 61.67,Group: A,1: 145,2: -151,3: 151,Total: 151,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,PURKON Muhamad,INA,"Born: Apr 23, 1990",B.weight: 61.24,Group: A,1: 145,2: -150,3: -151,Total: 145,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,ALABDULAL Abbas Salman A,KSA,"Born: Jun 09, 1991",B.weight: 61.78,Group: A,1: 140,2: -145,3: 145,Total: 145,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 61.97,Group: B,1: 135,2: 141,3: -143,Total: 141,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,MOSES Ezekiel,NRU,"Born: Jul 02, 2001",B.weight: 61.45,Group: B,1: 120,2: 125,3: -128,Total: 125,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,NARANJO Julius Irvin,GUM,"Born: Jun 14, 1991",B.weight: 62.00,Group: B,1: -120,2: -120,3: 120,Total: 120,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,RAOBU Manuila,TUV,"Born: Sep 18, 2000",B.weight: 61.12,Group: B,1: 110,2: 115,3: -118,Total: 115,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,BETERO Takirua,KIR,"Born: Jan 10, 1999",B.weight: 61.58,Group: B,1: -115,2: 115,3: -120,Total: 115,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,SAKHI ZADA Shafiq Jan,AFG,"Born: Aug 07, 1991",B.weight: 60.81,Group: B,1: 90,2: -98,3: -98,Total: 90,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,ALSULAMI Faisal Khalid M,KSA,"Born: May 14, 1996",B.weight: 61.80,Group: A,1: -132,2: -132,3: ---,Total: ---,62kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,TRINH Van Vinh,VIE,"Born: Dec 17, 1995",B.weight: 61.77,Group: A,Snatch: 136,CI&Jerk: 166,Total: 302,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,LEI Haitao,CHN,"Born: Jan 10, 1989",B.weight: 61.98,Group: A,Snatch: 131,CI&Jerk: 157,Total: 288,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SAHETMYRADOV Meretguly,TKM,"Born: Mar 26, 1988",B.weight: 61.95,Group: A,Snatch: 132,CI&Jerk: 155,Total: 287,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,JON Ho Gyong,PRK,"Born: Jun 14, 1994",B.weight: 61.43,Group: A,Snatch: 124,CI&Jerk: 162,Total: 286,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 61.81,Group: A,Snatch: 121,CI&Jerk: 160,Total: 281,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,PURKON Muhamad,INA,"Born: Apr 23, 1990",B.weight: 61.24,Group: A,Snatch: 121,CI&Jerk: 145,Total: 266,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,ALABDULAL Abbas Salman A,KSA,"Born: Jun 09, 1991",B.weight: 61.78,Group: A,Snatch: 119,CI&Jerk: 145,Total: 264,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 61.67,Group: A,Snatch: 113,CI&Jerk: 151,Total: 264,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 61.97,Group: B,Snatch: 109,CI&Jerk: 141,Total: 250,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,MOSES Ezekiel,NRU,"Born: Jul 02, 2001",B.weight: 61.45,Group: B,Snatch: 97,CI&Jerk: 125,Total: 222,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,NARANJO Julius Irvin,GUM,"Born: Jun 14, 1991",B.weight: 62.00,Group: B,Snatch: 95,CI&Jerk: 120,Total: 215,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,RAOBU Manuila,TUV,"Born: Sep 18, 2000",B.weight: 61.12,Group: B,Snatch: 90,CI&Jerk: 115,Total: 205,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,BETERO Takirua,KIR,"Born: Jan 10, 1999",B.weight: 61.58,Group: B,Snatch: 87,CI&Jerk: 115,Total: 202,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,SAKHI ZADA Shafiq Jan,AFG,"Born: Aug 07, 1991",B.weight: 60.81,Group: B,Snatch: 78,CI&Jerk: 90,Total: 168,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,ALSULAMI Faisal Khalid M,KSA,"Born: May 14, 1996",B.weight: 61.80,Group: A,Snatch: 117,CI&Jerk: ---,Total: ---,,62kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DENG Shiwei,CHN,"Born: Nov 10, 1990",B.weight: 68.91,Group: A,1: 140,2: 145,3: 148,Total: 148,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,YOKUBOV Doston,UZB,"Born: Apr 05, 1995",B.weight: 68.71,Group: A,1: 135,2: 139,3: -141,Total: 139,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALDUHAYLIB Mohsen Hussain A,KSA,"Born: May 01, 1994",B.weight: 68.88,Group: A,1: 130,2: 137,3: -139,Total: 137,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ALHUMAYD Mahmoud Mohammed S,KSA,"Born: Sep 05, 1993",B.weight: 68.88,Group: A,1: -133,2: 133,3: -137,Total: 133,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,HUDAYBERGENOV Tolkunbek,TKM,"Born: Jan 04, 1986",B.weight: 68.41,Group: A,1: 128,2: 132,3: -135,Total: 132,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,HASBI Muhamad,INA,"Born: Jul 12, 1992",B.weight: 68.63,Group: A,1: 130,2: -136,3: -136,Total: 130,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,IOANE Vaipava Nevo,SAM,"Born: Apr 14, 1988",B.weight: 68.03,Group: A,1: 120,2: -125,3: 125,Total: 125,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,SINGHA Shimul Kanti,BAN,"Born: May 01, 1986",B.weight: 68.87,Group: B,1: 110,2: -117,3: 117,Total: 117,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,KATOATAU Ruben,KIR,"Born: Feb 09, 1997",B.weight: 68.57,Group: A,1: 110,2: 115,3: -120,Total: 115,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,WAKELING Brandon Dean,AUS,"Born: Feb 02, 1994",B.weight: 68.35,Group: A,1: 114,2: -119,3: -119,Total: 114,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,KHAKBERDIEV Abdukhakim,TJK,"Born: Aug 22, 1998",B.weight: 68.67,Group: B,1: -100,2: 100,3: 107,Total: 107,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,DOGUAPE Larko,NRU,"Born: Jul 05, 2000",B.weight: 67.97,Group: B,1: 95,2: 101,3: -106,Total: 101,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,K C Prakash,NEP,"Born: Dec 12, 1999",B.weight: 67.63,Group: B,1: 95,2: 100,3: -105,Total: 100,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,MAE Leslie,SOL,"Born: Sep 11, 1998",B.weight: 68.73,Group: B,1: -90,2: 90,3: 93,Total: 93,69kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DENG Shiwei,CHN,"Born: Nov 10, 1990",B.weight: 68.91,Group: A,1: 171,2: 176,3: 179,Total: 179,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,YOKUBOV Doston,UZB,"Born: Apr 05, 1995",B.weight: 68.71,Group: A,1: 173,2: 177,3: -189,Total: 177,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALHUMAYD Mahmoud Mohammed S,KSA,"Born: Sep 05, 1993",B.weight: 68.88,Group: A,1: 171,2: 174,3: -176,Total: 174,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,HUDAYBERGENOV Tolkunbek,TKM,"Born: Jan 04, 1986",B.weight: 68.41,Group: A,1: -173,2: 173,3: -176,Total: 173,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,IOANE Vaipava Nevo,SAM,"Born: Apr 14, 1988",B.weight: 68.03,Group: A,1: -170,2: 170,3: -176,Total: 170,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,HASBI Muhamad,INA,"Born: Jul 12, 1992",B.weight: 68.63,Group: A,1: 162,2: -170,3: -170,Total: 162,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,ALDUHAYLIB Mohsen Hussain A,KSA,"Born: May 01, 1994",B.weight: 68.88,Group: A,1: -161,2: 162,3: -170,Total: 162,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,WAKELING Brandon Dean,AUS,"Born: Feb 02, 1994",B.weight: 68.35,Group: A,1: 147,2: 154,3: -160,Total: 154,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,KATOATAU Ruben,KIR,"Born: Feb 09, 1997",B.weight: 68.57,Group: A,1: 140,2: 150,3: -157,Total: 150,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,SINGHA Shimul Kanti,BAN,"Born: May 01, 1986",B.weight: 68.87,Group: B,1: 135,2: -142,3: 142,Total: 142,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,KHAKBERDIEV Abdukhakim,TJK,"Born: Aug 22, 1998",B.weight: 68.67,Group: B,1: 130,2: 136,3: -143,Total: 136,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,DOGUAPE Larko,NRU,"Born: Jul 05, 2000",B.weight: 67.97,Group: B,1: 125,2: 130,3: -134,Total: 130,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,K C Prakash,NEP,"Born: Dec 12, 1999",B.weight: 67.63,Group: B,1: 125,2: -130,3: -130,Total: 125,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,MAE Leslie,SOL,"Born: Sep 11, 1998",B.weight: 68.73,Group: B,1: -110,2: -110,3: -110,Total: ---,69kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DENG Shiwei,CHN,"Born: Nov 10, 1990",B.weight: 68.91,Group: A,Snatch: 148,CI&Jerk: 179,Total: 327,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,YOKUBOV Doston,UZB,"Born: Apr 05, 1995",B.weight: 68.71,Group: A,Snatch: 139,CI&Jerk: 177,Total: 316,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALHUMAYD Mahmoud Mohammed S,KSA,"Born: Sep 05, 1993",B.weight: 68.88,Group: A,Snatch: 133,CI&Jerk: 174,Total: 307,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,HUDAYBERGENOV Tolkunbek,TKM,"Born: Jan 04, 1986",B.weight: 68.41,Group: A,Snatch: 132,CI&Jerk: 173,Total: 305,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ALDUHAYLIB Mohsen Hussain A,KSA,"Born: May 01, 1994",B.weight: 68.88,Group: A,Snatch: 137,CI&Jerk: 162,Total: 299,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,IOANE Vaipava Nevo,SAM,"Born: Apr 14, 1988",B.weight: 68.03,Group: A,Snatch: 125,CI&Jerk: 170,Total: 295,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HASBI Muhamad,INA,"Born: Jul 12, 1992",B.weight: 68.63,Group: A,Snatch: 130,CI&Jerk: 162,Total: 292,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,WAKELING Brandon Dean,AUS,"Born: Feb 02, 1994",B.weight: 68.35,Group: A,Snatch: 114,CI&Jerk: 154,Total: 268,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,KATOATAU Ruben,KIR,"Born: Feb 09, 1997",B.weight: 68.57,Group: A,Snatch: 115,CI&Jerk: 150,Total: 265,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,SINGHA Shimul Kanti,BAN,"Born: May 01, 1986",B.weight: 68.87,Group: B,Snatch: 117,CI&Jerk: 142,Total: 259,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,KHAKBERDIEV Abdukhakim,TJK,"Born: Aug 22, 1998",B.weight: 68.67,Group: B,Snatch: 107,CI&Jerk: 136,Total: 243,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,DOGUAPE Larko,NRU,"Born: Jul 05, 2000",B.weight: 67.97,Group: B,Snatch: 101,CI&Jerk: 130,Total: 231,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,K C Prakash,NEP,"Born: Dec 12, 1999",B.weight: 67.63,Group: B,Snatch: 100,CI&Jerk: 125,Total: 225,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,MAE Leslie,SOL,"Born: Sep 11, 1998",B.weight: 68.73,Group: B,Snatch: 93,CI&Jerk: ---,Total: ---,,69kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,REJEPOV Rejepbay,TKM,"Born: Feb 23, 1992",B.weight: 76.71,Group: A,1: 155,2: 159,3: 162,Total: 162,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,KHUDAYBERGANOV Shakhzod,UZB,"Born: Apr 19, 1997",B.weight: 76.88,Group: A,1: 150,2: 155,3: -159,Total: 155,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AL-HUSSEIN Ahmed Farooq Ghulam,IRQ,"Born: Aug 15, 1990",B.weight: 76.19,Group: A,1: 140,2: 144,3: 146,Total: 146,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ARIANA I Ketut,INA,"Born: Sep 06, 1989",B.weight: 73.55,Group: A,1: 141,2: 145,3: -148,Total: 145,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,HOJAMURADOV Shohrat,TKM,"Born: Mar 25, 1993",B.weight: 76.36,Group: A,1: 140,2: 144,3: -149,Total: 144,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,HSIEH Shu-Yin,TPE,"Born: Jan 28, 1997",B.weight: 76.43,Group: A,1: 133,2: 140,3: -144,Total: 140,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,CHITRAKAN Manop,THA,"Born: Nov 04, 1997",B.weight: 76.68,Group: A,1: 125,2: 130,3: 135,Total: 135,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,ANWAR Furqan,PAK,"Born: Jun 08, 1995",B.weight: 75.08,Group: B,1: 123,2: 127,3: -130,Total: 127,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TABAROUA Taretiita Baraniko,KIR,"Born: Nov 29, 1994",B.weight: 76.43,Group: A,1: 120,2: 125,3: -130,Total: 125,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,UDIA Toua,PNG,"Born: Dec 07, 1992",B.weight: 76.93,Group: A,1: 120,2: 125,3: -130,Total: 125,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,ZABIROV Ramoiljon,TJK,"Born: Oct 21, 1994",B.weight: 76.84,Group: B,1: 115,2: -120,3: -120,Total: 115,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,VEIDREYAKI Patrick Tawake,FIJ,"Born: Nov 05, 1989",B.weight: 76.38,Group: B,1: 110,2: 115,3: -118,Total: 115,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,SHUKUROV Ilkhomjon,TJK,"Born: Aug 03, 1987",B.weight: 71.75,Group: B,1: 105,2: 110,3: -113,Total: 110,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,MAKEYEV Mikhail,KAZ,"Born: Apr 24, 1997",B.weight: 76.31,Group: A,1: -140,2: ---,3: ---,Total: ---,77kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,REJEPOV Rejepbay,TKM,"Born: Feb 23, 1992",B.weight: 76.71,Group: A,1: 185,2: 188,3: 191,Total: 191,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,KHUDAYBERGANOV Shakhzod,UZB,"Born: Apr 19, 1997",B.weight: 76.88,Group: A,1: 180,2: 187,3: -192,Total: 187,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AL-HUSSEIN Ahmed Farooq Ghulam,IRQ,"Born: Aug 15, 1990",B.weight: 76.19,Group: A,1: -177,2: -177,3: 177,Total: 177,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,HSIEH Shu-Yin,TPE,"Born: Jan 28, 1997",B.weight: 76.43,Group: A,1: -173,2: 173,3: -180,Total: 173,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ARIANA I Ketut,INA,"Born: Sep 06, 1989",B.weight: 73.55,Group: A,1: 172,2: -179,3: -179,Total: 172,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHITRAKAN Manop,THA,"Born: Nov 04, 1997",B.weight: 76.68,Group: A,1: 171,2: -177,3: -179,Total: 171,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,TABAROUA Taretiita Baraniko,KIR,"Born: Nov 29, 1994",B.weight: 76.43,Group: A,1: 165,2: 170,3: -175,Total: 170,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,UDIA Toua,PNG,"Born: Dec 07, 1992",B.weight: 76.93,Group: A,1: 165,2: 170,3: -175,Total: 170,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,HOJAMURADOV Shohrat,TKM,"Born: Mar 25, 1993",B.weight: 76.36,Group: A,1: 160,2: -170,3: -170,Total: 160,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,ANWAR Furqan,PAK,"Born: Jun 08, 1995",B.weight: 75.08,Group: B,1: 150,2: -155,3: -155,Total: 150,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,VEIDREYAKI Patrick Tawake,FIJ,"Born: Nov 05, 1989",B.weight: 76.38,Group: B,1: 140,2: -152,3: ---,Total: 140,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,ZABIROV Ramoiljon,TJK,"Born: Oct 21, 1994",B.weight: 76.84,Group: B,1: 135,2: 140,3: -147,Total: 140,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,SHUKUROV Ilkhomjon,TJK,"Born: Aug 03, 1987",B.weight: 71.75,Group: B,1: 125,2: 132,3: 137,Total: 137,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,MAKEYEV Mikhail,KAZ,"Born: Apr 24, 1997",B.weight: 76.31,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,REJEPOV Rejepbay,TKM,"Born: Feb 23, 1992",B.weight: 76.71,Group: A,Snatch: 162,CI&Jerk: 191,Total: 353,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,KHUDAYBERGANOV Shakhzod,UZB,"Born: Apr 19, 1997",B.weight: 76.88,Group: A,Snatch: 155,CI&Jerk: 187,Total: 342,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AL-HUSSEIN Ahmed Farooq Ghulam,IRQ,"Born: Aug 15, 1990",B.weight: 76.19,Group: A,Snatch: 146,CI&Jerk: 177,Total: 323,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ARIANA I Ketut,INA,"Born: Sep 06, 1989",B.weight: 73.55,Group: A,Snatch: 145,CI&Jerk: 172,Total: 317,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,HSIEH Shu-Yin,TPE,"Born: Jan 28, 1997",B.weight: 76.43,Group: A,Snatch: 140,CI&Jerk: 173,Total: 313,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHITRAKAN Manop,THA,"Born: Nov 04, 1997",B.weight: 76.68,Group: A,Snatch: 135,CI&Jerk: 171,Total: 306,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HOJAMURADOV Shohrat,TKM,"Born: Mar 25, 1993",B.weight: 76.36,Group: A,Snatch: 144,CI&Jerk: 160,Total: 304,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,TABAROUA Taretiita Baraniko,KIR,"Born: Nov 29, 1994",B.weight: 76.43,Group: A,Snatch: 125,CI&Jerk: 170,Total: 295,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,UDIA Toua,PNG,"Born: Dec 07, 1992",B.weight: 76.93,Group: A,Snatch: 125,CI&Jerk: 170,Total: 295,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,ANWAR Furqan,PAK,"Born: Jun 08, 1995",B.weight: 75.08,Group: B,Snatch: 127,CI&Jerk: 150,Total: 277,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,VEIDREYAKI Patrick Tawake,FIJ,"Born: Nov 05, 1989",B.weight: 76.38,Group: B,Snatch: 115,CI&Jerk: 140,Total: 255,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,ZABIROV Ramoiljon,TJK,"Born: Oct 21, 1994",B.weight: 76.84,Group: B,Snatch: 115,CI&Jerk: 140,Total: 255,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,SHUKUROV Ilkhomjon,TJK,"Born: Aug 03, 1987",B.weight: 71.75,Group: B,Snatch: 110,CI&Jerk: 137,Total: 247,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,MAKEYEV Mikhail,KAZ,"Born: Apr 24, 1997",B.weight: 76.31,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,ASHYROV Dayanch,TKM,"Born: Mar 30, 1994",B.weight: 84.76,Group: A,1: -160,2: 160,3: 165,Total: 165,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,ALIMOV Ulugbek,UZB,"Born: Apr 06, 1989",B.weight: 84.62,Group: A,1: -160,2: 160,3: 164,Total: 164,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALJUMAILI Safaa Rashid Mahmood,IRQ,"Born: Jan 01, 1990",B.weight: 84.60,Group: A,1: 155,2: 159,3: 161,Total: 161,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,MIRI Ali,IRI,"Born: Aug 01, 1995",B.weight: 84.71,Group: A,1: -155,2: 155,3: 160,Total: 160,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,LINDER Semen,KAZ,"Born: Aug 22, 1997",B.weight: 84.03,Group: A,1: 150,2: 155,3: -160,Total: 155,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,LOBSI Pornchai,THA,"Born: Jul 16, 1990",B.weight: 79.09,Group: A,1: 145,2: 151,3: -155,Total: 151,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,AL HAMQAN Khalil Ibrahim J,KSA,"Born: May 20, 1989",B.weight: 84.95,Group: A,1: 142,2: 147,3: 150,Total: 150,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,CHEN Hu,CHN,"Born: Mar 17, 1991",B.weight: 84.73,Group: A,1: 145,2: -150,3: 150,Total: 150,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,AN Ung,KOR,"Born: Aug 29, 1995",B.weight: 83.41,Group: B,1: 137,2: 145,3: -151,Total: 145,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,OPELOGE Don,SAM,"Born: May 13, 1999",B.weight: 83.99,Group: A,1: 137,2: 142,3: -150,Total: 142,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,KIM Yeongseop,KOR,"Born: Oct 21, 1994",B.weight: 81.53,Group: B,1: 130,2: 135,3: 140,Total: 140,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,MOUSA Malek Faed Naji,JOR,"Born: Nov 11, 1996",B.weight: 84.60,Group: B,1: 125,2: 131,3: -136,Total: 131,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,BOB Kabuati Silas,MHL,"Born: Oct 19, 1994",B.weight: 84.52,Group: B,1: -118,2: 118,3: 123,Total: 123,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 84.21,Group: B,1: 117,2: 122,3: -127,Total: 122,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,GOROSI David,SOL,"Born: Dec 29, 1988",B.weight: 84.83,Group: B,1: -118,2: 118,3: 121,Total: 121,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,ALABOUDI Khaled Awad Bahjat,JOR,"Born: May 28, 2000",B.weight: 80.34,Group: B,1: 110,2: -115,3: 115,Total: 115,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 17,VAKURUIVALU Timothy Victor Tuitoga,FIJ,"Born: Sep 16, 1999",B.weight: 83.40,Group: B,1: 100,2: 104,3: -108,Total: 104,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 18,ELIKO Vili,TUV,"Born: Sep 16, 1999",B.weight: 84.53,Group: B,1: 75,2: 80,3: -85,Total: 80,85kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,ALJUMAILI Safaa Rashid Mahmood,IRQ,"Born: Jan 01, 1990",B.weight: 84.60,Group: A,1: 199,2: 204,3: -207,Total: 204,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,MIRI Ali,IRI,"Born: Aug 01, 1995",B.weight: 84.71,Group: A,1: 195,2: 201,3: -205,Total: 201,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALIMOV Ulugbek,UZB,"Born: Apr 06, 1989",B.weight: 84.62,Group: A,1: 195,2: 200,3: -204,Total: 200,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,LOBSI Pornchai,THA,"Born: Jul 16, 1990",B.weight: 79.09,Group: A,1: 185,2: 191,3: -195,Total: 191,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ASHYROV Dayanch,TKM,"Born: Mar 30, 1994",B.weight: 84.76,Group: A,1: 187,2: 191,3: -195,Total: 191,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHEN Hu,CHN,"Born: Mar 17, 1991",B.weight: 84.73,Group: A,1: 182,2: 187,3: -193,Total: 187,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,AL HAMQAN Khalil Ibrahim J,KSA,"Born: May 20, 1989",B.weight: 84.95,Group: A,1: 176,2: 181,3: -185,Total: 181,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LINDER Semen,KAZ,"Born: Aug 22, 1997",B.weight: 84.03,Group: A,1: 175,2: -180,3: 180,Total: 180,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,OPELOGE Don,SAM,"Born: May 13, 1999",B.weight: 83.99,Group: A,1: 177,2: -182,3: -182,Total: 177,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,KIM Yeongseop,KOR,"Born: Oct 21, 1994",B.weight: 81.53,Group: B,1: 170,2: 175,3: -181,Total: 175,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,BOB Kabuati Silas,MHL,"Born: Oct 19, 1994",B.weight: 84.52,Group: B,1: 160,2: 165,3: -170,Total: 165,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,AN Ung,KOR,"Born: Aug 29, 1995",B.weight: 83.41,Group: B,1: 160,2: -167,3: -170,Total: 160,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,MOUSA Malek Faed Naji,JOR,"Born: Nov 11, 1996",B.weight: 84.60,Group: B,1: 160,2: -165,3: -165,Total: 160,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 84.21,Group: B,1: 145,2: 150,3: 155,Total: 155,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,GOROSI David,SOL,"Born: Dec 29, 1988",B.weight: 84.83,Group: B,1: -152,2: 152,3: 155,Total: 155,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,ALABOUDI Khaled Awad Bahjat,JOR,"Born: May 28, 2000",B.weight: 80.34,Group: B,1: 137,2: 142,3: 145,Total: 145,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 17,VAKURUIVALU Timothy Victor Tuitoga,FIJ,"Born: Sep 16, 1999",B.weight: 83.40,Group: B,1: 125,2: -130,3: -130,Total: 125,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 18,ELIKO Vili,TUV,"Born: Sep 16, 1999",B.weight: 84.53,Group: B,1: 105,2: -110,3: -110,Total: 105,85kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,ALJUMAILI Safaa Rashid Mahmood,IRQ,"Born: Jan 01, 1990",B.weight: 84.60,Group: A,Snatch: 161,CI&Jerk: 204,Total: 365,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,ALIMOV Ulugbek,UZB,"Born: Apr 06, 1989",B.weight: 84.62,Group: A,Snatch: 164,CI&Jerk: 200,Total: 364,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,MIRI Ali,IRI,"Born: Aug 01, 1995",B.weight: 84.71,Group: A,Snatch: 160,CI&Jerk: 201,Total: 361,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ASHYROV Dayanch,TKM,"Born: Mar 30, 1994",B.weight: 84.76,Group: A,Snatch: 165,CI&Jerk: 191,Total: 356,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,LOBSI Pornchai,THA,"Born: Jul 16, 1990",B.weight: 79.09,Group: A,Snatch: 151,CI&Jerk: 191,Total: 342,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHEN Hu,CHN,"Born: Mar 17, 1991",B.weight: 84.73,Group: A,Snatch: 150,CI&Jerk: 187,Total: 337,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,LINDER Semen,KAZ,"Born: Aug 22, 1997",B.weight: 84.03,Group: A,Snatch: 155,CI&Jerk: 180,Total: 335,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,AL HAMQAN Khalil Ibrahim J,KSA,"Born: May 20, 1989",B.weight: 84.95,Group: A,Snatch: 150,CI&Jerk: 181,Total: 331,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,OPELOGE Don,SAM,"Born: May 13, 1999",B.weight: 83.99,Group: A,Snatch: 142,CI&Jerk: 177,Total: 319,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,KIM Yeongseop,KOR,"Born: Oct 21, 1994",B.weight: 81.53,Group: B,Snatch: 140,CI&Jerk: 175,Total: 315,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,AN Ung,KOR,"Born: Aug 29, 1995",B.weight: 83.41,Group: B,Snatch: 145,CI&Jerk: 160,Total: 305,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,MOUSA Malek Faed Naji,JOR,"Born: Nov 11, 1996",B.weight: 84.60,Group: B,Snatch: 131,CI&Jerk: 160,Total: 291,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,BOB Kabuati Silas,MHL,"Born: Oct 19, 1994",B.weight: 84.52,Group: B,Snatch: 123,CI&Jerk: 165,Total: 288,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 84.21,Group: B,Snatch: 122,CI&Jerk: 155,Total: 277,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,GOROSI David,SOL,"Born: Dec 29, 1988",B.weight: 84.83,Group: B,Snatch: 121,CI&Jerk: 155,Total: 276,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,ALABOUDI Khaled Awad Bahjat,JOR,"Born: May 28, 2000",B.weight: 80.34,Group: B,Snatch: 115,CI&Jerk: 145,Total: 260,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 17,VAKURUIVALU Timothy Victor Tuitoga,FIJ,"Born: Sep 16, 1999",B.weight: 83.40,Group: B,Snatch: 104,CI&Jerk: 125,Total: 229,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 18,ELIKO Vili,TUV,"Born: Sep 16, 1999",B.weight: 84.53,Group: B,Snatch: 80,CI&Jerk: 105,Total: 185,,85kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,MORADI Sohrab,IRI,"Born: Sep 22, 1988",B.weight: 93.95,Group: A,1: 176,2: 181,3: 185,Total: 185,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SOBIROV Farkhodbek,UZB,"Born: Sep 10, 1997",B.weight: 94.00,Group: A,1: 175,2: -180,3: 181,Total: 181,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,LIU Hao,CHN,"Born: Jul 20, 1989",B.weight: 93.38,Group: A,1: -168,2: 172,3: 176,Total: 176,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ELBAKH Fares Ibrahim E. H.,QAT,"Born: Jun 04, 1998",B.weight: 90.62,Group: A,1: 161,2: 166,3: 168,Total: 168,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,GOLUSHKO Ivan,KAZ,"Born: Nov 29, 1995",B.weight: 92.56,Group: A,1: 150,2: 160,3: -162,Total: 160,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,KIM Insu,KOR,"Born: Oct 19, 1993",B.weight: 93.29,Group: A,1: 150,2: -160,3: 160,Total: 160,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,RAMAZANOV Ruslan,TKM,"Born: Feb 10, 1987",B.weight: 93.31,Group: A,1: 145,2: -153,3: 154,Total: 154,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LEUO Siaosi,SAM,"Born: Oct 26, 1992",B.weight: 93.21,Group: A,1: 150,2: -154,3: 154,Total: 154,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 93.48,Group: A,1: 143,2: 148,3: 153,Total: 153,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,RATHORE Usman Amjad,PAK,"Born: Jan 10, 1987",B.weight: 93.58,Group: A,1: 143,2: 147,3: 152,Total: 152,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,WANG Wei-Cheng,TPE,"Born: Oct 28, 1998",B.weight: 93.69,Group: B,1: 130,2: 140,3: -145,Total: 140,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 93.39,Group: B,1: 135,2: 140,3: -145,Total: 140,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 93.08,Group: B,1: 125,2: 130,3: 135,Total: 135,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,USMONDZHONI Nurullo,TJK,"Born: Jun 21, 1991",B.weight: 93.09,Group: B,1: 115,2: -120,3: -120,Total: 115,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,HOLM Brandon James,GUM,"Born: Jul 12, 1993",B.weight: 93.36,Group: B,1: 105,2: -108,3: 108,Total: 108,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 93.94,Group: B,1: 100,2: 107,3: -115,Total: 107,94kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,MORADI Sohrab,IRI,"Born: Sep 22, 1988",B.weight: 93.95,Group: A,1: -220,2: 220,3: 228,Total: 228,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,LIU Hao,CHN,"Born: Jul 20, 1989",B.weight: 93.38,Group: A,1: 205,2: 211,3: -216,Total: 211,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ELBAKH Fares Ibrahim E. H.,QAT,"Born: Jun 04, 1998",B.weight: 90.62,Group: A,1: 205,2: 211,3: -215,Total: 211,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SOBIROV Farkhodbek,UZB,"Born: Sep 10, 1997",B.weight: 94.00,Group: A,1: 205,2: 210,3: -215,Total: 210,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,KIM Insu,KOR,"Born: Oct 19, 1993",B.weight: 93.29,Group: A,1: 185,2: 190,3: 197,Total: 197,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 93.48,Group: A,1: 185,2: 195,3: -205,Total: 195,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,GOLUSHKO Ivan,KAZ,"Born: Nov 29, 1995",B.weight: 92.56,Group: A,1: 180,2: 185,3: 190,Total: 190,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LEUO Siaosi,SAM,"Born: Oct 26, 1992",B.weight: 93.21,Group: A,1: -187,2: 187,3: -200,Total: 187,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 93.39,Group: B,1: 175,2: 183,3: -190,Total: 183,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,RATHORE Usman Amjad,PAK,"Born: Jan 10, 1987",B.weight: 93.58,Group: A,1: -175,2: 175,3: 181,Total: 181,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,RAMAZANOV Ruslan,TKM,"Born: Feb 10, 1987",B.weight: 93.31,Group: A,1: -175,2: 175,3: -184,Total: 175,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,WANG Wei-Cheng,TPE,"Born: Oct 28, 1998",B.weight: 93.69,Group: B,1: 165,2: -172,3: -175,Total: 165,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 93.08,Group: B,1: 155,2: 160,3: -172,Total: 160,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,USMONDZHONI Nurullo,TJK,"Born: Jun 21, 1991",B.weight: 93.09,Group: B,1: 140,2: 145,3: 150,Total: 150,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 93.94,Group: B,1: 135,2: 142,3: -150,Total: 142,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,HOLM Brandon James,GUM,"Born: Jul 12, 1993",B.weight: 93.36,Group: B,1: 125,2: 130,3: 133,Total: 133,94kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,MORADI Sohrab,IRI,"Born: Sep 22, 1988",B.weight: 93.95,Group: A,Snatch: 185,CI&Jerk: 228,Total: 413,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SOBIROV Farkhodbek,UZB,"Born: Sep 10, 1997",B.weight: 94.00,Group: A,Snatch: 181,CI&Jerk: 210,Total: 391,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,LIU Hao,CHN,"Born: Jul 20, 1989",B.weight: 93.38,Group: A,Snatch: 176,CI&Jerk: 211,Total: 387,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ELBAKH Fares Ibrahim E. H.,QAT,"Born: Jun 04, 1998",B.weight: 90.62,Group: A,Snatch: 168,CI&Jerk: 211,Total: 379,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,KIM Insu,KOR,"Born: Oct 19, 1993",B.weight: 93.29,Group: A,Snatch: 160,CI&Jerk: 197,Total: 357,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,GOLUSHKO Ivan,KAZ,"Born: Nov 29, 1995",B.weight: 92.56,Group: A,Snatch: 160,CI&Jerk: 190,Total: 350,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 93.48,Group: A,Snatch: 153,CI&Jerk: 195,Total: 348,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LEUO Siaosi,SAM,"Born: Oct 26, 1992",B.weight: 93.21,Group: A,Snatch: 154,CI&Jerk: 187,Total: 341,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,RATHORE Usman Amjad,PAK,"Born: Jan 10, 1987",B.weight: 93.58,Group: A,Snatch: 152,CI&Jerk: 181,Total: 333,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,RAMAZANOV Ruslan,TKM,"Born: Feb 10, 1987",B.weight: 93.31,Group: A,Snatch: 154,CI&Jerk: 175,Total: 329,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 93.39,Group: B,Snatch: 140,CI&Jerk: 183,Total: 323,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,WANG Wei-Cheng,TPE,"Born: Oct 28, 1998",B.weight: 93.69,Group: B,Snatch: 140,CI&Jerk: 165,Total: 305,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 93.08,Group: B,Snatch: 135,CI&Jerk: 160,Total: 295,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 14,USMONDZHONI Nurullo,TJK,"Born: Jun 21, 1991",B.weight: 93.09,Group: B,Snatch: 115,CI&Jerk: 150,Total: 265,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 15,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 93.94,Group: B,Snatch: 107,CI&Jerk: 142,Total: 249,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 16,HOLM Brandon James,GUM,"Born: Jul 12, 1993",B.weight: 93.36,Group: B,Snatch: 108,CI&Jerk: 133,Total: 241,,94kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,EFREMOV Ivan,UZB,"Born: Mar 09, 1986",B.weight: 104.79,Group: A,1: 185,2: 190,3: -195,Total: 190,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,HASHEMI Ali,IRI,"Born: Nov 01, 1991",B.weight: 104.00,Group: A,1: 175,2: 181,3: -186,Total: 181,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SOLEYMANI Alireza,IRI,"Born: Feb 17, 1996",B.weight: 104.79,Group: A,1: 175,2: 181,3: -186,Total: 181,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ALAIFURI Salwan Jasim Abbood,IRQ,"Born: Sep 26, 1991",B.weight: 104.38,Group: A,1: 176,2: -180,3: -180,Total: 176,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,BERSANOV Ibragim,KAZ,"Born: Oct 25, 1992",B.weight: 104.81,Group: A,1: 165,2: 170,3: -176,Total: 170,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,MAO Sanele,SAM,"Born: Sep 09, 1985",B.weight: 102.96,Group: A,1: -145,2: 145,3: 152,Total: 152,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,KANRAWANGCHAI Tinnaphop,THA,"Born: Jul 12, 1995",B.weight: 104.63,Group: A,1: 145,2: 150,3: -155,Total: 150,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,BARREDO Ridge Nathan Richard,AUS,"Born: Oct 06, 1995",B.weight: 100.22,Group: B,1: 138,2: 142,3: 146,Total: 146,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,AKHTER Jamil,PAK,"Born: Mar 15, 1988",B.weight: 103.57,Group: A,1: 140,2: 144,3: -147,Total: 144,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 101.86,Group: B,1: 130,2: 135,3: -140,Total: 135,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,LYDEMENT Matthew Ryan,AUS,"Born: Jan 15, 1994",B.weight: 102.75,Group: B,1: -135,2: 135,3: -140,Total: 135,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,ALKHAWALDEH Raad Khalaf Talal,JOR,"Born: Nov 25, 1993",B.weight: 99.47,Group: B,1: 125,2: 130,3: -135,Total: 130,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.41,Group: B,1: 120,2: -135,3: -135,Total: 120,105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,EFREMOV Ivan,UZB,"Born: Mar 09, 1986",B.weight: 104.79,Group: A,1: 210,2: 217,3: 221,Total: 221,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,HASHEMI Ali,IRI,"Born: Nov 01, 1991",B.weight: 104.00,Group: A,1: 212,2: 220,3: -231,Total: 220,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALAIFURI Salwan Jasim Abbood,IRQ,"Born: Sep 26, 1991",B.weight: 104.38,Group: A,1: 216,2: 219,3: -226,Total: 219,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SOLEYMANI Alireza,IRI,"Born: Feb 17, 1996",B.weight: 104.79,Group: A,1: 210,2: -218,3: -218,Total: 210,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,MAO Sanele,SAM,"Born: Sep 09, 1985",B.weight: 102.96,Group: A,1: 185,2: 191,3: 200,Total: 200,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,BERSANOV Ibragim,KAZ,"Born: Oct 25, 1992",B.weight: 104.81,Group: A,1: 190,2: -195,3: 200,Total: 200,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,KANRAWANGCHAI Tinnaphop,THA,"Born: Jul 12, 1995",B.weight: 104.63,Group: A,1: 185,2: -190,3: -190,Total: 185,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 101.86,Group: B,1: 175,2: 185,3: -193,Total: 185,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BARREDO Ridge Nathan Richard,AUS,"Born: Oct 06, 1995",B.weight: 100.22,Group: B,1: 175,2: 181,3: -186,Total: 181,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.41,Group: B,1: 150,2: 165,3: 175,Total: 175,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,AKHTER Jamil,PAK,"Born: Mar 15, 1988",B.weight: 103.57,Group: A,1: -170,2: 170,3: 175,Total: 175,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,LYDEMENT Matthew Ryan,AUS,"Born: Jan 15, 1994",B.weight: 102.75,Group: B,1: 160,2: 165,3: -170,Total: 165,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,ALKHAWALDEH Raad Khalaf Talal,JOR,"Born: Nov 25, 1993",B.weight: 99.47,Group: B,1: 155,2: -160,3: -160,Total: 155,105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,EFREMOV Ivan,UZB,"Born: Mar 09, 1986",B.weight: 104.79,Group: A,Snatch: 190,CI&Jerk: 221,Total: 411,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,HASHEMI Ali,IRI,"Born: Nov 01, 1991",B.weight: 104.00,Group: A,Snatch: 181,CI&Jerk: 220,Total: 401,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ALAIFURI Salwan Jasim Abbood,IRQ,"Born: Sep 26, 1991",B.weight: 104.38,Group: A,Snatch: 176,CI&Jerk: 219,Total: 395,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SOLEYMANI Alireza,IRI,"Born: Feb 17, 1996",B.weight: 104.79,Group: A,Snatch: 181,CI&Jerk: 210,Total: 391,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,BERSANOV Ibragim,KAZ,"Born: Oct 25, 1992",B.weight: 104.81,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,MAO Sanele,SAM,"Born: Sep 09, 1985",B.weight: 102.96,Group: A,Snatch: 152,CI&Jerk: 200,Total: 352,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,KANRAWANGCHAI Tinnaphop,THA,"Born: Jul 12, 1995",B.weight: 104.63,Group: A,Snatch: 150,CI&Jerk: 185,Total: 335,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,AKHTER Jamil,PAK,"Born: Mar 15, 1988",B.weight: 103.57,Group: A,Snatch: 144,CI&Jerk: 175,Total: 319,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BARREDO Ridge Nathan Richard,AUS,"Born: Oct 06, 1995",B.weight: 100.22,Group: B,Snatch: 146,CI&Jerk: 181,Total: 327,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 101.86,Group: B,Snatch: 135,CI&Jerk: 185,Total: 320,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,LYDEMENT Matthew Ryan,AUS,"Born: Jan 15, 1994",B.weight: 102.75,Group: B,Snatch: 135,CI&Jerk: 165,Total: 300,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.41,Group: B,Snatch: 120,CI&Jerk: 175,Total: 295,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 13,ALKHAWALDEH Raad Khalaf Talal,JOR,"Born: Nov 25, 1993",B.weight: 99.47,Group: B,Snatch: 130,CI&Jerk: 155,Total: 285,,105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DJANGABAEV Rustam,UZB,"Born: Aug 25, 1993",B.weight: 148.10,Group: A,1: 190,2: 195,3: 199,Total: 199,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TEYMOURI Homayoun,IRI,"Born: Aug 11, 1994",B.weight: 138.49,Group: A,1: -188,2: 190,3: 195,Total: 195,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,TOYCHYYEV Hojamuhammet,TKM,"Born: Jan 16, 1992",B.weight: 144.46,Group: A,1: 185,2: 192,3: -199,Total: 192,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ABUBAKAROV Selimkhan,KAZ,"Born: Feb 18, 1997",B.weight: 162.66,Group: A,1: 180,2: 185,3: -190,Total: 185,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,LUI Lauititi,SAM,"Born: Dec 04, 1995",B.weight: 140.21,Group: A,1: 165,2: 173,3: 180,Total: 180,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DING Fengshan,CHN,"Born: Jan 28, 2001",B.weight: 159.60,Group: A,1: 165,2: 171,3: 175,Total: 175,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 115.96,Group: A,1: 140,2: -150,3: 150,Total: 150,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Born: Aug 09, 1993",B.weight: 142.54,Group: A,1: 130,2: -136,3: 139,Total: 139,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,1: 115,2: 125,3: -130,Total: 125,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,LANGI Sateki,TGA,"Born: Apr 06, 1989",B.weight: 106.79,Group: A,1: 110,2: -116,3: -119,Total: 110,+105kgMen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DJANGABAEV Rustam,UZB,"Born: Aug 25, 1993",B.weight: 148.10,Group: A,1: 230,2: 236,3: 243,Total: 243,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TOYCHYYEV Hojamuhammet,TKM,"Born: Jan 16, 1992",B.weight: 144.46,Group: A,1: 230,2: 235,3: 239,Total: 239,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,TEYMOURI Homayoun,IRI,"Born: Aug 11, 1994",B.weight: 138.49,Group: A,1: -225,2: 226,3: 235,Total: 235,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ABUBAKAROV Selimkhan,KAZ,"Born: Feb 18, 1997",B.weight: 162.66,Group: A,1: 220,2: 225,3: 230,Total: 230,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,LUI Lauititi,SAM,"Born: Dec 04, 1995",B.weight: 140.21,Group: A,1: 210,2: -220,3: -220,Total: 210,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DING Fengshan,CHN,"Born: Jan 28, 2001",B.weight: 159.60,Group: A,1: 195,2: 202,3: 205,Total: 205,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 115.96,Group: A,1: 180,2: -188,3: -190,Total: 180,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Born: Aug 09, 1993",B.weight: 142.54,Group: A,1: 168,2: 176,3: 180,Total: 180,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,1: 150,2: 155,3: 160,Total: 160,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,LANGI Sateki,TGA,"Born: Apr 06, 1989",B.weight: 106.79,Group: A,1: 140,2: -153,3: -153,Total: 140,+105kgMen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,DJANGABAEV Rustam,UZB,"Born: Aug 25, 1993",B.weight: 148.10,Group: A,Snatch: 199,CI&Jerk: 243,Total: 442,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TOYCHYYEV Hojamuhammet,TKM,"Born: Jan 16, 1992",B.weight: 144.46,Group: A,Snatch: 192,CI&Jerk: 239,Total: 431,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,TEYMOURI Homayoun,IRI,"Born: Aug 11, 1994",B.weight: 138.49,Group: A,Snatch: 195,CI&Jerk: 235,Total: 430,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,ABUBAKAROV Selimkhan,KAZ,"Born: Feb 18, 1997",B.weight: 162.66,Group: A,Snatch: 185,CI&Jerk: 230,Total: 415,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,LUI Lauititi,SAM,"Born: Dec 04, 1995",B.weight: 140.21,Group: A,Snatch: 180,CI&Jerk: 210,Total: 390,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DING Fengshan,CHN,"Born: Jan 28, 2001",B.weight: 159.60,Group: A,Snatch: 175,CI&Jerk: 205,Total: 380,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 115.96,Group: A,Snatch: 150,CI&Jerk: 180,Total: 330,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Born: Aug 09, 1993",B.weight: 142.54,Group: A,Snatch: 139,CI&Jerk: 180,Total: 319,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,LANGI Sateki,TGA,"Born: Apr 06, 1989",B.weight: 106.79,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,+105kgMen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,VUONG Thi Huyen,VIE,"Born: Jun 22, 1992",B.weight: 47.72,Group: A,1: 79,2: 83,3: 85,Total: 85,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DZHUMABAYEVA Yulduz,TKM,"Born: Apr 22, 1998",B.weight: 47.99,Group: A,1: 78,2: 80,3: 82,Total: 82,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,XIAO Huiying,CHN,"Born: Apr 25, 1995",B.weight: 47.88,Group: A,1: 80,2: -84,3: -84,Total: 80,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 47.95,Group: A,1: 75,2: 80,3: -84,Total: 80,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,NGUYEN Thi Thuy,VIE,"Born: Aug 23, 1990",B.weight: 47.97,Group: A,1: -78,2: 78,3: -81,Total: 78,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,NANTHAWONG Chiraphan,THA,"Born: Aug 17, 1999",B.weight: 47.44,Group: A,1: 73,2: -76,3: 76,Total: 76,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,TOGOEVA Makhliyo,UZB,"Born: Jan 07, 1992",B.weight: 47.92,Group: A,1: 70,2: 73,3: -75,Total: 73,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,INDRIYANI Lisa,INA,"Born: Oct 03, 1996",B.weight: 46.88,Group: A,1: -71,2: -73,3: 73,Total: 73,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,TOUA Thelma Mea,PNG,"Born: Mar 30, 1991",B.weight: 47.66,Group: A,1: 65,2: 69,3: -72,Total: 69,48kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,XIAO Huiying,CHN,"Born: Apr 25, 1995",B.weight: 47.88,Group: A,1: 105,2: 107,3: 110,Total: 110,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DZHUMABAYEVA Yulduz,TKM,"Born: Apr 22, 1998",B.weight: 47.99,Group: A,1: 100,2: 105,3: 107,Total: 107,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,VUONG Thi Huyen,VIE,"Born: Jun 22, 1992",B.weight: 47.72,Group: A,1: 98,2: 101,3: -105,Total: 101,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 47.95,Group: A,1: 98,2: 101,3: -107,Total: 101,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,NANTHAWONG Chiraphan,THA,"Born: Aug 17, 1999",B.weight: 47.44,Group: A,1: 95,2: -100,3: -100,Total: 95,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,TOGOEVA Makhliyo,UZB,"Born: Jan 07, 1992",B.weight: 47.92,Group: A,1: 90,2: 93,3: -96,Total: 93,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,INDRIYANI Lisa,INA,"Born: Oct 03, 1996",B.weight: 46.88,Group: A,1: -91,2: 91,3: -96,Total: 91,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,TOUA Thelma Mea,PNG,"Born: Mar 30, 1991",B.weight: 47.66,Group: A,1: 85,2: 89,3: -91,Total: 89,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,NGUYEN Thi Thuy,VIE,"Born: Aug 23, 1990",B.weight: 47.97,Group: A,1: -107,2: -110,3: -110,Total: ---,48kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,XIAO Huiying,CHN,"Born: Apr 25, 1995",B.weight: 47.88,Group: A,Snatch: 80,CI&Jerk: 110,Total: 190,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DZHUMABAYEVA Yulduz,TKM,"Born: Apr 22, 1998",B.weight: 47.99,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,VUONG Thi Huyen,VIE,"Born: Jun 22, 1992",B.weight: 47.72,Group: A,Snatch: 85,CI&Jerk: 101,Total: 186,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 47.95,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,NANTHAWONG Chiraphan,THA,"Born: Aug 17, 1999",B.weight: 47.44,Group: A,Snatch: 76,CI&Jerk: 95,Total: 171,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,TOGOEVA Makhliyo,UZB,"Born: Jan 07, 1992",B.weight: 47.92,Group: A,Snatch: 73,CI&Jerk: 93,Total: 166,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,INDRIYANI Lisa,INA,"Born: Oct 03, 1996",B.weight: 46.88,Group: A,Snatch: 73,CI&Jerk: 91,Total: 164,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,TOUA Thelma Mea,PNG,"Born: Mar 30, 1991",B.weight: 47.66,Group: A,Snatch: 69,CI&Jerk: 89,Total: 158,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,NGUYEN Thi Thuy,VIE,"Born: Aug 23, 1990",B.weight: 47.97,Group: A,Snatch: 78,CI&Jerk: ---,Total: ---,,48kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LIAO Qiuyun,CHN,"Born: Jul 13, 1995",B.weight: 52.69,Group: A,1: 85,2: 90,3: 93,Total: 93,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DIAZ Hidilyn,PHI,"Born: Feb 20, 1991",B.weight: 52.85,Group: A,1: 85,2: 90,3: -93,Total: 90,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SHERMETOVA Kristina,TKM,"Born: May 25, 1993",B.weight: 52.68,Group: A,1: 83,2: 86,3: 89,Total: 89,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,KAEWKHONG Supattra,THA,"Born: Mar 11, 1996",B.weight: 52.17,Group: A,1: 80,2: 83,3: 86,Total: 86,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,KHAMBAO Surodchana,THA,"Born: Dec 23, 1999",B.weight: 52.69,Group: A,1: 75,2: 80,3: -84,Total: 80,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 53.00,Group: A,1: 74,2: 78,3: -81,Total: 78,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,SAFITRI Dewi,INA,"Born: Feb 10, 1993",B.weight: 52.65,Group: A,1: 75,2: -80,3: -80,Total: 75,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,CHOU Yuan-Tzu,TPE,"Born: Jan 30, 2002",B.weight: 52.77,Group: A,1: 65,2: 70,3: -73,Total: 70,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,LIFU Mary Kini,SOL,"Born: Oct 15, 1994",B.weight: 52.72,Group: A,1: 67,2: 70,3: -73,Total: 70,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,CHAKMA Fullapati,BAN,"Born: Jun 05, 1996",B.weight: 52.71,Group: A,1: -61,2: 61,3: -64,Total: 61,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,MUDUNAVOCE Arieta,FIJ,"Born: Jan 29, 1993",B.weight: 51.27,Group: A,1: -55,2: 55,3: -58,Total: 55,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 12,AKUA Liebon,NRU,"Born: Mar 25, 1998",B.weight: 52.63,Group: A,1: 47,2: 52,3: -55,Total: 52,53kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LIAO Qiuyun,CHN,"Born: Jul 13, 1995",B.weight: 52.69,Group: A,1: 110,2: 115,3: ---,Total: 115,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DIAZ Hidilyn,PHI,"Born: Feb 20, 1991",B.weight: 52.85,Group: A,1: 110,2: -114,3: 114,Total: 114,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 53.00,Group: A,1: 100,2: 104,3: 108,Total: 108,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SHERMETOVA Kristina,TKM,"Born: May 25, 1993",B.weight: 52.68,Group: A,1: 107,2: -112,3: -112,Total: 107,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,KAEWKHONG Supattra,THA,"Born: Mar 11, 1996",B.weight: 52.17,Group: A,1: 102,2: -107,3: 107,Total: 107,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,KHAMBAO Surodchana,THA,"Born: Dec 23, 1999",B.weight: 52.69,Group: A,1: 95,2: 100,3: 105,Total: 105,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,SAFITRI Dewi,INA,"Born: Feb 10, 1993",B.weight: 52.65,Group: A,1: 100,2: -104,3: -104,Total: 100,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LIFU Mary Kini,SOL,"Born: Oct 15, 1994",B.weight: 52.72,Group: A,1: -89,2: -89,3: 89,Total: 89,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,CHOU Yuan-Tzu,TPE,"Born: Jan 30, 2002",B.weight: 52.77,Group: A,1: 85,2: -90,3: -90,Total: 85,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,MUDUNAVOCE Arieta,FIJ,"Born: Jan 29, 1993",B.weight: 51.27,Group: A,1: 70,2: -74,3: -74,Total: 70,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,AKUA Liebon,NRU,"Born: Mar 25, 1998",B.weight: 52.63,Group: A,1: 55,2: 60,3: -66,Total: 60,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,CHAKMA Fullapati,BAN,"Born: Jun 05, 1996",B.weight: 52.71,Group: A,1: -80,2: -80,3: -80,Total: ---,53kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LIAO Qiuyun,CHN,"Born: Jul 13, 1995",B.weight: 52.69,Group: A,Snatch: 93,CI&Jerk: 115,Total: 208,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,DIAZ Hidilyn,PHI,"Born: Feb 20, 1991",B.weight: 52.85,Group: A,Snatch: 90,CI&Jerk: 114,Total: 204,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SHERMETOVA Kristina,TKM,"Born: May 25, 1993",B.weight: 52.68,Group: A,Snatch: 89,CI&Jerk: 107,Total: 196,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,KAEWKHONG Supattra,THA,"Born: Mar 11, 1996",B.weight: 52.17,Group: A,Snatch: 86,CI&Jerk: 107,Total: 193,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 53.00,Group: A,Snatch: 78,CI&Jerk: 108,Total: 186,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,KHAMBAO Surodchana,THA,"Born: Dec 23, 1999",B.weight: 52.69,Group: A,Snatch: 80,CI&Jerk: 105,Total: 185,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,SAFITRI Dewi,INA,"Born: Feb 10, 1993",B.weight: 52.65,Group: A,Snatch: 75,CI&Jerk: 100,Total: 175,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,LIFU Mary Kini,SOL,"Born: Oct 15, 1994",B.weight: 52.72,Group: A,Snatch: 70,CI&Jerk: 89,Total: 159,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,CHOU Yuan-Tzu,TPE,"Born: Jan 30, 2002",B.weight: 52.77,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,MUDUNAVOCE Arieta,FIJ,"Born: Jan 29, 1993",B.weight: 51.27,Group: A,Snatch: 55,CI&Jerk: 70,Total: 125,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,AKUA Liebon,NRU,"Born: Mar 25, 1998",B.weight: 52.63,Group: A,Snatch: 52,CI&Jerk: 60,Total: 112,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,CHAKMA Fullapati,BAN,"Born: Jun 05, 1996",B.weight: 52.71,Group: A,Snatch: 61,CI&Jerk: ---,Total: ---,,53kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LUO Xiaomin,CHN,"Born: Nov 14, 1999",B.weight: 57.82,Group: A,1: 93,2: 96,3: 100,Total: 100,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,NABIEVA Muattar,UZB,"Born: Jun 02, 1996",B.weight: 57.38,Group: A,1: -90,2: 90,3: 94,Total: 94,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,JAGADDHITA Acchedya,INA,"Born: May 12, 1997",B.weight: 57.41,Group: A,1: 88,2: 91,3: -94,Total: 91,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SADUAKASSOVA Saule,KAZ,"Born: Aug 04, 1993",B.weight: 57.48,Group: A,1: 83,2: 86,3: 89,Total: 89,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 57.66,Group: A,1: 78,2: -83,3: 83,Total: 83,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DELOS SANTOS Ma Dessa,PHI,"Born: Nov 25, 1999",B.weight: 57.18,Group: A,1: 76,2: 80,3: -83,Total: 80,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,BERDYYEVA Bagul,TKM,"Born: May 18, 1995",B.weight: 54.99,Group: A,1: 68,2: 71,3: 74,Total: 74,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,SUMAGAYSAY Jacinta Irene Untalan,GUM,"Born: Sep 12, 1990",B.weight: 57.60,Group: A,1: 68,2: -71,3: -71,Total: 68,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,SHRESTHA Kamala,NEP,"Born: Jan 17, 1997",B.weight: 57.47,Group: A,1: 65,2: -68,3: 68,Total: 68,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,MARETA Maria,FIJ,"Born: Mar 30, 2001",B.weight: 57.87,Group: A,1: -60,2: 60,3: 65,Total: 65,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,JUMABAYEVA Nilufar,TKM,"Born: Nov 12, 2000",B.weight: 56.57,Group: A,1: 62,2: -65,3: 65,Total: 65,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 57.55,Group: A,1: -80,2: -83,3: -83,Total: ---,58kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LUO Xiaomin,CHN,"Born: Nov 14, 1999",B.weight: 57.82,Group: A,1: 113,2: 117,3: 122,Total: 122,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,NABIEVA Muattar,UZB,"Born: Jun 02, 1996",B.weight: 57.38,Group: A,1: 110,2: 114,3: 118,Total: 118,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,JAGADDHITA Acchedya,INA,"Born: May 12, 1997",B.weight: 57.41,Group: A,1: 110,2: 113,3: -118,Total: 113,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SADUAKASSOVA Saule,KAZ,"Born: Aug 04, 1993",B.weight: 57.48,Group: A,1: 108,2: 113,3: -116,Total: 113,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 57.66,Group: A,1: 100,2: 104,3: -110,Total: 104,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DELOS SANTOS Ma Dessa,PHI,"Born: Nov 25, 1999",B.weight: 57.18,Group: A,1: 96,2: 100,3: 104,Total: 104,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,BERDYYEVA Bagul,TKM,"Born: May 18, 1995",B.weight: 54.99,Group: A,1: 87,2: 91,3: -95,Total: 91,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,SUMAGAYSAY Jacinta Irene Untalan,GUM,"Born: Sep 12, 1990",B.weight: 57.60,Group: A,1: -88,2: 88,3: 90,Total: 90,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,JUMABAYEVA Nilufar,TKM,"Born: Nov 12, 2000",B.weight: 56.57,Group: A,1: 77,2: 80,3: 83,Total: 83,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,SHRESTHA Kamala,NEP,"Born: Jan 17, 1997",B.weight: 57.47,Group: A,1: 80,2: -86,3: -86,Total: 80,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,MARETA Maria,FIJ,"Born: Mar 30, 2001",B.weight: 57.87,Group: A,1: 73,2: 78,3: -81,Total: 78,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 57.55,Group: A,1: ---,2: ---,3: ---,Total: ---,58kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,LUO Xiaomin,CHN,"Born: Nov 14, 1999",B.weight: 57.82,Group: A,Snatch: 100,CI&Jerk: 122,Total: 222,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,NABIEVA Muattar,UZB,"Born: Jun 02, 1996",B.weight: 57.38,Group: A,Snatch: 94,CI&Jerk: 118,Total: 212,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,JAGADDHITA Acchedya,INA,"Born: May 12, 1997",B.weight: 57.41,Group: A,Snatch: 91,CI&Jerk: 113,Total: 204,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,SADUAKASSOVA Saule,KAZ,"Born: Aug 04, 1993",B.weight: 57.48,Group: A,Snatch: 89,CI&Jerk: 113,Total: 202,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 57.66,Group: A,Snatch: 83,CI&Jerk: 104,Total: 187,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,DELOS SANTOS Ma Dessa,PHI,"Born: Nov 25, 1999",B.weight: 57.18,Group: A,Snatch: 80,CI&Jerk: 104,Total: 184,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,BERDYYEVA Bagul,TKM,"Born: May 18, 1995",B.weight: 54.99,Group: A,Snatch: 74,CI&Jerk: 91,Total: 165,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,SUMAGAYSAY Jacinta Irene Untalan,GUM,"Born: Sep 12, 1990",B.weight: 57.60,Group: A,Snatch: 68,CI&Jerk: 90,Total: 158,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,SHRESTHA Kamala,NEP,"Born: Jan 17, 1997",B.weight: 57.47,Group: A,Snatch: 68,CI&Jerk: 80,Total: 148,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,JUMABAYEVA Nilufar,TKM,"Born: Nov 12, 2000",B.weight: 56.57,Group: A,Snatch: 65,CI&Jerk: 83,Total: 148,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,MARETA Maria,FIJ,"Born: Mar 30, 2001",B.weight: 57.87,Group: A,Snatch: 65,CI&Jerk: 78,Total: 143,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: ---,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 57.55,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,58kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,YUAN Wangjian,CHN,"Born: Sep 27, 1992",B.weight: 62.72,Group: A,1: 96,2: 100,3: 103,Total: 103,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,AN Sisung,KOR,"Born: Dec 26, 1997",B.weight: 62.74,Group: A,1: 90,2: 94,3: -97,Total: 94,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ANDO Elreen Ann,PHI,"Born: Nov 01, 1998",B.weight: 61.40,Group: A,1: 85,2: 90,3: -93,Total: 90,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,GURYEVA Polina,TKM,"Born: Oct 05, 1999",B.weight: 62.55,Group: A,1: 87,2: 90,3: -92,Total: 90,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,SASSER Mathlynn Langtor,MHL,"Born: Dec 25, 1996",B.weight: 62.03,Group: A,1: -88,2: 88,3: 90,Total: 90,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,SONKAEW Rodsukon,THA,"Born: Nov 28, 1999",B.weight: 62.75,Group: A,1: 84,2: -89,3: 89,Total: 89,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 61.87,Group: A,1: 87,2: -90,3: -92,Total: 87,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,KAO Jou-An,TPE,"Born: Oct 20, 1997",B.weight: 62.23,Group: A,1: 73,2: 76,3: 79,Total: 79,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,UEPA Maximina,NRU,"Born: Sep 22, 2002",B.weight: 62.45,Group: A,1: 68,2: 71,3: 72,Total: 72,63kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,YUAN Wangjian,CHN,"Born: Sep 27, 1992",B.weight: 62.72,Group: A,1: 113,2: 117,3: 120,Total: 120,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SASSER Mathlynn Langtor,MHL,"Born: Dec 25, 1996",B.weight: 62.03,Group: A,1: 115,2: 119,3: 120,Total: 120,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AN Sisung,KOR,"Born: Dec 26, 1997",B.weight: 62.74,Group: A,1: 110,2: 114,3: -117,Total: 114,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,GURYEVA Polina,TKM,"Born: Oct 05, 1999",B.weight: 62.55,Group: A,1: 110,2: -112,3: 112,Total: 112,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 61.87,Group: A,1: 105,2: -110,3: -113,Total: 105,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,SONKAEW Rodsukon,THA,"Born: Nov 28, 1999",B.weight: 62.75,Group: A,1: 105,2: -112,3: -112,Total: 105,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,ANDO Elreen Ann,PHI,"Born: Nov 01, 1998",B.weight: 61.40,Group: A,1: 105,2: -110,3: -110,Total: 105,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,KAO Jou-An,TPE,"Born: Oct 20, 1997",B.weight: 62.23,Group: A,1: 96,2: 101,3: -105,Total: 101,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,UEPA Maximina,NRU,"Born: Sep 22, 2002",B.weight: 62.45,Group: A,1: 90,2: -95,3: -95,Total: 90,63kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,YUAN Wangjian,CHN,"Born: Sep 27, 1992",B.weight: 62.72,Group: A,Snatch: 103,CI&Jerk: 120,Total: 223,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SASSER Mathlynn Langtor,MHL,"Born: Dec 25, 1996",B.weight: 62.03,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AN Sisung,KOR,"Born: Dec 26, 1997",B.weight: 62.74,Group: A,Snatch: 94,CI&Jerk: 114,Total: 208,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,GURYEVA Polina,TKM,"Born: Oct 05, 1999",B.weight: 62.55,Group: A,Snatch: 90,CI&Jerk: 112,Total: 202,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ANDO Elreen Ann,PHI,"Born: Nov 01, 1998",B.weight: 61.40,Group: A,Snatch: 90,CI&Jerk: 105,Total: 195,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,SONKAEW Rodsukon,THA,"Born: Nov 28, 1999",B.weight: 62.75,Group: A,Snatch: 89,CI&Jerk: 105,Total: 194,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 61.87,Group: A,Snatch: 87,CI&Jerk: 105,Total: 192,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,KAO Jou-An,TPE,"Born: Oct 20, 1997",B.weight: 62.23,Group: A,Snatch: 79,CI&Jerk: 101,Total: 180,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,UEPA Maximina,NRU,"Born: Sep 22, 2002",B.weight: 62.45,Group: A,Snatch: 72,CI&Jerk: 90,Total: 162,,63kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,VAIVAI Apolonia,FIJ,"Born: Feb 05, 1991",B.weight: 68.60,Group: A,1: 97,2: 102,3: 105,Total: 105,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SADYKOVA Assem,KAZ,"Born: Aug 02, 1993",B.weight: 65.79,Group: A,1: 93,2: 96,3: -100,Total: 96,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 68.35,Group: A,1: -90,2: 90,3: 93,Total: 93,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,CHALKAROVA Anzhela,KAZ,"Born: Aug 01, 1999",B.weight: 67.28,Group: A,1: 87,2: 91,3: -93,Total: 91,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,MACROHON Kristel,PHI,"Born: Sep 02, 1996",B.weight: 68.62,Group: A,1: 88,2: -92,3: -92,Total: 88,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,FAYZULLAEVA Kumushkhon,UZB,"Born: Jan 20, 2002",B.weight: 65.34,Group: A,1: 83,2: -87,3: 87,Total: 87,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,TCHANG Okealani,TAH,"Born: Oct 25, 1989",B.weight: 68.02,Group: A,1: 80,2: -85,3: -85,Total: 80,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,FRANCKEN Jocelyne Amanda,AUS,"Born: Dec 14, 1994",B.weight: 68.79,Group: A,1: -80,2: 80,3: -83,Total: 80,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BAKAEKIRI Tiiau,KIR,"Born: Mar 28, 1997",B.weight: 68.09,Group: A,1: 65,2: 70,3: -75,Total: 70,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,DANIEL Ricci Pheaulika,NRU,"Born: Aug 10, 2002",B.weight: 66.91,Group: A,1: 58,2: 61,3: 63,Total: 63,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,ALMAZAN Armie,GUM,"Born: Dec 23, 1986",B.weight: 67.33,Group: A,1: 62,2: -65,3: -67,Total: 62,69kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,SADYKOVA Assem,KAZ,"Born: Aug 02, 1993",B.weight: 65.79,Group: A,1: 116,2: 126,3: ---,Total: 126,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,MACROHON Kristel,PHI,"Born: Sep 02, 1996",B.weight: 68.62,Group: A,1: 111,2: -116,3: 121,Total: 121,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,VAIVAI Apolonia,FIJ,"Born: Feb 05, 1991",B.weight: 68.60,Group: A,1: -116,2: 116,3: -121,Total: 116,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,CHALKAROVA Anzhela,KAZ,"Born: Aug 01, 1999",B.weight: 67.28,Group: A,1: 107,2: 112,3: 115,Total: 115,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 68.35,Group: A,1: -115,2: -115,3: 115,Total: 115,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,FAYZULLAEVA Kumushkhon,UZB,"Born: Jan 20, 2002",B.weight: 65.34,Group: A,1: 107,2: 113,3: -120,Total: 113,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,TCHANG Okealani,TAH,"Born: Oct 25, 1989",B.weight: 68.02,Group: A,1: -100,2: 100,3: 102,Total: 102,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,FRANCKEN Jocelyne Amanda,AUS,"Born: Dec 14, 1994",B.weight: 68.79,Group: A,1: 97,2: -100,3: 100,Total: 100,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BAKAEKIRI Tiiau,KIR,"Born: Mar 28, 1997",B.weight: 68.09,Group: A,1: -88,2: 88,3: -95,Total: 88,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,DANIEL Ricci Pheaulika,NRU,"Born: Aug 10, 2002",B.weight: 66.91,Group: A,1: 78,2: 82,3: 84,Total: 84,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,ALMAZAN Armie,GUM,"Born: Dec 23, 1986",B.weight: 67.33,Group: A,1: 72,2: 75,3: -78,Total: 75,69kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,SADYKOVA Assem,KAZ,"Born: Aug 02, 1993",B.weight: 65.79,Group: A,Snatch: 96,CI&Jerk: 126,Total: 222,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,VAIVAI Apolonia,FIJ,"Born: Feb 05, 1991",B.weight: 68.60,Group: A,Snatch: 105,CI&Jerk: 116,Total: 221,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,MACROHON Kristel,PHI,"Born: Sep 02, 1996",B.weight: 68.62,Group: A,Snatch: 88,CI&Jerk: 121,Total: 209,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 68.35,Group: A,Snatch: 93,CI&Jerk: 115,Total: 208,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,CHALKAROVA Anzhela,KAZ,"Born: Aug 01, 1999",B.weight: 67.28,Group: A,Snatch: 91,CI&Jerk: 115,Total: 206,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,FAYZULLAEVA Kumushkhon,UZB,"Born: Jan 20, 2002",B.weight: 65.34,Group: A,Snatch: 87,CI&Jerk: 113,Total: 200,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,TCHANG Okealani,TAH,"Born: Oct 25, 1989",B.weight: 68.02,Group: A,Snatch: 80,CI&Jerk: 102,Total: 182,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,FRANCKEN Jocelyne Amanda,AUS,"Born: Dec 14, 1994",B.weight: 68.79,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 9,BAKAEKIRI Tiiau,KIR,"Born: Mar 28, 1997",B.weight: 68.09,Group: A,Snatch: 70,CI&Jerk: 88,Total: 158,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 10,DANIEL Ricci Pheaulika,NRU,"Born: Aug 10, 2002",B.weight: 66.91,Group: A,Snatch: 63,CI&Jerk: 84,Total: 147,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 11,ALMAZAN Armie,GUM,"Born: Dec 23, 1986",B.weight: 67.33,Group: A,Snatch: 62,CI&Jerk: 75,Total: 137,,69kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,MUNKHJANTSAN Ankhtsetseg,MGL,"Born: Dec 25, 1997",B.weight: 74.77,Group: A,1: -100,2: 100,3: 105,Total: 105,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,KAMIYA Ayumi,JPN,"Born: Mar 28, 1992",B.weight: 74.42,Group: A,1: 100,2: 103,3: 105,Total: 105,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,OTAKUZIYEVA Omadoy,UZB,"Born: Apr 04, 1996",B.weight: 74.02,Group: A,1: 95,2: 99,3: 101,Total: 101,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,DEZHNINA Valeriya,KAZ,"Born: Feb 28, 1994",B.weight: 73.88,Group: A,1: -90,2: -90,3: 90,Total: 90,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,WU Hsuan-Min,TPE,"Born: Oct 28, 1997",B.weight: 74.01,Group: A,1: 78,2: -83,3: 83,Total: 83,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,WOONTON Philippa Torea Frances,COK,"Born: Aug 29, 1985",B.weight: 74.31,Group: A,1: 68,2: 72,3: -76,Total: 72,75kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,OTAKUZIYEVA Omadoy,UZB,"Born: Apr 04, 1996",B.weight: 74.02,Group: A,1: 120,2: 124,3: 130,Total: 130,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,MUNKHJANTSAN Ankhtsetseg,MGL,"Born: Dec 25, 1997",B.weight: 74.77,Group: A,1: 121,2: 125,3: 130,Total: 130,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,DEZHNINA Valeriya,KAZ,"Born: Feb 28, 1994",B.weight: 73.88,Group: A,1: 110,2: 115,3: 120,Total: 120,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,KAMIYA Ayumi,JPN,"Born: Mar 28, 1992",B.weight: 74.42,Group: A,1: 115,2: 119,3: -123,Total: 119,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,WU Hsuan-Min,TPE,"Born: Oct 28, 1997",B.weight: 74.01,Group: A,1: 95,2: -99,3: -99,Total: 95,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,WOONTON Philippa Torea Frances,COK,"Born: Aug 29, 1985",B.weight: 74.31,Group: A,1: 85,2: 90,3: -94,Total: 90,75kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,MUNKHJANTSAN Ankhtsetseg,MGL,"Born: Dec 25, 1997",B.weight: 74.77,Group: A,Snatch: 105,CI&Jerk: 130,Total: 235,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,OTAKUZIYEVA Omadoy,UZB,"Born: Apr 04, 1996",B.weight: 74.02,Group: A,Snatch: 101,CI&Jerk: 130,Total: 231,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,KAMIYA Ayumi,JPN,"Born: Mar 28, 1992",B.weight: 74.42,Group: A,Snatch: 105,CI&Jerk: 119,Total: 224,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,DEZHNINA Valeriya,KAZ,"Born: Feb 28, 1994",B.weight: 73.88,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,WU Hsuan-Min,TPE,"Born: Oct 28, 1997",B.weight: 74.01,Group: A,Snatch: 83,CI&Jerk: 95,Total: 178,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,WOONTON Philippa Torea Frances,COK,"Born: Aug 29, 1985",B.weight: 74.31,Group: A,Snatch: 72,CI&Jerk: 90,Total: 162,,75kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,CIKAMATANA Eileen Floanna Maria,FIJ,"Born: Sep 18, 1999",B.weight: 81.43,Group: A,1: 97,2: 104,3: 111,Total: 111,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TOYCHYYEVA Aysoltan,TKM,"Born: May 29, 1996",B.weight: 78.31,Group: A,1: 91,2: 94,3: 97,Total: 97,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,AL-SAEDI Huda Salim Neamah,IRQ,"Born: Jul 08, 1997",B.weight: 75.77,Group: A,1: 90,2: 92,3: 94,Total: 94,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,DAVRONOVA Dolera,UZB,"Born: Nov 03, 2001",B.weight: 84.64,Group: A,1: 77,2: 91,3: 93,Total: 93,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ZUDOVA Sofia Igorevna,AUS,"Born: Sep 26, 1994",B.weight: 78.09,Group: A,1: 84,2: 88,3: -91,Total: 88,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,CHANG Yu-Hsuan,TPE,"Born: Nov 20, 1999",B.weight: 88.64,Group: A,1: 80,2: 85,3: -90,Total: 85,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,HARRY Lorraine Henao,PNG,"Born: Feb 20, 1996",B.weight: 89.51,Group: A,1: 80,2: 84,3: -86,Total: 84,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,BAHTYYAROVA Sangiza,TKM,"Born: Jul 23, 2001",B.weight: 83.53,Group: A,1: 67,2: 70,3: -73,Total: 70,90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,CIKAMATANA Eileen Floanna Maria,FIJ,"Born: Sep 18, 1999",B.weight: 81.43,Group: A,1: 123,2: 134,3: 142,Total: 142,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TOYCHYYEVA Aysoltan,TKM,"Born: May 29, 1996",B.weight: 78.31,Group: A,1: -115,2: 115,3: 118,Total: 118,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,DAVRONOVA Dolera,UZB,"Born: Nov 03, 2001",B.weight: 84.64,Group: A,1: 113,2: 117,3: -123,Total: 117,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,AL-SAEDI Huda Salim Neamah,IRQ,"Born: Jul 08, 1997",B.weight: 75.77,Group: A,1: -110,2: 111,3: 115,Total: 115,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,HARRY Lorraine Henao,PNG,"Born: Feb 20, 1996",B.weight: 89.51,Group: A,1: 105,2: 110,3: -115,Total: 110,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,ZUDOVA Sofia Igorevna,AUS,"Born: Sep 26, 1994",B.weight: 78.09,Group: A,1: 106,2: 110,3: -113,Total: 110,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,CHANG Yu-Hsuan,TPE,"Born: Nov 20, 1999",B.weight: 88.64,Group: A,1: 100,2: -107,3: 107,Total: 107,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,BAHTYYAROVA Sangiza,TKM,"Born: Jul 23, 2001",B.weight: 83.53,Group: A,1: -87,2: 87,3: -91,Total: 87,90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,CIKAMATANA Eileen Floanna Maria,FIJ,"Born: Sep 18, 1999",B.weight: 81.43,Group: A,Snatch: 111,CI&Jerk: 142,Total: 253,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,TOYCHYYEVA Aysoltan,TKM,"Born: May 29, 1996",B.weight: 78.31,Group: A,Snatch: 97,CI&Jerk: 118,Total: 215,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,DAVRONOVA Dolera,UZB,"Born: Nov 03, 2001",B.weight: 84.64,Group: A,Snatch: 93,CI&Jerk: 117,Total: 210,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,AL-SAEDI Huda Salim Neamah,IRQ,"Born: Jul 08, 1997",B.weight: 75.77,Group: A,Snatch: 94,CI&Jerk: 115,Total: 209,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,ZUDOVA Sofia Igorevna,AUS,"Born: Sep 26, 1994",B.weight: 78.09,Group: A,Snatch: 88,CI&Jerk: 110,Total: 198,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,HARRY Lorraine Henao,PNG,"Born: Feb 20, 1996",B.weight: 89.51,Group: A,Snatch: 84,CI&Jerk: 110,Total: 194,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 7,CHANG Yu-Hsuan,TPE,"Born: Nov 20, 1999",B.weight: 88.64,Group: A,Snatch: 85,CI&Jerk: 107,Total: 192,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 8,BAHTYYAROVA Sangiza,TKM,"Born: Jul 23, 2001",B.weight: 83.53,Group: A,Snatch: 70,CI&Jerk: 87,Total: 157,,90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,JIA Weipeng,CHN,"Born: Aug 08, 1995",B.weight: 112.13,Group: A,1: 110,2: 115,3: 120,Total: 120,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,SIPAIA Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 125.01,Group: A,1: 101,2: 106,3: -109,Total: 106,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 113.30,Group: A,1: 100,2: 105,3: -110,Total: 105,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,JEON Seol Hee,KOR,"Born: Nov 23, 1996",B.weight: 117.14,Group: A,1: -102,2: 102,3: -107,Total: 102,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,STOWERS Feagaiga,SAM,"Born: Nov 17, 2000",B.weight: 117.38,Group: A,1: 100,2: -105,3: -107,Total: 100,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 103.09,Group: A,1: 95,2: -100,3: 100,Total: 100,+90kgWomen,Snatch,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,JIA Weipeng,CHN,"Born: Aug 08, 1995",B.weight: 112.13,Group: A,1: 140,2: 146,3: 150,Total: 150,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 113.30,Group: A,1: 135,2: 140,3: 143,Total: 143,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SIPAIA Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 125.01,Group: A,1: 135,2: -141,3: -143,Total: 135,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,JEON Seol Hee,KOR,"Born: Nov 23, 1996",B.weight: 117.14,Group: A,1: 134,2: -139,3: -139,Total: 134,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,STOWERS Feagaiga,SAM,"Born: Nov 17, 2000",B.weight: 117.38,Group: A,1: 128,2: 134,3: -140,Total: 134,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 103.09,Group: A,1: 120,2: -125,3: -125,Total: 120,+90kgWomen,CleanJerk,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 1,JIA Weipeng,CHN,"Born: Aug 08, 1995",B.weight: 112.13,Group: A,Snatch: 120,CI&Jerk: 150,Total: 270,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 2,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 113.30,Group: A,Snatch: 105,CI&Jerk: 143,Total: 248,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 3,SIPAIA Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 125.01,Group: A,Snatch: 106,CI&Jerk: 135,Total: 241,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 4,JEON Seol Hee,KOR,"Born: Nov 23, 1996",B.weight: 117.14,Group: A,Snatch: 102,CI&Jerk: 134,Total: 236,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 5,STOWERS Feagaiga,SAM,"Born: Nov 17, 2000",B.weight: 117.38,Group: A,Snatch: 100,CI&Jerk: 134,Total: 234,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
+Rank: 6,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 103.09,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,+90kgWomen,Total,5th ASIAN INDOOR & MARTIAL ARTS GAMES
