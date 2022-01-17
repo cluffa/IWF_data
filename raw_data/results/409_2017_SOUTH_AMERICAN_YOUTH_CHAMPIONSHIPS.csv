@@ -1,142 +1,142 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,ROJAS Diego,CHI,"Born: Apr 05, 2003",B.weight: 49.34,Group: A,1: 55,2: 60,3: 62,Total: 62,50kgMen,Snatch,409
-Rank: 2,RUIZ CERNA Rolando Moises,PER,"Born: Jan 07, 2002",B.weight: 49.06,Group: A,1: 45,2: 48,3: 50,Total: 50,50kgMen,Snatch,409
-Rank: 1,ROJAS Diego,CHI,"Born: Apr 05, 2003",B.weight: 49.34,Group: A,1: 70,2: 75,3: 80,Total: 80,50kgMen,CleanJerk,409
-Rank: 2,RUIZ CERNA Rolando Moises,PER,"Born: Jan 07, 2002",B.weight: 49.06,Group: A,1: 62,2: 65,3: 68,Total: 68,50kgMen,CleanJerk,409
-Rank: 1,ROJAS Diego,CHI,"Born: Apr 05, 2003",B.weight: 49.34,Group: A,Snatch: 62,CI&Jerk: 80,Total: 142,,50kgMen,Total,409
-Rank: 2,RUIZ CERNA Rolando Moises,PER,"Born: Jan 07, 2002",B.weight: 49.06,Group: A,Snatch: 50,CI&Jerk: 68,Total: 118,,50kgMen,Total,409
-Rank: 1,DA SILVA Thiago Felix,BRA,"Born: Dec 26, 2000",B.weight: 55.09,Group: A,1: 88,2: 91,3: 94,Total: 94,56kgMen,Snatch,409
-Rank: 2,LEYES Jonatan Martin,ARG,"Born: May 12, 2001",B.weight: 55.52,Group: A,1: 87,2: 90,3: - 94,Total: 90,56kgMen,Snatch,409
-Rank: 3,DEL RIO Rodrigo,CHI,"Born: Jun 06, 2002",B.weight: 55.64,Group: A,1: 63,2: - 66,3: 66,Total: 66,56kgMen,Snatch,409
-Rank: 1,DA SILVA Thiago Felix,BRA,"Born: Dec 26, 2000",B.weight: 55.09,Group: A,1: 111,2: 116,3: -121,Total: 116,56kgMen,CleanJerk,409
-Rank: 2,LEYES Jonatan Martin,ARG,"Born: May 12, 2001",B.weight: 55.52,Group: A,1: 107,2: 112,3: -117,Total: 112,56kgMen,CleanJerk,409
-Rank: 3,DEL RIO Rodrigo,CHI,"Born: Jun 06, 2002",B.weight: 55.64,Group: A,1: 83,2: - 88,3: 88,Total: 88,56kgMen,CleanJerk,409
-Rank: 1,DA SILVA Thiago Felix,BRA,"Born: Dec 26, 2000",B.weight: 55.09,Group: A,Snatch: 94,CI&Jerk: 116,Total: 210,,56kgMen,Total,409
-Rank: 2,LEYES Jonatan Martin,ARG,"Born: May 12, 2001",B.weight: 55.52,Group: A,Snatch: 90,CI&Jerk: 112,Total: 202,,56kgMen,Total,409
-Rank: 3,DEL RIO Rodrigo,CHI,"Born: Jun 06, 2002",B.weight: 55.64,Group: A,Snatch: 66,CI&Jerk: 88,Total: 154,,56kgMen,Total,409
-Rank: 1,LLERENA GRIJALVA Mathias Isaac,ECU,"Born: Sep 01, 2000",B.weight: 61.34,Group: A,1: -101,2: 101,3: 105,Total: 105,62kgMen,Snatch,409
-Rank: 2,KAPPES Ayrton Danel,ARG,"Born: Jul 27, 2000",B.weight: 60.40,Group: A,1: 95,2: 98,3: 100,Total: 100,62kgMen,Snatch,409
-Rank: 3,VELA VALDEZ William Jhuniors,PER,"Born: May 08, 2001",B.weight: 60.54,Group: A,1: 92,2: 96,3: 98,Total: 98,62kgMen,Snatch,409
-Rank: 4,CASTRO Aldair,CHI,"Born: Feb 04, 2000",B.weight: 61.48,Group: A,1: 83,2: 90,3: - 93,Total: 90,62kgMen,Snatch,409
-Rank: 5,VARGAS VIGORENA Ignacio Omar,CHI,"Born: Nov 14, 2000",B.weight: 60.42,Group: A,1: - 90,2: 90,3: - 93,Total: 90,62kgMen,Snatch,409
-Rank: 1,LLERENA GRIJALVA Mathias Isaac,ECU,"Born: Sep 01, 2000",B.weight: 61.34,Group: A,1: 125,2: 130,3: 133,Total: 133,62kgMen,CleanJerk,409
-Rank: 2,VELA VALDEZ William Jhuniors,PER,"Born: May 08, 2001",B.weight: 60.54,Group: A,1: 117,2: 121,3: 125,Total: 125,62kgMen,CleanJerk,409
-Rank: 3,KAPPES Ayrton Danel,ARG,"Born: Jul 27, 2000",B.weight: 60.40,Group: A,1: 115,2: 120,3: 124,Total: 124,62kgMen,CleanJerk,409
-Rank: 4,VARGAS VIGORENA Ignacio Omar,CHI,"Born: Nov 14, 2000",B.weight: 60.42,Group: A,1: 113,2: 117,3: -122,Total: 117,62kgMen,CleanJerk,409
-Rank: 5,CASTRO Aldair,CHI,"Born: Feb 04, 2000",B.weight: 61.48,Group: A,1: 105,2: 110,3: -115,Total: 110,62kgMen,CleanJerk,409
-Rank: 1,LLERENA GRIJALVA Mathias Isaac,ECU,"Born: Sep 01, 2000",B.weight: 61.34,Group: A,Snatch: 105,CI&Jerk: 133,Total: 238,,62kgMen,Total,409
-Rank: 2,KAPPES Ayrton Danel,ARG,"Born: Jul 27, 2000",B.weight: 60.40,Group: A,Snatch: 100,CI&Jerk: 124,Total: 224,,62kgMen,Total,409
-Rank: 3,VELA VALDEZ William Jhuniors,PER,"Born: May 08, 2001",B.weight: 60.54,Group: A,Snatch: 98,CI&Jerk: 125,Total: 223,,62kgMen,Total,409
-Rank: 4,VARGAS VIGORENA Ignacio Omar,CHI,"Born: Nov 14, 2000",B.weight: 60.42,Group: A,Snatch: 90,CI&Jerk: 117,Total: 207,,62kgMen,Total,409
-Rank: 5,CASTRO Aldair,CHI,"Born: Feb 04, 2000",B.weight: 61.48,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,62kgMen,Total,409
-Rank: 1,SALINAS DELGADO Lucas Octavio,CHI,"Born: Oct 11, 2000",B.weight: 68.40,Group: A,1: 100,2: 106,3: -109,Total: 106,69kgMen,Snatch,409
-Rank: 2,MORAES REBOLLO Joaquin,URU,"Born: Feb 26, 2001",B.weight: 67.27,Group: A,1: 84,2: 88,3: 91,Total: 91,69kgMen,Snatch,409
-Rank: 1,SALINAS DELGADO Lucas Octavio,CHI,"Born: Oct 11, 2000",B.weight: 68.40,Group: A,1: 127,2: 135,3: -139,Total: 135,69kgMen,CleanJerk,409
-Rank: 2,MORAES REBOLLO Joaquin,URU,"Born: Feb 26, 2001",B.weight: 67.27,Group: A,1: 104,2: -111,3: -111,Total: 104,69kgMen,CleanJerk,409
-Rank: 1,SALINAS DELGADO Lucas Octavio,CHI,"Born: Oct 11, 2000",B.weight: 68.40,Group: A,Snatch: 106,CI&Jerk: 135,Total: 241,,69kgMen,Total,409
-Rank: 2,MORAES REBOLLO Joaquin,URU,"Born: Feb 26, 2001",B.weight: 67.27,Group: A,Snatch: 91,CI&Jerk: 104,Total: 195,,69kgMen,Total,409
-Rank: 1,CHAVEZ Diego,CHI,"Born: Oct 19, 2002",B.weight: 76.72,Group: A,1: 100,2: -106,3: -106,Total: 100,77kgMen,Snatch,409
-Rank: 2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Born: Jan 16, 2001",B.weight: 73.29,Group: A,1: - 92,2: 92,3: - 95,Total: 92,77kgMen,Snatch,409
-Rank: 3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Born: Sep 02, 2000",B.weight: 69.71,Group: A,1: 83,2: 87,3: 92,Total: 92,77kgMen,Snatch,409
-Rank: 1,CHAVEZ Diego,CHI,"Born: Oct 19, 2002",B.weight: 76.72,Group: A,1: -120,2: 121,3: 126,Total: 126,77kgMen,CleanJerk,409
-Rank: 2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Born: Jan 16, 2001",B.weight: 73.29,Group: A,1: 117,2: 120,3: 124,Total: 124,77kgMen,CleanJerk,409
-Rank: 3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Born: Sep 02, 2000",B.weight: 69.71,Group: A,1: 115,2: -118,3: -118,Total: 115,77kgMen,CleanJerk,409
-Rank: 1,CHAVEZ Diego,CHI,"Born: Oct 19, 2002",B.weight: 76.72,Group: A,Snatch: 100,CI&Jerk: 126,Total: 226,,77kgMen,Total,409
-Rank: 2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Born: Jan 16, 2001",B.weight: 73.29,Group: A,Snatch: 92,CI&Jerk: 124,Total: 216,,77kgMen,Total,409
-Rank: 3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Born: Sep 02, 2000",B.weight: 69.71,Group: A,Snatch: 92,CI&Jerk: 115,Total: 207,,77kgMen,Total,409
-Rank: 1,GREFA VARGAS Neiser Javier,ECU,"Born: Feb 24, 2001",B.weight: 81.16,Group: A,1: 114,2: 117,3: 119,Total: 119,85kgMen,Snatch,409
-Rank: 2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Born: Mar 24, 2002",B.weight: 84.42,Group: A,1: 110,2: 115,3: 118,Total: 118,85kgMen,Snatch,409
-Rank: 3,VELAZCO CASTELLANOS Diego Jabel,PER,"Born: Jan 24, 2001",B.weight: 83.93,Group: A,1: 88,2: 92,3: 95,Total: 95,85kgMen,Snatch,409
-Rank: 1,GREFA VARGAS Neiser Javier,ECU,"Born: Feb 24, 2001",B.weight: 81.16,Group: A,1: 147,2: 152,3: 156,Total: 156,85kgMen,CleanJerk,409
-Rank: 2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Born: Mar 24, 2002",B.weight: 84.42,Group: A,1: 130,2: -141,3: 141,Total: 141,85kgMen,CleanJerk,409
-Rank: 3,VELAZCO CASTELLANOS Diego Jabel,PER,"Born: Jan 24, 2001",B.weight: 83.93,Group: A,1: 118,2: 123,3: -127,Total: 123,85kgMen,CleanJerk,409
-Rank: 1,GREFA VARGAS Neiser Javier,ECU,"Born: Feb 24, 2001",B.weight: 81.16,Group: A,Snatch: 119,CI&Jerk: 156,Total: 275,,85kgMen,Total,409
-Rank: 2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Born: Mar 24, 2002",B.weight: 84.42,Group: A,Snatch: 118,CI&Jerk: 141,Total: 259,,85kgMen,Total,409
-Rank: 3,VELAZCO CASTELLANOS Diego Jabel,PER,"Born: Jan 24, 2001",B.weight: 83.93,Group: A,Snatch: 95,CI&Jerk: 123,Total: 218,,85kgMen,Total,409
-Rank: 1,FLORES CONCHA Cesar Fabrizzio,PER,"Born: Mar 31, 2001",B.weight: 88.40,Group: A,1: -117,2: 117,3: 121,Total: 121,94kgMen,Snatch,409
-Rank: 2,ZAPATA PRIETO Camilo Esteban,CHI,"Born: Mar 20, 2001",B.weight: 93.15,Group: A,1: 110,2: -118,3: -120,Total: 110,94kgMen,Snatch,409
-Rank: 1,FLORES CONCHA Cesar Fabrizzio,PER,"Born: Mar 31, 2001",B.weight: 88.40,Group: A,1: 140,2: 143,3: 149,Total: 149,94kgMen,CleanJerk,409
-Rank: 2,ZAPATA PRIETO Camilo Esteban,CHI,"Born: Mar 20, 2001",B.weight: 93.15,Group: A,1: 130,2: 141,3: -145,Total: 141,94kgMen,CleanJerk,409
-Rank: 1,FLORES CONCHA Cesar Fabrizzio,PER,"Born: Mar 31, 2001",B.weight: 88.40,Group: A,Snatch: 121,CI&Jerk: 149,Total: 270,,94kgMen,Total,409
-Rank: 2,ZAPATA PRIETO Camilo Esteban,CHI,"Born: Mar 20, 2001",B.weight: 93.15,Group: A,Snatch: 110,CI&Jerk: 141,Total: 251,,94kgMen,Total,409
-Rank: 1,ESCUDERO NAJERA Carlos Emilio,ECU,"Born: Nov 16, 2001",B.weight: 127.23,Group: A,1: 130,2: -140,3: -140,Total: 130,+94kgMen,Snatch,409
-Rank: 2,OSORIO PARIMANGO Marco Antonio,PER,"Born: Jul 15, 2000",B.weight: 101.20,Group: A,1: 97,2: 101,3: 104,Total: 104,+94kgMen,Snatch,409
-Rank: 1,OSORIO PARIMANGO Marco Antonio,PER,"Born: Jul 15, 2000",B.weight: 101.20,Group: A,1: 127,2: 133,3: -137,Total: 133,+94kgMen,CleanJerk,409
-Rank: ---,ESCUDERO NAJERA Carlos Emilio,ECU,"Born: Nov 16, 2001",B.weight: 127.23,Group: A,1: -150,2: -150,3: -151,Total: ---,+94kgMen,CleanJerk,409
-Rank: 1,OSORIO PARIMANGO Marco Antonio,PER,"Born: Jul 15, 2000",B.weight: 101.20,Group: A,Snatch: 104,CI&Jerk: 133,Total: 237,,+94kgMen,Total,409
-Rank: ---,ESCUDERO NAJERA Carlos Emilio,ECU,"Born: Nov 16, 2001",B.weight: 127.23,Group: A,Snatch: 130,CI&Jerk: ---,Total: ---,,+94kgMen,Total,409
-Rank: 1,SALDARRIAGA YOVERA Anali Paola,PER,"Born: Oct 21, 2003",B.weight: 43.80,Group: A,1: 43,2: 46,3: 48,Total: 48,44kgWomen,Snatch,409
-Rank: 2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Born: Apr 18, 2000",B.weight: 43.89,Group: A,1: 38,2: - 42,3: 42,Total: 42,44kgWomen,Snatch,409
-Rank: 1,SALDARRIAGA YOVERA Anali Paola,PER,"Born: Oct 21, 2003",B.weight: 43.80,Group: A,1: 55,2: 58,3: 60,Total: 60,44kgWomen,CleanJerk,409
-Rank: 2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Born: Apr 18, 2000",B.weight: 43.89,Group: A,1: 50,2: - 55,3: 59,Total: 59,44kgWomen,CleanJerk,409
-Rank: 1,SALDARRIAGA YOVERA Anali Paola,PER,"Born: Oct 21, 2003",B.weight: 43.80,Group: A,Snatch: 48,CI&Jerk: 60,Total: 108,,44kgWomen,Total,409
-Rank: 2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Born: Apr 18, 2000",B.weight: 43.89,Group: A,Snatch: 42,CI&Jerk: 59,Total: 101,,44kgWomen,Total,409
-Rank: 1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Born: Nov 16, 2002",B.weight: 47.62,Group: A,1: 47,2: 52,3: 55,Total: 55,48kgWomen,Snatch,409
-Rank: 1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Born: Nov 16, 2002",B.weight: 47.62,Group: A,1: 60,2: 65,3: 70,Total: 70,48kgWomen,CleanJerk,409
-Rank: 1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Born: Nov 16, 2002",B.weight: 47.62,Group: A,Snatch: 55,CI&Jerk: 70,Total: 125,,48kgWomen,Total,409
-Rank: 1,LEIVA Florencia Camila,ARG,"Born: Jun 06, 2001",B.weight: 52.17,Group: A,1: 64,2: 67,3: 70,Total: 70,53kgWomen,Snatch,409
-Rank: 2,SILVA RAMIREZ Stefania Nicole,PER,"Born: Aug 10, 2000",B.weight: 52.21,Group: A,1: 63,2: - 66,3: 66,Total: 66,53kgWomen,Snatch,409
-Rank: 1,SILVA RAMIREZ Stefania Nicole,PER,"Born: Aug 10, 2000",B.weight: 52.21,Group: A,1: 77,2: 80,3: 83,Total: 83,53kgWomen,CleanJerk,409
-Rank: 2,LEIVA Florencia Camila,ARG,"Born: Jun 06, 2001",B.weight: 52.17,Group: A,1: 74,2: 78,3: - 81,Total: 78,53kgWomen,CleanJerk,409
-Rank: 1,SILVA RAMIREZ Stefania Nicole,PER,"Born: Aug 10, 2000",B.weight: 52.21,Group: A,Snatch: 66,CI&Jerk: 83,Total: 149,,53kgWomen,Total,409
-Rank: 2,LEIVA Florencia Camila,ARG,"Born: Jun 06, 2001",B.weight: 52.17,Group: A,Snatch: 70,CI&Jerk: 78,Total: 148,,53kgWomen,Total,409
-Rank: 1,SORIANO PALOMINO Liliana Cielo,PER,"Born: Mar 11, 2000",B.weight: 56.89,Group: A,1: 58,2: 61,3: 63,Total: 63,58kgWomen,Snatch,409
-Rank: 2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Born: Jun 09, 2002",B.weight: 57.36,Group: A,1: 50,2: 55,3: - 59,Total: 55,58kgWomen,Snatch,409
-Rank: 1,SORIANO PALOMINO Liliana Cielo,PER,"Born: Mar 11, 2000",B.weight: 56.89,Group: A,1: 80,2: 83,3: - 85,Total: 83,58kgWomen,CleanJerk,409
-Rank: 2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Born: Jun 09, 2002",B.weight: 57.36,Group: A,1: 65,2: 72,3: - 77,Total: 72,58kgWomen,CleanJerk,409
-Rank: 1,SORIANO PALOMINO Liliana Cielo,PER,"Born: Mar 11, 2000",B.weight: 56.89,Group: A,Snatch: 63,CI&Jerk: 83,Total: 146,,58kgWomen,Total,409
-Rank: 2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Born: Jun 09, 2002",B.weight: 57.36,Group: A,Snatch: 55,CI&Jerk: 72,Total: 127,,58kgWomen,Total,409
-Rank: 1,CASADEVALL Maria Luz,ARG,"Born: Mar 17, 2001",B.weight: 61.49,Group: A,1: 78,2: 82,3: 85,Total: 85,63kgWomen,Snatch,409
-Rank: 2,PAREDES VASQUEZ Eldi Jhasmin,PER,"Born: Aug 04, 2000",B.weight: 62.40,Group: A,1: 77,2: - 81,3: 81,Total: 81,63kgWomen,Snatch,409
-Rank: 3,RODRIGUEZ Antonella de Los Angeles,ARG,"Born: Aug 25, 2002",B.weight: 62.54,Group: A,1: 68,2: - 75,3: 76,Total: 76,63kgWomen,Snatch,409
-Rank: 4,SOUZA DA SILVA Amanda,BRA,"Born: Jul 09, 2000",B.weight: 61.09,Group: A,1: 70,2: - 75,3: 75,Total: 75,63kgWomen,Snatch,409
-Rank: 5,RAMOS PEREZ Millaray Scarleth,CHI,"Born: Sep 23, 2001",B.weight: 62.64,Group: A,1: - 65,2: 65,3: 70,Total: 70,63kgWomen,Snatch,409
-Rank: 6,VASQUEZ Katalina,CHI,"Born: Mar 10, 2002",B.weight: 58.39,Group: A,1: 45,2: 50,3: 53,Total: 53,63kgWomen,Snatch,409
-Rank: 1,CASADEVALL Maria Luz,ARG,"Born: Mar 17, 2001",B.weight: 61.49,Group: A,1: 97,2: -101,3: -103,Total: 97,63kgWomen,CleanJerk,409
-Rank: 2,SOUZA DA SILVA Amanda,BRA,"Born: Jul 09, 2000",B.weight: 61.09,Group: A,1: 87,2: 93,3: 95,Total: 95,63kgWomen,CleanJerk,409
-Rank: 3,RODRIGUEZ Antonella de Los Angeles,ARG,"Born: Aug 25, 2002",B.weight: 62.54,Group: A,1: 80,2: 87,3: 92,Total: 92,63kgWomen,CleanJerk,409
-Rank: 4,RAMOS PEREZ Millaray Scarleth,CHI,"Born: Sep 23, 2001",B.weight: 62.64,Group: A,1: 75,2: 82,3: - 90,Total: 82,63kgWomen,CleanJerk,409
-Rank: 5,VASQUEZ Katalina,CHI,"Born: Mar 10, 2002",B.weight: 58.39,Group: A,1: 60,2: 65,3: - 70,Total: 65,63kgWomen,CleanJerk,409
-Rank: ---,PAREDES VASQUEZ Eldi Jhasmin,PER,"Born: Aug 04, 2000",B.weight: 62.40,Group: A,1: -102,2: -102,3: -103,Total: ---,63kgWomen,CleanJerk,409
-Rank: 1,CASADEVALL Maria Luz,ARG,"Born: Mar 17, 2001",B.weight: 61.49,Group: A,Snatch: 85,CI&Jerk: 97,Total: 182,,63kgWomen,Total,409
-Rank: 2,SOUZA DA SILVA Amanda,BRA,"Born: Jul 09, 2000",B.weight: 61.09,Group: A,Snatch: 75,CI&Jerk: 95,Total: 170,,63kgWomen,Total,409
-Rank: 3,RODRIGUEZ Antonella de Los Angeles,ARG,"Born: Aug 25, 2002",B.weight: 62.54,Group: A,Snatch: 76,CI&Jerk: 92,Total: 168,,63kgWomen,Total,409
-Rank: 4,RAMOS PEREZ Millaray Scarleth,CHI,"Born: Sep 23, 2001",B.weight: 62.64,Group: A,Snatch: 70,CI&Jerk: 82,Total: 152,,63kgWomen,Total,409
-Rank: 5,VASQUEZ Katalina,CHI,"Born: Mar 10, 2002",B.weight: 58.39,Group: A,Snatch: 53,CI&Jerk: 65,Total: 118,,63kgWomen,Total,409
-Rank: ---,PAREDES VASQUEZ Eldi Jhasmin,PER,"Born: Aug 04, 2000",B.weight: 62.40,Group: A,Snatch: 81,CI&Jerk: ---,Total: ---,,63kgWomen,Total,409
-Rank: 1,PALACIOS DAJOMES Angie Paola,ECU,"Born: Sep 12, 2000",B.weight: 67.79,Group: A,1: 88,2: 91,3: 95,Total: 95,69kgWomen,Snatch,409
-Rank: 2,NASCIMENTO AMARO Laura,BRA,"Born: Oct 27, 2000",B.weight: 68.92,Group: A,1: 76,2: 80,3: - 85,Total: 80,69kgWomen,Snatch,409
-Rank: 3,SALDARRIAGA DIOSES Estrella Belen,PER,"Born: Jan 11, 2003",B.weight: 67.68,Group: A,1: 62,2: 66,3: 68,Total: 68,69kgWomen,Snatch,409
-Rank: 4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"Born: May 21, 2001",B.weight: 67.39,Group: A,1: 60,2: 65,3: 67,Total: 67,69kgWomen,Snatch,409
-Rank: 1,PALACIOS DAJOMES Angie Paola,ECU,"Born: Sep 12, 2000",B.weight: 67.79,Group: A,1: 110,2: 113,3: 115,Total: 115,69kgWomen,CleanJerk,409
-Rank: 2,NASCIMENTO AMARO Laura,BRA,"Born: Oct 27, 2000",B.weight: 68.92,Group: A,1: 95,2: 101,3: -105,Total: 101,69kgWomen,CleanJerk,409
-Rank: 3,SALDARRIAGA DIOSES Estrella Belen,PER,"Born: Jan 11, 2003",B.weight: 67.68,Group: A,1: 80,2: 85,3: 88,Total: 88,69kgWomen,CleanJerk,409
-Rank: 4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"Born: May 21, 2001",B.weight: 67.39,Group: A,1: 75,2: - 80,3: 80,Total: 80,69kgWomen,CleanJerk,409
-Rank: 1,PALACIOS DAJOMES Angie Paola,ECU,"Born: Sep 12, 2000",B.weight: 67.79,Group: A,Snatch: 95,CI&Jerk: 115,Total: 210,,69kgWomen,Total,409
-Rank: 2,NASCIMENTO AMARO Laura,BRA,"Born: Oct 27, 2000",B.weight: 68.92,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,69kgWomen,Total,409
-Rank: 3,SALDARRIAGA DIOSES Estrella Belen,PER,"Born: Jan 11, 2003",B.weight: 67.68,Group: A,Snatch: 68,CI&Jerk: 88,Total: 156,,69kgWomen,Total,409
-Rank: 4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"Born: May 21, 2001",B.weight: 67.39,Group: A,Snatch: 67,CI&Jerk: 80,Total: 147,,69kgWomen,Total,409
-Rank: 1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Born: Feb 15, 2000",B.weight: 74.98,Group: A,1: - 80,2: 80,3: - 86,Total: 80,75kgWomen,Snatch,409
-Rank: 2,ZAMBRANO BODERO Rubi Corina,PER,"Born: Feb 19, 2000",B.weight: 72.27,Group: A,1: 57,2: 62,3: - 65,Total: 62,75kgWomen,Snatch,409
-Rank: 3,MIRANDA Grisselle,CHI,"Born: Mar 20, 2002",B.weight: 71.90,Group: A,1: - 48,2: 48,3: 52,Total: 52,75kgWomen,Snatch,409
-Rank: 1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Born: Feb 15, 2000",B.weight: 74.98,Group: A,1: -100,2: 100,3: -105,Total: 100,75kgWomen,CleanJerk,409
-Rank: 2,ZAMBRANO BODERO Rubi Corina,PER,"Born: Feb 19, 2000",B.weight: 72.27,Group: A,1: 73,2: 78,3: 82,Total: 82,75kgWomen,CleanJerk,409
-Rank: 3,MIRANDA Grisselle,CHI,"Born: Mar 20, 2002",B.weight: 71.90,Group: A,1: 60,2: 70,3: - 74,Total: 70,75kgWomen,CleanJerk,409
-Rank: 1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Born: Feb 15, 2000",B.weight: 74.98,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,75kgWomen,Total,409
-Rank: 2,ZAMBRANO BODERO Rubi Corina,PER,"Born: Feb 19, 2000",B.weight: 72.27,Group: A,Snatch: 62,CI&Jerk: 82,Total: 144,,75kgWomen,Total,409
-Rank: 3,MIRANDA Grisselle,CHI,"Born: Mar 20, 2002",B.weight: 71.90,Group: A,Snatch: 52,CI&Jerk: 70,Total: 122,,75kgWomen,Total,409
-Rank: 1,SANTILLAN PASTRANA Carla Soledad,ARG,"Born: Feb 21, 2000",B.weight: 88.85,Group: A,1: 80,2: 84,3: - 87,Total: 84,+75kgWomen,Snatch,409
-Rank: 2,DA SILVA NASCIMENTO Mariana,BRA,"Born: Aug 01, 2000",B.weight: 89.21,Group: A,1: 65,2: 70,3: 73,Total: 73,+75kgWomen,Snatch,409
-Rank: 3,NUNEZ GONZALEZ Moyra Paola M,CHI,"Born: Nov 22, 2000",B.weight: 108.04,Group: A,1: - 70,2: 70,3: 73,Total: 73,+75kgWomen,Snatch,409
-Rank: 4,CASTRO ABAD Angie Milagritos,PER,"Born: Sep 02, 2001",B.weight: 86.10,Group: A,1: 65,2: - 70,3: - 70,Total: 65,+75kgWomen,Snatch,409
-Rank: 5,UBIDIA VALDIVIA Hilda Karla,PER,"Born: Jul 30, 2001",B.weight: 92.12,Group: A,1: 65,2: - 70,3: - 70,Total: 65,+75kgWomen,Snatch,409
-Rank: 1,SANTILLAN PASTRANA Carla Soledad,ARG,"Born: Feb 21, 2000",B.weight: 88.85,Group: A,1: 100,2: 105,3: 108,Total: 108,+75kgWomen,CleanJerk,409
-Rank: 2,CASTRO ABAD Angie Milagritos,PER,"Born: Sep 02, 2001",B.weight: 86.10,Group: A,1: 85,2: 92,3: 94,Total: 94,+75kgWomen,CleanJerk,409
-Rank: 3,NUNEZ GONZALEZ Moyra Paola M,CHI,"Born: Nov 22, 2000",B.weight: 108.04,Group: A,1: - 90,2: 90,3: - 94,Total: 90,+75kgWomen,CleanJerk,409
-Rank: 4,DA SILVA NASCIMENTO Mariana,BRA,"Born: Aug 01, 2000",B.weight: 89.21,Group: A,1: 85,2: 89,3: - 93,Total: 89,+75kgWomen,CleanJerk,409
-Rank: 5,UBIDIA VALDIVIA Hilda Karla,PER,"Born: Jul 30, 2001",B.weight: 92.12,Group: A,1: 80,2: 85,3: - 91,Total: 85,+75kgWomen,CleanJerk,409
-Rank: 1,SANTILLAN PASTRANA Carla Soledad,ARG,"Born: Feb 21, 2000",B.weight: 88.85,Group: A,Snatch: 84,CI&Jerk: 108,Total: 192,,+75kgWomen,Total,409
-Rank: 2,NUNEZ GONZALEZ Moyra Paola M,CHI,"Born: Nov 22, 2000",B.weight: 108.04,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,+75kgWomen,Total,409
-Rank: 3,DA SILVA NASCIMENTO Mariana,BRA,"Born: Aug 01, 2000",B.weight: 89.21,Group: A,Snatch: 73,CI&Jerk: 89,Total: 162,,+75kgWomen,Total,409
-Rank: 4,CASTRO ABAD Angie Milagritos,PER,"Born: Sep 02, 2001",B.weight: 86.10,Group: A,Snatch: 65,CI&Jerk: 94,Total: 159,,+75kgWomen,Total,409
-Rank: 5,UBIDIA VALDIVIA Hilda Karla,PER,"Born: Jul 30, 2001",B.weight: 92.12,Group: A,Snatch: 65,CI&Jerk: 85,Total: 150,,+75kgWomen,Total,409
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,ROJAS Diego,CHI,"Apr 05, 2003",49.34,A,55,60,62,62,50kgMen,Snatch,409,True
+2,RUIZ CERNA Rolando Moises,PER,"Jan 07, 2002",49.06,A,45,48,50,50,50kgMen,Snatch,409,True
+1,ROJAS Diego,CHI,"Apr 05, 2003",49.34,A,70,75,80,80,50kgMen,CleanJerk,409,True
+2,RUIZ CERNA Rolando Moises,PER,"Jan 07, 2002",49.06,A,62,65,68,68,50kgMen,CleanJerk,409,True
+1,ROJAS Diego,CHI,"Apr 05, 2003",49.34,A,62,80,142,,50kgMen,Total,409,True
+2,RUIZ CERNA Rolando Moises,PER,"Jan 07, 2002",49.06,A,50,68,118,,50kgMen,Total,409,True
+1,DA SILVA Thiago Felix,BRA,"Dec 26, 2000",55.09,A,88,91,94,94,56kgMen,Snatch,409,True
+2,LEYES Jonatan Martin,ARG,"May 12, 2001",55.52,A,87,90,- 94,90,56kgMen,Snatch,409,True
+3,DEL RIO Rodrigo,CHI,"Jun 06, 2002",55.64,A,63,- 66,66,66,56kgMen,Snatch,409,True
+1,DA SILVA Thiago Felix,BRA,"Dec 26, 2000",55.09,A,111,116,-121,116,56kgMen,CleanJerk,409,True
+2,LEYES Jonatan Martin,ARG,"May 12, 2001",55.52,A,107,112,-117,112,56kgMen,CleanJerk,409,True
+3,DEL RIO Rodrigo,CHI,"Jun 06, 2002",55.64,A,83,- 88,88,88,56kgMen,CleanJerk,409,True
+1,DA SILVA Thiago Felix,BRA,"Dec 26, 2000",55.09,A,94,116,210,,56kgMen,Total,409,True
+2,LEYES Jonatan Martin,ARG,"May 12, 2001",55.52,A,90,112,202,,56kgMen,Total,409,True
+3,DEL RIO Rodrigo,CHI,"Jun 06, 2002",55.64,A,66,88,154,,56kgMen,Total,409,True
+1,LLERENA GRIJALVA Mathias Isaac,ECU,"Sep 01, 2000",61.34,A,-101,101,105,105,62kgMen,Snatch,409,True
+2,KAPPES Ayrton Danel,ARG,"Jul 27, 2000",60.40,A,95,98,100,100,62kgMen,Snatch,409,True
+3,VELA VALDEZ William Jhuniors,PER,"May 08, 2001",60.54,A,92,96,98,98,62kgMen,Snatch,409,True
+4,CASTRO Aldair,CHI,"Feb 04, 2000",61.48,A,83,90,- 93,90,62kgMen,Snatch,409,True
+5,VARGAS VIGORENA Ignacio Omar,CHI,"Nov 14, 2000",60.42,A,- 90,90,- 93,90,62kgMen,Snatch,409,True
+1,LLERENA GRIJALVA Mathias Isaac,ECU,"Sep 01, 2000",61.34,A,125,130,133,133,62kgMen,CleanJerk,409,True
+2,VELA VALDEZ William Jhuniors,PER,"May 08, 2001",60.54,A,117,121,125,125,62kgMen,CleanJerk,409,True
+3,KAPPES Ayrton Danel,ARG,"Jul 27, 2000",60.40,A,115,120,124,124,62kgMen,CleanJerk,409,True
+4,VARGAS VIGORENA Ignacio Omar,CHI,"Nov 14, 2000",60.42,A,113,117,-122,117,62kgMen,CleanJerk,409,True
+5,CASTRO Aldair,CHI,"Feb 04, 2000",61.48,A,105,110,-115,110,62kgMen,CleanJerk,409,True
+1,LLERENA GRIJALVA Mathias Isaac,ECU,"Sep 01, 2000",61.34,A,105,133,238,,62kgMen,Total,409,True
+2,KAPPES Ayrton Danel,ARG,"Jul 27, 2000",60.40,A,100,124,224,,62kgMen,Total,409,True
+3,VELA VALDEZ William Jhuniors,PER,"May 08, 2001",60.54,A,98,125,223,,62kgMen,Total,409,True
+4,VARGAS VIGORENA Ignacio Omar,CHI,"Nov 14, 2000",60.42,A,90,117,207,,62kgMen,Total,409,True
+5,CASTRO Aldair,CHI,"Feb 04, 2000",61.48,A,90,110,200,,62kgMen,Total,409,True
+1,SALINAS DELGADO Lucas Octavio,CHI,"Oct 11, 2000",68.40,A,100,106,-109,106,69kgMen,Snatch,409,True
+2,MORAES REBOLLO Joaquin,URU,"Feb 26, 2001",67.27,A,84,88,91,91,69kgMen,Snatch,409,True
+1,SALINAS DELGADO Lucas Octavio,CHI,"Oct 11, 2000",68.40,A,127,135,-139,135,69kgMen,CleanJerk,409,True
+2,MORAES REBOLLO Joaquin,URU,"Feb 26, 2001",67.27,A,104,-111,-111,104,69kgMen,CleanJerk,409,True
+1,SALINAS DELGADO Lucas Octavio,CHI,"Oct 11, 2000",68.40,A,106,135,241,,69kgMen,Total,409,True
+2,MORAES REBOLLO Joaquin,URU,"Feb 26, 2001",67.27,A,91,104,195,,69kgMen,Total,409,True
+1,CHAVEZ Diego,CHI,"Oct 19, 2002",76.72,A,100,-106,-106,100,77kgMen,Snatch,409,True
+2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Jan 16, 2001",73.29,A,- 92,92,- 95,92,77kgMen,Snatch,409,True
+3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Sep 02, 2000",69.71,A,83,87,92,92,77kgMen,Snatch,409,True
+1,CHAVEZ Diego,CHI,"Oct 19, 2002",76.72,A,-120,121,126,126,77kgMen,CleanJerk,409,True
+2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Jan 16, 2001",73.29,A,117,120,124,124,77kgMen,CleanJerk,409,True
+3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Sep 02, 2000",69.71,A,115,-118,-118,115,77kgMen,CleanJerk,409,True
+1,CHAVEZ Diego,CHI,"Oct 19, 2002",76.72,A,100,126,226,,77kgMen,Total,409,True
+2,VELAZCO RODRIGUEZ Cristopher Renato,PER,"Jan 16, 2001",73.29,A,92,124,216,,77kgMen,Total,409,True
+3,VALDIVIEZO SALDARRIAGA Jean Piere,PER,"Sep 02, 2000",69.71,A,92,115,207,,77kgMen,Total,409,True
+1,GREFA VARGAS Neiser Javier,ECU,"Feb 24, 2001",81.16,A,114,117,119,119,85kgMen,Snatch,409,True
+2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Mar 24, 2002",84.42,A,110,115,118,118,85kgMen,Snatch,409,True
+3,VELAZCO CASTELLANOS Diego Jabel,PER,"Jan 24, 2001",83.93,A,88,92,95,95,85kgMen,Snatch,409,True
+1,GREFA VARGAS Neiser Javier,ECU,"Feb 24, 2001",81.16,A,147,152,156,156,85kgMen,CleanJerk,409,True
+2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Mar 24, 2002",84.42,A,130,-141,141,141,85kgMen,CleanJerk,409,True
+3,VELAZCO CASTELLANOS Diego Jabel,PER,"Jan 24, 2001",83.93,A,118,123,-127,123,85kgMen,CleanJerk,409,True
+1,GREFA VARGAS Neiser Javier,ECU,"Feb 24, 2001",81.16,A,119,156,275,,85kgMen,Total,409,True
+2,CUEVAS IBORRA Nicolas Rodrigo,CHI,"Mar 24, 2002",84.42,A,118,141,259,,85kgMen,Total,409,True
+3,VELAZCO CASTELLANOS Diego Jabel,PER,"Jan 24, 2001",83.93,A,95,123,218,,85kgMen,Total,409,True
+1,FLORES CONCHA Cesar Fabrizzio,PER,"Mar 31, 2001",88.40,A,-117,117,121,121,94kgMen,Snatch,409,True
+2,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",93.15,A,110,-118,-120,110,94kgMen,Snatch,409,True
+1,FLORES CONCHA Cesar Fabrizzio,PER,"Mar 31, 2001",88.40,A,140,143,149,149,94kgMen,CleanJerk,409,True
+2,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",93.15,A,130,141,-145,141,94kgMen,CleanJerk,409,True
+1,FLORES CONCHA Cesar Fabrizzio,PER,"Mar 31, 2001",88.40,A,121,149,270,,94kgMen,Total,409,True
+2,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",93.15,A,110,141,251,,94kgMen,Total,409,True
+1,ESCUDERO NAJERA Carlos Emilio,ECU,"Nov 16, 2001",127.23,A,130,-140,-140,130,+94kgMen,Snatch,409,True
+2,OSORIO PARIMANGO Marco Antonio,PER,"Jul 15, 2000",101.20,A,97,101,104,104,+94kgMen,Snatch,409,True
+1,OSORIO PARIMANGO Marco Antonio,PER,"Jul 15, 2000",101.20,A,127,133,-137,133,+94kgMen,CleanJerk,409,True
+---,ESCUDERO NAJERA Carlos Emilio,ECU,"Nov 16, 2001",127.23,A,-150,-150,-151,---,+94kgMen,CleanJerk,409,True
+1,OSORIO PARIMANGO Marco Antonio,PER,"Jul 15, 2000",101.20,A,104,133,237,,+94kgMen,Total,409,True
+---,ESCUDERO NAJERA Carlos Emilio,ECU,"Nov 16, 2001",127.23,A,130,---,---,,+94kgMen,Total,409,True
+1,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",43.80,A,43,46,48,48,44kgWomen,Snatch,409,True
+2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Apr 18, 2000",43.89,A,38,- 42,42,42,44kgWomen,Snatch,409,True
+1,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",43.80,A,55,58,60,60,44kgWomen,CleanJerk,409,True
+2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Apr 18, 2000",43.89,A,50,- 55,59,59,44kgWomen,CleanJerk,409,True
+1,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",43.80,A,48,60,108,,44kgWomen,Total,409,True
+2,RUBIO ALTAMIRANO Agatha Scarlette,CHI,"Apr 18, 2000",43.89,A,42,59,101,,44kgWomen,Total,409,True
+1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Nov 16, 2002",47.62,A,47,52,55,55,48kgWomen,Snatch,409,True
+1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Nov 16, 2002",47.62,A,60,65,70,70,48kgWomen,CleanJerk,409,True
+1,URRUTIA PEREZ Rocio Del Pilar,CHI,"Nov 16, 2002",47.62,A,55,70,125,,48kgWomen,Total,409,True
+1,LEIVA Florencia Camila,ARG,"Jun 06, 2001",52.17,A,64,67,70,70,53kgWomen,Snatch,409,True
+2,SILVA RAMIREZ Stefania Nicole,PER,"Aug 10, 2000",52.21,A,63,- 66,66,66,53kgWomen,Snatch,409,True
+1,SILVA RAMIREZ Stefania Nicole,PER,"Aug 10, 2000",52.21,A,77,80,83,83,53kgWomen,CleanJerk,409,True
+2,LEIVA Florencia Camila,ARG,"Jun 06, 2001",52.17,A,74,78,- 81,78,53kgWomen,CleanJerk,409,True
+1,SILVA RAMIREZ Stefania Nicole,PER,"Aug 10, 2000",52.21,A,66,83,149,,53kgWomen,Total,409,True
+2,LEIVA Florencia Camila,ARG,"Jun 06, 2001",52.17,A,70,78,148,,53kgWomen,Total,409,True
+1,SORIANO PALOMINO Liliana Cielo,PER,"Mar 11, 2000",56.89,A,58,61,63,63,58kgWomen,Snatch,409,True
+2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Jun 09, 2002",57.36,A,50,55,- 59,55,58kgWomen,Snatch,409,True
+1,SORIANO PALOMINO Liliana Cielo,PER,"Mar 11, 2000",56.89,A,80,83,- 85,83,58kgWomen,CleanJerk,409,True
+2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Jun 09, 2002",57.36,A,65,72,- 77,72,58kgWomen,CleanJerk,409,True
+1,SORIANO PALOMINO Liliana Cielo,PER,"Mar 11, 2000",56.89,A,63,83,146,,58kgWomen,Total,409,True
+2,RIOS MANRIQUEZ Yerika Denisse Antonella,CHI,"Jun 09, 2002",57.36,A,55,72,127,,58kgWomen,Total,409,True
+1,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",61.49,A,78,82,85,85,63kgWomen,Snatch,409,True
+2,PAREDES VASQUEZ Eldi Jhasmin,PER,"Aug 04, 2000",62.40,A,77,- 81,81,81,63kgWomen,Snatch,409,True
+3,RODRIGUEZ Antonella de Los Angeles,ARG,"Aug 25, 2002",62.54,A,68,- 75,76,76,63kgWomen,Snatch,409,True
+4,SOUZA DA SILVA Amanda,BRA,"Jul 09, 2000",61.09,A,70,- 75,75,75,63kgWomen,Snatch,409,True
+5,RAMOS PEREZ Millaray Scarleth,CHI,"Sep 23, 2001",62.64,A,- 65,65,70,70,63kgWomen,Snatch,409,True
+6,VASQUEZ Katalina,CHI,"Mar 10, 2002",58.39,A,45,50,53,53,63kgWomen,Snatch,409,True
+1,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",61.49,A,97,-101,-103,97,63kgWomen,CleanJerk,409,True
+2,SOUZA DA SILVA Amanda,BRA,"Jul 09, 2000",61.09,A,87,93,95,95,63kgWomen,CleanJerk,409,True
+3,RODRIGUEZ Antonella de Los Angeles,ARG,"Aug 25, 2002",62.54,A,80,87,92,92,63kgWomen,CleanJerk,409,True
+4,RAMOS PEREZ Millaray Scarleth,CHI,"Sep 23, 2001",62.64,A,75,82,- 90,82,63kgWomen,CleanJerk,409,True
+5,VASQUEZ Katalina,CHI,"Mar 10, 2002",58.39,A,60,65,- 70,65,63kgWomen,CleanJerk,409,True
+---,PAREDES VASQUEZ Eldi Jhasmin,PER,"Aug 04, 2000",62.40,A,-102,-102,-103,---,63kgWomen,CleanJerk,409,True
+1,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",61.49,A,85,97,182,,63kgWomen,Total,409,True
+2,SOUZA DA SILVA Amanda,BRA,"Jul 09, 2000",61.09,A,75,95,170,,63kgWomen,Total,409,True
+3,RODRIGUEZ Antonella de Los Angeles,ARG,"Aug 25, 2002",62.54,A,76,92,168,,63kgWomen,Total,409,True
+4,RAMOS PEREZ Millaray Scarleth,CHI,"Sep 23, 2001",62.64,A,70,82,152,,63kgWomen,Total,409,True
+5,VASQUEZ Katalina,CHI,"Mar 10, 2002",58.39,A,53,65,118,,63kgWomen,Total,409,True
+---,PAREDES VASQUEZ Eldi Jhasmin,PER,"Aug 04, 2000",62.40,A,81,---,---,,63kgWomen,Total,409,True
+1,PALACIOS DAJOMES Angie Paola,ECU,"Sep 12, 2000",67.79,A,88,91,95,95,69kgWomen,Snatch,409,True
+2,NASCIMENTO AMARO Laura,BRA,"Oct 27, 2000",68.92,A,76,80,- 85,80,69kgWomen,Snatch,409,True
+3,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",67.68,A,62,66,68,68,69kgWomen,Snatch,409,True
+4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"May 21, 2001",67.39,A,60,65,67,67,69kgWomen,Snatch,409,True
+1,PALACIOS DAJOMES Angie Paola,ECU,"Sep 12, 2000",67.79,A,110,113,115,115,69kgWomen,CleanJerk,409,True
+2,NASCIMENTO AMARO Laura,BRA,"Oct 27, 2000",68.92,A,95,101,-105,101,69kgWomen,CleanJerk,409,True
+3,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",67.68,A,80,85,88,88,69kgWomen,CleanJerk,409,True
+4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"May 21, 2001",67.39,A,75,- 80,80,80,69kgWomen,CleanJerk,409,True
+1,PALACIOS DAJOMES Angie Paola,ECU,"Sep 12, 2000",67.79,A,95,115,210,,69kgWomen,Total,409,True
+2,NASCIMENTO AMARO Laura,BRA,"Oct 27, 2000",68.92,A,80,101,181,,69kgWomen,Total,409,True
+3,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",67.68,A,68,88,156,,69kgWomen,Total,409,True
+4,TAPIA ZAMORA Sofia Paulina Elena,CHI,"May 21, 2001",67.39,A,67,80,147,,69kgWomen,Total,409,True
+1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Feb 15, 2000",74.98,A,- 80,80,- 86,80,75kgWomen,Snatch,409,True
+2,ZAMBRANO BODERO Rubi Corina,PER,"Feb 19, 2000",72.27,A,57,62,- 65,62,75kgWomen,Snatch,409,True
+3,MIRANDA Grisselle,CHI,"Mar 20, 2002",71.90,A,- 48,48,52,52,75kgWomen,Snatch,409,True
+1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Feb 15, 2000",74.98,A,-100,100,-105,100,75kgWomen,CleanJerk,409,True
+2,ZAMBRANO BODERO Rubi Corina,PER,"Feb 19, 2000",72.27,A,73,78,82,82,75kgWomen,CleanJerk,409,True
+3,MIRANDA Grisselle,CHI,"Mar 20, 2002",71.90,A,60,70,- 74,70,75kgWomen,CleanJerk,409,True
+1,DA SILVA FIGUEIREDO Thainara Aparecida,BRA,"Feb 15, 2000",74.98,A,80,100,180,,75kgWomen,Total,409,True
+2,ZAMBRANO BODERO Rubi Corina,PER,"Feb 19, 2000",72.27,A,62,82,144,,75kgWomen,Total,409,True
+3,MIRANDA Grisselle,CHI,"Mar 20, 2002",71.90,A,52,70,122,,75kgWomen,Total,409,True
+1,SANTILLAN PASTRANA Carla Soledad,ARG,"Feb 21, 2000",88.85,A,80,84,- 87,84,+75kgWomen,Snatch,409,True
+2,DA SILVA NASCIMENTO Mariana,BRA,"Aug 01, 2000",89.21,A,65,70,73,73,+75kgWomen,Snatch,409,True
+3,NUNEZ GONZALEZ Moyra Paola M,CHI,"Nov 22, 2000",108.04,A,- 70,70,73,73,+75kgWomen,Snatch,409,True
+4,CASTRO ABAD Angie Milagritos,PER,"Sep 02, 2001",86.10,A,65,- 70,- 70,65,+75kgWomen,Snatch,409,True
+5,UBIDIA VALDIVIA Hilda Karla,PER,"Jul 30, 2001",92.12,A,65,- 70,- 70,65,+75kgWomen,Snatch,409,True
+1,SANTILLAN PASTRANA Carla Soledad,ARG,"Feb 21, 2000",88.85,A,100,105,108,108,+75kgWomen,CleanJerk,409,True
+2,CASTRO ABAD Angie Milagritos,PER,"Sep 02, 2001",86.10,A,85,92,94,94,+75kgWomen,CleanJerk,409,True
+3,NUNEZ GONZALEZ Moyra Paola M,CHI,"Nov 22, 2000",108.04,A,- 90,90,- 94,90,+75kgWomen,CleanJerk,409,True
+4,DA SILVA NASCIMENTO Mariana,BRA,"Aug 01, 2000",89.21,A,85,89,- 93,89,+75kgWomen,CleanJerk,409,True
+5,UBIDIA VALDIVIA Hilda Karla,PER,"Jul 30, 2001",92.12,A,80,85,- 91,85,+75kgWomen,CleanJerk,409,True
+1,SANTILLAN PASTRANA Carla Soledad,ARG,"Feb 21, 2000",88.85,A,84,108,192,,+75kgWomen,Total,409,True
+2,NUNEZ GONZALEZ Moyra Paola M,CHI,"Nov 22, 2000",108.04,A,73,90,163,,+75kgWomen,Total,409,True
+3,DA SILVA NASCIMENTO Mariana,BRA,"Aug 01, 2000",89.21,A,73,89,162,,+75kgWomen,Total,409,True
+4,CASTRO ABAD Angie Milagritos,PER,"Sep 02, 2001",86.10,A,65,94,159,,+75kgWomen,Total,409,True
+5,UBIDIA VALDIVIA Hilda Karla,PER,"Jul 30, 2001",92.12,A,65,85,150,,+75kgWomen,Total,409,True

@@ -1,283 +1,283 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,MENG Wenjun,CHN,"Born: Jan 25, 1976",B.weight: 55.60,Group: A,1: -115,2: 115,3: -120,Total: 115,56kgMen,Snatch,316
-Rank: 2,KIM Kyong-Mo,KOR,"Born: Apr 17, 1980",B.weight: 55.55,Group: A,1: 100,2: 105,3: -110,Total: 105,56kgMen,Snatch,316
-Rank: 3,GARCIA Wilfredo Luis,ESA,"Born: Jan 18, 1981",B.weight: 55.93,Group: A,1: 95,2: 100,3: 102.5,Total: 102.5,56kgMen,Snatch,316
-Rank: 4,AKHMETGALIEV Rustem,RUS,"Born: Oct 06, 1977",B.weight: 55.94,Group: A,1: -85,2: 85,3: 90,Total: 90,56kgMen,Snatch,316
-Rank: 5,DELIVA Miguel,ESP,"Born: Nov 12, 1975",B.weight: 55.76,Group: A,1: 70,2: 75,3: -77.5,Total: 75,56kgMen,Snatch,316
-Rank: 1,MENG Wenjun,CHN,"Born: Jan 25, 1976",B.weight: 55.60,Group: A,1: 135,2: 140,3: 142.5,Total: 142.5,56kgMen,CleanJerk,316
-Rank: 2,KIM Kyong-Mo,KOR,"Born: Apr 17, 1980",B.weight: 55.55,Group: A,1: 130,2: 135,3: -142.5,Total: 135,56kgMen,CleanJerk,316
-Rank: 3,GARCIA Wilfredo Luis,ESA,"Born: Jan 18, 1981",B.weight: 55.93,Group: A,1: 125,2: -132.5,3: -132.5,Total: 125,56kgMen,CleanJerk,316
-Rank: 4,AKHMETGALIEV Rustem,RUS,"Born: Oct 06, 1977",B.weight: 55.94,Group: A,1: 105,2: -110,3: 110,Total: 110,56kgMen,CleanJerk,316
-Rank: 5,DELIVA Miguel,ESP,"Born: Nov 12, 1975",B.weight: 55.76,Group: A,1: 60,2: ---,3: ---,Total: 60,56kgMen,CleanJerk,316
-Rank: 1,MENG Wenjun,CHN,"Born: Jan 25, 1976",B.weight: 55.60,Group: A,Snatch: 115,CI&Jerk: 142.5,Total: 257.5,,56kgMen,Total,316
-Rank: 2,KIM Kyong-Mo,KOR,"Born: Apr 17, 1980",B.weight: 55.55,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,56kgMen,Total,316
-Rank: 3,GARCIA Wilfredo Luis,ESA,"Born: Jan 18, 1981",B.weight: 55.93,Group: A,Snatch: 102.5,CI&Jerk: 125,Total: 227.5,,56kgMen,Total,316
-Rank: 4,AKHMETGALIEV Rustem,RUS,"Born: Oct 06, 1977",B.weight: 55.94,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,56kgMen,Total,316
-Rank: 5,DELIVA Miguel,ESP,"Born: Nov 12, 1975",B.weight: 55.76,Group: A,Snatch: 75,CI&Jerk: 60,Total: 135,,56kgMen,Total,316
-Rank: 1,PENG Chongdong,CHN,"Born: Nov 18, 1978",B.weight: 61.10,Group: A,1: 120,2: 125,3: ---,Total: 125,62kgMen,Snatch,316
-Rank: 2,IMAMURA Toshio,JPN,"Born: Dec 25, 1979",B.weight: 61.18,Group: A,1: 112.5,2: 115,3: 117.5,Total: 117.5,62kgMen,Snatch,316
-Rank: 3,MEDRANO Toj Luis Enrique,GUA,"Born: Sep 09, 1976",B.weight: 59.41,Group: A,1: 110,2: -115,3: 115,Total: 115,62kgMen,Snatch,316
-Rank: 4,ARIAS Edwin Nieves-Arias,PUR,"Born: Jul 22, 1977",B.weight: 60.83,Group: A,1: 95,2: -100,3: 100,Total: 100,62kgMen,Snatch,316
-Rank: 5,BLOUIN Patrick,CAN,"Born: Sep 08, 1978",B.weight: 61.94,Group: A,1: -92.5,2: 92.5,3: 97.5,Total: 97.5,62kgMen,Snatch,316
-Rank: 6,CEA Richard,USA,"Born: Aug 21, 1979",B.weight: 61.64,Group: A,1: 72.5,2: 77.5,3: -82.5,Total: 77.5,62kgMen,Snatch,316
-Rank: 1,PENG Chongdong,CHN,"Born: Nov 18, 1978",B.weight: 61.10,Group: A,1: 155,2: 160,3: ---,Total: 160,62kgMen,CleanJerk,316
-Rank: 2,IMAMURA Toshio,JPN,"Born: Dec 25, 1979",B.weight: 61.18,Group: A,1: 145,2: -150,3: -152.5,Total: 145,62kgMen,CleanJerk,316
-Rank: 3,MEDRANO Toj Luis Enrique,GUA,"Born: Sep 09, 1976",B.weight: 59.41,Group: A,1: 135,2: 140,3: 142.5,Total: 142.5,62kgMen,CleanJerk,316
-Rank: 4,ARIAS Edwin Nieves-Arias,PUR,"Born: Jul 22, 1977",B.weight: 60.83,Group: A,1: 127.5,2: -132.5,3: -132.5,Total: 127.5,62kgMen,CleanJerk,316
-Rank: 5,BLOUIN Patrick,CAN,"Born: Sep 08, 1978",B.weight: 61.94,Group: A,1: 115,2: -120,3: -120,Total: 115,62kgMen,CleanJerk,316
-Rank: 6,CEA Richard,USA,"Born: Aug 21, 1979",B.weight: 61.64,Group: A,1: 92.5,2: 97.5,3: -102.5,Total: 97.5,62kgMen,CleanJerk,316
-Rank: 1,PENG Chongdong,CHN,"Born: Nov 18, 1978",B.weight: 61.10,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,62kgMen,Total,316
-Rank: 2,IMAMURA Toshio,JPN,"Born: Dec 25, 1979",B.weight: 61.18,Group: A,Snatch: 117.5,CI&Jerk: 145,Total: 262.5,,62kgMen,Total,316
-Rank: 3,MEDRANO Toj Luis Enrique,GUA,"Born: Sep 09, 1976",B.weight: 59.41,Group: A,Snatch: 115,CI&Jerk: 142.5,Total: 257.5,,62kgMen,Total,316
-Rank: 4,ARIAS Edwin Nieves-Arias,PUR,"Born: Jul 22, 1977",B.weight: 60.83,Group: A,Snatch: 100,CI&Jerk: 127.5,Total: 227.5,,62kgMen,Total,316
-Rank: 5,BLOUIN Patrick,CAN,"Born: Sep 08, 1978",B.weight: 61.94,Group: A,Snatch: 97.5,CI&Jerk: 115,Total: 212.5,,62kgMen,Total,316
-Rank: 6,CEA Richard,USA,"Born: Aug 21, 1979",B.weight: 61.64,Group: A,Snatch: 77.5,CI&Jerk: 97.5,Total: 175,,62kgMen,Total,316
-Rank: 1,WANG Guohua,CHN,"Born: Jan 30, 1975",B.weight: 68.42,Group: A,1: 140,2: -145,3: 145,Total: 145,69kgMen,Snatch,316
-Rank: 2,YANG Cunkang,CHN,"Born: Jul 14, 1978",B.weight: 68.73,Group: A,1: -135,2: 135,3: 140,Total: 140,69kgMen,Snatch,316
-Rank: 3,CHOI Jae-Kyu,KOR,"Born: Dec 26, 1978",B.weight: 68.93,Group: A,1: 130,2: -135,3: 135,Total: 135,69kgMen,Snatch,316
-Rank: 4,OWAN Tomoji,JPN,"Born: Jun 28, 1978",B.weight: 68.19,Group: A,1: 120,2: 125,3: -130,Total: 125,69kgMen,Snatch,316
-Rank: 5,SIFOGIANNAKIS Antonis,GRE,"Born: Apr 28, 1976",B.weight: 68.73,Group: A,1: -117.5,2: 117.5,3: 122.5,Total: 122.5,69kgMen,Snatch,316
-Rank: 6,OGAKI Aklira,JPN,"Born: Dec 03, 1979",B.weight: 68.12,Group: A,1: -120,2: -120,3: 120,Total: 120,69kgMen,Snatch,316
-Rank: 7,JIMENEZ Marvin,GUA,"Born: Apr 27, 1978",B.weight: 65.67,Group: A,1: 115,2: -120,3: -120,Total: 115,69kgMen,Snatch,316
-Rank: 8,MEDINA LUGO Lazaro Humberto,MEX,"Born: Mar 28, 1976",B.weight: 68.59,Group: A,1: 110,2: -115,3: -117.5,Total: 110,69kgMen,Snatch,316
-Rank: 9,LETECHIPIA Lenin,MEX,"Born: Feb 13, 1980",B.weight: 68.80,Group: A,1: 110,2: -115,3: -115,Total: 110,69kgMen,Snatch,316
-Rank: 10,LAFLEUR Eric,CAN,"Born: Mar 24, 1981",B.weight: 68.70,Group: A,1: -105,2: 105,3: -110,Total: 105,69kgMen,Snatch,316
-Rank: 11,NACHUM Amir,ISR,"Born: Sep 08, 1972",B.weight: 67.73,Group: A,1: 102.5,2: -110,3: -110,Total: 102.5,69kgMen,Snatch,316
-Rank: 1,CHOI Jae-Kyu,KOR,"Born: Dec 26, 1978",B.weight: 68.93,Group: A,1: 165,2: 172.5,3: 177.5,Total: 177.5,69kgMen,CleanJerk,316
-Rank: 2,YANG Cunkang,CHN,"Born: Jul 14, 1978",B.weight: 68.73,Group: A,1: 160,2: 170,3: -175,Total: 170,69kgMen,CleanJerk,316
-Rank: 3,WANG Guohua,CHN,"Born: Jan 30, 1975",B.weight: 68.42,Group: A,1: -165,2: 165,3: -170,Total: 165,69kgMen,CleanJerk,316
-Rank: 4,JIMENEZ Marvin,GUA,"Born: Apr 27, 1978",B.weight: 65.67,Group: A,1: -155,2: -155,3: 157.5,Total: 157.5,69kgMen,CleanJerk,316
-Rank: 5,SIFOGIANNAKIS Antonis,GRE,"Born: Apr 28, 1976",B.weight: 68.73,Group: A,1: 152.5,2: 157.5,3: -162.5,Total: 157.5,69kgMen,CleanJerk,316
-Rank: 6,OGAKI Aklira,JPN,"Born: Dec 03, 1979",B.weight: 68.12,Group: A,1: 152.5,2: -157.5,3: -157.5,Total: 152.5,69kgMen,CleanJerk,316
-Rank: 7,OWAN Tomoji,JPN,"Born: Jun 28, 1978",B.weight: 68.19,Group: A,1: 145,2: -150,3: -150,Total: 145,69kgMen,CleanJerk,316
-Rank: 8,LAFLEUR Eric,CAN,"Born: Mar 24, 1981",B.weight: 68.70,Group: A,1: 130,2: 135,3: 140,Total: 140,69kgMen,CleanJerk,316
-Rank: 9,MEDINA LUGO Lazaro Humberto,MEX,"Born: Mar 28, 1976",B.weight: 68.59,Group: A,1: 135,2: -140,3: -140,Total: 135,69kgMen,CleanJerk,316
-Rank: 10,LETECHIPIA Lenin,MEX,"Born: Feb 13, 1980",B.weight: 68.80,Group: A,1: -132.5,2: 132.5,3: -135,Total: 132.5,69kgMen,CleanJerk,316
-Rank: 11,NACHUM Amir,ISR,"Born: Sep 08, 1972",B.weight: 67.73,Group: A,1: 130,2: -137.5,3: -137.5,Total: 130,69kgMen,CleanJerk,316
-Rank: 1,CHOI Jae-Kyu,KOR,"Born: Dec 26, 1978",B.weight: 68.93,Group: A,Snatch: 135,CI&Jerk: 177.5,Total: 312.5,,69kgMen,Total,316
-Rank: 2,WANG Guohua,CHN,"Born: Jan 30, 1975",B.weight: 68.42,Group: A,Snatch: 145,CI&Jerk: 165,Total: 310,,69kgMen,Total,316
-Rank: 3,YANG Cunkang,CHN,"Born: Jul 14, 1978",B.weight: 68.73,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,69kgMen,Total,316
-Rank: 4,SIFOGIANNAKIS Antonis,GRE,"Born: Apr 28, 1976",B.weight: 68.73,Group: A,Snatch: 122.5,CI&Jerk: 157.5,Total: 280,,69kgMen,Total,316
-Rank: 5,JIMENEZ Marvin,GUA,"Born: Apr 27, 1978",B.weight: 65.67,Group: A,Snatch: 115,CI&Jerk: 157.5,Total: 272.5,,69kgMen,Total,316
-Rank: 6,OGAKI Aklira,JPN,"Born: Dec 03, 1979",B.weight: 68.12,Group: A,Snatch: 120,CI&Jerk: 152.5,Total: 272.5,,69kgMen,Total,316
-Rank: 7,OWAN Tomoji,JPN,"Born: Jun 28, 1978",B.weight: 68.19,Group: A,Snatch: 125,CI&Jerk: 145,Total: 270,,69kgMen,Total,316
-Rank: 8,MEDINA LUGO Lazaro Humberto,MEX,"Born: Mar 28, 1976",B.weight: 68.59,Group: A,Snatch: 110,CI&Jerk: 135,Total: 245,,69kgMen,Total,316
-Rank: 9,LAFLEUR Eric,CAN,"Born: Mar 24, 1981",B.weight: 68.70,Group: A,Snatch: 105,CI&Jerk: 140,Total: 245,,69kgMen,Total,316
-Rank: 10,LETECHIPIA Lenin,MEX,"Born: Feb 13, 1980",B.weight: 68.80,Group: A,Snatch: 110,CI&Jerk: 132.5,Total: 242.5,,69kgMen,Total,316
-Rank: 11,NACHUM Amir,ISR,"Born: Sep 08, 1972",B.weight: 67.73,Group: A,Snatch: 102.5,CI&Jerk: 130,Total: 232.5,,69kgMen,Total,316
-Rank: 1,LIU Changzhu,CHN,"Born: Feb 16, 1977",B.weight: 75.91,Group: A,1: 140,2: -145,3: -145,Total: 140,77kgMen,Snatch,316
-Rank: 2,KISOGAWA Akira,JPN,"Born: May 14, 1979",B.weight: 76.33,Group: A,1: -132.5,2: 132.5,3: -140,Total: 132.5,77kgMen,Snatch,316
-Rank: 3,MILMAN Evgeni,ISR,"Born: Feb 17, 1975",B.weight: 76.37,Group: A,1: 115,2: -120,3: 120,Total: 120,77kgMen,Snatch,316
-Rank: 4,VAUGHN Chad Thomas,USA,"Born: May 11, 1980",B.weight: 76.63,Group: A,1: -120,2: 120,3: -130,Total: 120,77kgMen,Snatch,316
-Rank: ---,CACERES Jesus Francisco,ESA,"Born: Oct 08, 1974",B.weight: 74.93,Group: A,1: -130,2: -130,3: -130,Total: ---,77kgMen,Snatch,316
-Rank: DSQ,GUMAN Viktor,SVK,"Born: Apr 15, 1976",B.weight: 76.82,Group: A,1: 152.5,2: 160,3: -162.5,Total: ---,77kgMen,Snatch,316
-Rank: 1,LIU Changzhu,CHN,"Born: Feb 16, 1977",B.weight: 75.91,Group: A,1: -180,2: 180,3: -182.5,Total: 180,77kgMen,CleanJerk,316
-Rank: 2,KISOGAWA Akira,JPN,"Born: May 14, 1979",B.weight: 76.33,Group: A,1: 160,2: 165,3: 170,Total: 170,77kgMen,CleanJerk,316
-Rank: 3,VAUGHN Chad Thomas,USA,"Born: May 11, 1980",B.weight: 76.63,Group: A,1: -165,2: 165,3: -167.5,Total: 165,77kgMen,CleanJerk,316
-Rank: 4,MILMAN Evgeni,ISR,"Born: Feb 17, 1975",B.weight: 76.37,Group: A,1: 145,2: -155,3: -155,Total: 145,77kgMen,CleanJerk,316
-Rank: ---,CACERES Jesus Francisco,ESA,"Born: Oct 08, 1974",B.weight: 74.93,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,316
-Rank: DSQ,GUMAN Viktor,SVK,"Born: Apr 15, 1976",B.weight: 76.82,Group: A,1: 180,2: -185,3: -185,Total: ---,77kgMen,CleanJerk,316
-Rank: 1,LIU Changzhu,CHN,"Born: Feb 16, 1977",B.weight: 75.91,Group: A,Snatch: 140,CI&Jerk: 180,Total: 320,,77kgMen,Total,316
-Rank: 2,KISOGAWA Akira,JPN,"Born: May 14, 1979",B.weight: 76.33,Group: A,Snatch: 132.5,CI&Jerk: 170,Total: 302.5,,77kgMen,Total,316
-Rank: 3,VAUGHN Chad Thomas,USA,"Born: May 11, 1980",B.weight: 76.63,Group: A,Snatch: 120,CI&Jerk: 165,Total: 285,,77kgMen,Total,316
-Rank: 4,MILMAN Evgeni,ISR,"Born: Feb 17, 1975",B.weight: 76.37,Group: A,Snatch: 120,CI&Jerk: 145,Total: 265,,77kgMen,Total,316
-Rank: ---,CACERES Jesus Francisco,ESA,"Born: Oct 08, 1974",B.weight: 74.93,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,316
-Rank: DSQ,GUMAN Viktor,SVK,"Born: Apr 15, 1976",B.weight: 76.82,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,316
-Rank: 1,YUAN Aijun,CHN,"Born: Apr 07, 1977",B.weight: 84.38,Group: A,1: 165,2: 170,3: -172.5,Total: 170,85kgMen,Snatch,316
-Rank: 2,ZHANG Yong,CHN,"Born: Nov 05, 1974",B.weight: 83.76,Group: A,1: 150,2: -155,3: -155,Total: 150,85kgMen,Snatch,316
-Rank: 3,CHAE Yong-Ki,KOR,"Born: Nov 04, 1978",B.weight: 81.27,Group: A,1: -145,2: 145,3: -150,Total: 145,85kgMen,Snatch,316
-Rank: 4,GALIPEAU Julien,CAN,"Born: Jan 29, 1981",B.weight: 84.71,Group: A,1: 135,2: 140,3: -145,Total: 140,85kgMen,Snatch,316
-Rank: 5,BEVEC Tomaz,SLO,"Born: Aug 16, 1979",B.weight: 83.14,Group: A,1: 122.5,2: -127.5,3: 127.5,Total: 127.5,85kgMen,Snatch,316
-Rank: 6,KRAJEWSKI Lukas,AUS,"Born: Jun 07, 1981",B.weight: 84.61,Group: A,1: -115,2: 115,3: 122.5,Total: 122.5,85kgMen,Snatch,316
-Rank: 7,ELLINGSON Richard,USA,"Born: Jul 20, 1979",B.weight: 81.63,Group: A,1: -107.5,2: -107.5,3: 107.5,Total: 107.5,85kgMen,Snatch,316
-Rank: ---,LOLIS Sotiris,GRE,"Born: Oct 02, 1976",B.weight: 84.44,Group: A,1: -145,2: -145,3: -145,Total: ---,85kgMen,Snatch,316
-Rank: 1,ZHANG Yong,CHN,"Born: Nov 05, 1974",B.weight: 83.76,Group: A,1: 190,2: -200,3: 200,Total: 200,85kgMen,CleanJerk,316
-Rank: 2,YUAN Aijun,CHN,"Born: Apr 07, 1977",B.weight: 84.38,Group: A,1: -200,2: -200,3: 200,Total: 200,85kgMen,CleanJerk,316
-Rank: 3,LOLIS Sotiris,GRE,"Born: Oct 02, 1976",B.weight: 84.44,Group: A,1: 177.5,2: 182.5,3: -187.5,Total: 182.5,85kgMen,CleanJerk,316
-Rank: 4,CHAE Yong-Ki,KOR,"Born: Nov 04, 1978",B.weight: 81.27,Group: A,1: 175,2: 180,3: -185,Total: 180,85kgMen,CleanJerk,316
-Rank: 5,GALIPEAU Julien,CAN,"Born: Jan 29, 1981",B.weight: 84.71,Group: A,1: -175,2: 175,3: 180,Total: 180,85kgMen,CleanJerk,316
-Rank: 6,ELLINGSON Richard,USA,"Born: Jul 20, 1979",B.weight: 81.63,Group: A,1: 145,2: -150,3: 150,Total: 150,85kgMen,CleanJerk,316
-Rank: 7,BEVEC Tomaz,SLO,"Born: Aug 16, 1979",B.weight: 83.14,Group: A,1: 145,2: 150,3: -152.5,Total: 150,85kgMen,CleanJerk,316
-Rank: 8,KRAJEWSKI Lukas,AUS,"Born: Jun 07, 1981",B.weight: 84.61,Group: A,1: 140,2: 147.5,3: -155,Total: 147.5,85kgMen,CleanJerk,316
-Rank: 1,YUAN Aijun,CHN,"Born: Apr 07, 1977",B.weight: 84.38,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,85kgMen,Total,316
-Rank: 2,ZHANG Yong,CHN,"Born: Nov 05, 1974",B.weight: 83.76,Group: A,Snatch: 150,CI&Jerk: 200,Total: 350,,85kgMen,Total,316
-Rank: 3,CHAE Yong-Ki,KOR,"Born: Nov 04, 1978",B.weight: 81.27,Group: A,Snatch: 145,CI&Jerk: 180,Total: 325,,85kgMen,Total,316
-Rank: 4,GALIPEAU Julien,CAN,"Born: Jan 29, 1981",B.weight: 84.71,Group: A,Snatch: 140,CI&Jerk: 180,Total: 320,,85kgMen,Total,316
-Rank: 5,BEVEC Tomaz,SLO,"Born: Aug 16, 1979",B.weight: 83.14,Group: A,Snatch: 127.5,CI&Jerk: 150,Total: 277.5,,85kgMen,Total,316
-Rank: 6,KRAJEWSKI Lukas,AUS,"Born: Jun 07, 1981",B.weight: 84.61,Group: A,Snatch: 122.5,CI&Jerk: 147.5,Total: 270,,85kgMen,Total,316
-Rank: 7,ELLINGSON Richard,USA,"Born: Jul 20, 1979",B.weight: 81.63,Group: A,Snatch: 107.5,CI&Jerk: 150,Total: 257.5,,85kgMen,Total,316
-Rank: ---,LOLIS Sotiris,GRE,"Born: Oct 02, 1976",B.weight: 84.44,Group: A,Snatch: ---,CI&Jerk: 182.5,Total: ---,,85kgMen,Total,316
-Rank: 1,QIN Guang,CHN,"Born: Apr 16, 1975",B.weight: 92.63,Group: A,1: 162.5,2: 170,3: -172.5,Total: 170,94kgMen,Snatch,316
-Rank: 2,SMIRNOV Dimitri,RUS,"Born: Jul 19, 1973",B.weight: 93.96,Group: A,1: 150,2: 155,3: 160,Total: 160,94kgMen,Snatch,316
-Rank: 3,DIOSZEGI Sandor,HUN,"Born: Apr 18, 1979",B.weight: 91.51,Group: A,1: 145,2: -150,3: -150,Total: 145,94kgMen,Snatch,316
-Rank: 4,PAPADOPOULOS Theocharis,GRE,"Born: Feb 10, 1977",B.weight: 92.43,Group: A,1: -145,2: -145,3: 145,Total: 145,94kgMen,Snatch,316
-Rank: 5,NAM Taek-Min,KOR,"Born: Aug 26, 1980",B.weight: 89.77,Group: A,1: 120,2: 130,3: 140,Total: 140,94kgMen,Snatch,316
-Rank: 6,SANTAVY Dalas John,CAN,"Born: Jun 26, 1972",B.weight: 92.66,Group: A,1: 135,2: 140,3: -142.5,Total: 140,94kgMen,Snatch,316
-Rank: 7,SCHREINER Aaron,USA,"Born: Jan 08, 1979",B.weight: 89.35,Group: A,1: 120,2: 127.5,3: -132.5,Total: 127.5,94kgMen,Snatch,316
-Rank: 8,VARNADORE Bruce,USA,"Born: Oct 08, 1980",B.weight: 91.03,Group: A,1: -120,2: 120,3: 125,Total: 125,94kgMen,Snatch,316
-Rank: 9,MARINEAU Frederik,CAN,"Born: Sep 18, 1981",B.weight: 85.39,Group: A,1: 115,2: -120,3: -120,Total: 115,94kgMen,Snatch,316
-Rank: 1,QIN Guang,CHN,"Born: Apr 16, 1975",B.weight: 92.63,Group: A,1: 200,2: 212.5,3: ---,Total: 212.5,94kgMen,CleanJerk,316
-Rank: 2,SMIRNOV Dimitri,RUS,"Born: Jul 19, 1973",B.weight: 93.96,Group: A,1: 175,2: 180,3: 185,Total: 185,94kgMen,CleanJerk,316
-Rank: 3,DIOSZEGI Sandor,HUN,"Born: Apr 18, 1979",B.weight: 91.51,Group: A,1: 177.5,2: 180,3: -182.5,Total: 180,94kgMen,CleanJerk,316
-Rank: 4,SANTAVY Dalas John,CAN,"Born: Jun 26, 1972",B.weight: 92.66,Group: A,1: 175,2: -180,3: 180,Total: 180,94kgMen,CleanJerk,316
-Rank: 5,PAPADOPOULOS Theocharis,GRE,"Born: Feb 10, 1977",B.weight: 92.43,Group: A,1: -175,2: 175,3: -182.5,Total: 175,94kgMen,CleanJerk,316
-Rank: 6,NAM Taek-Min,KOR,"Born: Aug 26, 1980",B.weight: 89.77,Group: A,1: 170,2: -180,3: -182.5,Total: 170,94kgMen,CleanJerk,316
-Rank: 7,SCHREINER Aaron,USA,"Born: Jan 08, 1979",B.weight: 89.35,Group: A,1: 147.5,2: 152.5,3: -157.5,Total: 152.5,94kgMen,CleanJerk,316
-Rank: 8,VARNADORE Bruce,USA,"Born: Oct 08, 1980",B.weight: 91.03,Group: A,1: -147.5,2: 147.5,3: -152.5,Total: 147.5,94kgMen,CleanJerk,316
-Rank: 9,MARINEAU Frederik,CAN,"Born: Sep 18, 1981",B.weight: 85.39,Group: A,1: 120,2: ---,3: ---,Total: 120,94kgMen,CleanJerk,316
-Rank: 1,QIN Guang,CHN,"Born: Apr 16, 1975",B.weight: 92.63,Group: A,Snatch: 170,CI&Jerk: 212.5,Total: 382.5,,94kgMen,Total,316
-Rank: 2,SMIRNOV Dimitri,RUS,"Born: Jul 19, 1973",B.weight: 93.96,Group: A,Snatch: 160,CI&Jerk: 185,Total: 345,,94kgMen,Total,316
-Rank: 3,DIOSZEGI Sandor,HUN,"Born: Apr 18, 1979",B.weight: 91.51,Group: A,Snatch: 145,CI&Jerk: 180,Total: 325,,94kgMen,Total,316
-Rank: 4,PAPADOPOULOS Theocharis,GRE,"Born: Feb 10, 1977",B.weight: 92.43,Group: A,Snatch: 145,CI&Jerk: 175,Total: 320,,94kgMen,Total,316
-Rank: 5,SANTAVY Dalas John,CAN,"Born: Jun 26, 1972",B.weight: 92.66,Group: A,Snatch: 140,CI&Jerk: 180,Total: 320,,94kgMen,Total,316
-Rank: 6,NAM Taek-Min,KOR,"Born: Aug 26, 1980",B.weight: 89.77,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,94kgMen,Total,316
-Rank: 7,SCHREINER Aaron,USA,"Born: Jan 08, 1979",B.weight: 89.35,Group: A,Snatch: 127.5,CI&Jerk: 152.5,Total: 280,,94kgMen,Total,316
-Rank: 8,VARNADORE Bruce,USA,"Born: Oct 08, 1980",B.weight: 91.03,Group: A,Snatch: 125,CI&Jerk: 147.5,Total: 272.5,,94kgMen,Total,316
-Rank: 9,MARINEAU Frederik,CAN,"Born: Sep 18, 1981",B.weight: 85.39,Group: A,Snatch: 115,CI&Jerk: 120,Total: 235,,94kgMen,Total,316
-Rank: 1,PISAREVSKIY Gleb,RUS,"Born: Jun 28, 1976",B.weight: 104.73,Group: A,1: 170,2: 180,3: 182.5,Total: 182.5,105kgMen,Snatch,316
-Rank: 2,CARRIO Lorenzo,ESP,"Born: Nov 07, 1973",B.weight: 104.78,Group: A,1: 150,2: 157.5,3: 162.5,Total: 162.5,105kgMen,Snatch,316
-Rank: 3,SANDOR Akos,CAN,"Born: Dec 11, 1977",B.weight: 104.27,Group: A,1: 155,2: 160,3: -165,Total: 160,105kgMen,Snatch,316
-Rank: 4,MAGOULAS Stavros,GRE,"Born: Jul 02, 1976",B.weight: 104.39,Group: A,1: 155,2: 160,3: -162.5,Total: 160,105kgMen,Snatch,316
-Rank: 5,REED Alexis,USA,"Born: Dec 20, 1972",B.weight: 101.83,Group: A,1: 145,2: -152.5,3: -152.5,Total: 145,105kgMen,Snatch,316
-Rank: 6,MURAYAMA Atsushi,JPN,"Born: Oct 19, 1978",B.weight: 104.39,Group: A,1: 135,2: 140,3: -142.5,Total: 140,105kgMen,Snatch,316
-Rank: 7,KIM Dong-Hyun,KOR,"Born: Sep 02, 1980",B.weight: 104.83,Group: A,1: 140,2: -145,3: -145,Total: 140,105kgMen,Snatch,316
-Rank: 8,ARSICH Jeremy,USA,"Born: May 14, 1979",B.weight: 104.24,Group: A,1: 105,2: -110,3: 112.5,Total: 112.5,105kgMen,Snatch,316
-Rank: 1,PISAREVSKIY Gleb,RUS,"Born: Jun 28, 1976",B.weight: 104.73,Group: A,1: 200,2: 210,3: -220,Total: 210,105kgMen,CleanJerk,316
-Rank: 2,CARRIO Lorenzo,ESP,"Born: Nov 07, 1973",B.weight: 104.78,Group: A,1: 190,2: 197.5,3: 202.5,Total: 202.5,105kgMen,CleanJerk,316
-Rank: 3,SANDOR Akos,CAN,"Born: Dec 11, 1977",B.weight: 104.27,Group: A,1: 195,2: -202.5,3: -205,Total: 195,105kgMen,CleanJerk,316
-Rank: 4,MAGOULAS Stavros,GRE,"Born: Jul 02, 1976",B.weight: 104.39,Group: A,1: -192.5,2: -192.5,3: 192.5,Total: 192.5,105kgMen,CleanJerk,316
-Rank: 5,KIM Dong-Hyun,KOR,"Born: Sep 02, 1980",B.weight: 104.83,Group: A,1: 175,2: 180,3: -190,Total: 180,105kgMen,CleanJerk,316
-Rank: 6,REED Alexis,USA,"Born: Dec 20, 1972",B.weight: 101.83,Group: A,1: -175,2: -175,3: 175,Total: 175,105kgMen,CleanJerk,316
-Rank: 7,MURAYAMA Atsushi,JPN,"Born: Oct 19, 1978",B.weight: 104.39,Group: A,1: -170,2: -170,3: 170,Total: 170,105kgMen,CleanJerk,316
-Rank: 8,ARSICH Jeremy,USA,"Born: May 14, 1979",B.weight: 104.24,Group: A,1: 125,2: -130,3: -130,Total: 125,105kgMen,CleanJerk,316
-Rank: 1,PISAREVSKIY Gleb,RUS,"Born: Jun 28, 1976",B.weight: 104.73,Group: A,Snatch: 182.5,CI&Jerk: 210,Total: 392.5,,105kgMen,Total,316
-Rank: 2,CARRIO Lorenzo,ESP,"Born: Nov 07, 1973",B.weight: 104.78,Group: A,Snatch: 162.5,CI&Jerk: 202.5,Total: 365,,105kgMen,Total,316
-Rank: 3,SANDOR Akos,CAN,"Born: Dec 11, 1977",B.weight: 104.27,Group: A,Snatch: 160,CI&Jerk: 195,Total: 355,,105kgMen,Total,316
-Rank: 4,MAGOULAS Stavros,GRE,"Born: Jul 02, 1976",B.weight: 104.39,Group: A,Snatch: 160,CI&Jerk: 192.5,Total: 352.5,,105kgMen,Total,316
-Rank: 5,REED Alexis,USA,"Born: Dec 20, 1972",B.weight: 101.83,Group: A,Snatch: 145,CI&Jerk: 175,Total: 320,,105kgMen,Total,316
-Rank: 6,KIM Dong-Hyun,KOR,"Born: Sep 02, 1980",B.weight: 104.83,Group: A,Snatch: 140,CI&Jerk: 180,Total: 320,,105kgMen,Total,316
-Rank: 7,MURAYAMA Atsushi,JPN,"Born: Oct 19, 1978",B.weight: 104.39,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,105kgMen,Total,316
-Rank: 8,ARSICH Jeremy,USA,"Born: May 14, 1979",B.weight: 104.24,Group: A,Snatch: 112.5,CI&Jerk: 125,Total: 237.5,,105kgMen,Total,316
-Rank: 1,CHEMERKIN Andrei,RUS,"Born: Feb 17, 1972",B.weight: 175.62,Group: A,1: 175,2: 185,3: 190,Total: 190,+105kgMen,Snatch,316
-Rank: 2,KRASNOV Boris,RUS,"Born: Feb 05, 1977",B.weight: 123.48,Group: A,1: 167.5,2: 172.5,3: 177.5,Total: 177.5,+105kgMen,Snatch,316
-Rank: 3,JEON Sang-Guen,KOR,"Born: Feb 28, 1981",B.weight: 125.95,Group: A,1: 150,2: 160,3: 170,Total: 170,+105kgMen,Snatch,316
-Rank: 4,FOREMAN Matthew,USA,"Born: Jul 20, 1972",B.weight: 126.27,Group: A,1: -142.5,2: 142.5,3: -150,Total: 142.5,+105kgMen,Snatch,316
-Rank: 5,YAKA Takuzo,JPN,"Born: Feb 03, 1979",B.weight: 131.71,Group: A,1: 135,2: -142.5,3: 142.5,Total: 142.5,+105kgMen,Snatch,316
-Rank: 6,YULE Stuart,GBR,"Born: Mar 15, 1976",B.weight: 115.42,Group: A,1: -130,2: 130,3: 135,Total: 135,+105kgMen,Snatch,316
-Rank: 7,BILODEAU Jocelyn,CAN,"Born: Jun 17, 1975",B.weight: 123.81,Group: A,1: 130,2: -135,3: -135,Total: 130,+105kgMen,Snatch,316
-Rank: 1,CHEMERKIN Andrei,RUS,"Born: Feb 17, 1972",B.weight: 175.62,Group: A,1: 220,2: 230,3: ---,Total: 230,+105kgMen,CleanJerk,316
-Rank: 2,KRASNOV Boris,RUS,"Born: Feb 05, 1977",B.weight: 123.48,Group: A,1: 205,2: 210,3: -215,Total: 210,+105kgMen,CleanJerk,316
-Rank: 3,JEON Sang-Guen,KOR,"Born: Feb 28, 1981",B.weight: 125.95,Group: A,1: 190,2: 195,3: -205,Total: 195,+105kgMen,CleanJerk,316
-Rank: 4,YAKA Takuzo,JPN,"Born: Feb 03, 1979",B.weight: 131.71,Group: A,1: 185,2: 192.5,3: -197.5,Total: 192.5,+105kgMen,CleanJerk,316
-Rank: 5,YULE Stuart,GBR,"Born: Mar 15, 1976",B.weight: 115.42,Group: A,1: 180,2: -185,3: -185,Total: 180,+105kgMen,CleanJerk,316
-Rank: 6,BILODEAU Jocelyn,CAN,"Born: Jun 17, 1975",B.weight: 123.81,Group: A,1: 165,2: 170,3: -175,Total: 170,+105kgMen,CleanJerk,316
-Rank: 7,FOREMAN Matthew,USA,"Born: Jul 20, 1972",B.weight: 126.27,Group: A,1: 160,2: 167.5,3: ---,Total: 167.5,+105kgMen,CleanJerk,316
-Rank: 1,CHEMERKIN Andrei,RUS,"Born: Feb 17, 1972",B.weight: 175.62,Group: A,Snatch: 190,CI&Jerk: 230,Total: 420,,+105kgMen,Total,316
-Rank: 2,KRASNOV Boris,RUS,"Born: Feb 05, 1977",B.weight: 123.48,Group: A,Snatch: 177.5,CI&Jerk: 210,Total: 387.5,,+105kgMen,Total,316
-Rank: 3,JEON Sang-Guen,KOR,"Born: Feb 28, 1981",B.weight: 125.95,Group: A,Snatch: 170,CI&Jerk: 195,Total: 365,,+105kgMen,Total,316
-Rank: 4,YAKA Takuzo,JPN,"Born: Feb 03, 1979",B.weight: 131.71,Group: A,Snatch: 142.5,CI&Jerk: 192.5,Total: 335,,+105kgMen,Total,316
-Rank: 5,YULE Stuart,GBR,"Born: Mar 15, 1976",B.weight: 115.42,Group: A,Snatch: 135,CI&Jerk: 180,Total: 315,,+105kgMen,Total,316
-Rank: 6,FOREMAN Matthew,USA,"Born: Jul 20, 1972",B.weight: 126.27,Group: A,Snatch: 142.5,CI&Jerk: 167.5,Total: 310,,+105kgMen,Total,316
-Rank: 7,BILODEAU Jocelyn,CAN,"Born: Jun 17, 1975",B.weight: 123.81,Group: A,Snatch: 130,CI&Jerk: 170,Total: 300,,+105kgMen,Total,316
-Rank: 1,LIU Xiuhua,CHN,"Born: Oct 05, 1975",B.weight: 47.61,Group: A,1: 80,2: 85.5,3: 87.5,Total: 87.5,48kgWomen,Snatch,316
-Rank: 2,TURCOTTE Karine,CAN,"Born: Aug 28, 1978",B.weight: 47.55,Group: A,1: 60,2: -62.5,3: 62.5,Total: 62.5,48kgWomen,Snatch,316
-Rank: 3,KUO Mei-Fang,TPE,"Born: Nov 19, 1977",B.weight: 47.83,Group: A,1: -60,2: 60,3: -65,Total: 60,48kgWomen,Snatch,316
-Rank: 4,HSU Hsueh-Fen,TPE,"Born: Jan 26, 1980",B.weight: 47.83,Group: A,1: -60,2: -60,3: 60,Total: 60,48kgWomen,Snatch,316
-Rank: 5,CARELLA Nichol,USA,"Born: Sep 22, 1979",B.weight: 47.87,Group: A,1: 42.5,2: -45,3: -45,Total: 42.5,48kgWomen,Snatch,316
-Rank: 1,LIU Xiuhua,CHN,"Born: Oct 05, 1975",B.weight: 47.61,Group: A,1: 105,2: 110,3: -112.5,Total: 110,48kgWomen,CleanJerk,316
-Rank: 2,TURCOTTE Karine,CAN,"Born: Aug 28, 1978",B.weight: 47.55,Group: A,1: 75,2: 80,3: 82.5,Total: 82.5,48kgWomen,CleanJerk,316
-Rank: 3,KUO Mei-Fang,TPE,"Born: Nov 19, 1977",B.weight: 47.83,Group: A,1: 80,2: -85,3: -85,Total: 80,48kgWomen,CleanJerk,316
-Rank: 4,HSU Hsueh-Fen,TPE,"Born: Jan 26, 1980",B.weight: 47.83,Group: A,1: 80,2: -85,3: -85,Total: 80,48kgWomen,CleanJerk,316
-Rank: 5,CARELLA Nichol,USA,"Born: Sep 22, 1979",B.weight: 47.87,Group: A,1: 57.5,2: -62.5,3: -62.5,Total: 57.5,48kgWomen,CleanJerk,316
-Rank: 1,LIU Xiuhua,CHN,"Born: Oct 05, 1975",B.weight: 47.61,Group: A,Snatch: 87.5,CI&Jerk: 110,Total: 197.5,,48kgWomen,Total,316
-Rank: 2,TURCOTTE Karine,CAN,"Born: Aug 28, 1978",B.weight: 47.55,Group: A,Snatch: 62.5,CI&Jerk: 82.5,Total: 145,,48kgWomen,Total,316
-Rank: 3,KUO Mei-Fang,TPE,"Born: Nov 19, 1977",B.weight: 47.83,Group: A,Snatch: 60,CI&Jerk: 80,Total: 140,,48kgWomen,Total,316
-Rank: 4,HSU Hsueh-Fen,TPE,"Born: Jan 26, 1980",B.weight: 47.83,Group: A,Snatch: 60,CI&Jerk: 80,Total: 140,,48kgWomen,Total,316
-Rank: 5,CARELLA Nichol,USA,"Born: Sep 22, 1979",B.weight: 47.87,Group: A,Snatch: 42.5,CI&Jerk: 57.5,Total: 100,,48kgWomen,Total,316
-Rank: 1,WANG Xiufen,CHN,"Born: Feb 20, 1974",B.weight: 52.99,Group: A,1: 80,2: 85,3: 90,Total: 90,53kgWomen,Snatch,316
-Rank: 2,LING I-Hua,TPE,"Born: Nov 20, 1979",B.weight: 49.50,Group: A,1: -65,2: 65,3: 70,Total: 70,53kgWomen,Snatch,316
-Rank: 3,REYES Marina,MEX,"Born: Jul 12, 1980",B.weight: 52.87,Group: A,1: 67.5,2: 70,3: -72.5,Total: 70,53kgWomen,Snatch,316
-Rank: 4,MARTINEZ Blanca,ESA,"Born: Oct 06, 1973",B.weight: 52.89,Group: A,1: 67.5,2: -70,3: 70,Total: 70,53kgWomen,Snatch,316
-Rank: 5,BROCHU Isabelle,CAN,"Born: Jul 21, 1981",B.weight: 52.95,Group: A,1: -60,2: 60,3: 62.5,Total: 62.5,53kgWomen,Snatch,316
-Rank: 6,SPALA Efstathia,GRE,"Born: Apr 12, 1979",B.weight: 49.43,Group: A,1: 52.5,2: -57.5,3: -57.5,Total: 52.5,53kgWomen,Snatch,316
-Rank: 1,WANG Xiufen,CHN,"Born: Feb 20, 1974",B.weight: 52.99,Group: A,1: -110,2: -110,3: 110,Total: 110,53kgWomen,CleanJerk,316
-Rank: 2,LING I-Hua,TPE,"Born: Nov 20, 1979",B.weight: 49.50,Group: A,1: 90,2: -95,3: 95,Total: 95,53kgWomen,CleanJerk,316
-Rank: 3,REYES Marina,MEX,"Born: Jul 12, 1980",B.weight: 52.87,Group: A,1: 77.5,2: 82.5,3: 85,Total: 85,53kgWomen,CleanJerk,316
-Rank: 4,MARTINEZ Blanca,ESA,"Born: Oct 06, 1973",B.weight: 52.89,Group: A,1: 80,2: -85,3: -87.5,Total: 80,53kgWomen,CleanJerk,316
-Rank: 5,BROCHU Isabelle,CAN,"Born: Jul 21, 1981",B.weight: 52.95,Group: A,1: 77.5,2: -80,3: -80,Total: 77.5,53kgWomen,CleanJerk,316
-Rank: 6,SPALA Efstathia,GRE,"Born: Apr 12, 1979",B.weight: 49.43,Group: A,1: 65,2: -70,3: -70,Total: 65,53kgWomen,CleanJerk,316
-Rank: 1,WANG Xiufen,CHN,"Born: Feb 20, 1974",B.weight: 52.99,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,53kgWomen,Total,316
-Rank: 2,LING I-Hua,TPE,"Born: Nov 20, 1979",B.weight: 49.50,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,53kgWomen,Total,316
-Rank: 3,REYES Marina,MEX,"Born: Jul 12, 1980",B.weight: 52.87,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,53kgWomen,Total,316
-Rank: 4,MARTINEZ Blanca,ESA,"Born: Oct 06, 1973",B.weight: 52.89,Group: A,Snatch: 70,CI&Jerk: 80,Total: 150,,53kgWomen,Total,316
-Rank: 5,BROCHU Isabelle,CAN,"Born: Jul 21, 1981",B.weight: 52.95,Group: A,Snatch: 62.5,CI&Jerk: 77.5,Total: 140,,53kgWomen,Total,316
-Rank: 6,SPALA Efstathia,GRE,"Born: Apr 12, 1979",B.weight: 49.43,Group: A,Snatch: 52.5,CI&Jerk: 65,Total: 117.5,,53kgWomen,Total,316
-Rank: 1,JIMENEZ Mendivil Soraya,MEX,"Born: Aug 05, 1977",B.weight: 57.40,Group: A,1: 87.5,2: 90,3: -92.5,Total: 90,58kgWomen,Snatch,316
-Rank: 2,TURCOTTE Maryse,CAN,"Born: Feb 23, 1975",B.weight: 57.78,Group: A,1: 85,2: -90,3: 90,Total: 90,58kgWomen,Snatch,316
-Rank: 3,DANEKOVA Dagmar,SVK,"Born: Feb 20, 1978",B.weight: 57.60,Group: A,1: 82.5,2: -85,3: 85,Total: 85,58kgWomen,Snatch,316
-Rank: 4,TAIRA Tomomi,JPN,"Born: Jun 15, 1979",B.weight: 57.48,Group: A,1: 70,2: 75,3: -77.5,Total: 75,58kgWomen,Snatch,316
-Rank: 5,OROZCO Ana Yedid Urena,MEX,"Born: Mar 03, 1981",B.weight: 57.65,Group: A,1: 70,2: -75,3: -75,Total: 70,58kgWomen,Snatch,316
-Rank: 6,LECLERC Gail,CAN,"Born: Apr 30, 1974",B.weight: 57.93,Group: A,1: 60,2: -62.5,3: -62.5,Total: 60,58kgWomen,Snatch,316
-Rank: 1,TURCOTTE Maryse,CAN,"Born: Feb 23, 1975",B.weight: 57.78,Group: A,1: 115,2: 117.5,3: 120,Total: 120,58kgWomen,CleanJerk,316
-Rank: 2,JIMENEZ Mendivil Soraya,MEX,"Born: Aug 05, 1977",B.weight: 57.40,Group: A,1: -115,2: -115,3: 115,Total: 115,58kgWomen,CleanJerk,316
-Rank: 3,DANEKOVA Dagmar,SVK,"Born: Feb 20, 1978",B.weight: 57.60,Group: A,1: 102.5,2: 105,3: 107.5,Total: 107.5,58kgWomen,CleanJerk,316
-Rank: 4,TAIRA Tomomi,JPN,"Born: Jun 15, 1979",B.weight: 57.48,Group: A,1: 92.5,2: -97.5,3: 97.5,Total: 97.5,58kgWomen,CleanJerk,316
-Rank: 5,OROZCO Ana Yedid Urena,MEX,"Born: Mar 03, 1981",B.weight: 57.65,Group: A,1: -90,2: 90,3: -95,Total: 90,58kgWomen,CleanJerk,316
-Rank: 6,LECLERC Gail,CAN,"Born: Apr 30, 1974",B.weight: 57.93,Group: A,1: 77.5,2: -80,3: 80,Total: 80,58kgWomen,CleanJerk,316
-Rank: 1,TURCOTTE Maryse,CAN,"Born: Feb 23, 1975",B.weight: 57.78,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,58kgWomen,Total,316
-Rank: 2,JIMENEZ Mendivil Soraya,MEX,"Born: Aug 05, 1977",B.weight: 57.40,Group: A,Snatch: 90,CI&Jerk: 115,Total: 205,,58kgWomen,Total,316
-Rank: 3,DANEKOVA Dagmar,SVK,"Born: Feb 20, 1978",B.weight: 57.60,Group: A,Snatch: 85,CI&Jerk: 107.5,Total: 192.5,,58kgWomen,Total,316
-Rank: 4,TAIRA Tomomi,JPN,"Born: Jun 15, 1979",B.weight: 57.48,Group: A,Snatch: 75,CI&Jerk: 97.5,Total: 172.5,,58kgWomen,Total,316
-Rank: 5,OROZCO Ana Yedid Urena,MEX,"Born: Mar 03, 1981",B.weight: 57.65,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,58kgWomen,Total,316
-Rank: 6,LECLERC Gail,CAN,"Born: Apr 30, 1974",B.weight: 57.93,Group: A,Snatch: 60,CI&Jerk: 80,Total: 140,,58kgWomen,Total,316
-Rank: 1,DIAO Weiwei,CHN,"Born: Aug 11, 1979",B.weight: 62.51,Group: A,1: 95,2: 100,3: -102.5,Total: 100,63kgWomen,Snatch,316
-Rank: 2,LIN Yu-Ming,TPE,"Born: Oct 22, 1979",B.weight: 61.19,Group: A,1: 80,2: -85,3: -85,Total: 80,63kgWomen,Snatch,316
-Rank: 3,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 62.40,Group: A,1: 75,2: 80,3: -82.5,Total: 80,63kgWomen,Snatch,316
-Rank: 4,TSAKIRI Anastasia,GRE,"Born: Feb 02, 1979",B.weight: 62.76,Group: A,1: 72.5,2: -77.5,3: 77.5,Total: 77.5,63kgWomen,Snatch,316
-Rank: 5,NIGHTINGALE Melissa,AUS,"Born: Jul 03, 1981",B.weight: 62.99,Group: A,1: -65,2: -65,3: 65,Total: 65,63kgWomen,Snatch,316
-Rank: 6,SANDHU Sophia,CAN,"Born: Oct 20, 1979",B.weight: 59.38,Group: A,1: -62.5,2: 62.5,3: -70,Total: 62.5,63kgWomen,Snatch,316
-Rank: 7,JONES Rachel,USA,"Born: Nov 10, 1978",B.weight: 59.57,Group: A,1: -60,2: 60,3: -65,Total: 60,63kgWomen,Snatch,316
-Rank: 8,HAUF Marlena,USA,"Born: Mar 24, 1979",B.weight: 62.91,Group: A,1: 50,2: 52.5,3: 55,Total: 55,63kgWomen,Snatch,316
-Rank: 1,DIAO Weiwei,CHN,"Born: Aug 11, 1979",B.weight: 62.51,Group: A,1: 115,2: 120,3: 125,Total: 125,63kgWomen,CleanJerk,316
-Rank: 2,LIN Yu-Ming,TPE,"Born: Oct 22, 1979",B.weight: 61.19,Group: A,1: 102.5,2: 105,3: -107.5,Total: 105,63kgWomen,CleanJerk,316
-Rank: 3,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 62.40,Group: A,1: 95,2: 97.5,3: -105,Total: 97.5,63kgWomen,CleanJerk,316
-Rank: 4,TSAKIRI Anastasia,GRE,"Born: Feb 02, 1979",B.weight: 62.76,Group: A,1: 90,2: 97.5,3: -100,Total: 97.5,63kgWomen,CleanJerk,316
-Rank: 5,SANDHU Sophia,CAN,"Born: Oct 20, 1979",B.weight: 59.38,Group: A,1: 87.5,2: -92.5,3: -95,Total: 87.5,63kgWomen,CleanJerk,316
-Rank: 6,JONES Rachel,USA,"Born: Nov 10, 1978",B.weight: 59.57,Group: A,1: 70,2: 75,3: -80,Total: 75,63kgWomen,CleanJerk,316
-Rank: 7,NIGHTINGALE Melissa,AUS,"Born: Jul 03, 1981",B.weight: 62.99,Group: A,1: 72.5,2: 75,3: -80,Total: 75,63kgWomen,CleanJerk,316
-Rank: 8,HAUF Marlena,USA,"Born: Mar 24, 1979",B.weight: 62.91,Group: A,1: -65,2: 65,3: -70,Total: 65,63kgWomen,CleanJerk,316
-Rank: 1,DIAO Weiwei,CHN,"Born: Aug 11, 1979",B.weight: 62.51,Group: A,Snatch: 100,CI&Jerk: 125,Total: 225,,63kgWomen,Total,316
-Rank: 2,LIN Yu-Ming,TPE,"Born: Oct 22, 1979",B.weight: 61.19,Group: A,Snatch: 80,CI&Jerk: 105,Total: 185,,63kgWomen,Total,316
-Rank: 3,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 62.40,Group: A,Snatch: 80,CI&Jerk: 97.5,Total: 177.5,,63kgWomen,Total,316
-Rank: 4,TSAKIRI Anastasia,GRE,"Born: Feb 02, 1979",B.weight: 62.76,Group: A,Snatch: 77.5,CI&Jerk: 97.5,Total: 175,,63kgWomen,Total,316
-Rank: 5,SANDHU Sophia,CAN,"Born: Oct 20, 1979",B.weight: 59.38,Group: A,Snatch: 62.5,CI&Jerk: 87.5,Total: 150,,63kgWomen,Total,316
-Rank: 6,NIGHTINGALE Melissa,AUS,"Born: Jul 03, 1981",B.weight: 62.99,Group: A,Snatch: 65,CI&Jerk: 75,Total: 140,,63kgWomen,Total,316
-Rank: 7,JONES Rachel,USA,"Born: Nov 10, 1978",B.weight: 59.57,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,63kgWomen,Total,316
-Rank: 8,HAUF Marlena,USA,"Born: Mar 24, 1979",B.weight: 62.91,Group: A,Snatch: 55,CI&Jerk: 65,Total: 120,,63kgWomen,Total,316
-Rank: 1,LIN Weining,CHN,"Born: Mar 15, 1979",B.weight: 67.31,Group: A,1: 102.5,2: 107.5,3: -112.5,Total: 107.5,69kgWomen,Snatch,316
-Rank: 2,DIMAS FONTANALS Eva Maria,ESA,"Born: Mar 18, 1973",B.weight: 68.83,Group: A,1: 87.5,2: 92.5,3: 95,Total: 95,69kgWomen,Snatch,316
-Rank: 1,LIN Weining,CHN,"Born: Mar 15, 1979",B.weight: 67.31,Group: A,1: 125,2: 130,3: 135,Total: 135,69kgWomen,CleanJerk,316
-Rank: 2,DIMAS FONTANALS Eva Maria,ESA,"Born: Mar 18, 1973",B.weight: 68.83,Group: A,1: 107.5,2: 112.5,3: -115,Total: 112.5,69kgWomen,CleanJerk,316
-Rank: 1,LIN Weining,CHN,"Born: Mar 15, 1979",B.weight: 67.31,Group: A,Snatch: 107.5,CI&Jerk: 135,Total: 242.5,,69kgWomen,Total,316
-Rank: 2,DIMAS FONTANALS Eva Maria,ESA,"Born: Mar 18, 1973",B.weight: 68.83,Group: A,Snatch: 95,CI&Jerk: 112.5,Total: 207.5,,69kgWomen,Total,316
-Rank: 1,XU Jiao,CHN,"Born: Apr 13, 1979",B.weight: 74.74,Group: A,1: 105,2: -110,3: ---,Total: 105,75kgWomen,Snatch,316
-Rank: 2,LASSEN Jean Elizabeth,CAN,"Born: Sep 26, 1980",B.weight: 72.67,Group: A,1: 77.5,2: 80,3: -85,Total: 80,75kgWomen,Snatch,316
-Rank: 3,SHIMOTAMARI Hitomi,JPN,"Born: Oct 13, 1981",B.weight: 70.23,Group: A,1: 72.5,2: -77.5,3: 77.5,Total: 77.5,75kgWomen,Snatch,316
-Rank: 1,LASSEN Jean Elizabeth,CAN,"Born: Sep 26, 1980",B.weight: 72.67,Group: A,1: 97.5,2: 100,3: 107.5,Total: 107.5,75kgWomen,CleanJerk,316
-Rank: 2,SHIMOTAMARI Hitomi,JPN,"Born: Oct 13, 1981",B.weight: 70.23,Group: A,1: 92.5,2: -97.5,3: -100,Total: 92.5,75kgWomen,CleanJerk,316
-Rank: ---,XU Jiao,CHN,"Born: Apr 13, 1979",B.weight: 74.74,Group: A,1: ---,2: ---,3: ---,Total: ---,75kgWomen,CleanJerk,316
-Rank: 1,LASSEN Jean Elizabeth,CAN,"Born: Sep 26, 1980",B.weight: 72.67,Group: A,Snatch: 80,CI&Jerk: 107.5,Total: 187.5,,75kgWomen,Total,316
-Rank: 2,SHIMOTAMARI Hitomi,JPN,"Born: Oct 13, 1981",B.weight: 70.23,Group: A,Snatch: 77.5,CI&Jerk: 92.5,Total: 170,,75kgWomen,Total,316
-Rank: ---,XU Jiao,CHN,"Born: Apr 13, 1979",B.weight: 74.74,Group: A,Snatch: 105,CI&Jerk: ---,Total: ---,,75kgWomen,Total,316
-Rank: 1,WANG Yanmei,CHN,"Born: Jun 27, 1978",B.weight: 121.60,Group: A,1: 115,2: 122.5,3: -128,Total: 122.5,+75kgWomen,Snatch,316
-Rank: 2,DELGADO Carmenza,COL,"Born: May 05, 1972",B.weight: 92.77,Group: A,1: 105,2: 112.5,3: -117.5,Total: 112.5,+75kgWomen,Snatch,316
-Rank: 3,BODAGLO Noreena,CAN,"Born: May 22, 1974",B.weight: 93.63,Group: A,1: 72.5,2: 77.5,3: -80,Total: 77.5,+75kgWomen,Snatch,316
-Rank: 4,PAPAZOGLOU Maria,GRE,"Born: Dec 03, 1973",B.weight: 84.76,Group: A,1: 70,2: -75,3: -75,Total: 70,+75kgWomen,Snatch,316
-Rank: 1,WANG Yanmei,CHN,"Born: Jun 27, 1978",B.weight: 121.60,Group: A,1: 150,2: -161,3: 161,Total: 161,+75kgWomen,CleanJerk,316
-Rank: 2,DELGADO Carmenza,COL,"Born: May 05, 1972",B.weight: 92.77,Group: A,1: 135,2: -140,3: -140,Total: 135,+75kgWomen,CleanJerk,316
-Rank: 3,BODAGLO Noreena,CAN,"Born: May 22, 1974",B.weight: 93.63,Group: A,1: 90,2: 92.5,3: -97.5,Total: 92.5,+75kgWomen,CleanJerk,316
-Rank: 4,PAPAZOGLOU Maria,GRE,"Born: Dec 03, 1973",B.weight: 84.76,Group: A,1: 90,2: -95,3: -95,Total: 90,+75kgWomen,CleanJerk,316
-Rank: 1,WANG Yanmei,CHN,"Born: Jun 27, 1978",B.weight: 121.60,Group: A,Snatch: 122.5,CI&Jerk: 161,Total: 282.5,,+75kgWomen,Total,316
-Rank: 2,DELGADO Carmenza,COL,"Born: May 05, 1972",B.weight: 92.77,Group: A,Snatch: 112.5,CI&Jerk: 135,Total: 247.5,,+75kgWomen,Total,316
-Rank: 3,BODAGLO Noreena,CAN,"Born: May 22, 1974",B.weight: 93.63,Group: A,Snatch: 77.5,CI&Jerk: 92.5,Total: 170,,+75kgWomen,Total,316
-Rank: 4,PAPAZOGLOU Maria,GRE,"Born: Dec 03, 1973",B.weight: 84.76,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,+75kgWomen,Total,316
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,MENG Wenjun,CHN,"Jan 25, 1976",55.60,A,-115,115,-120,115,56kgMen,Snatch,316,True
+2,KIM Kyong-Mo,KOR,"Apr 17, 1980",55.55,A,100,105,-110,105,56kgMen,Snatch,316,True
+3,GARCIA Wilfredo Luis,ESA,"Jan 18, 1981",55.93,A,95,100,102.5,102.5,56kgMen,Snatch,316,True
+4,AKHMETGALIEV Rustem,RUS,"Oct 06, 1977",55.94,A,-85,85,90,90,56kgMen,Snatch,316,True
+5,DELIVA Miguel,ESP,"Nov 12, 1975",55.76,A,70,75,-77.5,75,56kgMen,Snatch,316,True
+1,MENG Wenjun,CHN,"Jan 25, 1976",55.60,A,135,140,142.5,142.5,56kgMen,CleanJerk,316,True
+2,KIM Kyong-Mo,KOR,"Apr 17, 1980",55.55,A,130,135,-142.5,135,56kgMen,CleanJerk,316,True
+3,GARCIA Wilfredo Luis,ESA,"Jan 18, 1981",55.93,A,125,-132.5,-132.5,125,56kgMen,CleanJerk,316,True
+4,AKHMETGALIEV Rustem,RUS,"Oct 06, 1977",55.94,A,105,-110,110,110,56kgMen,CleanJerk,316,True
+5,DELIVA Miguel,ESP,"Nov 12, 1975",55.76,A,60,---,---,60,56kgMen,CleanJerk,316,True
+1,MENG Wenjun,CHN,"Jan 25, 1976",55.60,A,115,142.5,257.5,,56kgMen,Total,316,True
+2,KIM Kyong-Mo,KOR,"Apr 17, 1980",55.55,A,105,135,240,,56kgMen,Total,316,True
+3,GARCIA Wilfredo Luis,ESA,"Jan 18, 1981",55.93,A,102.5,125,227.5,,56kgMen,Total,316,True
+4,AKHMETGALIEV Rustem,RUS,"Oct 06, 1977",55.94,A,90,110,200,,56kgMen,Total,316,True
+5,DELIVA Miguel,ESP,"Nov 12, 1975",55.76,A,75,60,135,,56kgMen,Total,316,True
+1,PENG Chongdong,CHN,"Nov 18, 1978",61.10,A,120,125,---,125,62kgMen,Snatch,316,True
+2,IMAMURA Toshio,JPN,"Dec 25, 1979",61.18,A,112.5,115,117.5,117.5,62kgMen,Snatch,316,True
+3,MEDRANO Toj Luis Enrique,GUA,"Sep 09, 1976",59.41,A,110,-115,115,115,62kgMen,Snatch,316,True
+4,ARIAS Edwin Nieves-Arias,PUR,"Jul 22, 1977",60.83,A,95,-100,100,100,62kgMen,Snatch,316,True
+5,BLOUIN Patrick,CAN,"Sep 08, 1978",61.94,A,-92.5,92.5,97.5,97.5,62kgMen,Snatch,316,True
+6,CEA Richard,USA,"Aug 21, 1979",61.64,A,72.5,77.5,-82.5,77.5,62kgMen,Snatch,316,True
+1,PENG Chongdong,CHN,"Nov 18, 1978",61.10,A,155,160,---,160,62kgMen,CleanJerk,316,True
+2,IMAMURA Toshio,JPN,"Dec 25, 1979",61.18,A,145,-150,-152.5,145,62kgMen,CleanJerk,316,True
+3,MEDRANO Toj Luis Enrique,GUA,"Sep 09, 1976",59.41,A,135,140,142.5,142.5,62kgMen,CleanJerk,316,True
+4,ARIAS Edwin Nieves-Arias,PUR,"Jul 22, 1977",60.83,A,127.5,-132.5,-132.5,127.5,62kgMen,CleanJerk,316,True
+5,BLOUIN Patrick,CAN,"Sep 08, 1978",61.94,A,115,-120,-120,115,62kgMen,CleanJerk,316,True
+6,CEA Richard,USA,"Aug 21, 1979",61.64,A,92.5,97.5,-102.5,97.5,62kgMen,CleanJerk,316,True
+1,PENG Chongdong,CHN,"Nov 18, 1978",61.10,A,125,160,285,,62kgMen,Total,316,True
+2,IMAMURA Toshio,JPN,"Dec 25, 1979",61.18,A,117.5,145,262.5,,62kgMen,Total,316,True
+3,MEDRANO Toj Luis Enrique,GUA,"Sep 09, 1976",59.41,A,115,142.5,257.5,,62kgMen,Total,316,True
+4,ARIAS Edwin Nieves-Arias,PUR,"Jul 22, 1977",60.83,A,100,127.5,227.5,,62kgMen,Total,316,True
+5,BLOUIN Patrick,CAN,"Sep 08, 1978",61.94,A,97.5,115,212.5,,62kgMen,Total,316,True
+6,CEA Richard,USA,"Aug 21, 1979",61.64,A,77.5,97.5,175,,62kgMen,Total,316,True
+1,WANG Guohua,CHN,"Jan 30, 1975",68.42,A,140,-145,145,145,69kgMen,Snatch,316,True
+2,YANG Cunkang,CHN,"Jul 14, 1978",68.73,A,-135,135,140,140,69kgMen,Snatch,316,True
+3,CHOI Jae-Kyu,KOR,"Dec 26, 1978",68.93,A,130,-135,135,135,69kgMen,Snatch,316,True
+4,OWAN Tomoji,JPN,"Jun 28, 1978",68.19,A,120,125,-130,125,69kgMen,Snatch,316,True
+5,SIFOGIANNAKIS Antonis,GRE,"Apr 28, 1976",68.73,A,-117.5,117.5,122.5,122.5,69kgMen,Snatch,316,True
+6,OGAKI Aklira,JPN,"Dec 03, 1979",68.12,A,-120,-120,120,120,69kgMen,Snatch,316,True
+7,JIMENEZ Marvin,GUA,"Apr 27, 1978",65.67,A,115,-120,-120,115,69kgMen,Snatch,316,True
+8,MEDINA LUGO Lazaro Humberto,MEX,"Mar 28, 1976",68.59,A,110,-115,-117.5,110,69kgMen,Snatch,316,True
+9,LETECHIPIA Lenin,MEX,"Feb 13, 1980",68.80,A,110,-115,-115,110,69kgMen,Snatch,316,True
+10,LAFLEUR Eric,CAN,"Mar 24, 1981",68.70,A,-105,105,-110,105,69kgMen,Snatch,316,True
+11,NACHUM Amir,ISR,"Sep 08, 1972",67.73,A,102.5,-110,-110,102.5,69kgMen,Snatch,316,True
+1,CHOI Jae-Kyu,KOR,"Dec 26, 1978",68.93,A,165,172.5,177.5,177.5,69kgMen,CleanJerk,316,True
+2,YANG Cunkang,CHN,"Jul 14, 1978",68.73,A,160,170,-175,170,69kgMen,CleanJerk,316,True
+3,WANG Guohua,CHN,"Jan 30, 1975",68.42,A,-165,165,-170,165,69kgMen,CleanJerk,316,True
+4,JIMENEZ Marvin,GUA,"Apr 27, 1978",65.67,A,-155,-155,157.5,157.5,69kgMen,CleanJerk,316,True
+5,SIFOGIANNAKIS Antonis,GRE,"Apr 28, 1976",68.73,A,152.5,157.5,-162.5,157.5,69kgMen,CleanJerk,316,True
+6,OGAKI Aklira,JPN,"Dec 03, 1979",68.12,A,152.5,-157.5,-157.5,152.5,69kgMen,CleanJerk,316,True
+7,OWAN Tomoji,JPN,"Jun 28, 1978",68.19,A,145,-150,-150,145,69kgMen,CleanJerk,316,True
+8,LAFLEUR Eric,CAN,"Mar 24, 1981",68.70,A,130,135,140,140,69kgMen,CleanJerk,316,True
+9,MEDINA LUGO Lazaro Humberto,MEX,"Mar 28, 1976",68.59,A,135,-140,-140,135,69kgMen,CleanJerk,316,True
+10,LETECHIPIA Lenin,MEX,"Feb 13, 1980",68.80,A,-132.5,132.5,-135,132.5,69kgMen,CleanJerk,316,True
+11,NACHUM Amir,ISR,"Sep 08, 1972",67.73,A,130,-137.5,-137.5,130,69kgMen,CleanJerk,316,True
+1,CHOI Jae-Kyu,KOR,"Dec 26, 1978",68.93,A,135,177.5,312.5,,69kgMen,Total,316,True
+2,WANG Guohua,CHN,"Jan 30, 1975",68.42,A,145,165,310,,69kgMen,Total,316,True
+3,YANG Cunkang,CHN,"Jul 14, 1978",68.73,A,140,170,310,,69kgMen,Total,316,True
+4,SIFOGIANNAKIS Antonis,GRE,"Apr 28, 1976",68.73,A,122.5,157.5,280,,69kgMen,Total,316,True
+5,JIMENEZ Marvin,GUA,"Apr 27, 1978",65.67,A,115,157.5,272.5,,69kgMen,Total,316,True
+6,OGAKI Aklira,JPN,"Dec 03, 1979",68.12,A,120,152.5,272.5,,69kgMen,Total,316,True
+7,OWAN Tomoji,JPN,"Jun 28, 1978",68.19,A,125,145,270,,69kgMen,Total,316,True
+8,MEDINA LUGO Lazaro Humberto,MEX,"Mar 28, 1976",68.59,A,110,135,245,,69kgMen,Total,316,True
+9,LAFLEUR Eric,CAN,"Mar 24, 1981",68.70,A,105,140,245,,69kgMen,Total,316,True
+10,LETECHIPIA Lenin,MEX,"Feb 13, 1980",68.80,A,110,132.5,242.5,,69kgMen,Total,316,True
+11,NACHUM Amir,ISR,"Sep 08, 1972",67.73,A,102.5,130,232.5,,69kgMen,Total,316,True
+1,LIU Changzhu,CHN,"Feb 16, 1977",75.91,A,140,-145,-145,140,77kgMen,Snatch,316,True
+2,KISOGAWA Akira,JPN,"May 14, 1979",76.33,A,-132.5,132.5,-140,132.5,77kgMen,Snatch,316,True
+3,MILMAN Evgeni,ISR,"Feb 17, 1975",76.37,A,115,-120,120,120,77kgMen,Snatch,316,True
+4,VAUGHN Chad Thomas,USA,"May 11, 1980",76.63,A,-120,120,-130,120,77kgMen,Snatch,316,True
+---,CACERES Jesus Francisco,ESA,"Oct 08, 1974",74.93,A,-130,-130,-130,---,77kgMen,Snatch,316,True
+DSQ,GUMAN Viktor,SVK,"Apr 15, 1976",76.82,A,152.5,160,-162.5,---,77kgMen,Snatch,316,True
+1,LIU Changzhu,CHN,"Feb 16, 1977",75.91,A,-180,180,-182.5,180,77kgMen,CleanJerk,316,True
+2,KISOGAWA Akira,JPN,"May 14, 1979",76.33,A,160,165,170,170,77kgMen,CleanJerk,316,True
+3,VAUGHN Chad Thomas,USA,"May 11, 1980",76.63,A,-165,165,-167.5,165,77kgMen,CleanJerk,316,True
+4,MILMAN Evgeni,ISR,"Feb 17, 1975",76.37,A,145,-155,-155,145,77kgMen,CleanJerk,316,True
+---,CACERES Jesus Francisco,ESA,"Oct 08, 1974",74.93,A,---,---,---,---,77kgMen,CleanJerk,316,True
+DSQ,GUMAN Viktor,SVK,"Apr 15, 1976",76.82,A,180,-185,-185,---,77kgMen,CleanJerk,316,True
+1,LIU Changzhu,CHN,"Feb 16, 1977",75.91,A,140,180,320,,77kgMen,Total,316,True
+2,KISOGAWA Akira,JPN,"May 14, 1979",76.33,A,132.5,170,302.5,,77kgMen,Total,316,True
+3,VAUGHN Chad Thomas,USA,"May 11, 1980",76.63,A,120,165,285,,77kgMen,Total,316,True
+4,MILMAN Evgeni,ISR,"Feb 17, 1975",76.37,A,120,145,265,,77kgMen,Total,316,True
+---,CACERES Jesus Francisco,ESA,"Oct 08, 1974",74.93,A,---,---,---,,77kgMen,Total,316,True
+DSQ,GUMAN Viktor,SVK,"Apr 15, 1976",76.82,A,---,---,---,,77kgMen,Total,316,True
+1,YUAN Aijun,CHN,"Apr 07, 1977",84.38,A,165,170,-172.5,170,85kgMen,Snatch,316,True
+2,ZHANG Yong,CHN,"Nov 05, 1974",83.76,A,150,-155,-155,150,85kgMen,Snatch,316,True
+3,CHAE Yong-Ki,KOR,"Nov 04, 1978",81.27,A,-145,145,-150,145,85kgMen,Snatch,316,True
+4,GALIPEAU Julien,CAN,"Jan 29, 1981",84.71,A,135,140,-145,140,85kgMen,Snatch,316,True
+5,BEVEC Tomaz,SLO,"Aug 16, 1979",83.14,A,122.5,-127.5,127.5,127.5,85kgMen,Snatch,316,True
+6,KRAJEWSKI Lukas,AUS,"Jun 07, 1981",84.61,A,-115,115,122.5,122.5,85kgMen,Snatch,316,True
+7,ELLINGSON Richard,USA,"Jul 20, 1979",81.63,A,-107.5,-107.5,107.5,107.5,85kgMen,Snatch,316,True
+---,LOLIS Sotiris,GRE,"Oct 02, 1976",84.44,A,-145,-145,-145,---,85kgMen,Snatch,316,True
+1,ZHANG Yong,CHN,"Nov 05, 1974",83.76,A,190,-200,200,200,85kgMen,CleanJerk,316,True
+2,YUAN Aijun,CHN,"Apr 07, 1977",84.38,A,-200,-200,200,200,85kgMen,CleanJerk,316,True
+3,LOLIS Sotiris,GRE,"Oct 02, 1976",84.44,A,177.5,182.5,-187.5,182.5,85kgMen,CleanJerk,316,True
+4,CHAE Yong-Ki,KOR,"Nov 04, 1978",81.27,A,175,180,-185,180,85kgMen,CleanJerk,316,True
+5,GALIPEAU Julien,CAN,"Jan 29, 1981",84.71,A,-175,175,180,180,85kgMen,CleanJerk,316,True
+6,ELLINGSON Richard,USA,"Jul 20, 1979",81.63,A,145,-150,150,150,85kgMen,CleanJerk,316,True
+7,BEVEC Tomaz,SLO,"Aug 16, 1979",83.14,A,145,150,-152.5,150,85kgMen,CleanJerk,316,True
+8,KRAJEWSKI Lukas,AUS,"Jun 07, 1981",84.61,A,140,147.5,-155,147.5,85kgMen,CleanJerk,316,True
+1,YUAN Aijun,CHN,"Apr 07, 1977",84.38,A,170,200,370,,85kgMen,Total,316,True
+2,ZHANG Yong,CHN,"Nov 05, 1974",83.76,A,150,200,350,,85kgMen,Total,316,True
+3,CHAE Yong-Ki,KOR,"Nov 04, 1978",81.27,A,145,180,325,,85kgMen,Total,316,True
+4,GALIPEAU Julien,CAN,"Jan 29, 1981",84.71,A,140,180,320,,85kgMen,Total,316,True
+5,BEVEC Tomaz,SLO,"Aug 16, 1979",83.14,A,127.5,150,277.5,,85kgMen,Total,316,True
+6,KRAJEWSKI Lukas,AUS,"Jun 07, 1981",84.61,A,122.5,147.5,270,,85kgMen,Total,316,True
+7,ELLINGSON Richard,USA,"Jul 20, 1979",81.63,A,107.5,150,257.5,,85kgMen,Total,316,True
+---,LOLIS Sotiris,GRE,"Oct 02, 1976",84.44,A,---,182.5,---,,85kgMen,Total,316,True
+1,QIN Guang,CHN,"Apr 16, 1975",92.63,A,162.5,170,-172.5,170,94kgMen,Snatch,316,True
+2,SMIRNOV Dimitri,RUS,"Jul 19, 1973",93.96,A,150,155,160,160,94kgMen,Snatch,316,True
+3,DIOSZEGI Sandor,HUN,"Apr 18, 1979",91.51,A,145,-150,-150,145,94kgMen,Snatch,316,True
+4,PAPADOPOULOS Theocharis,GRE,"Feb 10, 1977",92.43,A,-145,-145,145,145,94kgMen,Snatch,316,True
+5,NAM Taek-Min,KOR,"Aug 26, 1980",89.77,A,120,130,140,140,94kgMen,Snatch,316,True
+6,SANTAVY Dalas John,CAN,"Jun 26, 1972",92.66,A,135,140,-142.5,140,94kgMen,Snatch,316,True
+7,SCHREINER Aaron,USA,"Jan 08, 1979",89.35,A,120,127.5,-132.5,127.5,94kgMen,Snatch,316,True
+8,VARNADORE Bruce,USA,"Oct 08, 1980",91.03,A,-120,120,125,125,94kgMen,Snatch,316,True
+9,MARINEAU Frederik,CAN,"Sep 18, 1981",85.39,A,115,-120,-120,115,94kgMen,Snatch,316,True
+1,QIN Guang,CHN,"Apr 16, 1975",92.63,A,200,212.5,---,212.5,94kgMen,CleanJerk,316,True
+2,SMIRNOV Dimitri,RUS,"Jul 19, 1973",93.96,A,175,180,185,185,94kgMen,CleanJerk,316,True
+3,DIOSZEGI Sandor,HUN,"Apr 18, 1979",91.51,A,177.5,180,-182.5,180,94kgMen,CleanJerk,316,True
+4,SANTAVY Dalas John,CAN,"Jun 26, 1972",92.66,A,175,-180,180,180,94kgMen,CleanJerk,316,True
+5,PAPADOPOULOS Theocharis,GRE,"Feb 10, 1977",92.43,A,-175,175,-182.5,175,94kgMen,CleanJerk,316,True
+6,NAM Taek-Min,KOR,"Aug 26, 1980",89.77,A,170,-180,-182.5,170,94kgMen,CleanJerk,316,True
+7,SCHREINER Aaron,USA,"Jan 08, 1979",89.35,A,147.5,152.5,-157.5,152.5,94kgMen,CleanJerk,316,True
+8,VARNADORE Bruce,USA,"Oct 08, 1980",91.03,A,-147.5,147.5,-152.5,147.5,94kgMen,CleanJerk,316,True
+9,MARINEAU Frederik,CAN,"Sep 18, 1981",85.39,A,120,---,---,120,94kgMen,CleanJerk,316,True
+1,QIN Guang,CHN,"Apr 16, 1975",92.63,A,170,212.5,382.5,,94kgMen,Total,316,True
+2,SMIRNOV Dimitri,RUS,"Jul 19, 1973",93.96,A,160,185,345,,94kgMen,Total,316,True
+3,DIOSZEGI Sandor,HUN,"Apr 18, 1979",91.51,A,145,180,325,,94kgMen,Total,316,True
+4,PAPADOPOULOS Theocharis,GRE,"Feb 10, 1977",92.43,A,145,175,320,,94kgMen,Total,316,True
+5,SANTAVY Dalas John,CAN,"Jun 26, 1972",92.66,A,140,180,320,,94kgMen,Total,316,True
+6,NAM Taek-Min,KOR,"Aug 26, 1980",89.77,A,140,170,310,,94kgMen,Total,316,True
+7,SCHREINER Aaron,USA,"Jan 08, 1979",89.35,A,127.5,152.5,280,,94kgMen,Total,316,True
+8,VARNADORE Bruce,USA,"Oct 08, 1980",91.03,A,125,147.5,272.5,,94kgMen,Total,316,True
+9,MARINEAU Frederik,CAN,"Sep 18, 1981",85.39,A,115,120,235,,94kgMen,Total,316,True
+1,PISAREVSKIY Gleb,RUS,"Jun 28, 1976",104.73,A,170,180,182.5,182.5,105kgMen,Snatch,316,True
+2,CARRIO Lorenzo,ESP,"Nov 07, 1973",104.78,A,150,157.5,162.5,162.5,105kgMen,Snatch,316,True
+3,SANDOR Akos,CAN,"Dec 11, 1977",104.27,A,155,160,-165,160,105kgMen,Snatch,316,True
+4,MAGOULAS Stavros,GRE,"Jul 02, 1976",104.39,A,155,160,-162.5,160,105kgMen,Snatch,316,True
+5,REED Alexis,USA,"Dec 20, 1972",101.83,A,145,-152.5,-152.5,145,105kgMen,Snatch,316,True
+6,MURAYAMA Atsushi,JPN,"Oct 19, 1978",104.39,A,135,140,-142.5,140,105kgMen,Snatch,316,True
+7,KIM Dong-Hyun,KOR,"Sep 02, 1980",104.83,A,140,-145,-145,140,105kgMen,Snatch,316,True
+8,ARSICH Jeremy,USA,"May 14, 1979",104.24,A,105,-110,112.5,112.5,105kgMen,Snatch,316,True
+1,PISAREVSKIY Gleb,RUS,"Jun 28, 1976",104.73,A,200,210,-220,210,105kgMen,CleanJerk,316,True
+2,CARRIO Lorenzo,ESP,"Nov 07, 1973",104.78,A,190,197.5,202.5,202.5,105kgMen,CleanJerk,316,True
+3,SANDOR Akos,CAN,"Dec 11, 1977",104.27,A,195,-202.5,-205,195,105kgMen,CleanJerk,316,True
+4,MAGOULAS Stavros,GRE,"Jul 02, 1976",104.39,A,-192.5,-192.5,192.5,192.5,105kgMen,CleanJerk,316,True
+5,KIM Dong-Hyun,KOR,"Sep 02, 1980",104.83,A,175,180,-190,180,105kgMen,CleanJerk,316,True
+6,REED Alexis,USA,"Dec 20, 1972",101.83,A,-175,-175,175,175,105kgMen,CleanJerk,316,True
+7,MURAYAMA Atsushi,JPN,"Oct 19, 1978",104.39,A,-170,-170,170,170,105kgMen,CleanJerk,316,True
+8,ARSICH Jeremy,USA,"May 14, 1979",104.24,A,125,-130,-130,125,105kgMen,CleanJerk,316,True
+1,PISAREVSKIY Gleb,RUS,"Jun 28, 1976",104.73,A,182.5,210,392.5,,105kgMen,Total,316,True
+2,CARRIO Lorenzo,ESP,"Nov 07, 1973",104.78,A,162.5,202.5,365,,105kgMen,Total,316,True
+3,SANDOR Akos,CAN,"Dec 11, 1977",104.27,A,160,195,355,,105kgMen,Total,316,True
+4,MAGOULAS Stavros,GRE,"Jul 02, 1976",104.39,A,160,192.5,352.5,,105kgMen,Total,316,True
+5,REED Alexis,USA,"Dec 20, 1972",101.83,A,145,175,320,,105kgMen,Total,316,True
+6,KIM Dong-Hyun,KOR,"Sep 02, 1980",104.83,A,140,180,320,,105kgMen,Total,316,True
+7,MURAYAMA Atsushi,JPN,"Oct 19, 1978",104.39,A,140,170,310,,105kgMen,Total,316,True
+8,ARSICH Jeremy,USA,"May 14, 1979",104.24,A,112.5,125,237.5,,105kgMen,Total,316,True
+1,CHEMERKIN Andrei,RUS,"Feb 17, 1972",175.62,A,175,185,190,190,+105kgMen,Snatch,316,True
+2,KRASNOV Boris,RUS,"Feb 05, 1977",123.48,A,167.5,172.5,177.5,177.5,+105kgMen,Snatch,316,True
+3,JEON Sang-Guen,KOR,"Feb 28, 1981",125.95,A,150,160,170,170,+105kgMen,Snatch,316,True
+4,FOREMAN Matthew,USA,"Jul 20, 1972",126.27,A,-142.5,142.5,-150,142.5,+105kgMen,Snatch,316,True
+5,YAKA Takuzo,JPN,"Feb 03, 1979",131.71,A,135,-142.5,142.5,142.5,+105kgMen,Snatch,316,True
+6,YULE Stuart,GBR,"Mar 15, 1976",115.42,A,-130,130,135,135,+105kgMen,Snatch,316,True
+7,BILODEAU Jocelyn,CAN,"Jun 17, 1975",123.81,A,130,-135,-135,130,+105kgMen,Snatch,316,True
+1,CHEMERKIN Andrei,RUS,"Feb 17, 1972",175.62,A,220,230,---,230,+105kgMen,CleanJerk,316,True
+2,KRASNOV Boris,RUS,"Feb 05, 1977",123.48,A,205,210,-215,210,+105kgMen,CleanJerk,316,True
+3,JEON Sang-Guen,KOR,"Feb 28, 1981",125.95,A,190,195,-205,195,+105kgMen,CleanJerk,316,True
+4,YAKA Takuzo,JPN,"Feb 03, 1979",131.71,A,185,192.5,-197.5,192.5,+105kgMen,CleanJerk,316,True
+5,YULE Stuart,GBR,"Mar 15, 1976",115.42,A,180,-185,-185,180,+105kgMen,CleanJerk,316,True
+6,BILODEAU Jocelyn,CAN,"Jun 17, 1975",123.81,A,165,170,-175,170,+105kgMen,CleanJerk,316,True
+7,FOREMAN Matthew,USA,"Jul 20, 1972",126.27,A,160,167.5,---,167.5,+105kgMen,CleanJerk,316,True
+1,CHEMERKIN Andrei,RUS,"Feb 17, 1972",175.62,A,190,230,420,,+105kgMen,Total,316,True
+2,KRASNOV Boris,RUS,"Feb 05, 1977",123.48,A,177.5,210,387.5,,+105kgMen,Total,316,True
+3,JEON Sang-Guen,KOR,"Feb 28, 1981",125.95,A,170,195,365,,+105kgMen,Total,316,True
+4,YAKA Takuzo,JPN,"Feb 03, 1979",131.71,A,142.5,192.5,335,,+105kgMen,Total,316,True
+5,YULE Stuart,GBR,"Mar 15, 1976",115.42,A,135,180,315,,+105kgMen,Total,316,True
+6,FOREMAN Matthew,USA,"Jul 20, 1972",126.27,A,142.5,167.5,310,,+105kgMen,Total,316,True
+7,BILODEAU Jocelyn,CAN,"Jun 17, 1975",123.81,A,130,170,300,,+105kgMen,Total,316,True
+1,LIU Xiuhua,CHN,"Oct 05, 1975",47.61,A,80,85.5,87.5,87.5,48kgWomen,Snatch,316,True
+2,TURCOTTE Karine,CAN,"Aug 28, 1978",47.55,A,60,-62.5,62.5,62.5,48kgWomen,Snatch,316,True
+3,KUO Mei-Fang,TPE,"Nov 19, 1977",47.83,A,-60,60,-65,60,48kgWomen,Snatch,316,True
+4,HSU Hsueh-Fen,TPE,"Jan 26, 1980",47.83,A,-60,-60,60,60,48kgWomen,Snatch,316,True
+5,CARELLA Nichol,USA,"Sep 22, 1979",47.87,A,42.5,-45,-45,42.5,48kgWomen,Snatch,316,True
+1,LIU Xiuhua,CHN,"Oct 05, 1975",47.61,A,105,110,-112.5,110,48kgWomen,CleanJerk,316,True
+2,TURCOTTE Karine,CAN,"Aug 28, 1978",47.55,A,75,80,82.5,82.5,48kgWomen,CleanJerk,316,True
+3,KUO Mei-Fang,TPE,"Nov 19, 1977",47.83,A,80,-85,-85,80,48kgWomen,CleanJerk,316,True
+4,HSU Hsueh-Fen,TPE,"Jan 26, 1980",47.83,A,80,-85,-85,80,48kgWomen,CleanJerk,316,True
+5,CARELLA Nichol,USA,"Sep 22, 1979",47.87,A,57.5,-62.5,-62.5,57.5,48kgWomen,CleanJerk,316,True
+1,LIU Xiuhua,CHN,"Oct 05, 1975",47.61,A,87.5,110,197.5,,48kgWomen,Total,316,True
+2,TURCOTTE Karine,CAN,"Aug 28, 1978",47.55,A,62.5,82.5,145,,48kgWomen,Total,316,True
+3,KUO Mei-Fang,TPE,"Nov 19, 1977",47.83,A,60,80,140,,48kgWomen,Total,316,True
+4,HSU Hsueh-Fen,TPE,"Jan 26, 1980",47.83,A,60,80,140,,48kgWomen,Total,316,True
+5,CARELLA Nichol,USA,"Sep 22, 1979",47.87,A,42.5,57.5,100,,48kgWomen,Total,316,True
+1,WANG Xiufen,CHN,"Feb 20, 1974",52.99,A,80,85,90,90,53kgWomen,Snatch,316,True
+2,LING I-Hua,TPE,"Nov 20, 1979",49.50,A,-65,65,70,70,53kgWomen,Snatch,316,True
+3,REYES Marina,MEX,"Jul 12, 1980",52.87,A,67.5,70,-72.5,70,53kgWomen,Snatch,316,True
+4,MARTINEZ Blanca,ESA,"Oct 06, 1973",52.89,A,67.5,-70,70,70,53kgWomen,Snatch,316,True
+5,BROCHU Isabelle,CAN,"Jul 21, 1981",52.95,A,-60,60,62.5,62.5,53kgWomen,Snatch,316,True
+6,SPALA Efstathia,GRE,"Apr 12, 1979",49.43,A,52.5,-57.5,-57.5,52.5,53kgWomen,Snatch,316,True
+1,WANG Xiufen,CHN,"Feb 20, 1974",52.99,A,-110,-110,110,110,53kgWomen,CleanJerk,316,True
+2,LING I-Hua,TPE,"Nov 20, 1979",49.50,A,90,-95,95,95,53kgWomen,CleanJerk,316,True
+3,REYES Marina,MEX,"Jul 12, 1980",52.87,A,77.5,82.5,85,85,53kgWomen,CleanJerk,316,True
+4,MARTINEZ Blanca,ESA,"Oct 06, 1973",52.89,A,80,-85,-87.5,80,53kgWomen,CleanJerk,316,True
+5,BROCHU Isabelle,CAN,"Jul 21, 1981",52.95,A,77.5,-80,-80,77.5,53kgWomen,CleanJerk,316,True
+6,SPALA Efstathia,GRE,"Apr 12, 1979",49.43,A,65,-70,-70,65,53kgWomen,CleanJerk,316,True
+1,WANG Xiufen,CHN,"Feb 20, 1974",52.99,A,90,110,200,,53kgWomen,Total,316,True
+2,LING I-Hua,TPE,"Nov 20, 1979",49.50,A,70,95,165,,53kgWomen,Total,316,True
+3,REYES Marina,MEX,"Jul 12, 1980",52.87,A,70,85,155,,53kgWomen,Total,316,True
+4,MARTINEZ Blanca,ESA,"Oct 06, 1973",52.89,A,70,80,150,,53kgWomen,Total,316,True
+5,BROCHU Isabelle,CAN,"Jul 21, 1981",52.95,A,62.5,77.5,140,,53kgWomen,Total,316,True
+6,SPALA Efstathia,GRE,"Apr 12, 1979",49.43,A,52.5,65,117.5,,53kgWomen,Total,316,True
+1,JIMENEZ Mendivil Soraya,MEX,"Aug 05, 1977",57.40,A,87.5,90,-92.5,90,58kgWomen,Snatch,316,True
+2,TURCOTTE Maryse,CAN,"Feb 23, 1975",57.78,A,85,-90,90,90,58kgWomen,Snatch,316,True
+3,DANEKOVA Dagmar,SVK,"Feb 20, 1978",57.60,A,82.5,-85,85,85,58kgWomen,Snatch,316,True
+4,TAIRA Tomomi,JPN,"Jun 15, 1979",57.48,A,70,75,-77.5,75,58kgWomen,Snatch,316,True
+5,OROZCO Ana Yedid Urena,MEX,"Mar 03, 1981",57.65,A,70,-75,-75,70,58kgWomen,Snatch,316,True
+6,LECLERC Gail,CAN,"Apr 30, 1974",57.93,A,60,-62.5,-62.5,60,58kgWomen,Snatch,316,True
+1,TURCOTTE Maryse,CAN,"Feb 23, 1975",57.78,A,115,117.5,120,120,58kgWomen,CleanJerk,316,True
+2,JIMENEZ Mendivil Soraya,MEX,"Aug 05, 1977",57.40,A,-115,-115,115,115,58kgWomen,CleanJerk,316,True
+3,DANEKOVA Dagmar,SVK,"Feb 20, 1978",57.60,A,102.5,105,107.5,107.5,58kgWomen,CleanJerk,316,True
+4,TAIRA Tomomi,JPN,"Jun 15, 1979",57.48,A,92.5,-97.5,97.5,97.5,58kgWomen,CleanJerk,316,True
+5,OROZCO Ana Yedid Urena,MEX,"Mar 03, 1981",57.65,A,-90,90,-95,90,58kgWomen,CleanJerk,316,True
+6,LECLERC Gail,CAN,"Apr 30, 1974",57.93,A,77.5,-80,80,80,58kgWomen,CleanJerk,316,True
+1,TURCOTTE Maryse,CAN,"Feb 23, 1975",57.78,A,90,120,210,,58kgWomen,Total,316,True
+2,JIMENEZ Mendivil Soraya,MEX,"Aug 05, 1977",57.40,A,90,115,205,,58kgWomen,Total,316,True
+3,DANEKOVA Dagmar,SVK,"Feb 20, 1978",57.60,A,85,107.5,192.5,,58kgWomen,Total,316,True
+4,TAIRA Tomomi,JPN,"Jun 15, 1979",57.48,A,75,97.5,172.5,,58kgWomen,Total,316,True
+5,OROZCO Ana Yedid Urena,MEX,"Mar 03, 1981",57.65,A,70,90,160,,58kgWomen,Total,316,True
+6,LECLERC Gail,CAN,"Apr 30, 1974",57.93,A,60,80,140,,58kgWomen,Total,316,True
+1,DIAO Weiwei,CHN,"Aug 11, 1979",62.51,A,95,100,-102.5,100,63kgWomen,Snatch,316,True
+2,LIN Yu-Ming,TPE,"Oct 22, 1979",61.19,A,80,-85,-85,80,63kgWomen,Snatch,316,True
+3,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",62.40,A,75,80,-82.5,80,63kgWomen,Snatch,316,True
+4,TSAKIRI Anastasia,GRE,"Feb 02, 1979",62.76,A,72.5,-77.5,77.5,77.5,63kgWomen,Snatch,316,True
+5,NIGHTINGALE Melissa,AUS,"Jul 03, 1981",62.99,A,-65,-65,65,65,63kgWomen,Snatch,316,True
+6,SANDHU Sophia,CAN,"Oct 20, 1979",59.38,A,-62.5,62.5,-70,62.5,63kgWomen,Snatch,316,True
+7,JONES Rachel,USA,"Nov 10, 1978",59.57,A,-60,60,-65,60,63kgWomen,Snatch,316,True
+8,HAUF Marlena,USA,"Mar 24, 1979",62.91,A,50,52.5,55,55,63kgWomen,Snatch,316,True
+1,DIAO Weiwei,CHN,"Aug 11, 1979",62.51,A,115,120,125,125,63kgWomen,CleanJerk,316,True
+2,LIN Yu-Ming,TPE,"Oct 22, 1979",61.19,A,102.5,105,-107.5,105,63kgWomen,CleanJerk,316,True
+3,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",62.40,A,95,97.5,-105,97.5,63kgWomen,CleanJerk,316,True
+4,TSAKIRI Anastasia,GRE,"Feb 02, 1979",62.76,A,90,97.5,-100,97.5,63kgWomen,CleanJerk,316,True
+5,SANDHU Sophia,CAN,"Oct 20, 1979",59.38,A,87.5,-92.5,-95,87.5,63kgWomen,CleanJerk,316,True
+6,JONES Rachel,USA,"Nov 10, 1978",59.57,A,70,75,-80,75,63kgWomen,CleanJerk,316,True
+7,NIGHTINGALE Melissa,AUS,"Jul 03, 1981",62.99,A,72.5,75,-80,75,63kgWomen,CleanJerk,316,True
+8,HAUF Marlena,USA,"Mar 24, 1979",62.91,A,-65,65,-70,65,63kgWomen,CleanJerk,316,True
+1,DIAO Weiwei,CHN,"Aug 11, 1979",62.51,A,100,125,225,,63kgWomen,Total,316,True
+2,LIN Yu-Ming,TPE,"Oct 22, 1979",61.19,A,80,105,185,,63kgWomen,Total,316,True
+3,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",62.40,A,80,97.5,177.5,,63kgWomen,Total,316,True
+4,TSAKIRI Anastasia,GRE,"Feb 02, 1979",62.76,A,77.5,97.5,175,,63kgWomen,Total,316,True
+5,SANDHU Sophia,CAN,"Oct 20, 1979",59.38,A,62.5,87.5,150,,63kgWomen,Total,316,True
+6,NIGHTINGALE Melissa,AUS,"Jul 03, 1981",62.99,A,65,75,140,,63kgWomen,Total,316,True
+7,JONES Rachel,USA,"Nov 10, 1978",59.57,A,60,75,135,,63kgWomen,Total,316,True
+8,HAUF Marlena,USA,"Mar 24, 1979",62.91,A,55,65,120,,63kgWomen,Total,316,True
+1,LIN Weining,CHN,"Mar 15, 1979",67.31,A,102.5,107.5,-112.5,107.5,69kgWomen,Snatch,316,True
+2,DIMAS FONTANALS Eva Maria,ESA,"Mar 18, 1973",68.83,A,87.5,92.5,95,95,69kgWomen,Snatch,316,True
+1,LIN Weining,CHN,"Mar 15, 1979",67.31,A,125,130,135,135,69kgWomen,CleanJerk,316,True
+2,DIMAS FONTANALS Eva Maria,ESA,"Mar 18, 1973",68.83,A,107.5,112.5,-115,112.5,69kgWomen,CleanJerk,316,True
+1,LIN Weining,CHN,"Mar 15, 1979",67.31,A,107.5,135,242.5,,69kgWomen,Total,316,True
+2,DIMAS FONTANALS Eva Maria,ESA,"Mar 18, 1973",68.83,A,95,112.5,207.5,,69kgWomen,Total,316,True
+1,XU Jiao,CHN,"Apr 13, 1979",74.74,A,105,-110,---,105,75kgWomen,Snatch,316,True
+2,LASSEN Jean Elizabeth,CAN,"Sep 26, 1980",72.67,A,77.5,80,-85,80,75kgWomen,Snatch,316,True
+3,SHIMOTAMARI Hitomi,JPN,"Oct 13, 1981",70.23,A,72.5,-77.5,77.5,77.5,75kgWomen,Snatch,316,True
+1,LASSEN Jean Elizabeth,CAN,"Sep 26, 1980",72.67,A,97.5,100,107.5,107.5,75kgWomen,CleanJerk,316,True
+2,SHIMOTAMARI Hitomi,JPN,"Oct 13, 1981",70.23,A,92.5,-97.5,-100,92.5,75kgWomen,CleanJerk,316,True
+---,XU Jiao,CHN,"Apr 13, 1979",74.74,A,---,---,---,---,75kgWomen,CleanJerk,316,True
+1,LASSEN Jean Elizabeth,CAN,"Sep 26, 1980",72.67,A,80,107.5,187.5,,75kgWomen,Total,316,True
+2,SHIMOTAMARI Hitomi,JPN,"Oct 13, 1981",70.23,A,77.5,92.5,170,,75kgWomen,Total,316,True
+---,XU Jiao,CHN,"Apr 13, 1979",74.74,A,105,---,---,,75kgWomen,Total,316,True
+1,WANG Yanmei,CHN,"Jun 27, 1978",121.60,A,115,122.5,-128,122.5,+75kgWomen,Snatch,316,True
+2,DELGADO Carmenza,COL,"May 05, 1972",92.77,A,105,112.5,-117.5,112.5,+75kgWomen,Snatch,316,True
+3,BODAGLO Noreena,CAN,"May 22, 1974",93.63,A,72.5,77.5,-80,77.5,+75kgWomen,Snatch,316,True
+4,PAPAZOGLOU Maria,GRE,"Dec 03, 1973",84.76,A,70,-75,-75,70,+75kgWomen,Snatch,316,True
+1,WANG Yanmei,CHN,"Jun 27, 1978",121.60,A,150,-161,161,161,+75kgWomen,CleanJerk,316,True
+2,DELGADO Carmenza,COL,"May 05, 1972",92.77,A,135,-140,-140,135,+75kgWomen,CleanJerk,316,True
+3,BODAGLO Noreena,CAN,"May 22, 1974",93.63,A,90,92.5,-97.5,92.5,+75kgWomen,CleanJerk,316,True
+4,PAPAZOGLOU Maria,GRE,"Dec 03, 1973",84.76,A,90,-95,-95,90,+75kgWomen,CleanJerk,316,True
+1,WANG Yanmei,CHN,"Jun 27, 1978",121.60,A,122.5,161,282.5,,+75kgWomen,Total,316,True
+2,DELGADO Carmenza,COL,"May 05, 1972",92.77,A,112.5,135,247.5,,+75kgWomen,Total,316,True
+3,BODAGLO Noreena,CAN,"May 22, 1974",93.63,A,77.5,92.5,170,,+75kgWomen,Total,316,True
+4,PAPAZOGLOU Maria,GRE,"Dec 03, 1973",84.76,A,70,90,160,,+75kgWomen,Total,316,True

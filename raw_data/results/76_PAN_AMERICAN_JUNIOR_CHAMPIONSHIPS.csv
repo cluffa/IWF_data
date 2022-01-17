@@ -1,220 +1,220 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,BERNA GONZALEZ Carlos Andres,COL,"Born: Jan 21, 1990",B.weight: 55.80,Group: A,1: 105,2: 109,3: 111,Total: 111,56kgMen,Snatch,76
-Rank: 2,GIL GALBAN Adiel,CUB,"Born: Mar 07, 1990",B.weight: 55.80,Group: A,1: 100,2: 106,3: 110,Total: 110,56kgMen,Snatch,76
-Rank: 3,MOSQUERA VALENCIA Francisco Antonio,COL,"Born: Apr 01, 1992",B.weight: 55.80,Group: A,1: 102,2: -106,3: 106,Total: 106,56kgMen,Snatch,76
-Rank: 4,DZUL CUY Jose Alfredo,MEX,"Born: Sep 17, 1992",B.weight: 54.00,Group: A,1: -90,2: 90,3: 94,Total: 94,56kgMen,Snatch,76
-Rank: 5,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.40,Group: A,1: 87,2: 90,3: 94,Total: 94,56kgMen,Snatch,76
-Rank: 1,GIL GALBAN Adiel,CUB,"Born: Mar 07, 1990",B.weight: 55.80,Group: A,1: 136,2: 141,3: 146,Total: 146,56kgMen,CleanJerk,76
-Rank: 2,BERNA GONZALEZ Carlos Andres,COL,"Born: Jan 21, 1990",B.weight: 55.80,Group: A,1: 140,2: 145,3: -147,Total: 145,56kgMen,CleanJerk,76
-Rank: 3,MOSQUERA VALENCIA Francisco Antonio,COL,"Born: Apr 01, 1992",B.weight: 55.80,Group: A,1: 132,2: 136,3: -139,Total: 136,56kgMen,CleanJerk,76
-Rank: 4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.40,Group: A,1: 118,2: 122,3: -125,Total: 122,56kgMen,CleanJerk,76
-Rank: 5,DZUL CUY Jose Alfredo,MEX,"Born: Sep 17, 1992",B.weight: 54.00,Group: A,1: -117,2: 117,3: 121,Total: 121,56kgMen,CleanJerk,76
-Rank: 1,BERNA GONZALEZ Carlos Andres,COL,"Born: Jan 21, 1990",B.weight: 55.80,Group: A,Snatch: 111,CI&Jerk: 145,Total: 256,,56kgMen,Total,76
-Rank: 2,GIL GALBAN Adiel,CUB,"Born: Mar 07, 1990",B.weight: 55.80,Group: A,Snatch: 110,CI&Jerk: 146,Total: 256,,56kgMen,Total,76
-Rank: 3,MOSQUERA VALENCIA Francisco Antonio,COL,"Born: Apr 01, 1992",B.weight: 55.80,Group: A,Snatch: 106,CI&Jerk: 136,Total: 242,,56kgMen,Total,76
-Rank: 4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.40,Group: A,Snatch: 94,CI&Jerk: 122,Total: 216,,56kgMen,Total,76
-Rank: 5,DZUL CUY Jose Alfredo,MEX,"Born: Sep 17, 1992",B.weight: 54.00,Group: A,Snatch: 94,CI&Jerk: 121,Total: 215,,56kgMen,Total,76
-Rank: 1,HERNANDEZ Gerzon,COL,"Born: Jun 03, 1992",B.weight: 60.60,Group: A,1: 110,2: -115,3: 115,Total: 115,62kgMen,Snatch,76
-Rank: 2,PIZANGO Rene,ECU,"Born: Apr 21, 1993",B.weight: 61.00,Group: A,1: 91,2: 92,3: 95,Total: 95,62kgMen,Snatch,76
-Rank: 3,BARILLA RAMOS Edvin Stanly,GUA,"Born: May 12, 1992",B.weight: 61.90,Group: A,1: 85,2: 92,3: -95,Total: 92,62kgMen,Snatch,76
-Rank: 1,HERNANDEZ Gerzon,COL,"Born: Jun 03, 1992",B.weight: 60.60,Group: A,1: 130,2: 135,3: 140,Total: 140,62kgMen,CleanJerk,76
-Rank: 2,PIZANGO Rene,ECU,"Born: Apr 21, 1993",B.weight: 61.00,Group: A,1: 125,2: 129,3: -136,Total: 129,62kgMen,CleanJerk,76
-Rank: 3,BARILLA RAMOS Edvin Stanly,GUA,"Born: May 12, 1992",B.weight: 61.90,Group: A,1: 123,2: 128,3: -133,Total: 128,62kgMen,CleanJerk,76
-Rank: 1,HERNANDEZ Gerzon,COL,"Born: Jun 03, 1992",B.weight: 60.60,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,62kgMen,Total,76
-Rank: 2,PIZANGO Rene,ECU,"Born: Apr 21, 1993",B.weight: 61.00,Group: A,Snatch: 95,CI&Jerk: 129,Total: 224,,62kgMen,Total,76
-Rank: 3,BARILLA RAMOS Edvin Stanly,GUA,"Born: May 12, 1992",B.weight: 61.90,Group: A,Snatch: 92,CI&Jerk: 128,Total: 220,,62kgMen,Total,76
-Rank: 1,MONTES HURTADO Hugo Fernando,COL,"Born: Jan 29, 1990",B.weight: 67.25,Group: A,1: 128,2: 131,3: 135,Total: 135,69kgMen,Snatch,76
-Rank: 2,LA O GARCIA Addriel,CUB,"Born: Feb 10, 1992",B.weight: 67.20,Group: A,1: -122,2: 122,3: 130,Total: 130,69kgMen,Snatch,76
-Rank: 3,MOLINA Cesar,ECU,"Born: Feb 17, 1992",B.weight: 67.60,Group: A,1: 112,2: 115,3: 117,Total: 117,69kgMen,Snatch,76
-Rank: 4,LEON Alan,MEX,"Born: May 10, 1992",B.weight: 68.25,Group: A,1: -115,2: 115,3: -118,Total: 115,69kgMen,Snatch,76
-Rank: 5,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 66.85,Group: A,1: -110,2: 110,3: -114,Total: 110,69kgMen,Snatch,76
-Rank: 6,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 67.95,Group: A,1: 105,2: -110,3: -110,Total: 105,69kgMen,Snatch,76
-Rank: 7,BRHUN Ever,ARG,"Born: Dec 06, 1990",B.weight: 68.05,Group: A,1: -92,2: 92,3: 97,Total: 97,69kgMen,Snatch,76
-Rank: 1,MONTES HURTADO Hugo Fernando,COL,"Born: Jan 29, 1990",B.weight: 67.25,Group: A,1: 155,2: 160,3: -162,Total: 160,69kgMen,CleanJerk,76
-Rank: 2,LA O GARCIA Addriel,CUB,"Born: Feb 10, 1992",B.weight: 67.20,Group: A,1: 150,2: -156,3: -156,Total: 150,69kgMen,CleanJerk,76
-Rank: 3,MOLINA Cesar,ECU,"Born: Feb 17, 1992",B.weight: 67.60,Group: A,1: 140,2: 142,3: -153,Total: 142,69kgMen,CleanJerk,76
-Rank: 4,LEON Alan,MEX,"Born: May 10, 1992",B.weight: 68.25,Group: A,1: -140,2: 141,3: -145,Total: 141,69kgMen,CleanJerk,76
-Rank: 5,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 67.95,Group: A,1: 135,2: -140,3: 140,Total: 140,69kgMen,CleanJerk,76
-Rank: 6,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 66.85,Group: A,1: 130,2: -140,3: -140,Total: 130,69kgMen,CleanJerk,76
-Rank: 7,BRHUN Ever,ARG,"Born: Dec 06, 1990",B.weight: 68.05,Group: A,1: 110,2: 117,3: 122,Total: 122,69kgMen,CleanJerk,76
-Rank: 1,MONTES HURTADO Hugo Fernando,COL,"Born: Jan 29, 1990",B.weight: 67.25,Group: A,Snatch: 135,CI&Jerk: 160,Total: 295,,69kgMen,Total,76
-Rank: 2,LA O GARCIA Addriel,CUB,"Born: Feb 10, 1992",B.weight: 67.20,Group: A,Snatch: 130,CI&Jerk: 150,Total: 280,,69kgMen,Total,76
-Rank: 3,MOLINA Cesar,ECU,"Born: Feb 17, 1992",B.weight: 67.60,Group: A,Snatch: 117,CI&Jerk: 142,Total: 259,,69kgMen,Total,76
-Rank: 4,LEON Alan,MEX,"Born: May 10, 1992",B.weight: 68.25,Group: A,Snatch: 115,CI&Jerk: 141,Total: 256,,69kgMen,Total,76
-Rank: 5,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 67.95,Group: A,Snatch: 105,CI&Jerk: 140,Total: 245,,69kgMen,Total,76
-Rank: 6,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 66.85,Group: A,Snatch: 110,CI&Jerk: 130,Total: 240,,69kgMen,Total,76
-Rank: 7,BRHUN Ever,ARG,"Born: Dec 06, 1990",B.weight: 68.05,Group: A,Snatch: 97,CI&Jerk: 122,Total: 219,,69kgMen,Total,76
-Rank: 1,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 74.90,Group: A,1: 130,2: 135,3: 140,Total: 140,77kgMen,Snatch,76
-Rank: 2,NUNEZ QUESADA Yadier,CUB,"Born: Dec 06, 1991",B.weight: 74.60,Group: A,1: 127,2: 133,3: -137,Total: 133,77kgMen,Snatch,76
-Rank: 3,ARANGO Yariel,CUB,"Born: Jan 01, 1991",B.weight: 73.85,Group: A,1: 123,2: 128,3: -131,Total: 128,77kgMen,Snatch,76
-Rank: 4,DE DIOS Miguel,DOM,"Born: Jan 01, 1990",B.weight: 74.70,Group: A,1: 117,2: 121,3: -124,Total: 121,77kgMen,Snatch,76
-Rank: 5,COUOH Felix,MEX,"Born: Jan 01, 1990",B.weight: 75.35,Group: A,1: 118,2: -122,3: -122,Total: 118,77kgMen,Snatch,76
-Rank: 1,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 74.90,Group: A,1: 163,2: 168,3: 176,Total: 176,77kgMen,CleanJerk,76
-Rank: 2,NUNEZ QUESADA Yadier,CUB,"Born: Dec 06, 1991",B.weight: 74.60,Group: A,1: 157,2: 163,3: -168,Total: 163,77kgMen,CleanJerk,76
-Rank: 3,ARANGO Yariel,CUB,"Born: Jan 01, 1991",B.weight: 73.85,Group: A,1: 151,2: 156,3: 160,Total: 160,77kgMen,CleanJerk,76
-Rank: 4,DE DIOS Miguel,DOM,"Born: Jan 01, 1990",B.weight: 74.70,Group: A,1: 145,2: 150,3: -154,Total: 150,77kgMen,CleanJerk,76
-Rank: ---,COUOH Felix,MEX,"Born: Jan 01, 1990",B.weight: 75.35,Group: A,1: -145,2: -145,3: -145,Total: ---,77kgMen,CleanJerk,76
-Rank: 1,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 74.90,Group: A,Snatch: 140,CI&Jerk: 176,Total: 316,,77kgMen,Total,76
-Rank: 2,NUNEZ QUESADA Yadier,CUB,"Born: Dec 06, 1991",B.weight: 74.60,Group: A,Snatch: 133,CI&Jerk: 163,Total: 296,,77kgMen,Total,76
-Rank: 3,ARANGO Yariel,CUB,"Born: Jan 01, 1991",B.weight: 73.85,Group: A,Snatch: 128,CI&Jerk: 160,Total: 288,,77kgMen,Total,76
-Rank: 4,DE DIOS Miguel,DOM,"Born: Jan 01, 1990",B.weight: 74.70,Group: A,Snatch: 121,CI&Jerk: 150,Total: 271,,77kgMen,Total,76
-Rank: ---,COUOH Felix,MEX,"Born: Jan 01, 1990",B.weight: 75.35,Group: A,Snatch: 118,CI&Jerk: ---,Total: ---,,77kgMen,Total,76
-Rank: 1,PIMIENTA Alexander,CUB,"Born: Jan 01, 1990",B.weight: 77.65,Group: A,1: 125,2: 131,3: 135,Total: 135,85kgMen,Snatch,76
-Rank: 2,IGOR Jorge,CHI,"Born: Apr 05, 1990",B.weight: 82.65,Group: A,1: -125,2: 125,3: -130,Total: 125,85kgMen,Snatch,76
-Rank: 3,SANTOS COSTA Douglas,BRA,"Born: Apr 23, 1990",B.weight: 84.20,Group: A,1: -123,2: 123,3: -127,Total: 123,85kgMen,Snatch,76
-Rank: 4,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 81.65,Group: A,1: 110,2: 117,3: 122,Total: 122,85kgMen,Snatch,76
-Rank: ---,YAGUANA Juan,ECU,"Born: Mar 03, 1992",B.weight: 82.25,Group: A,1: 118,2: 123,3: 126,Total: 126,85kgMen,Snatch,76
-Rank: 1,SANTOS COSTA Douglas,BRA,"Born: Apr 23, 1990",B.weight: 84.20,Group: A,1: 163,2: 167,3: -179,Total: 167,85kgMen,CleanJerk,76
-Rank: 2,PIMIENTA Alexander,CUB,"Born: Jan 01, 1990",B.weight: 77.65,Group: A,1: 157,2: 162,3: 166,Total: 166,85kgMen,CleanJerk,76
-Rank: 3,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 81.65,Group: A,1: 155,2: 160,3: -164,Total: 160,85kgMen,CleanJerk,76
-Rank: 4,IGOR Jorge,CHI,"Born: Apr 05, 1990",B.weight: 82.65,Group: A,1: 155,2: 160,3: -165,Total: 160,85kgMen,CleanJerk,76
-Rank: ---,YAGUANA Juan,ECU,"Born: Mar 03, 1992",B.weight: 82.25,Group: A,1: 150,2: -155,3: -156,Total: 150,85kgMen,CleanJerk,76
-Rank: 1,PIMIENTA Alexander,CUB,"Born: Jan 01, 1990",B.weight: 77.65,Group: A,Snatch: 135,CI&Jerk: 166,Total: 301,,85kgMen,Total,76
-Rank: 2,SANTOS COSTA Douglas,BRA,"Born: Apr 23, 1990",B.weight: 84.20,Group: A,Snatch: 123,CI&Jerk: 167,Total: 290,,85kgMen,Total,76
-Rank: 3,IGOR Jorge,CHI,"Born: Apr 05, 1990",B.weight: 82.65,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,85kgMen,Total,76
-Rank: 4,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 81.65,Group: A,Snatch: 122,CI&Jerk: 160,Total: 282,,85kgMen,Total,76
-Rank: ---,YAGUANA Juan,ECU,"Born: Mar 03, 1992",B.weight: 82.25,Group: A,Snatch: 126,CI&Jerk: 150,Total: 276,,85kgMen,Total,76
-Rank: 1,QUINTERO Yaciel,CUB,"Born: Jan 01, 1990",B.weight: 85.10,Group: A,1: 135,2: 138,3: -143,Total: 138,94kgMen,Snatch,76
-Rank: 2,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Born: Jun 13, 1991",B.weight: 85.65,Group: A,1: 130,2: 133,3: 136,Total: 136,94kgMen,Snatch,76
-Rank: 3,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 92.70,Group: A,1: 132,2: 135,3: -137,Total: 135,94kgMen,Snatch,76
-Rank: 4,TORRES Fernando,MEX,"Born: Jan 01, 1992",B.weight: 89.25,Group: A,1: 125,2: -130,3: 131,Total: 131,94kgMen,Snatch,76
-Rank: 5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Born: Apr 19, 1991",B.weight: 91.80,Group: A,1: 120,2: 123,3: 126,Total: 126,94kgMen,Snatch,76
-Rank: 6,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 89.90,Group: A,1: 125,2: -130,3: -131,Total: 125,94kgMen,Snatch,76
-Rank: 7,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 91.55,Group: A,1: -123,2: 125,3: -130,Total: 125,94kgMen,Snatch,76
-Rank: 1,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Born: Jun 13, 1991",B.weight: 85.65,Group: A,1: 160,2: 164,3: 167,Total: 167,94kgMen,CleanJerk,76
-Rank: 2,TORRES Fernando,MEX,"Born: Jan 01, 1992",B.weight: 89.25,Group: A,1: 165,2: -168,3: -168,Total: 165,94kgMen,CleanJerk,76
-Rank: 3,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 92.70,Group: A,1: 155,2: -162,3: 162,Total: 162,94kgMen,CleanJerk,76
-Rank: 4,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 91.55,Group: A,1: 150,2: 155,3: -157,Total: 155,94kgMen,CleanJerk,76
-Rank: 5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Born: Apr 19, 1991",B.weight: 91.80,Group: A,1: -143,2: 143,3: 146,Total: 146,94kgMen,CleanJerk,76
-Rank: ---,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 89.90,Group: A,1: -160,2: -165,3: -165,Total: ---,94kgMen,CleanJerk,76
-Rank: ---,QUINTERO Yaciel,CUB,"Born: Jan 01, 1990",B.weight: 85.10,Group: A,1: -163,2: -163,3: -163,Total: ---,94kgMen,CleanJerk,76
-Rank: 1,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Born: Jun 13, 1991",B.weight: 85.65,Group: A,Snatch: 136,CI&Jerk: 167,Total: 303,,94kgMen,Total,76
-Rank: 2,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 92.70,Group: A,Snatch: 135,CI&Jerk: 162,Total: 297,,94kgMen,Total,76
-Rank: 3,TORRES Fernando,MEX,"Born: Jan 01, 1992",B.weight: 89.25,Group: A,Snatch: 131,CI&Jerk: 165,Total: 296,,94kgMen,Total,76
-Rank: 4,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 91.55,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,94kgMen,Total,76
-Rank: 5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Born: Apr 19, 1991",B.weight: 91.80,Group: A,Snatch: 126,CI&Jerk: 146,Total: 272,,94kgMen,Total,76
-Rank: ---,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 89.90,Group: A,Snatch: 125,CI&Jerk: ---,Total: ---,,94kgMen,Total,76
-Rank: ---,QUINTERO Yaciel,CUB,"Born: Jan 01, 1990",B.weight: 85.10,Group: A,Snatch: 138,CI&Jerk: ---,Total: ---,,94kgMen,Total,76
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 97.40,Group: A,1: 150,2: 160,3: 170,Total: 170,105kgMen,Snatch,76
-Rank: 2,HERNANDEZ Pablo,CHI,"Born: Jan 01, 1990",B.weight: 104.35,Group: A,1: 115,2: 117,3: 119,Total: 119,105kgMen,Snatch,76
-Rank: 3,DE AZA Franklin,DOM,"Born: Jan 01, 1992",B.weight: 101.50,Group: A,1: 112,2: 115,3: 118,Total: 118,105kgMen,Snatch,76
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 97.40,Group: A,1: 180,2: 190,3: 200,Total: 200,105kgMen,CleanJerk,76
-Rank: 2,HERNANDEZ Pablo,CHI,"Born: Jan 01, 1990",B.weight: 104.35,Group: A,1: 155,2: 165,3: -173,Total: 165,105kgMen,CleanJerk,76
-Rank: 3,DE AZA Franklin,DOM,"Born: Jan 01, 1992",B.weight: 101.50,Group: A,1: 145,2: 150,3: 153,Total: 153,105kgMen,CleanJerk,76
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 97.40,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,105kgMen,Total,76
-Rank: 2,HERNANDEZ Pablo,CHI,"Born: Jan 01, 1990",B.weight: 104.35,Group: A,Snatch: 119,CI&Jerk: 165,Total: 284,,105kgMen,Total,76
-Rank: 3,DE AZA Franklin,DOM,"Born: Jan 01, 1992",B.weight: 101.50,Group: A,Snatch: 118,CI&Jerk: 153,Total: 271,,105kgMen,Total,76
-Rank: 1,DELGADO Carlos,COL,"Born: Jun 03, 1990",B.weight: 107.25,Group: A,1: 145,2: 150,3: 155,Total: 155,+105kgMen,Snatch,76
-Rank: 2,CALERO TORRES Anderson Jimmy,ECU,"Born: Sep 04, 1992",B.weight: 133.10,Group: A,1: 130,2: -133,3: 134,Total: 134,+105kgMen,Snatch,76
-Rank: 3,RUIZ Victor,MEX,"Born: Jan 01, 1990",B.weight: 116.25,Group: A,1: 125,2: 130,3: 132,Total: 132,+105kgMen,Snatch,76
-Rank: 4,TORRES Aaron,ECU,"Born: Jan 01, 1990",B.weight: 105.10,Group: A,1: 123,2: 128,3: -131,Total: 128,+105kgMen,Snatch,76
-Rank: 5,ALBORES Yasseraf,MEX,"Born: Jan 01, 1990",B.weight: 118.60,Group: A,1: 125,2: -130,3: -132,Total: 125,+105kgMen,Snatch,76
-Rank: 6,MENESES Rodrigo,BRA,"Born: Jan 01, 1991",B.weight: 124.55,Group: A,1: 125,2: -131,3: -133,Total: 125,+105kgMen,Snatch,76
-Rank: 7,MARTINEZ Cristhofer,CHI,"Born: Jan 01, 1992",B.weight: 127.20,Group: A,1: 110,2: -117,3: 117,Total: 117,+105kgMen,Snatch,76
-Rank: 8,CORTEZ Alejandro,CHI,"Born: May 06, 1993",B.weight: 116.25,Group: A,1: 105,2: -110,3: 110,Total: 110,+105kgMen,Snatch,76
-Rank: 1,DELGADO Carlos,COL,"Born: Jun 03, 1990",B.weight: 107.25,Group: A,1: 175,2: 180,3: 185,Total: 185,+105kgMen,CleanJerk,76
-Rank: 2,TORRES Aaron,ECU,"Born: Jan 01, 1990",B.weight: 105.10,Group: A,1: 165,2: 175,3: 180,Total: 180,+105kgMen,CleanJerk,76
-Rank: 3,RUIZ Victor,MEX,"Born: Jan 01, 1990",B.weight: 116.25,Group: A,1: 150,2: 155,3: 158,Total: 158,+105kgMen,CleanJerk,76
-Rank: 4,MENESES Rodrigo,BRA,"Born: Jan 01, 1991",B.weight: 124.55,Group: A,1: 156,2: -160,3: -160,Total: 156,+105kgMen,CleanJerk,76
-Rank: 5,ALBORES Yasseraf,MEX,"Born: Jan 01, 1990",B.weight: 118.60,Group: A,1: 155,2: -158,3: -159,Total: 155,+105kgMen,CleanJerk,76
-Rank: 6,CALERO TORRES Anderson Jimmy,ECU,"Born: Sep 04, 1992",B.weight: 133.10,Group: A,1: 150,2: 155,3: -158,Total: 155,+105kgMen,CleanJerk,76
-Rank: 7,MARTINEZ Cristhofer,CHI,"Born: Jan 01, 1992",B.weight: 127.20,Group: A,1: 140,2: 145,3: -150,Total: 145,+105kgMen,CleanJerk,76
-Rank: 8,CORTEZ Alejandro,CHI,"Born: May 06, 1993",B.weight: 116.25,Group: A,1: 135,2: 140,3: -150,Total: 140,+105kgMen,CleanJerk,76
-Rank: 1,DELGADO Carlos,COL,"Born: Jun 03, 1990",B.weight: 107.25,Group: A,Snatch: 155,CI&Jerk: 185,Total: 340,,+105kgMen,Total,76
-Rank: 2,TORRES Aaron,ECU,"Born: Jan 01, 1990",B.weight: 105.10,Group: A,Snatch: 128,CI&Jerk: 180,Total: 308,,+105kgMen,Total,76
-Rank: 3,RUIZ Victor,MEX,"Born: Jan 01, 1990",B.weight: 116.25,Group: A,Snatch: 132,CI&Jerk: 158,Total: 290,,+105kgMen,Total,76
-Rank: 4,CALERO TORRES Anderson Jimmy,ECU,"Born: Sep 04, 1992",B.weight: 133.10,Group: A,Snatch: 134,CI&Jerk: 155,Total: 289,,+105kgMen,Total,76
-Rank: 5,MENESES Rodrigo,BRA,"Born: Jan 01, 1991",B.weight: 124.55,Group: A,Snatch: 125,CI&Jerk: 156,Total: 281,,+105kgMen,Total,76
-Rank: 6,ALBORES Yasseraf,MEX,"Born: Jan 01, 1990",B.weight: 118.60,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,+105kgMen,Total,76
-Rank: 7,MARTINEZ Cristhofer,CHI,"Born: Jan 01, 1992",B.weight: 127.20,Group: A,Snatch: 117,CI&Jerk: 145,Total: 262,,+105kgMen,Total,76
-Rank: 8,CORTEZ Alejandro,CHI,"Born: May 06, 1993",B.weight: 116.25,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,+105kgMen,Total,76
-Rank: 1,VASQUEZ Maria,ECU,"Born: Nov 26, 1990",B.weight: 47.40,Group: A,1: 60,2: 62,3: 65,Total: 65,48kgWomen,Snatch,76
-Rank: 2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 47.40,Group: A,1: 58,2: 61,3: -64,Total: 61,48kgWomen,Snatch,76
-Rank: 1,VASQUEZ Maria,ECU,"Born: Nov 26, 1990",B.weight: 47.40,Group: A,1: 79,2: 83,3: ---,Total: 83,48kgWomen,CleanJerk,76
-Rank: 2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 47.40,Group: A,1: -75,2: 75,3: -78,Total: 75,48kgWomen,CleanJerk,76
-Rank: 1,VASQUEZ Maria,ECU,"Born: Nov 26, 1990",B.weight: 47.40,Group: A,Snatch: 65,CI&Jerk: 83,Total: 148,,48kgWomen,Total,76
-Rank: 2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 47.40,Group: A,Snatch: 61,CI&Jerk: 75,Total: 136,,48kgWomen,Total,76
-Rank: 1,CADENA Diana,COL,"Born: Dec 23, 1993",B.weight: 52.85,Group: A,1: 67,2: 70,3: 72,Total: 72,53kgWomen,Snatch,76
-Rank: 2,SOLORZANO Keidy,COL,"Born: Jun 05, 1992",B.weight: 52.70,Group: A,1: 67,2: -70,3: 70,Total: 70,53kgWomen,Snatch,76
-Rank: 3,LOZAS Rocio,MEX,"Born: Jan 01, 1991",B.weight: 51.65,Group: A,1: 63,2: -67,3: 67,Total: 67,53kgWomen,Snatch,76
-Rank: 4,ALVAREZ Janella,ECU,"Born: Aug 12, 1993",B.weight: 52.45,Group: A,1: 60,2: 65,3: -67,Total: 65,53kgWomen,Snatch,76
-Rank: 5,PARRA Emeli Antonela,ARG,"Born: Jun 03, 1992",B.weight: 52.60,Group: A,1: 55,2: 58,3: -61,Total: 58,53kgWomen,Snatch,76
-Rank: 6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.10,Group: A,1: 56,2: -58,3: -58,Total: 56,53kgWomen,Snatch,76
-Rank: 1,CADENA Diana,COL,"Born: Dec 23, 1993",B.weight: 52.85,Group: A,1: 87,2: -90,3: 92,Total: 92,53kgWomen,CleanJerk,76
-Rank: 2,SOLORZANO Keidy,COL,"Born: Jun 05, 1992",B.weight: 52.70,Group: A,1: 85,2: 87,3: 90,Total: 90,53kgWomen,CleanJerk,76
-Rank: 3,ALVAREZ Janella,ECU,"Born: Aug 12, 1993",B.weight: 52.45,Group: A,1: 80,2: -85,3: 85,Total: 85,53kgWomen,CleanJerk,76
-Rank: 4,LOZAS Rocio,MEX,"Born: Jan 01, 1991",B.weight: 51.65,Group: A,1: 80,2: -85,3: -85,Total: 80,53kgWomen,CleanJerk,76
-Rank: 5,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.10,Group: A,1: 76,2: -79,3: -79,Total: 76,53kgWomen,CleanJerk,76
-Rank: 6,PARRA Emeli Antonela,ARG,"Born: Jun 03, 1992",B.weight: 52.60,Group: A,1: -75,2: 75,3: -77,Total: 75,53kgWomen,CleanJerk,76
-Rank: 1,CADENA Diana,COL,"Born: Dec 23, 1993",B.weight: 52.85,Group: A,Snatch: 72,CI&Jerk: 92,Total: 164,,53kgWomen,Total,76
-Rank: 2,SOLORZANO Keidy,COL,"Born: Jun 05, 1992",B.weight: 52.70,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,53kgWomen,Total,76
-Rank: 3,ALVAREZ Janella,ECU,"Born: Aug 12, 1993",B.weight: 52.45,Group: A,Snatch: 65,CI&Jerk: 85,Total: 150,,53kgWomen,Total,76
-Rank: 4,LOZAS Rocio,MEX,"Born: Jan 01, 1991",B.weight: 51.65,Group: A,Snatch: 67,CI&Jerk: 80,Total: 147,,53kgWomen,Total,76
-Rank: 5,PARRA Emeli Antonela,ARG,"Born: Jun 03, 1992",B.weight: 52.60,Group: A,Snatch: 58,CI&Jerk: 75,Total: 133,,53kgWomen,Total,76
-Rank: 6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.10,Group: A,Snatch: 56,CI&Jerk: 76,Total: 132,,53kgWomen,Total,76
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 57.20,Group: A,1: 90,2: 93,3: 96,Total: 96,58kgWomen,Snatch,76
-Rank: 2,HARO Veronica,ECU,"Born: Jul 28, 1993",B.weight: 57.30,Group: A,1: 68,2: 70,3: 71,Total: 71,58kgWomen,Snatch,76
-Rank: 3,PEREZ Abigail,MEX,"Born: Jul 10, 1990",B.weight: 56.70,Group: A,1: 65,2: 69,3: 70,Total: 70,58kgWomen,Snatch,76
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 57.20,Group: A,1: 107,2: 112,3: 115,Total: 115,58kgWomen,CleanJerk,76
-Rank: 2,HARO Veronica,ECU,"Born: Jul 28, 1993",B.weight: 57.30,Group: A,1: 91,2: 95,3: -100,Total: 95,58kgWomen,CleanJerk,76
-Rank: 3,PEREZ Abigail,MEX,"Born: Jul 10, 1990",B.weight: 56.70,Group: A,1: 85,2: 90,3: -95,Total: 90,58kgWomen,CleanJerk,76
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 57.20,Group: A,Snatch: 96,CI&Jerk: 115,Total: 211,,58kgWomen,Total,76
-Rank: 2,HARO Veronica,ECU,"Born: Jul 28, 1993",B.weight: 57.30,Group: A,Snatch: 71,CI&Jerk: 95,Total: 166,,58kgWomen,Total,76
-Rank: 3,PEREZ Abigail,MEX,"Born: Jul 10, 1990",B.weight: 56.70,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,58kgWomen,Total,76
-Rank: 1,PEREA MURILLO Sandra Milena,COL,"Born: Jul 29, 1992",B.weight: 63.00,Group: A,1: -85,2: 85,3: 90,Total: 90,63kgWomen,Snatch,76
-Rank: 2,ANGULO IZQUIERDO Sofia Valeria,ECU,"Born: Dec 27, 1991",B.weight: 60.95,Group: A,1: -78,2: 78,3: 82,Total: 82,63kgWomen,Snatch,76
-Rank: 3,ESQUIVEL Fabiola,MEX,"Born: Jan 01, 1990",B.weight: 62.60,Group: A,1: 75,2: 79,3: -83,Total: 79,63kgWomen,Snatch,76
-Rank: 4,HERNANDEZ LEON Karla Lucia,MEX,"Born: Sep 09, 1992",B.weight: 61.30,Group: A,1: -73,2: 73,3: 75,Total: 75,63kgWomen,Snatch,76
-Rank: 5,PACHO Ivett,CUB,"Born: Jan 01, 1990",B.weight: 61.70,Group: A,1: 62,2: 66,3: -67,Total: 66,63kgWomen,Snatch,76
-Rank: 1,ANGULO IZQUIERDO Sofia Valeria,ECU,"Born: Dec 27, 1991",B.weight: 60.95,Group: A,1: 100,2: 105,3: -110,Total: 105,63kgWomen,CleanJerk,76
-Rank: 2,HERNANDEZ LEON Karla Lucia,MEX,"Born: Sep 09, 1992",B.weight: 61.30,Group: A,1: 100,2: 105,3: -107,Total: 105,63kgWomen,CleanJerk,76
-Rank: 3,PEREA MURILLO Sandra Milena,COL,"Born: Jul 29, 1992",B.weight: 63.00,Group: A,1: -105,2: 105,3: -110,Total: 105,63kgWomen,CleanJerk,76
-Rank: 4,ESQUIVEL Fabiola,MEX,"Born: Jan 01, 1990",B.weight: 62.60,Group: A,1: 95,2: 100,3: 102,Total: 102,63kgWomen,CleanJerk,76
-Rank: 5,PACHO Ivett,CUB,"Born: Jan 01, 1990",B.weight: 61.70,Group: A,1: 82,2: -87,3: -87,Total: 82,63kgWomen,CleanJerk,76
-Rank: 1,PEREA MURILLO Sandra Milena,COL,"Born: Jul 29, 1992",B.weight: 63.00,Group: A,Snatch: 90,CI&Jerk: 105,Total: 195,,63kgWomen,Total,76
-Rank: 2,ANGULO IZQUIERDO Sofia Valeria,ECU,"Born: Dec 27, 1991",B.weight: 60.95,Group: A,Snatch: 82,CI&Jerk: 105,Total: 187,,63kgWomen,Total,76
-Rank: 3,ESQUIVEL Fabiola,MEX,"Born: Jan 01, 1990",B.weight: 62.60,Group: A,Snatch: 79,CI&Jerk: 102,Total: 181,,63kgWomen,Total,76
-Rank: 4,HERNANDEZ LEON Karla Lucia,MEX,"Born: Sep 09, 1992",B.weight: 61.30,Group: A,Snatch: 75,CI&Jerk: 105,Total: 180,,63kgWomen,Total,76
-Rank: 5,PACHO Ivett,CUB,"Born: Jan 01, 1990",B.weight: 61.70,Group: A,Snatch: 66,CI&Jerk: 82,Total: 148,,63kgWomen,Total,76
-Rank: 1,MUNOZ AGUIRRE Stefania,COL,"Born: Jan 27, 1993",B.weight: 67.80,Group: A,1: 80,2: 83,3: 86,Total: 86,69kgWomen,Snatch,76
-Rank: 2,MURILLO LEMOS Keyla Vanessa,COL,"Born: Mar 26, 1992",B.weight: 67.90,Group: A,1: -85,2: 85,3: -90,Total: 85,69kgWomen,Snatch,76
-Rank: 3,GARZA GARZA Alejandra,MEX,"Born: Aug 01, 1991",B.weight: 67.75,Group: A,1: 77,2: -81,3: 81,Total: 81,69kgWomen,Snatch,76
-Rank: 4,SANCHEZ Diana,ECU,"Born: Aug 03, 1990",B.weight: 63.15,Group: A,1: 77,2: -80,3: 80,Total: 80,69kgWomen,Snatch,76
-Rank: 5,MUNOZ Guadalupe,MEX,"Born: Feb 15, 1991",B.weight: 66.20,Group: A,1: 77,2: -80,3: -81,Total: 77,69kgWomen,Snatch,76
-Rank: 1,MUNOZ AGUIRRE Stefania,COL,"Born: Jan 27, 1993",B.weight: 67.80,Group: A,1: 100,2: 104,3: 107,Total: 107,69kgWomen,CleanJerk,76
-Rank: 2,GARZA GARZA Alejandra,MEX,"Born: Aug 01, 1991",B.weight: 67.75,Group: A,1: 100,2: 104,3: 106,Total: 106,69kgWomen,CleanJerk,76
-Rank: 3,MURILLO LEMOS Keyla Vanessa,COL,"Born: Mar 26, 1992",B.weight: 67.90,Group: A,1: 100,2: -104,3: 104,Total: 104,69kgWomen,CleanJerk,76
-Rank: 4,SANCHEZ Diana,ECU,"Born: Aug 03, 1990",B.weight: 63.15,Group: A,1: 98,2: 101,3: -105,Total: 101,69kgWomen,CleanJerk,76
-Rank: 5,MUNOZ Guadalupe,MEX,"Born: Feb 15, 1991",B.weight: 66.20,Group: A,1: 93,2: -98,3: -98,Total: 93,69kgWomen,CleanJerk,76
-Rank: 1,MUNOZ AGUIRRE Stefania,COL,"Born: Jan 27, 1993",B.weight: 67.80,Group: A,Snatch: 86,CI&Jerk: 107,Total: 193,,69kgWomen,Total,76
-Rank: 2,MURILLO LEMOS Keyla Vanessa,COL,"Born: Mar 26, 1992",B.weight: 67.90,Group: A,Snatch: 85,CI&Jerk: 104,Total: 189,,69kgWomen,Total,76
-Rank: 3,GARZA GARZA Alejandra,MEX,"Born: Aug 01, 1991",B.weight: 67.75,Group: A,Snatch: 81,CI&Jerk: 106,Total: 187,,69kgWomen,Total,76
-Rank: 4,SANCHEZ Diana,ECU,"Born: Aug 03, 1990",B.weight: 63.15,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,69kgWomen,Total,76
-Rank: 5,MUNOZ Guadalupe,MEX,"Born: Feb 15, 1991",B.weight: 66.20,Group: A,Snatch: 77,CI&Jerk: 93,Total: 170,,69kgWomen,Total,76
-Rank: 1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Born: Feb 17, 1990",B.weight: 69.30,Group: A,1: 100,2: 105,3: 108,Total: 108,75kgWomen,Snatch,76
-Rank: 2,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.10,Group: A,1: 87,2: 92,3: 97,Total: 97,75kgWomen,Snatch,76
-Rank: 3,PELIGRIN Odeisis,CUB,"Born: Jan 01, 1990",B.weight: 73.85,Group: A,1: 76,2: 80,3: 81,Total: 81,75kgWomen,Snatch,76
-Rank: 4,CONGO Heidy,ECU,"Born: Jan 01, 1990",B.weight: 73.35,Group: A,1: 75,2: -80,3: 80,Total: 80,75kgWomen,Snatch,76
-Rank: 1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Born: Feb 17, 1990",B.weight: 69.30,Group: A,1: 125,2: 130,3: 135,Total: 135,75kgWomen,CleanJerk,76
-Rank: 2,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.10,Group: A,1: 115,2: 122,3: 127,Total: 127,75kgWomen,CleanJerk,76
-Rank: 3,PELIGRIN Odeisis,CUB,"Born: Jan 01, 1990",B.weight: 73.85,Group: A,1: 96,2: 101,3: -105,Total: 101,75kgWomen,CleanJerk,76
-Rank: 4,CONGO Heidy,ECU,"Born: Jan 01, 1990",B.weight: 73.35,Group: A,1: 95,2: 100,3: -105,Total: 100,75kgWomen,CleanJerk,76
-Rank: 1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Born: Feb 17, 1990",B.weight: 69.30,Group: A,Snatch: 108,CI&Jerk: 135,Total: 243,,75kgWomen,Total,76
-Rank: 2,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.10,Group: A,Snatch: 97,CI&Jerk: 127,Total: 224,,75kgWomen,Total,76
-Rank: 3,PELIGRIN Odeisis,CUB,"Born: Jan 01, 1990",B.weight: 73.85,Group: A,Snatch: 81,CI&Jerk: 101,Total: 182,,75kgWomen,Total,76
-Rank: 4,CONGO Heidy,ECU,"Born: Jan 01, 1990",B.weight: 73.35,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,75kgWomen,Total,76
-Rank: 1,GOMEZ Cecilia,MEX,"Born: Feb 20, 1992",B.weight: 85.65,Group: A,1: 90,2: 93,3: 96,Total: 96,+75kgWomen,Snatch,76
-Rank: 2,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 94.70,Group: A,1: 88,2: 92,3: -94,Total: 92,+75kgWomen,Snatch,76
-Rank: 3,DE LA CRUZ Marilyn,ECU,"Born: Nov 23, 1992",B.weight: 82.00,Group: A,1: -87,2: 87,3: 90,Total: 90,+75kgWomen,Snatch,76
-Rank: 4,AGUERO Arlenis,CUB,"Born: Jan 01, 1990",B.weight: 105.85,Group: A,1: 82,2: 87,3: -91,Total: 87,+75kgWomen,Snatch,76
-Rank: 5,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 116.25,Group: A,1: -80,2: 80,3: 85,Total: 85,+75kgWomen,Snatch,76
-Rank: 1,GOMEZ Cecilia,MEX,"Born: Feb 20, 1992",B.weight: 85.65,Group: A,1: 115,2: -120,3: -120,Total: 115,+75kgWomen,CleanJerk,76
-Rank: 2,AGUERO Arlenis,CUB,"Born: Jan 01, 1990",B.weight: 105.85,Group: A,1: 105,2: 110,3: 113,Total: 113,+75kgWomen,CleanJerk,76
-Rank: 3,DE LA CRUZ Marilyn,ECU,"Born: Nov 23, 1992",B.weight: 82.00,Group: A,1: 102,2: 106,3: -110,Total: 106,+75kgWomen,CleanJerk,76
-Rank: 4,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 116.25,Group: A,1: 100,2: 105,3: -110,Total: 105,+75kgWomen,CleanJerk,76
-Rank: 5,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 94.70,Group: A,1: -103,2: -103,3: 103,Total: 103,+75kgWomen,CleanJerk,76
-Rank: 1,GOMEZ Cecilia,MEX,"Born: Feb 20, 1992",B.weight: 85.65,Group: A,Snatch: 96,CI&Jerk: 115,Total: 211,,+75kgWomen,Total,76
-Rank: 2,AGUERO Arlenis,CUB,"Born: Jan 01, 1990",B.weight: 105.85,Group: A,Snatch: 87,CI&Jerk: 113,Total: 200,,+75kgWomen,Total,76
-Rank: 3,DE LA CRUZ Marilyn,ECU,"Born: Nov 23, 1992",B.weight: 82.00,Group: A,Snatch: 90,CI&Jerk: 106,Total: 196,,+75kgWomen,Total,76
-Rank: 4,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 94.70,Group: A,Snatch: 92,CI&Jerk: 103,Total: 195,,+75kgWomen,Total,76
-Rank: 5,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 116.25,Group: A,Snatch: 85,CI&Jerk: 105,Total: 190,,+75kgWomen,Total,76
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.80,A,105,109,111,111,56kgMen,Snatch,76,True
+2,GIL GALBAN Adiel,CUB,"Mar 07, 1990",55.80,A,100,106,110,110,56kgMen,Snatch,76,True
+3,MOSQUERA VALENCIA Francisco Antonio,COL,"Apr 01, 1992",55.80,A,102,-106,106,106,56kgMen,Snatch,76,True
+4,DZUL CUY Jose Alfredo,MEX,"Sep 17, 1992",54.00,A,-90,90,94,94,56kgMen,Snatch,76,True
+5,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.40,A,87,90,94,94,56kgMen,Snatch,76,True
+1,GIL GALBAN Adiel,CUB,"Mar 07, 1990",55.80,A,136,141,146,146,56kgMen,CleanJerk,76,True
+2,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.80,A,140,145,-147,145,56kgMen,CleanJerk,76,True
+3,MOSQUERA VALENCIA Francisco Antonio,COL,"Apr 01, 1992",55.80,A,132,136,-139,136,56kgMen,CleanJerk,76,True
+4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.40,A,118,122,-125,122,56kgMen,CleanJerk,76,True
+5,DZUL CUY Jose Alfredo,MEX,"Sep 17, 1992",54.00,A,-117,117,121,121,56kgMen,CleanJerk,76,True
+1,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.80,A,111,145,256,,56kgMen,Total,76,True
+2,GIL GALBAN Adiel,CUB,"Mar 07, 1990",55.80,A,110,146,256,,56kgMen,Total,76,True
+3,MOSQUERA VALENCIA Francisco Antonio,COL,"Apr 01, 1992",55.80,A,106,136,242,,56kgMen,Total,76,True
+4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.40,A,94,122,216,,56kgMen,Total,76,True
+5,DZUL CUY Jose Alfredo,MEX,"Sep 17, 1992",54.00,A,94,121,215,,56kgMen,Total,76,True
+1,HERNANDEZ Gerzon,COL,"Jun 03, 1992",60.60,A,110,-115,115,115,62kgMen,Snatch,76,True
+2,PIZANGO Rene,ECU,"Apr 21, 1993",61.00,A,91,92,95,95,62kgMen,Snatch,76,True
+3,BARILLA RAMOS Edvin Stanly,GUA,"May 12, 1992",61.90,A,85,92,-95,92,62kgMen,Snatch,76,True
+1,HERNANDEZ Gerzon,COL,"Jun 03, 1992",60.60,A,130,135,140,140,62kgMen,CleanJerk,76,True
+2,PIZANGO Rene,ECU,"Apr 21, 1993",61.00,A,125,129,-136,129,62kgMen,CleanJerk,76,True
+3,BARILLA RAMOS Edvin Stanly,GUA,"May 12, 1992",61.90,A,123,128,-133,128,62kgMen,CleanJerk,76,True
+1,HERNANDEZ Gerzon,COL,"Jun 03, 1992",60.60,A,115,140,255,,62kgMen,Total,76,True
+2,PIZANGO Rene,ECU,"Apr 21, 1993",61.00,A,95,129,224,,62kgMen,Total,76,True
+3,BARILLA RAMOS Edvin Stanly,GUA,"May 12, 1992",61.90,A,92,128,220,,62kgMen,Total,76,True
+1,MONTES HURTADO Hugo Fernando,COL,"Jan 29, 1990",67.25,A,128,131,135,135,69kgMen,Snatch,76,True
+2,LA O GARCIA Addriel,CUB,"Feb 10, 1992",67.20,A,-122,122,130,130,69kgMen,Snatch,76,True
+3,MOLINA Cesar,ECU,"Feb 17, 1992",67.60,A,112,115,117,117,69kgMen,Snatch,76,True
+4,LEON Alan,MEX,"May 10, 1992",68.25,A,-115,115,-118,115,69kgMen,Snatch,76,True
+5,GASPAR MACHADO Rafael,BRA,"May 18, 1990",66.85,A,-110,110,-114,110,69kgMen,Snatch,76,True
+6,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",67.95,A,105,-110,-110,105,69kgMen,Snatch,76,True
+7,BRHUN Ever,ARG,"Dec 06, 1990",68.05,A,-92,92,97,97,69kgMen,Snatch,76,True
+1,MONTES HURTADO Hugo Fernando,COL,"Jan 29, 1990",67.25,A,155,160,-162,160,69kgMen,CleanJerk,76,True
+2,LA O GARCIA Addriel,CUB,"Feb 10, 1992",67.20,A,150,-156,-156,150,69kgMen,CleanJerk,76,True
+3,MOLINA Cesar,ECU,"Feb 17, 1992",67.60,A,140,142,-153,142,69kgMen,CleanJerk,76,True
+4,LEON Alan,MEX,"May 10, 1992",68.25,A,-140,141,-145,141,69kgMen,CleanJerk,76,True
+5,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",67.95,A,135,-140,140,140,69kgMen,CleanJerk,76,True
+6,GASPAR MACHADO Rafael,BRA,"May 18, 1990",66.85,A,130,-140,-140,130,69kgMen,CleanJerk,76,True
+7,BRHUN Ever,ARG,"Dec 06, 1990",68.05,A,110,117,122,122,69kgMen,CleanJerk,76,True
+1,MONTES HURTADO Hugo Fernando,COL,"Jan 29, 1990",67.25,A,135,160,295,,69kgMen,Total,76,True
+2,LA O GARCIA Addriel,CUB,"Feb 10, 1992",67.20,A,130,150,280,,69kgMen,Total,76,True
+3,MOLINA Cesar,ECU,"Feb 17, 1992",67.60,A,117,142,259,,69kgMen,Total,76,True
+4,LEON Alan,MEX,"May 10, 1992",68.25,A,115,141,256,,69kgMen,Total,76,True
+5,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",67.95,A,105,140,245,,69kgMen,Total,76,True
+6,GASPAR MACHADO Rafael,BRA,"May 18, 1990",66.85,A,110,130,240,,69kgMen,Total,76,True
+7,BRHUN Ever,ARG,"Dec 06, 1990",68.05,A,97,122,219,,69kgMen,Total,76,True
+1,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",74.90,A,130,135,140,140,77kgMen,Snatch,76,True
+2,NUNEZ QUESADA Yadier,CUB,"Dec 06, 1991",74.60,A,127,133,-137,133,77kgMen,Snatch,76,True
+3,ARANGO Yariel,CUB,"Jan 01, 1991",73.85,A,123,128,-131,128,77kgMen,Snatch,76,True
+4,DE DIOS Miguel,DOM,"Jan 01, 1990",74.70,A,117,121,-124,121,77kgMen,Snatch,76,True
+5,COUOH Felix,MEX,"Jan 01, 1990",75.35,A,118,-122,-122,118,77kgMen,Snatch,76,True
+1,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",74.90,A,163,168,176,176,77kgMen,CleanJerk,76,True
+2,NUNEZ QUESADA Yadier,CUB,"Dec 06, 1991",74.60,A,157,163,-168,163,77kgMen,CleanJerk,76,True
+3,ARANGO Yariel,CUB,"Jan 01, 1991",73.85,A,151,156,160,160,77kgMen,CleanJerk,76,True
+4,DE DIOS Miguel,DOM,"Jan 01, 1990",74.70,A,145,150,-154,150,77kgMen,CleanJerk,76,True
+---,COUOH Felix,MEX,"Jan 01, 1990",75.35,A,-145,-145,-145,---,77kgMen,CleanJerk,76,True
+1,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",74.90,A,140,176,316,,77kgMen,Total,76,True
+2,NUNEZ QUESADA Yadier,CUB,"Dec 06, 1991",74.60,A,133,163,296,,77kgMen,Total,76,True
+3,ARANGO Yariel,CUB,"Jan 01, 1991",73.85,A,128,160,288,,77kgMen,Total,76,True
+4,DE DIOS Miguel,DOM,"Jan 01, 1990",74.70,A,121,150,271,,77kgMen,Total,76,True
+---,COUOH Felix,MEX,"Jan 01, 1990",75.35,A,118,---,---,,77kgMen,Total,76,True
+1,PIMIENTA Alexander,CUB,"Jan 01, 1990",77.65,A,125,131,135,135,85kgMen,Snatch,76,True
+2,IGOR Jorge,CHI,"Apr 05, 1990",82.65,A,-125,125,-130,125,85kgMen,Snatch,76,True
+3,SANTOS COSTA Douglas,BRA,"Apr 23, 1990",84.20,A,-123,123,-127,123,85kgMen,Snatch,76,True
+4,PALACIOS Ivan,ARG,"Jul 13, 1991",81.65,A,110,117,122,122,85kgMen,Snatch,76,True
+---,YAGUANA Juan,ECU,"Mar 03, 1992",82.25,A,118,123,126,126,85kgMen,Snatch,76,True
+1,SANTOS COSTA Douglas,BRA,"Apr 23, 1990",84.20,A,163,167,-179,167,85kgMen,CleanJerk,76,True
+2,PIMIENTA Alexander,CUB,"Jan 01, 1990",77.65,A,157,162,166,166,85kgMen,CleanJerk,76,True
+3,PALACIOS Ivan,ARG,"Jul 13, 1991",81.65,A,155,160,-164,160,85kgMen,CleanJerk,76,True
+4,IGOR Jorge,CHI,"Apr 05, 1990",82.65,A,155,160,-165,160,85kgMen,CleanJerk,76,True
+---,YAGUANA Juan,ECU,"Mar 03, 1992",82.25,A,150,-155,-156,150,85kgMen,CleanJerk,76,True
+1,PIMIENTA Alexander,CUB,"Jan 01, 1990",77.65,A,135,166,301,,85kgMen,Total,76,True
+2,SANTOS COSTA Douglas,BRA,"Apr 23, 1990",84.20,A,123,167,290,,85kgMen,Total,76,True
+3,IGOR Jorge,CHI,"Apr 05, 1990",82.65,A,125,160,285,,85kgMen,Total,76,True
+4,PALACIOS Ivan,ARG,"Jul 13, 1991",81.65,A,122,160,282,,85kgMen,Total,76,True
+---,YAGUANA Juan,ECU,"Mar 03, 1992",82.25,A,126,150,276,,85kgMen,Total,76,True
+1,QUINTERO Yaciel,CUB,"Jan 01, 1990",85.10,A,135,138,-143,138,94kgMen,Snatch,76,True
+2,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Jun 13, 1991",85.65,A,130,133,136,136,94kgMen,Snatch,76,True
+3,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",92.70,A,132,135,-137,135,94kgMen,Snatch,76,True
+4,TORRES Fernando,MEX,"Jan 01, 1992",89.25,A,125,-130,131,131,94kgMen,Snatch,76,True
+5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Apr 19, 1991",91.80,A,120,123,126,126,94kgMen,Snatch,76,True
+6,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",89.90,A,125,-130,-131,125,94kgMen,Snatch,76,True
+7,MARTE Keven,PUR,"Mar 04, 1992",91.55,A,-123,125,-130,125,94kgMen,Snatch,76,True
+1,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Jun 13, 1991",85.65,A,160,164,167,167,94kgMen,CleanJerk,76,True
+2,TORRES Fernando,MEX,"Jan 01, 1992",89.25,A,165,-168,-168,165,94kgMen,CleanJerk,76,True
+3,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",92.70,A,155,-162,162,162,94kgMen,CleanJerk,76,True
+4,MARTE Keven,PUR,"Mar 04, 1992",91.55,A,150,155,-157,155,94kgMen,CleanJerk,76,True
+5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Apr 19, 1991",91.80,A,-143,143,146,146,94kgMen,CleanJerk,76,True
+---,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",89.90,A,-160,-165,-165,---,94kgMen,CleanJerk,76,True
+---,QUINTERO Yaciel,CUB,"Jan 01, 1990",85.10,A,-163,-163,-163,---,94kgMen,CleanJerk,76,True
+1,CONTRERAS CHAMORRO Wilmer Eduardo,ECU,"Jun 13, 1991",85.65,A,136,167,303,,94kgMen,Total,76,True
+2,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",92.70,A,135,162,297,,94kgMen,Total,76,True
+3,TORRES Fernando,MEX,"Jan 01, 1992",89.25,A,131,165,296,,94kgMen,Total,76,True
+4,MARTE Keven,PUR,"Mar 04, 1992",91.55,A,125,155,280,,94kgMen,Total,76,True
+5,VASQUEZ VASQUEZ Angel Miguel,DOM,"Apr 19, 1991",91.80,A,126,146,272,,94kgMen,Total,76,True
+---,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",89.90,A,125,---,---,,94kgMen,Total,76,True
+---,QUINTERO Yaciel,CUB,"Jan 01, 1990",85.10,A,138,---,---,,94kgMen,Total,76,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",97.40,A,150,160,170,170,105kgMen,Snatch,76,True
+2,HERNANDEZ Pablo,CHI,"Jan 01, 1990",104.35,A,115,117,119,119,105kgMen,Snatch,76,True
+3,DE AZA Franklin,DOM,"Jan 01, 1992",101.50,A,112,115,118,118,105kgMen,Snatch,76,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",97.40,A,180,190,200,200,105kgMen,CleanJerk,76,True
+2,HERNANDEZ Pablo,CHI,"Jan 01, 1990",104.35,A,155,165,-173,165,105kgMen,CleanJerk,76,True
+3,DE AZA Franklin,DOM,"Jan 01, 1992",101.50,A,145,150,153,153,105kgMen,CleanJerk,76,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",97.40,A,170,200,370,,105kgMen,Total,76,True
+2,HERNANDEZ Pablo,CHI,"Jan 01, 1990",104.35,A,119,165,284,,105kgMen,Total,76,True
+3,DE AZA Franklin,DOM,"Jan 01, 1992",101.50,A,118,153,271,,105kgMen,Total,76,True
+1,DELGADO Carlos,COL,"Jun 03, 1990",107.25,A,145,150,155,155,+105kgMen,Snatch,76,True
+2,CALERO TORRES Anderson Jimmy,ECU,"Sep 04, 1992",133.10,A,130,-133,134,134,+105kgMen,Snatch,76,True
+3,RUIZ Victor,MEX,"Jan 01, 1990",116.25,A,125,130,132,132,+105kgMen,Snatch,76,True
+4,TORRES Aaron,ECU,"Jan 01, 1990",105.10,A,123,128,-131,128,+105kgMen,Snatch,76,True
+5,ALBORES Yasseraf,MEX,"Jan 01, 1990",118.60,A,125,-130,-132,125,+105kgMen,Snatch,76,True
+6,MENESES Rodrigo,BRA,"Jan 01, 1991",124.55,A,125,-131,-133,125,+105kgMen,Snatch,76,True
+7,MARTINEZ Cristhofer,CHI,"Jan 01, 1992",127.20,A,110,-117,117,117,+105kgMen,Snatch,76,True
+8,CORTEZ Alejandro,CHI,"May 06, 1993",116.25,A,105,-110,110,110,+105kgMen,Snatch,76,True
+1,DELGADO Carlos,COL,"Jun 03, 1990",107.25,A,175,180,185,185,+105kgMen,CleanJerk,76,True
+2,TORRES Aaron,ECU,"Jan 01, 1990",105.10,A,165,175,180,180,+105kgMen,CleanJerk,76,True
+3,RUIZ Victor,MEX,"Jan 01, 1990",116.25,A,150,155,158,158,+105kgMen,CleanJerk,76,True
+4,MENESES Rodrigo,BRA,"Jan 01, 1991",124.55,A,156,-160,-160,156,+105kgMen,CleanJerk,76,True
+5,ALBORES Yasseraf,MEX,"Jan 01, 1990",118.60,A,155,-158,-159,155,+105kgMen,CleanJerk,76,True
+6,CALERO TORRES Anderson Jimmy,ECU,"Sep 04, 1992",133.10,A,150,155,-158,155,+105kgMen,CleanJerk,76,True
+7,MARTINEZ Cristhofer,CHI,"Jan 01, 1992",127.20,A,140,145,-150,145,+105kgMen,CleanJerk,76,True
+8,CORTEZ Alejandro,CHI,"May 06, 1993",116.25,A,135,140,-150,140,+105kgMen,CleanJerk,76,True
+1,DELGADO Carlos,COL,"Jun 03, 1990",107.25,A,155,185,340,,+105kgMen,Total,76,True
+2,TORRES Aaron,ECU,"Jan 01, 1990",105.10,A,128,180,308,,+105kgMen,Total,76,True
+3,RUIZ Victor,MEX,"Jan 01, 1990",116.25,A,132,158,290,,+105kgMen,Total,76,True
+4,CALERO TORRES Anderson Jimmy,ECU,"Sep 04, 1992",133.10,A,134,155,289,,+105kgMen,Total,76,True
+5,MENESES Rodrigo,BRA,"Jan 01, 1991",124.55,A,125,156,281,,+105kgMen,Total,76,True
+6,ALBORES Yasseraf,MEX,"Jan 01, 1990",118.60,A,125,155,280,,+105kgMen,Total,76,True
+7,MARTINEZ Cristhofer,CHI,"Jan 01, 1992",127.20,A,117,145,262,,+105kgMen,Total,76,True
+8,CORTEZ Alejandro,CHI,"May 06, 1993",116.25,A,110,140,250,,+105kgMen,Total,76,True
+1,VASQUEZ Maria,ECU,"Nov 26, 1990",47.40,A,60,62,65,65,48kgWomen,Snatch,76,True
+2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",47.40,A,58,61,-64,61,48kgWomen,Snatch,76,True
+1,VASQUEZ Maria,ECU,"Nov 26, 1990",47.40,A,79,83,---,83,48kgWomen,CleanJerk,76,True
+2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",47.40,A,-75,75,-78,75,48kgWomen,CleanJerk,76,True
+1,VASQUEZ Maria,ECU,"Nov 26, 1990",47.40,A,65,83,148,,48kgWomen,Total,76,True
+2,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",47.40,A,61,75,136,,48kgWomen,Total,76,True
+1,CADENA Diana,COL,"Dec 23, 1993",52.85,A,67,70,72,72,53kgWomen,Snatch,76,True
+2,SOLORZANO Keidy,COL,"Jun 05, 1992",52.70,A,67,-70,70,70,53kgWomen,Snatch,76,True
+3,LOZAS Rocio,MEX,"Jan 01, 1991",51.65,A,63,-67,67,67,53kgWomen,Snatch,76,True
+4,ALVAREZ Janella,ECU,"Aug 12, 1993",52.45,A,60,65,-67,65,53kgWomen,Snatch,76,True
+5,PARRA Emeli Antonela,ARG,"Jun 03, 1992",52.60,A,55,58,-61,58,53kgWomen,Snatch,76,True
+6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.10,A,56,-58,-58,56,53kgWomen,Snatch,76,True
+1,CADENA Diana,COL,"Dec 23, 1993",52.85,A,87,-90,92,92,53kgWomen,CleanJerk,76,True
+2,SOLORZANO Keidy,COL,"Jun 05, 1992",52.70,A,85,87,90,90,53kgWomen,CleanJerk,76,True
+3,ALVAREZ Janella,ECU,"Aug 12, 1993",52.45,A,80,-85,85,85,53kgWomen,CleanJerk,76,True
+4,LOZAS Rocio,MEX,"Jan 01, 1991",51.65,A,80,-85,-85,80,53kgWomen,CleanJerk,76,True
+5,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.10,A,76,-79,-79,76,53kgWomen,CleanJerk,76,True
+6,PARRA Emeli Antonela,ARG,"Jun 03, 1992",52.60,A,-75,75,-77,75,53kgWomen,CleanJerk,76,True
+1,CADENA Diana,COL,"Dec 23, 1993",52.85,A,72,92,164,,53kgWomen,Total,76,True
+2,SOLORZANO Keidy,COL,"Jun 05, 1992",52.70,A,70,90,160,,53kgWomen,Total,76,True
+3,ALVAREZ Janella,ECU,"Aug 12, 1993",52.45,A,65,85,150,,53kgWomen,Total,76,True
+4,LOZAS Rocio,MEX,"Jan 01, 1991",51.65,A,67,80,147,,53kgWomen,Total,76,True
+5,PARRA Emeli Antonela,ARG,"Jun 03, 1992",52.60,A,58,75,133,,53kgWomen,Total,76,True
+6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.10,A,56,76,132,,53kgWomen,Total,76,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",57.20,A,90,93,96,96,58kgWomen,Snatch,76,True
+2,HARO Veronica,ECU,"Jul 28, 1993",57.30,A,68,70,71,71,58kgWomen,Snatch,76,True
+3,PEREZ Abigail,MEX,"Jul 10, 1990",56.70,A,65,69,70,70,58kgWomen,Snatch,76,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",57.20,A,107,112,115,115,58kgWomen,CleanJerk,76,True
+2,HARO Veronica,ECU,"Jul 28, 1993",57.30,A,91,95,-100,95,58kgWomen,CleanJerk,76,True
+3,PEREZ Abigail,MEX,"Jul 10, 1990",56.70,A,85,90,-95,90,58kgWomen,CleanJerk,76,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",57.20,A,96,115,211,,58kgWomen,Total,76,True
+2,HARO Veronica,ECU,"Jul 28, 1993",57.30,A,71,95,166,,58kgWomen,Total,76,True
+3,PEREZ Abigail,MEX,"Jul 10, 1990",56.70,A,70,90,160,,58kgWomen,Total,76,True
+1,PEREA MURILLO Sandra Milena,COL,"Jul 29, 1992",63.00,A,-85,85,90,90,63kgWomen,Snatch,76,True
+2,ANGULO IZQUIERDO Sofia Valeria,ECU,"Dec 27, 1991",60.95,A,-78,78,82,82,63kgWomen,Snatch,76,True
+3,ESQUIVEL Fabiola,MEX,"Jan 01, 1990",62.60,A,75,79,-83,79,63kgWomen,Snatch,76,True
+4,HERNANDEZ LEON Karla Lucia,MEX,"Sep 09, 1992",61.30,A,-73,73,75,75,63kgWomen,Snatch,76,True
+5,PACHO Ivett,CUB,"Jan 01, 1990",61.70,A,62,66,-67,66,63kgWomen,Snatch,76,True
+1,ANGULO IZQUIERDO Sofia Valeria,ECU,"Dec 27, 1991",60.95,A,100,105,-110,105,63kgWomen,CleanJerk,76,True
+2,HERNANDEZ LEON Karla Lucia,MEX,"Sep 09, 1992",61.30,A,100,105,-107,105,63kgWomen,CleanJerk,76,True
+3,PEREA MURILLO Sandra Milena,COL,"Jul 29, 1992",63.00,A,-105,105,-110,105,63kgWomen,CleanJerk,76,True
+4,ESQUIVEL Fabiola,MEX,"Jan 01, 1990",62.60,A,95,100,102,102,63kgWomen,CleanJerk,76,True
+5,PACHO Ivett,CUB,"Jan 01, 1990",61.70,A,82,-87,-87,82,63kgWomen,CleanJerk,76,True
+1,PEREA MURILLO Sandra Milena,COL,"Jul 29, 1992",63.00,A,90,105,195,,63kgWomen,Total,76,True
+2,ANGULO IZQUIERDO Sofia Valeria,ECU,"Dec 27, 1991",60.95,A,82,105,187,,63kgWomen,Total,76,True
+3,ESQUIVEL Fabiola,MEX,"Jan 01, 1990",62.60,A,79,102,181,,63kgWomen,Total,76,True
+4,HERNANDEZ LEON Karla Lucia,MEX,"Sep 09, 1992",61.30,A,75,105,180,,63kgWomen,Total,76,True
+5,PACHO Ivett,CUB,"Jan 01, 1990",61.70,A,66,82,148,,63kgWomen,Total,76,True
+1,MUNOZ AGUIRRE Stefania,COL,"Jan 27, 1993",67.80,A,80,83,86,86,69kgWomen,Snatch,76,True
+2,MURILLO LEMOS Keyla Vanessa,COL,"Mar 26, 1992",67.90,A,-85,85,-90,85,69kgWomen,Snatch,76,True
+3,GARZA GARZA Alejandra,MEX,"Aug 01, 1991",67.75,A,77,-81,81,81,69kgWomen,Snatch,76,True
+4,SANCHEZ Diana,ECU,"Aug 03, 1990",63.15,A,77,-80,80,80,69kgWomen,Snatch,76,True
+5,MUNOZ Guadalupe,MEX,"Feb 15, 1991",66.20,A,77,-80,-81,77,69kgWomen,Snatch,76,True
+1,MUNOZ AGUIRRE Stefania,COL,"Jan 27, 1993",67.80,A,100,104,107,107,69kgWomen,CleanJerk,76,True
+2,GARZA GARZA Alejandra,MEX,"Aug 01, 1991",67.75,A,100,104,106,106,69kgWomen,CleanJerk,76,True
+3,MURILLO LEMOS Keyla Vanessa,COL,"Mar 26, 1992",67.90,A,100,-104,104,104,69kgWomen,CleanJerk,76,True
+4,SANCHEZ Diana,ECU,"Aug 03, 1990",63.15,A,98,101,-105,101,69kgWomen,CleanJerk,76,True
+5,MUNOZ Guadalupe,MEX,"Feb 15, 1991",66.20,A,93,-98,-98,93,69kgWomen,CleanJerk,76,True
+1,MUNOZ AGUIRRE Stefania,COL,"Jan 27, 1993",67.80,A,86,107,193,,69kgWomen,Total,76,True
+2,MURILLO LEMOS Keyla Vanessa,COL,"Mar 26, 1992",67.90,A,85,104,189,,69kgWomen,Total,76,True
+3,GARZA GARZA Alejandra,MEX,"Aug 01, 1991",67.75,A,81,106,187,,69kgWomen,Total,76,True
+4,SANCHEZ Diana,ECU,"Aug 03, 1990",63.15,A,80,101,181,,69kgWomen,Total,76,True
+5,MUNOZ Guadalupe,MEX,"Feb 15, 1991",66.20,A,77,93,170,,69kgWomen,Total,76,True
+1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Feb 17, 1990",69.30,A,100,105,108,108,75kgWomen,Snatch,76,True
+2,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.10,A,87,92,97,97,75kgWomen,Snatch,76,True
+3,PELIGRIN Odeisis,CUB,"Jan 01, 1990",73.85,A,76,80,81,81,75kgWomen,Snatch,76,True
+4,CONGO Heidy,ECU,"Jan 01, 1990",73.35,A,75,-80,80,80,75kgWomen,Snatch,76,True
+1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Feb 17, 1990",69.30,A,125,130,135,135,75kgWomen,CleanJerk,76,True
+2,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.10,A,115,122,127,127,75kgWomen,CleanJerk,76,True
+3,PELIGRIN Odeisis,CUB,"Jan 01, 1990",73.85,A,96,101,-105,101,75kgWomen,CleanJerk,76,True
+4,CONGO Heidy,ECU,"Jan 01, 1990",73.35,A,95,100,-105,100,75kgWomen,CleanJerk,76,True
+1,SOLIS ARBOLEDA Leidy Yessenia,COL,"Feb 17, 1990",69.30,A,108,135,243,,75kgWomen,Total,76,True
+2,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.10,A,97,127,224,,75kgWomen,Total,76,True
+3,PELIGRIN Odeisis,CUB,"Jan 01, 1990",73.85,A,81,101,182,,75kgWomen,Total,76,True
+4,CONGO Heidy,ECU,"Jan 01, 1990",73.35,A,80,100,180,,75kgWomen,Total,76,True
+1,GOMEZ Cecilia,MEX,"Feb 20, 1992",85.65,A,90,93,96,96,+75kgWomen,Snatch,76,True
+2,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",94.70,A,88,92,-94,92,+75kgWomen,Snatch,76,True
+3,DE LA CRUZ Marilyn,ECU,"Nov 23, 1992",82.00,A,-87,87,90,90,+75kgWomen,Snatch,76,True
+4,AGUERO Arlenis,CUB,"Jan 01, 1990",105.85,A,82,87,-91,87,+75kgWomen,Snatch,76,True
+5,SILVA GOMES Mayara,BRA,"Jun 30, 1992",116.25,A,-80,80,85,85,+75kgWomen,Snatch,76,True
+1,GOMEZ Cecilia,MEX,"Feb 20, 1992",85.65,A,115,-120,-120,115,+75kgWomen,CleanJerk,76,True
+2,AGUERO Arlenis,CUB,"Jan 01, 1990",105.85,A,105,110,113,113,+75kgWomen,CleanJerk,76,True
+3,DE LA CRUZ Marilyn,ECU,"Nov 23, 1992",82.00,A,102,106,-110,106,+75kgWomen,CleanJerk,76,True
+4,SILVA GOMES Mayara,BRA,"Jun 30, 1992",116.25,A,100,105,-110,105,+75kgWomen,CleanJerk,76,True
+5,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",94.70,A,-103,-103,103,103,+75kgWomen,CleanJerk,76,True
+1,GOMEZ Cecilia,MEX,"Feb 20, 1992",85.65,A,96,115,211,,+75kgWomen,Total,76,True
+2,AGUERO Arlenis,CUB,"Jan 01, 1990",105.85,A,87,113,200,,+75kgWomen,Total,76,True
+3,DE LA CRUZ Marilyn,ECU,"Nov 23, 1992",82.00,A,90,106,196,,+75kgWomen,Total,76,True
+4,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",94.70,A,92,103,195,,+75kgWomen,Total,76,True
+5,SILVA GOMES Mayara,BRA,"Jun 30, 1992",116.25,A,85,105,190,,+75kgWomen,Total,76,True

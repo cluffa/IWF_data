@@ -1,16 +1,16 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,SUAREZ Y. Daniela,VEN,"Born: Jan 01, 1992",B.weight: 47.20,Group: A,1: 55,2: 58,3: 60,Total: 60,48kgWomen,Snatch,101
-Rank: 2,GARCIA Dunia,CUB,"Born: Jan 01, 1990",B.weight: 47.10,Group: A,1: 50,2: 53,3: -55,Total: 53,48kgWomen,Snatch,101
-Rank: 1,SUAREZ Y. Daniela,VEN,"Born: Jan 01, 1992",B.weight: 47.20,Group: A,1: 70,2: 76,3: -80,Total: 76,48kgWomen,CleanJerk,101
-Rank: 2,GARCIA Dunia,CUB,"Born: Jan 01, 1990",B.weight: 47.10,Group: A,1: 62,2: 65,3: 68,Total: 68,48kgWomen,CleanJerk,101
-Rank: 1,SUAREZ Y. Daniela,VEN,"Born: Jan 01, 1992",B.weight: 47.20,Group: A,Snatch: 60,CI&Jerk: 76,Total: 136,,48kgWomen,Total,101
-Rank: 2,GARCIA Dunia,CUB,"Born: Jan 01, 1990",B.weight: 47.10,Group: A,Snatch: 53,CI&Jerk: 68,Total: 121,,48kgWomen,Total,101
-Rank: 1,ROSAS E. Sandra,ECU,"Born: Jan 01, 1976",B.weight: 52.85,Group: A,1: 70,2: 73,3: 75,Total: 75,53kgWomen,Snatch,101
-Rank: 2,GUERRERO S. Mara,VEN,"Born: Jan 01, 1990",B.weight: 52.50,Group: A,1: 62,2: 65,3: 67,Total: 67,53kgWomen,Snatch,101
-Rank: 3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Born: Dec 08, 1992",B.weight: 52.70,Group: A,1: 54,2: 58,3: 61,Total: 61,53kgWomen,Snatch,101
-Rank: 1,ROSAS E. Sandra,ECU,"Born: Jan 01, 1976",B.weight: 52.85,Group: A,1: 85,2: 90,3: -93,Total: 90,53kgWomen,CleanJerk,101
-Rank: 2,GUERRERO S. Mara,VEN,"Born: Jan 01, 1990",B.weight: 52.50,Group: A,1: -78,2: 78,3: 82,Total: 82,53kgWomen,CleanJerk,101
-Rank: 3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Born: Dec 08, 1992",B.weight: 52.70,Group: A,1: 73,2: -78,3: -79,Total: 73,53kgWomen,CleanJerk,101
-Rank: 1,ROSAS E. Sandra,ECU,"Born: Jan 01, 1976",B.weight: 52.85,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,53kgWomen,Total,101
-Rank: 2,GUERRERO S. Mara,VEN,"Born: Jan 01, 1990",B.weight: 52.50,Group: A,Snatch: 67,CI&Jerk: 82,Total: 149,,53kgWomen,Total,101
-Rank: 3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Born: Dec 08, 1992",B.weight: 52.70,Group: A,Snatch: 61,CI&Jerk: 73,Total: 134,,53kgWomen,Total,101
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,SUAREZ Y. Daniela,VEN,"Jan 01, 1992",47.20,A,55,58,60,60,48kgWomen,Snatch,101,True
+2,GARCIA Dunia,CUB,"Jan 01, 1990",47.10,A,50,53,-55,53,48kgWomen,Snatch,101,True
+1,SUAREZ Y. Daniela,VEN,"Jan 01, 1992",47.20,A,70,76,-80,76,48kgWomen,CleanJerk,101,True
+2,GARCIA Dunia,CUB,"Jan 01, 1990",47.10,A,62,65,68,68,48kgWomen,CleanJerk,101,True
+1,SUAREZ Y. Daniela,VEN,"Jan 01, 1992",47.20,A,60,76,136,,48kgWomen,Total,101,True
+2,GARCIA Dunia,CUB,"Jan 01, 1990",47.10,A,53,68,121,,48kgWomen,Total,101,True
+1,ROSAS E. Sandra,ECU,"Jan 01, 1976",52.85,A,70,73,75,75,53kgWomen,Snatch,101,True
+2,GUERRERO S. Mara,VEN,"Jan 01, 1990",52.50,A,62,65,67,67,53kgWomen,Snatch,101,True
+3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Dec 08, 1992",52.70,A,54,58,61,61,53kgWomen,Snatch,101,True
+1,ROSAS E. Sandra,ECU,"Jan 01, 1976",52.85,A,85,90,-93,90,53kgWomen,CleanJerk,101,True
+2,GUERRERO S. Mara,VEN,"Jan 01, 1990",52.50,A,-78,78,82,82,53kgWomen,CleanJerk,101,True
+3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Dec 08, 1992",52.70,A,73,-78,-79,73,53kgWomen,CleanJerk,101,True
+1,ROSAS E. Sandra,ECU,"Jan 01, 1976",52.85,A,75,90,165,,53kgWomen,Total,101,True
+2,GUERRERO S. Mara,VEN,"Jan 01, 1990",52.50,A,67,82,149,,53kgWomen,Total,101,True
+3,VALDESPINO DELGADO Sayli De La Caridad,CUB,"Dec 08, 1992",52.70,A,61,73,134,,53kgWomen,Total,101,True

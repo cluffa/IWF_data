@@ -1,190 +1,190 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,LONG Qingquan,CHN,"Born: Dec 03, 1990",B.weight: 55.30,Group: A,1: 116,2: 120,3: 125,Total: 125,56kgMen,Snatch,63
-Rank: 2,YANG Chin-Yi,TPE,"Born: May 15, 1981",B.weight: 55.55,Group: A,1: 105,2: -115,3: -115,Total: 105,56kgMen,Snatch,63
-Rank: 3,ENKHJARGAL Munkhdul,MGL,"Born: Sep 26, 1985",B.weight: 55.80,Group: A,1: - 95,2: - 95,3: 95,Total: 95,56kgMen,Snatch,63
-Rank: 1,LONG Qingquan,CHN,"Born: Dec 03, 1990",B.weight: 55.30,Group: A,1: 140,2: 150,3: 155,Total: 155,56kgMen,CleanJerk,63
-Rank: 2,YANG Chin-Yi,TPE,"Born: May 15, 1981",B.weight: 55.55,Group: A,1: 135,2: ---,3: ---,Total: 135,56kgMen,CleanJerk,63
-Rank: 3,ENKHJARGAL Munkhdul,MGL,"Born: Sep 26, 1985",B.weight: 55.80,Group: A,1: 115,2: 120,3: -122,Total: 120,56kgMen,CleanJerk,63
-Rank: 1,LONG Qingquan,CHN,"Born: Dec 03, 1990",B.weight: 55.30,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,56kgMen,Total,63
-Rank: 2,YANG Chin-Yi,TPE,"Born: May 15, 1981",B.weight: 55.55,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,56kgMen,Total,63
-Rank: 3,ENKHJARGAL Munkhdul,MGL,"Born: Sep 26, 1985",B.weight: 55.80,Group: A,Snatch: 95,CI&Jerk: 120,Total: 215,,56kgMen,Total,63
-Rank: 1,KIM Un Guk,PRK,"Born: Oct 28, 1988",B.weight: 61.85,Group: A,1: 135,2: 140,3: -142,Total: 140,62kgMen,Snatch,63
-Rank: 2,CHA Kum Chol,PRK,"Born: Jul 19, 1987",B.weight: 61.89,Group: A,1: 135,2: 140,3: -143,Total: 140,62kgMen,Snatch,63
-Rank: 3,JI Hun-Min,KOR,"Born: Mar 26, 1984",B.weight: 61.37,Group: A,1: 127,2: 133,3: -135,Total: 133,62kgMen,Snatch,63
-Rank: 4,YANG Sheng Hsiung,TPE,"Born: Jun 01, 1983",B.weight: 61.45,Group: A,1: 127,2: 132,3: -135,Total: 132,62kgMen,Snatch,63
-Rank: 1,KIM Un Guk,PRK,"Born: Oct 28, 1988",B.weight: 61.85,Group: A,1: 160,2: 165,3: 170,Total: 170,62kgMen,CleanJerk,63
-Rank: 2,YANG Sheng Hsiung,TPE,"Born: Jun 01, 1983",B.weight: 61.45,Group: A,1: 160,2: -164,3: 164,Total: 164,62kgMen,CleanJerk,63
-Rank: 3,JI Hun-Min,KOR,"Born: Mar 26, 1984",B.weight: 61.37,Group: A,1: 150,2: 160,3: -163,Total: 160,62kgMen,CleanJerk,63
-Rank: 4,CHA Kum Chol,PRK,"Born: Jul 19, 1987",B.weight: 61.89,Group: A,1: 155,2: -162,3: -163,Total: 155,62kgMen,CleanJerk,63
-Rank: 1,KIM Un Guk,PRK,"Born: Oct 28, 1988",B.weight: 61.85,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,62kgMen,Total,63
-Rank: 2,YANG Sheng Hsiung,TPE,"Born: Jun 01, 1983",B.weight: 61.45,Group: A,Snatch: 132,CI&Jerk: 164,Total: 296,,62kgMen,Total,63
-Rank: 3,CHA Kum Chol,PRK,"Born: Jul 19, 1987",B.weight: 61.89,Group: A,Snatch: 140,CI&Jerk: 155,Total: 295,,62kgMen,Total,63
-Rank: 4,JI Hun-Min,KOR,"Born: Mar 26, 1984",B.weight: 61.37,Group: A,Snatch: 133,CI&Jerk: 160,Total: 293,,62kgMen,Total,63
-Rank: 1,TANG Deshang,CHN,"Born: Apr 02, 1991",B.weight: 68.16,Group: A,1: 140,2: 145,3: -150,Total: 145,69kgMen,Snatch,63
-Rank: 2,KIM Kum Sok,PRK,"Born: Aug 19, 1987",B.weight: 68.97,Group: A,1: 135,2: -141,3: 141,Total: 141,69kgMen,Snatch,63
-Rank: 3,WU Tsung-Ling,TPE,"Born: Jan 20, 1986",B.weight: 68.68,Group: A,1: 125,2: 130,3: 133,Total: 133,69kgMen,Snatch,63
-Rank: 4,ASADA Tomohiro,JPN,"Born: Dec 20, 1982",B.weight: 68.66,Group: A,1: 120,2: 125,3: -130,Total: 125,69kgMen,Snatch,63
-Rank: 1,KIM Kum Sok,PRK,"Born: Aug 19, 1987",B.weight: 68.97,Group: A,1: 170,2: 180,3: -185,Total: 180,69kgMen,CleanJerk,63
-Rank: 2,TANG Deshang,CHN,"Born: Apr 02, 1991",B.weight: 68.16,Group: A,1: 175,2: -180,3: -180,Total: 175,69kgMen,CleanJerk,63
-Rank: 3,WU Tsung-Ling,TPE,"Born: Jan 20, 1986",B.weight: 68.68,Group: A,1: -155,2: 155,3: -158,Total: 155,69kgMen,CleanJerk,63
-Rank: 4,ASADA Tomohiro,JPN,"Born: Dec 20, 1982",B.weight: 68.66,Group: A,1: 150,2: -157,3: -163,Total: 150,69kgMen,CleanJerk,63
-Rank: 1,KIM Kum Sok,PRK,"Born: Aug 19, 1987",B.weight: 68.97,Group: A,Snatch: 141,CI&Jerk: 180,Total: 321,,69kgMen,Total,63
-Rank: 2,TANG Deshang,CHN,"Born: Apr 02, 1991",B.weight: 68.16,Group: A,Snatch: 145,CI&Jerk: 175,Total: 320,,69kgMen,Total,63
-Rank: 3,WU Tsung-Ling,TPE,"Born: Jan 20, 1986",B.weight: 68.68,Group: A,Snatch: 133,CI&Jerk: 155,Total: 288,,69kgMen,Total,63
-Rank: 4,ASADA Tomohiro,JPN,"Born: Dec 20, 1982",B.weight: 68.66,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,69kgMen,Total,63
-Rank: 1,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 72.37,Group: A,1: -155,2: 155,3: -160,Total: 155,77kgMen,Snatch,63
-Rank: 2,KIM Kwanghoon,KOR,"Born: Jan 31, 1982",B.weight: 76.28,Group: A,1: 145,2: 150,3: 153,Total: 153,77kgMen,Snatch,63
-Rank: 3,PANG Kum Chol,PRK,"Born: Nov 11, 1981",B.weight: 76.93,Group: A,1: 146,2: 151,3: -156,Total: 151,77kgMen,Snatch,63
-Rank: 1,KIM Kwanghoon,KOR,"Born: Jan 31, 1982",B.weight: 76.28,Group: A,1: 183,2: 194,3: 199,Total: 199,77kgMen,CleanJerk,63
-Rank: 2,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 72.37,Group: A,1: 191,2: -196,3: 196,Total: 196,77kgMen,CleanJerk,63
-Rank: 3,PANG Kum Chol,PRK,"Born: Nov 11, 1981",B.weight: 76.93,Group: A,1: 180,2: -190,3: -197,Total: 180,77kgMen,CleanJerk,63
-Rank: 1,KIM Kwanghoon,KOR,"Born: Jan 31, 1982",B.weight: 76.28,Group: A,Snatch: 153,CI&Jerk: 199,Total: 352,,77kgMen,Total,63
-Rank: 2,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 72.37,Group: A,Snatch: 155,CI&Jerk: 196,Total: 351,,77kgMen,Total,63
-Rank: 3,PANG Kum Chol,PRK,"Born: Nov 11, 1981",B.weight: 76.93,Group: A,Snatch: 151,CI&Jerk: 180,Total: 331,,77kgMen,Total,63
-Rank: 1,LU Yong,CHN,"Born: Jan 01, 1986",B.weight: 84.29,Group: A,1: 155,2: 165,3: 170,Total: 170,85kgMen,Snatch,63
-Rank: 2,YOSHIOKA Yuji,JPN,"Born: Nov 27, 1984",B.weight: 84.71,Group: A,1: 150,2: -157,3: -157,Total: 150,85kgMen,Snatch,63
-Rank: 3,CHEON Jeong Pyung,KOR,"Born: Oct 08, 1985",B.weight: 84.66,Group: A,1: 140,2: 145,3: 148,Total: 148,85kgMen,Snatch,63
-Rank: 4,WOO Wai Shun,HKG,"Born: Apr 03, 1973",B.weight: 81.50,Group: A,1: - 70,2: 70,3: - 81,Total: 70,85kgMen,Snatch,63
-Rank: 1,LU Yong,CHN,"Born: Jan 01, 1986",B.weight: 84.29,Group: A,1: 190,2: 195,3: 200,Total: 200,85kgMen,CleanJerk,63
-Rank: 2,CHEON Jeong Pyung,KOR,"Born: Oct 08, 1985",B.weight: 84.66,Group: A,1: 180,2: 185,3: ---,Total: 185,85kgMen,CleanJerk,63
-Rank: 3,YOSHIOKA Yuji,JPN,"Born: Nov 27, 1984",B.weight: 84.71,Group: A,1: 170,2: -180,3: -180,Total: 170,85kgMen,CleanJerk,63
-Rank: 4,WOO Wai Shun,HKG,"Born: Apr 03, 1973",B.weight: 81.50,Group: A,1: 90,2: 101,3: -105,Total: 101,85kgMen,CleanJerk,63
-Rank: 1,LU Yong,CHN,"Born: Jan 01, 1986",B.weight: 84.29,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,85kgMen,Total,63
-Rank: 2,CHEON Jeong Pyung,KOR,"Born: Oct 08, 1985",B.weight: 84.66,Group: A,Snatch: 148,CI&Jerk: 185,Total: 333,,85kgMen,Total,63
-Rank: 3,YOSHIOKA Yuji,JPN,"Born: Nov 27, 1984",B.weight: 84.71,Group: A,Snatch: 150,CI&Jerk: 170,Total: 320,,85kgMen,Total,63
-Rank: 4,WOO Wai Shun,HKG,"Born: Apr 03, 1973",B.weight: 81.50,Group: A,Snatch: 70,CI&Jerk: 101,Total: 171,,85kgMen,Total,63
-Rank: 1,KIM Minjae,KOR,"Born: Oct 13, 1983",B.weight: 93.14,Group: A,1: 160,2: -170,3: 171,Total: 171,94kgMen,Snatch,63
-Rank: 2,JIANG Hairong,CHN,"Born: Jan 02, 1983",B.weight: 86.42,Group: A,1: 165,2: 170,3: -175,Total: 170,94kgMen,Snatch,63
-Rank: 3,HIRAOKA Yuki,JPN,"Born: Jan 11, 1983",B.weight: 93.65,Group: A,1: -145,2: 145,3: -152,Total: 145,94kgMen,Snatch,63
-Rank: 1,JIANG Hairong,CHN,"Born: Jan 02, 1983",B.weight: 86.42,Group: A,1: 196,2: 204,3: -208,Total: 204,94kgMen,CleanJerk,63
-Rank: 2,KIM Minjae,KOR,"Born: Oct 13, 1983",B.weight: 93.14,Group: A,1: 195,2: 203,3: -208,Total: 203,94kgMen,CleanJerk,63
-Rank: 3,HIRAOKA Yuki,JPN,"Born: Jan 11, 1983",B.weight: 93.65,Group: A,1: 185,2: -190,3: -190,Total: 185,94kgMen,CleanJerk,63
-Rank: 1,JIANG Hairong,CHN,"Born: Jan 02, 1983",B.weight: 86.42,Group: A,Snatch: 170,CI&Jerk: 204,Total: 374,,94kgMen,Total,63
-Rank: 2,KIM Minjae,KOR,"Born: Oct 13, 1983",B.weight: 93.14,Group: A,Snatch: 171,CI&Jerk: 203,Total: 374,,94kgMen,Total,63
-Rank: 3,HIRAOKA Yuki,JPN,"Born: Jan 11, 1983",B.weight: 93.65,Group: A,Snatch: 145,CI&Jerk: 185,Total: 330,,94kgMen,Total,63
-Rank: 1,YANG Zhe,CHN,"Born: Jul 14, 1991",B.weight: 103.88,Group: A,1: 170,2: 175,3: 180,Total: 180,105kgMen,Snatch,63
-Rank: 2,KIM Wha Sung,KOR,"Born: Jun 22, 1985",B.weight: 104.20,Group: A,1: -170,2: 170,3: -176,Total: 170,105kgMen,Snatch,63
-Rank: 3,HSIEH Wei-Chun,TPE,"Born: Aug 14, 1983",B.weight: 96.93,Group: A,1: 150,2: -157,3: -162,Total: 150,105kgMen,Snatch,63
-Rank: 4,FUKUMINE Yuya,JPN,"Born: Aug 07, 1986",B.weight: 103.22,Group: A,1: -135,2: 135,3: -140,Total: 135,105kgMen,Snatch,63
-Rank: 1,YANG Zhe,CHN,"Born: Jul 14, 1991",B.weight: 103.88,Group: A,1: 205,2: 210,3: ---,Total: 210,105kgMen,CleanJerk,63
-Rank: 2,KIM Wha Sung,KOR,"Born: Jun 22, 1985",B.weight: 104.20,Group: A,1: 190,2: 200,3: ---,Total: 200,105kgMen,CleanJerk,63
-Rank: 3,HSIEH Wei-Chun,TPE,"Born: Aug 14, 1983",B.weight: 96.93,Group: A,1: 190,2: 196,3: -206,Total: 196,105kgMen,CleanJerk,63
-Rank: 4,FUKUMINE Yuya,JPN,"Born: Aug 07, 1986",B.weight: 103.22,Group: A,1: 175,2: 185,3: 190,Total: 190,105kgMen,CleanJerk,63
-Rank: 1,YANG Zhe,CHN,"Born: Jul 14, 1991",B.weight: 103.88,Group: A,Snatch: 180,CI&Jerk: 210,Total: 390,,105kgMen,Total,63
-Rank: 2,KIM Wha Sung,KOR,"Born: Jun 22, 1985",B.weight: 104.20,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,105kgMen,Total,63
-Rank: 3,HSIEH Wei-Chun,TPE,"Born: Aug 14, 1983",B.weight: 96.93,Group: A,Snatch: 150,CI&Jerk: 196,Total: 346,,105kgMen,Total,63
-Rank: 4,FUKUMINE Yuya,JPN,"Born: Aug 07, 1986",B.weight: 103.22,Group: A,Snatch: 135,CI&Jerk: 190,Total: 325,,105kgMen,Total,63
-Rank: 1,AN Yong-Kwon,KOR,"Born: Oct 15, 1982",B.weight: 141.48,Group: A,1: 175,2: 185,3: ---,Total: 185,+105kgMen,Snatch,63
-Rank: 2,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 143.38,Group: A,1: 173,2: -180,3: -181,Total: 173,+105kgMen,Snatch,63
-Rank: 3,CHEN Shih-Chieh,TPE,"Born: Nov 27, 1989",B.weight: 133.77,Group: A,1: 162,2: 171,3: -173,Total: 171,+105kgMen,Snatch,63
-Rank: 4,RI Jae Gyong,PRK,"Born: Jan 19, 1989",B.weight: 118.53,Group: A,1: 115,2: 122,3: -130,Total: 122,+105kgMen,Snatch,63
-Rank: 1,AN Yong-Kwon,KOR,"Born: Oct 15, 1982",B.weight: 141.48,Group: A,1: 210,2: 220,3: ---,Total: 220,+105kgMen,CleanJerk,63
-Rank: 2,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 143.38,Group: A,1: 209,2: -217,3: ---,Total: 209,+105kgMen,CleanJerk,63
-Rank: 3,CHEN Shih-Chieh,TPE,"Born: Nov 27, 1989",B.weight: 133.77,Group: A,1: -200,2: 200,3: -208,Total: 200,+105kgMen,CleanJerk,63
-Rank: 4,RI Jae Gyong,PRK,"Born: Jan 19, 1989",B.weight: 118.53,Group: A,1: -165,2: 165,3: -172,Total: 165,+105kgMen,CleanJerk,63
-Rank: 1,AN Yong-Kwon,KOR,"Born: Oct 15, 1982",B.weight: 141.48,Group: A,Snatch: 185,CI&Jerk: 220,Total: 405,,+105kgMen,Total,63
-Rank: 2,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 143.38,Group: A,Snatch: 173,CI&Jerk: 209,Total: 382,,+105kgMen,Total,63
-Rank: 3,CHEN Shih-Chieh,TPE,"Born: Nov 27, 1989",B.weight: 133.77,Group: A,Snatch: 171,CI&Jerk: 200,Total: 371,,+105kgMen,Total,63
-Rank: 4,RI Jae Gyong,PRK,"Born: Jan 19, 1989",B.weight: 118.53,Group: A,Snatch: 122,CI&Jerk: 165,Total: 287,,+105kgMen,Total,63
-Rank: 1,YANG Lian,CHN,"Born: Oct 16, 1982",B.weight: 47.68,Group: A,1: 85,2: 88,3: 90,Total: 90,48kgWomen,Snatch,63
-Rank: 2,RYANG Chun Hwa,PRK,"Born: Jun 12, 1991",B.weight: 47.43,Group: A,1: 75,2: 80,3: 84,Total: 84,48kgWomen,Snatch,63
-Rank: 3,CHEN Wei-Ling,TPE,"Born: Jan 04, 1982",B.weight: 47.33,Group: A,1: 79,2: - 83,3: - 83,Total: 79,48kgWomen,Snatch,63
-Rank: 4,MIZUOCHI Honami,JPN,"Born: Feb 05, 1993",B.weight: 47.77,Group: A,1: 70,2: 72,3: 74,Total: 74,48kgWomen,Snatch,63
-Rank: 1,CHEN Wei-Ling,TPE,"Born: Jan 04, 1982",B.weight: 47.33,Group: A,1: 105,2: 113,3: ---,Total: 113,48kgWomen,CleanJerk,63
-Rank: 2,YANG Lian,CHN,"Born: Oct 16, 1982",B.weight: 47.68,Group: A,1: 103,2: 108,3: 112,Total: 112,48kgWomen,CleanJerk,63
-Rank: 3,RYANG Chun Hwa,PRK,"Born: Jun 12, 1991",B.weight: 47.43,Group: A,1: 100,2: 104,3: 108,Total: 108,48kgWomen,CleanJerk,63
-Rank: 4,MIZUOCHI Honami,JPN,"Born: Feb 05, 1993",B.weight: 47.77,Group: A,1: 90,2: 92,3: 94,Total: 94,48kgWomen,CleanJerk,63
-Rank: 1,YANG Lian,CHN,"Born: Oct 16, 1982",B.weight: 47.68,Group: A,Snatch: 90,CI&Jerk: 112,Total: 202,,48kgWomen,Total,63
-Rank: 2,CHEN Wei-Ling,TPE,"Born: Jan 04, 1982",B.weight: 47.33,Group: A,Snatch: 79,CI&Jerk: 113,Total: 192,,48kgWomen,Total,63
-Rank: 3,RYANG Chun Hwa,PRK,"Born: Jun 12, 1991",B.weight: 47.43,Group: A,Snatch: 84,CI&Jerk: 108,Total: 192,,48kgWomen,Total,63
-Rank: 4,MIZUOCHI Honami,JPN,"Born: Feb 05, 1993",B.weight: 47.77,Group: A,Snatch: 74,CI&Jerk: 94,Total: 168,,48kgWomen,Total,63
-Rank: 1,LI Ping,CHN,"Born: Sep 15, 1988",B.weight: 52.74,Group: A,1: 88,2: 93,3: - 96,Total: 93,53kgWomen,Snatch,63
-Rank: 2,PAEK Un Hui,PRK,"Born: Dec 13, 1990",B.weight: 52.94,Group: A,1: 86,2: - 88,3: 88,Total: 88,53kgWomen,Snatch,63
-Rank: 3,YU Weili,HKG,"Born: Jun 24, 1983",B.weight: 52.44,Group: A,1: - 85,2: 85,3: 87,Total: 87,53kgWomen,Snatch,63
-Rank: 4,FANG Li-Chun,TPE,"Born: Mar 08, 1983",B.weight: 52.41,Group: A,1: - 83,2: 83,3: - 86,Total: 83,53kgWomen,Snatch,63
-Rank: 5,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.55,Group: A,1: 82,2: - 85,3: - 85,Total: 82,53kgWomen,Snatch,63
-Rank: 1,LI Ping,CHN,"Born: Sep 15, 1988",B.weight: 52.74,Group: A,1: 115,2: 120,3: 122,Total: 122,53kgWomen,CleanJerk,63
-Rank: 2,PAEK Un Hui,PRK,"Born: Dec 13, 1990",B.weight: 52.94,Group: A,1: 113,2: -118,3: -118,Total: 113,53kgWomen,CleanJerk,63
-Rank: 3,FANG Li-Chun,TPE,"Born: Mar 08, 1983",B.weight: 52.41,Group: A,1: 109,2: 112,3: -116,Total: 112,53kgWomen,CleanJerk,63
-Rank: 4,YU Weili,HKG,"Born: Jun 24, 1983",B.weight: 52.44,Group: A,1: 105,2: 108,3: 112,Total: 112,53kgWomen,CleanJerk,63
-Rank: 5,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.55,Group: A,1: 105,2: -110,3: 110,Total: 110,53kgWomen,CleanJerk,63
-Rank: 1,LI Ping,CHN,"Born: Sep 15, 1988",B.weight: 52.74,Group: A,Snatch: 93,CI&Jerk: 122,Total: 215,,53kgWomen,Total,63
-Rank: 2,PAEK Un Hui,PRK,"Born: Dec 13, 1990",B.weight: 52.94,Group: A,Snatch: 88,CI&Jerk: 113,Total: 201,,53kgWomen,Total,63
-Rank: 3,YU Weili,HKG,"Born: Jun 24, 1983",B.weight: 52.44,Group: A,Snatch: 87,CI&Jerk: 112,Total: 199,,53kgWomen,Total,63
-Rank: 4,FANG Li-Chun,TPE,"Born: Mar 08, 1983",B.weight: 52.41,Group: A,Snatch: 83,CI&Jerk: 112,Total: 195,,53kgWomen,Total,63
-Rank: 5,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.55,Group: A,Snatch: 82,CI&Jerk: 110,Total: 192,,53kgWomen,Total,63
-Rank: 1,LI Xueying,CHN,"Born: May 15, 1990",B.weight: 57.49,Group: A,1: - 98,2: 98,3: 103,Total: 103,58kgWomen,Snatch,63
-Rank: 2,JONG Chun Mi,PRK,"Born: Mar 15, 1985",B.weight: 57.77,Group: A,1: 95,2: -100,3: 100,Total: 100,58kgWomen,Snatch,63
-Rank: 3,O Jong Ae,PRK,"Born: Jan 17, 1984",B.weight: 57.30,Group: A,1: 93,2: 96,3: -100,Total: 96,58kgWomen,Snatch,63
-Rank: 4,LIN Wan-Hsuan,TPE,"Born: Mar 19, 1988",B.weight: 57.55,Group: A,1: - 87,2: - 87,3: 87,Total: 87,58kgWomen,Snatch,63
-Rank: 5,KIM Sohwa,KOR,"Born: Feb 04, 1992",B.weight: 57.67,Group: A,1: 80,2: 85,3: 87,Total: 87,58kgWomen,Snatch,63
-Rank: 6,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.87,Group: A,1: - 82,2: 82,3: 86,Total: 86,58kgWomen,Snatch,63
-Rank: 7,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 57.88,Group: A,1: - 75,2: 75,3: 78,Total: 78,58kgWomen,Snatch,63
-Rank: 8,KAM Wing Yee,HKG,"Born: May 04, 1990",B.weight: 57.04,Group: A,1: 60,2: 65,3: 70,Total: 70,58kgWomen,Snatch,63
-Rank: 1,JONG Chun Mi,PRK,"Born: Mar 15, 1985",B.weight: 57.77,Group: A,1: 125,2: 130,3: 132,Total: 132,58kgWomen,CleanJerk,63
-Rank: 2,LI Xueying,CHN,"Born: May 15, 1990",B.weight: 57.49,Group: A,1: 123,2: 128,3: -131,Total: 128,58kgWomen,CleanJerk,63
-Rank: 3,O Jong Ae,PRK,"Born: Jan 17, 1984",B.weight: 57.30,Group: A,1: 125,2: -130,3: -130,Total: 125,58kgWomen,CleanJerk,63
-Rank: 4,LIN Wan-Hsuan,TPE,"Born: Mar 19, 1988",B.weight: 57.55,Group: A,1: 110,2: -120,3: -120,Total: 110,58kgWomen,CleanJerk,63
-Rank: 5,KIM Sohwa,KOR,"Born: Feb 04, 1992",B.weight: 57.67,Group: A,1: 100,2: 105,3: -107,Total: 105,58kgWomen,CleanJerk,63
-Rank: 6,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.87,Group: A,1: -102,2: 102,3: -107,Total: 102,58kgWomen,CleanJerk,63
-Rank: 7,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 57.88,Group: A,1: 95,2: 100,3: -102,Total: 100,58kgWomen,CleanJerk,63
-Rank: 8,KAM Wing Yee,HKG,"Born: May 04, 1990",B.weight: 57.04,Group: A,1: 80,2: 85,3: 90,Total: 90,58kgWomen,CleanJerk,63
-Rank: 1,JONG Chun Mi,PRK,"Born: Mar 15, 1985",B.weight: 57.77,Group: A,Snatch: 100,CI&Jerk: 132,Total: 232,,58kgWomen,Total,63
-Rank: 2,LI Xueying,CHN,"Born: May 15, 1990",B.weight: 57.49,Group: A,Snatch: 103,CI&Jerk: 128,Total: 231,,58kgWomen,Total,63
-Rank: 3,O Jong Ae,PRK,"Born: Jan 17, 1984",B.weight: 57.30,Group: A,Snatch: 96,CI&Jerk: 125,Total: 221,,58kgWomen,Total,63
-Rank: 4,LIN Wan-Hsuan,TPE,"Born: Mar 19, 1988",B.weight: 57.55,Group: A,Snatch: 87,CI&Jerk: 110,Total: 197,,58kgWomen,Total,63
-Rank: 5,KIM Sohwa,KOR,"Born: Feb 04, 1992",B.weight: 57.67,Group: A,Snatch: 87,CI&Jerk: 105,Total: 192,,58kgWomen,Total,63
-Rank: 6,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.87,Group: A,Snatch: 86,CI&Jerk: 102,Total: 188,,58kgWomen,Total,63
-Rank: 7,GONGOR Otgontuya,MGL,"Born: Jan 09, 1991",B.weight: 57.88,Group: A,Snatch: 78,CI&Jerk: 100,Total: 178,,58kgWomen,Total,63
-Rank: 8,KAM Wing Yee,HKG,"Born: May 04, 1990",B.weight: 57.04,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,58kgWomen,Total,63
-Rank: 1,PAK Hyon Suk,PRK,"Born: Apr 08, 1985",B.weight: 59.75,Group: A,1: 102,2: 107,3: 110,Total: 110,63kgWomen,Snatch,63
-Rank: 2,GUO Xiyan,CHN,"Born: Sep 17, 1987",B.weight: 62.25,Group: A,1: 100,2: 103,3: 110,Total: 110,63kgWomen,Snatch,63
-Rank: 3,LIU Xia,MAC,"Born: Jan 16, 1981",B.weight: 62.29,Group: A,1: 95,2: 100,3: 103,Total: 103,63kgWomen,Snatch,63
-Rank: ---,NAMKHAIDORJ Bayarmaa,MGL,"Born: Jun 01, 1978",B.weight: 62.82,Group: A,1: - 80,2: - 80,3: - 82,Total: ---,63kgWomen,Snatch,63
-Rank: ---,MUN Yura,KOR,"Born: May 13, 1990",B.weight: 62.84,Group: A,1: -100,2: -100,3: -102,Total: ---,63kgWomen,Snatch,63
-Rank: 1,PAK Hyon Suk,PRK,"Born: Apr 08, 1985",B.weight: 59.75,Group: A,1: 133,2: 137,3: -143,Total: 137,63kgWomen,CleanJerk,63
-Rank: 2,LIU Xia,MAC,"Born: Jan 16, 1981",B.weight: 62.29,Group: A,1: 118,2: -134,3: ---,Total: 118,63kgWomen,CleanJerk,63
-Rank: 3,GUO Xiyan,CHN,"Born: Sep 17, 1987",B.weight: 62.25,Group: A,1: 110,2: -134,3: -138,Total: 110,63kgWomen,CleanJerk,63
-Rank: ---,NAMKHAIDORJ Bayarmaa,MGL,"Born: Jun 01, 1978",B.weight: 62.82,Group: A,1: ---,2: ---,3: ---,Total: ---,63kgWomen,CleanJerk,63
-Rank: ---,MUN Yura,KOR,"Born: May 13, 1990",B.weight: 62.84,Group: A,1: ---,2: ---,3: ---,Total: ---,63kgWomen,CleanJerk,63
-Rank: 1,PAK Hyon Suk,PRK,"Born: Apr 08, 1985",B.weight: 59.75,Group: A,Snatch: 110,CI&Jerk: 137,Total: 247,,63kgWomen,Total,63
-Rank: 2,LIU Xia,MAC,"Born: Jan 16, 1981",B.weight: 62.29,Group: A,Snatch: 103,CI&Jerk: 118,Total: 221,,63kgWomen,Total,63
-Rank: 3,GUO Xiyan,CHN,"Born: Sep 17, 1987",B.weight: 62.25,Group: A,Snatch: 110,CI&Jerk: 110,Total: 220,,63kgWomen,Total,63
-Rank: ---,NAMKHAIDORJ Bayarmaa,MGL,"Born: Jun 01, 1978",B.weight: 62.82,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,63kgWomen,Total,63
-Rank: ---,MUN Yura,KOR,"Born: May 13, 1990",B.weight: 62.84,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,63kgWomen,Total,63
-Rank: 1,ZHANG Shaoling,MAC,"Born: Nov 04, 1984",B.weight: 67.94,Group: A,1: 102,2: 106,3: 108,Total: 108,69kgWomen,Snatch,63
-Rank: 2,LIU Chunhong,CHN,"Born: Jan 29, 1985",B.weight: 68.46,Group: A,1: 100,2: -105,3: 106,Total: 106,69kgWomen,Snatch,63
-Rank: 3,LU Ying-Chi,TPE,"Born: Apr 06, 1985",B.weight: 65.64,Group: A,1: 85,2: - 90,3: 90,Total: 90,69kgWomen,Snatch,63
-Rank: 1,ZHANG Shaoling,MAC,"Born: Nov 04, 1984",B.weight: 67.94,Group: A,1: 122,2: 128,3: 135,Total: 135,69kgWomen,CleanJerk,63
-Rank: 2,LIU Chunhong,CHN,"Born: Jan 29, 1985",B.weight: 68.46,Group: A,1: 120,2: 125,3: -129,Total: 125,69kgWomen,CleanJerk,63
-Rank: 3,LU Ying-Chi,TPE,"Born: Apr 06, 1985",B.weight: 65.64,Group: A,1: 110,2: ---,3: ---,Total: 110,69kgWomen,CleanJerk,63
-Rank: 1,ZHANG Shaoling,MAC,"Born: Nov 04, 1984",B.weight: 67.94,Group: A,Snatch: 108,CI&Jerk: 135,Total: 243,,69kgWomen,Total,63
-Rank: 2,LIU Chunhong,CHN,"Born: Jan 29, 1985",B.weight: 68.46,Group: A,Snatch: 106,CI&Jerk: 125,Total: 231,,69kgWomen,Total,63
-Rank: 3,LU Ying-Chi,TPE,"Born: Apr 06, 1985",B.weight: 65.64,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,69kgWomen,Total,63
-Rank: 1,CAO Lei,CHN,"Born: Dec 24, 1983",B.weight: 72.34,Group: A,1: 105,2: 110,3: 112,Total: 112,75kgWomen,Snatch,63
-Rank: 2,WANG Ya-Jhen,TPE,"Born: Nov 11, 1987",B.weight: 70.34,Group: A,1: 95,2: 100,3: -102,Total: 100,75kgWomen,Snatch,63
-Rank: 3,LEE Aera,KOR,"Born: Mar 06, 1990",B.weight: 74.67,Group: A,1: 93,2: 97,3: 100,Total: 100,75kgWomen,Snatch,63
-Rank: 4,YANG Houqin,MAC,"Born: Dec 27, 1981",B.weight: 74.22,Group: A,1: 92,2: - 97,3: - 97,Total: 92,75kgWomen,Snatch,63
-Rank: 5,URANCHIMEG Byambadorj,MGL,"Born: Jul 25, 1989",B.weight: 73.95,Group: A,1: - 75,2: - 75,3: 75,Total: 75,75kgWomen,Snatch,63
-Rank: 1,CAO Lei,CHN,"Born: Dec 24, 1983",B.weight: 72.34,Group: A,1: 130,2: 135,3: 140,Total: 140,75kgWomen,CleanJerk,63
-Rank: 2,WANG Ya-Jhen,TPE,"Born: Nov 11, 1987",B.weight: 70.34,Group: A,1: -122,2: 126,3: ---,Total: 126,75kgWomen,CleanJerk,63
-Rank: 3,LEE Aera,KOR,"Born: Mar 06, 1990",B.weight: 74.67,Group: A,1: 120,2: -127,3: -127,Total: 120,75kgWomen,CleanJerk,63
-Rank: 4,YANG Houqin,MAC,"Born: Dec 27, 1981",B.weight: 74.22,Group: A,1: 110,2: 115,3: -120,Total: 115,75kgWomen,CleanJerk,63
-Rank: 5,URANCHIMEG Byambadorj,MGL,"Born: Jul 25, 1989",B.weight: 73.95,Group: A,1: - 95,2: 95,3: 97,Total: 97,75kgWomen,CleanJerk,63
-Rank: 1,CAO Lei,CHN,"Born: Dec 24, 1983",B.weight: 72.34,Group: A,Snatch: 112,CI&Jerk: 140,Total: 252,,75kgWomen,Total,63
-Rank: 2,WANG Ya-Jhen,TPE,"Born: Nov 11, 1987",B.weight: 70.34,Group: A,Snatch: 100,CI&Jerk: 126,Total: 226,,75kgWomen,Total,63
-Rank: 3,LEE Aera,KOR,"Born: Mar 06, 1990",B.weight: 74.67,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,75kgWomen,Total,63
-Rank: 4,YANG Houqin,MAC,"Born: Dec 27, 1981",B.weight: 74.22,Group: A,Snatch: 92,CI&Jerk: 115,Total: 207,,75kgWomen,Total,63
-Rank: 5,URANCHIMEG Byambadorj,MGL,"Born: Jul 25, 1989",B.weight: 73.95,Group: A,Snatch: 75,CI&Jerk: 97,Total: 172,,75kgWomen,Total,63
-Rank: 1,QI Xihui,CHN,"Born: Apr 01, 1987",B.weight: 137.56,Group: A,1: 115,2: 122,3: 125,Total: 125,+75kgWomen,Snatch,63
-Rank: 2,LEE Huisol,KOR,"Born: Aug 27, 1989",B.weight: 113.92,Group: A,1: 108,2: 112,3: -121,Total: 112,+75kgWomen,Snatch,63
-Rank: 3,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 106.15,Group: A,1: 105,2: -109,3: 109,Total: 109,+75kgWomen,Snatch,63
-Rank: 4,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 112.76,Group: A,1: 100,2: -103,3: -103,Total: 100,+75kgWomen,Snatch,63
-Rank: 1,QI Xihui,CHN,"Born: Apr 01, 1987",B.weight: 137.56,Group: A,1: 145,2: 148,3: 150,Total: 150,+75kgWomen,CleanJerk,63
-Rank: 2,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 106.15,Group: A,1: 137,2: 141,3: 144,Total: 144,+75kgWomen,CleanJerk,63
-Rank: 3,LEE Huisol,KOR,"Born: Aug 27, 1989",B.weight: 113.92,Group: A,1: 137,2: 141,3: 144,Total: 144,+75kgWomen,CleanJerk,63
-Rank: 4,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 112.76,Group: A,1: 133,2: -138,3: -138,Total: 133,+75kgWomen,CleanJerk,63
-Rank: 1,QI Xihui,CHN,"Born: Apr 01, 1987",B.weight: 137.56,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,+75kgWomen,Total,63
-Rank: 2,LEE Huisol,KOR,"Born: Aug 27, 1989",B.weight: 113.92,Group: A,Snatch: 112,CI&Jerk: 144,Total: 256,,+75kgWomen,Total,63
-Rank: 3,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 106.15,Group: A,Snatch: 109,CI&Jerk: 144,Total: 253,,+75kgWomen,Total,63
-Rank: 4,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 112.76,Group: A,Snatch: 100,CI&Jerk: 133,Total: 233,,+75kgWomen,Total,63
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,LONG Qingquan,CHN,"Dec 03, 1990",55.30,A,116,120,125,125,56kgMen,Snatch,63,True
+2,YANG Chin-Yi,TPE,"May 15, 1981",55.55,A,105,-115,-115,105,56kgMen,Snatch,63,True
+3,ENKHJARGAL Munkhdul,MGL,"Sep 26, 1985",55.80,A,- 95,- 95,95,95,56kgMen,Snatch,63,True
+1,LONG Qingquan,CHN,"Dec 03, 1990",55.30,A,140,150,155,155,56kgMen,CleanJerk,63,True
+2,YANG Chin-Yi,TPE,"May 15, 1981",55.55,A,135,---,---,135,56kgMen,CleanJerk,63,True
+3,ENKHJARGAL Munkhdul,MGL,"Sep 26, 1985",55.80,A,115,120,-122,120,56kgMen,CleanJerk,63,True
+1,LONG Qingquan,CHN,"Dec 03, 1990",55.30,A,125,155,280,,56kgMen,Total,63,True
+2,YANG Chin-Yi,TPE,"May 15, 1981",55.55,A,105,135,240,,56kgMen,Total,63,True
+3,ENKHJARGAL Munkhdul,MGL,"Sep 26, 1985",55.80,A,95,120,215,,56kgMen,Total,63,True
+1,KIM Un Guk,PRK,"Oct 28, 1988",61.85,A,135,140,-142,140,62kgMen,Snatch,63,True
+2,CHA Kum Chol,PRK,"Jul 19, 1987",61.89,A,135,140,-143,140,62kgMen,Snatch,63,True
+3,JI Hun-Min,KOR,"Mar 26, 1984",61.37,A,127,133,-135,133,62kgMen,Snatch,63,True
+4,YANG Sheng Hsiung,TPE,"Jun 01, 1983",61.45,A,127,132,-135,132,62kgMen,Snatch,63,True
+1,KIM Un Guk,PRK,"Oct 28, 1988",61.85,A,160,165,170,170,62kgMen,CleanJerk,63,True
+2,YANG Sheng Hsiung,TPE,"Jun 01, 1983",61.45,A,160,-164,164,164,62kgMen,CleanJerk,63,True
+3,JI Hun-Min,KOR,"Mar 26, 1984",61.37,A,150,160,-163,160,62kgMen,CleanJerk,63,True
+4,CHA Kum Chol,PRK,"Jul 19, 1987",61.89,A,155,-162,-163,155,62kgMen,CleanJerk,63,True
+1,KIM Un Guk,PRK,"Oct 28, 1988",61.85,A,140,170,310,,62kgMen,Total,63,True
+2,YANG Sheng Hsiung,TPE,"Jun 01, 1983",61.45,A,132,164,296,,62kgMen,Total,63,True
+3,CHA Kum Chol,PRK,"Jul 19, 1987",61.89,A,140,155,295,,62kgMen,Total,63,True
+4,JI Hun-Min,KOR,"Mar 26, 1984",61.37,A,133,160,293,,62kgMen,Total,63,True
+1,TANG Deshang,CHN,"Apr 02, 1991",68.16,A,140,145,-150,145,69kgMen,Snatch,63,True
+2,KIM Kum Sok,PRK,"Aug 19, 1987",68.97,A,135,-141,141,141,69kgMen,Snatch,63,True
+3,WU Tsung-Ling,TPE,"Jan 20, 1986",68.68,A,125,130,133,133,69kgMen,Snatch,63,True
+4,ASADA Tomohiro,JPN,"Dec 20, 1982",68.66,A,120,125,-130,125,69kgMen,Snatch,63,True
+1,KIM Kum Sok,PRK,"Aug 19, 1987",68.97,A,170,180,-185,180,69kgMen,CleanJerk,63,True
+2,TANG Deshang,CHN,"Apr 02, 1991",68.16,A,175,-180,-180,175,69kgMen,CleanJerk,63,True
+3,WU Tsung-Ling,TPE,"Jan 20, 1986",68.68,A,-155,155,-158,155,69kgMen,CleanJerk,63,True
+4,ASADA Tomohiro,JPN,"Dec 20, 1982",68.66,A,150,-157,-163,150,69kgMen,CleanJerk,63,True
+1,KIM Kum Sok,PRK,"Aug 19, 1987",68.97,A,141,180,321,,69kgMen,Total,63,True
+2,TANG Deshang,CHN,"Apr 02, 1991",68.16,A,145,175,320,,69kgMen,Total,63,True
+3,WU Tsung-Ling,TPE,"Jan 20, 1986",68.68,A,133,155,288,,69kgMen,Total,63,True
+4,ASADA Tomohiro,JPN,"Dec 20, 1982",68.66,A,125,150,275,,69kgMen,Total,63,True
+1,LIAO Hui,CHN,"Oct 05, 1987",72.37,A,-155,155,-160,155,77kgMen,Snatch,63,True
+2,KIM Kwanghoon,KOR,"Jan 31, 1982",76.28,A,145,150,153,153,77kgMen,Snatch,63,True
+3,PANG Kum Chol,PRK,"Nov 11, 1981",76.93,A,146,151,-156,151,77kgMen,Snatch,63,True
+1,KIM Kwanghoon,KOR,"Jan 31, 1982",76.28,A,183,194,199,199,77kgMen,CleanJerk,63,True
+2,LIAO Hui,CHN,"Oct 05, 1987",72.37,A,191,-196,196,196,77kgMen,CleanJerk,63,True
+3,PANG Kum Chol,PRK,"Nov 11, 1981",76.93,A,180,-190,-197,180,77kgMen,CleanJerk,63,True
+1,KIM Kwanghoon,KOR,"Jan 31, 1982",76.28,A,153,199,352,,77kgMen,Total,63,True
+2,LIAO Hui,CHN,"Oct 05, 1987",72.37,A,155,196,351,,77kgMen,Total,63,True
+3,PANG Kum Chol,PRK,"Nov 11, 1981",76.93,A,151,180,331,,77kgMen,Total,63,True
+1,LU Yong,CHN,"Jan 01, 1986",84.29,A,155,165,170,170,85kgMen,Snatch,63,True
+2,YOSHIOKA Yuji,JPN,"Nov 27, 1984",84.71,A,150,-157,-157,150,85kgMen,Snatch,63,True
+3,CHEON Jeong Pyung,KOR,"Oct 08, 1985",84.66,A,140,145,148,148,85kgMen,Snatch,63,True
+4,WOO Wai Shun,HKG,"Apr 03, 1973",81.50,A,- 70,70,- 81,70,85kgMen,Snatch,63,True
+1,LU Yong,CHN,"Jan 01, 1986",84.29,A,190,195,200,200,85kgMen,CleanJerk,63,True
+2,CHEON Jeong Pyung,KOR,"Oct 08, 1985",84.66,A,180,185,---,185,85kgMen,CleanJerk,63,True
+3,YOSHIOKA Yuji,JPN,"Nov 27, 1984",84.71,A,170,-180,-180,170,85kgMen,CleanJerk,63,True
+4,WOO Wai Shun,HKG,"Apr 03, 1973",81.50,A,90,101,-105,101,85kgMen,CleanJerk,63,True
+1,LU Yong,CHN,"Jan 01, 1986",84.29,A,170,200,370,,85kgMen,Total,63,True
+2,CHEON Jeong Pyung,KOR,"Oct 08, 1985",84.66,A,148,185,333,,85kgMen,Total,63,True
+3,YOSHIOKA Yuji,JPN,"Nov 27, 1984",84.71,A,150,170,320,,85kgMen,Total,63,True
+4,WOO Wai Shun,HKG,"Apr 03, 1973",81.50,A,70,101,171,,85kgMen,Total,63,True
+1,KIM Minjae,KOR,"Oct 13, 1983",93.14,A,160,-170,171,171,94kgMen,Snatch,63,True
+2,JIANG Hairong,CHN,"Jan 02, 1983",86.42,A,165,170,-175,170,94kgMen,Snatch,63,True
+3,HIRAOKA Yuki,JPN,"Jan 11, 1983",93.65,A,-145,145,-152,145,94kgMen,Snatch,63,True
+1,JIANG Hairong,CHN,"Jan 02, 1983",86.42,A,196,204,-208,204,94kgMen,CleanJerk,63,True
+2,KIM Minjae,KOR,"Oct 13, 1983",93.14,A,195,203,-208,203,94kgMen,CleanJerk,63,True
+3,HIRAOKA Yuki,JPN,"Jan 11, 1983",93.65,A,185,-190,-190,185,94kgMen,CleanJerk,63,True
+1,JIANG Hairong,CHN,"Jan 02, 1983",86.42,A,170,204,374,,94kgMen,Total,63,True
+2,KIM Minjae,KOR,"Oct 13, 1983",93.14,A,171,203,374,,94kgMen,Total,63,True
+3,HIRAOKA Yuki,JPN,"Jan 11, 1983",93.65,A,145,185,330,,94kgMen,Total,63,True
+1,YANG Zhe,CHN,"Jul 14, 1991",103.88,A,170,175,180,180,105kgMen,Snatch,63,True
+2,KIM Wha Sung,KOR,"Jun 22, 1985",104.20,A,-170,170,-176,170,105kgMen,Snatch,63,True
+3,HSIEH Wei-Chun,TPE,"Aug 14, 1983",96.93,A,150,-157,-162,150,105kgMen,Snatch,63,True
+4,FUKUMINE Yuya,JPN,"Aug 07, 1986",103.22,A,-135,135,-140,135,105kgMen,Snatch,63,True
+1,YANG Zhe,CHN,"Jul 14, 1991",103.88,A,205,210,---,210,105kgMen,CleanJerk,63,True
+2,KIM Wha Sung,KOR,"Jun 22, 1985",104.20,A,190,200,---,200,105kgMen,CleanJerk,63,True
+3,HSIEH Wei-Chun,TPE,"Aug 14, 1983",96.93,A,190,196,-206,196,105kgMen,CleanJerk,63,True
+4,FUKUMINE Yuya,JPN,"Aug 07, 1986",103.22,A,175,185,190,190,105kgMen,CleanJerk,63,True
+1,YANG Zhe,CHN,"Jul 14, 1991",103.88,A,180,210,390,,105kgMen,Total,63,True
+2,KIM Wha Sung,KOR,"Jun 22, 1985",104.20,A,170,200,370,,105kgMen,Total,63,True
+3,HSIEH Wei-Chun,TPE,"Aug 14, 1983",96.93,A,150,196,346,,105kgMen,Total,63,True
+4,FUKUMINE Yuya,JPN,"Aug 07, 1986",103.22,A,135,190,325,,105kgMen,Total,63,True
+1,AN Yong-Kwon,KOR,"Oct 15, 1982",141.48,A,175,185,---,185,+105kgMen,Snatch,63,True
+2,OTA Kazuomi,JPN,"Jul 01, 1986",143.38,A,173,-180,-181,173,+105kgMen,Snatch,63,True
+3,CHEN Shih-Chieh,TPE,"Nov 27, 1989",133.77,A,162,171,-173,171,+105kgMen,Snatch,63,True
+4,RI Jae Gyong,PRK,"Jan 19, 1989",118.53,A,115,122,-130,122,+105kgMen,Snatch,63,True
+1,AN Yong-Kwon,KOR,"Oct 15, 1982",141.48,A,210,220,---,220,+105kgMen,CleanJerk,63,True
+2,OTA Kazuomi,JPN,"Jul 01, 1986",143.38,A,209,-217,---,209,+105kgMen,CleanJerk,63,True
+3,CHEN Shih-Chieh,TPE,"Nov 27, 1989",133.77,A,-200,200,-208,200,+105kgMen,CleanJerk,63,True
+4,RI Jae Gyong,PRK,"Jan 19, 1989",118.53,A,-165,165,-172,165,+105kgMen,CleanJerk,63,True
+1,AN Yong-Kwon,KOR,"Oct 15, 1982",141.48,A,185,220,405,,+105kgMen,Total,63,True
+2,OTA Kazuomi,JPN,"Jul 01, 1986",143.38,A,173,209,382,,+105kgMen,Total,63,True
+3,CHEN Shih-Chieh,TPE,"Nov 27, 1989",133.77,A,171,200,371,,+105kgMen,Total,63,True
+4,RI Jae Gyong,PRK,"Jan 19, 1989",118.53,A,122,165,287,,+105kgMen,Total,63,True
+1,YANG Lian,CHN,"Oct 16, 1982",47.68,A,85,88,90,90,48kgWomen,Snatch,63,True
+2,RYANG Chun Hwa,PRK,"Jun 12, 1991",47.43,A,75,80,84,84,48kgWomen,Snatch,63,True
+3,CHEN Wei-Ling,TPE,"Jan 04, 1982",47.33,A,79,- 83,- 83,79,48kgWomen,Snatch,63,True
+4,MIZUOCHI Honami,JPN,"Feb 05, 1993",47.77,A,70,72,74,74,48kgWomen,Snatch,63,True
+1,CHEN Wei-Ling,TPE,"Jan 04, 1982",47.33,A,105,113,---,113,48kgWomen,CleanJerk,63,True
+2,YANG Lian,CHN,"Oct 16, 1982",47.68,A,103,108,112,112,48kgWomen,CleanJerk,63,True
+3,RYANG Chun Hwa,PRK,"Jun 12, 1991",47.43,A,100,104,108,108,48kgWomen,CleanJerk,63,True
+4,MIZUOCHI Honami,JPN,"Feb 05, 1993",47.77,A,90,92,94,94,48kgWomen,CleanJerk,63,True
+1,YANG Lian,CHN,"Oct 16, 1982",47.68,A,90,112,202,,48kgWomen,Total,63,True
+2,CHEN Wei-Ling,TPE,"Jan 04, 1982",47.33,A,79,113,192,,48kgWomen,Total,63,True
+3,RYANG Chun Hwa,PRK,"Jun 12, 1991",47.43,A,84,108,192,,48kgWomen,Total,63,True
+4,MIZUOCHI Honami,JPN,"Feb 05, 1993",47.77,A,74,94,168,,48kgWomen,Total,63,True
+1,LI Ping,CHN,"Sep 15, 1988",52.74,A,88,93,- 96,93,53kgWomen,Snatch,63,True
+2,PAEK Un Hui,PRK,"Dec 13, 1990",52.94,A,86,- 88,88,88,53kgWomen,Snatch,63,True
+3,YU Weili,HKG,"Jun 24, 1983",52.44,A,- 85,85,87,87,53kgWomen,Snatch,63,True
+4,FANG Li-Chun,TPE,"Mar 08, 1983",52.41,A,- 83,83,- 86,83,53kgWomen,Snatch,63,True
+5,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.55,A,82,- 85,- 85,82,53kgWomen,Snatch,63,True
+1,LI Ping,CHN,"Sep 15, 1988",52.74,A,115,120,122,122,53kgWomen,CleanJerk,63,True
+2,PAEK Un Hui,PRK,"Dec 13, 1990",52.94,A,113,-118,-118,113,53kgWomen,CleanJerk,63,True
+3,FANG Li-Chun,TPE,"Mar 08, 1983",52.41,A,109,112,-116,112,53kgWomen,CleanJerk,63,True
+4,YU Weili,HKG,"Jun 24, 1983",52.44,A,105,108,112,112,53kgWomen,CleanJerk,63,True
+5,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.55,A,105,-110,110,110,53kgWomen,CleanJerk,63,True
+1,LI Ping,CHN,"Sep 15, 1988",52.74,A,93,122,215,,53kgWomen,Total,63,True
+2,PAEK Un Hui,PRK,"Dec 13, 1990",52.94,A,88,113,201,,53kgWomen,Total,63,True
+3,YU Weili,HKG,"Jun 24, 1983",52.44,A,87,112,199,,53kgWomen,Total,63,True
+4,FANG Li-Chun,TPE,"Mar 08, 1983",52.41,A,83,112,195,,53kgWomen,Total,63,True
+5,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.55,A,82,110,192,,53kgWomen,Total,63,True
+1,LI Xueying,CHN,"May 15, 1990",57.49,A,- 98,98,103,103,58kgWomen,Snatch,63,True
+2,JONG Chun Mi,PRK,"Mar 15, 1985",57.77,A,95,-100,100,100,58kgWomen,Snatch,63,True
+3,O Jong Ae,PRK,"Jan 17, 1984",57.30,A,93,96,-100,96,58kgWomen,Snatch,63,True
+4,LIN Wan-Hsuan,TPE,"Mar 19, 1988",57.55,A,- 87,- 87,87,87,58kgWomen,Snatch,63,True
+5,KIM Sohwa,KOR,"Feb 04, 1992",57.67,A,80,85,87,87,58kgWomen,Snatch,63,True
+6,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.87,A,- 82,82,86,86,58kgWomen,Snatch,63,True
+7,GONGOR Otgontuya,MGL,"Jan 09, 1991",57.88,A,- 75,75,78,78,58kgWomen,Snatch,63,True
+8,KAM Wing Yee,HKG,"May 04, 1990",57.04,A,60,65,70,70,58kgWomen,Snatch,63,True
+1,JONG Chun Mi,PRK,"Mar 15, 1985",57.77,A,125,130,132,132,58kgWomen,CleanJerk,63,True
+2,LI Xueying,CHN,"May 15, 1990",57.49,A,123,128,-131,128,58kgWomen,CleanJerk,63,True
+3,O Jong Ae,PRK,"Jan 17, 1984",57.30,A,125,-130,-130,125,58kgWomen,CleanJerk,63,True
+4,LIN Wan-Hsuan,TPE,"Mar 19, 1988",57.55,A,110,-120,-120,110,58kgWomen,CleanJerk,63,True
+5,KIM Sohwa,KOR,"Feb 04, 1992",57.67,A,100,105,-107,105,58kgWomen,CleanJerk,63,True
+6,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.87,A,-102,102,-107,102,58kgWomen,CleanJerk,63,True
+7,GONGOR Otgontuya,MGL,"Jan 09, 1991",57.88,A,95,100,-102,100,58kgWomen,CleanJerk,63,True
+8,KAM Wing Yee,HKG,"May 04, 1990",57.04,A,80,85,90,90,58kgWomen,CleanJerk,63,True
+1,JONG Chun Mi,PRK,"Mar 15, 1985",57.77,A,100,132,232,,58kgWomen,Total,63,True
+2,LI Xueying,CHN,"May 15, 1990",57.49,A,103,128,231,,58kgWomen,Total,63,True
+3,O Jong Ae,PRK,"Jan 17, 1984",57.30,A,96,125,221,,58kgWomen,Total,63,True
+4,LIN Wan-Hsuan,TPE,"Mar 19, 1988",57.55,A,87,110,197,,58kgWomen,Total,63,True
+5,KIM Sohwa,KOR,"Feb 04, 1992",57.67,A,87,105,192,,58kgWomen,Total,63,True
+6,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.87,A,86,102,188,,58kgWomen,Total,63,True
+7,GONGOR Otgontuya,MGL,"Jan 09, 1991",57.88,A,78,100,178,,58kgWomen,Total,63,True
+8,KAM Wing Yee,HKG,"May 04, 1990",57.04,A,70,90,160,,58kgWomen,Total,63,True
+1,PAK Hyon Suk,PRK,"Apr 08, 1985",59.75,A,102,107,110,110,63kgWomen,Snatch,63,True
+2,GUO Xiyan,CHN,"Sep 17, 1987",62.25,A,100,103,110,110,63kgWomen,Snatch,63,True
+3,LIU Xia,MAC,"Jan 16, 1981",62.29,A,95,100,103,103,63kgWomen,Snatch,63,True
+---,NAMKHAIDORJ Bayarmaa,MGL,"Jun 01, 1978",62.82,A,- 80,- 80,- 82,---,63kgWomen,Snatch,63,True
+---,MUN Yura,KOR,"May 13, 1990",62.84,A,-100,-100,-102,---,63kgWomen,Snatch,63,True
+1,PAK Hyon Suk,PRK,"Apr 08, 1985",59.75,A,133,137,-143,137,63kgWomen,CleanJerk,63,True
+2,LIU Xia,MAC,"Jan 16, 1981",62.29,A,118,-134,---,118,63kgWomen,CleanJerk,63,True
+3,GUO Xiyan,CHN,"Sep 17, 1987",62.25,A,110,-134,-138,110,63kgWomen,CleanJerk,63,True
+---,NAMKHAIDORJ Bayarmaa,MGL,"Jun 01, 1978",62.82,A,---,---,---,---,63kgWomen,CleanJerk,63,True
+---,MUN Yura,KOR,"May 13, 1990",62.84,A,---,---,---,---,63kgWomen,CleanJerk,63,True
+1,PAK Hyon Suk,PRK,"Apr 08, 1985",59.75,A,110,137,247,,63kgWomen,Total,63,True
+2,LIU Xia,MAC,"Jan 16, 1981",62.29,A,103,118,221,,63kgWomen,Total,63,True
+3,GUO Xiyan,CHN,"Sep 17, 1987",62.25,A,110,110,220,,63kgWomen,Total,63,True
+---,NAMKHAIDORJ Bayarmaa,MGL,"Jun 01, 1978",62.82,A,---,---,---,,63kgWomen,Total,63,True
+---,MUN Yura,KOR,"May 13, 1990",62.84,A,---,---,---,,63kgWomen,Total,63,True
+1,ZHANG Shaoling,MAC,"Nov 04, 1984",67.94,A,102,106,108,108,69kgWomen,Snatch,63,True
+2,LIU Chunhong,CHN,"Jan 29, 1985",68.46,A,100,-105,106,106,69kgWomen,Snatch,63,True
+3,LU Ying-Chi,TPE,"Apr 06, 1985",65.64,A,85,- 90,90,90,69kgWomen,Snatch,63,True
+1,ZHANG Shaoling,MAC,"Nov 04, 1984",67.94,A,122,128,135,135,69kgWomen,CleanJerk,63,True
+2,LIU Chunhong,CHN,"Jan 29, 1985",68.46,A,120,125,-129,125,69kgWomen,CleanJerk,63,True
+3,LU Ying-Chi,TPE,"Apr 06, 1985",65.64,A,110,---,---,110,69kgWomen,CleanJerk,63,True
+1,ZHANG Shaoling,MAC,"Nov 04, 1984",67.94,A,108,135,243,,69kgWomen,Total,63,True
+2,LIU Chunhong,CHN,"Jan 29, 1985",68.46,A,106,125,231,,69kgWomen,Total,63,True
+3,LU Ying-Chi,TPE,"Apr 06, 1985",65.64,A,90,110,200,,69kgWomen,Total,63,True
+1,CAO Lei,CHN,"Dec 24, 1983",72.34,A,105,110,112,112,75kgWomen,Snatch,63,True
+2,WANG Ya-Jhen,TPE,"Nov 11, 1987",70.34,A,95,100,-102,100,75kgWomen,Snatch,63,True
+3,LEE Aera,KOR,"Mar 06, 1990",74.67,A,93,97,100,100,75kgWomen,Snatch,63,True
+4,YANG Houqin,MAC,"Dec 27, 1981",74.22,A,92,- 97,- 97,92,75kgWomen,Snatch,63,True
+5,URANCHIMEG Byambadorj,MGL,"Jul 25, 1989",73.95,A,- 75,- 75,75,75,75kgWomen,Snatch,63,True
+1,CAO Lei,CHN,"Dec 24, 1983",72.34,A,130,135,140,140,75kgWomen,CleanJerk,63,True
+2,WANG Ya-Jhen,TPE,"Nov 11, 1987",70.34,A,-122,126,---,126,75kgWomen,CleanJerk,63,True
+3,LEE Aera,KOR,"Mar 06, 1990",74.67,A,120,-127,-127,120,75kgWomen,CleanJerk,63,True
+4,YANG Houqin,MAC,"Dec 27, 1981",74.22,A,110,115,-120,115,75kgWomen,CleanJerk,63,True
+5,URANCHIMEG Byambadorj,MGL,"Jul 25, 1989",73.95,A,- 95,95,97,97,75kgWomen,CleanJerk,63,True
+1,CAO Lei,CHN,"Dec 24, 1983",72.34,A,112,140,252,,75kgWomen,Total,63,True
+2,WANG Ya-Jhen,TPE,"Nov 11, 1987",70.34,A,100,126,226,,75kgWomen,Total,63,True
+3,LEE Aera,KOR,"Mar 06, 1990",74.67,A,100,120,220,,75kgWomen,Total,63,True
+4,YANG Houqin,MAC,"Dec 27, 1981",74.22,A,92,115,207,,75kgWomen,Total,63,True
+5,URANCHIMEG Byambadorj,MGL,"Jul 25, 1989",73.95,A,75,97,172,,75kgWomen,Total,63,True
+1,QI Xihui,CHN,"Apr 01, 1987",137.56,A,115,122,125,125,+75kgWomen,Snatch,63,True
+2,LEE Huisol,KOR,"Aug 27, 1989",113.92,A,108,112,-121,112,+75kgWomen,Snatch,63,True
+3,SHIMAMOTO Mami,JPN,"Sep 24, 1987",106.15,A,105,-109,109,109,+75kgWomen,Snatch,63,True
+4,JONAI Fumiko,JPN,"Feb 19, 1985",112.76,A,100,-103,-103,100,+75kgWomen,Snatch,63,True
+1,QI Xihui,CHN,"Apr 01, 1987",137.56,A,145,148,150,150,+75kgWomen,CleanJerk,63,True
+2,SHIMAMOTO Mami,JPN,"Sep 24, 1987",106.15,A,137,141,144,144,+75kgWomen,CleanJerk,63,True
+3,LEE Huisol,KOR,"Aug 27, 1989",113.92,A,137,141,144,144,+75kgWomen,CleanJerk,63,True
+4,JONAI Fumiko,JPN,"Feb 19, 1985",112.76,A,133,-138,-138,133,+75kgWomen,CleanJerk,63,True
+1,QI Xihui,CHN,"Apr 01, 1987",137.56,A,125,150,275,,+75kgWomen,Total,63,True
+2,LEE Huisol,KOR,"Aug 27, 1989",113.92,A,112,144,256,,+75kgWomen,Total,63,True
+3,SHIMAMOTO Mami,JPN,"Sep 24, 1987",106.15,A,109,144,253,,+75kgWomen,Total,63,True
+4,JONAI Fumiko,JPN,"Feb 19, 1985",112.76,A,100,133,233,,+75kgWomen,Total,63,True

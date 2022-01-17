@@ -1,367 +1,367 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,NAZIF Ferdi,BUL,"Born: Sep 22, 1989",B.weight: 55.80,Group: A,1: 100,2: 105,3: 107,Total: 107,56kgMen,Snatch,185
-Rank: 2,OLARU Gabriel,ROU,"Born: Nov 23, 1988",B.weight: 55.90,Group: A,1: 95,2: 101,3: 106,Total: 106,56kgMen,Snatch,185
-Rank: 3,TUNCER Zeki,TUR,"Born: Sep 05, 1990",B.weight: 55.60,Group: A,1: 70,2: 80,3: -88,Total: 80,56kgMen,Snatch,185
-Rank: 1,OLARU Gabriel,ROU,"Born: Nov 23, 1988",B.weight: 55.90,Group: A,1: 122,2: 128,3: 133,Total: 133,56kgMen,CleanJerk,185
-Rank: 2,NAZIF Ferdi,BUL,"Born: Sep 22, 1989",B.weight: 55.80,Group: A,1: 120,2: 126,3: 131,Total: 131,56kgMen,CleanJerk,185
-Rank: 3,TUNCER Zeki,TUR,"Born: Sep 05, 1990",B.weight: 55.60,Group: A,1: 90,2: 102,3: -110,Total: 102,56kgMen,CleanJerk,185
-Rank: 1,OLARU Gabriel,ROU,"Born: Nov 23, 1988",B.weight: 55.90,Group: A,Snatch: 106,CI&Jerk: 133,Total: 239,,56kgMen,Total,185
-Rank: 2,NAZIF Ferdi,BUL,"Born: Sep 22, 1989",B.weight: 55.80,Group: A,Snatch: 107,CI&Jerk: 131,Total: 238,,56kgMen,Total,185
-Rank: 3,TUNCER Zeki,TUR,"Born: Sep 05, 1990",B.weight: 55.60,Group: A,Snatch: 80,CI&Jerk: 102,Total: 182,,56kgMen,Total,185
-Rank: 1,SUKHANOV Pavel,RUS,"Born: Apr 29, 1988",B.weight: 61.80,Group: A,1: 117,2: 122,3: 126,Total: 126,62kgMen,Snatch,185
-Rank: 2,MAMOYAN Rubik,ARM,"Born: Nov 01, 1989",B.weight: 61.55,Group: A,1: -121,2: -121,3: 123,Total: 123,62kgMen,Snatch,185
-Rank: 3,HERNANDEZ MENDOZA Acoran Juan,ESP,"Born: Dec 30, 1990",B.weight: 61.55,Group: A,1: -115,2: 115,3: 121,Total: 121,62kgMen,Snatch,185
-Rank: 4,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.65,Group: A,1: 117,2: -121,3: 121,Total: 121,62kgMen,Snatch,185
-Rank: 5,ENEV Stoyan,BUL,"Born: Jul 06, 1989",B.weight: 61.95,Group: A,1: 113,2: 118,3: 120,Total: 120,62kgMen,Snatch,185
-Rank: 6,JUBIRCA Ion,MDA,"Born: May 26, 1990",B.weight: 61.50,Group: A,1: 118,2: -120,3: -120,Total: 118,62kgMen,Snatch,185
-Rank: 7,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.75,Group: A,1: -118,2: 118,3: -121,Total: 118,62kgMen,Snatch,185
-Rank: 8,GUARNACCIA Calogero,ITA,"Born: Mar 27, 1990",B.weight: 61.75,Group: A,1: 114,2: -118,3: -118,Total: 114,62kgMen,Snatch,185
-Rank: 9,LERCH Zsolt,HUN,"Born: Aug 15, 1990",B.weight: 61.95,Group: A,1: 103,2: 108,3: 111,Total: 111,62kgMen,Snatch,185
-Rank: 10,NABIYEV Rauf,AZE,"Born: Nov 27, 1990",B.weight: 61.50,Group: A,1: 102,2: 107,3: -111,Total: 107,62kgMen,Snatch,185
-Rank: ---,TOKAR Bogdan,UKR,"Born: Nov 25, 1988",B.weight: 61.95,Group: A,1: -117,2: -117,3: -117,Total: ---,62kgMen,Snatch,185
-Rank: ---,GISCAN Marius,ROU,"Born: Jul 13, 1988",B.weight: 61.90,Group: A,1: -116,2: -116,3: -116,Total: ---,62kgMen,Snatch,185
-Rank: 1,SUKHANOV Pavel,RUS,"Born: Apr 29, 1988",B.weight: 61.80,Group: A,1: 152,2: 158,3: 163,Total: 163,62kgMen,CleanJerk,185
-Rank: 2,GISCAN Marius,ROU,"Born: Jul 13, 1988",B.weight: 61.90,Group: A,1: -151,2: 153,3: -159,Total: 153,62kgMen,CleanJerk,185
-Rank: 3,ENEV Stoyan,BUL,"Born: Jul 06, 1989",B.weight: 61.95,Group: A,1: 152,2: -159,3: -159,Total: 152,62kgMen,CleanJerk,185
-Rank: 4,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.65,Group: A,1: 145,2: 150,3: -154,Total: 150,62kgMen,CleanJerk,185
-Rank: 5,TOKAR Bogdan,UKR,"Born: Nov 25, 1988",B.weight: 61.95,Group: A,1: 140,2: 145,3: -151,Total: 145,62kgMen,CleanJerk,185
-Rank: 6,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.75,Group: A,1: -142,2: 142,3: 144,Total: 144,62kgMen,CleanJerk,185
-Rank: 7,HERNANDEZ MENDOZA Acoran Juan,ESP,"Born: Dec 30, 1990",B.weight: 61.55,Group: A,1: 135,2: 140,3: -143,Total: 140,62kgMen,CleanJerk,185
-Rank: 8,GUARNACCIA Calogero,ITA,"Born: Mar 27, 1990",B.weight: 61.75,Group: A,1: 140,2: -145,3: -145,Total: 140,62kgMen,CleanJerk,185
-Rank: 9,JUBIRCA Ion,MDA,"Born: May 26, 1990",B.weight: 61.50,Group: A,1: -137,2: 137,3: -140,Total: 137,62kgMen,CleanJerk,185
-Rank: 10,LERCH Zsolt,HUN,"Born: Aug 15, 1990",B.weight: 61.95,Group: A,1: 125,2: 131,3: 136,Total: 136,62kgMen,CleanJerk,185
-Rank: 11,NABIYEV Rauf,AZE,"Born: Nov 27, 1990",B.weight: 61.50,Group: A,1: 132,2: -136,3: -136,Total: 132,62kgMen,CleanJerk,185
-Rank: ---,MAMOYAN Rubik,ARM,"Born: Nov 01, 1989",B.weight: 61.55,Group: A,1: -148,2: -148,3: -151,Total: ---,62kgMen,CleanJerk,185
-Rank: 1,SUKHANOV Pavel,RUS,"Born: Apr 29, 1988",B.weight: 61.80,Group: A,Snatch: 126,CI&Jerk: 163,Total: 289,,62kgMen,Total,185
-Rank: 2,ENEV Stoyan,BUL,"Born: Jul 06, 1989",B.weight: 61.95,Group: A,Snatch: 120,CI&Jerk: 152,Total: 272,,62kgMen,Total,185
-Rank: 3,KHALIBEKOV Feliks,RUS,"Born: Feb 03, 1990",B.weight: 61.65,Group: A,Snatch: 121,CI&Jerk: 150,Total: 271,,62kgMen,Total,185
-Rank: 4,URUMOV Vladimir Marinov,BUL,"Born: Aug 28, 1990",B.weight: 61.75,Group: A,Snatch: 118,CI&Jerk: 144,Total: 262,,62kgMen,Total,185
-Rank: 5,HERNANDEZ MENDOZA Acoran Juan,ESP,"Born: Dec 30, 1990",B.weight: 61.55,Group: A,Snatch: 121,CI&Jerk: 140,Total: 261,,62kgMen,Total,185
-Rank: 6,JUBIRCA Ion,MDA,"Born: May 26, 1990",B.weight: 61.50,Group: A,Snatch: 118,CI&Jerk: 137,Total: 255,,62kgMen,Total,185
-Rank: 7,GUARNACCIA Calogero,ITA,"Born: Mar 27, 1990",B.weight: 61.75,Group: A,Snatch: 114,CI&Jerk: 140,Total: 254,,62kgMen,Total,185
-Rank: 8,LERCH Zsolt,HUN,"Born: Aug 15, 1990",B.weight: 61.95,Group: A,Snatch: 111,CI&Jerk: 136,Total: 247,,62kgMen,Total,185
-Rank: 9,NABIYEV Rauf,AZE,"Born: Nov 27, 1990",B.weight: 61.50,Group: A,Snatch: 107,CI&Jerk: 132,Total: 239,,62kgMen,Total,185
-Rank: ---,TOKAR Bogdan,UKR,"Born: Nov 25, 1988",B.weight: 61.95,Group: A,Snatch: ---,CI&Jerk: 145,Total: ---,,62kgMen,Total,185
-Rank: ---,GISCAN Marius,ROU,"Born: Jul 13, 1988",B.weight: 61.90,Group: A,Snatch: ---,CI&Jerk: 153,Total: ---,,62kgMen,Total,185
-Rank: ---,MAMOYAN Rubik,ARM,"Born: Nov 01, 1989",B.weight: 61.55,Group: A,Snatch: 123,CI&Jerk: ---,Total: ---,,62kgMen,Total,185
-Rank: 1,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.70,Group: A,1: 148,2: 153,3: 157,Total: 157,69kgMen,Snatch,185
-Rank: 2,PETROSYAN Sergey,RUS,"Born: Jun 07, 1988",B.weight: 68.60,Group: A,1: 140,2: 145,3: -150,Total: 145,69kgMen,Snatch,185
-Rank: 3,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 68.40,Group: A,1: -140,2: 141,3: -145,Total: 141,69kgMen,Snatch,185
-Rank: 4,BUCI Antoniu,ROU,"Born: Jan 21, 1990",B.weight: 68.85,Group: A,1: 132,2: 138,3: -141,Total: 138,69kgMen,Snatch,185
-Rank: 5,STOICHITA Paul-Catalin,ROU,"Born: Jan 10, 1989",B.weight: 68.95,Group: A,1: 138,2: -141,3: -142,Total: 138,69kgMen,Snatch,185
-Rank: 6,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.50,Group: A,1: -130,2: 130,3: 135,Total: 135,69kgMen,Snatch,185
-Rank: 7,POGHOSYAN Zorik,ARM,"Born: Sep 04, 1990",B.weight: 68.70,Group: A,1: -131,2: 131,3: -136,Total: 131,69kgMen,Snatch,185
-Rank: 8,BERZONS Ulvis,LAT,"Born: Mar 01, 1989",B.weight: 68.60,Group: A,1: 122,2: -126,3: 126,Total: 126,69kgMen,Snatch,185
-Rank: 9,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 67.95,Group: A,1: 118,2: -122,3: 125,Total: 125,69kgMen,Snatch,185
-Rank: 10,MORILLAS SANCHEZ Isaac Julian,ESP,"Born: Oct 16, 1988",B.weight: 68.40,Group: A,1: 120,2: 125,3: -130,Total: 125,69kgMen,Snatch,185
-Rank: ---,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 68.85,Group: A,1: -131,2: -132,3: -132,Total: ---,69kgMen,Snatch,185
-Rank: 1,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.70,Group: A,1: 174,2: 180,3: -185,Total: 180,69kgMen,CleanJerk,185
-Rank: 2,PETROSYAN Sergey,RUS,"Born: Jun 07, 1988",B.weight: 68.60,Group: A,1: 168,2: 173,3: -180,Total: 173,69kgMen,CleanJerk,185
-Rank: 3,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 68.40,Group: A,1: 170,2: -174,3: -174,Total: 170,69kgMen,CleanJerk,185
-Rank: 4,BUCI Antoniu,ROU,"Born: Jan 21, 1990",B.weight: 68.85,Group: A,1: 160,2: 166,3: -171,Total: 166,69kgMen,CleanJerk,185
-Rank: 5,POGHOSYAN Zorik,ARM,"Born: Sep 04, 1990",B.weight: 68.70,Group: A,1: 165,2: -170,3: -170,Total: 165,69kgMen,CleanJerk,185
-Rank: 6,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.50,Group: A,1: 160,2: -165,3: -165,Total: 160,69kgMen,CleanJerk,185
-Rank: 7,MORILLAS SANCHEZ Isaac Julian,ESP,"Born: Oct 16, 1988",B.weight: 68.40,Group: A,1: -150,2: 150,3: 155,Total: 155,69kgMen,CleanJerk,185
-Rank: 8,BERZONS Ulvis,LAT,"Born: Mar 01, 1989",B.weight: 68.60,Group: A,1: 153,2: -157,3: -157,Total: 153,69kgMen,CleanJerk,185
-Rank: 9,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 67.95,Group: A,1: 145,2: 150,3: -155,Total: 150,69kgMen,CleanJerk,185
-Rank: ---,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 68.85,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgMen,CleanJerk,185
-Rank: ---,STOICHITA Paul-Catalin,ROU,"Born: Jan 10, 1989",B.weight: 68.95,Group: A,1: -174,2: -174,3: -174,Total: ---,69kgMen,CleanJerk,185
-Rank: 1,CHEN Oleg,RUS,"Born: Nov 22, 1988",B.weight: 68.70,Group: A,Snatch: 157,CI&Jerk: 180,Total: 337,,69kgMen,Total,185
-Rank: 2,PETROSYAN Sergey,RUS,"Born: Jun 07, 1988",B.weight: 68.60,Group: A,Snatch: 145,CI&Jerk: 173,Total: 318,,69kgMen,Total,185
-Rank: 3,CALJA Briken,ALB,"Born: Feb 19, 1990",B.weight: 68.40,Group: A,Snatch: 141,CI&Jerk: 170,Total: 311,,69kgMen,Total,185
-Rank: 4,BUCI Antoniu,ROU,"Born: Jan 21, 1990",B.weight: 68.85,Group: A,Snatch: 138,CI&Jerk: 166,Total: 304,,69kgMen,Total,185
-Rank: 5,POGHOSYAN Zorik,ARM,"Born: Sep 04, 1990",B.weight: 68.70,Group: A,Snatch: 131,CI&Jerk: 165,Total: 296,,69kgMen,Total,185
-Rank: 6,CECHIR Serghei,MDA,"Born: Oct 15, 1990",B.weight: 68.50,Group: A,Snatch: 135,CI&Jerk: 160,Total: 295,,69kgMen,Total,185
-Rank: 7,MORILLAS SANCHEZ Isaac Julian,ESP,"Born: Oct 16, 1988",B.weight: 68.40,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,69kgMen,Total,185
-Rank: 8,BERZONS Ulvis,LAT,"Born: Mar 01, 1989",B.weight: 68.60,Group: A,Snatch: 126,CI&Jerk: 153,Total: 279,,69kgMen,Total,185
-Rank: 9,PETROV Petr,CZE,"Born: Oct 19, 1989",B.weight: 67.95,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,69kgMen,Total,185
-Rank: ---,MARIANAKIS Emmanouil,GRE,"Born: Apr 21, 1989",B.weight: 68.85,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,69kgMen,Total,185
-Rank: ---,STOICHITA Paul-Catalin,ROU,"Born: Jan 10, 1989",B.weight: 68.95,Group: A,Snatch: 138,CI&Jerk: ---,Total: ---,,69kgMen,Total,185
-Rank: 1,SAFARYAN Alexandr,RUS,"Born: Mar 13, 1989",B.weight: 76.30,Group: A,1: 148,2: 152,3: -154,Total: 152,77kgMen,Snatch,185
-Rank: 2,GHISOIU Adrian,ROU,"Born: Apr 28, 1990",B.weight: 76.75,Group: A,1: 147,2: 150,3: -153,Total: 150,77kgMen,Snatch,185
-Rank: 3,AGHASYAN Aghasi,ARM,"Born: Aug 29, 1988",B.weight: 76.80,Group: A,1: 145,2: 148,3: -150,Total: 148,77kgMen,Snatch,185
-Rank: 4,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.50,Group: A,1: 143,2: -146,3: 146,Total: 146,77kgMen,Snatch,185
-Rank: 5,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 77.00,Group: A,1: 145,2: -149,3: -150,Total: 145,77kgMen,Snatch,185
-Rank: 6,DIMITROV Aleksandar,BUL,"Born: Oct 11, 1989",B.weight: 76.75,Group: A,1: 143,2: -146,3: -146,Total: 143,77kgMen,Snatch,185
-Rank: 7,RUSU Razvan,ROU,"Born: Mar 04, 1988",B.weight: 76.15,Group: A,1: 140,2: -146,3: -146,Total: 140,77kgMen,Snatch,185
-Rank: 8,SIMONYAN Martik,ARM,"Born: Mar 19, 1988",B.weight: 76.70,Group: B,1: 140,2: -145,3: -147,Total: 140,77kgMen,Snatch,185
-Rank: 9,HAS Arif Yalcin,TUR,"Born: Feb 08, 1989",B.weight: 76.70,Group: B,1: 132,2: 138,3: -141,Total: 138,77kgMen,Snatch,185
-Rank: 10,ALACAM Faruk,TUR,"Born: Apr 26, 1988",B.weight: 76.40,Group: B,1: 125,2: 130,3: 133,Total: 133,77kgMen,Snatch,185
-Rank: 11,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 76.85,Group: B,1: 131,2: -135,3: -138,Total: 131,77kgMen,Snatch,185
-Rank: 12,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 75.20,Group: B,1: 123,2: 127,3: 130,Total: 130,77kgMen,Snatch,185
-Rank: 13,GNESSIN Valentin,ISR,"Born: Jul 01, 1989",B.weight: 76.95,Group: B,1: 115,2: 121,3: -125,Total: 121,77kgMen,Snatch,185
-Rank: ---,MUSIC Ensar,CRO,"Born: Dec 30, 1990",B.weight: 76.90,Group: A,1: -140,2: -140,3: -140,Total: ---,77kgMen,Snatch,185
-Rank: 1,AGHASYAN Aghasi,ARM,"Born: Aug 29, 1988",B.weight: 76.80,Group: A,1: 177,2: 180,3: ---,Total: 180,77kgMen,CleanJerk,185
-Rank: 2,MUSIC Ensar,CRO,"Born: Dec 30, 1990",B.weight: 76.90,Group: A,1: 180,2: -182,3: -182,Total: 180,77kgMen,CleanJerk,185
-Rank: 3,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.50,Group: A,1: 172,2: 178,3: -182,Total: 178,77kgMen,CleanJerk,185
-Rank: 4,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 77.00,Group: A,1: 177,2: -182,3: -182,Total: 177,77kgMen,CleanJerk,185
-Rank: 5,DIMITROV Aleksandar,BUL,"Born: Oct 11, 1989",B.weight: 76.75,Group: A,1: 172,2: 176,3: -179,Total: 176,77kgMen,CleanJerk,185
-Rank: 6,GHISOIU Adrian,ROU,"Born: Apr 28, 1990",B.weight: 76.75,Group: A,1: -176,2: 176,3: -180,Total: 176,77kgMen,CleanJerk,185
-Rank: 7,SAFARYAN Alexandr,RUS,"Born: Mar 13, 1989",B.weight: 76.30,Group: A,1: 175,2: -179,3: -179,Total: 175,77kgMen,CleanJerk,185
-Rank: 8,RUSU Razvan,ROU,"Born: Mar 04, 1988",B.weight: 76.15,Group: A,1: 170,2: -178,3: -178,Total: 170,77kgMen,CleanJerk,185
-Rank: 9,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 76.85,Group: B,1: 165,2: 170,3: -175,Total: 170,77kgMen,CleanJerk,185
-Rank: 10,SIMONYAN Martik,ARM,"Born: Mar 19, 1988",B.weight: 76.70,Group: B,1: 160,2: -165,3: -165,Total: 160,77kgMen,CleanJerk,185
-Rank: 11,ALACAM Faruk,TUR,"Born: Apr 26, 1988",B.weight: 76.40,Group: B,1: 150,2: 157,3: -161,Total: 157,77kgMen,CleanJerk,185
-Rank: 12,HAS Arif Yalcin,TUR,"Born: Feb 08, 1989",B.weight: 76.70,Group: B,1: 156,2: -161,3: -161,Total: 156,77kgMen,CleanJerk,185
-Rank: 13,GNESSIN Valentin,ISR,"Born: Jul 01, 1989",B.weight: 76.95,Group: B,1: 151,2: 156,3: -162,Total: 156,77kgMen,CleanJerk,185
-Rank: 14,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 75.20,Group: B,1: 155,2: -160,3: -160,Total: 155,77kgMen,CleanJerk,185
-Rank: 1,AGHASYAN Aghasi,ARM,"Born: Aug 29, 1988",B.weight: 76.80,Group: A,Snatch: 148,CI&Jerk: 180,Total: 328,,77kgMen,Total,185
-Rank: 2,SAFARYAN Alexandr,RUS,"Born: Mar 13, 1989",B.weight: 76.30,Group: A,Snatch: 152,CI&Jerk: 175,Total: 327,,77kgMen,Total,185
-Rank: 3,GHISOIU Adrian,ROU,"Born: Apr 28, 1990",B.weight: 76.75,Group: A,Snatch: 150,CI&Jerk: 176,Total: 326,,77kgMen,Total,185
-Rank: 4,BIRCA Andrei,MDA,"Born: Mar 23, 1988",B.weight: 76.50,Group: A,Snatch: 146,CI&Jerk: 178,Total: 324,,77kgMen,Total,185
-Rank: 5,ZWARYCZ Krzysztof Maciej,POL,"Born: Dec 13, 1990",B.weight: 77.00,Group: A,Snatch: 145,CI&Jerk: 177,Total: 322,,77kgMen,Total,185
-Rank: 6,DIMITROV Aleksandar,BUL,"Born: Oct 11, 1989",B.weight: 76.75,Group: A,Snatch: 143,CI&Jerk: 176,Total: 319,,77kgMen,Total,185
-Rank: 7,RUSU Razvan,ROU,"Born: Mar 04, 1988",B.weight: 76.15,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,77kgMen,Total,185
-Rank: 8,SAMKO Karol,SVK,"Born: Mar 09, 1990",B.weight: 76.85,Group: B,Snatch: 131,CI&Jerk: 170,Total: 301,,77kgMen,Total,185
-Rank: 9,SIMONYAN Martik,ARM,"Born: Mar 19, 1988",B.weight: 76.70,Group: B,Snatch: 140,CI&Jerk: 160,Total: 300,,77kgMen,Total,185
-Rank: 10,HAS Arif Yalcin,TUR,"Born: Feb 08, 1989",B.weight: 76.70,Group: B,Snatch: 138,CI&Jerk: 156,Total: 294,,77kgMen,Total,185
-Rank: 11,ALACAM Faruk,TUR,"Born: Apr 26, 1988",B.weight: 76.40,Group: B,Snatch: 133,CI&Jerk: 157,Total: 290,,77kgMen,Total,185
-Rank: 12,KRING Tim,DEN,"Born: Sep 16, 1990",B.weight: 75.20,Group: B,Snatch: 130,CI&Jerk: 155,Total: 285,,77kgMen,Total,185
-Rank: 13,GNESSIN Valentin,ISR,"Born: Jul 01, 1989",B.weight: 76.95,Group: B,Snatch: 121,CI&Jerk: 156,Total: 277,,77kgMen,Total,185
-Rank: ---,MUSIC Ensar,CRO,"Born: Dec 30, 1990",B.weight: 76.90,Group: A,Snatch: ---,CI&Jerk: 180,Total: ---,,77kgMen,Total,185
-Rank: 1,CERNEI Gheorghii,MDA,"Born: Apr 13, 1990",B.weight: 83.90,Group: A,1: 150,2: 155,3: -160,Total: 155,85kgMen,Snatch,185
-Rank: 2,CAPTARI Dumitru,MDA,"Born: Jul 12, 1989",B.weight: 82.60,Group: A,1: 145,2: -150,3: -150,Total: 145,85kgMen,Snatch,185
-Rank: 3,KRUGLENKO Sergii,UKR,"Born: Feb 23, 1990",B.weight: 84.30,Group: A,1: 141,2: 145,3: -147,Total: 145,85kgMen,Snatch,185
-Rank: 4,KLIS Roman,POL,"Born: May 03, 1988",B.weight: 83.70,Group: A,1: -144,2: 144,3: -148,Total: 144,85kgMen,Snatch,185
-Rank: 5,PETROV Stefan,BUL,"Born: Dec 27, 1990",B.weight: 84.50,Group: A,1: 140,2: 144,3: -146,Total: 144,85kgMen,Snatch,185
-Rank: 6,YILMAZ Mehmet,TUR,"Born: May 30, 1990",B.weight: 83.90,Group: A,1: 130,2: 137,3: 141,Total: 141,85kgMen,Snatch,185
-Rank: 7,MANNELLA Clemente,ITA,"Born: Jul 11, 1988",B.weight: 84.60,Group: A,1: 133,2: 138,3: 140,Total: 140,85kgMen,Snatch,185
-Rank: 8,ERDOGAN Burak,TUR,"Born: Apr 02, 1990",B.weight: 84.20,Group: A,1: 130,2: -137,3: 139,Total: 139,85kgMen,Snatch,185
-Rank: 9,MANNINGER Patrick,AUT,"Born: Jan 01, 1989",B.weight: 83.30,Group: A,1: 130,2: -136,3: -136,Total: 130,85kgMen,Snatch,185
-Rank: 10,GROSTAD Havard,NOR,"Born: Sep 07, 1988",B.weight: 84.70,Group: A,1: -127,2: 127,3: 130,Total: 130,85kgMen,Snatch,185
-Rank: ---,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 83.90,Group: A,1: -142,2: -144,3: -144,Total: ---,85kgMen,Snatch,185
-Rank: 1,CERNEI Gheorghii,MDA,"Born: Apr 13, 1990",B.weight: 83.90,Group: A,1: -181,2: 185,3: 188,Total: 188,85kgMen,CleanJerk,185
-Rank: 2,KLIS Roman,POL,"Born: May 03, 1988",B.weight: 83.70,Group: A,1: 182,2: -186,3: 187,Total: 187,85kgMen,CleanJerk,185
-Rank: 3,KRUGLENKO Sergii,UKR,"Born: Feb 23, 1990",B.weight: 84.30,Group: A,1: 183,2: 186,3: 187,Total: 187,85kgMen,CleanJerk,185
-Rank: 4,CAPTARI Dumitru,MDA,"Born: Jul 12, 1989",B.weight: 82.60,Group: A,1: 180,2: 184,3: 186,Total: 186,85kgMen,CleanJerk,185
-Rank: 5,PETROV Stefan,BUL,"Born: Dec 27, 1990",B.weight: 84.50,Group: A,1: 175,2: -183,3: -184,Total: 175,85kgMen,CleanJerk,185
-Rank: 6,ERDOGAN Burak,TUR,"Born: Apr 02, 1990",B.weight: 84.20,Group: A,1: 160,2: 167,3: 171,Total: 171,85kgMen,CleanJerk,185
-Rank: 7,YILMAZ Mehmet,TUR,"Born: May 30, 1990",B.weight: 83.90,Group: A,1: 156,2: 163,3: 167,Total: 167,85kgMen,CleanJerk,185
-Rank: 8,MANNINGER Patrick,AUT,"Born: Jan 01, 1989",B.weight: 83.30,Group: A,1: 160,2: -166,3: 166,Total: 166,85kgMen,CleanJerk,185
-Rank: 9,GROSTAD Havard,NOR,"Born: Sep 07, 1988",B.weight: 84.70,Group: A,1: 151,2: -156,3: 156,Total: 156,85kgMen,CleanJerk,185
-Rank: ---,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 83.90,Group: A,1: ---,2: ---,3: ---,Total: ---,85kgMen,CleanJerk,185
-Rank: ---,MANNELLA Clemente,ITA,"Born: Jul 11, 1988",B.weight: 84.60,Group: A,1: -162,2: -162,3: -166,Total: ---,85kgMen,CleanJerk,185
-Rank: 1,CERNEI Gheorghii,MDA,"Born: Apr 13, 1990",B.weight: 83.90,Group: A,Snatch: 155,CI&Jerk: 188,Total: 343,,85kgMen,Total,185
-Rank: 2,KRUGLENKO Sergii,UKR,"Born: Feb 23, 1990",B.weight: 84.30,Group: A,Snatch: 145,CI&Jerk: 187,Total: 332,,85kgMen,Total,185
-Rank: 3,CAPTARI Dumitru,MDA,"Born: Jul 12, 1989",B.weight: 82.60,Group: A,Snatch: 145,CI&Jerk: 186,Total: 331,,85kgMen,Total,185
-Rank: 4,KLIS Roman,POL,"Born: May 03, 1988",B.weight: 83.70,Group: A,Snatch: 144,CI&Jerk: 187,Total: 331,,85kgMen,Total,185
-Rank: 5,PETROV Stefan,BUL,"Born: Dec 27, 1990",B.weight: 84.50,Group: A,Snatch: 144,CI&Jerk: 175,Total: 319,,85kgMen,Total,185
-Rank: 6,ERDOGAN Burak,TUR,"Born: Apr 02, 1990",B.weight: 84.20,Group: A,Snatch: 139,CI&Jerk: 171,Total: 310,,85kgMen,Total,185
-Rank: 7,YILMAZ Mehmet,TUR,"Born: May 30, 1990",B.weight: 83.90,Group: A,Snatch: 141,CI&Jerk: 167,Total: 308,,85kgMen,Total,185
-Rank: 8,MANNINGER Patrick,AUT,"Born: Jan 01, 1989",B.weight: 83.30,Group: A,Snatch: 130,CI&Jerk: 166,Total: 296,,85kgMen,Total,185
-Rank: 9,GROSTAD Havard,NOR,"Born: Sep 07, 1988",B.weight: 84.70,Group: A,Snatch: 130,CI&Jerk: 156,Total: 286,,85kgMen,Total,185
-Rank: ---,PENT Leho,EST,"Born: Apr 02, 1990",B.weight: 83.90,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,85kgMen,Total,185
-Rank: ---,MANNELLA Clemente,ITA,"Born: Jul 11, 1988",B.weight: 84.60,Group: A,Snatch: 140,CI&Jerk: ---,Total: ---,,85kgMen,Total,185
-Rank: 1,MAKARANKA Aliaksandr,BLR,"Born: Feb 02, 1990",B.weight: 93.35,Group: A,1: 165,2: 167,3: 170,Total: 170,94kgMen,Snatch,185
-Rank: 2,DANCIU Marius,ROU,"Born: Dec 05, 1989",B.weight: 93.80,Group: A,1: 165,2: 167,3: -170,Total: 167,94kgMen,Snatch,185
-Rank: 3,SABANCHIEV Martin,RUS,"Born: Dec 01, 1989",B.weight: 93.15,Group: A,1: 160,2: 163,3: 165,Total: 165,94kgMen,Snatch,185
-Rank: 4,ZBIRNEA Andrian,MDA,"Born: May 12, 1990",B.weight: 93.40,Group: A,1: -158,2: 158,3: 165,Total: 165,94kgMen,Snatch,185
-Rank: 5,KOSZALKA Pawel,POL,"Born: Jan 11, 1990",B.weight: 93.70,Group: A,1: -153,2: 153,3: 157,Total: 157,94kgMen,Snatch,185
-Rank: 6,OSWALD Robert,GER,"Born: Jan 12, 1988",B.weight: 91.70,Group: A,1: 147,2: 151,3: -155,Total: 151,94kgMen,Snatch,185
-Rank: 7,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.70,Group: A,1: -145,2: 145,3: 148,Total: 148,94kgMen,Snatch,185
-Rank: 8,MANFREDI Giuseppe,ITA,"Born: Apr 05, 1989",B.weight: 93.40,Group: A,1: 137,2: 142,3: -148,Total: 142,94kgMen,Snatch,185
-Rank: 9,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 93.70,Group: A,1: -139,2: 139,3: -144,Total: 139,94kgMen,Snatch,185
-Rank: 10,VIKSI Andres,EST,"Born: Dec 15, 1989",B.weight: 91.60,Group: A,1: -132,2: 132,3: -136,Total: 132,94kgMen,Snatch,185
-Rank: 11,KEMI Jari Jeremia,FIN,"Born: Mar 06, 1988",B.weight: 93.95,Group: A,1: 127,2: -132,3: -132,Total: 127,94kgMen,Snatch,185
-Rank: ---,BENZA Stephan Denis,NED,"Born: Nov 26, 1990",B.weight: 93.80,Group: A,1: -135,2: -135,3: -135,Total: ---,94kgMen,Snatch,185
-Rank: 1,MAKARANKA Aliaksandr,BLR,"Born: Feb 02, 1990",B.weight: 93.35,Group: A,1: 200,2: 202,3: ---,Total: 202,94kgMen,CleanJerk,185
-Rank: 2,SABANCHIEV Martin,RUS,"Born: Dec 01, 1989",B.weight: 93.15,Group: A,1: 195,2: 199,3: 201,Total: 201,94kgMen,CleanJerk,185
-Rank: 3,DANCIU Marius,ROU,"Born: Dec 05, 1989",B.weight: 93.80,Group: A,1: 193,2: -197,3: 199,Total: 199,94kgMen,CleanJerk,185
-Rank: 4,OSWALD Robert,GER,"Born: Jan 12, 1988",B.weight: 91.70,Group: A,1: 185,2: 190,3: -193,Total: 190,94kgMen,CleanJerk,185
-Rank: 5,ZBIRNEA Andrian,MDA,"Born: May 12, 1990",B.weight: 93.40,Group: A,1: -190,2: 190,3: -199,Total: 190,94kgMen,CleanJerk,185
-Rank: 6,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.70,Group: A,1: 190,2: -194,3: -197,Total: 190,94kgMen,CleanJerk,185
-Rank: 7,KOSZALKA Pawel,POL,"Born: Jan 11, 1990",B.weight: 93.70,Group: A,1: -190,2: 190,3: -196,Total: 190,94kgMen,CleanJerk,185
-Rank: 8,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 93.70,Group: A,1: -165,2: 165,3: 169,Total: 169,94kgMen,CleanJerk,185
-Rank: 9,MANFREDI Giuseppe,ITA,"Born: Apr 05, 1989",B.weight: 93.40,Group: A,1: -160,2: 160,3: 165,Total: 165,94kgMen,CleanJerk,185
-Rank: 10,BENZA Stephan Denis,NED,"Born: Nov 26, 1990",B.weight: 93.80,Group: A,1: 155,2: 160,3: 165,Total: 165,94kgMen,CleanJerk,185
-Rank: 11,VIKSI Andres,EST,"Born: Dec 15, 1989",B.weight: 91.60,Group: A,1: 158,2: 161,3: -163,Total: 161,94kgMen,CleanJerk,185
-Rank: ---,KEMI Jari Jeremia,FIN,"Born: Mar 06, 1988",B.weight: 93.95,Group: A,1: -155,2: -155,3: -155,Total: ---,94kgMen,CleanJerk,185
-Rank: 1,MAKARANKA Aliaksandr,BLR,"Born: Feb 02, 1990",B.weight: 93.35,Group: A,Snatch: 170,CI&Jerk: 202,Total: 372,,94kgMen,Total,185
-Rank: 2,SABANCHIEV Martin,RUS,"Born: Dec 01, 1989",B.weight: 93.15,Group: A,Snatch: 165,CI&Jerk: 201,Total: 366,,94kgMen,Total,185
-Rank: 3,DANCIU Marius,ROU,"Born: Dec 05, 1989",B.weight: 93.80,Group: A,Snatch: 167,CI&Jerk: 199,Total: 366,,94kgMen,Total,185
-Rank: 4,ZBIRNEA Andrian,MDA,"Born: May 12, 1990",B.weight: 93.40,Group: A,Snatch: 165,CI&Jerk: 190,Total: 355,,94kgMen,Total,185
-Rank: 5,KOSZALKA Pawel,POL,"Born: Jan 11, 1990",B.weight: 93.70,Group: A,Snatch: 157,CI&Jerk: 190,Total: 347,,94kgMen,Total,185
-Rank: 6,OSWALD Robert,GER,"Born: Jan 12, 1988",B.weight: 91.70,Group: A,Snatch: 151,CI&Jerk: 190,Total: 341,,94kgMen,Total,185
-Rank: 7,ANTTIROIKO Miika Matias,FIN,"Born: Nov 20, 1988",B.weight: 93.70,Group: A,Snatch: 148,CI&Jerk: 190,Total: 338,,94kgMen,Total,185
-Rank: 8,ANDERSEN Mikkel Findahl,DEN,"Born: Nov 28, 1988",B.weight: 93.70,Group: A,Snatch: 139,CI&Jerk: 169,Total: 308,,94kgMen,Total,185
-Rank: 9,MANFREDI Giuseppe,ITA,"Born: Apr 05, 1989",B.weight: 93.40,Group: A,Snatch: 142,CI&Jerk: 165,Total: 307,,94kgMen,Total,185
-Rank: 10,VIKSI Andres,EST,"Born: Dec 15, 1989",B.weight: 91.60,Group: A,Snatch: 132,CI&Jerk: 161,Total: 293,,94kgMen,Total,185
-Rank: ---,BENZA Stephan Denis,NED,"Born: Nov 26, 1990",B.weight: 93.80,Group: A,Snatch: ---,CI&Jerk: 165,Total: ---,,94kgMen,Total,185
-Rank: ---,KEMI Jari Jeremia,FIN,"Born: Mar 06, 1988",B.weight: 93.95,Group: A,Snatch: 127,CI&Jerk: ---,Total: ---,,94kgMen,Total,185
-Rank: 1,GOGIA Davit,GEO,"Born: Jun 02, 1990",B.weight: 104.20,Group: A,1: 165,2: 170,3: 172,Total: 172,105kgMen,Snatch,185
-Rank: 2,TEGKAEV Yury,RUS,"Born: Jan 10, 1990",B.weight: 104.45,Group: A,1: 165,2: 170,3: 172,Total: 172,105kgMen,Snatch,185
-Rank: 3,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 103.50,Group: A,1: 155,2: 158,3: 160,Total: 160,105kgMen,Snatch,185
-Rank: 4,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 103.05,Group: A,1: 155,2: -160,3: -160,Total: 155,105kgMen,Snatch,185
-Rank: 5,IBISOGLU Ibrahim,TUR,"Born: Feb 19, 1989",B.weight: 104.20,Group: A,1: 155,2: -160,3: ---,Total: 155,105kgMen,Snatch,185
-Rank: 6,MENSIKOVS Ilja,LAT,"Born: Feb 06, 1989",B.weight: 104.65,Group: A,1: 155,2: -160,3: -161,Total: 155,105kgMen,Snatch,185
-Rank: 7,REUTCHII Alexandr,MDA,"Born: Apr 18, 1988",B.weight: 100.30,Group: A,1: -150,2: 150,3: -155,Total: 150,105kgMen,Snatch,185
-Rank: 8,TOLLEFSEN Kim Eirik,NOR,"Born: Dec 24, 1989",B.weight: 104.55,Group: A,1: 137,2: -142,3: -142,Total: 137,105kgMen,Snatch,185
-Rank: 1,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 103.50,Group: A,1: 197,2: 203,3: 209,Total: 209,105kgMen,CleanJerk,185
-Rank: 2,TEGKAEV Yury,RUS,"Born: Jan 10, 1990",B.weight: 104.45,Group: A,1: 200,2: 205,3: 208,Total: 208,105kgMen,CleanJerk,185
-Rank: 3,GOGIA Davit,GEO,"Born: Jun 02, 1990",B.weight: 104.20,Group: A,1: 198,2: 204,3: 207,Total: 207,105kgMen,CleanJerk,185
-Rank: 4,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 103.05,Group: A,1: 195,2: 203,3: -206,Total: 203,105kgMen,CleanJerk,185
-Rank: 5,MENSIKOVS Ilja,LAT,"Born: Feb 06, 1989",B.weight: 104.65,Group: A,1: 190,2: -195,3: -195,Total: 190,105kgMen,CleanJerk,185
-Rank: 6,TOLLEFSEN Kim Eirik,NOR,"Born: Dec 24, 1989",B.weight: 104.55,Group: A,1: 175,2: 180,3: -183,Total: 180,105kgMen,CleanJerk,185
-Rank: ---,IBISOGLU Ibrahim,TUR,"Born: Feb 19, 1989",B.weight: 104.20,Group: A,1: ---,2: ---,3: ---,Total: ---,105kgMen,CleanJerk,185
-Rank: ---,REUTCHII Alexandr,MDA,"Born: Apr 18, 1988",B.weight: 100.30,Group: A,1: -180,2: -180,3: -180,Total: ---,105kgMen,CleanJerk,185
-Rank: 1,TEGKAEV Yury,RUS,"Born: Jan 10, 1990",B.weight: 104.45,Group: A,Snatch: 172,CI&Jerk: 208,Total: 380,,105kgMen,Total,185
-Rank: 2,GOGIA Davit,GEO,"Born: Jun 02, 1990",B.weight: 104.20,Group: A,Snatch: 172,CI&Jerk: 207,Total: 379,,105kgMen,Total,185
-Rank: 3,MICHALSKI Arkadiusz,POL,"Born: Jan 07, 1990",B.weight: 103.50,Group: A,Snatch: 160,CI&Jerk: 209,Total: 369,,105kgMen,Total,185
-Rank: 4,ELVAN Resul,TUR,"Born: Mar 18, 1989",B.weight: 103.05,Group: A,Snatch: 155,CI&Jerk: 203,Total: 358,,105kgMen,Total,185
-Rank: 5,MENSIKOVS Ilja,LAT,"Born: Feb 06, 1989",B.weight: 104.65,Group: A,Snatch: 155,CI&Jerk: 190,Total: 345,,105kgMen,Total,185
-Rank: 6,TOLLEFSEN Kim Eirik,NOR,"Born: Dec 24, 1989",B.weight: 104.55,Group: A,Snatch: 137,CI&Jerk: 180,Total: 317,,105kgMen,Total,185
-Rank: ---,IBISOGLU Ibrahim,TUR,"Born: Feb 19, 1989",B.weight: 104.20,Group: A,Snatch: 155,CI&Jerk: ---,Total: ---,,105kgMen,Total,185
-Rank: ---,REUTCHII Alexandr,MDA,"Born: Apr 18, 1988",B.weight: 100.30,Group: A,Snatch: 150,CI&Jerk: ---,Total: ---,,105kgMen,Total,185
-Rank: 1,HAKOBYAN Hayk,ARM,"Born: Jun 14, 1990",B.weight: 127.50,Group: A,1: 181,2: -187,3: -187,Total: 181,+105kgMen,Snatch,185
-Rank: 2,VORNIK Dzmitry,BLR,"Born: Aug 22, 1988",B.weight: 122.29,Group: A,1: 175,2: -180,3: 180,Total: 180,+105kgMen,Snatch,185
-Rank: 3,PROCHOROW Alexej Dmitrievic,GER,"Born: Mar 30, 1990",B.weight: 124.05,Group: A,1: 170,2: -175,3: 180,Total: 180,+105kgMen,Snatch,185
-Rank: 4,PISAREV Evgeny,RUS,"Born: Aug 17, 1988",B.weight: 145.17,Group: A,1: -180,2: 180,3: -188,Total: 180,+105kgMen,Snatch,185
-Rank: 5,ORSAG Jiri,CZE,"Born: Jan 05, 1989",B.weight: 124.77,Group: A,1: -170,2: 176,3: -185,Total: 176,+105kgMen,Snatch,185
-Rank: 6,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 114.30,Group: A,1: 165,2: -170,3: -170,Total: 165,+105kgMen,Snatch,185
-Rank: 7,OHMAN Carl Ragnar Max,SWE,"Born: Aug 05, 1988",B.weight: 126.60,Group: A,1: -160,2: 160,3: 165,Total: 165,+105kgMen,Snatch,185
-Rank: 8,SLOBODIANIUK Oleg,UKR,"Born: Apr 10, 1988",B.weight: 132.40,Group: A,1: 156,2: 160,3: 165,Total: 165,+105kgMen,Snatch,185
-Rank: 9,KARIS Mustafa,TUR,"Born: May 06, 1989",B.weight: 116.45,Group: A,1: 145,2: 156,3: 160,Total: 160,+105kgMen,Snatch,185
-Rank: 10,KLICKI Krzysztof,POL,"Born: Jun 13, 1990",B.weight: 167.23,Group: A,1: 156,2: -160,3: 160,Total: 160,+105kgMen,Snatch,185
-Rank: 11,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 119.35,Group: A,1: -140,2: 140,3: -143,Total: 140,+105kgMen,Snatch,185
-Rank: ---,VARLID Vebjorn,NOR,"Born: Jul 08, 1990",B.weight: 138.80,Group: A,1: -160,2: -160,3: -160,Total: ---,+105kgMen,Snatch,185
-Rank: 1,ORSAG Jiri,CZE,"Born: Jan 05, 1989",B.weight: 124.77,Group: A,1: 217,2: 224,3: 229,Total: 229,+105kgMen,CleanJerk,185
-Rank: 2,PISAREV Evgeny,RUS,"Born: Aug 17, 1988",B.weight: 145.17,Group: A,1: 215,2: 220,3: 225,Total: 225,+105kgMen,CleanJerk,185
-Rank: 3,SLOBODIANIUK Oleg,UKR,"Born: Apr 10, 1988",B.weight: 132.40,Group: A,1: 207,2: 213,3: 218,Total: 218,+105kgMen,CleanJerk,185
-Rank: 4,HAKOBYAN Hayk,ARM,"Born: Jun 14, 1990",B.weight: 127.50,Group: A,1: -212,2: 212,3: 217,Total: 217,+105kgMen,CleanJerk,185
-Rank: 5,VORNIK Dzmitry,BLR,"Born: Aug 22, 1988",B.weight: 122.29,Group: A,1: -210,2: -210,3: 210,Total: 210,+105kgMen,CleanJerk,185
-Rank: 6,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 114.30,Group: A,1: 195,2: 202,3: 207,Total: 207,+105kgMen,CleanJerk,185
-Rank: 7,PROCHOROW Alexej Dmitrievic,GER,"Born: Mar 30, 1990",B.weight: 124.05,Group: A,1: 195,2: 205,3: -211,Total: 205,+105kgMen,CleanJerk,185
-Rank: 8,OHMAN Carl Ragnar Max,SWE,"Born: Aug 05, 1988",B.weight: 126.60,Group: A,1: -195,2: 196,3: 202,Total: 202,+105kgMen,CleanJerk,185
-Rank: 9,KLICKI Krzysztof,POL,"Born: Jun 13, 1990",B.weight: 167.23,Group: A,1: 195,2: -202,3: -202,Total: 195,+105kgMen,CleanJerk,185
-Rank: 10,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 119.35,Group: A,1: 180,2: 188,3: 194,Total: 194,+105kgMen,CleanJerk,185
-Rank: 11,VARLID Vebjorn,NOR,"Born: Jul 08, 1990",B.weight: 138.80,Group: A,1: 185,2: -190,3: -190,Total: 185,+105kgMen,CleanJerk,185
-Rank: 12,KARIS Mustafa,TUR,"Born: May 06, 1989",B.weight: 116.45,Group: A,1: -175,2: 175,3: 182,Total: 182,+105kgMen,CleanJerk,185
-Rank: 1,ORSAG Jiri,CZE,"Born: Jan 05, 1989",B.weight: 124.77,Group: A,Snatch: 176,CI&Jerk: 229,Total: 405,,+105kgMen,Total,185
-Rank: 2,PISAREV Evgeny,RUS,"Born: Aug 17, 1988",B.weight: 145.17,Group: A,Snatch: 180,CI&Jerk: 225,Total: 405,,+105kgMen,Total,185
-Rank: 3,HAKOBYAN Hayk,ARM,"Born: Jun 14, 1990",B.weight: 127.50,Group: A,Snatch: 181,CI&Jerk: 217,Total: 398,,+105kgMen,Total,185
-Rank: 4,VORNIK Dzmitry,BLR,"Born: Aug 22, 1988",B.weight: 122.29,Group: A,Snatch: 180,CI&Jerk: 210,Total: 390,,+105kgMen,Total,185
-Rank: 5,PROCHOROW Alexej Dmitrievic,GER,"Born: Mar 30, 1990",B.weight: 124.05,Group: A,Snatch: 180,CI&Jerk: 205,Total: 385,,+105kgMen,Total,185
-Rank: 6,SLOBODIANIUK Oleg,UKR,"Born: Apr 10, 1988",B.weight: 132.40,Group: A,Snatch: 165,CI&Jerk: 218,Total: 383,,+105kgMen,Total,185
-Rank: 7,DOLEGA Daniel,POL,"Born: Dec 16, 1988",B.weight: 114.30,Group: A,Snatch: 165,CI&Jerk: 207,Total: 372,,+105kgMen,Total,185
-Rank: 8,OHMAN Carl Ragnar Max,SWE,"Born: Aug 05, 1988",B.weight: 126.60,Group: A,Snatch: 165,CI&Jerk: 202,Total: 367,,+105kgMen,Total,185
-Rank: 9,KLICKI Krzysztof,POL,"Born: Jun 13, 1990",B.weight: 167.23,Group: A,Snatch: 160,CI&Jerk: 195,Total: 355,,+105kgMen,Total,185
-Rank: 10,KARIS Mustafa,TUR,"Born: May 06, 1989",B.weight: 116.45,Group: A,Snatch: 160,CI&Jerk: 182,Total: 342,,+105kgMen,Total,185
-Rank: 11,SEIM Mart,EST,"Born: Oct 24, 1990",B.weight: 119.35,Group: A,Snatch: 140,CI&Jerk: 194,Total: 334,,+105kgMen,Total,185
-Rank: ---,VARLID Vebjorn,NOR,"Born: Jul 08, 1990",B.weight: 138.80,Group: A,Snatch: ---,CI&Jerk: 185,Total: ---,,+105kgMen,Total,185
-Rank: 1,PAGLIARO Genny Caterina,ITA,"Born: Oct 15, 1988",B.weight: 47.56,Group: A,1: 80,2: -85,3: 85,Total: 85,48kgWomen,Snatch,185
-Rank: 2,FUS Agata,POL,"Born: Nov 30, 1989",B.weight: 47.48,Group: A,1: -60,2: 60,3: -65,Total: 60,48kgWomen,Snatch,185
-Rank: 3,VEZNIKOVA Veronika,CZE,"Born: Jan 31, 1990",B.weight: 47.82,Group: A,1: 40,2: 45,3: 49,Total: 49,48kgWomen,Snatch,185
-Rank: 1,PAGLIARO Genny Caterina,ITA,"Born: Oct 15, 1988",B.weight: 47.56,Group: A,1: 98,2: -103,3: -103,Total: 98,48kgWomen,CleanJerk,185
-Rank: 2,FUS Agata,POL,"Born: Nov 30, 1989",B.weight: 47.48,Group: A,1: 73,2: 78,3: 81,Total: 81,48kgWomen,CleanJerk,185
-Rank: 3,VEZNIKOVA Veronika,CZE,"Born: Jan 31, 1990",B.weight: 47.82,Group: A,1: 56,2: 62,3: -67,Total: 62,48kgWomen,CleanJerk,185
-Rank: 1,PAGLIARO Genny Caterina,ITA,"Born: Oct 15, 1988",B.weight: 47.56,Group: A,Snatch: 85,CI&Jerk: 98,Total: 183,,48kgWomen,Total,185
-Rank: 2,FUS Agata,POL,"Born: Nov 30, 1989",B.weight: 47.48,Group: A,Snatch: 60,CI&Jerk: 81,Total: 141,,48kgWomen,Total,185
-Rank: 3,VEZNIKOVA Veronika,CZE,"Born: Jan 31, 1990",B.weight: 47.82,Group: A,Snatch: 49,CI&Jerk: 62,Total: 111,,48kgWomen,Total,185
-Rank: 1,KARPINSKA Marzena,POL,"Born: Feb 19, 1988",B.weight: 48.88,Group: A,1: 80,2: 82,3: 84,Total: 84,53kgWomen,Snatch,185
-Rank: 2,BERCHI Dana Alexandra,ROU,"Born: Mar 11, 1990",B.weight: 52.90,Group: A,1: 76,2: 81,3: -83,Total: 81,53kgWomen,Snatch,185
-Rank: 3,DIACHENKO Iana,UKR,"Born: Jan 16, 1990",B.weight: 52.34,Group: A,1: 75,2: 78,3: 80,Total: 80,53kgWomen,Snatch,185
-Rank: 4,SUKHAR Elena,RUS,"Born: Jul 24, 1989",B.weight: 52.86,Group: A,1: 75,2: 79,3: -82,Total: 79,53kgWomen,Snatch,185
-Rank: 5,GURITA Lucretia,ROU,"Born: Dec 09, 1990",B.weight: 51.80,Group: A,1: 58,2: -61,3: 61,Total: 61,53kgWomen,Snatch,185
-Rank: 1,KARPINSKA Marzena,POL,"Born: Feb 19, 1988",B.weight: 48.88,Group: A,1: 95,2: 100,3: -102,Total: 100,53kgWomen,CleanJerk,185
-Rank: 2,SUKHAR Elena,RUS,"Born: Jul 24, 1989",B.weight: 52.86,Group: A,1: 95,2: -98,3: 98,Total: 98,53kgWomen,CleanJerk,185
-Rank: 3,BERCHI Dana Alexandra,ROU,"Born: Mar 11, 1990",B.weight: 52.90,Group: A,1: 93,2: -98,3: 98,Total: 98,53kgWomen,CleanJerk,185
-Rank: 4,DIACHENKO Iana,UKR,"Born: Jan 16, 1990",B.weight: 52.34,Group: A,1: -92,2: 92,3: 96,Total: 96,53kgWomen,CleanJerk,185
-Rank: 5,GURITA Lucretia,ROU,"Born: Dec 09, 1990",B.weight: 51.80,Group: A,1: 72,2: 77,3: 81,Total: 81,53kgWomen,CleanJerk,185
-Rank: 1,KARPINSKA Marzena,POL,"Born: Feb 19, 1988",B.weight: 48.88,Group: A,Snatch: 84,CI&Jerk: 100,Total: 184,,53kgWomen,Total,185
-Rank: 2,BERCHI Dana Alexandra,ROU,"Born: Mar 11, 1990",B.weight: 52.90,Group: A,Snatch: 81,CI&Jerk: 98,Total: 179,,53kgWomen,Total,185
-Rank: 3,SUKHAR Elena,RUS,"Born: Jul 24, 1989",B.weight: 52.86,Group: A,Snatch: 79,CI&Jerk: 98,Total: 177,,53kgWomen,Total,185
-Rank: 4,DIACHENKO Iana,UKR,"Born: Jan 16, 1990",B.weight: 52.34,Group: A,Snatch: 80,CI&Jerk: 96,Total: 176,,53kgWomen,Total,185
-Rank: 5,GURITA Lucretia,ROU,"Born: Dec 09, 1990",B.weight: 51.80,Group: A,Snatch: 61,CI&Jerk: 81,Total: 142,,53kgWomen,Total,185
-Rank: 1,SIBETOVA Olga,RUS,"Born: Jan 05, 1988",B.weight: 57.40,Group: A,1: 83,2: 86,3: 90,Total: 90,58kgWomen,Snatch,185
-Rank: 2,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 57.68,Group: A,1: 83,2: 87,3: -91,Total: 87,58kgWomen,Snatch,185
-Rank: 3,MISHCHUK Iryna,BLR,"Born: Apr 12, 1990",B.weight: 57.76,Group: A,1: 79,2: 82,3: -84,Total: 82,58kgWomen,Snatch,185
-Rank: 4,SEKER Elif,TUR,"Born: Mar 20, 1988",B.weight: 56.94,Group: A,1: -79,2: -79,3: 79,Total: 79,58kgWomen,Snatch,185
-Rank: 5,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 57.84,Group: A,1: 66,2: 68,3: -70,Total: 68,58kgWomen,Snatch,185
-Rank: 1,SIBETOVA Olga,RUS,"Born: Jan 05, 1988",B.weight: 57.40,Group: A,1: 107,2: 110,3: -120,Total: 110,58kgWomen,CleanJerk,185
-Rank: 2,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 57.68,Group: A,1: 102,2: 106,3: 108,Total: 108,58kgWomen,CleanJerk,185
-Rank: 3,SEKER Elif,TUR,"Born: Mar 20, 1988",B.weight: 56.94,Group: A,1: 95,2: 99,3: 102,Total: 102,58kgWomen,CleanJerk,185
-Rank: 4,MISHCHUK Iryna,BLR,"Born: Apr 12, 1990",B.weight: 57.76,Group: A,1: -90,2: 90,3: 96,Total: 96,58kgWomen,CleanJerk,185
-Rank: 5,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 57.84,Group: A,1: 85,2: 89,3: 91,Total: 91,58kgWomen,CleanJerk,185
-Rank: 1,SIBETOVA Olga,RUS,"Born: Jan 05, 1988",B.weight: 57.40,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,58kgWomen,Total,185
-Rank: 2,LOCHOWSKA Joanna,POL,"Born: Nov 17, 1988",B.weight: 57.68,Group: A,Snatch: 87,CI&Jerk: 108,Total: 195,,58kgWomen,Total,185
-Rank: 3,SEKER Elif,TUR,"Born: Mar 20, 1988",B.weight: 56.94,Group: A,Snatch: 79,CI&Jerk: 102,Total: 181,,58kgWomen,Total,185
-Rank: 4,MISHCHUK Iryna,BLR,"Born: Apr 12, 1990",B.weight: 57.76,Group: A,Snatch: 82,CI&Jerk: 96,Total: 178,,58kgWomen,Total,185
-Rank: 5,LOZOVA Laura,CZE,"Born: Jul 06, 1988",B.weight: 57.84,Group: A,Snatch: 68,CI&Jerk: 91,Total: 159,,58kgWomen,Total,185
-Rank: 1,PUZYREVA Viktoria,RUS,"Born: Jan 30, 1989",B.weight: 62.10,Group: A,1: -93,2: 93,3: 95,Total: 95,63kgWomen,Snatch,185
-Rank: 2,AFANASEVA Olga,RUS,"Born: Mar 30, 1990",B.weight: 62.30,Group: A,1: 92,2: 95,3: -97,Total: 95,63kgWomen,Snatch,185
-Rank: 3,BERESTOVA Liubov,UKR,"Born: Nov 26, 1989",B.weight: 62.90,Group: A,1: 85,2: -90,3: -90,Total: 85,63kgWomen,Snatch,185
-Rank: 4,GRYCZKA Joanna,POL,"Born: Feb 02, 1989",B.weight: 62.85,Group: A,1: 76,2: 80,3: -82,Total: 80,63kgWomen,Snatch,185
-Rank: 5,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 61.75,Group: A,1: 70,2: 73,3: 75,Total: 75,63kgWomen,Snatch,185
-Rank: 6,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 62.70,Group: A,1: -66,2: 66,3: 70,Total: 70,63kgWomen,Snatch,185
-Rank: 7,EMBACHER Jessica,AUT,"Born: Jan 01, 1990",B.weight: 60.55,Group: A,1: 63,2: 65,3: 67,Total: 67,63kgWomen,Snatch,185
-Rank: 1,PUZYREVA Viktoria,RUS,"Born: Jan 30, 1989",B.weight: 62.10,Group: A,1: 110,2: 114,3: 120,Total: 120,63kgWomen,CleanJerk,185
-Rank: 2,AFANASEVA Olga,RUS,"Born: Mar 30, 1990",B.weight: 62.30,Group: A,1: 110,2: 114,3: -121,Total: 114,63kgWomen,CleanJerk,185
-Rank: 3,BERESTOVA Liubov,UKR,"Born: Nov 26, 1989",B.weight: 62.90,Group: A,1: 95,2: 105,3: -115,Total: 105,63kgWomen,CleanJerk,185
-Rank: 4,GRYCZKA Joanna,POL,"Born: Feb 02, 1989",B.weight: 62.85,Group: A,1: 92,2: ---,3: ---,Total: 92,63kgWomen,CleanJerk,185
-Rank: 5,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 61.75,Group: A,1: 90,2: -94,3: -94,Total: 90,63kgWomen,CleanJerk,185
-Rank: 6,EMBACHER Jessica,AUT,"Born: Jan 01, 1990",B.weight: 60.55,Group: A,1: 79,2: 82,3: 85,Total: 85,63kgWomen,CleanJerk,185
-Rank: 7,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 62.70,Group: A,1: 75,2: 79,3: -82,Total: 79,63kgWomen,CleanJerk,185
-Rank: 1,PUZYREVA Viktoria,RUS,"Born: Jan 30, 1989",B.weight: 62.10,Group: A,Snatch: 95,CI&Jerk: 120,Total: 215,,63kgWomen,Total,185
-Rank: 2,AFANASEVA Olga,RUS,"Born: Mar 30, 1990",B.weight: 62.30,Group: A,Snatch: 95,CI&Jerk: 114,Total: 209,,63kgWomen,Total,185
-Rank: 3,BERESTOVA Liubov,UKR,"Born: Nov 26, 1989",B.weight: 62.90,Group: A,Snatch: 85,CI&Jerk: 105,Total: 190,,63kgWomen,Total,185
-Rank: 4,GRYCZKA Joanna,POL,"Born: Feb 02, 1989",B.weight: 62.85,Group: A,Snatch: 80,CI&Jerk: 92,Total: 172,,63kgWomen,Total,185
-Rank: 5,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 61.75,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,63kgWomen,Total,185
-Rank: 6,EMBACHER Jessica,AUT,"Born: Jan 01, 1990",B.weight: 60.55,Group: A,Snatch: 67,CI&Jerk: 85,Total: 152,,63kgWomen,Total,185
-Rank: 7,HAMMELSTRUP Laura,DEN,"Born: Aug 10, 1990",B.weight: 62.70,Group: A,Snatch: 70,CI&Jerk: 79,Total: 149,,63kgWomen,Total,185
-Rank: 1,SAVENKO Viktoriia,RUS,"Born: May 28, 1988",B.weight: 68.05,Group: A,1: 111,2: 116,3: 119,Total: 119,69kgWomen,Snatch,185
-Rank: 2,COCOS Roxana Daniela,ROU,"Born: Jun 05, 1989",B.weight: 66.95,Group: A,1: 95,2: 102,3: 105,Total: 105,69kgWomen,Snatch,185
-Rank: 3,SHKERMANKOVA Maryna,BLR,"Born: Apr 09, 1990",B.weight: 67.75,Group: A,1: 103,2: -106,3: -106,Total: 103,69kgWomen,Snatch,185
-Rank: 4,RAMOS GONZALEZ Sheila,ESP,"Born: Dec 20, 1990",B.weight: 68.15,Group: A,1: -90,2: -90,3: 90,Total: 90,69kgWomen,Snatch,185
-Rank: 5,OSTAPSKA Katarzyna Anna,POL,"Born: Feb 25, 1988",B.weight: 68.45,Group: A,1: 83,2: 86,3: 88,Total: 88,69kgWomen,Snatch,185
-Rank: 6,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 68.90,Group: A,1: 83,2: 86,3: 88,Total: 88,69kgWomen,Snatch,185
-Rank: 1,COCOS Roxana Daniela,ROU,"Born: Jun 05, 1989",B.weight: 66.95,Group: A,1: 125,2: 131,3: 135,Total: 135,69kgWomen,CleanJerk,185
-Rank: 2,SAVENKO Viktoriia,RUS,"Born: May 28, 1988",B.weight: 68.05,Group: A,1: -126,2: 126,3: 131,Total: 131,69kgWomen,CleanJerk,185
-Rank: 3,SHKERMANKOVA Maryna,BLR,"Born: Apr 09, 1990",B.weight: 67.75,Group: A,1: 120,2: 128,3: -134,Total: 128,69kgWomen,CleanJerk,185
-Rank: 4,OSTAPSKA Katarzyna Anna,POL,"Born: Feb 25, 1988",B.weight: 68.45,Group: A,1: 110,2: 114,3: -117,Total: 114,69kgWomen,CleanJerk,185
-Rank: 5,RAMOS GONZALEZ Sheila,ESP,"Born: Dec 20, 1990",B.weight: 68.15,Group: A,1: 112,2: -117,3: -117,Total: 112,69kgWomen,CleanJerk,185
-Rank: 6,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 68.90,Group: A,1: 102,2: 106,3: -109,Total: 106,69kgWomen,CleanJerk,185
-Rank: 1,SAVENKO Viktoriia,RUS,"Born: May 28, 1988",B.weight: 68.05,Group: A,Snatch: 119,CI&Jerk: 131,Total: 250,,69kgWomen,Total,185
-Rank: 2,COCOS Roxana Daniela,ROU,"Born: Jun 05, 1989",B.weight: 66.95,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,69kgWomen,Total,185
-Rank: 3,SHKERMANKOVA Maryna,BLR,"Born: Apr 09, 1990",B.weight: 67.75,Group: A,Snatch: 103,CI&Jerk: 128,Total: 231,,69kgWomen,Total,185
-Rank: 4,RAMOS GONZALEZ Sheila,ESP,"Born: Dec 20, 1990",B.weight: 68.15,Group: A,Snatch: 90,CI&Jerk: 112,Total: 202,,69kgWomen,Total,185
-Rank: 5,OSTAPSKA Katarzyna Anna,POL,"Born: Feb 25, 1988",B.weight: 68.45,Group: A,Snatch: 88,CI&Jerk: 114,Total: 202,,69kgWomen,Total,185
-Rank: 6,BAZSO Bianka,HUN,"Born: Jan 24, 1988",B.weight: 68.90,Group: A,Snatch: 88,CI&Jerk: 106,Total: 194,,69kgWomen,Total,185
-Rank: 1,YILMAZ Hatice,TUR,"Born: Oct 05, 1990",B.weight: 69.25,Group: A,1: 93,2: 96,3: 98,Total: 98,75kgWomen,Snatch,185
-Rank: 2,LISEWSKA Katarzyna,POL,"Born: Jun 25, 1989",B.weight: 74.75,Group: A,1: 85,2: 87,3: 89,Total: 89,75kgWomen,Snatch,185
-Rank: 3,DUMITRASCU Mariana,ROU,"Born: Dec 19, 1988",B.weight: 69.75,Group: A,1: 70,2: -73,3: 73,Total: 73,75kgWomen,Snatch,185
-Rank: 4,PODERSOO Triin,EST,"Born: Oct 24, 1990",B.weight: 73.80,Group: A,1: 70,2: 73,3: -74,Total: 73,75kgWomen,Snatch,185
-Rank: 5,GOGOROVA Eleonora,SVK,"Born: Jan 15, 1990",B.weight: 70.30,Group: A,1: 70,2: -73,3: -74,Total: 70,75kgWomen,Snatch,185
-Rank: 6,BURCEA Ana Maria,ROU,"Born: Jul 26, 1989",B.weight: 73.00,Group: A,1: 57,2: 61,3: -65,Total: 61,75kgWomen,Snatch,185
-Rank: 1,YILMAZ Hatice,TUR,"Born: Oct 05, 1990",B.weight: 69.25,Group: A,1: 117,2: 122,3: -125,Total: 122,75kgWomen,CleanJerk,185
-Rank: 2,LISEWSKA Katarzyna,POL,"Born: Jun 25, 1989",B.weight: 74.75,Group: A,1: 105,2: -110,3: -110,Total: 105,75kgWomen,CleanJerk,185
-Rank: 3,GOGOROVA Eleonora,SVK,"Born: Jan 15, 1990",B.weight: 70.30,Group: A,1: 94,2: 98,3: -100,Total: 98,75kgWomen,CleanJerk,185
-Rank: 4,DUMITRASCU Mariana,ROU,"Born: Dec 19, 1988",B.weight: 69.75,Group: A,1: 90,2: -94,3: -94,Total: 90,75kgWomen,CleanJerk,185
-Rank: 5,BURCEA Ana Maria,ROU,"Born: Jul 26, 1989",B.weight: 73.00,Group: A,1: 80,2: 85,3: -88,Total: 85,75kgWomen,CleanJerk,185
-Rank: 6,PODERSOO Triin,EST,"Born: Oct 24, 1990",B.weight: 73.80,Group: A,1: -80,2: 80,3: -85,Total: 80,75kgWomen,CleanJerk,185
-Rank: 1,YILMAZ Hatice,TUR,"Born: Oct 05, 1990",B.weight: 69.25,Group: A,Snatch: 98,CI&Jerk: 122,Total: 220,,75kgWomen,Total,185
-Rank: 2,LISEWSKA Katarzyna,POL,"Born: Jun 25, 1989",B.weight: 74.75,Group: A,Snatch: 89,CI&Jerk: 105,Total: 194,,75kgWomen,Total,185
-Rank: 3,GOGOROVA Eleonora,SVK,"Born: Jan 15, 1990",B.weight: 70.30,Group: A,Snatch: 70,CI&Jerk: 98,Total: 168,,75kgWomen,Total,185
-Rank: 4,DUMITRASCU Mariana,ROU,"Born: Dec 19, 1988",B.weight: 69.75,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,75kgWomen,Total,185
-Rank: 5,PODERSOO Triin,EST,"Born: Oct 24, 1990",B.weight: 73.80,Group: A,Snatch: 73,CI&Jerk: 80,Total: 153,,75kgWomen,Total,185
-Rank: 6,BURCEA Ana Maria,ROU,"Born: Jul 26, 1989",B.weight: 73.00,Group: A,Snatch: 61,CI&Jerk: 85,Total: 146,,75kgWomen,Total,185
-Rank: 1,KONOVALOVA Yulia,RUS,"Born: Dec 01, 1990",B.weight: 90.20,Group: A,1: 120,2: 125,3: 130,Total: 130,+75kgWomen,Snatch,185
-Rank: 2,KACHAEVA Yulia,RUS,"Born: Nov 29, 1990",B.weight: 96.20,Group: A,1: 105,2: 107,3: 110,Total: 110,+75kgWomen,Snatch,185
-Rank: 3,VARLAMOVA Tetiana,UKR,"Born: Feb 12, 1989",B.weight: 136.00,Group: A,1: 103,2: 106,3: 108,Total: 108,+75kgWomen,Snatch,185
-Rank: 4,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 99.90,Group: A,1: 95,2: -101,3: -101,Total: 95,+75kgWomen,Snatch,185
-Rank: 5,SPYRA Sandra Wiktoria,POL,"Born: Dec 27, 1989",B.weight: 101.50,Group: A,1: 86,2: 91,3: -95,Total: 91,+75kgWomen,Snatch,185
-Rank: 6,ERDIMIR Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 91.30,Group: A,1: 80,2: 84,3: 88,Total: 88,+75kgWomen,Snatch,185
-Rank: 7,MATEI Anda Elena,ROU,"Born: Jun 16, 1988",B.weight: 104.90,Group: A,1: 65,2: 70,3: 73,Total: 73,+75kgWomen,Snatch,185
-Rank: 1,KONOVALOVA Yulia,RUS,"Born: Dec 01, 1990",B.weight: 90.20,Group: A,1: 150,2: 155,3: 160,Total: 160,+75kgWomen,CleanJerk,185
-Rank: 2,KACHAEVA Yulia,RUS,"Born: Nov 29, 1990",B.weight: 96.20,Group: A,1: 135,2: 140,3: -145,Total: 140,+75kgWomen,CleanJerk,185
-Rank: 3,VARLAMOVA Tetiana,UKR,"Born: Feb 12, 1989",B.weight: 136.00,Group: A,1: -132,2: 132,3: -138,Total: 132,+75kgWomen,CleanJerk,185
-Rank: 4,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 99.90,Group: A,1: 110,2: 115,3: 118,Total: 118,+75kgWomen,CleanJerk,185
-Rank: 5,SPYRA Sandra Wiktoria,POL,"Born: Dec 27, 1989",B.weight: 101.50,Group: A,1: 110,2: -115,3: 115,Total: 115,+75kgWomen,CleanJerk,185
-Rank: 6,ERDIMIR Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 91.30,Group: A,1: 100,2: 104,3: -108,Total: 104,+75kgWomen,CleanJerk,185
-Rank: 7,MATEI Anda Elena,ROU,"Born: Jun 16, 1988",B.weight: 104.90,Group: A,1: 85,2: 90,3: 96,Total: 96,+75kgWomen,CleanJerk,185
-Rank: 1,KONOVALOVA Yulia,RUS,"Born: Dec 01, 1990",B.weight: 90.20,Group: A,Snatch: 130,CI&Jerk: 160,Total: 290,,+75kgWomen,Total,185
-Rank: 2,KACHAEVA Yulia,RUS,"Born: Nov 29, 1990",B.weight: 96.20,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,+75kgWomen,Total,185
-Rank: 3,VARLAMOVA Tetiana,UKR,"Born: Feb 12, 1989",B.weight: 136.00,Group: A,Snatch: 108,CI&Jerk: 132,Total: 240,,+75kgWomen,Total,185
-Rank: 4,MAGAT Krisztina,HUN,"Born: Mar 02, 1989",B.weight: 99.90,Group: A,Snatch: 95,CI&Jerk: 118,Total: 213,,+75kgWomen,Total,185
-Rank: 5,SPYRA Sandra Wiktoria,POL,"Born: Dec 27, 1989",B.weight: 101.50,Group: A,Snatch: 91,CI&Jerk: 115,Total: 206,,+75kgWomen,Total,185
-Rank: 6,ERDIMIR Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 91.30,Group: A,Snatch: 88,CI&Jerk: 104,Total: 192,,+75kgWomen,Total,185
-Rank: 7,MATEI Anda Elena,ROU,"Born: Jun 16, 1988",B.weight: 104.90,Group: A,Snatch: 73,CI&Jerk: 96,Total: 169,,+75kgWomen,Total,185
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,NAZIF Ferdi,BUL,"Sep 22, 1989",55.80,A,100,105,107,107,56kgMen,Snatch,185,True
+2,OLARU Gabriel,ROU,"Nov 23, 1988",55.90,A,95,101,106,106,56kgMen,Snatch,185,True
+3,TUNCER Zeki,TUR,"Sep 05, 1990",55.60,A,70,80,-88,80,56kgMen,Snatch,185,True
+1,OLARU Gabriel,ROU,"Nov 23, 1988",55.90,A,122,128,133,133,56kgMen,CleanJerk,185,True
+2,NAZIF Ferdi,BUL,"Sep 22, 1989",55.80,A,120,126,131,131,56kgMen,CleanJerk,185,True
+3,TUNCER Zeki,TUR,"Sep 05, 1990",55.60,A,90,102,-110,102,56kgMen,CleanJerk,185,True
+1,OLARU Gabriel,ROU,"Nov 23, 1988",55.90,A,106,133,239,,56kgMen,Total,185,True
+2,NAZIF Ferdi,BUL,"Sep 22, 1989",55.80,A,107,131,238,,56kgMen,Total,185,True
+3,TUNCER Zeki,TUR,"Sep 05, 1990",55.60,A,80,102,182,,56kgMen,Total,185,True
+1,SUKHANOV Pavel,RUS,"Apr 29, 1988",61.80,A,117,122,126,126,62kgMen,Snatch,185,True
+2,MAMOYAN Rubik,ARM,"Nov 01, 1989",61.55,A,-121,-121,123,123,62kgMen,Snatch,185,True
+3,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",61.55,A,-115,115,121,121,62kgMen,Snatch,185,True
+4,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.65,A,117,-121,121,121,62kgMen,Snatch,185,True
+5,ENEV Stoyan,BUL,"Jul 06, 1989",61.95,A,113,118,120,120,62kgMen,Snatch,185,True
+6,JUBIRCA Ion,MDA,"May 26, 1990",61.50,A,118,-120,-120,118,62kgMen,Snatch,185,True
+7,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.75,A,-118,118,-121,118,62kgMen,Snatch,185,True
+8,GUARNACCIA Calogero,ITA,"Mar 27, 1990",61.75,A,114,-118,-118,114,62kgMen,Snatch,185,True
+9,LERCH Zsolt,HUN,"Aug 15, 1990",61.95,A,103,108,111,111,62kgMen,Snatch,185,True
+10,NABIYEV Rauf,AZE,"Nov 27, 1990",61.50,A,102,107,-111,107,62kgMen,Snatch,185,True
+---,TOKAR Bogdan,UKR,"Nov 25, 1988",61.95,A,-117,-117,-117,---,62kgMen,Snatch,185,True
+---,GISCAN Marius,ROU,"Jul 13, 1988",61.90,A,-116,-116,-116,---,62kgMen,Snatch,185,True
+1,SUKHANOV Pavel,RUS,"Apr 29, 1988",61.80,A,152,158,163,163,62kgMen,CleanJerk,185,True
+2,GISCAN Marius,ROU,"Jul 13, 1988",61.90,A,-151,153,-159,153,62kgMen,CleanJerk,185,True
+3,ENEV Stoyan,BUL,"Jul 06, 1989",61.95,A,152,-159,-159,152,62kgMen,CleanJerk,185,True
+4,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.65,A,145,150,-154,150,62kgMen,CleanJerk,185,True
+5,TOKAR Bogdan,UKR,"Nov 25, 1988",61.95,A,140,145,-151,145,62kgMen,CleanJerk,185,True
+6,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.75,A,-142,142,144,144,62kgMen,CleanJerk,185,True
+7,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",61.55,A,135,140,-143,140,62kgMen,CleanJerk,185,True
+8,GUARNACCIA Calogero,ITA,"Mar 27, 1990",61.75,A,140,-145,-145,140,62kgMen,CleanJerk,185,True
+9,JUBIRCA Ion,MDA,"May 26, 1990",61.50,A,-137,137,-140,137,62kgMen,CleanJerk,185,True
+10,LERCH Zsolt,HUN,"Aug 15, 1990",61.95,A,125,131,136,136,62kgMen,CleanJerk,185,True
+11,NABIYEV Rauf,AZE,"Nov 27, 1990",61.50,A,132,-136,-136,132,62kgMen,CleanJerk,185,True
+---,MAMOYAN Rubik,ARM,"Nov 01, 1989",61.55,A,-148,-148,-151,---,62kgMen,CleanJerk,185,True
+1,SUKHANOV Pavel,RUS,"Apr 29, 1988",61.80,A,126,163,289,,62kgMen,Total,185,True
+2,ENEV Stoyan,BUL,"Jul 06, 1989",61.95,A,120,152,272,,62kgMen,Total,185,True
+3,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.65,A,121,150,271,,62kgMen,Total,185,True
+4,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.75,A,118,144,262,,62kgMen,Total,185,True
+5,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",61.55,A,121,140,261,,62kgMen,Total,185,True
+6,JUBIRCA Ion,MDA,"May 26, 1990",61.50,A,118,137,255,,62kgMen,Total,185,True
+7,GUARNACCIA Calogero,ITA,"Mar 27, 1990",61.75,A,114,140,254,,62kgMen,Total,185,True
+8,LERCH Zsolt,HUN,"Aug 15, 1990",61.95,A,111,136,247,,62kgMen,Total,185,True
+9,NABIYEV Rauf,AZE,"Nov 27, 1990",61.50,A,107,132,239,,62kgMen,Total,185,True
+---,TOKAR Bogdan,UKR,"Nov 25, 1988",61.95,A,---,145,---,,62kgMen,Total,185,True
+---,GISCAN Marius,ROU,"Jul 13, 1988",61.90,A,---,153,---,,62kgMen,Total,185,True
+---,MAMOYAN Rubik,ARM,"Nov 01, 1989",61.55,A,123,---,---,,62kgMen,Total,185,True
+1,CHEN Oleg,RUS,"Nov 22, 1988",68.70,A,148,153,157,157,69kgMen,Snatch,185,True
+2,PETROSYAN Sergey,RUS,"Jun 07, 1988",68.60,A,140,145,-150,145,69kgMen,Snatch,185,True
+3,CALJA Briken,ALB,"Feb 19, 1990",68.40,A,-140,141,-145,141,69kgMen,Snatch,185,True
+4,BUCI Antoniu,ROU,"Jan 21, 1990",68.85,A,132,138,-141,138,69kgMen,Snatch,185,True
+5,STOICHITA Paul-Catalin,ROU,"Jan 10, 1989",68.95,A,138,-141,-142,138,69kgMen,Snatch,185,True
+6,CECHIR Serghei,MDA,"Oct 15, 1990",68.50,A,-130,130,135,135,69kgMen,Snatch,185,True
+7,POGHOSYAN Zorik,ARM,"Sep 04, 1990",68.70,A,-131,131,-136,131,69kgMen,Snatch,185,True
+8,BERZONS Ulvis,LAT,"Mar 01, 1989",68.60,A,122,-126,126,126,69kgMen,Snatch,185,True
+9,PETROV Petr,CZE,"Oct 19, 1989",67.95,A,118,-122,125,125,69kgMen,Snatch,185,True
+10,MORILLAS SANCHEZ Isaac Julian,ESP,"Oct 16, 1988",68.40,A,120,125,-130,125,69kgMen,Snatch,185,True
+---,MARIANAKIS Emmanouil,GRE,"Apr 21, 1989",68.85,A,-131,-132,-132,---,69kgMen,Snatch,185,True
+1,CHEN Oleg,RUS,"Nov 22, 1988",68.70,A,174,180,-185,180,69kgMen,CleanJerk,185,True
+2,PETROSYAN Sergey,RUS,"Jun 07, 1988",68.60,A,168,173,-180,173,69kgMen,CleanJerk,185,True
+3,CALJA Briken,ALB,"Feb 19, 1990",68.40,A,170,-174,-174,170,69kgMen,CleanJerk,185,True
+4,BUCI Antoniu,ROU,"Jan 21, 1990",68.85,A,160,166,-171,166,69kgMen,CleanJerk,185,True
+5,POGHOSYAN Zorik,ARM,"Sep 04, 1990",68.70,A,165,-170,-170,165,69kgMen,CleanJerk,185,True
+6,CECHIR Serghei,MDA,"Oct 15, 1990",68.50,A,160,-165,-165,160,69kgMen,CleanJerk,185,True
+7,MORILLAS SANCHEZ Isaac Julian,ESP,"Oct 16, 1988",68.40,A,-150,150,155,155,69kgMen,CleanJerk,185,True
+8,BERZONS Ulvis,LAT,"Mar 01, 1989",68.60,A,153,-157,-157,153,69kgMen,CleanJerk,185,True
+9,PETROV Petr,CZE,"Oct 19, 1989",67.95,A,145,150,-155,150,69kgMen,CleanJerk,185,True
+---,MARIANAKIS Emmanouil,GRE,"Apr 21, 1989",68.85,A,---,---,---,---,69kgMen,CleanJerk,185,True
+---,STOICHITA Paul-Catalin,ROU,"Jan 10, 1989",68.95,A,-174,-174,-174,---,69kgMen,CleanJerk,185,True
+1,CHEN Oleg,RUS,"Nov 22, 1988",68.70,A,157,180,337,,69kgMen,Total,185,True
+2,PETROSYAN Sergey,RUS,"Jun 07, 1988",68.60,A,145,173,318,,69kgMen,Total,185,True
+3,CALJA Briken,ALB,"Feb 19, 1990",68.40,A,141,170,311,,69kgMen,Total,185,True
+4,BUCI Antoniu,ROU,"Jan 21, 1990",68.85,A,138,166,304,,69kgMen,Total,185,True
+5,POGHOSYAN Zorik,ARM,"Sep 04, 1990",68.70,A,131,165,296,,69kgMen,Total,185,True
+6,CECHIR Serghei,MDA,"Oct 15, 1990",68.50,A,135,160,295,,69kgMen,Total,185,True
+7,MORILLAS SANCHEZ Isaac Julian,ESP,"Oct 16, 1988",68.40,A,125,155,280,,69kgMen,Total,185,True
+8,BERZONS Ulvis,LAT,"Mar 01, 1989",68.60,A,126,153,279,,69kgMen,Total,185,True
+9,PETROV Petr,CZE,"Oct 19, 1989",67.95,A,125,150,275,,69kgMen,Total,185,True
+---,MARIANAKIS Emmanouil,GRE,"Apr 21, 1989",68.85,A,---,---,---,,69kgMen,Total,185,True
+---,STOICHITA Paul-Catalin,ROU,"Jan 10, 1989",68.95,A,138,---,---,,69kgMen,Total,185,True
+1,SAFARYAN Alexandr,RUS,"Mar 13, 1989",76.30,A,148,152,-154,152,77kgMen,Snatch,185,True
+2,GHISOIU Adrian,ROU,"Apr 28, 1990",76.75,A,147,150,-153,150,77kgMen,Snatch,185,True
+3,AGHASYAN Aghasi,ARM,"Aug 29, 1988",76.80,A,145,148,-150,148,77kgMen,Snatch,185,True
+4,BIRCA Andrei,MDA,"Mar 23, 1988",76.50,A,143,-146,146,146,77kgMen,Snatch,185,True
+5,ZWARYCZ Krzysztof Maciej,POL,"Dec 13, 1990",77.00,A,145,-149,-150,145,77kgMen,Snatch,185,True
+6,DIMITROV Aleksandar,BUL,"Oct 11, 1989",76.75,A,143,-146,-146,143,77kgMen,Snatch,185,True
+7,RUSU Razvan,ROU,"Mar 04, 1988",76.15,A,140,-146,-146,140,77kgMen,Snatch,185,True
+8,SIMONYAN Martik,ARM,"Mar 19, 1988",76.70,B,140,-145,-147,140,77kgMen,Snatch,185,True
+9,HAS Arif Yalcin,TUR,"Feb 08, 1989",76.70,B,132,138,-141,138,77kgMen,Snatch,185,True
+10,ALACAM Faruk,TUR,"Apr 26, 1988",76.40,B,125,130,133,133,77kgMen,Snatch,185,True
+11,SAMKO Karol,SVK,"Mar 09, 1990",76.85,B,131,-135,-138,131,77kgMen,Snatch,185,True
+12,KRING Tim,DEN,"Sep 16, 1990",75.20,B,123,127,130,130,77kgMen,Snatch,185,True
+13,GNESSIN Valentin,ISR,"Jul 01, 1989",76.95,B,115,121,-125,121,77kgMen,Snatch,185,True
+---,MUSIC Ensar,CRO,"Dec 30, 1990",76.90,A,-140,-140,-140,---,77kgMen,Snatch,185,True
+1,AGHASYAN Aghasi,ARM,"Aug 29, 1988",76.80,A,177,180,---,180,77kgMen,CleanJerk,185,True
+2,MUSIC Ensar,CRO,"Dec 30, 1990",76.90,A,180,-182,-182,180,77kgMen,CleanJerk,185,True
+3,BIRCA Andrei,MDA,"Mar 23, 1988",76.50,A,172,178,-182,178,77kgMen,CleanJerk,185,True
+4,ZWARYCZ Krzysztof Maciej,POL,"Dec 13, 1990",77.00,A,177,-182,-182,177,77kgMen,CleanJerk,185,True
+5,DIMITROV Aleksandar,BUL,"Oct 11, 1989",76.75,A,172,176,-179,176,77kgMen,CleanJerk,185,True
+6,GHISOIU Adrian,ROU,"Apr 28, 1990",76.75,A,-176,176,-180,176,77kgMen,CleanJerk,185,True
+7,SAFARYAN Alexandr,RUS,"Mar 13, 1989",76.30,A,175,-179,-179,175,77kgMen,CleanJerk,185,True
+8,RUSU Razvan,ROU,"Mar 04, 1988",76.15,A,170,-178,-178,170,77kgMen,CleanJerk,185,True
+9,SAMKO Karol,SVK,"Mar 09, 1990",76.85,B,165,170,-175,170,77kgMen,CleanJerk,185,True
+10,SIMONYAN Martik,ARM,"Mar 19, 1988",76.70,B,160,-165,-165,160,77kgMen,CleanJerk,185,True
+11,ALACAM Faruk,TUR,"Apr 26, 1988",76.40,B,150,157,-161,157,77kgMen,CleanJerk,185,True
+12,HAS Arif Yalcin,TUR,"Feb 08, 1989",76.70,B,156,-161,-161,156,77kgMen,CleanJerk,185,True
+13,GNESSIN Valentin,ISR,"Jul 01, 1989",76.95,B,151,156,-162,156,77kgMen,CleanJerk,185,True
+14,KRING Tim,DEN,"Sep 16, 1990",75.20,B,155,-160,-160,155,77kgMen,CleanJerk,185,True
+1,AGHASYAN Aghasi,ARM,"Aug 29, 1988",76.80,A,148,180,328,,77kgMen,Total,185,True
+2,SAFARYAN Alexandr,RUS,"Mar 13, 1989",76.30,A,152,175,327,,77kgMen,Total,185,True
+3,GHISOIU Adrian,ROU,"Apr 28, 1990",76.75,A,150,176,326,,77kgMen,Total,185,True
+4,BIRCA Andrei,MDA,"Mar 23, 1988",76.50,A,146,178,324,,77kgMen,Total,185,True
+5,ZWARYCZ Krzysztof Maciej,POL,"Dec 13, 1990",77.00,A,145,177,322,,77kgMen,Total,185,True
+6,DIMITROV Aleksandar,BUL,"Oct 11, 1989",76.75,A,143,176,319,,77kgMen,Total,185,True
+7,RUSU Razvan,ROU,"Mar 04, 1988",76.15,A,140,170,310,,77kgMen,Total,185,True
+8,SAMKO Karol,SVK,"Mar 09, 1990",76.85,B,131,170,301,,77kgMen,Total,185,True
+9,SIMONYAN Martik,ARM,"Mar 19, 1988",76.70,B,140,160,300,,77kgMen,Total,185,True
+10,HAS Arif Yalcin,TUR,"Feb 08, 1989",76.70,B,138,156,294,,77kgMen,Total,185,True
+11,ALACAM Faruk,TUR,"Apr 26, 1988",76.40,B,133,157,290,,77kgMen,Total,185,True
+12,KRING Tim,DEN,"Sep 16, 1990",75.20,B,130,155,285,,77kgMen,Total,185,True
+13,GNESSIN Valentin,ISR,"Jul 01, 1989",76.95,B,121,156,277,,77kgMen,Total,185,True
+---,MUSIC Ensar,CRO,"Dec 30, 1990",76.90,A,---,180,---,,77kgMen,Total,185,True
+1,CERNEI Gheorghii,MDA,"Apr 13, 1990",83.90,A,150,155,-160,155,85kgMen,Snatch,185,True
+2,CAPTARI Dumitru,MDA,"Jul 12, 1989",82.60,A,145,-150,-150,145,85kgMen,Snatch,185,True
+3,KRUGLENKO Sergii,UKR,"Feb 23, 1990",84.30,A,141,145,-147,145,85kgMen,Snatch,185,True
+4,KLIS Roman,POL,"May 03, 1988",83.70,A,-144,144,-148,144,85kgMen,Snatch,185,True
+5,PETROV Stefan,BUL,"Dec 27, 1990",84.50,A,140,144,-146,144,85kgMen,Snatch,185,True
+6,YILMAZ Mehmet,TUR,"May 30, 1990",83.90,A,130,137,141,141,85kgMen,Snatch,185,True
+7,MANNELLA Clemente,ITA,"Jul 11, 1988",84.60,A,133,138,140,140,85kgMen,Snatch,185,True
+8,ERDOGAN Burak,TUR,"Apr 02, 1990",84.20,A,130,-137,139,139,85kgMen,Snatch,185,True
+9,MANNINGER Patrick,AUT,"Jan 01, 1989",83.30,A,130,-136,-136,130,85kgMen,Snatch,185,True
+10,GROSTAD Havard,NOR,"Sep 07, 1988",84.70,A,-127,127,130,130,85kgMen,Snatch,185,True
+---,PENT Leho,EST,"Apr 02, 1990",83.90,A,-142,-144,-144,---,85kgMen,Snatch,185,True
+1,CERNEI Gheorghii,MDA,"Apr 13, 1990",83.90,A,-181,185,188,188,85kgMen,CleanJerk,185,True
+2,KLIS Roman,POL,"May 03, 1988",83.70,A,182,-186,187,187,85kgMen,CleanJerk,185,True
+3,KRUGLENKO Sergii,UKR,"Feb 23, 1990",84.30,A,183,186,187,187,85kgMen,CleanJerk,185,True
+4,CAPTARI Dumitru,MDA,"Jul 12, 1989",82.60,A,180,184,186,186,85kgMen,CleanJerk,185,True
+5,PETROV Stefan,BUL,"Dec 27, 1990",84.50,A,175,-183,-184,175,85kgMen,CleanJerk,185,True
+6,ERDOGAN Burak,TUR,"Apr 02, 1990",84.20,A,160,167,171,171,85kgMen,CleanJerk,185,True
+7,YILMAZ Mehmet,TUR,"May 30, 1990",83.90,A,156,163,167,167,85kgMen,CleanJerk,185,True
+8,MANNINGER Patrick,AUT,"Jan 01, 1989",83.30,A,160,-166,166,166,85kgMen,CleanJerk,185,True
+9,GROSTAD Havard,NOR,"Sep 07, 1988",84.70,A,151,-156,156,156,85kgMen,CleanJerk,185,True
+---,PENT Leho,EST,"Apr 02, 1990",83.90,A,---,---,---,---,85kgMen,CleanJerk,185,True
+---,MANNELLA Clemente,ITA,"Jul 11, 1988",84.60,A,-162,-162,-166,---,85kgMen,CleanJerk,185,True
+1,CERNEI Gheorghii,MDA,"Apr 13, 1990",83.90,A,155,188,343,,85kgMen,Total,185,True
+2,KRUGLENKO Sergii,UKR,"Feb 23, 1990",84.30,A,145,187,332,,85kgMen,Total,185,True
+3,CAPTARI Dumitru,MDA,"Jul 12, 1989",82.60,A,145,186,331,,85kgMen,Total,185,True
+4,KLIS Roman,POL,"May 03, 1988",83.70,A,144,187,331,,85kgMen,Total,185,True
+5,PETROV Stefan,BUL,"Dec 27, 1990",84.50,A,144,175,319,,85kgMen,Total,185,True
+6,ERDOGAN Burak,TUR,"Apr 02, 1990",84.20,A,139,171,310,,85kgMen,Total,185,True
+7,YILMAZ Mehmet,TUR,"May 30, 1990",83.90,A,141,167,308,,85kgMen,Total,185,True
+8,MANNINGER Patrick,AUT,"Jan 01, 1989",83.30,A,130,166,296,,85kgMen,Total,185,True
+9,GROSTAD Havard,NOR,"Sep 07, 1988",84.70,A,130,156,286,,85kgMen,Total,185,True
+---,PENT Leho,EST,"Apr 02, 1990",83.90,A,---,---,---,,85kgMen,Total,185,True
+---,MANNELLA Clemente,ITA,"Jul 11, 1988",84.60,A,140,---,---,,85kgMen,Total,185,True
+1,MAKARANKA Aliaksandr,BLR,"Feb 02, 1990",93.35,A,165,167,170,170,94kgMen,Snatch,185,True
+2,DANCIU Marius,ROU,"Dec 05, 1989",93.80,A,165,167,-170,167,94kgMen,Snatch,185,True
+3,SABANCHIEV Martin,RUS,"Dec 01, 1989",93.15,A,160,163,165,165,94kgMen,Snatch,185,True
+4,ZBIRNEA Andrian,MDA,"May 12, 1990",93.40,A,-158,158,165,165,94kgMen,Snatch,185,True
+5,KOSZALKA Pawel,POL,"Jan 11, 1990",93.70,A,-153,153,157,157,94kgMen,Snatch,185,True
+6,OSWALD Robert,GER,"Jan 12, 1988",91.70,A,147,151,-155,151,94kgMen,Snatch,185,True
+7,ANTTIROIKO Miika Matias,FIN,"Nov 20, 1988",93.70,A,-145,145,148,148,94kgMen,Snatch,185,True
+8,MANFREDI Giuseppe,ITA,"Apr 05, 1989",93.40,A,137,142,-148,142,94kgMen,Snatch,185,True
+9,ANDERSEN Mikkel Findahl,DEN,"Nov 28, 1988",93.70,A,-139,139,-144,139,94kgMen,Snatch,185,True
+10,VIKSI Andres,EST,"Dec 15, 1989",91.60,A,-132,132,-136,132,94kgMen,Snatch,185,True
+11,KEMI Jari Jeremia,FIN,"Mar 06, 1988",93.95,A,127,-132,-132,127,94kgMen,Snatch,185,True
+---,BENZA Stephan Denis,NED,"Nov 26, 1990",93.80,A,-135,-135,-135,---,94kgMen,Snatch,185,True
+1,MAKARANKA Aliaksandr,BLR,"Feb 02, 1990",93.35,A,200,202,---,202,94kgMen,CleanJerk,185,True
+2,SABANCHIEV Martin,RUS,"Dec 01, 1989",93.15,A,195,199,201,201,94kgMen,CleanJerk,185,True
+3,DANCIU Marius,ROU,"Dec 05, 1989",93.80,A,193,-197,199,199,94kgMen,CleanJerk,185,True
+4,OSWALD Robert,GER,"Jan 12, 1988",91.70,A,185,190,-193,190,94kgMen,CleanJerk,185,True
+5,ZBIRNEA Andrian,MDA,"May 12, 1990",93.40,A,-190,190,-199,190,94kgMen,CleanJerk,185,True
+6,ANTTIROIKO Miika Matias,FIN,"Nov 20, 1988",93.70,A,190,-194,-197,190,94kgMen,CleanJerk,185,True
+7,KOSZALKA Pawel,POL,"Jan 11, 1990",93.70,A,-190,190,-196,190,94kgMen,CleanJerk,185,True
+8,ANDERSEN Mikkel Findahl,DEN,"Nov 28, 1988",93.70,A,-165,165,169,169,94kgMen,CleanJerk,185,True
+9,MANFREDI Giuseppe,ITA,"Apr 05, 1989",93.40,A,-160,160,165,165,94kgMen,CleanJerk,185,True
+10,BENZA Stephan Denis,NED,"Nov 26, 1990",93.80,A,155,160,165,165,94kgMen,CleanJerk,185,True
+11,VIKSI Andres,EST,"Dec 15, 1989",91.60,A,158,161,-163,161,94kgMen,CleanJerk,185,True
+---,KEMI Jari Jeremia,FIN,"Mar 06, 1988",93.95,A,-155,-155,-155,---,94kgMen,CleanJerk,185,True
+1,MAKARANKA Aliaksandr,BLR,"Feb 02, 1990",93.35,A,170,202,372,,94kgMen,Total,185,True
+2,SABANCHIEV Martin,RUS,"Dec 01, 1989",93.15,A,165,201,366,,94kgMen,Total,185,True
+3,DANCIU Marius,ROU,"Dec 05, 1989",93.80,A,167,199,366,,94kgMen,Total,185,True
+4,ZBIRNEA Andrian,MDA,"May 12, 1990",93.40,A,165,190,355,,94kgMen,Total,185,True
+5,KOSZALKA Pawel,POL,"Jan 11, 1990",93.70,A,157,190,347,,94kgMen,Total,185,True
+6,OSWALD Robert,GER,"Jan 12, 1988",91.70,A,151,190,341,,94kgMen,Total,185,True
+7,ANTTIROIKO Miika Matias,FIN,"Nov 20, 1988",93.70,A,148,190,338,,94kgMen,Total,185,True
+8,ANDERSEN Mikkel Findahl,DEN,"Nov 28, 1988",93.70,A,139,169,308,,94kgMen,Total,185,True
+9,MANFREDI Giuseppe,ITA,"Apr 05, 1989",93.40,A,142,165,307,,94kgMen,Total,185,True
+10,VIKSI Andres,EST,"Dec 15, 1989",91.60,A,132,161,293,,94kgMen,Total,185,True
+---,BENZA Stephan Denis,NED,"Nov 26, 1990",93.80,A,---,165,---,,94kgMen,Total,185,True
+---,KEMI Jari Jeremia,FIN,"Mar 06, 1988",93.95,A,127,---,---,,94kgMen,Total,185,True
+1,GOGIA Davit,GEO,"Jun 02, 1990",104.20,A,165,170,172,172,105kgMen,Snatch,185,True
+2,TEGKAEV Yury,RUS,"Jan 10, 1990",104.45,A,165,170,172,172,105kgMen,Snatch,185,True
+3,MICHALSKI Arkadiusz,POL,"Jan 07, 1990",103.50,A,155,158,160,160,105kgMen,Snatch,185,True
+4,ELVAN Resul,TUR,"Mar 18, 1989",103.05,A,155,-160,-160,155,105kgMen,Snatch,185,True
+5,IBISOGLU Ibrahim,TUR,"Feb 19, 1989",104.20,A,155,-160,---,155,105kgMen,Snatch,185,True
+6,MENSIKOVS Ilja,LAT,"Feb 06, 1989",104.65,A,155,-160,-161,155,105kgMen,Snatch,185,True
+7,REUTCHII Alexandr,MDA,"Apr 18, 1988",100.30,A,-150,150,-155,150,105kgMen,Snatch,185,True
+8,TOLLEFSEN Kim Eirik,NOR,"Dec 24, 1989",104.55,A,137,-142,-142,137,105kgMen,Snatch,185,True
+1,MICHALSKI Arkadiusz,POL,"Jan 07, 1990",103.50,A,197,203,209,209,105kgMen,CleanJerk,185,True
+2,TEGKAEV Yury,RUS,"Jan 10, 1990",104.45,A,200,205,208,208,105kgMen,CleanJerk,185,True
+3,GOGIA Davit,GEO,"Jun 02, 1990",104.20,A,198,204,207,207,105kgMen,CleanJerk,185,True
+4,ELVAN Resul,TUR,"Mar 18, 1989",103.05,A,195,203,-206,203,105kgMen,CleanJerk,185,True
+5,MENSIKOVS Ilja,LAT,"Feb 06, 1989",104.65,A,190,-195,-195,190,105kgMen,CleanJerk,185,True
+6,TOLLEFSEN Kim Eirik,NOR,"Dec 24, 1989",104.55,A,175,180,-183,180,105kgMen,CleanJerk,185,True
+---,IBISOGLU Ibrahim,TUR,"Feb 19, 1989",104.20,A,---,---,---,---,105kgMen,CleanJerk,185,True
+---,REUTCHII Alexandr,MDA,"Apr 18, 1988",100.30,A,-180,-180,-180,---,105kgMen,CleanJerk,185,True
+1,TEGKAEV Yury,RUS,"Jan 10, 1990",104.45,A,172,208,380,,105kgMen,Total,185,True
+2,GOGIA Davit,GEO,"Jun 02, 1990",104.20,A,172,207,379,,105kgMen,Total,185,True
+3,MICHALSKI Arkadiusz,POL,"Jan 07, 1990",103.50,A,160,209,369,,105kgMen,Total,185,True
+4,ELVAN Resul,TUR,"Mar 18, 1989",103.05,A,155,203,358,,105kgMen,Total,185,True
+5,MENSIKOVS Ilja,LAT,"Feb 06, 1989",104.65,A,155,190,345,,105kgMen,Total,185,True
+6,TOLLEFSEN Kim Eirik,NOR,"Dec 24, 1989",104.55,A,137,180,317,,105kgMen,Total,185,True
+---,IBISOGLU Ibrahim,TUR,"Feb 19, 1989",104.20,A,155,---,---,,105kgMen,Total,185,True
+---,REUTCHII Alexandr,MDA,"Apr 18, 1988",100.30,A,150,---,---,,105kgMen,Total,185,True
+1,HAKOBYAN Hayk,ARM,"Jun 14, 1990",127.50,A,181,-187,-187,181,+105kgMen,Snatch,185,True
+2,VORNIK Dzmitry,BLR,"Aug 22, 1988",122.29,A,175,-180,180,180,+105kgMen,Snatch,185,True
+3,PROCHOROW Alexej Dmitrievic,GER,"Mar 30, 1990",124.05,A,170,-175,180,180,+105kgMen,Snatch,185,True
+4,PISAREV Evgeny,RUS,"Aug 17, 1988",145.17,A,-180,180,-188,180,+105kgMen,Snatch,185,True
+5,ORSAG Jiri,CZE,"Jan 05, 1989",124.77,A,-170,176,-185,176,+105kgMen,Snatch,185,True
+6,DOLEGA Daniel,POL,"Dec 16, 1988",114.30,A,165,-170,-170,165,+105kgMen,Snatch,185,True
+7,OHMAN Carl Ragnar Max,SWE,"Aug 05, 1988",126.60,A,-160,160,165,165,+105kgMen,Snatch,185,True
+8,SLOBODIANIUK Oleg,UKR,"Apr 10, 1988",132.40,A,156,160,165,165,+105kgMen,Snatch,185,True
+9,KARIS Mustafa,TUR,"May 06, 1989",116.45,A,145,156,160,160,+105kgMen,Snatch,185,True
+10,KLICKI Krzysztof,POL,"Jun 13, 1990",167.23,A,156,-160,160,160,+105kgMen,Snatch,185,True
+11,SEIM Mart,EST,"Oct 24, 1990",119.35,A,-140,140,-143,140,+105kgMen,Snatch,185,True
+---,VARLID Vebjorn,NOR,"Jul 08, 1990",138.80,A,-160,-160,-160,---,+105kgMen,Snatch,185,True
+1,ORSAG Jiri,CZE,"Jan 05, 1989",124.77,A,217,224,229,229,+105kgMen,CleanJerk,185,True
+2,PISAREV Evgeny,RUS,"Aug 17, 1988",145.17,A,215,220,225,225,+105kgMen,CleanJerk,185,True
+3,SLOBODIANIUK Oleg,UKR,"Apr 10, 1988",132.40,A,207,213,218,218,+105kgMen,CleanJerk,185,True
+4,HAKOBYAN Hayk,ARM,"Jun 14, 1990",127.50,A,-212,212,217,217,+105kgMen,CleanJerk,185,True
+5,VORNIK Dzmitry,BLR,"Aug 22, 1988",122.29,A,-210,-210,210,210,+105kgMen,CleanJerk,185,True
+6,DOLEGA Daniel,POL,"Dec 16, 1988",114.30,A,195,202,207,207,+105kgMen,CleanJerk,185,True
+7,PROCHOROW Alexej Dmitrievic,GER,"Mar 30, 1990",124.05,A,195,205,-211,205,+105kgMen,CleanJerk,185,True
+8,OHMAN Carl Ragnar Max,SWE,"Aug 05, 1988",126.60,A,-195,196,202,202,+105kgMen,CleanJerk,185,True
+9,KLICKI Krzysztof,POL,"Jun 13, 1990",167.23,A,195,-202,-202,195,+105kgMen,CleanJerk,185,True
+10,SEIM Mart,EST,"Oct 24, 1990",119.35,A,180,188,194,194,+105kgMen,CleanJerk,185,True
+11,VARLID Vebjorn,NOR,"Jul 08, 1990",138.80,A,185,-190,-190,185,+105kgMen,CleanJerk,185,True
+12,KARIS Mustafa,TUR,"May 06, 1989",116.45,A,-175,175,182,182,+105kgMen,CleanJerk,185,True
+1,ORSAG Jiri,CZE,"Jan 05, 1989",124.77,A,176,229,405,,+105kgMen,Total,185,True
+2,PISAREV Evgeny,RUS,"Aug 17, 1988",145.17,A,180,225,405,,+105kgMen,Total,185,True
+3,HAKOBYAN Hayk,ARM,"Jun 14, 1990",127.50,A,181,217,398,,+105kgMen,Total,185,True
+4,VORNIK Dzmitry,BLR,"Aug 22, 1988",122.29,A,180,210,390,,+105kgMen,Total,185,True
+5,PROCHOROW Alexej Dmitrievic,GER,"Mar 30, 1990",124.05,A,180,205,385,,+105kgMen,Total,185,True
+6,SLOBODIANIUK Oleg,UKR,"Apr 10, 1988",132.40,A,165,218,383,,+105kgMen,Total,185,True
+7,DOLEGA Daniel,POL,"Dec 16, 1988",114.30,A,165,207,372,,+105kgMen,Total,185,True
+8,OHMAN Carl Ragnar Max,SWE,"Aug 05, 1988",126.60,A,165,202,367,,+105kgMen,Total,185,True
+9,KLICKI Krzysztof,POL,"Jun 13, 1990",167.23,A,160,195,355,,+105kgMen,Total,185,True
+10,KARIS Mustafa,TUR,"May 06, 1989",116.45,A,160,182,342,,+105kgMen,Total,185,True
+11,SEIM Mart,EST,"Oct 24, 1990",119.35,A,140,194,334,,+105kgMen,Total,185,True
+---,VARLID Vebjorn,NOR,"Jul 08, 1990",138.80,A,---,185,---,,+105kgMen,Total,185,True
+1,PAGLIARO Genny Caterina,ITA,"Oct 15, 1988",47.56,A,80,-85,85,85,48kgWomen,Snatch,185,True
+2,FUS Agata,POL,"Nov 30, 1989",47.48,A,-60,60,-65,60,48kgWomen,Snatch,185,True
+3,VEZNIKOVA Veronika,CZE,"Jan 31, 1990",47.82,A,40,45,49,49,48kgWomen,Snatch,185,True
+1,PAGLIARO Genny Caterina,ITA,"Oct 15, 1988",47.56,A,98,-103,-103,98,48kgWomen,CleanJerk,185,True
+2,FUS Agata,POL,"Nov 30, 1989",47.48,A,73,78,81,81,48kgWomen,CleanJerk,185,True
+3,VEZNIKOVA Veronika,CZE,"Jan 31, 1990",47.82,A,56,62,-67,62,48kgWomen,CleanJerk,185,True
+1,PAGLIARO Genny Caterina,ITA,"Oct 15, 1988",47.56,A,85,98,183,,48kgWomen,Total,185,True
+2,FUS Agata,POL,"Nov 30, 1989",47.48,A,60,81,141,,48kgWomen,Total,185,True
+3,VEZNIKOVA Veronika,CZE,"Jan 31, 1990",47.82,A,49,62,111,,48kgWomen,Total,185,True
+1,KARPINSKA Marzena,POL,"Feb 19, 1988",48.88,A,80,82,84,84,53kgWomen,Snatch,185,True
+2,BERCHI Dana Alexandra,ROU,"Mar 11, 1990",52.90,A,76,81,-83,81,53kgWomen,Snatch,185,True
+3,DIACHENKO Iana,UKR,"Jan 16, 1990",52.34,A,75,78,80,80,53kgWomen,Snatch,185,True
+4,SUKHAR Elena,RUS,"Jul 24, 1989",52.86,A,75,79,-82,79,53kgWomen,Snatch,185,True
+5,GURITA Lucretia,ROU,"Dec 09, 1990",51.80,A,58,-61,61,61,53kgWomen,Snatch,185,True
+1,KARPINSKA Marzena,POL,"Feb 19, 1988",48.88,A,95,100,-102,100,53kgWomen,CleanJerk,185,True
+2,SUKHAR Elena,RUS,"Jul 24, 1989",52.86,A,95,-98,98,98,53kgWomen,CleanJerk,185,True
+3,BERCHI Dana Alexandra,ROU,"Mar 11, 1990",52.90,A,93,-98,98,98,53kgWomen,CleanJerk,185,True
+4,DIACHENKO Iana,UKR,"Jan 16, 1990",52.34,A,-92,92,96,96,53kgWomen,CleanJerk,185,True
+5,GURITA Lucretia,ROU,"Dec 09, 1990",51.80,A,72,77,81,81,53kgWomen,CleanJerk,185,True
+1,KARPINSKA Marzena,POL,"Feb 19, 1988",48.88,A,84,100,184,,53kgWomen,Total,185,True
+2,BERCHI Dana Alexandra,ROU,"Mar 11, 1990",52.90,A,81,98,179,,53kgWomen,Total,185,True
+3,SUKHAR Elena,RUS,"Jul 24, 1989",52.86,A,79,98,177,,53kgWomen,Total,185,True
+4,DIACHENKO Iana,UKR,"Jan 16, 1990",52.34,A,80,96,176,,53kgWomen,Total,185,True
+5,GURITA Lucretia,ROU,"Dec 09, 1990",51.80,A,61,81,142,,53kgWomen,Total,185,True
+1,SIBETOVA Olga,RUS,"Jan 05, 1988",57.40,A,83,86,90,90,58kgWomen,Snatch,185,True
+2,LOCHOWSKA Joanna,POL,"Nov 17, 1988",57.68,A,83,87,-91,87,58kgWomen,Snatch,185,True
+3,MISHCHUK Iryna,BLR,"Apr 12, 1990",57.76,A,79,82,-84,82,58kgWomen,Snatch,185,True
+4,SEKER Elif,TUR,"Mar 20, 1988",56.94,A,-79,-79,79,79,58kgWomen,Snatch,185,True
+5,LOZOVA Laura,CZE,"Jul 06, 1988",57.84,A,66,68,-70,68,58kgWomen,Snatch,185,True
+1,SIBETOVA Olga,RUS,"Jan 05, 1988",57.40,A,107,110,-120,110,58kgWomen,CleanJerk,185,True
+2,LOCHOWSKA Joanna,POL,"Nov 17, 1988",57.68,A,102,106,108,108,58kgWomen,CleanJerk,185,True
+3,SEKER Elif,TUR,"Mar 20, 1988",56.94,A,95,99,102,102,58kgWomen,CleanJerk,185,True
+4,MISHCHUK Iryna,BLR,"Apr 12, 1990",57.76,A,-90,90,96,96,58kgWomen,CleanJerk,185,True
+5,LOZOVA Laura,CZE,"Jul 06, 1988",57.84,A,85,89,91,91,58kgWomen,CleanJerk,185,True
+1,SIBETOVA Olga,RUS,"Jan 05, 1988",57.40,A,90,110,200,,58kgWomen,Total,185,True
+2,LOCHOWSKA Joanna,POL,"Nov 17, 1988",57.68,A,87,108,195,,58kgWomen,Total,185,True
+3,SEKER Elif,TUR,"Mar 20, 1988",56.94,A,79,102,181,,58kgWomen,Total,185,True
+4,MISHCHUK Iryna,BLR,"Apr 12, 1990",57.76,A,82,96,178,,58kgWomen,Total,185,True
+5,LOZOVA Laura,CZE,"Jul 06, 1988",57.84,A,68,91,159,,58kgWomen,Total,185,True
+1,PUZYREVA Viktoria,RUS,"Jan 30, 1989",62.10,A,-93,93,95,95,63kgWomen,Snatch,185,True
+2,AFANASEVA Olga,RUS,"Mar 30, 1990",62.30,A,92,95,-97,95,63kgWomen,Snatch,185,True
+3,BERESTOVA Liubov,UKR,"Nov 26, 1989",62.90,A,85,-90,-90,85,63kgWomen,Snatch,185,True
+4,GRYCZKA Joanna,POL,"Feb 02, 1989",62.85,A,76,80,-82,80,63kgWomen,Snatch,185,True
+5,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",61.75,A,70,73,75,75,63kgWomen,Snatch,185,True
+6,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",62.70,A,-66,66,70,70,63kgWomen,Snatch,185,True
+7,EMBACHER Jessica,AUT,"Jan 01, 1990",60.55,A,63,65,67,67,63kgWomen,Snatch,185,True
+1,PUZYREVA Viktoria,RUS,"Jan 30, 1989",62.10,A,110,114,120,120,63kgWomen,CleanJerk,185,True
+2,AFANASEVA Olga,RUS,"Mar 30, 1990",62.30,A,110,114,-121,114,63kgWomen,CleanJerk,185,True
+3,BERESTOVA Liubov,UKR,"Nov 26, 1989",62.90,A,95,105,-115,105,63kgWomen,CleanJerk,185,True
+4,GRYCZKA Joanna,POL,"Feb 02, 1989",62.85,A,92,---,---,92,63kgWomen,CleanJerk,185,True
+5,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",61.75,A,90,-94,-94,90,63kgWomen,CleanJerk,185,True
+6,EMBACHER Jessica,AUT,"Jan 01, 1990",60.55,A,79,82,85,85,63kgWomen,CleanJerk,185,True
+7,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",62.70,A,75,79,-82,79,63kgWomen,CleanJerk,185,True
+1,PUZYREVA Viktoria,RUS,"Jan 30, 1989",62.10,A,95,120,215,,63kgWomen,Total,185,True
+2,AFANASEVA Olga,RUS,"Mar 30, 1990",62.30,A,95,114,209,,63kgWomen,Total,185,True
+3,BERESTOVA Liubov,UKR,"Nov 26, 1989",62.90,A,85,105,190,,63kgWomen,Total,185,True
+4,GRYCZKA Joanna,POL,"Feb 02, 1989",62.85,A,80,92,172,,63kgWomen,Total,185,True
+5,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",61.75,A,75,90,165,,63kgWomen,Total,185,True
+6,EMBACHER Jessica,AUT,"Jan 01, 1990",60.55,A,67,85,152,,63kgWomen,Total,185,True
+7,HAMMELSTRUP Laura,DEN,"Aug 10, 1990",62.70,A,70,79,149,,63kgWomen,Total,185,True
+1,SAVENKO Viktoriia,RUS,"May 28, 1988",68.05,A,111,116,119,119,69kgWomen,Snatch,185,True
+2,COCOS Roxana Daniela,ROU,"Jun 05, 1989",66.95,A,95,102,105,105,69kgWomen,Snatch,185,True
+3,SHKERMANKOVA Maryna,BLR,"Apr 09, 1990",67.75,A,103,-106,-106,103,69kgWomen,Snatch,185,True
+4,RAMOS GONZALEZ Sheila,ESP,"Dec 20, 1990",68.15,A,-90,-90,90,90,69kgWomen,Snatch,185,True
+5,OSTAPSKA Katarzyna Anna,POL,"Feb 25, 1988",68.45,A,83,86,88,88,69kgWomen,Snatch,185,True
+6,BAZSO Bianka,HUN,"Jan 24, 1988",68.90,A,83,86,88,88,69kgWomen,Snatch,185,True
+1,COCOS Roxana Daniela,ROU,"Jun 05, 1989",66.95,A,125,131,135,135,69kgWomen,CleanJerk,185,True
+2,SAVENKO Viktoriia,RUS,"May 28, 1988",68.05,A,-126,126,131,131,69kgWomen,CleanJerk,185,True
+3,SHKERMANKOVA Maryna,BLR,"Apr 09, 1990",67.75,A,120,128,-134,128,69kgWomen,CleanJerk,185,True
+4,OSTAPSKA Katarzyna Anna,POL,"Feb 25, 1988",68.45,A,110,114,-117,114,69kgWomen,CleanJerk,185,True
+5,RAMOS GONZALEZ Sheila,ESP,"Dec 20, 1990",68.15,A,112,-117,-117,112,69kgWomen,CleanJerk,185,True
+6,BAZSO Bianka,HUN,"Jan 24, 1988",68.90,A,102,106,-109,106,69kgWomen,CleanJerk,185,True
+1,SAVENKO Viktoriia,RUS,"May 28, 1988",68.05,A,119,131,250,,69kgWomen,Total,185,True
+2,COCOS Roxana Daniela,ROU,"Jun 05, 1989",66.95,A,105,135,240,,69kgWomen,Total,185,True
+3,SHKERMANKOVA Maryna,BLR,"Apr 09, 1990",67.75,A,103,128,231,,69kgWomen,Total,185,True
+4,RAMOS GONZALEZ Sheila,ESP,"Dec 20, 1990",68.15,A,90,112,202,,69kgWomen,Total,185,True
+5,OSTAPSKA Katarzyna Anna,POL,"Feb 25, 1988",68.45,A,88,114,202,,69kgWomen,Total,185,True
+6,BAZSO Bianka,HUN,"Jan 24, 1988",68.90,A,88,106,194,,69kgWomen,Total,185,True
+1,YILMAZ Hatice,TUR,"Oct 05, 1990",69.25,A,93,96,98,98,75kgWomen,Snatch,185,True
+2,LISEWSKA Katarzyna,POL,"Jun 25, 1989",74.75,A,85,87,89,89,75kgWomen,Snatch,185,True
+3,DUMITRASCU Mariana,ROU,"Dec 19, 1988",69.75,A,70,-73,73,73,75kgWomen,Snatch,185,True
+4,PODERSOO Triin,EST,"Oct 24, 1990",73.80,A,70,73,-74,73,75kgWomen,Snatch,185,True
+5,GOGOROVA Eleonora,SVK,"Jan 15, 1990",70.30,A,70,-73,-74,70,75kgWomen,Snatch,185,True
+6,BURCEA Ana Maria,ROU,"Jul 26, 1989",73.00,A,57,61,-65,61,75kgWomen,Snatch,185,True
+1,YILMAZ Hatice,TUR,"Oct 05, 1990",69.25,A,117,122,-125,122,75kgWomen,CleanJerk,185,True
+2,LISEWSKA Katarzyna,POL,"Jun 25, 1989",74.75,A,105,-110,-110,105,75kgWomen,CleanJerk,185,True
+3,GOGOROVA Eleonora,SVK,"Jan 15, 1990",70.30,A,94,98,-100,98,75kgWomen,CleanJerk,185,True
+4,DUMITRASCU Mariana,ROU,"Dec 19, 1988",69.75,A,90,-94,-94,90,75kgWomen,CleanJerk,185,True
+5,BURCEA Ana Maria,ROU,"Jul 26, 1989",73.00,A,80,85,-88,85,75kgWomen,CleanJerk,185,True
+6,PODERSOO Triin,EST,"Oct 24, 1990",73.80,A,-80,80,-85,80,75kgWomen,CleanJerk,185,True
+1,YILMAZ Hatice,TUR,"Oct 05, 1990",69.25,A,98,122,220,,75kgWomen,Total,185,True
+2,LISEWSKA Katarzyna,POL,"Jun 25, 1989",74.75,A,89,105,194,,75kgWomen,Total,185,True
+3,GOGOROVA Eleonora,SVK,"Jan 15, 1990",70.30,A,70,98,168,,75kgWomen,Total,185,True
+4,DUMITRASCU Mariana,ROU,"Dec 19, 1988",69.75,A,73,90,163,,75kgWomen,Total,185,True
+5,PODERSOO Triin,EST,"Oct 24, 1990",73.80,A,73,80,153,,75kgWomen,Total,185,True
+6,BURCEA Ana Maria,ROU,"Jul 26, 1989",73.00,A,61,85,146,,75kgWomen,Total,185,True
+1,KONOVALOVA Yulia,RUS,"Dec 01, 1990",90.20,A,120,125,130,130,+75kgWomen,Snatch,185,True
+2,KACHAEVA Yulia,RUS,"Nov 29, 1990",96.20,A,105,107,110,110,+75kgWomen,Snatch,185,True
+3,VARLAMOVA Tetiana,UKR,"Feb 12, 1989",136.00,A,103,106,108,108,+75kgWomen,Snatch,185,True
+4,MAGAT Krisztina,HUN,"Mar 02, 1989",99.90,A,95,-101,-101,95,+75kgWomen,Snatch,185,True
+5,SPYRA Sandra Wiktoria,POL,"Dec 27, 1989",101.50,A,86,91,-95,91,+75kgWomen,Snatch,185,True
+6,ERDIMIR Ismihan,TUR,"Feb 11, 1988",91.30,A,80,84,88,88,+75kgWomen,Snatch,185,True
+7,MATEI Anda Elena,ROU,"Jun 16, 1988",104.90,A,65,70,73,73,+75kgWomen,Snatch,185,True
+1,KONOVALOVA Yulia,RUS,"Dec 01, 1990",90.20,A,150,155,160,160,+75kgWomen,CleanJerk,185,True
+2,KACHAEVA Yulia,RUS,"Nov 29, 1990",96.20,A,135,140,-145,140,+75kgWomen,CleanJerk,185,True
+3,VARLAMOVA Tetiana,UKR,"Feb 12, 1989",136.00,A,-132,132,-138,132,+75kgWomen,CleanJerk,185,True
+4,MAGAT Krisztina,HUN,"Mar 02, 1989",99.90,A,110,115,118,118,+75kgWomen,CleanJerk,185,True
+5,SPYRA Sandra Wiktoria,POL,"Dec 27, 1989",101.50,A,110,-115,115,115,+75kgWomen,CleanJerk,185,True
+6,ERDIMIR Ismihan,TUR,"Feb 11, 1988",91.30,A,100,104,-108,104,+75kgWomen,CleanJerk,185,True
+7,MATEI Anda Elena,ROU,"Jun 16, 1988",104.90,A,85,90,96,96,+75kgWomen,CleanJerk,185,True
+1,KONOVALOVA Yulia,RUS,"Dec 01, 1990",90.20,A,130,160,290,,+75kgWomen,Total,185,True
+2,KACHAEVA Yulia,RUS,"Nov 29, 1990",96.20,A,110,140,250,,+75kgWomen,Total,185,True
+3,VARLAMOVA Tetiana,UKR,"Feb 12, 1989",136.00,A,108,132,240,,+75kgWomen,Total,185,True
+4,MAGAT Krisztina,HUN,"Mar 02, 1989",99.90,A,95,118,213,,+75kgWomen,Total,185,True
+5,SPYRA Sandra Wiktoria,POL,"Dec 27, 1989",101.50,A,91,115,206,,+75kgWomen,Total,185,True
+6,ERDIMIR Ismihan,TUR,"Feb 11, 1988",91.30,A,88,104,192,,+75kgWomen,Total,185,True
+7,MATEI Anda Elena,ROU,"Jun 16, 1988",104.90,A,73,96,169,,+75kgWomen,Total,185,True

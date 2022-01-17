@@ -1,61 +1,61 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,NEDELCHEV Antonov Ivelin,CYP,"Born: Jan 01, 1993",B.weight: 61.74,Group: A,1: 100,2: 107,3: 110,Total: 110,62kgMen,Snatch,374
-Rank: 2,BONVENTRE Sebastien,MON,"Born: Jan 01, 1971",B.weight: 60.96,Group: A,1: 85,2: -90,3: 90,Total: 90,62kgMen,Snatch,374
-Rank: 1,NEDELCHEV Antonov Ivelin,CYP,"Born: Jan 01, 1993",B.weight: 61.74,Group: A,1: 120,2: 125,3: -130,Total: 125,62kgMen,CleanJerk,374
-Rank: 2,BONVENTRE Sebastien,MON,"Born: Jan 01, 1971",B.weight: 60.96,Group: A,1: 105,2: -110,3: 110,Total: 110,62kgMen,CleanJerk,374
-Rank: 1,NEDELCHEV Antonov Ivelin,CYP,"Born: Jan 01, 1993",B.weight: 61.74,Group: A,Snatch: 110,CI&Jerk: 125,Total: 235,,62kgMen,Total,374
-Rank: 2,BONVENTRE Sebastien,MON,"Born: Jan 01, 1971",B.weight: 60.96,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,62kgMen,Total,374
-Rank: 1,BRICHI Damian,MON,"Born: Jan 01, 1979",B.weight: 65.68,Group: A,1: -73,2: 73,3: -77,Total: 73,69kgMen,Snatch,374
-Rank: 2,SCHINAS Christopher,MLT,"Born: May 31, 1982",B.weight: 68.07,Group: A,1: 70,2: -75,3: -75,Total: 70,69kgMen,Snatch,374
-Rank: 3,RADEAU Celine,MON,"Born: Jan 01, 1983",B.weight: 65.16,Group: A,1: 35,2: 38,3: 40,Total: 40,69kgMen,Snatch,374
-Rank: 1,BRICHI Damian,MON,"Born: Jan 01, 1979",B.weight: 65.68,Group: A,1: 90,2: 95,3: -101,Total: 95,69kgMen,CleanJerk,374
-Rank: 2,SCHINAS Christopher,MLT,"Born: May 31, 1982",B.weight: 68.07,Group: A,1: -86,2: 87,3: -91,Total: 87,69kgMen,CleanJerk,374
-Rank: 3,RADEAU Celine,MON,"Born: Jan 01, 1983",B.weight: 65.16,Group: A,1: 50,2: 54,3: 56,Total: 56,69kgMen,CleanJerk,374
-Rank: 1,BRICHI Damian,MON,"Born: Jan 01, 1979",B.weight: 65.68,Group: A,Snatch: 73,CI&Jerk: 95,Total: 168,,69kgMen,Total,374
-Rank: 2,SCHINAS Christopher,MLT,"Born: May 31, 1982",B.weight: 68.07,Group: A,Snatch: 70,CI&Jerk: 87,Total: 157,,69kgMen,Total,374
-Rank: 3,RADEAU Celine,MON,"Born: Jan 01, 1983",B.weight: 65.16,Group: A,Snatch: 40,CI&Jerk: 56,Total: 96,,69kgMen,Total,374
-Rank: 1,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 76.50,Group: A,1: -95,2: 95,3: -103,Total: 95,77kgMen,Snatch,374
-Rank: 2,CANESTRIER Jean,MON,"Born: Jan 01, 1966",B.weight: 72.74,Group: A,1: -85,2: 85,3: 90,Total: 90,77kgMen,Snatch,374
-Rank: 3,RELJIC Jovan,MLT,"Born: Mar 16, 1988",B.weight: 76.68,Group: A,1: -85,2: -85,3: 85,Total: 85,77kgMen,Snatch,374
-Rank: 4,DE GIORGIO Charles,MLT,"Born: Jan 01, 1979",B.weight: 71.90,Group: A,1: 75,2: -86,3: -86,Total: 75,77kgMen,Snatch,374
-Rank: 5,AGIUS Ryan,MLT,"Born: Mar 04, 1990",B.weight: 72.98,Group: A,1: -65,2: 65,3: 70,Total: 70,77kgMen,Snatch,374
-Rank: 1,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 76.50,Group: A,1: 120,2: 124,3: 131,Total: 131,77kgMen,CleanJerk,374
-Rank: 2,CANESTRIER Jean,MON,"Born: Jan 01, 1966",B.weight: 72.74,Group: A,1: 110,2: 115,3: -118,Total: 115,77kgMen,CleanJerk,374
-Rank: 3,RELJIC Jovan,MLT,"Born: Mar 16, 1988",B.weight: 76.68,Group: A,1: 110,2: 115,3: -120,Total: 115,77kgMen,CleanJerk,374
-Rank: 4,AGIUS Ryan,MLT,"Born: Mar 04, 1990",B.weight: 72.98,Group: A,1: -85,2: 85,3: -90,Total: 85,77kgMen,CleanJerk,374
-Rank: ---,DE GIORGIO Charles,MLT,"Born: Jan 01, 1979",B.weight: 71.90,Group: A,1: -100,2: -100,3: -100,Total: ---,77kgMen,CleanJerk,374
-Rank: 1,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 76.50,Group: A,Snatch: 95,CI&Jerk: 131,Total: 226,,77kgMen,Total,374
-Rank: 2,CANESTRIER Jean,MON,"Born: Jan 01, 1966",B.weight: 72.74,Group: A,Snatch: 90,CI&Jerk: 115,Total: 205,,77kgMen,Total,374
-Rank: 3,RELJIC Jovan,MLT,"Born: Mar 16, 1988",B.weight: 76.68,Group: A,Snatch: 85,CI&Jerk: 115,Total: 200,,77kgMen,Total,374
-Rank: 4,AGIUS Ryan,MLT,"Born: Mar 04, 1990",B.weight: 72.98,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,77kgMen,Total,374
-Rank: ---,DE GIORGIO Charles,MLT,"Born: Jan 01, 1979",B.weight: 71.90,Group: A,Snatch: 75,CI&Jerk: ---,Total: ---,,77kgMen,Total,374
-Rank: 1,SAVVA Andreas,CYP,"Born: Jan 01, 1989",B.weight: 83.94,Group: A,1: 95,2: 100,3: 103,Total: 103,85kgMen,Snatch,374
-Rank: 2,DOS SANTOS Bruno Philippe,LUX,"Born: May 27, 1982",B.weight: 77.12,Group: A,1: 96,2: -101,3: -101,Total: 96,85kgMen,Snatch,374
-Rank: 3,LEGROS Romuald,MON,"Born: Jan 01, 1981",B.weight: 82.78,Group: A,1: 75,2: 80,3: -85,Total: 80,85kgMen,Snatch,374
-Rank: 1,DOS SANTOS Bruno Philippe,LUX,"Born: May 27, 1982",B.weight: 77.12,Group: A,1: 120,2: -125,3: 125,Total: 125,85kgMen,CleanJerk,374
-Rank: 2,SAVVA Andreas,CYP,"Born: Jan 01, 1989",B.weight: 83.94,Group: A,1: 120,2: -123,3: 123,Total: 123,85kgMen,CleanJerk,374
-Rank: 3,LEGROS Romuald,MON,"Born: Jan 01, 1981",B.weight: 82.78,Group: A,1: 90,2: 95,3: 100,Total: 100,85kgMen,CleanJerk,374
-Rank: 1,SAVVA Andreas,CYP,"Born: Jan 01, 1989",B.weight: 83.94,Group: A,Snatch: 103,CI&Jerk: 123,Total: 226,,85kgMen,Total,374
-Rank: 2,DOS SANTOS Bruno Philippe,LUX,"Born: May 27, 1982",B.weight: 77.12,Group: A,Snatch: 96,CI&Jerk: 125,Total: 221,,85kgMen,Total,374
-Rank: 3,LEGROS Romuald,MON,"Born: Jan 01, 1981",B.weight: 82.78,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,85kgMen,Total,374
-Rank: 1,ALABUDI Mesbah,CYP,"Born: Jan 01, 1980",B.weight: 90.30,Group: A,1: -110,2: -110,3: 110,Total: 110,94kgMen,Snatch,374
-Rank: 2,DESRUMEAX Nicolas,MON,"Born: Jan 01, 1977",B.weight: 93.66,Group: A,1: 70,2: -75,3: -75,Total: 70,94kgMen,Snatch,374
-Rank: 3,FARRUGIA Hayden,MLT,"Born: Jan 01, 1995",B.weight: 85.20,Group: A,1: -65,2: 65,3: -70,Total: 65,94kgMen,Snatch,374
-Rank: 1,ALABUDI Mesbah,CYP,"Born: Jan 01, 1980",B.weight: 90.30,Group: A,1: 130,2: -133,3: 133,Total: 133,94kgMen,CleanJerk,374
-Rank: 2,DESRUMEAX Nicolas,MON,"Born: Jan 01, 1977",B.weight: 93.66,Group: A,1: 90,2: 95,3: 100,Total: 100,94kgMen,CleanJerk,374
-Rank: 3,FARRUGIA Hayden,MLT,"Born: Jan 01, 1995",B.weight: 85.20,Group: A,1: 85,2: 88,3: 90,Total: 90,94kgMen,CleanJerk,374
-Rank: 1,ALABUDI Mesbah,CYP,"Born: Jan 01, 1980",B.weight: 90.30,Group: A,Snatch: 110,CI&Jerk: 133,Total: 243,,94kgMen,Total,374
-Rank: 2,DESRUMEAX Nicolas,MON,"Born: Jan 01, 1977",B.weight: 93.66,Group: A,Snatch: 70,CI&Jerk: 100,Total: 170,,94kgMen,Total,374
-Rank: 3,FARRUGIA Hayden,MLT,"Born: Jan 01, 1995",B.weight: 85.20,Group: A,Snatch: 65,CI&Jerk: 90,Total: 155,,94kgMen,Total,374
-Rank: 1,MUSCAT Matthew John,MLT,"Born: Apr 14, 1982",B.weight: 94.81,Group: A,1: 98,2: 103,3: 107,Total: 107,105kgMen,Snatch,374
-Rank: 2,KRETTLY Marc,MON,"Born: Jan 01, 1956",B.weight: 94.37,Group: A,1: 85,2: 92,3: -97,Total: 92,105kgMen,Snatch,374
-Rank: 3,FARRUGIA Joran,MLT,"Born: Jan 01, 1995",B.weight: 100.61,Group: A,1: 65,2: -70,3: -70,Total: 65,105kgMen,Snatch,374
-Rank: 1,MUSCAT Matthew John,MLT,"Born: Apr 14, 1982",B.weight: 94.81,Group: A,1: 118,2: 125,3: 130,Total: 130,105kgMen,CleanJerk,374
-Rank: 2,KRETTLY Marc,MON,"Born: Jan 01, 1956",B.weight: 94.37,Group: A,1: -110,2: 110,3: 117,Total: 117,105kgMen,CleanJerk,374
-Rank: 3,FARRUGIA Joran,MLT,"Born: Jan 01, 1995",B.weight: 100.61,Group: A,1: 83,2: 87,3: -90,Total: 87,105kgMen,CleanJerk,374
-Rank: 1,MUSCAT Matthew John,MLT,"Born: Apr 14, 1982",B.weight: 94.81,Group: A,Snatch: 107,CI&Jerk: 130,Total: 237,,105kgMen,Total,374
-Rank: 2,KRETTLY Marc,MON,"Born: Jan 01, 1956",B.weight: 94.37,Group: A,Snatch: 92,CI&Jerk: 117,Total: 209,,105kgMen,Total,374
-Rank: 3,FARRUGIA Joran,MLT,"Born: Jan 01, 1995",B.weight: 100.61,Group: A,Snatch: 65,CI&Jerk: 87,Total: 152,,105kgMen,Total,374
-Rank: 1,EMMANOUILIDI Charalampia,CYP,"Born: Jan 01, 1993",B.weight: 62.35,Group: A,1: 42,2: -45,3: -45,Total: 42,63kgWomen,Snatch,374
-Rank: 1,EMMANOUILIDI Charalampia,CYP,"Born: Jan 01, 1993",B.weight: 62.35,Group: A,1: 50,2: -55,3: -55,Total: 50,63kgWomen,CleanJerk,374
-Rank: 1,EMMANOUILIDI Charalampia,CYP,"Born: Jan 01, 1993",B.weight: 62.35,Group: A,Snatch: 42,CI&Jerk: 50,Total: 92,,63kgWomen,Total,374
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,NEDELCHEV Antonov Ivelin,CYP,"Jan 01, 1993",61.74,A,100,107,110,110,62kgMen,Snatch,374,True
+2,BONVENTRE Sebastien,MON,"Jan 01, 1971",60.96,A,85,-90,90,90,62kgMen,Snatch,374,True
+1,NEDELCHEV Antonov Ivelin,CYP,"Jan 01, 1993",61.74,A,120,125,-130,125,62kgMen,CleanJerk,374,True
+2,BONVENTRE Sebastien,MON,"Jan 01, 1971",60.96,A,105,-110,110,110,62kgMen,CleanJerk,374,True
+1,NEDELCHEV Antonov Ivelin,CYP,"Jan 01, 1993",61.74,A,110,125,235,,62kgMen,Total,374,True
+2,BONVENTRE Sebastien,MON,"Jan 01, 1971",60.96,A,90,110,200,,62kgMen,Total,374,True
+1,BRICHI Damian,MON,"Jan 01, 1979",65.68,A,-73,73,-77,73,69kgMen,Snatch,374,True
+2,SCHINAS Christopher,MLT,"May 31, 1982",68.07,A,70,-75,-75,70,69kgMen,Snatch,374,True
+3,RADEAU Celine,MON,"Jan 01, 1983",65.16,A,35,38,40,40,69kgMen,Snatch,374,True
+1,BRICHI Damian,MON,"Jan 01, 1979",65.68,A,90,95,-101,95,69kgMen,CleanJerk,374,True
+2,SCHINAS Christopher,MLT,"May 31, 1982",68.07,A,-86,87,-91,87,69kgMen,CleanJerk,374,True
+3,RADEAU Celine,MON,"Jan 01, 1983",65.16,A,50,54,56,56,69kgMen,CleanJerk,374,True
+1,BRICHI Damian,MON,"Jan 01, 1979",65.68,A,73,95,168,,69kgMen,Total,374,True
+2,SCHINAS Christopher,MLT,"May 31, 1982",68.07,A,70,87,157,,69kgMen,Total,374,True
+3,RADEAU Celine,MON,"Jan 01, 1983",65.16,A,40,56,96,,69kgMen,Total,374,True
+1,PULIS Rodmar,MLT,"Sep 29, 1994",76.50,A,-95,95,-103,95,77kgMen,Snatch,374,True
+2,CANESTRIER Jean,MON,"Jan 01, 1966",72.74,A,-85,85,90,90,77kgMen,Snatch,374,True
+3,RELJIC Jovan,MLT,"Mar 16, 1988",76.68,A,-85,-85,85,85,77kgMen,Snatch,374,True
+4,DE GIORGIO Charles,MLT,"Jan 01, 1979",71.90,A,75,-86,-86,75,77kgMen,Snatch,374,True
+5,AGIUS Ryan,MLT,"Mar 04, 1990",72.98,A,-65,65,70,70,77kgMen,Snatch,374,True
+1,PULIS Rodmar,MLT,"Sep 29, 1994",76.50,A,120,124,131,131,77kgMen,CleanJerk,374,True
+2,CANESTRIER Jean,MON,"Jan 01, 1966",72.74,A,110,115,-118,115,77kgMen,CleanJerk,374,True
+3,RELJIC Jovan,MLT,"Mar 16, 1988",76.68,A,110,115,-120,115,77kgMen,CleanJerk,374,True
+4,AGIUS Ryan,MLT,"Mar 04, 1990",72.98,A,-85,85,-90,85,77kgMen,CleanJerk,374,True
+---,DE GIORGIO Charles,MLT,"Jan 01, 1979",71.90,A,-100,-100,-100,---,77kgMen,CleanJerk,374,True
+1,PULIS Rodmar,MLT,"Sep 29, 1994",76.50,A,95,131,226,,77kgMen,Total,374,True
+2,CANESTRIER Jean,MON,"Jan 01, 1966",72.74,A,90,115,205,,77kgMen,Total,374,True
+3,RELJIC Jovan,MLT,"Mar 16, 1988",76.68,A,85,115,200,,77kgMen,Total,374,True
+4,AGIUS Ryan,MLT,"Mar 04, 1990",72.98,A,70,85,155,,77kgMen,Total,374,True
+---,DE GIORGIO Charles,MLT,"Jan 01, 1979",71.90,A,75,---,---,,77kgMen,Total,374,True
+1,SAVVA Andreas,CYP,"Jan 01, 1989",83.94,A,95,100,103,103,85kgMen,Snatch,374,True
+2,DOS SANTOS Bruno Philippe,LUX,"May 27, 1982",77.12,A,96,-101,-101,96,85kgMen,Snatch,374,True
+3,LEGROS Romuald,MON,"Jan 01, 1981",82.78,A,75,80,-85,80,85kgMen,Snatch,374,True
+1,DOS SANTOS Bruno Philippe,LUX,"May 27, 1982",77.12,A,120,-125,125,125,85kgMen,CleanJerk,374,True
+2,SAVVA Andreas,CYP,"Jan 01, 1989",83.94,A,120,-123,123,123,85kgMen,CleanJerk,374,True
+3,LEGROS Romuald,MON,"Jan 01, 1981",82.78,A,90,95,100,100,85kgMen,CleanJerk,374,True
+1,SAVVA Andreas,CYP,"Jan 01, 1989",83.94,A,103,123,226,,85kgMen,Total,374,True
+2,DOS SANTOS Bruno Philippe,LUX,"May 27, 1982",77.12,A,96,125,221,,85kgMen,Total,374,True
+3,LEGROS Romuald,MON,"Jan 01, 1981",82.78,A,80,100,180,,85kgMen,Total,374,True
+1,ALABUDI Mesbah,CYP,"Jan 01, 1980",90.30,A,-110,-110,110,110,94kgMen,Snatch,374,True
+2,DESRUMEAX Nicolas,MON,"Jan 01, 1977",93.66,A,70,-75,-75,70,94kgMen,Snatch,374,True
+3,FARRUGIA Hayden,MLT,"Jan 01, 1995",85.20,A,-65,65,-70,65,94kgMen,Snatch,374,True
+1,ALABUDI Mesbah,CYP,"Jan 01, 1980",90.30,A,130,-133,133,133,94kgMen,CleanJerk,374,True
+2,DESRUMEAX Nicolas,MON,"Jan 01, 1977",93.66,A,90,95,100,100,94kgMen,CleanJerk,374,True
+3,FARRUGIA Hayden,MLT,"Jan 01, 1995",85.20,A,85,88,90,90,94kgMen,CleanJerk,374,True
+1,ALABUDI Mesbah,CYP,"Jan 01, 1980",90.30,A,110,133,243,,94kgMen,Total,374,True
+2,DESRUMEAX Nicolas,MON,"Jan 01, 1977",93.66,A,70,100,170,,94kgMen,Total,374,True
+3,FARRUGIA Hayden,MLT,"Jan 01, 1995",85.20,A,65,90,155,,94kgMen,Total,374,True
+1,MUSCAT Matthew John,MLT,"Apr 14, 1982",94.81,A,98,103,107,107,105kgMen,Snatch,374,True
+2,KRETTLY Marc,MON,"Jan 01, 1956",94.37,A,85,92,-97,92,105kgMen,Snatch,374,True
+3,FARRUGIA Joran,MLT,"Jan 01, 1995",100.61,A,65,-70,-70,65,105kgMen,Snatch,374,True
+1,MUSCAT Matthew John,MLT,"Apr 14, 1982",94.81,A,118,125,130,130,105kgMen,CleanJerk,374,True
+2,KRETTLY Marc,MON,"Jan 01, 1956",94.37,A,-110,110,117,117,105kgMen,CleanJerk,374,True
+3,FARRUGIA Joran,MLT,"Jan 01, 1995",100.61,A,83,87,-90,87,105kgMen,CleanJerk,374,True
+1,MUSCAT Matthew John,MLT,"Apr 14, 1982",94.81,A,107,130,237,,105kgMen,Total,374,True
+2,KRETTLY Marc,MON,"Jan 01, 1956",94.37,A,92,117,209,,105kgMen,Total,374,True
+3,FARRUGIA Joran,MLT,"Jan 01, 1995",100.61,A,65,87,152,,105kgMen,Total,374,True
+1,EMMANOUILIDI Charalampia,CYP,"Jan 01, 1993",62.35,A,42,-45,-45,42,63kgWomen,Snatch,374,True
+1,EMMANOUILIDI Charalampia,CYP,"Jan 01, 1993",62.35,A,50,-55,-55,50,63kgWomen,CleanJerk,374,True
+1,EMMANOUILIDI Charalampia,CYP,"Jan 01, 1993",62.35,A,42,50,92,,63kgWomen,Total,374,True

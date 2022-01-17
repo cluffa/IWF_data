@@ -1,88 +1,88 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.95,Group: A,1: -117,2: -117,3: 117,Total: 117,62kgMen,Snatch,415
-Rank: 2,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 61.95,Group: A,1: 101,2: 105,3: 107,Total: 107,62kgMen,Snatch,415
-Rank: 3,NAKISAEI Mohsen,IRI,"Born: Jul 06, 1992",B.weight: 61.80,Group: A,1: 91,2: 98,3: 105,Total: 105,62kgMen,Snatch,415
-Rank: 4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Born: Jan 02, 1997",B.weight: 61.00,Group: A,1: 90,2: 97,3: -105,Total: 97,62kgMen,Snatch,415
-Rank: 5,KRNAJAC Jovan,SRB,"Born: Apr 29, 2002",B.weight: 60.00,Group: A,1: 80,2: 87,3: -92,Total: 87,62kgMen,Snatch,415
-Rank: ---,ISLAM Md Nayemul,BAN,"Born: Jan 01, 2003",B.weight: 60.90,Group: A,1: -100,2: -102,3: -102,Total: ---,62kgMen,Snatch,415
-Rank: DSQ,OYEV Sunatullo,TJK,"Born: Jan 23, 1997",B.weight: 61.60,Group: A,1: 101,2: 106,3: 108,Total: ---,62kgMen,Snatch,415
-Rank: 1,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 61.95,Group: A,1: 125,2: 130,3: 135,Total: 135,62kgMen,CleanJerk,415
-Rank: 2,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.95,Group: A,1: 133,2: -145,3: -145,Total: 133,62kgMen,CleanJerk,415
-Rank: 3,NAKISAEI Mohsen,IRI,"Born: Jul 06, 1992",B.weight: 61.80,Group: A,1: 121,2: 128,3: -132,Total: 128,62kgMen,CleanJerk,415
-Rank: 4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Born: Jan 02, 1997",B.weight: 61.00,Group: A,1: 120,2: 127,3: -130,Total: 127,62kgMen,CleanJerk,415
-Rank: 5,KRNAJAC Jovan,SRB,"Born: Apr 29, 2002",B.weight: 60.00,Group: A,1: 100,2: 105,3: -110,Total: 105,62kgMen,CleanJerk,415
-Rank: ---,ISLAM Md Nayemul,BAN,"Born: Jan 01, 2003",B.weight: 60.90,Group: A,1: ---,2: ---,3: ---,Total: ---,62kgMen,CleanJerk,415
-Rank: DSQ,OYEV Sunatullo,TJK,"Born: Jan 23, 1997",B.weight: 61.60,Group: A,1: 121,2: 127,3: -131,Total: ---,62kgMen,CleanJerk,415
-Rank: 1,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.95,Group: A,Snatch: 117,CI&Jerk: 133,Total: 250,,62kgMen,Total,415
-Rank: 2,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 61.95,Group: A,Snatch: 107,CI&Jerk: 135,Total: 242,,62kgMen,Total,415
-Rank: 3,NAKISAEI Mohsen,IRI,"Born: Jul 06, 1992",B.weight: 61.80,Group: A,Snatch: 105,CI&Jerk: 128,Total: 233,,62kgMen,Total,415
-Rank: 4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Born: Jan 02, 1997",B.weight: 61.00,Group: A,Snatch: 97,CI&Jerk: 127,Total: 224,,62kgMen,Total,415
-Rank: 5,KRNAJAC Jovan,SRB,"Born: Apr 29, 2002",B.weight: 60.00,Group: A,Snatch: 87,CI&Jerk: 105,Total: 192,,62kgMen,Total,415
-Rank: ---,ISLAM Md Nayemul,BAN,"Born: Jan 01, 2003",B.weight: 60.90,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,62kgMen,Total,415
-Rank: DSQ,OYEV Sunatullo,TJK,"Born: Jan 23, 1997",B.weight: 61.60,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,62kgMen,Total,415
-Rank: 1,CHKHEIDZE Goga,GEO,"Born: Feb 11, 1996",B.weight: 68.70,Group: A,1: 125,2: 130,3: -133,Total: 130,69kgMen,Snatch,415
-Rank: 2,ALHAYEK Mohamad,SYR,"Born: Jan 18, 1993",B.weight: 68.05,Group: A,1: 107,2: -112,3: -114,Total: 107,69kgMen,Snatch,415
-Rank: 3,MD SALMAN Md,BAN,"Born: Sep 03, 1999",B.weight: 64.10,Group: A,1: 100,2: -105,3: -105,Total: 100,69kgMen,Snatch,415
-Rank: 4,NADRIN Ezzeddin,SYR,"Born: Jan 01, 1992",B.weight: 68.00,Group: A,1: 100,2: -106,3: -106,Total: 100,69kgMen,Snatch,415
-Rank: 5,NAZARI Zubair,AFG,"Born: Sep 30, 1999",B.weight: 68.35,Group: A,1: 85,2: -92,3: 92,Total: 92,69kgMen,Snatch,415
-Rank: 1,CHKHEIDZE Goga,GEO,"Born: Feb 11, 1996",B.weight: 68.70,Group: A,1: 160,2: 165,3: 170,Total: 170,69kgMen,CleanJerk,415
-Rank: 2,ALHAYEK Mohamad,SYR,"Born: Jan 18, 1993",B.weight: 68.05,Group: A,1: -135,2: 140,3: -145,Total: 140,69kgMen,CleanJerk,415
-Rank: 3,NADRIN Ezzeddin,SYR,"Born: Jan 01, 1992",B.weight: 68.00,Group: A,1: 125,2: 129,3: 132,Total: 132,69kgMen,CleanJerk,415
-Rank: 4,MD SALMAN Md,BAN,"Born: Sep 03, 1999",B.weight: 64.10,Group: A,1: 120,2: 128,3: 130,Total: 130,69kgMen,CleanJerk,415
-Rank: 5,NAZARI Zubair,AFG,"Born: Sep 30, 1999",B.weight: 68.35,Group: A,1: 110,2: -111,3: -120,Total: 110,69kgMen,CleanJerk,415
-Rank: 1,CHKHEIDZE Goga,GEO,"Born: Feb 11, 1996",B.weight: 68.70,Group: A,Snatch: 130,CI&Jerk: 170,Total: 300,,69kgMen,Total,415
-Rank: 2,ALHAYEK Mohamad,SYR,"Born: Jan 18, 1993",B.weight: 68.05,Group: A,Snatch: 107,CI&Jerk: 140,Total: 247,,69kgMen,Total,415
-Rank: 3,NADRIN Ezzeddin,SYR,"Born: Jan 01, 1992",B.weight: 68.00,Group: A,Snatch: 100,CI&Jerk: 132,Total: 232,,69kgMen,Total,415
-Rank: 4,MD SALMAN Md,BAN,"Born: Sep 03, 1999",B.weight: 64.10,Group: A,Snatch: 100,CI&Jerk: 130,Total: 230,,69kgMen,Total,415
-Rank: 5,NAZARI Zubair,AFG,"Born: Sep 30, 1999",B.weight: 68.35,Group: A,Snatch: 92,CI&Jerk: 110,Total: 202,,69kgMen,Total,415
-Rank: 1,ALIPOUR Mohammad Amin,IRI,"Born: Jun 08, 1997",B.weight: 76.10,Group: A,1: 127,2: 135,3: ---,Total: 135,77kgMen,Snatch,415
-Rank: 2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"Born: May 14, 1992",B.weight: 76.00,Group: A,1: -120,2: 120,3: -130,Total: 120,77kgMen,Snatch,415
-Rank: 3,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 75.15,Group: A,1: 110,2: 113,3: -116,Total: 113,77kgMen,Snatch,415
-Rank: 4,ADHIKARI Kamal Bahadur,NEP,"Born: Jul 20, 1977",B.weight: 75.60,Group: A,1: 105,2: -111,3: 111,Total: 111,77kgMen,Snatch,415
-Rank: 1,ALIPOUR Mohammad Amin,IRI,"Born: Jun 08, 1997",B.weight: 76.10,Group: A,1: 160,2: 170,3: -174,Total: 170,77kgMen,CleanJerk,415
-Rank: 2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"Born: May 14, 1992",B.weight: 76.00,Group: A,1: 152,2: 158,3: -165,Total: 158,77kgMen,CleanJerk,415
-Rank: 3,ADHIKARI Kamal Bahadur,NEP,"Born: Jul 20, 1977",B.weight: 75.60,Group: A,1: 147,2: 153,3: -161,Total: 153,77kgMen,CleanJerk,415
-Rank: 4,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 75.15,Group: A,1: 135,2: 140,3: -147,Total: 140,77kgMen,CleanJerk,415
-Rank: 1,ALIPOUR Mohammad Amin,IRI,"Born: Jun 08, 1997",B.weight: 76.10,Group: A,Snatch: 135,CI&Jerk: 170,Total: 305,,77kgMen,Total,415
-Rank: 2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"Born: May 14, 1992",B.weight: 76.00,Group: A,Snatch: 120,CI&Jerk: 158,Total: 278,,77kgMen,Total,415
-Rank: 3,ADHIKARI Kamal Bahadur,NEP,"Born: Jul 20, 1977",B.weight: 75.60,Group: A,Snatch: 111,CI&Jerk: 153,Total: 264,,77kgMen,Total,415
-Rank: 4,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 75.15,Group: A,Snatch: 113,CI&Jerk: 140,Total: 253,,77kgMen,Total,415
-Rank: 1,MAKVANDI Ali,IRI,"Born: Jun 24, 1995",B.weight: 84.00,Group: A,1: 145,2: -152,3: 152,Total: 152,85kgMen,Snatch,415
-Rank: 2,SHRESTHA Surendra,NEP,"Born: Feb 13, 1984",B.weight: 83.00,Group: A,1: -90,2: 90,3: -100,Total: 90,85kgMen,Snatch,415
-Rank: DSQ,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 83.00,Group: A,1: 110,2: 120,3: -131,Total: ---,85kgMen,Snatch,415
-Rank: 1,MAKVANDI Ali,IRI,"Born: Jun 24, 1995",B.weight: 84.00,Group: A,1: 185,2: 195,3: -201,Total: 195,85kgMen,CleanJerk,415
-Rank: 2,SHRESTHA Surendra,NEP,"Born: Feb 13, 1984",B.weight: 83.00,Group: A,1: 115,2: -125,3: 127,Total: 127,85kgMen,CleanJerk,415
-Rank: DSQ,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 83.00,Group: A,1: 140,2: ---,3: ---,Total: ---,85kgMen,CleanJerk,415
-Rank: 1,MAKVANDI Ali,IRI,"Born: Jun 24, 1995",B.weight: 84.00,Group: A,Snatch: 152,CI&Jerk: 195,Total: 347,,85kgMen,Total,415
-Rank: 2,SHRESTHA Surendra,NEP,"Born: Feb 13, 1984",B.weight: 83.00,Group: A,Snatch: 90,CI&Jerk: 127,Total: 217,,85kgMen,Total,415
-Rank: DSQ,SANGOV Asomuddin,TJK,"Born: Feb 03, 1989",B.weight: 83.00,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,85kgMen,Total,415
-Rank: 1,MOUSAVIJARAHI Seyedayoob,IRI,"Born: Apr 21, 1995",B.weight: 93.00,Group: A,1: 160,2: 165,3: 170,Total: 170,94kgMen,Snatch,415
-Rank: 2,OURAMEH Rahman,IRI,"Born: Nov 01, 1998",B.weight: 94.00,Group: A,1: 146,2: 155,3: 162,Total: 162,94kgMen,Snatch,415
-Rank: 3,HASAN Ali,YEM,"Born: Jan 01, 1995",B.weight: 87.00,Group: A,1: 70,2: 80,3: 85,Total: 85,94kgMen,Snatch,415
-Rank: 1,MOUSAVIJARAHI Seyedayoob,IRI,"Born: Apr 21, 1995",B.weight: 93.00,Group: A,1: 200,2: 210,3: -216,Total: 210,94kgMen,CleanJerk,415
-Rank: 2,OURAMEH Rahman,IRI,"Born: Nov 01, 1998",B.weight: 94.00,Group: A,1: 195,2: -206,3: 206,Total: 206,94kgMen,CleanJerk,415
-Rank: 3,HASAN Ali,YEM,"Born: Jan 01, 1995",B.weight: 87.00,Group: A,1: 90,2: 100,3: 110,Total: 110,94kgMen,CleanJerk,415
-Rank: 1,MOUSAVIJARAHI Seyedayoob,IRI,"Born: Apr 21, 1995",B.weight: 93.00,Group: A,Snatch: 170,CI&Jerk: 210,Total: 380,,94kgMen,Total,415
-Rank: 2,OURAMEH Rahman,IRI,"Born: Nov 01, 1998",B.weight: 94.00,Group: A,Snatch: 162,CI&Jerk: 206,Total: 368,,94kgMen,Total,415
-Rank: 3,HASAN Ali,YEM,"Born: Jan 01, 1995",B.weight: 87.00,Group: A,Snatch: 85,CI&Jerk: 110,Total: 195,,94kgMen,Total,415
-Rank: 1,NASIRI Reza,IRI,"Born: May 13, 1991",B.weight: 97.10,Group: A,1: 150,2: -156,3: 156,Total: 156,105kgMen,Snatch,415
-Rank: 2,GHORESHI Seyed Jalal,IRI,"Born: Jul 06, 1996",B.weight: 102.00,Group: A,1: -145,2: 145,3: -152,Total: 145,105kgMen,Snatch,415
-Rank: 3,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 94.10,Group: A,1: 100,2: -110,3: -110,Total: 100,105kgMen,Snatch,415
-Rank: 1,NASIRI Reza,IRI,"Born: May 13, 1991",B.weight: 97.10,Group: A,1: 182,2: 191,3: -204,Total: 191,105kgMen,CleanJerk,415
-Rank: 2,GHORESHI Seyed Jalal,IRI,"Born: Jul 06, 1996",B.weight: 102.00,Group: A,1: 190,2: -203,3: -203,Total: 190,105kgMen,CleanJerk,415
-Rank: 3,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 94.10,Group: A,1: 130,2: -143,3: -145,Total: 130,105kgMen,CleanJerk,415
-Rank: 1,NASIRI Reza,IRI,"Born: May 13, 1991",B.weight: 97.10,Group: A,Snatch: 156,CI&Jerk: 191,Total: 347,,105kgMen,Total,415
-Rank: 2,GHORESHI Seyed Jalal,IRI,"Born: Jul 06, 1996",B.weight: 102.00,Group: A,Snatch: 145,CI&Jerk: 190,Total: 335,,105kgMen,Total,415
-Rank: 3,RAZIQI Mirwais,AFG,"Born: Mar 21, 1991",B.weight: 94.10,Group: A,Snatch: 100,CI&Jerk: 130,Total: 230,,105kgMen,Total,415
-Rank: 1,CHKHEIDZE Giorgi,GEO,"Born: Oct 30, 1997",B.weight: 129.00,Group: A,1: 173,2: 180,3: -183,Total: 180,+105kgMen,Snatch,415
-Rank: 2,RAHBARINEJAD Milad,IRI,"Born: Sep 13, 1992",B.weight: 106.00,Group: A,1: 155,2: 165,3: 170,Total: 170,+105kgMen,Snatch,415
-Rank: 3,GURUNG Pukar,NEP,"Born: Nov 04, 1991",B.weight: 147.00,Group: A,1: 120,2: 126,3: -131,Total: 126,+105kgMen,Snatch,415
-Rank: DSQ,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,1: 125,2: 130,3: 133,Total: ---,+105kgMen,Snatch,415
-Rank: 1,CHKHEIDZE Giorgi,GEO,"Born: Oct 30, 1997",B.weight: 129.00,Group: A,1: 213,2: 220,3: -223,Total: 220,+105kgMen,CleanJerk,415
-Rank: 2,RAHBARINEJAD Milad,IRI,"Born: Sep 13, 1992",B.weight: 106.00,Group: A,1: 195,2: -212,3: 212,Total: 212,+105kgMen,CleanJerk,415
-Rank: 3,GURUNG Pukar,NEP,"Born: Nov 04, 1991",B.weight: 147.00,Group: A,1: 140,2: -145,3: -145,Total: 140,+105kgMen,CleanJerk,415
-Rank: DSQ,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,1: 160,2: 170,3: ---,Total: ---,+105kgMen,CleanJerk,415
-Rank: 1,CHKHEIDZE Giorgi,GEO,"Born: Oct 30, 1997",B.weight: 129.00,Group: A,Snatch: 180,CI&Jerk: 220,Total: 400,,+105kgMen,Total,415
-Rank: 2,RAHBARINEJAD Milad,IRI,"Born: Sep 13, 1992",B.weight: 106.00,Group: A,Snatch: 170,CI&Jerk: 212,Total: 382,,+105kgMen,Total,415
-Rank: 3,GURUNG Pukar,NEP,"Born: Nov 04, 1991",B.weight: 147.00,Group: A,Snatch: 126,CI&Jerk: 140,Total: 266,,+105kgMen,Total,415
-Rank: DSQ,TURKMAN Fazal Karim,AFG,"Born: Jun 01, 1998",B.weight: 143.00,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,+105kgMen,Total,415
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.95,A,-117,-117,117,117,62kgMen,Snatch,415,True
+2,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",61.95,A,101,105,107,107,62kgMen,Snatch,415,True
+3,NAKISAEI Mohsen,IRI,"Jul 06, 1992",61.80,A,91,98,105,105,62kgMen,Snatch,415,True
+4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Jan 02, 1997",61.00,A,90,97,-105,97,62kgMen,Snatch,415,True
+5,KRNAJAC Jovan,SRB,"Apr 29, 2002",60.00,A,80,87,-92,87,62kgMen,Snatch,415,True
+---,ISLAM Md Nayemul,BAN,"Jan 01, 2003",60.90,A,-100,-102,-102,---,62kgMen,Snatch,415,True
+DSQ,OYEV Sunatullo,TJK,"Jan 23, 1997",61.60,A,101,106,108,---,62kgMen,Snatch,415,True
+1,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",61.95,A,125,130,135,135,62kgMen,CleanJerk,415,True
+2,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.95,A,133,-145,-145,133,62kgMen,CleanJerk,415,True
+3,NAKISAEI Mohsen,IRI,"Jul 06, 1992",61.80,A,121,128,-132,128,62kgMen,CleanJerk,415,True
+4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Jan 02, 1997",61.00,A,120,127,-130,127,62kgMen,CleanJerk,415,True
+5,KRNAJAC Jovan,SRB,"Apr 29, 2002",60.00,A,100,105,-110,105,62kgMen,CleanJerk,415,True
+---,ISLAM Md Nayemul,BAN,"Jan 01, 2003",60.90,A,---,---,---,---,62kgMen,CleanJerk,415,True
+DSQ,OYEV Sunatullo,TJK,"Jan 23, 1997",61.60,A,121,127,-131,---,62kgMen,CleanJerk,415,True
+1,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.95,A,117,133,250,,62kgMen,Total,415,True
+2,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",61.95,A,107,135,242,,62kgMen,Total,415,True
+3,NAKISAEI Mohsen,IRI,"Jul 06, 1992",61.80,A,105,128,233,,62kgMen,Total,415,True
+4,ALMOHAMMAD ALJASSEM Jaber,SYR,"Jan 02, 1997",61.00,A,97,127,224,,62kgMen,Total,415,True
+5,KRNAJAC Jovan,SRB,"Apr 29, 2002",60.00,A,87,105,192,,62kgMen,Total,415,True
+---,ISLAM Md Nayemul,BAN,"Jan 01, 2003",60.90,A,---,---,---,,62kgMen,Total,415,True
+DSQ,OYEV Sunatullo,TJK,"Jan 23, 1997",61.60,A,---,---,---,,62kgMen,Total,415,True
+1,CHKHEIDZE Goga,GEO,"Feb 11, 1996",68.70,A,125,130,-133,130,69kgMen,Snatch,415,True
+2,ALHAYEK Mohamad,SYR,"Jan 18, 1993",68.05,A,107,-112,-114,107,69kgMen,Snatch,415,True
+3,MD SALMAN Md,BAN,"Sep 03, 1999",64.10,A,100,-105,-105,100,69kgMen,Snatch,415,True
+4,NADRIN Ezzeddin,SYR,"Jan 01, 1992",68.00,A,100,-106,-106,100,69kgMen,Snatch,415,True
+5,NAZARI Zubair,AFG,"Sep 30, 1999",68.35,A,85,-92,92,92,69kgMen,Snatch,415,True
+1,CHKHEIDZE Goga,GEO,"Feb 11, 1996",68.70,A,160,165,170,170,69kgMen,CleanJerk,415,True
+2,ALHAYEK Mohamad,SYR,"Jan 18, 1993",68.05,A,-135,140,-145,140,69kgMen,CleanJerk,415,True
+3,NADRIN Ezzeddin,SYR,"Jan 01, 1992",68.00,A,125,129,132,132,69kgMen,CleanJerk,415,True
+4,MD SALMAN Md,BAN,"Sep 03, 1999",64.10,A,120,128,130,130,69kgMen,CleanJerk,415,True
+5,NAZARI Zubair,AFG,"Sep 30, 1999",68.35,A,110,-111,-120,110,69kgMen,CleanJerk,415,True
+1,CHKHEIDZE Goga,GEO,"Feb 11, 1996",68.70,A,130,170,300,,69kgMen,Total,415,True
+2,ALHAYEK Mohamad,SYR,"Jan 18, 1993",68.05,A,107,140,247,,69kgMen,Total,415,True
+3,NADRIN Ezzeddin,SYR,"Jan 01, 1992",68.00,A,100,132,232,,69kgMen,Total,415,True
+4,MD SALMAN Md,BAN,"Sep 03, 1999",64.10,A,100,130,230,,69kgMen,Total,415,True
+5,NAZARI Zubair,AFG,"Sep 30, 1999",68.35,A,92,110,202,,69kgMen,Total,415,True
+1,ALIPOUR Mohammad Amin,IRI,"Jun 08, 1997",76.10,A,127,135,---,135,77kgMen,Snatch,415,True
+2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"May 14, 1992",76.00,A,-120,120,-130,120,77kgMen,Snatch,415,True
+3,ROY Manoranjan,BAN,"Jan 10, 1985",75.15,A,110,113,-116,113,77kgMen,Snatch,415,True
+4,ADHIKARI Kamal Bahadur,NEP,"Jul 20, 1977",75.60,A,105,-111,111,111,77kgMen,Snatch,415,True
+1,ALIPOUR Mohammad Amin,IRI,"Jun 08, 1997",76.10,A,160,170,-174,170,77kgMen,CleanJerk,415,True
+2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"May 14, 1992",76.00,A,152,158,-165,158,77kgMen,CleanJerk,415,True
+3,ADHIKARI Kamal Bahadur,NEP,"Jul 20, 1977",75.60,A,147,153,-161,153,77kgMen,CleanJerk,415,True
+4,ROY Manoranjan,BAN,"Jan 10, 1985",75.15,A,135,140,-147,140,77kgMen,CleanJerk,415,True
+1,ALIPOUR Mohammad Amin,IRI,"Jun 08, 1997",76.10,A,135,170,305,,77kgMen,Total,415,True
+2,MOHAMMAD ALJASSEM Mohammad Saed,SYR,"May 14, 1992",76.00,A,120,158,278,,77kgMen,Total,415,True
+3,ADHIKARI Kamal Bahadur,NEP,"Jul 20, 1977",75.60,A,111,153,264,,77kgMen,Total,415,True
+4,ROY Manoranjan,BAN,"Jan 10, 1985",75.15,A,113,140,253,,77kgMen,Total,415,True
+1,MAKVANDI Ali,IRI,"Jun 24, 1995",84.00,A,145,-152,152,152,85kgMen,Snatch,415,True
+2,SHRESTHA Surendra,NEP,"Feb 13, 1984",83.00,A,-90,90,-100,90,85kgMen,Snatch,415,True
+DSQ,SANGOV Asomuddin,TJK,"Feb 03, 1989",83.00,A,110,120,-131,---,85kgMen,Snatch,415,True
+1,MAKVANDI Ali,IRI,"Jun 24, 1995",84.00,A,185,195,-201,195,85kgMen,CleanJerk,415,True
+2,SHRESTHA Surendra,NEP,"Feb 13, 1984",83.00,A,115,-125,127,127,85kgMen,CleanJerk,415,True
+DSQ,SANGOV Asomuddin,TJK,"Feb 03, 1989",83.00,A,140,---,---,---,85kgMen,CleanJerk,415,True
+1,MAKVANDI Ali,IRI,"Jun 24, 1995",84.00,A,152,195,347,,85kgMen,Total,415,True
+2,SHRESTHA Surendra,NEP,"Feb 13, 1984",83.00,A,90,127,217,,85kgMen,Total,415,True
+DSQ,SANGOV Asomuddin,TJK,"Feb 03, 1989",83.00,A,---,---,---,,85kgMen,Total,415,True
+1,MOUSAVIJARAHI Seyedayoob,IRI,"Apr 21, 1995",93.00,A,160,165,170,170,94kgMen,Snatch,415,True
+2,OURAMEH Rahman,IRI,"Nov 01, 1998",94.00,A,146,155,162,162,94kgMen,Snatch,415,True
+3,HASAN Ali,YEM,"Jan 01, 1995",87.00,A,70,80,85,85,94kgMen,Snatch,415,True
+1,MOUSAVIJARAHI Seyedayoob,IRI,"Apr 21, 1995",93.00,A,200,210,-216,210,94kgMen,CleanJerk,415,True
+2,OURAMEH Rahman,IRI,"Nov 01, 1998",94.00,A,195,-206,206,206,94kgMen,CleanJerk,415,True
+3,HASAN Ali,YEM,"Jan 01, 1995",87.00,A,90,100,110,110,94kgMen,CleanJerk,415,True
+1,MOUSAVIJARAHI Seyedayoob,IRI,"Apr 21, 1995",93.00,A,170,210,380,,94kgMen,Total,415,True
+2,OURAMEH Rahman,IRI,"Nov 01, 1998",94.00,A,162,206,368,,94kgMen,Total,415,True
+3,HASAN Ali,YEM,"Jan 01, 1995",87.00,A,85,110,195,,94kgMen,Total,415,True
+1,NASIRI Reza,IRI,"May 13, 1991",97.10,A,150,-156,156,156,105kgMen,Snatch,415,True
+2,GHORESHI Seyed Jalal,IRI,"Jul 06, 1996",102.00,A,-145,145,-152,145,105kgMen,Snatch,415,True
+3,RAZIQI Mirwais,AFG,"Mar 21, 1991",94.10,A,100,-110,-110,100,105kgMen,Snatch,415,True
+1,NASIRI Reza,IRI,"May 13, 1991",97.10,A,182,191,-204,191,105kgMen,CleanJerk,415,True
+2,GHORESHI Seyed Jalal,IRI,"Jul 06, 1996",102.00,A,190,-203,-203,190,105kgMen,CleanJerk,415,True
+3,RAZIQI Mirwais,AFG,"Mar 21, 1991",94.10,A,130,-143,-145,130,105kgMen,CleanJerk,415,True
+1,NASIRI Reza,IRI,"May 13, 1991",97.10,A,156,191,347,,105kgMen,Total,415,True
+2,GHORESHI Seyed Jalal,IRI,"Jul 06, 1996",102.00,A,145,190,335,,105kgMen,Total,415,True
+3,RAZIQI Mirwais,AFG,"Mar 21, 1991",94.10,A,100,130,230,,105kgMen,Total,415,True
+1,CHKHEIDZE Giorgi,GEO,"Oct 30, 1997",129.00,A,173,180,-183,180,+105kgMen,Snatch,415,True
+2,RAHBARINEJAD Milad,IRI,"Sep 13, 1992",106.00,A,155,165,170,170,+105kgMen,Snatch,415,True
+3,GURUNG Pukar,NEP,"Nov 04, 1991",147.00,A,120,126,-131,126,+105kgMen,Snatch,415,True
+DSQ,TURKMAN Fazal Karim,AFG,"Jun 01, 1998",143.00,A,125,130,133,---,+105kgMen,Snatch,415,True
+1,CHKHEIDZE Giorgi,GEO,"Oct 30, 1997",129.00,A,213,220,-223,220,+105kgMen,CleanJerk,415,True
+2,RAHBARINEJAD Milad,IRI,"Sep 13, 1992",106.00,A,195,-212,212,212,+105kgMen,CleanJerk,415,True
+3,GURUNG Pukar,NEP,"Nov 04, 1991",147.00,A,140,-145,-145,140,+105kgMen,CleanJerk,415,True
+DSQ,TURKMAN Fazal Karim,AFG,"Jun 01, 1998",143.00,A,160,170,---,---,+105kgMen,CleanJerk,415,True
+1,CHKHEIDZE Giorgi,GEO,"Oct 30, 1997",129.00,A,180,220,400,,+105kgMen,Total,415,True
+2,RAHBARINEJAD Milad,IRI,"Sep 13, 1992",106.00,A,170,212,382,,+105kgMen,Total,415,True
+3,GURUNG Pukar,NEP,"Nov 04, 1991",147.00,A,126,140,266,,+105kgMen,Total,415,True
+DSQ,TURKMAN Fazal Karim,AFG,"Jun 01, 1998",143.00,A,---,---,---,,+105kgMen,Total,415,True

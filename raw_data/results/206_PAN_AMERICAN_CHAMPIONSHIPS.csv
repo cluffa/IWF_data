@@ -1,613 +1,613 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,RADA RODRIGUEZ Sergio Armando,COL,"Born: Jan 27, 1984",B.weight: 55.84,Group: A,1: -118,2: 118,3: 122,Total: 122,56kgMen,Snatch,206
-Rank: 2,DE LAS SALAS DE LA ROSA Habib,COL,"Born: Apr 19, 1987",B.weight: 55.67,Group: A,1: 118,2: -121,3: -121,Total: 118,56kgMen,Snatch,206
-Rank: 3,MONTES GONGORA Jose Lino,MEX,"Born: Apr 18, 1989",B.weight: 55.61,Group: A,1: 108,2: 115,3: -118,Total: 115,56kgMen,Snatch,206
-Rank: 4,ROMERO Yasmani,CUB,"Born: Sep 26, 1988",B.weight: 55.93,Group: A,1: 110,2: -115,3: -118,Total: 110,56kgMen,Snatch,206
-Rank: 5,PRADO GUILLEN Juan Manuel,VEN,"Born: Aug 07, 1994",B.weight: 55.60,Group: B,1: 100,2: -104,3: 104,Total: 104,56kgMen,Snatch,206
-Rank: 6,BRITO COBO Sebastian Ruben,GUA,"Born: May 01, 1992",B.weight: 55.89,Group: B,1: 92,2: 97,3: 101,Total: 101,56kgMen,Snatch,206
-Rank: 7,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.70,Group: B,1: 94,2: 98,3: 100,Total: 100,56kgMen,Snatch,206
-Rank: 8,BARRERA SANDOVAL Francisco Javier,CHI,"Born: May 14, 1987",B.weight: 55.72,Group: A,1: 95,2: 100,3: -103,Total: 100,56kgMen,Snatch,206
-Rank: 9,MARTINEZ Jordanlee Fabrizzio,CHI,"Born: Sep 23, 1994",B.weight: 55.27,Group: B,1: 90,2: 94,3: 96,Total: 96,56kgMen,Snatch,206
-Rank: 10,SABOYA FASABI Wilder,PER,"Born: Jul 22, 1992",B.weight: 54.74,Group: B,1: 85,2: - 88,3: 88,Total: 88,56kgMen,Snatch,206
-Rank: 11,CARABALLO Ariel,PUR,"Born: Oct 11, 1989",B.weight: 55.14,Group: B,1: 87,2: - 92,3: - 92,Total: 87,56kgMen,Snatch,206
-Rank: 12,LOPEZ LOPEZ Pablo Ernesto,ESA,"Born: Jan 08, 1991",B.weight: 55.36,Group: B,1: 80,2: 85,3: 87,Total: 87,56kgMen,Snatch,206
-Rank: 13,ROJAS CONCHA Marcos Antonio,PER,"Born: Jun 02, 1995",B.weight: 54.82,Group: B,1: 80,2: 85,3: - 88,Total: 85,56kgMen,Snatch,206
-Rank: ---,LOPEZ AQUINO Marvin,ESA,"Born: Sep 14, 1980",B.weight: 55.76,Group: A,1: -105,2: -105,3: -105,Total: ---,56kgMen,Snatch,206
-Rank: 1,MONTES GONGORA Jose Lino,MEX,"Born: Apr 18, 1989",B.weight: 55.61,Group: A,1: 140,2: 150,3: 156,Total: 156,56kgMen,CleanJerk,206
-Rank: 2,RADA RODRIGUEZ Sergio Armando,COL,"Born: Jan 27, 1984",B.weight: 55.84,Group: A,1: 147,2: 152,3: -155,Total: 152,56kgMen,CleanJerk,206
-Rank: 3,ROMERO Yasmani,CUB,"Born: Sep 26, 1988",B.weight: 55.93,Group: A,1: 142,2: 147,3: -150,Total: 147,56kgMen,CleanJerk,206
-Rank: 4,LOPEZ AQUINO Marvin,ESA,"Born: Sep 14, 1980",B.weight: 55.76,Group: A,1: 130,2: -135,3: 135,Total: 135,56kgMen,CleanJerk,206
-Rank: 5,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.70,Group: B,1: 122,2: 129,3: 133,Total: 133,56kgMen,CleanJerk,206
-Rank: 6,BARRERA SANDOVAL Francisco Javier,CHI,"Born: May 14, 1987",B.weight: 55.72,Group: A,1: 125,2: 130,3: -136,Total: 130,56kgMen,CleanJerk,206
-Rank: 7,BRITO COBO Sebastian Ruben,GUA,"Born: May 01, 1992",B.weight: 55.89,Group: B,1: 123,2: 127,3: -130,Total: 127,56kgMen,CleanJerk,206
-Rank: 8,PRADO GUILLEN Juan Manuel,VEN,"Born: Aug 07, 1994",B.weight: 55.60,Group: B,1: 121,2: 125,3: -130,Total: 125,56kgMen,CleanJerk,206
-Rank: 9,SABOYA FASABI Wilder,PER,"Born: Jul 22, 1992",B.weight: 54.74,Group: B,1: 115,2: 120,3: -123,Total: 120,56kgMen,CleanJerk,206
-Rank: 10,ROJAS CONCHA Marcos Antonio,PER,"Born: Jun 02, 1995",B.weight: 54.82,Group: B,1: 110,2: 115,3: 117,Total: 117,56kgMen,CleanJerk,206
-Rank: 11,CARABALLO Ariel,PUR,"Born: Oct 11, 1989",B.weight: 55.14,Group: B,1: -113,2: -115,3: 115,Total: 115,56kgMen,CleanJerk,206
-Rank: 12,LOPEZ LOPEZ Pablo Ernesto,ESA,"Born: Jan 08, 1991",B.weight: 55.36,Group: B,1: 100,2: 105,3: 107,Total: 107,56kgMen,CleanJerk,206
-Rank: ---,MARTINEZ Jordanlee Fabrizzio,CHI,"Born: Sep 23, 1994",B.weight: 55.27,Group: B,1: -115,2: -119,3: -119,Total: ---,56kgMen,CleanJerk,206
-Rank: ---,DE LAS SALAS DE LA ROSA Habib,COL,"Born: Apr 19, 1987",B.weight: 55.67,Group: A,1: -150,2: -150,3: -150,Total: ---,56kgMen,CleanJerk,206
-Rank: 1,RADA RODRIGUEZ Sergio Armando,COL,"Born: Jan 27, 1984",B.weight: 55.84,Group: A,Snatch: 122,CI&Jerk: 152,Total: 274,,56kgMen,Total,206
-Rank: 2,MONTES GONGORA Jose Lino,MEX,"Born: Apr 18, 1989",B.weight: 55.61,Group: A,Snatch: 115,CI&Jerk: 156,Total: 271,,56kgMen,Total,206
-Rank: 3,ROMERO Yasmani,CUB,"Born: Sep 26, 1988",B.weight: 55.93,Group: A,Snatch: 110,CI&Jerk: 147,Total: 257,,56kgMen,Total,206
-Rank: 4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Born: Aug 17, 1992",B.weight: 54.70,Group: B,Snatch: 100,CI&Jerk: 133,Total: 233,,56kgMen,Total,206
-Rank: 5,BARRERA SANDOVAL Francisco Javier,CHI,"Born: May 14, 1987",B.weight: 55.72,Group: A,Snatch: 100,CI&Jerk: 130,Total: 230,,56kgMen,Total,206
-Rank: 6,PRADO GUILLEN Juan Manuel,VEN,"Born: Aug 07, 1994",B.weight: 55.60,Group: B,Snatch: 104,CI&Jerk: 125,Total: 229,,56kgMen,Total,206
-Rank: 7,BRITO COBO Sebastian Ruben,GUA,"Born: May 01, 1992",B.weight: 55.89,Group: B,Snatch: 101,CI&Jerk: 127,Total: 228,,56kgMen,Total,206
-Rank: 8,SABOYA FASABI Wilder,PER,"Born: Jul 22, 1992",B.weight: 54.74,Group: B,Snatch: 88,CI&Jerk: 120,Total: 208,,56kgMen,Total,206
-Rank: 9,ROJAS CONCHA Marcos Antonio,PER,"Born: Jun 02, 1995",B.weight: 54.82,Group: B,Snatch: 85,CI&Jerk: 117,Total: 202,,56kgMen,Total,206
-Rank: 10,CARABALLO Ariel,PUR,"Born: Oct 11, 1989",B.weight: 55.14,Group: B,Snatch: 87,CI&Jerk: 115,Total: 202,,56kgMen,Total,206
-Rank: 11,LOPEZ LOPEZ Pablo Ernesto,ESA,"Born: Jan 08, 1991",B.weight: 55.36,Group: B,Snatch: 87,CI&Jerk: 107,Total: 194,,56kgMen,Total,206
-Rank: ---,MARTINEZ Jordanlee Fabrizzio,CHI,"Born: Sep 23, 1994",B.weight: 55.27,Group: B,Snatch: 96,CI&Jerk: ---,Total: ---,,56kgMen,Total,206
-Rank: ---,LOPEZ AQUINO Marvin,ESA,"Born: Sep 14, 1980",B.weight: 55.76,Group: A,Snatch: ---,CI&Jerk: 135,Total: ---,,56kgMen,Total,206
-Rank: ---,DE LAS SALAS DE LA ROSA Habib,COL,"Born: Apr 19, 1987",B.weight: 55.67,Group: A,Snatch: 118,CI&Jerk: ---,Total: ---,,56kgMen,Total,206
-Rank: 1,LOPEZ SANCHEZ Jesus Antonio,VEN,"Born: Dec 17, 1984",B.weight: 61.64,Group: A,1: 125,2: -130,3: -130,Total: 125,62kgMen,Snatch,206
-Rank: 2,SALAMANCA PINEDA Julio Cesar,ESA,"Born: Jul 15, 1989",B.weight: 61.19,Group: A,1: 118,2: 122,3: -125,Total: 122,62kgMen,Snatch,206
-Rank: 3,HERRERA CEPEDA Erik Elvis,ECU,"Born: Jul 28, 1994",B.weight: 61.35,Group: C,1: 109,2: 113,3: 117,Total: 117,62kgMen,Snatch,206
-Rank: 4,VASQUEZ VEGAS Edwar Jose,VEN,"Born: Jun 28, 1993",B.weight: 61.60,Group: B,1: 112,2: 117,3: -120,Total: 117,62kgMen,Snatch,206
-Rank: 5,REYES Edwin,DOM,"Born: Nov 03, 1992",B.weight: 61.95,Group: B,1: 109,2: 113,3: 115,Total: 115,62kgMen,Snatch,206
-Rank: 6,LORENZO PEREZ Julian Alberto,GUA,"Born: Jun 18, 1989",B.weight: 61.66,Group: B,1: -108,2: -108,3: 108,Total: 108,62kgMen,Snatch,206
-Rank: 7,PEC Tunche Wellinton,GUA,"Born: Dec 01, 1987",B.weight: 61.34,Group: B,1: 103,2: -106,3: 106,Total: 106,62kgMen,Snatch,206
-Rank: 8,AQUINO GOMEZ Robinson,PER,"Born: Oct 07, 1994",B.weight: 61.87,Group: C,1: 98,2: 101,3: 103,Total: 103,62kgMen,Snatch,206
-Rank: 9,PRECIADO REYES Miguel Angel,PER,"Born: Nov 03, 1994",B.weight: 61.64,Group: C,1: 95,2: 100,3: 102,Total: 102,62kgMen,Snatch,206
-Rank: 10,CARLOS RUBEN Negron Torres,PUR,"Born: Feb 05, 1992",B.weight: 61.73,Group: C,1: 100,2: -104,3: -104,Total: 100,62kgMen,Snatch,206
-Rank: 11,FLORES Edenilson,ESA,"Born: Jun 25, 1994",B.weight: 60.50,Group: C,1: 75,2: 80,3: - 85,Total: 80,62kgMen,Snatch,206
-Rank: 1,SALAMANCA PINEDA Julio Cesar,ESA,"Born: Jul 15, 1989",B.weight: 61.19,Group: A,1: 155,2: 158,3: 160,Total: 160,62kgMen,CleanJerk,206
-Rank: 2,LOPEZ SANCHEZ Jesus Antonio,VEN,"Born: Dec 17, 1984",B.weight: 61.64,Group: A,1: 150,2: 160,3: -167,Total: 160,62kgMen,CleanJerk,206
-Rank: 3,PEC Tunche Wellinton,GUA,"Born: Dec 01, 1987",B.weight: 61.34,Group: B,1: 145,2: 150,3: -152,Total: 150,62kgMen,CleanJerk,206
-Rank: 4,VASQUEZ VEGAS Edwar Jose,VEN,"Born: Jun 28, 1993",B.weight: 61.60,Group: B,1: 141,2: 147,3: -152,Total: 147,62kgMen,CleanJerk,206
-Rank: 5,HERRERA CEPEDA Erik Elvis,ECU,"Born: Jul 28, 1994",B.weight: 61.35,Group: C,1: 137,2: 142,3: 146,Total: 146,62kgMen,CleanJerk,206
-Rank: 6,LORENZO PEREZ Julian Alberto,GUA,"Born: Jun 18, 1989",B.weight: 61.66,Group: B,1: 136,2: 141,3: -145,Total: 141,62kgMen,CleanJerk,206
-Rank: 7,REYES Edwin,DOM,"Born: Nov 03, 1992",B.weight: 61.95,Group: B,1: 131,2: 136,3: 138,Total: 138,62kgMen,CleanJerk,206
-Rank: 8,AQUINO GOMEZ Robinson,PER,"Born: Oct 07, 1994",B.weight: 61.87,Group: C,1: 130,2: -135,3: -135,Total: 130,62kgMen,CleanJerk,206
-Rank: 9,PRECIADO REYES Miguel Angel,PER,"Born: Nov 03, 1994",B.weight: 61.64,Group: C,1: 118,2: 123,3: 126,Total: 126,62kgMen,CleanJerk,206
-Rank: 10,CARLOS RUBEN Negron Torres,PUR,"Born: Feb 05, 1992",B.weight: 61.73,Group: C,1: 115,2: 120,3: -123,Total: 120,62kgMen,CleanJerk,206
-Rank: 11,FLORES Edenilson,ESA,"Born: Jun 25, 1994",B.weight: 60.50,Group: C,1: 104,2: 110,3: -115,Total: 110,62kgMen,CleanJerk,206
-Rank: 1,LOPEZ SANCHEZ Jesus Antonio,VEN,"Born: Dec 17, 1984",B.weight: 61.64,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,62kgMen,Total,206
-Rank: 2,SALAMANCA PINEDA Julio Cesar,ESA,"Born: Jul 15, 1989",B.weight: 61.19,Group: A,Snatch: 122,CI&Jerk: 160,Total: 282,,62kgMen,Total,206
-Rank: 3,VASQUEZ VEGAS Edwar Jose,VEN,"Born: Jun 28, 1993",B.weight: 61.60,Group: B,Snatch: 117,CI&Jerk: 147,Total: 264,,62kgMen,Total,206
-Rank: 4,HERRERA CEPEDA Erik Elvis,ECU,"Born: Jul 28, 1994",B.weight: 61.35,Group: C,Snatch: 117,CI&Jerk: 146,Total: 263,,62kgMen,Total,206
-Rank: 5,PEC Tunche Wellinton,GUA,"Born: Dec 01, 1987",B.weight: 61.34,Group: B,Snatch: 106,CI&Jerk: 150,Total: 256,,62kgMen,Total,206
-Rank: 6,REYES Edwin,DOM,"Born: Nov 03, 1992",B.weight: 61.95,Group: B,Snatch: 115,CI&Jerk: 138,Total: 253,,62kgMen,Total,206
-Rank: 7,LORENZO PEREZ Julian Alberto,GUA,"Born: Jun 18, 1989",B.weight: 61.66,Group: B,Snatch: 108,CI&Jerk: 141,Total: 249,,62kgMen,Total,206
-Rank: 8,AQUINO GOMEZ Robinson,PER,"Born: Oct 07, 1994",B.weight: 61.87,Group: C,Snatch: 103,CI&Jerk: 130,Total: 233,,62kgMen,Total,206
-Rank: 9,PRECIADO REYES Miguel Angel,PER,"Born: Nov 03, 1994",B.weight: 61.64,Group: C,Snatch: 102,CI&Jerk: 126,Total: 228,,62kgMen,Total,206
-Rank: 10,CARLOS RUBEN Negron Torres,PUR,"Born: Feb 05, 1992",B.weight: 61.73,Group: C,Snatch: 100,CI&Jerk: 120,Total: 220,,62kgMen,Total,206
-Rank: 11,FLORES Edenilson,ESA,"Born: Jun 25, 1994",B.weight: 60.50,Group: C,Snatch: 80,CI&Jerk: 110,Total: 190,,62kgMen,Total,206
-Rank: 1,SANCHEZ RIVERO Junior Antonio,VEN,"Born: Jun 01, 1989",B.weight: 68.57,Group: A,1: 142,2: 146,3: 149,Total: 149,69kgMen,Snatch,206
-Rank: 2,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Born: Apr 27, 1983",B.weight: 64.35,Group: A,1: 137,2: 142,3: 145,Total: 145,69kgMen,Snatch,206
-Rank: 3,MARQUEZ ONA Ediel,CUB,"Born: Nov 13, 1993",B.weight: 67.40,Group: B,1: 132,2: 137,3: 140,Total: 140,69kgMen,Snatch,206
-Rank: 4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Born: Sep 18, 1988",B.weight: 68.31,Group: B,1: 130,2: -135,3: 135,Total: 135,69kgMen,Snatch,206
-Rank: 5,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Born: Oct 12, 1988",B.weight: 68.52,Group: A,1: 135,2: -138,3: -138,Total: 135,69kgMen,Snatch,206
-Rank: 6,VALDIZON CORONADO Oscar Fernando,GUA,"Born: Jun 12, 1989",B.weight: 68.75,Group: B,1: 127,2: 132,3: -137,Total: 132,69kgMen,Snatch,206
-Rank: 7,DELGADO GAMBOA Martin Gabriel,VEN,"Born: Feb 04, 1993",B.weight: 68.05,Group: B,1: -125,2: 130,3: -134,Total: 130,69kgMen,Snatch,206
-Rank: 8,CATALAN Hugo Ivan,ARG,"Born: Jan 13, 1986",B.weight: 68.46,Group: B,1: 124,2: 128,3: 130,Total: 130,69kgMen,Snatch,206
-Rank: 9,GAYTAN VALDEZ Martin Israel,MEX,"Born: Jan 09, 1991",B.weight: 68.03,Group: B,1: 123,2: 127,3: -130,Total: 127,69kgMen,Snatch,206
-Rank: 10,CORTES Jose,CHI,"Born: Feb 14, 1991",B.weight: 67.63,Group: B,1: -115,2: 115,3: 119,Total: 119,69kgMen,Snatch,206
-Rank: 11,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 66.88,Group: C,1: 112,2: -117,3: 117,Total: 117,69kgMen,Snatch,206
-Rank: 12,RIVERA MARTINEZ Jesus J.,PUR,"Born: Mar 13, 1987",B.weight: 66.99,Group: C,1: 112,2: -116,3: 116,Total: 116,69kgMen,Snatch,206
-Rank: 13,CHENIER Francois,CAN,"Born: Jan 19, 1990",B.weight: 68.39,Group: C,1: 112,2: 116,3: -118,Total: 116,69kgMen,Snatch,206
-Rank: 14,MENDOZA GARCIA David Aurelio,HON,"Born: Jun 21, 1986",B.weight: 68.42,Group: C,1: 110,2: 115,3: -117,Total: 115,69kgMen,Snatch,206
-Rank: 15,BIBEAU-VILLIARD Philippe,CAN,"Born: Dec 27, 1987",B.weight: 68.75,Group: C,1: 111,2: -115,3: 115,Total: 115,69kgMen,Snatch,206
-Rank: 16,FEIJOO PEREZ Joanmanuel Dario,PER,"Born: Aug 05, 1993",B.weight: 68.72,Group: C,1: 110,2: 113,3: -115,Total: 113,69kgMen,Snatch,206
-Rank: 17,ASCENCIO QUEZADA Albert Enrique,ESA,"Born: Feb 10, 1988",B.weight: 68.65,Group: B,1: -110,2: 110,3: -118,Total: 110,69kgMen,Snatch,206
-Rank: 18,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Born: Apr 04, 1995",B.weight: 65.48,Group: C,1: 95,2: 100,3: -102,Total: 100,69kgMen,Snatch,206
-Rank: 1,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Born: Apr 27, 1983",B.weight: 64.35,Group: A,1: 175,2: 180,3: 185,Total: 185,69kgMen,CleanJerk,206
-Rank: 2,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Born: Oct 12, 1988",B.weight: 68.52,Group: A,1: 175,2: -180,3: 180,Total: 180,69kgMen,CleanJerk,206
-Rank: 3,SANCHEZ RIVERO Junior Antonio,VEN,"Born: Jun 01, 1989",B.weight: 68.57,Group: A,1: 170,2: 174,3: -180,Total: 174,69kgMen,CleanJerk,206
-Rank: 4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Born: Sep 18, 1988",B.weight: 68.31,Group: B,1: 158,2: 162,3: 168,Total: 168,69kgMen,CleanJerk,206
-Rank: 5,VALDIZON CORONADO Oscar Fernando,GUA,"Born: Jun 12, 1989",B.weight: 68.75,Group: B,1: 162,2: 166,3: -170,Total: 166,69kgMen,CleanJerk,206
-Rank: 6,MARQUEZ ONA Ediel,CUB,"Born: Nov 13, 1993",B.weight: 67.40,Group: B,1: -158,2: 158,3: 162,Total: 162,69kgMen,CleanJerk,206
-Rank: 7,CATALAN Hugo Ivan,ARG,"Born: Jan 13, 1986",B.weight: 68.46,Group: B,1: 148,2: 151,3: 156,Total: 156,69kgMen,CleanJerk,206
-Rank: 8,CORTES Jose,CHI,"Born: Feb 14, 1991",B.weight: 67.63,Group: B,1: 142,2: 147,3: 151,Total: 151,69kgMen,CleanJerk,206
-Rank: 9,GAYTAN VALDEZ Martin Israel,MEX,"Born: Jan 09, 1991",B.weight: 68.03,Group: B,1: 143,2: 150,3: -157,Total: 150,69kgMen,CleanJerk,206
-Rank: 10,DELGADO GAMBOA Martin Gabriel,VEN,"Born: Feb 04, 1993",B.weight: 68.05,Group: B,1: 150,2: -155,3: -156,Total: 150,69kgMen,CleanJerk,206
-Rank: 11,ASCENCIO QUEZADA Albert Enrique,ESA,"Born: Feb 10, 1988",B.weight: 68.65,Group: B,1: 150,2: -155,3: -155,Total: 150,69kgMen,CleanJerk,206
-Rank: 12,FEIJOO PEREZ Joanmanuel Dario,PER,"Born: Aug 05, 1993",B.weight: 68.72,Group: C,1: 143,2: 147,3: 150,Total: 150,69kgMen,CleanJerk,206
-Rank: 13,CHENIER Francois,CAN,"Born: Jan 19, 1990",B.weight: 68.39,Group: C,1: 142,2: -146,3: 149,Total: 149,69kgMen,CleanJerk,206
-Rank: 14,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 66.88,Group: C,1: 142,2: 147,3: -150,Total: 147,69kgMen,CleanJerk,206
-Rank: 15,RIVERA MARTINEZ Jesus J.,PUR,"Born: Mar 13, 1987",B.weight: 66.99,Group: C,1: 143,2: -148,3: -148,Total: 143,69kgMen,CleanJerk,206
-Rank: 16,BIBEAU-VILLIARD Philippe,CAN,"Born: Dec 27, 1987",B.weight: 68.75,Group: C,1: 139,2: -143,3: 143,Total: 143,69kgMen,CleanJerk,206
-Rank: 17,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Born: Apr 04, 1995",B.weight: 65.48,Group: C,1: 127,2: 132,3: 135,Total: 135,69kgMen,CleanJerk,206
-Rank: ---,MENDOZA GARCIA David Aurelio,HON,"Born: Jun 21, 1986",B.weight: 68.42,Group: C,1: -145,2: -145,3: -145,Total: ---,69kgMen,CleanJerk,206
-Rank: 1,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Born: Apr 27, 1983",B.weight: 64.35,Group: A,Snatch: 145,CI&Jerk: 185,Total: 330,,69kgMen,Total,206
-Rank: 2,SANCHEZ RIVERO Junior Antonio,VEN,"Born: Jun 01, 1989",B.weight: 68.57,Group: A,Snatch: 149,CI&Jerk: 174,Total: 323,,69kgMen,Total,206
-Rank: 3,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Born: Oct 12, 1988",B.weight: 68.52,Group: A,Snatch: 135,CI&Jerk: 180,Total: 315,,69kgMen,Total,206
-Rank: 4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Born: Sep 18, 1988",B.weight: 68.31,Group: B,Snatch: 135,CI&Jerk: 168,Total: 303,,69kgMen,Total,206
-Rank: 5,MARQUEZ ONA Ediel,CUB,"Born: Nov 13, 1993",B.weight: 67.40,Group: B,Snatch: 140,CI&Jerk: 162,Total: 302,,69kgMen,Total,206
-Rank: 6,VALDIZON CORONADO Oscar Fernando,GUA,"Born: Jun 12, 1989",B.weight: 68.75,Group: B,Snatch: 132,CI&Jerk: 166,Total: 298,,69kgMen,Total,206
-Rank: 7,CATALAN Hugo Ivan,ARG,"Born: Jan 13, 1986",B.weight: 68.46,Group: B,Snatch: 130,CI&Jerk: 156,Total: 286,,69kgMen,Total,206
-Rank: 8,DELGADO GAMBOA Martin Gabriel,VEN,"Born: Feb 04, 1993",B.weight: 68.05,Group: B,Snatch: 130,CI&Jerk: 150,Total: 280,,69kgMen,Total,206
-Rank: 9,GAYTAN VALDEZ Martin Israel,MEX,"Born: Jan 09, 1991",B.weight: 68.03,Group: B,Snatch: 127,CI&Jerk: 150,Total: 277,,69kgMen,Total,206
-Rank: 10,CORTES Jose,CHI,"Born: Feb 14, 1991",B.weight: 67.63,Group: B,Snatch: 119,CI&Jerk: 151,Total: 270,,69kgMen,Total,206
-Rank: 11,CHENIER Francois,CAN,"Born: Jan 19, 1990",B.weight: 68.39,Group: C,Snatch: 116,CI&Jerk: 149,Total: 265,,69kgMen,Total,206
-Rank: 12,LANDRO RAMOS Luis G.,PUR,"Born: Dec 01, 1990",B.weight: 66.88,Group: C,Snatch: 117,CI&Jerk: 147,Total: 264,,69kgMen,Total,206
-Rank: 13,FEIJOO PEREZ Joanmanuel Dario,PER,"Born: Aug 05, 1993",B.weight: 68.72,Group: C,Snatch: 113,CI&Jerk: 150,Total: 263,,69kgMen,Total,206
-Rank: 14,ASCENCIO QUEZADA Albert Enrique,ESA,"Born: Feb 10, 1988",B.weight: 68.65,Group: B,Snatch: 110,CI&Jerk: 150,Total: 260,,69kgMen,Total,206
-Rank: 15,RIVERA MARTINEZ Jesus J.,PUR,"Born: Mar 13, 1987",B.weight: 66.99,Group: C,Snatch: 116,CI&Jerk: 143,Total: 259,,69kgMen,Total,206
-Rank: 16,BIBEAU-VILLIARD Philippe,CAN,"Born: Dec 27, 1987",B.weight: 68.75,Group: C,Snatch: 115,CI&Jerk: 143,Total: 258,,69kgMen,Total,206
-Rank: 17,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Born: Apr 04, 1995",B.weight: 65.48,Group: C,Snatch: 100,CI&Jerk: 135,Total: 235,,69kgMen,Total,206
-Rank: ---,MENDOZA GARCIA David Aurelio,HON,"Born: Jun 21, 1986",B.weight: 68.42,Group: C,Snatch: 115,CI&Jerk: ---,Total: ---,,69kgMen,Total,206
-Rank: 1,VILLA CUERO Jhon Edison,COL,"Born: Oct 12, 1988",B.weight: 75.30,Group: A,1: 154,2: -157,3: -157,Total: 154,77kgMen,Snatch,206
-Rank: 2,ANDICA ANDICA Yony Alexander,COL,"Born: Aug 26, 1987",B.weight: 75.47,Group: A,1: 145,2: -149,3: 149,Total: 149,77kgMen,Snatch,206
-Rank: 3,CAMBAR RODRIGUEZ Ivan,CUB,"Born: Dec 29, 1983",B.weight: 76.84,Group: B,1: 137,2: 143,3: 146,Total: 146,77kgMen,Snatch,206
-Rank: 4,ROMAN LAGUNA Domingo Rodrigo,MEX,"Born: Mar 13, 1990",B.weight: 74.25,Group: B,1: 130,2: 137,3: 142,Total: 142,77kgMen,Snatch,206
-Rank: 5,ROSA DA SILVA Welisson,BRA,"Born: Nov 22, 1983",B.weight: 76.51,Group: B,1: 130,2: 137,3: 142,Total: 142,77kgMen,Snatch,206
-Rank: 6,SAURI CRUZ Carlos,PUR,"Born: Jun 21, 1974",B.weight: 76.62,Group: B,1: 130,2: -137,3: 140,Total: 140,77kgMen,Snatch,206
-Rank: 7,PENA MEJIA Juan Jesus,DOM,"Born: Dec 15, 1992",B.weight: 74.35,Group: B,1: -132,2: 132,3: 138,Total: 138,77kgMen,Snatch,206
-Rank: 8,CERBUS Michael Frazier,USA,"Born: Sep 23, 1986",B.weight: 76.17,Group: C,1: 130,2: -135,3: 135,Total: 135,77kgMen,Snatch,206
-Rank: 9,VIQUEZ QUIROZ Maximo,PAN,"Born: Feb 12, 1982",B.weight: 74.59,Group: C,1: -127,2: 127,3: 132,Total: 132,77kgMen,Snatch,206
-Rank: 10,LOPEZ FARIAS Bastian Andres,CHI,"Born: Sep 26, 1995",B.weight: 74.99,Group: B,1: 122,2: -127,3: 130,Total: 130,77kgMen,Snatch,206
-Rank: 11,PLAMONDON Pascal,CAN,"Born: Dec 12, 1992",B.weight: 76.56,Group: C,1: 123,2: 127,3: 130,Total: 130,77kgMen,Snatch,206
-Rank: 12,MONCADA LOPEZ Antonio Ramon,HON,"Born: Oct 21, 1981",B.weight: 76.61,Group: C,1: -120,2: 120,3: -125,Total: 120,77kgMen,Snatch,206
-Rank: 13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Born: Jul 20, 1982",B.weight: 72.56,Group: C,1: 115,2: -118,3: 118,Total: 118,77kgMen,Snatch,206
-Rank: 14,FLORES MUNOZ Kevin Andres,HON,"Born: Apr 04, 1990",B.weight: 73.42,Group: C,1: 115,2: -116,3: -125,Total: 115,77kgMen,Snatch,206
-Rank: 15,PENA HURTADO Eddi Fernando,NCA,"Born: Dec 29, 1979",B.weight: 73.43,Group: C,1: 107,2: -112,3: 112,Total: 112,77kgMen,Snatch,206
-Rank: ---,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 74.67,Group: C,1: -122,2: -122,3: -123,Total: ---,77kgMen,Snatch,206
-Rank: 1,ANDICA ANDICA Yony Alexander,COL,"Born: Aug 26, 1987",B.weight: 75.47,Group: A,1: 180,2: 188,3: -190,Total: 188,77kgMen,CleanJerk,206
-Rank: 2,VILLA CUERO Jhon Edison,COL,"Born: Oct 12, 1988",B.weight: 75.30,Group: A,1: 177,2: 180,3: 182,Total: 182,77kgMen,CleanJerk,206
-Rank: 3,CAMBAR RODRIGUEZ Ivan,CUB,"Born: Dec 29, 1983",B.weight: 76.84,Group: B,1: 170,2: 177,3: 180,Total: 180,77kgMen,CleanJerk,206
-Rank: 4,ROSA DA SILVA Welisson,BRA,"Born: Nov 22, 1983",B.weight: 76.51,Group: B,1: 170,2: 175,3: -180,Total: 175,77kgMen,CleanJerk,206
-Rank: 5,PENA MEJIA Juan Jesus,DOM,"Born: Dec 15, 1992",B.weight: 74.35,Group: B,1: 167,2: 174,3: -179,Total: 174,77kgMen,CleanJerk,206
-Rank: 6,ROMAN LAGUNA Domingo Rodrigo,MEX,"Born: Mar 13, 1990",B.weight: 74.25,Group: B,1: 160,2: 170,3: -180,Total: 170,77kgMen,CleanJerk,206
-Rank: 7,CERBUS Michael Frazier,USA,"Born: Sep 23, 1986",B.weight: 76.17,Group: C,1: 160,2: 165,3: -170,Total: 165,77kgMen,CleanJerk,206
-Rank: 8,PLAMONDON Pascal,CAN,"Born: Dec 12, 1992",B.weight: 76.56,Group: C,1: 153,2: 158,3: 165,Total: 165,77kgMen,CleanJerk,206
-Rank: 9,VIQUEZ QUIROZ Maximo,PAN,"Born: Feb 12, 1982",B.weight: 74.59,Group: C,1: 155,2: 160,3: 162,Total: 162,77kgMen,CleanJerk,206
-Rank: 10,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 74.67,Group: C,1: 153,2: 157,3: 160,Total: 160,77kgMen,CleanJerk,206
-Rank: 11,SAURI CRUZ Carlos,PUR,"Born: Jun 21, 1974",B.weight: 76.62,Group: B,1: -157,2: 157,3: -165,Total: 157,77kgMen,CleanJerk,206
-Rank: 12,LOPEZ FARIAS Bastian Andres,CHI,"Born: Sep 26, 1995",B.weight: 74.99,Group: B,1: 155,2: -160,3: -162,Total: 155,77kgMen,CleanJerk,206
-Rank: 13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Born: Jul 20, 1982",B.weight: 72.56,Group: C,1: 145,2: 150,3: -152,Total: 150,77kgMen,CleanJerk,206
-Rank: 14,MONCADA LOPEZ Antonio Ramon,HON,"Born: Oct 21, 1981",B.weight: 76.61,Group: C,1: 145,2: -150,3: 150,Total: 150,77kgMen,CleanJerk,206
-Rank: 15,PENA HURTADO Eddi Fernando,NCA,"Born: Dec 29, 1979",B.weight: 73.43,Group: C,1: 138,2: -145,3: -145,Total: 138,77kgMen,CleanJerk,206
-Rank: ---,FLORES MUNOZ Kevin Andres,HON,"Born: Apr 04, 1990",B.weight: 73.42,Group: C,1: -150,2: -150,3: -150,Total: ---,77kgMen,CleanJerk,206
-Rank: 1,ANDICA ANDICA Yony Alexander,COL,"Born: Aug 26, 1987",B.weight: 75.47,Group: A,Snatch: 149,CI&Jerk: 188,Total: 337,,77kgMen,Total,206
-Rank: 2,VILLA CUERO Jhon Edison,COL,"Born: Oct 12, 1988",B.weight: 75.30,Group: A,Snatch: 154,CI&Jerk: 182,Total: 336,,77kgMen,Total,206
-Rank: 3,CAMBAR RODRIGUEZ Ivan,CUB,"Born: Dec 29, 1983",B.weight: 76.84,Group: B,Snatch: 146,CI&Jerk: 180,Total: 326,,77kgMen,Total,206
-Rank: 4,ROSA DA SILVA Welisson,BRA,"Born: Nov 22, 1983",B.weight: 76.51,Group: B,Snatch: 142,CI&Jerk: 175,Total: 317,,77kgMen,Total,206
-Rank: 5,ROMAN LAGUNA Domingo Rodrigo,MEX,"Born: Mar 13, 1990",B.weight: 74.25,Group: B,Snatch: 142,CI&Jerk: 170,Total: 312,,77kgMen,Total,206
-Rank: 6,PENA MEJIA Juan Jesus,DOM,"Born: Dec 15, 1992",B.weight: 74.35,Group: B,Snatch: 138,CI&Jerk: 174,Total: 312,,77kgMen,Total,206
-Rank: 7,CERBUS Michael Frazier,USA,"Born: Sep 23, 1986",B.weight: 76.17,Group: C,Snatch: 135,CI&Jerk: 165,Total: 300,,77kgMen,Total,206
-Rank: 8,SAURI CRUZ Carlos,PUR,"Born: Jun 21, 1974",B.weight: 76.62,Group: B,Snatch: 140,CI&Jerk: 157,Total: 297,,77kgMen,Total,206
-Rank: 9,PLAMONDON Pascal,CAN,"Born: Dec 12, 1992",B.weight: 76.56,Group: C,Snatch: 130,CI&Jerk: 165,Total: 295,,77kgMen,Total,206
-Rank: 10,VIQUEZ QUIROZ Maximo,PAN,"Born: Feb 12, 1982",B.weight: 74.59,Group: C,Snatch: 132,CI&Jerk: 162,Total: 294,,77kgMen,Total,206
-Rank: 11,LOPEZ FARIAS Bastian Andres,CHI,"Born: Sep 26, 1995",B.weight: 74.99,Group: B,Snatch: 130,CI&Jerk: 155,Total: 285,,77kgMen,Total,206
-Rank: 12,MONCADA LOPEZ Antonio Ramon,HON,"Born: Oct 21, 1981",B.weight: 76.61,Group: C,Snatch: 120,CI&Jerk: 150,Total: 270,,77kgMen,Total,206
-Rank: 13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Born: Jul 20, 1982",B.weight: 72.56,Group: C,Snatch: 118,CI&Jerk: 150,Total: 268,,77kgMen,Total,206
-Rank: 14,PENA HURTADO Eddi Fernando,NCA,"Born: Dec 29, 1979",B.weight: 73.43,Group: C,Snatch: 112,CI&Jerk: 138,Total: 250,,77kgMen,Total,206
-Rank: ---,GASPAR MACHADO Rafael,BRA,"Born: May 18, 1990",B.weight: 74.67,Group: C,Snatch: ---,CI&Jerk: 160,Total: ---,,77kgMen,Total,206
-Rank: ---,FLORES MUNOZ Kevin Andres,HON,"Born: Apr 04, 1990",B.weight: 73.42,Group: C,Snatch: 115,CI&Jerk: ---,Total: ---,,77kgMen,Total,206
-Rank: 1,ANDICA ANDICA Carlos Hernan,COL,"Born: Oct 12, 1983",B.weight: 84.45,Group: A,1: -155,2: 155,3: 159,Total: 159,85kgMen,Snatch,206
-Rank: 2,MANZANO Ferney,COL,"Born: Jan 13, 1980",B.weight: 83.90,Group: A,1: -155,2: -157,3: 157,Total: 157,85kgMen,Snatch,206
-Rank: 3,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 84.04,Group: B,1: 150,2: 157,3: -161,Total: 157,85kgMen,Snatch,206
-Rank: 4,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 82.43,Group: B,1: 145,2: 150,3: 153,Total: 153,85kgMen,Snatch,206
-Rank: 5,BALZA GARCIA Renson Rafael,VEN,"Born: Aug 09, 1987",B.weight: 82.74,Group: A,1: 142,2: 150,3: 153,Total: 153,85kgMen,Snatch,206
-Rank: 6,HERNANDEZ PAUMIER Yoelmis,CUB,"Born: Apr 25, 1986",B.weight: 81.20,Group: A,1: 145,2: 150,3: 151,Total: 151,85kgMen,Snatch,206
-Rank: 7,FARRIS Kendrick James,USA,"Born: Jul 02, 1986",B.weight: 83.81,Group: A,1: 140,2: 145,3: -155,Total: 145,85kgMen,Snatch,206
-Rank: 8,RUIZ Sergio,MEX,"Born: Apr 28, 1991",B.weight: 83.97,Group: B,1: 130,2: 140,3: 145,Total: 145,85kgMen,Snatch,206
-Rank: 9,BRUCE Matthew Eric,USA,"Born: Jul 11, 1983",B.weight: 84.81,Group: A,1: 139,2: -144,3: -144,Total: 139,85kgMen,Snatch,206
-Rank: 10,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.62,Group: B,1: -137,2: 137,3: -143,Total: 137,85kgMen,Snatch,206
-Rank: 11,GAITAN Jonathan,MEX,"Born: Dec 12, 1991",B.weight: 84.45,Group: B,1: 130,2: -136,3: 136,Total: 136,85kgMen,Snatch,206
-Rank: 12,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 84.57,Group: B,1: 130,2: -135,3: 135,Total: 135,85kgMen,Snatch,206
-Rank: 13,VIQUEZ Victor,PAN,"Born: Sep 23, 1982",B.weight: 79.87,Group: B,1: 130,2: -135,3: -135,Total: 130,85kgMen,Snatch,206
-Rank: 14,CASTILLO RODRIGUEZ Javier Antonio,GUA,"Born: May 07, 1986",B.weight: 83.12,Group: C,1: -122,2: 123,3: -126,Total: 123,85kgMen,Snatch,206
-Rank: 15,PEREZ CRUZ Aaron Ali,NCA,"Born: Sep 16, 1991",B.weight: 83.64,Group: C,1: 117,2: -122,3: -122,Total: 117,85kgMen,Snatch,206
-Rank: 16,ZAPATA MENA Julio Eduardo,PER,"Born: Apr 01, 1992",B.weight: 84.04,Group: C,1: 105,2: 110,3: -113,Total: 110,85kgMen,Snatch,206
-Rank: 17,FANOR VALLE Fanor Antonio,NCA,"Born: Jan 03, 1992",B.weight: 82.04,Group: C,1: 100,2: -105,3: -105,Total: 100,85kgMen,Snatch,206
-Rank: 1,HERNANDEZ PAUMIER Yoelmis,CUB,"Born: Apr 25, 1986",B.weight: 81.20,Group: A,1: 190,2: 197,3: 199,Total: 199,85kgMen,CleanJerk,206
-Rank: 2,ANDICA ANDICA Carlos Hernan,COL,"Born: Oct 12, 1983",B.weight: 84.45,Group: A,1: -193,2: 193,3: 198,Total: 198,85kgMen,CleanJerk,206
-Rank: 3,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 82.43,Group: B,1: 182,2: 189,3: 195,Total: 195,85kgMen,CleanJerk,206
-Rank: 4,FARRIS Kendrick James,USA,"Born: Jul 02, 1986",B.weight: 83.81,Group: A,1: 180,2: 192,3: -199,Total: 192,85kgMen,CleanJerk,206
-Rank: 5,BALZA GARCIA Renson Rafael,VEN,"Born: Aug 09, 1987",B.weight: 82.74,Group: A,1: 184,2: -190,3: 190,Total: 190,85kgMen,CleanJerk,206
-Rank: 6,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 84.04,Group: B,1: 173,2: 180,3: -188,Total: 180,85kgMen,CleanJerk,206
-Rank: 7,BRUCE Matthew Eric,USA,"Born: Jul 11, 1983",B.weight: 84.81,Group: A,1: 174,2: 178,3: -183,Total: 178,85kgMen,CleanJerk,206
-Rank: 8,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.62,Group: B,1: 170,2: 175,3: -179,Total: 175,85kgMen,CleanJerk,206
-Rank: 9,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 84.57,Group: B,1: 165,2: -171,3: 171,Total: 171,85kgMen,CleanJerk,206
-Rank: 10,VIQUEZ Victor,PAN,"Born: Sep 23, 1982",B.weight: 79.87,Group: B,1: 170,2: -175,3: -175,Total: 170,85kgMen,CleanJerk,206
-Rank: 11,RUIZ Sergio,MEX,"Born: Apr 28, 1991",B.weight: 83.97,Group: B,1: 160,2: 170,3: -175,Total: 170,85kgMen,CleanJerk,206
-Rank: 12,GAITAN Jonathan,MEX,"Born: Dec 12, 1991",B.weight: 84.45,Group: B,1: -170,2: 170,3: -180,Total: 170,85kgMen,CleanJerk,206
-Rank: 13,ZAPATA MENA Julio Eduardo,PER,"Born: Apr 01, 1992",B.weight: 84.04,Group: C,1: 145,2: 152,3: -155,Total: 152,85kgMen,CleanJerk,206
-Rank: 14,PEREZ CRUZ Aaron Ali,NCA,"Born: Sep 16, 1991",B.weight: 83.64,Group: C,1: -148,2: 148,3: -153,Total: 148,85kgMen,CleanJerk,206
-Rank: 15,CASTILLO RODRIGUEZ Javier Antonio,GUA,"Born: May 07, 1986",B.weight: 83.12,Group: C,1: 145,2: ---,3: ---,Total: 145,85kgMen,CleanJerk,206
-Rank: ---,FANOR VALLE Fanor Antonio,NCA,"Born: Jan 03, 1992",B.weight: 82.04,Group: C,1: -130,2: -130,3: -130,Total: ---,85kgMen,CleanJerk,206
-Rank: ---,MANZANO Ferney,COL,"Born: Jan 13, 1980",B.weight: 83.90,Group: A,1: -187,2: ---,3: ---,Total: ---,85kgMen,CleanJerk,206
-Rank: 1,ANDICA ANDICA Carlos Hernan,COL,"Born: Oct 12, 1983",B.weight: 84.45,Group: A,Snatch: 159,CI&Jerk: 198,Total: 357,,85kgMen,Total,206
-Rank: 2,HERNANDEZ PAUMIER Yoelmis,CUB,"Born: Apr 25, 1986",B.weight: 81.20,Group: A,Snatch: 151,CI&Jerk: 199,Total: 350,,85kgMen,Total,206
-Rank: 3,TENORIO MINA Freddy Fernando,ECU,"Born: Jun 14, 1991",B.weight: 82.43,Group: B,Snatch: 153,CI&Jerk: 195,Total: 348,,85kgMen,Total,206
-Rank: 4,BALZA GARCIA Renson Rafael,VEN,"Born: Aug 09, 1987",B.weight: 82.74,Group: A,Snatch: 153,CI&Jerk: 190,Total: 343,,85kgMen,Total,206
-Rank: 5,FARRIS Kendrick James,USA,"Born: Jul 02, 1986",B.weight: 83.81,Group: A,Snatch: 145,CI&Jerk: 192,Total: 337,,85kgMen,Total,206
-Rank: 6,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 84.04,Group: B,Snatch: 157,CI&Jerk: 180,Total: 337,,85kgMen,Total,206
-Rank: 7,BRUCE Matthew Eric,USA,"Born: Jul 11, 1983",B.weight: 84.81,Group: A,Snatch: 139,CI&Jerk: 178,Total: 317,,85kgMen,Total,206
-Rank: 8,RUIZ Sergio,MEX,"Born: Apr 28, 1991",B.weight: 83.97,Group: B,Snatch: 145,CI&Jerk: 170,Total: 315,,85kgMen,Total,206
-Rank: 9,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.62,Group: B,Snatch: 137,CI&Jerk: 175,Total: 312,,85kgMen,Total,206
-Rank: 10,GAITAN Jonathan,MEX,"Born: Dec 12, 1991",B.weight: 84.45,Group: B,Snatch: 136,CI&Jerk: 170,Total: 306,,85kgMen,Total,206
-Rank: 11,PALACIOS Ivan,ARG,"Born: Jul 13, 1991",B.weight: 84.57,Group: B,Snatch: 135,CI&Jerk: 171,Total: 306,,85kgMen,Total,206
-Rank: 12,VIQUEZ Victor,PAN,"Born: Sep 23, 1982",B.weight: 79.87,Group: B,Snatch: 130,CI&Jerk: 170,Total: 300,,85kgMen,Total,206
-Rank: 13,CASTILLO RODRIGUEZ Javier Antonio,GUA,"Born: May 07, 1986",B.weight: 83.12,Group: C,Snatch: 123,CI&Jerk: 145,Total: 268,,85kgMen,Total,206
-Rank: 14,PEREZ CRUZ Aaron Ali,NCA,"Born: Sep 16, 1991",B.weight: 83.64,Group: C,Snatch: 117,CI&Jerk: 148,Total: 265,,85kgMen,Total,206
-Rank: 15,ZAPATA MENA Julio Eduardo,PER,"Born: Apr 01, 1992",B.weight: 84.04,Group: C,Snatch: 110,CI&Jerk: 152,Total: 262,,85kgMen,Total,206
-Rank: ---,FANOR VALLE Fanor Antonio,NCA,"Born: Jan 03, 1992",B.weight: 82.04,Group: C,Snatch: 100,CI&Jerk: ---,Total: ---,,85kgMen,Total,206
-Rank: ---,MANZANO Ferney,COL,"Born: Jan 13, 1980",B.weight: 83.90,Group: A,Snatch: 157,CI&Jerk: ---,Total: ---,,85kgMen,Total,206
-Rank: 1,VANEGA RIOS Javier Enrique,CUB,"Born: Aug 02, 1986",B.weight: 91.23,Group: A,1: 160,2: 166,3: 170,Total: 170,94kgMen,Snatch,206
-Rank: 2,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Born: Jun 11, 1986",B.weight: 93.52,Group: A,1: 155,2: 160,3: 166,Total: 166,94kgMen,Snatch,206
-Rank: 3,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Born: Apr 22, 1991",B.weight: 92.00,Group: A,1: 145,2: 155,3: 162,Total: 162,94kgMen,Snatch,206
-Rank: 4,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 93.95,Group: A,1: 141,2: 147,3: -152,Total: 147,94kgMen,Snatch,206
-Rank: 5,GREGORIO MACHADO Marco Tulio,BRA,"Born: Nov 03, 1991",B.weight: 87.40,Group: B,1: -140,2: 140,3: 145,Total: 145,94kgMen,Snatch,206
-Rank: 6,WILSON Ian Burdick,USA,"Born: Jan 08, 1994",B.weight: 93.43,Group: A,1: 145,2: -153,3: -153,Total: 145,94kgMen,Snatch,206
-Rank: 7,CARTAGENA Moises,PUR,"Born: Oct 31, 1975",B.weight: 91.42,Group: A,1: 142,2: -149,3: -150,Total: 142,94kgMen,Snatch,206
-Rank: 8,SABATINI Philip Leuis,USA,"Born: Dec 31, 1982",B.weight: 92.67,Group: B,1: 140,2: -145,3: -145,Total: 140,94kgMen,Snatch,206
-Rank: 9,GREGORIO MACHADO Mateus Filipe,BRA,"Born: Jul 05, 1993",B.weight: 88.60,Group: B,1: 137,2: -142,3: -142,Total: 137,94kgMen,Snatch,206
-Rank: 10,GARCIA MENDOZA Brian Antonio,MEX,"Born: May 05, 1991",B.weight: 92.11,Group: B,1: 137,2: -146,3: -146,Total: 137,94kgMen,Snatch,206
-Rank: 11,PAVON FUNES Cristopher Joel,HON,"Born: Apr 18, 1993",B.weight: 93.22,Group: B,1: 130,2: 135,3: -138,Total: 135,94kgMen,Snatch,206
-Rank: 12,RIVEROS Mauro,ARG,"Born: Apr 20, 1988",B.weight: 93.56,Group: B,1: 125,2: 130,3: 135,Total: 135,94kgMen,Snatch,206
-Rank: 13,VIERA ESPINOZA Hernan Moises,PER,"Born: Jan 16, 1993",B.weight: 93.08,Group: B,1: 132,2: -137,3: -137,Total: 132,94kgMen,Snatch,206
-Rank: 14,BARROS Jose Maria,ARG,"Born: Dec 31, 1979",B.weight: 92.11,Group: B,1: 125,2: 130,3: -135,Total: 130,94kgMen,Snatch,206
-Rank: 15,JARQUIN Fernando,NCA,"Born: Sep 13, 1980",B.weight: 89.74,Group: B,1: 115,2: -120,3: -121,Total: 115,94kgMen,Snatch,206
-Rank: 1,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Born: Jun 11, 1986",B.weight: 93.52,Group: A,1: 196,2: 199,3: 201,Total: 201,94kgMen,CleanJerk,206
-Rank: 2,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Born: Apr 22, 1991",B.weight: 92.00,Group: A,1: 186,2: 195,3: 200,Total: 200,94kgMen,CleanJerk,206
-Rank: 3,VANEGA RIOS Javier Enrique,CUB,"Born: Aug 02, 1986",B.weight: 91.23,Group: A,1: 193,2: -198,3: -198,Total: 193,94kgMen,CleanJerk,206
-Rank: 4,WILSON Ian Burdick,USA,"Born: Jan 08, 1994",B.weight: 93.43,Group: A,1: 180,2: 190,3: -196,Total: 190,94kgMen,CleanJerk,206
-Rank: 5,SABATINI Philip Leuis,USA,"Born: Dec 31, 1982",B.weight: 92.67,Group: B,1: 175,2: 183,3: -188,Total: 183,94kgMen,CleanJerk,206
-Rank: 6,GARCIA MENDOZA Brian Antonio,MEX,"Born: May 05, 1991",B.weight: 92.11,Group: B,1: 168,2: 180,3: -186,Total: 180,94kgMen,CleanJerk,206
-Rank: 7,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 93.95,Group: A,1: 172,2: 177,3: 180,Total: 180,94kgMen,CleanJerk,206
-Rank: 8,CARTAGENA Moises,PUR,"Born: Oct 31, 1975",B.weight: 91.42,Group: A,1: 170,2: 178,3: -185,Total: 178,94kgMen,CleanJerk,206
-Rank: 9,GREGORIO MACHADO Marco Tulio,BRA,"Born: Nov 03, 1991",B.weight: 87.40,Group: B,1: 170,2: 177,3: -182,Total: 177,94kgMen,CleanJerk,206
-Rank: 10,VIERA ESPINOZA Hernan Moises,PER,"Born: Jan 16, 1993",B.weight: 93.08,Group: B,1: 170,2: 176,3: -180,Total: 176,94kgMen,CleanJerk,206
-Rank: 11,GREGORIO MACHADO Mateus Filipe,BRA,"Born: Jul 05, 1993",B.weight: 88.60,Group: B,1: 162,2: 170,3: -173,Total: 170,94kgMen,CleanJerk,206
-Rank: 12,PAVON FUNES Cristopher Joel,HON,"Born: Apr 18, 1993",B.weight: 93.22,Group: B,1: 170,2: -175,3: -175,Total: 170,94kgMen,CleanJerk,206
-Rank: 13,RIVEROS Mauro,ARG,"Born: Apr 20, 1988",B.weight: 93.56,Group: B,1: 160,2: 166,3: -170,Total: 166,94kgMen,CleanJerk,206
-Rank: 14,BARROS Jose Maria,ARG,"Born: Dec 31, 1979",B.weight: 92.11,Group: B,1: 155,2: 160,3: 165,Total: 165,94kgMen,CleanJerk,206
-Rank: 15,JARQUIN Fernando,NCA,"Born: Sep 13, 1980",B.weight: 89.74,Group: B,1: 150,2: 155,3: -160,Total: 155,94kgMen,CleanJerk,206
-Rank: 1,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Born: Jun 11, 1986",B.weight: 93.52,Group: A,Snatch: 166,CI&Jerk: 201,Total: 367,,94kgMen,Total,206
-Rank: 2,VANEGA RIOS Javier Enrique,CUB,"Born: Aug 02, 1986",B.weight: 91.23,Group: A,Snatch: 170,CI&Jerk: 193,Total: 363,,94kgMen,Total,206
-Rank: 3,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Born: Apr 22, 1991",B.weight: 92.00,Group: A,Snatch: 162,CI&Jerk: 200,Total: 362,,94kgMen,Total,206
-Rank: 4,WILSON Ian Burdick,USA,"Born: Jan 08, 1994",B.weight: 93.43,Group: A,Snatch: 145,CI&Jerk: 190,Total: 335,,94kgMen,Total,206
-Rank: 5,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Born: Oct 01, 1990",B.weight: 93.95,Group: A,Snatch: 147,CI&Jerk: 180,Total: 327,,94kgMen,Total,206
-Rank: 6,SABATINI Philip Leuis,USA,"Born: Dec 31, 1982",B.weight: 92.67,Group: B,Snatch: 140,CI&Jerk: 183,Total: 323,,94kgMen,Total,206
-Rank: 7,GREGORIO MACHADO Marco Tulio,BRA,"Born: Nov 03, 1991",B.weight: 87.40,Group: B,Snatch: 145,CI&Jerk: 177,Total: 322,,94kgMen,Total,206
-Rank: 8,CARTAGENA Moises,PUR,"Born: Oct 31, 1975",B.weight: 91.42,Group: A,Snatch: 142,CI&Jerk: 178,Total: 320,,94kgMen,Total,206
-Rank: 9,GARCIA MENDOZA Brian Antonio,MEX,"Born: May 05, 1991",B.weight: 92.11,Group: B,Snatch: 137,CI&Jerk: 180,Total: 317,,94kgMen,Total,206
-Rank: 10,VIERA ESPINOZA Hernan Moises,PER,"Born: Jan 16, 1993",B.weight: 93.08,Group: B,Snatch: 132,CI&Jerk: 176,Total: 308,,94kgMen,Total,206
-Rank: 11,GREGORIO MACHADO Mateus Filipe,BRA,"Born: Jul 05, 1993",B.weight: 88.60,Group: B,Snatch: 137,CI&Jerk: 170,Total: 307,,94kgMen,Total,206
-Rank: 12,PAVON FUNES Cristopher Joel,HON,"Born: Apr 18, 1993",B.weight: 93.22,Group: B,Snatch: 135,CI&Jerk: 170,Total: 305,,94kgMen,Total,206
-Rank: 13,RIVEROS Mauro,ARG,"Born: Apr 20, 1988",B.weight: 93.56,Group: B,Snatch: 135,CI&Jerk: 166,Total: 301,,94kgMen,Total,206
-Rank: 14,BARROS Jose Maria,ARG,"Born: Dec 31, 1979",B.weight: 92.11,Group: B,Snatch: 130,CI&Jerk: 165,Total: 295,,94kgMen,Total,206
-Rank: 15,JARQUIN Fernando,NCA,"Born: Sep 13, 1980",B.weight: 89.74,Group: B,Snatch: 115,CI&Jerk: 155,Total: 270,,94kgMen,Total,206
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 102.51,Group: A,1: 180,2: 185,3: 190,Total: 190,105kgMen,Snatch,206
-Rank: 2,LAPORT BRANDAO Bruno,BRA,"Born: Apr 10, 1985",B.weight: 103.30,Group: B,1: 150,2: 155,3: 158,Total: 158,105kgMen,Snatch,206
-Rank: 3,GARCIA BUSTOS Jorge Eduardo,CHI,"Born: Apr 22, 1987",B.weight: 102.52,Group: A,1: 145,2: 150,3: -153,Total: 150,105kgMen,Snatch,206
-Rank: 4,SHANKLE Donald Clark,USA,"Born: Mar 18, 1982",B.weight: 102.90,Group: B,1: 140,2: 145,3: 150,Total: 150,105kgMen,Snatch,206
-Rank: 5,BURLA Emerson,ARG,"Born: Dec 01, 1985",B.weight: 102.42,Group: B,1: 136,2: 143,3: 147,Total: 147,105kgMen,Snatch,206
-Rank: 6,ACOSTA Alejandro,ARG,"Born: Oct 09, 1987",B.weight: 95.36,Group: B,1: 135,2: 140,3: 145,Total: 145,105kgMen,Snatch,206
-Rank: 7,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 99.24,Group: B,1: 135,2: 142,3: -145,Total: 142,105kgMen,Snatch,206
-Rank: 8,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 104.20,Group: B,1: 137,2: -142,3: 142,Total: 142,105kgMen,Snatch,206
-Rank: 9,OSORIO Victor,CHI,"Born: Aug 09, 1985",B.weight: 104.47,Group: A,1: 141,2: -148,3: -148,Total: 141,105kgMen,Snatch,206
-Rank: 10,DEL TORO GUILLEN Jose Saul,MEX,"Born: Oct 11, 1993",B.weight: 101.50,Group: B,1: 135,2: -140,3: 140,Total: 140,105kgMen,Snatch,206
-Rank: 11,CARRILLO Alejandro,ESA,"Born: Jun 12, 1986",B.weight: 101.20,Group: B,1: 120,2: 125,3: 130,Total: 130,105kgMen,Snatch,206
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 102.51,Group: A,1: 205,2: 215,3: ---,Total: 215,105kgMen,CleanJerk,206
-Rank: 2,GARCIA BUSTOS Jorge Eduardo,CHI,"Born: Apr 22, 1987",B.weight: 102.52,Group: A,1: 182,2: -188,3: 189,Total: 189,105kgMen,CleanJerk,206
-Rank: 3,LAPORT BRANDAO Bruno,BRA,"Born: Apr 10, 1985",B.weight: 103.30,Group: B,1: 180,2: 185,3: 188,Total: 188,105kgMen,CleanJerk,206
-Rank: 4,OSORIO Victor,CHI,"Born: Aug 09, 1985",B.weight: 104.47,Group: A,1: -181,2: 181,3: -189,Total: 181,105kgMen,CleanJerk,206
-Rank: 5,SHANKLE Donald Clark,USA,"Born: Mar 18, 1982",B.weight: 102.90,Group: B,1: 180,2: -196,3: -196,Total: 180,105kgMen,CleanJerk,206
-Rank: 6,BURLA Emerson,ARG,"Born: Dec 01, 1985",B.weight: 102.42,Group: B,1: 170,2: 177,3: -181,Total: 177,105kgMen,CleanJerk,206
-Rank: 7,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 104.20,Group: B,1: 167,2: 172,3: 177,Total: 177,105kgMen,CleanJerk,206
-Rank: 8,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 99.24,Group: B,1: 170,2: -180,3: -180,Total: 170,105kgMen,CleanJerk,206
-Rank: 9,DEL TORO GUILLEN Jose Saul,MEX,"Born: Oct 11, 1993",B.weight: 101.50,Group: B,1: 160,2: 165,3: -170,Total: 165,105kgMen,CleanJerk,206
-Rank: 10,ACOSTA Alejandro,ARG,"Born: Oct 09, 1987",B.weight: 95.36,Group: B,1: -162,2: 162,3: -167,Total: 162,105kgMen,CleanJerk,206
-Rank: 11,CARRILLO Alejandro,ESA,"Born: Jun 12, 1986",B.weight: 101.20,Group: B,1: -150,2: 150,3: 160,Total: 160,105kgMen,CleanJerk,206
-Rank: 1,ARROYO VALDEZ Jorge David,ECU,"Born: Sep 23, 1991",B.weight: 102.51,Group: A,Snatch: 190,CI&Jerk: 215,Total: 405,,105kgMen,Total,206
-Rank: 2,LAPORT BRANDAO Bruno,BRA,"Born: Apr 10, 1985",B.weight: 103.30,Group: B,Snatch: 158,CI&Jerk: 188,Total: 346,,105kgMen,Total,206
-Rank: 3,GARCIA BUSTOS Jorge Eduardo,CHI,"Born: Apr 22, 1987",B.weight: 102.52,Group: A,Snatch: 150,CI&Jerk: 189,Total: 339,,105kgMen,Total,206
-Rank: 4,SHANKLE Donald Clark,USA,"Born: Mar 18, 1982",B.weight: 102.90,Group: B,Snatch: 150,CI&Jerk: 180,Total: 330,,105kgMen,Total,206
-Rank: 5,BURLA Emerson,ARG,"Born: Dec 01, 1985",B.weight: 102.42,Group: B,Snatch: 147,CI&Jerk: 177,Total: 324,,105kgMen,Total,206
-Rank: 6,OSORIO Victor,CHI,"Born: Aug 09, 1985",B.weight: 104.47,Group: A,Snatch: 141,CI&Jerk: 181,Total: 322,,105kgMen,Total,206
-Rank: 7,MARTE Keven,PUR,"Born: Mar 04, 1992",B.weight: 104.20,Group: B,Snatch: 142,CI&Jerk: 177,Total: 319,,105kgMen,Total,206
-Rank: 8,PEREIRA VITORIA Vinicius,BRA,"Born: Mar 02, 1991",B.weight: 99.24,Group: B,Snatch: 142,CI&Jerk: 170,Total: 312,,105kgMen,Total,206
-Rank: 9,ACOSTA Alejandro,ARG,"Born: Oct 09, 1987",B.weight: 95.36,Group: B,Snatch: 145,CI&Jerk: 162,Total: 307,,105kgMen,Total,206
-Rank: 10,DEL TORO GUILLEN Jose Saul,MEX,"Born: Oct 11, 1993",B.weight: 101.50,Group: B,Snatch: 140,CI&Jerk: 165,Total: 305,,105kgMen,Total,206
-Rank: 11,CARRILLO Alejandro,ESA,"Born: Jun 12, 1986",B.weight: 101.20,Group: B,Snatch: 130,CI&Jerk: 160,Total: 290,,105kgMen,Total,206
-Rank: 1,SARAIVA REIS Fernando,BRA,"Born: Mar 10, 1990",B.weight: 137.35,Group: A,1: 180,2: -190,3: -190,Total: 180,+105kgMen,Snatch,206
-Rank: 2,LOPEZ BOBADILLA Christian Alberto,GUA,"Born: Mar 30, 1984",B.weight: 135.14,Group: A,1: 173,2: -178,3: -178,Total: 173,+105kgMen,Snatch,206
-Rank: 3,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 131.20,Group: A,1: 165,2: 171,3: -174,Total: 171,+105kgMen,Snatch,206
-Rank: 4,MAIER Shane Daniel,USA,"Born: May 18, 1984",B.weight: 129.71,Group: B,1: 160,2: 165,3: -170,Total: 165,+105kgMen,Snatch,206
-Rank: 5,SWART Cameron Marshall,USA,"Born: Oct 24, 1988",B.weight: 144.91,Group: B,1: -163,2: 163,3: -170,Total: 163,+105kgMen,Snatch,206
-Rank: 6,OSUNA LOPEZ Luis Alfredo,MEX,"Born: Aug 08, 1989",B.weight: 114.17,Group: B,1: 141,2: 150,3: 160,Total: 160,+105kgMen,Snatch,206
-Rank: 7,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 137.95,Group: B,1: 150,2: 156,3: -160,Total: 156,+105kgMen,Snatch,206
-Rank: 8,HOIL MAS Luis Alberto,GUA,"Born: Sep 07, 1990",B.weight: 138.06,Group: B,1: 140,2: 145,3: -150,Total: 145,+105kgMen,Snatch,206
-Rank: 9,COUTURIER Enrique,ARG,"Born: Jul 10, 1981",B.weight: 125.11,Group: B,1: 131,2: 136,3: 141,Total: 141,+105kgMen,Snatch,206
-Rank: 10,BONILLA Javier,PUR,"Born: Oct 24, 1986",B.weight: 110.67,Group: B,1: -125,2: 125,3: 132,Total: 132,+105kgMen,Snatch,206
-Rank: 1,SARAIVA REIS Fernando,BRA,"Born: Mar 10, 1990",B.weight: 137.35,Group: A,1: 220,2: 230,3: -235,Total: 230,+105kgMen,CleanJerk,206
-Rank: 2,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 131.20,Group: A,1: 212,2: 219,3: -224,Total: 219,+105kgMen,CleanJerk,206
-Rank: 3,MAIER Shane Daniel,USA,"Born: May 18, 1984",B.weight: 129.71,Group: B,1: 203,2: 208,3: 212,Total: 212,+105kgMen,CleanJerk,206
-Rank: 4,SWART Cameron Marshall,USA,"Born: Oct 24, 1988",B.weight: 144.91,Group: B,1: 205,2: -211,3: 211,Total: 211,+105kgMen,CleanJerk,206
-Rank: 5,LOPEZ BOBADILLA Christian Alberto,GUA,"Born: Mar 30, 1984",B.weight: 135.14,Group: A,1: 200,2: 205,3: 210,Total: 210,+105kgMen,CleanJerk,206
-Rank: 6,OSUNA LOPEZ Luis Alfredo,MEX,"Born: Aug 08, 1989",B.weight: 114.17,Group: B,1: 180,2: 187,3: 192,Total: 192,+105kgMen,CleanJerk,206
-Rank: 7,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 137.95,Group: B,1: 185,2: 192,3: -197,Total: 192,+105kgMen,CleanJerk,206
-Rank: 8,HOIL MAS Luis Alberto,GUA,"Born: Sep 07, 1990",B.weight: 138.06,Group: B,1: -171,2: 171,3: -180,Total: 171,+105kgMen,CleanJerk,206
-Rank: 9,COUTURIER Enrique,ARG,"Born: Jul 10, 1981",B.weight: 125.11,Group: B,1: 165,2: -170,3: 170,Total: 170,+105kgMen,CleanJerk,206
-Rank: 10,BONILLA Javier,PUR,"Born: Oct 24, 1986",B.weight: 110.67,Group: B,1: 157,2: 165,3: -170,Total: 165,+105kgMen,CleanJerk,206
-Rank: 1,SARAIVA REIS Fernando,BRA,"Born: Mar 10, 1990",B.weight: 137.35,Group: A,Snatch: 180,CI&Jerk: 230,Total: 410,,+105kgMen,Total,206
-Rank: 2,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 131.20,Group: A,Snatch: 171,CI&Jerk: 219,Total: 390,,+105kgMen,Total,206
-Rank: 3,LOPEZ BOBADILLA Christian Alberto,GUA,"Born: Mar 30, 1984",B.weight: 135.14,Group: A,Snatch: 173,CI&Jerk: 210,Total: 383,,+105kgMen,Total,206
-Rank: 4,MAIER Shane Daniel,USA,"Born: May 18, 1984",B.weight: 129.71,Group: B,Snatch: 165,CI&Jerk: 212,Total: 377,,+105kgMen,Total,206
-Rank: 5,SWART Cameron Marshall,USA,"Born: Oct 24, 1988",B.weight: 144.91,Group: B,Snatch: 163,CI&Jerk: 211,Total: 374,,+105kgMen,Total,206
-Rank: 6,OSUNA LOPEZ Luis Alfredo,MEX,"Born: Aug 08, 1989",B.weight: 114.17,Group: B,Snatch: 160,CI&Jerk: 192,Total: 352,,+105kgMen,Total,206
-Rank: 7,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 137.95,Group: B,Snatch: 156,CI&Jerk: 192,Total: 348,,+105kgMen,Total,206
-Rank: 8,HOIL MAS Luis Alberto,GUA,"Born: Sep 07, 1990",B.weight: 138.06,Group: B,Snatch: 145,CI&Jerk: 171,Total: 316,,+105kgMen,Total,206
-Rank: 9,COUTURIER Enrique,ARG,"Born: Jul 10, 1981",B.weight: 125.11,Group: B,Snatch: 141,CI&Jerk: 170,Total: 311,,+105kgMen,Total,206
-Rank: 10,BONILLA Javier,PUR,"Born: Oct 24, 1986",B.weight: 110.67,Group: B,Snatch: 132,CI&Jerk: 165,Total: 297,,+105kgMen,Total,206
-Rank: 1,MERCADO VILLARREAL Katherin,COL,"Born: May 20, 1990",B.weight: 47.57,Group: A,1: - 77,2: 77,3: - 80,Total: 77,48kgWomen,Snatch,206
-Rank: 2,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 47.90,Group: A,1: 70,2: 73,3: 75,Total: 75,48kgWomen,Snatch,206
-Rank: 3,VALENCIA HERNANDEZ Carolina,MEX,"Born: Feb 08, 1985",B.weight: 47.59,Group: A,1: 70,2: 73,3: - 75,Total: 73,48kgWomen,Snatch,206
-Rank: 4,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Born: Feb 27, 1995",B.weight: 46.84,Group: A,1: 68,2: - 71,3: 71,Total: 71,48kgWomen,Snatch,206
-Rank: 5,BURGOS ORTIZ Lely Berlitt,PUR,"Born: Jun 06, 1985",B.weight: 47.43,Group: A,1: - 70,2: - 70,3: 70,Total: 70,48kgWomen,Snatch,206
-Rank: 6,RIVAS ARTEAGA Betsi Gabriela,VEN,"Born: Oct 02, 1986",B.weight: 47.56,Group: A,1: 70,2: - 73,3: - 73,Total: 70,48kgWomen,Snatch,206
-Rank: 7,REYES POZO Carolanni,DOM,"Born: Jul 13, 1991",B.weight: 47.69,Group: A,1: - 69,2: - 69,3: 69,Total: 69,48kgWomen,Snatch,206
-Rank: 8,SANCHEZ GAITAN Fatima Lissette,ESA,"Born: May 12, 1988",B.weight: 47.91,Group: B,1: 62,2: 65,3: 67,Total: 67,48kgWomen,Snatch,206
-Rank: 9,MURCIA VARGAS Genesis Nohemy,ESA,"Born: Sep 18, 1990",B.weight: 46.03,Group: B,1: - 62,2: 62,3: 65,Total: 65,48kgWomen,Snatch,206
-Rank: 10,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 46.84,Group: B,1: 57,2: 61,3: 63,Total: 63,48kgWomen,Snatch,206
-Rank: 11,CAVERO Maria Eugenia,ARG,"Born: Apr 22, 1977",B.weight: 47.56,Group: B,1: 56,2: 59,3: - 61,Total: 59,48kgWomen,Snatch,206
-Rank: 12,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Born: Feb 25, 1989",B.weight: 46.97,Group: B,1: 54,2: 56,3: - 58,Total: 56,48kgWomen,Snatch,206
-Rank: 13,DE LEON VALDEZ Astrid Carolina,GUA,"Born: Mar 05, 1995",B.weight: 47.20,Group: B,1: 52,2: 54,3: 55,Total: 55,48kgWomen,Snatch,206
-Rank: 14,RIOS MENDOZA Maria Leonor,NCA,"Born: Jan 13, 1993",B.weight: 45.86,Group: B,1: 50,2: - 55,3: - 55,Total: 50,48kgWomen,Snatch,206
-Rank: 1,MERCADO VILLARREAL Katherin,COL,"Born: May 20, 1990",B.weight: 47.57,Group: A,1: 95,2: 99,3: 101,Total: 101,48kgWomen,CleanJerk,206
-Rank: 2,VALENCIA HERNANDEZ Carolina,MEX,"Born: Feb 08, 1985",B.weight: 47.59,Group: A,1: 90,2: 95,3: 100,Total: 100,48kgWomen,CleanJerk,206
-Rank: 3,RIVAS ARTEAGA Betsi Gabriela,VEN,"Born: Oct 02, 1986",B.weight: 47.56,Group: A,1: 92,2: - 96,3: - 96,Total: 92,48kgWomen,CleanJerk,206
-Rank: 4,BURGOS ORTIZ Lely Berlitt,PUR,"Born: Jun 06, 1985",B.weight: 47.43,Group: A,1: - 90,2: - 90,3: 90,Total: 90,48kgWomen,CleanJerk,206
-Rank: 5,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Born: Feb 27, 1995",B.weight: 46.84,Group: A,1: 84,2: 87,3: - 88,Total: 87,48kgWomen,CleanJerk,206
-Rank: 6,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 47.90,Group: A,1: 87,2: - 92,3: - 92,Total: 87,48kgWomen,CleanJerk,206
-Rank: 7,REYES POZO Carolanni,DOM,"Born: Jul 13, 1991",B.weight: 47.69,Group: A,1: 86,2: - 89,3: - 89,Total: 86,48kgWomen,CleanJerk,206
-Rank: 8,SANCHEZ GAITAN Fatima Lissette,ESA,"Born: May 12, 1988",B.weight: 47.91,Group: B,1: 80,2: 84,3: - 87,Total: 84,48kgWomen,CleanJerk,206
-Rank: 9,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 46.84,Group: B,1: 78,2: 82,3: - 84,Total: 82,48kgWomen,CleanJerk,206
-Rank: 10,MURCIA VARGAS Genesis Nohemy,ESA,"Born: Sep 18, 1990",B.weight: 46.03,Group: B,1: 75,2: 78,3: 80,Total: 80,48kgWomen,CleanJerk,206
-Rank: 11,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Born: Feb 25, 1989",B.weight: 46.97,Group: B,1: 67,2: 71,3: 73,Total: 73,48kgWomen,CleanJerk,206
-Rank: 12,DE LEON VALDEZ Astrid Carolina,GUA,"Born: Mar 05, 1995",B.weight: 47.20,Group: B,1: 70,2: - 72,3: 72,Total: 72,48kgWomen,CleanJerk,206
-Rank: 13,CAVERO Maria Eugenia,ARG,"Born: Apr 22, 1977",B.weight: 47.56,Group: B,1: 66,2: 71,3: - 74,Total: 71,48kgWomen,CleanJerk,206
-Rank: 14,RIOS MENDOZA Maria Leonor,NCA,"Born: Jan 13, 1993",B.weight: 45.86,Group: B,1: 65,2: - 70,3: - 70,Total: 65,48kgWomen,CleanJerk,206
-Rank: 1,MERCADO VILLARREAL Katherin,COL,"Born: May 20, 1990",B.weight: 47.57,Group: A,Snatch: 77,CI&Jerk: 101,Total: 178,,48kgWomen,Total,206
-Rank: 2,VALENCIA HERNANDEZ Carolina,MEX,"Born: Feb 08, 1985",B.weight: 47.59,Group: A,Snatch: 73,CI&Jerk: 100,Total: 173,,48kgWomen,Total,206
-Rank: 3,RIVAS ARTEAGA Betsi Gabriela,VEN,"Born: Oct 02, 1986",B.weight: 47.56,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,48kgWomen,Total,206
-Rank: 4,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 47.90,Group: A,Snatch: 75,CI&Jerk: 87,Total: 162,,48kgWomen,Total,206
-Rank: 5,BURGOS ORTIZ Lely Berlitt,PUR,"Born: Jun 06, 1985",B.weight: 47.43,Group: A,Snatch: 70,CI&Jerk: 90,Total: 160,,48kgWomen,Total,206
-Rank: 6,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Born: Feb 27, 1995",B.weight: 46.84,Group: A,Snatch: 71,CI&Jerk: 87,Total: 158,,48kgWomen,Total,206
-Rank: 7,REYES POZO Carolanni,DOM,"Born: Jul 13, 1991",B.weight: 47.69,Group: A,Snatch: 69,CI&Jerk: 86,Total: 155,,48kgWomen,Total,206
-Rank: 8,SANCHEZ GAITAN Fatima Lissette,ESA,"Born: May 12, 1988",B.weight: 47.91,Group: B,Snatch: 67,CI&Jerk: 84,Total: 151,,48kgWomen,Total,206
-Rank: 9,MURCIA VARGAS Genesis Nohemy,ESA,"Born: Sep 18, 1990",B.weight: 46.03,Group: B,Snatch: 65,CI&Jerk: 80,Total: 145,,48kgWomen,Total,206
-Rank: 10,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"Born: May 18, 1991",B.weight: 46.84,Group: B,Snatch: 63,CI&Jerk: 82,Total: 145,,48kgWomen,Total,206
-Rank: 11,CAVERO Maria Eugenia,ARG,"Born: Apr 22, 1977",B.weight: 47.56,Group: B,Snatch: 59,CI&Jerk: 71,Total: 130,,48kgWomen,Total,206
-Rank: 12,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Born: Feb 25, 1989",B.weight: 46.97,Group: B,Snatch: 56,CI&Jerk: 73,Total: 129,,48kgWomen,Total,206
-Rank: 13,DE LEON VALDEZ Astrid Carolina,GUA,"Born: Mar 05, 1995",B.weight: 47.20,Group: B,Snatch: 55,CI&Jerk: 72,Total: 127,,48kgWomen,Total,206
-Rank: 14,RIOS MENDOZA Maria Leonor,NCA,"Born: Jan 13, 1993",B.weight: 45.86,Group: B,Snatch: 50,CI&Jerk: 65,Total: 115,,48kgWomen,Total,206
-Rank: 1,VILLAR BARBOZA Rusmeris,COL,"Born: Mar 28, 1983",B.weight: 52.67,Group: A,1: 87,2: 90,3: 92,Total: 92,53kgWomen,Snatch,206
-Rank: 2,DOS REIS SANTOS Rosane,BRA,"Born: Jun 20, 1987",B.weight: 52.28,Group: B,1: 75,2: 80,3: 82,Total: 82,53kgWomen,Snatch,206
-Rank: 3,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Born: Sep 23, 1981",B.weight: 52.53,Group: A,1: 80,2: 82,3: - 83,Total: 82,53kgWomen,Snatch,206
-Rank: 4,PENUNURI VERDUGO Francia Natalie,MEX,"Born: Sep 19, 1984",B.weight: 52.92,Group: B,1: 77,2: 81,3: - 83,Total: 81,53kgWomen,Snatch,206
-Rank: 5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Born: Jan 07, 1993",B.weight: 52.71,Group: B,1: 70,2: 75,3: - 77,Total: 75,53kgWomen,Snatch,206
-Rank: 6,PAYNE Jaque Tiara,USA,"Born: Dec 13, 1987",B.weight: 52.67,Group: C,1: 65,2: 68,3: 71,Total: 71,53kgWomen,Snatch,206
-Rank: 7,OSORIO DE ROSALES Estebana Luz,ESA,"Born: Jun 22, 1988",B.weight: 52.10,Group: B,1: 65,2: 68,3: - 70,Total: 68,53kgWomen,Snatch,206
-Rank: 8,DAZA MALLAP Janet,PER,"Born: Oct 21, 1994",B.weight: 52.71,Group: C,1: 62,2: 65,3: 67,Total: 67,53kgWomen,Snatch,206
-Rank: 9,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.94,Group: C,1: 63,2: - 66,3: 66,Total: 66,53kgWomen,Snatch,206
-Rank: 10,BETANCOURT OSEJO Sonia Salvadora,NCA,"Born: Sep 08, 1988",B.weight: 51.97,Group: C,1: 60,2: - 65,3: 65,Total: 65,53kgWomen,Snatch,206
-Rank: 11,EIRYMAR Sosa,PUR,"Born: Feb 14, 1989",B.weight: 52.54,Group: C,1: 61,2: 65,3: - 67,Total: 65,53kgWomen,Snatch,206
-Rank: 12,LANDRAU Stephanie,PUR,"Born: Oct 03, 1989",B.weight: 52.87,Group: C,1: 61,2: 65,3: - 67,Total: 65,53kgWomen,Snatch,206
-Rank: 13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Born: Dec 01, 1996",B.weight: 51.60,Group: C,1: - 50,2: 50,3: 55,Total: 55,53kgWomen,Snatch,206
-Rank: ---,VERA Gabriela Yoshie,CHI,"Born: Oct 05, 1985",B.weight: 52.49,Group: B,1: - 67,2: - 67,3: - 67,Total: ---,53kgWomen,Snatch,206
-Rank: 1,VILLAR BARBOZA Rusmeris,COL,"Born: Mar 28, 1983",B.weight: 52.67,Group: A,1: -108,2: 108,3: 112,Total: 112,53kgWomen,CleanJerk,206
-Rank: 2,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Born: Sep 23, 1981",B.weight: 52.53,Group: A,1: 107,2: -111,3: -111,Total: 107,53kgWomen,CleanJerk,206
-Rank: 3,PENUNURI VERDUGO Francia Natalie,MEX,"Born: Sep 19, 1984",B.weight: 52.92,Group: B,1: 98,2: -102,3: -102,Total: 98,53kgWomen,CleanJerk,206
-Rank: 4,DOS REIS SANTOS Rosane,BRA,"Born: Jun 20, 1987",B.weight: 52.28,Group: B,1: 92,2: 96,3: -100,Total: 96,53kgWomen,CleanJerk,206
-Rank: 5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Born: Jan 07, 1993",B.weight: 52.71,Group: B,1: 92,2: ---,3: ---,Total: 92,53kgWomen,CleanJerk,206
-Rank: 6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.94,Group: C,1: 83,2: 87,3: 89,Total: 89,53kgWomen,CleanJerk,206
-Rank: 7,OSORIO DE ROSALES Estebana Luz,ESA,"Born: Jun 22, 1988",B.weight: 52.10,Group: B,1: 87,2: - 92,3: - 92,Total: 87,53kgWomen,CleanJerk,206
-Rank: 8,DAZA MALLAP Janet,PER,"Born: Oct 21, 1994",B.weight: 52.71,Group: C,1: 83,2: - 85,3: 85,Total: 85,53kgWomen,CleanJerk,206
-Rank: 9,EIRYMAR Sosa,PUR,"Born: Feb 14, 1989",B.weight: 52.54,Group: C,1: 75,2: 80,3: 83,Total: 83,53kgWomen,CleanJerk,206
-Rank: 10,PAYNE Jaque Tiara,USA,"Born: Dec 13, 1987",B.weight: 52.67,Group: C,1: 78,2: 82,3: - 85,Total: 82,53kgWomen,CleanJerk,206
-Rank: 11,LANDRAU Stephanie,PUR,"Born: Oct 03, 1989",B.weight: 52.87,Group: C,1: 77,2: - 82,3: 82,Total: 82,53kgWomen,CleanJerk,206
-Rank: 12,BETANCOURT OSEJO Sonia Salvadora,NCA,"Born: Sep 08, 1988",B.weight: 51.97,Group: C,1: - 79,2: - 79,3: 79,Total: 79,53kgWomen,CleanJerk,206
-Rank: 13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Born: Dec 01, 1996",B.weight: 51.60,Group: C,1: 70,2: - 75,3: 75,Total: 75,53kgWomen,CleanJerk,206
-Rank: ---,VERA Gabriela Yoshie,CHI,"Born: Oct 05, 1985",B.weight: 52.49,Group: B,1: ---,2: ---,3: ---,Total: ---,53kgWomen,CleanJerk,206
-Rank: 1,VILLAR BARBOZA Rusmeris,COL,"Born: Mar 28, 1983",B.weight: 52.67,Group: A,Snatch: 92,CI&Jerk: 112,Total: 204,,53kgWomen,Total,206
-Rank: 2,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Born: Sep 23, 1981",B.weight: 52.53,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,53kgWomen,Total,206
-Rank: 3,PENUNURI VERDUGO Francia Natalie,MEX,"Born: Sep 19, 1984",B.weight: 52.92,Group: B,Snatch: 81,CI&Jerk: 98,Total: 179,,53kgWomen,Total,206
-Rank: 4,DOS REIS SANTOS Rosane,BRA,"Born: Jun 20, 1987",B.weight: 52.28,Group: B,Snatch: 82,CI&Jerk: 96,Total: 178,,53kgWomen,Total,206
-Rank: 5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Born: Jan 07, 1993",B.weight: 52.71,Group: B,Snatch: 75,CI&Jerk: 92,Total: 167,,53kgWomen,Total,206
-Rank: 6,OSORIO DE ROSALES Estebana Luz,ESA,"Born: Jun 22, 1988",B.weight: 52.10,Group: B,Snatch: 68,CI&Jerk: 87,Total: 155,,53kgWomen,Total,206
-Rank: 7,GONZALEZ CONTRERAS Santos Isabel,GUA,"Born: Apr 17, 1992",B.weight: 52.94,Group: C,Snatch: 66,CI&Jerk: 89,Total: 155,,53kgWomen,Total,206
-Rank: 8,PAYNE Jaque Tiara,USA,"Born: Dec 13, 1987",B.weight: 52.67,Group: C,Snatch: 71,CI&Jerk: 82,Total: 153,,53kgWomen,Total,206
-Rank: 9,DAZA MALLAP Janet,PER,"Born: Oct 21, 1994",B.weight: 52.71,Group: C,Snatch: 67,CI&Jerk: 85,Total: 152,,53kgWomen,Total,206
-Rank: 10,EIRYMAR Sosa,PUR,"Born: Feb 14, 1989",B.weight: 52.54,Group: C,Snatch: 65,CI&Jerk: 83,Total: 148,,53kgWomen,Total,206
-Rank: 11,LANDRAU Stephanie,PUR,"Born: Oct 03, 1989",B.weight: 52.87,Group: C,Snatch: 65,CI&Jerk: 82,Total: 147,,53kgWomen,Total,206
-Rank: 12,BETANCOURT OSEJO Sonia Salvadora,NCA,"Born: Sep 08, 1988",B.weight: 51.97,Group: C,Snatch: 65,CI&Jerk: 79,Total: 144,,53kgWomen,Total,206
-Rank: 13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Born: Dec 01, 1996",B.weight: 51.60,Group: C,Snatch: 55,CI&Jerk: 75,Total: 130,,53kgWomen,Total,206
-Rank: ---,VERA Gabriela Yoshie,CHI,"Born: Oct 05, 1985",B.weight: 52.49,Group: B,Snatch: ---,CI&Jerk: ---,Total: ---,,53kgWomen,Total,206
-Rank: 1,ESCOBAR GUERRERO Maria Alexandra,ECU,"Born: Jul 17, 1980",B.weight: 57.21,Group: A,1: 95,2: 98,3: 100,Total: 100,58kgWomen,Snatch,206
-Rank: 2,HEREDIA CUESTA Jackelina,COL,"Born: Dec 31, 1988",B.weight: 57.74,Group: A,1: 95,2: 98,3: -100,Total: 98,58kgWomen,Snatch,206
-Rank: 3,CONTRERAS Yuderqui Maridalia,DOM,"Born: Mar 27, 1986",B.weight: 55.75,Group: A,1: 90,2: 94,3: 95,Total: 95,58kgWomen,Snatch,206
-Rank: 4,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 56.31,Group: A,1: 85,2: 89,3: 91,Total: 91,58kgWomen,Snatch,206
-Rank: 5,ROJAS Massiel,CHI,"Born: Jul 11, 1984",B.weight: 56.95,Group: A,1: 80,2: 84,3: - 88,Total: 84,58kgWomen,Snatch,206
-Rank: 6,BERUBE Jacquelynn Ann,USA,"Born: Dec 09, 1971",B.weight: 57.63,Group: B,1: - 83,2: 83,3: - 85,Total: 83,58kgWomen,Snatch,206
-Rank: 7,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Born: Apr 25, 1981",B.weight: 57.47,Group: B,1: 78,2: 82,3: - 84,Total: 82,58kgWomen,Snatch,206
-Rank: 8,DE AGUIAR GONCALVES Alexsandra,BRA,"Born: Mar 12, 1989",B.weight: 55.85,Group: B,1: - 76,2: 76,3: 80,Total: 80,58kgWomen,Snatch,206
-Rank: 9,DESPRES Isabelle Mireille,CAN,"Born: Sep 05, 1980",B.weight: 57.80,Group: B,1: 77,2: - 80,3: 80,Total: 80,58kgWomen,Snatch,206
-Rank: 10,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Born: Mar 13, 1993",B.weight: 57.25,Group: C,1: 70,2: 73,3: - 75,Total: 73,58kgWomen,Snatch,206
-Rank: 11,CARDENAS QUIROZ Angie Nikelly,PER,"Born: Jan 28, 1994",B.weight: 56.85,Group: C,1: - 70,2: - 70,3: 70,Total: 70,58kgWomen,Snatch,206
-Rank: 12,ARROYO Widalys,PUR,"Born: Mar 24, 1977",B.weight: 56.82,Group: C,1: - 65,2: 65,3: 68,Total: 68,58kgWomen,Snatch,206
-Rank: 13,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Born: Jul 22, 1986",B.weight: 55.11,Group: C,1: 67,2: - 70,3: - 70,Total: 67,58kgWomen,Snatch,206
-Rank: 14,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Born: Jan 18, 1996",B.weight: 57.24,Group: C,1: - 62,2: 62,3: 65,Total: 65,58kgWomen,Snatch,206
-Rank: 15,ALONSO Maria Amparo,ARG,"Born: Jul 10, 1987",B.weight: 57.74,Group: C,1: 60,2: 65,3: - 69,Total: 65,58kgWomen,Snatch,206
-Rank: ---,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Born: Jan 09, 1993",B.weight: 57.60,Group: A,1: - 89,2: - 89,3: - 89,Total: ---,58kgWomen,Snatch,206
-Rank: 1,HEREDIA CUESTA Jackelina,COL,"Born: Dec 31, 1988",B.weight: 57.74,Group: A,1: 123,2: 128,3: -130,Total: 128,58kgWomen,CleanJerk,206
-Rank: 2,ESCOBAR GUERRERO Maria Alexandra,ECU,"Born: Jul 17, 1980",B.weight: 57.21,Group: A,1: 120,2: 125,3: -128,Total: 125,58kgWomen,CleanJerk,206
-Rank: 3,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Born: Jan 09, 1993",B.weight: 57.60,Group: A,1: 109,2: 112,3: 114,Total: 114,58kgWomen,CleanJerk,206
-Rank: 4,CONTRERAS Yuderqui Maridalia,DOM,"Born: Mar 27, 1986",B.weight: 55.75,Group: A,1: -108,2: 108,3: 111,Total: 111,58kgWomen,CleanJerk,206
-Rank: 5,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 56.31,Group: A,1: 105,2: -113,3: -113,Total: 105,58kgWomen,CleanJerk,206
-Rank: 6,ROJAS Massiel,CHI,"Born: Jul 11, 1984",B.weight: 56.95,Group: A,1: 100,2: 105,3: -107,Total: 105,58kgWomen,CleanJerk,206
-Rank: 7,BERUBE Jacquelynn Ann,USA,"Born: Dec 09, 1971",B.weight: 57.63,Group: B,1: 103,2: -105,3: -105,Total: 103,58kgWomen,CleanJerk,206
-Rank: 8,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Born: Apr 25, 1981",B.weight: 57.47,Group: B,1: 96,2: -100,3: 100,Total: 100,58kgWomen,CleanJerk,206
-Rank: 9,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Born: Mar 13, 1993",B.weight: 57.25,Group: C,1: 90,2: 95,3: 97,Total: 97,58kgWomen,CleanJerk,206
-Rank: 10,DESPRES Isabelle Mireille,CAN,"Born: Sep 05, 1980",B.weight: 57.80,Group: B,1: 97,2: -100,3: -100,Total: 97,58kgWomen,CleanJerk,206
-Rank: 11,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Born: Jul 22, 1986",B.weight: 55.11,Group: C,1: - 85,2: 85,3: 88,Total: 88,58kgWomen,CleanJerk,206
-Rank: 12,CARDENAS QUIROZ Angie Nikelly,PER,"Born: Jan 28, 1994",B.weight: 56.85,Group: C,1: 88,2: - 93,3: - 93,Total: 88,58kgWomen,CleanJerk,206
-Rank: 13,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Born: Jan 18, 1996",B.weight: 57.24,Group: C,1: 80,2: - 85,3: 85,Total: 85,58kgWomen,CleanJerk,206
-Rank: 14,ARROYO Widalys,PUR,"Born: Mar 24, 1977",B.weight: 56.82,Group: C,1: 83,2: - 88,3: - 90,Total: 83,58kgWomen,CleanJerk,206
-Rank: ---,DE AGUIAR GONCALVES Alexsandra,BRA,"Born: Mar 12, 1989",B.weight: 55.85,Group: B,1: - 98,2: - 98,3: - 98,Total: ---,58kgWomen,CleanJerk,206
-Rank: ---,ALONSO Maria Amparo,ARG,"Born: Jul 10, 1987",B.weight: 57.74,Group: C,1: - 80,2: - 80,3: - 80,Total: ---,58kgWomen,CleanJerk,206
-Rank: 1,HEREDIA CUESTA Jackelina,COL,"Born: Dec 31, 1988",B.weight: 57.74,Group: A,Snatch: 98,CI&Jerk: 128,Total: 226,,58kgWomen,Total,206
-Rank: 2,ESCOBAR GUERRERO Maria Alexandra,ECU,"Born: Jul 17, 1980",B.weight: 57.21,Group: A,Snatch: 100,CI&Jerk: 125,Total: 225,,58kgWomen,Total,206
-Rank: 3,CONTRERAS Yuderqui Maridalia,DOM,"Born: Mar 27, 1986",B.weight: 55.75,Group: A,Snatch: 95,CI&Jerk: 111,Total: 206,,58kgWomen,Total,206
-Rank: 4,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 56.31,Group: A,Snatch: 91,CI&Jerk: 105,Total: 196,,58kgWomen,Total,206
-Rank: 5,ROJAS Massiel,CHI,"Born: Jul 11, 1984",B.weight: 56.95,Group: A,Snatch: 84,CI&Jerk: 105,Total: 189,,58kgWomen,Total,206
-Rank: 6,BERUBE Jacquelynn Ann,USA,"Born: Dec 09, 1971",B.weight: 57.63,Group: B,Snatch: 83,CI&Jerk: 103,Total: 186,,58kgWomen,Total,206
-Rank: 7,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Born: Apr 25, 1981",B.weight: 57.47,Group: B,Snatch: 82,CI&Jerk: 100,Total: 182,,58kgWomen,Total,206
-Rank: 8,DESPRES Isabelle Mireille,CAN,"Born: Sep 05, 1980",B.weight: 57.80,Group: B,Snatch: 80,CI&Jerk: 97,Total: 177,,58kgWomen,Total,206
-Rank: 9,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Born: Mar 13, 1993",B.weight: 57.25,Group: C,Snatch: 73,CI&Jerk: 97,Total: 170,,58kgWomen,Total,206
-Rank: 10,CARDENAS QUIROZ Angie Nikelly,PER,"Born: Jan 28, 1994",B.weight: 56.85,Group: C,Snatch: 70,CI&Jerk: 88,Total: 158,,58kgWomen,Total,206
-Rank: 11,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Born: Jul 22, 1986",B.weight: 55.11,Group: C,Snatch: 67,CI&Jerk: 88,Total: 155,,58kgWomen,Total,206
-Rank: 12,ARROYO Widalys,PUR,"Born: Mar 24, 1977",B.weight: 56.82,Group: C,Snatch: 68,CI&Jerk: 83,Total: 151,,58kgWomen,Total,206
-Rank: 13,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Born: Jan 18, 1996",B.weight: 57.24,Group: C,Snatch: 65,CI&Jerk: 85,Total: 150,,58kgWomen,Total,206
-Rank: ---,DE AGUIAR GONCALVES Alexsandra,BRA,"Born: Mar 12, 1989",B.weight: 55.85,Group: B,Snatch: 80,CI&Jerk: ---,Total: ---,,58kgWomen,Total,206
-Rank: ---,ALONSO Maria Amparo,ARG,"Born: Jul 10, 1987",B.weight: 57.74,Group: C,Snatch: 65,CI&Jerk: ---,Total: ---,,58kgWomen,Total,206
-Rank: ---,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Born: Jan 09, 1993",B.weight: 57.60,Group: A,Snatch: ---,CI&Jerk: 114,Total: ---,,58kgWomen,Total,206
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 60.68,Group: A,1: 100,2: 103,3: -105,Total: 103,63kgWomen,Snatch,206
-Rank: 2,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 63.00,Group: A,1: 98,2: 102,3: -105,Total: 102,63kgWomen,Snatch,206
-Rank: 3,DOMINGUEZ LARA Monica Patricia,MEX,"Born: Mar 05, 1988",B.weight: 61.43,Group: B,1: 88,2: 91,3: 94,Total: 94,63kgWomen,Snatch,206
-Rank: 4,PARDO MARRUGO Nidia Rosa,VEN,"Born: Jan 14, 1983",B.weight: 61.26,Group: A,1: - 92,2: - 92,3: 92,Total: 92,63kgWomen,Snatch,206
-Rank: 5,PERKOVICH Ashley Anastasia,USA,"Born: Nov 23, 1990",B.weight: 61.35,Group: B,1: 90,2: - 93,3: - 94,Total: 90,63kgWomen,Snatch,206
-Rank: 6,RIVERA MARTINEZ Rizelyx,USA,"Born: Sep 02, 1987",B.weight: 60.97,Group: B,1: 87,2: - 90,3: - 90,Total: 87,63kgWomen,Snatch,206
-Rank: 7,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.23,Group: B,1: - 87,2: 87,3: - 90,Total: 87,63kgWomen,Snatch,206
-Rank: 8,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Born: Sep 10, 1987",B.weight: 61.94,Group: B,1: 76,2: - 81,3: 81,Total: 81,63kgWomen,Snatch,206
-Rank: 9,ACOSTA Soledad,ARG,"Born: Apr 21, 1984",B.weight: 62.78,Group: C,1: - 73,2: - 73,3: 73,Total: 73,63kgWomen,Snatch,206
-Rank: 10,CARCAMO LOPEZ Karla Lorena,ESA,"Born: Nov 08, 1991",B.weight: 61.73,Group: B,1: 72,2: - 77,3: - 77,Total: 72,63kgWomen,Snatch,206
-Rank: 11,PALACIOS Joana Valeria,ARG,"Born: Nov 08, 1996",B.weight: 62.46,Group: C,1: 71,2: - 75,3: - 75,Total: 71,63kgWomen,Snatch,206
-Rank: 12,BERRU MONDRAGON Danitza Disney,PER,"Born: May 10, 1991",B.weight: 59.64,Group: C,1: 65,2: 68,3: - 70,Total: 68,63kgWomen,Snatch,206
-Rank: 13,ROSALES OBREGON Claudia Rebeca,NCA,"Born: May 13, 1987",B.weight: 60.03,Group: C,1: 60,2: 65,3: - 68,Total: 65,63kgWomen,Snatch,206
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 60.68,Group: A,1: 120,2: -124,3: -124,Total: 120,63kgWomen,CleanJerk,206
-Rank: 2,PARDO MARRUGO Nidia Rosa,VEN,"Born: Jan 14, 1983",B.weight: 61.26,Group: A,1: -119,2: 119,3: -122,Total: 119,63kgWomen,CleanJerk,206
-Rank: 3,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 63.00,Group: A,1: 119,2: -123,3: -123,Total: 119,63kgWomen,CleanJerk,206
-Rank: 4,DOMINGUEZ LARA Monica Patricia,MEX,"Born: Mar 05, 1988",B.weight: 61.43,Group: B,1: -110,2: 110,3: 115,Total: 115,63kgWomen,CleanJerk,206
-Rank: 5,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.23,Group: B,1: -110,2: -110,3: 110,Total: 110,63kgWomen,CleanJerk,206
-Rank: 6,PERKOVICH Ashley Anastasia,USA,"Born: Nov 23, 1990",B.weight: 61.35,Group: B,1: 102,2: -105,3: 108,Total: 108,63kgWomen,CleanJerk,206
-Rank: 7,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Born: Sep 10, 1987",B.weight: 61.94,Group: B,1: 102,2: -106,3: 106,Total: 106,63kgWomen,CleanJerk,206
-Rank: 8,PALACIOS Joana Valeria,ARG,"Born: Nov 08, 1996",B.weight: 62.46,Group: C,1: 94,2: 97,3: 101,Total: 101,63kgWomen,CleanJerk,206
-Rank: 9,CARCAMO LOPEZ Karla Lorena,ESA,"Born: Nov 08, 1991",B.weight: 61.73,Group: B,1: 93,2: 96,3: - 99,Total: 96,63kgWomen,CleanJerk,206
-Rank: 10,BERRU MONDRAGON Danitza Disney,PER,"Born: May 10, 1991",B.weight: 59.64,Group: C,1: 88,2: 90,3: 92,Total: 92,63kgWomen,CleanJerk,206
-Rank: 11,ACOSTA Soledad,ARG,"Born: Apr 21, 1984",B.weight: 62.78,Group: C,1: 90,2: - 94,3: - 94,Total: 90,63kgWomen,CleanJerk,206
-Rank: 12,ROSALES OBREGON Claudia Rebeca,NCA,"Born: May 13, 1987",B.weight: 60.03,Group: C,1: 80,2: 85,3: 88,Total: 88,63kgWomen,CleanJerk,206
-Rank: ---,RIVERA MARTINEZ Rizelyx,USA,"Born: Sep 02, 1987",B.weight: 60.97,Group: B,1: -105,2: -105,3: -105,Total: ---,63kgWomen,CleanJerk,206
-Rank: 1,RIVAS ORDONEZ Lina Marcela,COL,"Born: Apr 24, 1990",B.weight: 60.68,Group: A,Snatch: 103,CI&Jerk: 120,Total: 223,,63kgWomen,Total,206
-Rank: 2,ACOSTA VALDEZ Luz Mercedes,MEX,"Born: Dec 22, 1980",B.weight: 63.00,Group: A,Snatch: 102,CI&Jerk: 119,Total: 221,,63kgWomen,Total,206
-Rank: 3,PARDO MARRUGO Nidia Rosa,VEN,"Born: Jan 14, 1983",B.weight: 61.26,Group: A,Snatch: 92,CI&Jerk: 119,Total: 211,,63kgWomen,Total,206
-Rank: 4,DOMINGUEZ LARA Monica Patricia,MEX,"Born: Mar 05, 1988",B.weight: 61.43,Group: B,Snatch: 94,CI&Jerk: 115,Total: 209,,63kgWomen,Total,206
-Rank: 5,PERKOVICH Ashley Anastasia,USA,"Born: Nov 23, 1990",B.weight: 61.35,Group: B,Snatch: 90,CI&Jerk: 108,Total: 198,,63kgWomen,Total,206
-Rank: 6,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.23,Group: B,Snatch: 87,CI&Jerk: 110,Total: 197,,63kgWomen,Total,206
-Rank: 7,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Born: Sep 10, 1987",B.weight: 61.94,Group: B,Snatch: 81,CI&Jerk: 106,Total: 187,,63kgWomen,Total,206
-Rank: 8,PALACIOS Joana Valeria,ARG,"Born: Nov 08, 1996",B.weight: 62.46,Group: C,Snatch: 71,CI&Jerk: 101,Total: 172,,63kgWomen,Total,206
-Rank: 9,CARCAMO LOPEZ Karla Lorena,ESA,"Born: Nov 08, 1991",B.weight: 61.73,Group: B,Snatch: 72,CI&Jerk: 96,Total: 168,,63kgWomen,Total,206
-Rank: 10,ACOSTA Soledad,ARG,"Born: Apr 21, 1984",B.weight: 62.78,Group: C,Snatch: 73,CI&Jerk: 90,Total: 163,,63kgWomen,Total,206
-Rank: 11,BERRU MONDRAGON Danitza Disney,PER,"Born: May 10, 1991",B.weight: 59.64,Group: C,Snatch: 68,CI&Jerk: 92,Total: 160,,63kgWomen,Total,206
-Rank: 12,ROSALES OBREGON Claudia Rebeca,NCA,"Born: May 13, 1987",B.weight: 60.03,Group: C,Snatch: 65,CI&Jerk: 88,Total: 153,,63kgWomen,Total,206
-Rank: ---,RIVERA MARTINEZ Rizelyx,USA,"Born: Sep 02, 1987",B.weight: 60.97,Group: B,Snatch: 87,CI&Jerk: ---,Total: ---,,63kgWomen,Total,206
-Rank: 1,VALOYES CUESTA Ubaldina,COL,"Born: Jul 06, 1982",B.weight: 68.97,Group: A,1: 105,2: 110,3: -113,Total: 110,69kgWomen,Snatch,206
-Rank: 2,PEREZ TIGRERO Mercedes Isabel,COL,"Born: Aug 07, 1987",B.weight: 67.81,Group: A,1: 100,2: -105,3: 105,Total: 105,69kgWomen,Snatch,206
-Rank: 3,TENORIO SILVA Rosa Angela,ECU,"Born: Oct 02, 1984",B.weight: 68.46,Group: A,1: 93,2: 96,3: 101,Total: 101,69kgWomen,Snatch,206
-Rank: 4,FUENTES ZAVALA Aremi,MEX,"Born: May 23, 1993",B.weight: 67.39,Group: A,1: 93,2: - 96,3: - 96,Total: 93,69kgWomen,Snatch,206
-Rank: 5,MENEZES LACERDA Liliane,BRA,"Born: Aug 17, 1985",B.weight: 68.14,Group: A,1: 88,2: - 91,3: 91,Total: 91,69kgWomen,Snatch,206
-Rank: 6,TOLEDO VEGA Angie,CHI,"Born: Oct 28, 1989",B.weight: 68.78,Group: B,1: 80,2: 85,3: 90,Total: 90,69kgWomen,Snatch,206
-Rank: 7,NAVARRO CASTILLO Rocio Yamileth,PAN,"Born: Nov 18, 1990",B.weight: 66.25,Group: B,1: - 83,2: 83,3: 85,Total: 85,69kgWomen,Snatch,206
-Rank: 8,WARD Arlene Johanna,USA,"Born: Jun 11, 1986",B.weight: 68.42,Group: B,1: 78,2: 81,3: 84,Total: 84,69kgWomen,Snatch,206
-Rank: 9,DIAZ Natalia,ARG,"Born: Nov 23, 1981",B.weight: 68.03,Group: B,1: 75,2: - 78,3: 78,Total: 78,69kgWomen,Snatch,206
-Rank: 10,VALDIVIA SAJAMI Veronica,PER,"Born: Dec 28, 1994",B.weight: 63.77,Group: B,1: 58,2: 61,3: 63,Total: 63,69kgWomen,Snatch,206
-Rank: 11,CARDONA Vanessa,PUR,"Born: Jul 30, 1988",B.weight: 68.24,Group: B,1: 57,2: 62,3: - 67,Total: 62,69kgWomen,Snatch,206
-Rank: 1,PEREZ TIGRERO Mercedes Isabel,COL,"Born: Aug 07, 1987",B.weight: 67.81,Group: A,1: 130,2: -135,3: 135,Total: 135,69kgWomen,CleanJerk,206
-Rank: 2,VALOYES CUESTA Ubaldina,COL,"Born: Jul 06, 1982",B.weight: 68.97,Group: A,1: -130,2: 130,3: -135,Total: 130,69kgWomen,CleanJerk,206
-Rank: 3,TENORIO SILVA Rosa Angela,ECU,"Born: Oct 02, 1984",B.weight: 68.46,Group: A,1: 114,2: 117,3: 119,Total: 119,69kgWomen,CleanJerk,206
-Rank: 4,TOLEDO VEGA Angie,CHI,"Born: Oct 28, 1989",B.weight: 68.78,Group: B,1: 107,2: 112,3: 116,Total: 116,69kgWomen,CleanJerk,206
-Rank: 5,FUENTES ZAVALA Aremi,MEX,"Born: May 23, 1993",B.weight: 67.39,Group: A,1: 115,2: -120,3: -120,Total: 115,69kgWomen,CleanJerk,206
-Rank: 6,MENEZES LACERDA Liliane,BRA,"Born: Aug 17, 1985",B.weight: 68.14,Group: A,1: 110,2: 115,3: -120,Total: 115,69kgWomen,CleanJerk,206
-Rank: 7,WARD Arlene Johanna,USA,"Born: Jun 11, 1986",B.weight: 68.42,Group: B,1: 96,2: 100,3: 103,Total: 103,69kgWomen,CleanJerk,206
-Rank: 8,NAVARRO CASTILLO Rocio Yamileth,PAN,"Born: Nov 18, 1990",B.weight: 66.25,Group: B,1: -101,2: -101,3: 102,Total: 102,69kgWomen,CleanJerk,206
-Rank: 9,DIAZ Natalia,ARG,"Born: Nov 23, 1981",B.weight: 68.03,Group: B,1: 93,2: 97,3: -101,Total: 97,69kgWomen,CleanJerk,206
-Rank: 10,CARDONA Vanessa,PUR,"Born: Jul 30, 1988",B.weight: 68.24,Group: B,1: 83,2: 87,3: - 91,Total: 87,69kgWomen,CleanJerk,206
-Rank: 11,VALDIVIA SAJAMI Veronica,PER,"Born: Dec 28, 1994",B.weight: 63.77,Group: B,1: 82,2: 85,3: - 87,Total: 85,69kgWomen,CleanJerk,206
-Rank: 1,PEREZ TIGRERO Mercedes Isabel,COL,"Born: Aug 07, 1987",B.weight: 67.81,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,69kgWomen,Total,206
-Rank: 2,VALOYES CUESTA Ubaldina,COL,"Born: Jul 06, 1982",B.weight: 68.97,Group: A,Snatch: 110,CI&Jerk: 130,Total: 240,,69kgWomen,Total,206
-Rank: 3,TENORIO SILVA Rosa Angela,ECU,"Born: Oct 02, 1984",B.weight: 68.46,Group: A,Snatch: 101,CI&Jerk: 119,Total: 220,,69kgWomen,Total,206
-Rank: 4,FUENTES ZAVALA Aremi,MEX,"Born: May 23, 1993",B.weight: 67.39,Group: A,Snatch: 93,CI&Jerk: 115,Total: 208,,69kgWomen,Total,206
-Rank: 5,MENEZES LACERDA Liliane,BRA,"Born: Aug 17, 1985",B.weight: 68.14,Group: A,Snatch: 91,CI&Jerk: 115,Total: 206,,69kgWomen,Total,206
-Rank: 6,TOLEDO VEGA Angie,CHI,"Born: Oct 28, 1989",B.weight: 68.78,Group: B,Snatch: 90,CI&Jerk: 116,Total: 206,,69kgWomen,Total,206
-Rank: 7,NAVARRO CASTILLO Rocio Yamileth,PAN,"Born: Nov 18, 1990",B.weight: 66.25,Group: B,Snatch: 85,CI&Jerk: 102,Total: 187,,69kgWomen,Total,206
-Rank: 8,WARD Arlene Johanna,USA,"Born: Jun 11, 1986",B.weight: 68.42,Group: B,Snatch: 84,CI&Jerk: 103,Total: 187,,69kgWomen,Total,206
-Rank: 9,DIAZ Natalia,ARG,"Born: Nov 23, 1981",B.weight: 68.03,Group: B,Snatch: 78,CI&Jerk: 97,Total: 175,,69kgWomen,Total,206
-Rank: 10,CARDONA Vanessa,PUR,"Born: Jul 30, 1988",B.weight: 68.24,Group: B,Snatch: 62,CI&Jerk: 87,Total: 149,,69kgWomen,Total,206
-Rank: 11,VALDIVIA SAJAMI Veronica,PER,"Born: Dec 28, 1994",B.weight: 63.77,Group: B,Snatch: 63,CI&Jerk: 85,Total: 148,,69kgWomen,Total,206
-Rank: 1,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.68,Group: A,1: 92,2: 97,3: -100,Total: 97,75kgWomen,Snatch,206
-Rank: 2,ANTONIA FERREIRA Jaqueline,BRA,"Born: Mar 05, 1987",B.weight: 73.52,Group: A,1: 93,2: - 97,3: - 99,Total: 93,75kgWomen,Snatch,206
-Rank: 3,SANGHERA Prabdeep Kaur,CAN,"Born: Nov 15, 1993",B.weight: 71.55,Group: B,1: - 85,2: 85,3: 90,Total: 90,75kgWomen,Snatch,206
-Rank: 4,MATAMALA ARAYA Nicol Valeska,CHI,"Born: Aug 07, 1988",B.weight: 74.88,Group: A,1: 85,2: 90,3: - 95,Total: 90,75kgWomen,Snatch,206
-Rank: 5,LIMA DE ARAUJO Monique Maria,BRA,"Born: May 30, 1992",B.weight: 70.26,Group: B,1: 80,2: 85,3: - 90,Total: 85,75kgWomen,Snatch,206
-Rank: 6,CALZADILLA Lubdys,VEN,"Born: Jan 17, 1993",B.weight: 74.30,Group: A,1: 85,2: - 90,3: - 90,Total: 85,75kgWomen,Snatch,206
-Rank: 7,PRATTS Janelise,PUR,"Born: May 12, 1992",B.weight: 72.68,Group: B,1: 72,2: - 78,3: 78,Total: 78,75kgWomen,Snatch,206
-Rank: 8,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Born: Apr 17, 1990",B.weight: 74.85,Group: B,1: - 78,2: 78,3: - 81,Total: 78,75kgWomen,Snatch,206
-Rank: 9,HOSSEIN Ruth,ARG,"Born: Apr 25, 1981",B.weight: 72.47,Group: B,1: - 73,2: 73,3: 77,Total: 77,75kgWomen,Snatch,206
-Rank: 10,DIAZ OBANDO Cristina Del,NCA,"Born: Sep 21, 1987",B.weight: 71.35,Group: B,1: - 65,2: 65,3: 70,Total: 70,75kgWomen,Snatch,206
-Rank: 1,ANTONIA FERREIRA Jaqueline,BRA,"Born: Mar 05, 1987",B.weight: 73.52,Group: A,1: 117,2: 122,3: 125,Total: 125,75kgWomen,CleanJerk,206
-Rank: 2,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.68,Group: A,1: 121,2: -125,3: -125,Total: 121,75kgWomen,CleanJerk,206
-Rank: 3,CALZADILLA Lubdys,VEN,"Born: Jan 17, 1993",B.weight: 74.30,Group: A,1: 113,2: 119,3: -122,Total: 119,75kgWomen,CleanJerk,206
-Rank: 4,SANGHERA Prabdeep Kaur,CAN,"Born: Nov 15, 1993",B.weight: 71.55,Group: B,1: 102,2: 107,3: -110,Total: 107,75kgWomen,CleanJerk,206
-Rank: 5,MATAMALA ARAYA Nicol Valeska,CHI,"Born: Aug 07, 1988",B.weight: 74.88,Group: A,1: 105,2: -110,3: -110,Total: 105,75kgWomen,CleanJerk,206
-Rank: 6,LIMA DE ARAUJO Monique Maria,BRA,"Born: May 30, 1992",B.weight: 70.26,Group: B,1: 100,2: -105,3: -105,Total: 100,75kgWomen,CleanJerk,206
-Rank: 7,HOSSEIN Ruth,ARG,"Born: Apr 25, 1981",B.weight: 72.47,Group: B,1: 94,2: - 98,3: 100,Total: 100,75kgWomen,CleanJerk,206
-Rank: 8,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Born: Apr 17, 1990",B.weight: 74.85,Group: B,1: 93,2: 100,3: -105,Total: 100,75kgWomen,CleanJerk,206
-Rank: 9,PRATTS Janelise,PUR,"Born: May 12, 1992",B.weight: 72.68,Group: B,1: 90,2: - 95,3: 95,Total: 95,75kgWomen,CleanJerk,206
-Rank: ---,DIAZ OBANDO Cristina Del,NCA,"Born: Sep 21, 1987",B.weight: 71.35,Group: B,1: - 80,2: - 80,3: - 80,Total: ---,75kgWomen,CleanJerk,206
-Rank: 1,ANTONIA FERREIRA Jaqueline,BRA,"Born: Mar 05, 1987",B.weight: 73.52,Group: A,Snatch: 93,CI&Jerk: 125,Total: 218,,75kgWomen,Total,206
-Rank: 2,VALDES PARIS Maria Fernanda,CHI,"Born: Mar 17, 1992",B.weight: 74.68,Group: A,Snatch: 97,CI&Jerk: 121,Total: 218,,75kgWomen,Total,206
-Rank: 3,CALZADILLA Lubdys,VEN,"Born: Jan 17, 1993",B.weight: 74.30,Group: A,Snatch: 85,CI&Jerk: 119,Total: 204,,75kgWomen,Total,206
-Rank: 4,SANGHERA Prabdeep Kaur,CAN,"Born: Nov 15, 1993",B.weight: 71.55,Group: B,Snatch: 90,CI&Jerk: 107,Total: 197,,75kgWomen,Total,206
-Rank: 5,MATAMALA ARAYA Nicol Valeska,CHI,"Born: Aug 07, 1988",B.weight: 74.88,Group: A,Snatch: 90,CI&Jerk: 105,Total: 195,,75kgWomen,Total,206
-Rank: 6,LIMA DE ARAUJO Monique Maria,BRA,"Born: May 30, 1992",B.weight: 70.26,Group: B,Snatch: 85,CI&Jerk: 100,Total: 185,,75kgWomen,Total,206
-Rank: 7,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Born: Apr 17, 1990",B.weight: 74.85,Group: B,Snatch: 78,CI&Jerk: 100,Total: 178,,75kgWomen,Total,206
-Rank: 8,HOSSEIN Ruth,ARG,"Born: Apr 25, 1981",B.weight: 72.47,Group: B,Snatch: 77,CI&Jerk: 100,Total: 177,,75kgWomen,Total,206
-Rank: 9,PRATTS Janelise,PUR,"Born: May 12, 1992",B.weight: 72.68,Group: B,Snatch: 78,CI&Jerk: 95,Total: 173,,75kgWomen,Total,206
-Rank: ---,DIAZ OBANDO Cristina Del,NCA,"Born: Sep 21, 1987",B.weight: 71.35,Group: B,Snatch: 70,CI&Jerk: ---,Total: ---,,75kgWomen,Total,206
-Rank: 1,NIEVE ARROYO Oliba Seledina,ECU,"Born: Nov 25, 1977",B.weight: 96.77,Group: A,1: 106,2: 110,3: 117,Total: 117,+75kgWomen,Snatch,206
-Rank: 2,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 101.34,Group: A,1: 101,2: 105,3: 108,Total: 108,+75kgWomen,Snatch,206
-Rank: 3,ESPINOSA Yaniuska Isabel,VEN,"Born: Dec 05, 1986",B.weight: 107.42,Group: A,1: 104,2: -107,3: 107,Total: 107,+75kgWomen,Snatch,206
-Rank: 4,PEREZ REVERON Naryury Alexandra,VEN,"Born: Sep 29, 1992",B.weight: 96.78,Group: A,1: -101,2: 101,3: 104,Total: 104,+75kgWomen,Snatch,206
-Rank: 5,AMAECHI Chioma Madonna,USA,"Born: Mar 02, 1992",B.weight: 108.91,Group: A,1: -101,2: 101,3: -105,Total: 101,+75kgWomen,Snatch,206
-Rank: 6,PARRA Priscila,MEX,"Born: Feb 18, 1989",B.weight: 79.87,Group: A,1: 93,2: 97,3: 100,Total: 100,+75kgWomen,Snatch,206
-Rank: 7,SERPAN Shelbie Renee,USA,"Born: Mar 21, 1992",B.weight: 116.14,Group: B,1: 95,2: 98,3: -100,Total: 98,+75kgWomen,Snatch,206
-Rank: 8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Born: Aug 01, 1983",B.weight: 134.14,Group: A,1: 91,2: 98,3: -101,Total: 98,+75kgWomen,Snatch,206
-Rank: 9,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 121.29,Group: A,1: 92,2: 95,3: - 97,Total: 95,+75kgWomen,Snatch,206
-Rank: 10,GOMEZ Soto Nubia,PUR,"Born: Sep 25, 1990",B.weight: 110.37,Group: B,1: 87,2: 90,3: - 92,Total: 90,+75kgWomen,Snatch,206
-Rank: 11,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Born: Apr 27, 1991",B.weight: 85.05,Group: B,1: - 87,2: - 87,3: 87,Total: 87,+75kgWomen,Snatch,206
-Rank: 12,OCON Carolina,ESA,"Born: Aug 04, 1993",B.weight: 97.70,Group: B,1: 75,2: 80,3: 82,Total: 82,+75kgWomen,Snatch,206
-Rank: 13,NAVAS SAMAYOA Erika Patricia,ESA,"Born: Mar 30, 1987",B.weight: 81.10,Group: B,1: - 75,2: 75,3: - 80,Total: 75,+75kgWomen,Snatch,206
-Rank: 14,MEJIA ESPINOZA Katia Yuvanela,NCA,"Born: May 18, 1997",B.weight: 80.06,Group: B,1: 40,2: 45,3: 50,Total: 50,+75kgWomen,Snatch,206
-Rank: 1,NIEVE ARROYO Oliba Seledina,ECU,"Born: Nov 25, 1977",B.weight: 96.77,Group: A,1: 136,2: 140,3: -145,Total: 140,+75kgWomen,CleanJerk,206
-Rank: 2,AMAECHI Chioma Madonna,USA,"Born: Mar 02, 1992",B.weight: 108.91,Group: A,1: -130,2: 130,3: 137,Total: 137,+75kgWomen,CleanJerk,206
-Rank: 3,PEREZ REVERON Naryury Alexandra,VEN,"Born: Sep 29, 1992",B.weight: 96.78,Group: A,1: 130,2: 135,3: -138,Total: 135,+75kgWomen,CleanJerk,206
-Rank: 4,ESPINOSA Yaniuska Isabel,VEN,"Born: Dec 05, 1986",B.weight: 107.42,Group: A,1: -134,2: 134,3: -138,Total: 134,+75kgWomen,CleanJerk,206
-Rank: 5,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 121.29,Group: A,1: 120,2: 131,3: -135,Total: 131,+75kgWomen,CleanJerk,206
-Rank: 6,PARRA Priscila,MEX,"Born: Feb 18, 1989",B.weight: 79.87,Group: A,1: 117,2: 121,3: 124,Total: 124,+75kgWomen,CleanJerk,206
-Rank: 7,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 101.34,Group: A,1: 118,2: -122,3: 122,Total: 122,+75kgWomen,CleanJerk,206
-Rank: 8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Born: Aug 01, 1983",B.weight: 134.14,Group: A,1: 122,2: -136,3: -136,Total: 122,+75kgWomen,CleanJerk,206
-Rank: 9,SERPAN Shelbie Renee,USA,"Born: Mar 21, 1992",B.weight: 116.14,Group: B,1: 120,2: -125,3: -125,Total: 120,+75kgWomen,CleanJerk,206
-Rank: 10,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Born: Apr 27, 1991",B.weight: 85.05,Group: B,1: 109,2: 112,3: 115,Total: 115,+75kgWomen,CleanJerk,206
-Rank: 11,GOMEZ Soto Nubia,PUR,"Born: Sep 25, 1990",B.weight: 110.37,Group: B,1: 106,2: 109,3: 112,Total: 112,+75kgWomen,CleanJerk,206
-Rank: 12,OCON Carolina,ESA,"Born: Aug 04, 1993",B.weight: 97.70,Group: B,1: 95,2: 100,3: 103,Total: 103,+75kgWomen,CleanJerk,206
-Rank: 13,NAVAS SAMAYOA Erika Patricia,ESA,"Born: Mar 30, 1987",B.weight: 81.10,Group: B,1: 95,2: 100,3: -103,Total: 100,+75kgWomen,CleanJerk,206
-Rank: 14,MEJIA ESPINOZA Katia Yuvanela,NCA,"Born: May 18, 1997",B.weight: 80.06,Group: B,1: 55,2: 60,3: 65,Total: 65,+75kgWomen,CleanJerk,206
-Rank: 1,NIEVE ARROYO Oliba Seledina,ECU,"Born: Nov 25, 1977",B.weight: 96.77,Group: A,Snatch: 117,CI&Jerk: 140,Total: 257,,+75kgWomen,Total,206
-Rank: 2,ESPINOSA Yaniuska Isabel,VEN,"Born: Dec 05, 1986",B.weight: 107.42,Group: A,Snatch: 107,CI&Jerk: 134,Total: 241,,+75kgWomen,Total,206
-Rank: 3,PEREZ REVERON Naryury Alexandra,VEN,"Born: Sep 29, 1992",B.weight: 96.78,Group: A,Snatch: 104,CI&Jerk: 135,Total: 239,,+75kgWomen,Total,206
-Rank: 4,AMAECHI Chioma Madonna,USA,"Born: Mar 02, 1992",B.weight: 108.91,Group: A,Snatch: 101,CI&Jerk: 137,Total: 238,,+75kgWomen,Total,206
-Rank: 5,SALADIN TOLENTINO Veronica Estela,DOM,"Born: May 21, 1992",B.weight: 101.34,Group: A,Snatch: 108,CI&Jerk: 122,Total: 230,,+75kgWomen,Total,206
-Rank: 6,SILVA GOMES Mayara,BRA,"Born: Jun 30, 1992",B.weight: 121.29,Group: A,Snatch: 95,CI&Jerk: 131,Total: 226,,+75kgWomen,Total,206
-Rank: 7,PARRA Priscila,MEX,"Born: Feb 18, 1989",B.weight: 79.87,Group: A,Snatch: 100,CI&Jerk: 124,Total: 224,,+75kgWomen,Total,206
-Rank: 8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Born: Aug 01, 1983",B.weight: 134.14,Group: A,Snatch: 98,CI&Jerk: 122,Total: 220,,+75kgWomen,Total,206
-Rank: 9,SERPAN Shelbie Renee,USA,"Born: Mar 21, 1992",B.weight: 116.14,Group: B,Snatch: 98,CI&Jerk: 120,Total: 218,,+75kgWomen,Total,206
-Rank: 10,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Born: Apr 27, 1991",B.weight: 85.05,Group: B,Snatch: 87,CI&Jerk: 115,Total: 202,,+75kgWomen,Total,206
-Rank: 11,GOMEZ Soto Nubia,PUR,"Born: Sep 25, 1990",B.weight: 110.37,Group: B,Snatch: 90,CI&Jerk: 112,Total: 202,,+75kgWomen,Total,206
-Rank: 12,OCON Carolina,ESA,"Born: Aug 04, 1993",B.weight: 97.70,Group: B,Snatch: 82,CI&Jerk: 103,Total: 185,,+75kgWomen,Total,206
-Rank: 13,NAVAS SAMAYOA Erika Patricia,ESA,"Born: Mar 30, 1987",B.weight: 81.10,Group: B,Snatch: 75,CI&Jerk: 100,Total: 175,,+75kgWomen,Total,206
-Rank: 14,MEJIA ESPINOZA Katia Yuvanela,NCA,"Born: May 18, 1997",B.weight: 80.06,Group: B,Snatch: 50,CI&Jerk: 65,Total: 115,,+75kgWomen,Total,206
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,RADA RODRIGUEZ Sergio Armando,COL,"Jan 27, 1984",55.84,A,-118,118,122,122,56kgMen,Snatch,206,True
+2,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.67,A,118,-121,-121,118,56kgMen,Snatch,206,True
+3,MONTES GONGORA Jose Lino,MEX,"Apr 18, 1989",55.61,A,108,115,-118,115,56kgMen,Snatch,206,True
+4,ROMERO Yasmani,CUB,"Sep 26, 1988",55.93,A,110,-115,-118,110,56kgMen,Snatch,206,True
+5,PRADO GUILLEN Juan Manuel,VEN,"Aug 07, 1994",55.60,B,100,-104,104,104,56kgMen,Snatch,206,True
+6,BRITO COBO Sebastian Ruben,GUA,"May 01, 1992",55.89,B,92,97,101,101,56kgMen,Snatch,206,True
+7,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.70,B,94,98,100,100,56kgMen,Snatch,206,True
+8,BARRERA SANDOVAL Francisco Javier,CHI,"May 14, 1987",55.72,A,95,100,-103,100,56kgMen,Snatch,206,True
+9,MARTINEZ Jordanlee Fabrizzio,CHI,"Sep 23, 1994",55.27,B,90,94,96,96,56kgMen,Snatch,206,True
+10,SABOYA FASABI Wilder,PER,"Jul 22, 1992",54.74,B,85,- 88,88,88,56kgMen,Snatch,206,True
+11,CARABALLO Ariel,PUR,"Oct 11, 1989",55.14,B,87,- 92,- 92,87,56kgMen,Snatch,206,True
+12,LOPEZ LOPEZ Pablo Ernesto,ESA,"Jan 08, 1991",55.36,B,80,85,87,87,56kgMen,Snatch,206,True
+13,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",54.82,B,80,85,- 88,85,56kgMen,Snatch,206,True
+---,LOPEZ AQUINO Marvin,ESA,"Sep 14, 1980",55.76,A,-105,-105,-105,---,56kgMen,Snatch,206,True
+1,MONTES GONGORA Jose Lino,MEX,"Apr 18, 1989",55.61,A,140,150,156,156,56kgMen,CleanJerk,206,True
+2,RADA RODRIGUEZ Sergio Armando,COL,"Jan 27, 1984",55.84,A,147,152,-155,152,56kgMen,CleanJerk,206,True
+3,ROMERO Yasmani,CUB,"Sep 26, 1988",55.93,A,142,147,-150,147,56kgMen,CleanJerk,206,True
+4,LOPEZ AQUINO Marvin,ESA,"Sep 14, 1980",55.76,A,130,-135,135,135,56kgMen,CleanJerk,206,True
+5,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.70,B,122,129,133,133,56kgMen,CleanJerk,206,True
+6,BARRERA SANDOVAL Francisco Javier,CHI,"May 14, 1987",55.72,A,125,130,-136,130,56kgMen,CleanJerk,206,True
+7,BRITO COBO Sebastian Ruben,GUA,"May 01, 1992",55.89,B,123,127,-130,127,56kgMen,CleanJerk,206,True
+8,PRADO GUILLEN Juan Manuel,VEN,"Aug 07, 1994",55.60,B,121,125,-130,125,56kgMen,CleanJerk,206,True
+9,SABOYA FASABI Wilder,PER,"Jul 22, 1992",54.74,B,115,120,-123,120,56kgMen,CleanJerk,206,True
+10,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",54.82,B,110,115,117,117,56kgMen,CleanJerk,206,True
+11,CARABALLO Ariel,PUR,"Oct 11, 1989",55.14,B,-113,-115,115,115,56kgMen,CleanJerk,206,True
+12,LOPEZ LOPEZ Pablo Ernesto,ESA,"Jan 08, 1991",55.36,B,100,105,107,107,56kgMen,CleanJerk,206,True
+---,MARTINEZ Jordanlee Fabrizzio,CHI,"Sep 23, 1994",55.27,B,-115,-119,-119,---,56kgMen,CleanJerk,206,True
+---,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.67,A,-150,-150,-150,---,56kgMen,CleanJerk,206,True
+1,RADA RODRIGUEZ Sergio Armando,COL,"Jan 27, 1984",55.84,A,122,152,274,,56kgMen,Total,206,True
+2,MONTES GONGORA Jose Lino,MEX,"Apr 18, 1989",55.61,A,115,156,271,,56kgMen,Total,206,True
+3,ROMERO Yasmani,CUB,"Sep 26, 1988",55.93,A,110,147,257,,56kgMen,Total,206,True
+4,ROCAFUERTE BUENAIRE Enmanuel Enrique,ECU,"Aug 17, 1992",54.70,B,100,133,233,,56kgMen,Total,206,True
+5,BARRERA SANDOVAL Francisco Javier,CHI,"May 14, 1987",55.72,A,100,130,230,,56kgMen,Total,206,True
+6,PRADO GUILLEN Juan Manuel,VEN,"Aug 07, 1994",55.60,B,104,125,229,,56kgMen,Total,206,True
+7,BRITO COBO Sebastian Ruben,GUA,"May 01, 1992",55.89,B,101,127,228,,56kgMen,Total,206,True
+8,SABOYA FASABI Wilder,PER,"Jul 22, 1992",54.74,B,88,120,208,,56kgMen,Total,206,True
+9,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",54.82,B,85,117,202,,56kgMen,Total,206,True
+10,CARABALLO Ariel,PUR,"Oct 11, 1989",55.14,B,87,115,202,,56kgMen,Total,206,True
+11,LOPEZ LOPEZ Pablo Ernesto,ESA,"Jan 08, 1991",55.36,B,87,107,194,,56kgMen,Total,206,True
+---,MARTINEZ Jordanlee Fabrizzio,CHI,"Sep 23, 1994",55.27,B,96,---,---,,56kgMen,Total,206,True
+---,LOPEZ AQUINO Marvin,ESA,"Sep 14, 1980",55.76,A,---,135,---,,56kgMen,Total,206,True
+---,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.67,A,118,---,---,,56kgMen,Total,206,True
+1,LOPEZ SANCHEZ Jesus Antonio,VEN,"Dec 17, 1984",61.64,A,125,-130,-130,125,62kgMen,Snatch,206,True
+2,SALAMANCA PINEDA Julio Cesar,ESA,"Jul 15, 1989",61.19,A,118,122,-125,122,62kgMen,Snatch,206,True
+3,HERRERA CEPEDA Erik Elvis,ECU,"Jul 28, 1994",61.35,C,109,113,117,117,62kgMen,Snatch,206,True
+4,VASQUEZ VEGAS Edwar Jose,VEN,"Jun 28, 1993",61.60,B,112,117,-120,117,62kgMen,Snatch,206,True
+5,REYES Edwin,DOM,"Nov 03, 1992",61.95,B,109,113,115,115,62kgMen,Snatch,206,True
+6,LORENZO PEREZ Julian Alberto,GUA,"Jun 18, 1989",61.66,B,-108,-108,108,108,62kgMen,Snatch,206,True
+7,PEC Tunche Wellinton,GUA,"Dec 01, 1987",61.34,B,103,-106,106,106,62kgMen,Snatch,206,True
+8,AQUINO GOMEZ Robinson,PER,"Oct 07, 1994",61.87,C,98,101,103,103,62kgMen,Snatch,206,True
+9,PRECIADO REYES Miguel Angel,PER,"Nov 03, 1994",61.64,C,95,100,102,102,62kgMen,Snatch,206,True
+10,CARLOS RUBEN Negron Torres,PUR,"Feb 05, 1992",61.73,C,100,-104,-104,100,62kgMen,Snatch,206,True
+11,FLORES Edenilson,ESA,"Jun 25, 1994",60.50,C,75,80,- 85,80,62kgMen,Snatch,206,True
+1,SALAMANCA PINEDA Julio Cesar,ESA,"Jul 15, 1989",61.19,A,155,158,160,160,62kgMen,CleanJerk,206,True
+2,LOPEZ SANCHEZ Jesus Antonio,VEN,"Dec 17, 1984",61.64,A,150,160,-167,160,62kgMen,CleanJerk,206,True
+3,PEC Tunche Wellinton,GUA,"Dec 01, 1987",61.34,B,145,150,-152,150,62kgMen,CleanJerk,206,True
+4,VASQUEZ VEGAS Edwar Jose,VEN,"Jun 28, 1993",61.60,B,141,147,-152,147,62kgMen,CleanJerk,206,True
+5,HERRERA CEPEDA Erik Elvis,ECU,"Jul 28, 1994",61.35,C,137,142,146,146,62kgMen,CleanJerk,206,True
+6,LORENZO PEREZ Julian Alberto,GUA,"Jun 18, 1989",61.66,B,136,141,-145,141,62kgMen,CleanJerk,206,True
+7,REYES Edwin,DOM,"Nov 03, 1992",61.95,B,131,136,138,138,62kgMen,CleanJerk,206,True
+8,AQUINO GOMEZ Robinson,PER,"Oct 07, 1994",61.87,C,130,-135,-135,130,62kgMen,CleanJerk,206,True
+9,PRECIADO REYES Miguel Angel,PER,"Nov 03, 1994",61.64,C,118,123,126,126,62kgMen,CleanJerk,206,True
+10,CARLOS RUBEN Negron Torres,PUR,"Feb 05, 1992",61.73,C,115,120,-123,120,62kgMen,CleanJerk,206,True
+11,FLORES Edenilson,ESA,"Jun 25, 1994",60.50,C,104,110,-115,110,62kgMen,CleanJerk,206,True
+1,LOPEZ SANCHEZ Jesus Antonio,VEN,"Dec 17, 1984",61.64,A,125,160,285,,62kgMen,Total,206,True
+2,SALAMANCA PINEDA Julio Cesar,ESA,"Jul 15, 1989",61.19,A,122,160,282,,62kgMen,Total,206,True
+3,VASQUEZ VEGAS Edwar Jose,VEN,"Jun 28, 1993",61.60,B,117,147,264,,62kgMen,Total,206,True
+4,HERRERA CEPEDA Erik Elvis,ECU,"Jul 28, 1994",61.35,C,117,146,263,,62kgMen,Total,206,True
+5,PEC Tunche Wellinton,GUA,"Dec 01, 1987",61.34,B,106,150,256,,62kgMen,Total,206,True
+6,REYES Edwin,DOM,"Nov 03, 1992",61.95,B,115,138,253,,62kgMen,Total,206,True
+7,LORENZO PEREZ Julian Alberto,GUA,"Jun 18, 1989",61.66,B,108,141,249,,62kgMen,Total,206,True
+8,AQUINO GOMEZ Robinson,PER,"Oct 07, 1994",61.87,C,103,130,233,,62kgMen,Total,206,True
+9,PRECIADO REYES Miguel Angel,PER,"Nov 03, 1994",61.64,C,102,126,228,,62kgMen,Total,206,True
+10,CARLOS RUBEN Negron Torres,PUR,"Feb 05, 1992",61.73,C,100,120,220,,62kgMen,Total,206,True
+11,FLORES Edenilson,ESA,"Jun 25, 1994",60.50,C,80,110,190,,62kgMen,Total,206,True
+1,SANCHEZ RIVERO Junior Antonio,VEN,"Jun 01, 1989",68.57,A,142,146,149,149,69kgMen,Snatch,206,True
+2,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Apr 27, 1983",64.35,A,137,142,145,145,69kgMen,Snatch,206,True
+3,MARQUEZ ONA Ediel,CUB,"Nov 13, 1993",67.40,B,132,137,140,140,69kgMen,Snatch,206,True
+4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Sep 18, 1988",68.31,B,130,-135,135,135,69kgMen,Snatch,206,True
+5,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Oct 12, 1988",68.52,A,135,-138,-138,135,69kgMen,Snatch,206,True
+6,VALDIZON CORONADO Oscar Fernando,GUA,"Jun 12, 1989",68.75,B,127,132,-137,132,69kgMen,Snatch,206,True
+7,DELGADO GAMBOA Martin Gabriel,VEN,"Feb 04, 1993",68.05,B,-125,130,-134,130,69kgMen,Snatch,206,True
+8,CATALAN Hugo Ivan,ARG,"Jan 13, 1986",68.46,B,124,128,130,130,69kgMen,Snatch,206,True
+9,GAYTAN VALDEZ Martin Israel,MEX,"Jan 09, 1991",68.03,B,123,127,-130,127,69kgMen,Snatch,206,True
+10,CORTES Jose,CHI,"Feb 14, 1991",67.63,B,-115,115,119,119,69kgMen,Snatch,206,True
+11,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",66.88,C,112,-117,117,117,69kgMen,Snatch,206,True
+12,RIVERA MARTINEZ Jesus J.,PUR,"Mar 13, 1987",66.99,C,112,-116,116,116,69kgMen,Snatch,206,True
+13,CHENIER Francois,CAN,"Jan 19, 1990",68.39,C,112,116,-118,116,69kgMen,Snatch,206,True
+14,MENDOZA GARCIA David Aurelio,HON,"Jun 21, 1986",68.42,C,110,115,-117,115,69kgMen,Snatch,206,True
+15,BIBEAU-VILLIARD Philippe,CAN,"Dec 27, 1987",68.75,C,111,-115,115,115,69kgMen,Snatch,206,True
+16,FEIJOO PEREZ Joanmanuel Dario,PER,"Aug 05, 1993",68.72,C,110,113,-115,113,69kgMen,Snatch,206,True
+17,ASCENCIO QUEZADA Albert Enrique,ESA,"Feb 10, 1988",68.65,B,-110,110,-118,110,69kgMen,Snatch,206,True
+18,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Apr 04, 1995",65.48,C,95,100,-102,100,69kgMen,Snatch,206,True
+1,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Apr 27, 1983",64.35,A,175,180,185,185,69kgMen,CleanJerk,206,True
+2,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Oct 12, 1988",68.52,A,175,-180,180,180,69kgMen,CleanJerk,206,True
+3,SANCHEZ RIVERO Junior Antonio,VEN,"Jun 01, 1989",68.57,A,170,174,-180,174,69kgMen,CleanJerk,206,True
+4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Sep 18, 1988",68.31,B,158,162,168,168,69kgMen,CleanJerk,206,True
+5,VALDIZON CORONADO Oscar Fernando,GUA,"Jun 12, 1989",68.75,B,162,166,-170,166,69kgMen,CleanJerk,206,True
+6,MARQUEZ ONA Ediel,CUB,"Nov 13, 1993",67.40,B,-158,158,162,162,69kgMen,CleanJerk,206,True
+7,CATALAN Hugo Ivan,ARG,"Jan 13, 1986",68.46,B,148,151,156,156,69kgMen,CleanJerk,206,True
+8,CORTES Jose,CHI,"Feb 14, 1991",67.63,B,142,147,151,151,69kgMen,CleanJerk,206,True
+9,GAYTAN VALDEZ Martin Israel,MEX,"Jan 09, 1991",68.03,B,143,150,-157,150,69kgMen,CleanJerk,206,True
+10,DELGADO GAMBOA Martin Gabriel,VEN,"Feb 04, 1993",68.05,B,150,-155,-156,150,69kgMen,CleanJerk,206,True
+11,ASCENCIO QUEZADA Albert Enrique,ESA,"Feb 10, 1988",68.65,B,150,-155,-155,150,69kgMen,CleanJerk,206,True
+12,FEIJOO PEREZ Joanmanuel Dario,PER,"Aug 05, 1993",68.72,C,143,147,150,150,69kgMen,CleanJerk,206,True
+13,CHENIER Francois,CAN,"Jan 19, 1990",68.39,C,142,-146,149,149,69kgMen,CleanJerk,206,True
+14,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",66.88,C,142,147,-150,147,69kgMen,CleanJerk,206,True
+15,RIVERA MARTINEZ Jesus J.,PUR,"Mar 13, 1987",66.99,C,143,-148,-148,143,69kgMen,CleanJerk,206,True
+16,BIBEAU-VILLIARD Philippe,CAN,"Dec 27, 1987",68.75,C,139,-143,143,143,69kgMen,CleanJerk,206,True
+17,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Apr 04, 1995",65.48,C,127,132,135,135,69kgMen,CleanJerk,206,True
+---,MENDOZA GARCIA David Aurelio,HON,"Jun 21, 1986",68.42,C,-145,-145,-145,---,69kgMen,CleanJerk,206,True
+1,FIGUEROA MOSQUERA Oscar Albeiro,COL,"Apr 27, 1983",64.35,A,145,185,330,,69kgMen,Total,206,True
+2,SANCHEZ RIVERO Junior Antonio,VEN,"Jun 01, 1989",68.57,A,149,174,323,,69kgMen,Total,206,True
+3,SANCHEZ GUERRERO Doyler Eustoquio,COL,"Oct 12, 1988",68.52,A,135,180,315,,69kgMen,Total,206,True
+4,VALENCIA ITURRALDE Enrique Clemente,ECU,"Sep 18, 1988",68.31,B,135,168,303,,69kgMen,Total,206,True
+5,MARQUEZ ONA Ediel,CUB,"Nov 13, 1993",67.40,B,140,162,302,,69kgMen,Total,206,True
+6,VALDIZON CORONADO Oscar Fernando,GUA,"Jun 12, 1989",68.75,B,132,166,298,,69kgMen,Total,206,True
+7,CATALAN Hugo Ivan,ARG,"Jan 13, 1986",68.46,B,130,156,286,,69kgMen,Total,206,True
+8,DELGADO GAMBOA Martin Gabriel,VEN,"Feb 04, 1993",68.05,B,130,150,280,,69kgMen,Total,206,True
+9,GAYTAN VALDEZ Martin Israel,MEX,"Jan 09, 1991",68.03,B,127,150,277,,69kgMen,Total,206,True
+10,CORTES Jose,CHI,"Feb 14, 1991",67.63,B,119,151,270,,69kgMen,Total,206,True
+11,CHENIER Francois,CAN,"Jan 19, 1990",68.39,C,116,149,265,,69kgMen,Total,206,True
+12,LANDRO RAMOS Luis G.,PUR,"Dec 01, 1990",66.88,C,117,147,264,,69kgMen,Total,206,True
+13,FEIJOO PEREZ Joanmanuel Dario,PER,"Aug 05, 1993",68.72,C,113,150,263,,69kgMen,Total,206,True
+14,ASCENCIO QUEZADA Albert Enrique,ESA,"Feb 10, 1988",68.65,B,110,150,260,,69kgMen,Total,206,True
+15,RIVERA MARTINEZ Jesus J.,PUR,"Mar 13, 1987",66.99,C,116,143,259,,69kgMen,Total,206,True
+16,BIBEAU-VILLIARD Philippe,CAN,"Dec 27, 1987",68.75,C,115,143,258,,69kgMen,Total,206,True
+17,LAHUANAMPA CASTILLO Junior Chayanne,PER,"Apr 04, 1995",65.48,C,100,135,235,,69kgMen,Total,206,True
+---,MENDOZA GARCIA David Aurelio,HON,"Jun 21, 1986",68.42,C,115,---,---,,69kgMen,Total,206,True
+1,VILLA CUERO Jhon Edison,COL,"Oct 12, 1988",75.30,A,154,-157,-157,154,77kgMen,Snatch,206,True
+2,ANDICA ANDICA Yony Alexander,COL,"Aug 26, 1987",75.47,A,145,-149,149,149,77kgMen,Snatch,206,True
+3,CAMBAR RODRIGUEZ Ivan,CUB,"Dec 29, 1983",76.84,B,137,143,146,146,77kgMen,Snatch,206,True
+4,ROMAN LAGUNA Domingo Rodrigo,MEX,"Mar 13, 1990",74.25,B,130,137,142,142,77kgMen,Snatch,206,True
+5,ROSA DA SILVA Welisson,BRA,"Nov 22, 1983",76.51,B,130,137,142,142,77kgMen,Snatch,206,True
+6,SAURI CRUZ Carlos,PUR,"Jun 21, 1974",76.62,B,130,-137,140,140,77kgMen,Snatch,206,True
+7,PENA MEJIA Juan Jesus,DOM,"Dec 15, 1992",74.35,B,-132,132,138,138,77kgMen,Snatch,206,True
+8,CERBUS Michael Frazier,USA,"Sep 23, 1986",76.17,C,130,-135,135,135,77kgMen,Snatch,206,True
+9,VIQUEZ QUIROZ Maximo,PAN,"Feb 12, 1982",74.59,C,-127,127,132,132,77kgMen,Snatch,206,True
+10,LOPEZ FARIAS Bastian Andres,CHI,"Sep 26, 1995",74.99,B,122,-127,130,130,77kgMen,Snatch,206,True
+11,PLAMONDON Pascal,CAN,"Dec 12, 1992",76.56,C,123,127,130,130,77kgMen,Snatch,206,True
+12,MONCADA LOPEZ Antonio Ramon,HON,"Oct 21, 1981",76.61,C,-120,120,-125,120,77kgMen,Snatch,206,True
+13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Jul 20, 1982",72.56,C,115,-118,118,118,77kgMen,Snatch,206,True
+14,FLORES MUNOZ Kevin Andres,HON,"Apr 04, 1990",73.42,C,115,-116,-125,115,77kgMen,Snatch,206,True
+15,PENA HURTADO Eddi Fernando,NCA,"Dec 29, 1979",73.43,C,107,-112,112,112,77kgMen,Snatch,206,True
+---,GASPAR MACHADO Rafael,BRA,"May 18, 1990",74.67,C,-122,-122,-123,---,77kgMen,Snatch,206,True
+1,ANDICA ANDICA Yony Alexander,COL,"Aug 26, 1987",75.47,A,180,188,-190,188,77kgMen,CleanJerk,206,True
+2,VILLA CUERO Jhon Edison,COL,"Oct 12, 1988",75.30,A,177,180,182,182,77kgMen,CleanJerk,206,True
+3,CAMBAR RODRIGUEZ Ivan,CUB,"Dec 29, 1983",76.84,B,170,177,180,180,77kgMen,CleanJerk,206,True
+4,ROSA DA SILVA Welisson,BRA,"Nov 22, 1983",76.51,B,170,175,-180,175,77kgMen,CleanJerk,206,True
+5,PENA MEJIA Juan Jesus,DOM,"Dec 15, 1992",74.35,B,167,174,-179,174,77kgMen,CleanJerk,206,True
+6,ROMAN LAGUNA Domingo Rodrigo,MEX,"Mar 13, 1990",74.25,B,160,170,-180,170,77kgMen,CleanJerk,206,True
+7,CERBUS Michael Frazier,USA,"Sep 23, 1986",76.17,C,160,165,-170,165,77kgMen,CleanJerk,206,True
+8,PLAMONDON Pascal,CAN,"Dec 12, 1992",76.56,C,153,158,165,165,77kgMen,CleanJerk,206,True
+9,VIQUEZ QUIROZ Maximo,PAN,"Feb 12, 1982",74.59,C,155,160,162,162,77kgMen,CleanJerk,206,True
+10,GASPAR MACHADO Rafael,BRA,"May 18, 1990",74.67,C,153,157,160,160,77kgMen,CleanJerk,206,True
+11,SAURI CRUZ Carlos,PUR,"Jun 21, 1974",76.62,B,-157,157,-165,157,77kgMen,CleanJerk,206,True
+12,LOPEZ FARIAS Bastian Andres,CHI,"Sep 26, 1995",74.99,B,155,-160,-162,155,77kgMen,CleanJerk,206,True
+13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Jul 20, 1982",72.56,C,145,150,-152,150,77kgMen,CleanJerk,206,True
+14,MONCADA LOPEZ Antonio Ramon,HON,"Oct 21, 1981",76.61,C,145,-150,150,150,77kgMen,CleanJerk,206,True
+15,PENA HURTADO Eddi Fernando,NCA,"Dec 29, 1979",73.43,C,138,-145,-145,138,77kgMen,CleanJerk,206,True
+---,FLORES MUNOZ Kevin Andres,HON,"Apr 04, 1990",73.42,C,-150,-150,-150,---,77kgMen,CleanJerk,206,True
+1,ANDICA ANDICA Yony Alexander,COL,"Aug 26, 1987",75.47,A,149,188,337,,77kgMen,Total,206,True
+2,VILLA CUERO Jhon Edison,COL,"Oct 12, 1988",75.30,A,154,182,336,,77kgMen,Total,206,True
+3,CAMBAR RODRIGUEZ Ivan,CUB,"Dec 29, 1983",76.84,B,146,180,326,,77kgMen,Total,206,True
+4,ROSA DA SILVA Welisson,BRA,"Nov 22, 1983",76.51,B,142,175,317,,77kgMen,Total,206,True
+5,ROMAN LAGUNA Domingo Rodrigo,MEX,"Mar 13, 1990",74.25,B,142,170,312,,77kgMen,Total,206,True
+6,PENA MEJIA Juan Jesus,DOM,"Dec 15, 1992",74.35,B,138,174,312,,77kgMen,Total,206,True
+7,CERBUS Michael Frazier,USA,"Sep 23, 1986",76.17,C,135,165,300,,77kgMen,Total,206,True
+8,SAURI CRUZ Carlos,PUR,"Jun 21, 1974",76.62,B,140,157,297,,77kgMen,Total,206,True
+9,PLAMONDON Pascal,CAN,"Dec 12, 1992",76.56,C,130,165,295,,77kgMen,Total,206,True
+10,VIQUEZ QUIROZ Maximo,PAN,"Feb 12, 1982",74.59,C,132,162,294,,77kgMen,Total,206,True
+11,LOPEZ FARIAS Bastian Andres,CHI,"Sep 26, 1995",74.99,B,130,155,285,,77kgMen,Total,206,True
+12,MONCADA LOPEZ Antonio Ramon,HON,"Oct 21, 1981",76.61,C,120,150,270,,77kgMen,Total,206,True
+13,MARTINEZ CASTANEDA Marvin Antonio,ESA,"Jul 20, 1982",72.56,C,118,150,268,,77kgMen,Total,206,True
+14,PENA HURTADO Eddi Fernando,NCA,"Dec 29, 1979",73.43,C,112,138,250,,77kgMen,Total,206,True
+---,GASPAR MACHADO Rafael,BRA,"May 18, 1990",74.67,C,---,160,---,,77kgMen,Total,206,True
+---,FLORES MUNOZ Kevin Andres,HON,"Apr 04, 1990",73.42,C,115,---,---,,77kgMen,Total,206,True
+1,ANDICA ANDICA Carlos Hernan,COL,"Oct 12, 1983",84.45,A,-155,155,159,159,85kgMen,Snatch,206,True
+2,MANZANO Ferney,COL,"Jan 13, 1980",83.90,A,-155,-157,157,157,85kgMen,Snatch,206,True
+3,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",84.04,B,150,157,-161,157,85kgMen,Snatch,206,True
+4,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",82.43,B,145,150,153,153,85kgMen,Snatch,206,True
+5,BALZA GARCIA Renson Rafael,VEN,"Aug 09, 1987",82.74,A,142,150,153,153,85kgMen,Snatch,206,True
+6,HERNANDEZ PAUMIER Yoelmis,CUB,"Apr 25, 1986",81.20,A,145,150,151,151,85kgMen,Snatch,206,True
+7,FARRIS Kendrick James,USA,"Jul 02, 1986",83.81,A,140,145,-155,145,85kgMen,Snatch,206,True
+8,RUIZ Sergio,MEX,"Apr 28, 1991",83.97,B,130,140,145,145,85kgMen,Snatch,206,True
+9,BRUCE Matthew Eric,USA,"Jul 11, 1983",84.81,A,139,-144,-144,139,85kgMen,Snatch,206,True
+10,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.62,B,-137,137,-143,137,85kgMen,Snatch,206,True
+11,GAITAN Jonathan,MEX,"Dec 12, 1991",84.45,B,130,-136,136,136,85kgMen,Snatch,206,True
+12,PALACIOS Ivan,ARG,"Jul 13, 1991",84.57,B,130,-135,135,135,85kgMen,Snatch,206,True
+13,VIQUEZ Victor,PAN,"Sep 23, 1982",79.87,B,130,-135,-135,130,85kgMen,Snatch,206,True
+14,CASTILLO RODRIGUEZ Javier Antonio,GUA,"May 07, 1986",83.12,C,-122,123,-126,123,85kgMen,Snatch,206,True
+15,PEREZ CRUZ Aaron Ali,NCA,"Sep 16, 1991",83.64,C,117,-122,-122,117,85kgMen,Snatch,206,True
+16,ZAPATA MENA Julio Eduardo,PER,"Apr 01, 1992",84.04,C,105,110,-113,110,85kgMen,Snatch,206,True
+17,FANOR VALLE Fanor Antonio,NCA,"Jan 03, 1992",82.04,C,100,-105,-105,100,85kgMen,Snatch,206,True
+1,HERNANDEZ PAUMIER Yoelmis,CUB,"Apr 25, 1986",81.20,A,190,197,199,199,85kgMen,CleanJerk,206,True
+2,ANDICA ANDICA Carlos Hernan,COL,"Oct 12, 1983",84.45,A,-193,193,198,198,85kgMen,CleanJerk,206,True
+3,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",82.43,B,182,189,195,195,85kgMen,CleanJerk,206,True
+4,FARRIS Kendrick James,USA,"Jul 02, 1986",83.81,A,180,192,-199,192,85kgMen,CleanJerk,206,True
+5,BALZA GARCIA Renson Rafael,VEN,"Aug 09, 1987",82.74,A,184,-190,190,190,85kgMen,CleanJerk,206,True
+6,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",84.04,B,173,180,-188,180,85kgMen,CleanJerk,206,True
+7,BRUCE Matthew Eric,USA,"Jul 11, 1983",84.81,A,174,178,-183,178,85kgMen,CleanJerk,206,True
+8,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.62,B,170,175,-179,175,85kgMen,CleanJerk,206,True
+9,PALACIOS Ivan,ARG,"Jul 13, 1991",84.57,B,165,-171,171,171,85kgMen,CleanJerk,206,True
+10,VIQUEZ Victor,PAN,"Sep 23, 1982",79.87,B,170,-175,-175,170,85kgMen,CleanJerk,206,True
+11,RUIZ Sergio,MEX,"Apr 28, 1991",83.97,B,160,170,-175,170,85kgMen,CleanJerk,206,True
+12,GAITAN Jonathan,MEX,"Dec 12, 1991",84.45,B,-170,170,-180,170,85kgMen,CleanJerk,206,True
+13,ZAPATA MENA Julio Eduardo,PER,"Apr 01, 1992",84.04,C,145,152,-155,152,85kgMen,CleanJerk,206,True
+14,PEREZ CRUZ Aaron Ali,NCA,"Sep 16, 1991",83.64,C,-148,148,-153,148,85kgMen,CleanJerk,206,True
+15,CASTILLO RODRIGUEZ Javier Antonio,GUA,"May 07, 1986",83.12,C,145,---,---,145,85kgMen,CleanJerk,206,True
+---,FANOR VALLE Fanor Antonio,NCA,"Jan 03, 1992",82.04,C,-130,-130,-130,---,85kgMen,CleanJerk,206,True
+---,MANZANO Ferney,COL,"Jan 13, 1980",83.90,A,-187,---,---,---,85kgMen,CleanJerk,206,True
+1,ANDICA ANDICA Carlos Hernan,COL,"Oct 12, 1983",84.45,A,159,198,357,,85kgMen,Total,206,True
+2,HERNANDEZ PAUMIER Yoelmis,CUB,"Apr 25, 1986",81.20,A,151,199,350,,85kgMen,Total,206,True
+3,TENORIO MINA Freddy Fernando,ECU,"Jun 14, 1991",82.43,B,153,195,348,,85kgMen,Total,206,True
+4,BALZA GARCIA Renson Rafael,VEN,"Aug 09, 1987",82.74,A,153,190,343,,85kgMen,Total,206,True
+5,FARRIS Kendrick James,USA,"Jul 02, 1986",83.81,A,145,192,337,,85kgMen,Total,206,True
+6,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",84.04,B,157,180,337,,85kgMen,Total,206,True
+7,BRUCE Matthew Eric,USA,"Jul 11, 1983",84.81,A,139,178,317,,85kgMen,Total,206,True
+8,RUIZ Sergio,MEX,"Apr 28, 1991",83.97,B,145,170,315,,85kgMen,Total,206,True
+9,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.62,B,137,175,312,,85kgMen,Total,206,True
+10,GAITAN Jonathan,MEX,"Dec 12, 1991",84.45,B,136,170,306,,85kgMen,Total,206,True
+11,PALACIOS Ivan,ARG,"Jul 13, 1991",84.57,B,135,171,306,,85kgMen,Total,206,True
+12,VIQUEZ Victor,PAN,"Sep 23, 1982",79.87,B,130,170,300,,85kgMen,Total,206,True
+13,CASTILLO RODRIGUEZ Javier Antonio,GUA,"May 07, 1986",83.12,C,123,145,268,,85kgMen,Total,206,True
+14,PEREZ CRUZ Aaron Ali,NCA,"Sep 16, 1991",83.64,C,117,148,265,,85kgMen,Total,206,True
+15,ZAPATA MENA Julio Eduardo,PER,"Apr 01, 1992",84.04,C,110,152,262,,85kgMen,Total,206,True
+---,FANOR VALLE Fanor Antonio,NCA,"Jan 03, 1992",82.04,C,100,---,---,,85kgMen,Total,206,True
+---,MANZANO Ferney,COL,"Jan 13, 1980",83.90,A,157,---,---,,85kgMen,Total,206,True
+1,VANEGA RIOS Javier Enrique,CUB,"Aug 02, 1986",91.23,A,160,166,170,170,94kgMen,Snatch,206,True
+2,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Jun 11, 1986",93.52,A,155,160,166,166,94kgMen,Snatch,206,True
+3,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Apr 22, 1991",92.00,A,145,155,162,162,94kgMen,Snatch,206,True
+4,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",93.95,A,141,147,-152,147,94kgMen,Snatch,206,True
+5,GREGORIO MACHADO Marco Tulio,BRA,"Nov 03, 1991",87.40,B,-140,140,145,145,94kgMen,Snatch,206,True
+6,WILSON Ian Burdick,USA,"Jan 08, 1994",93.43,A,145,-153,-153,145,94kgMen,Snatch,206,True
+7,CARTAGENA Moises,PUR,"Oct 31, 1975",91.42,A,142,-149,-150,142,94kgMen,Snatch,206,True
+8,SABATINI Philip Leuis,USA,"Dec 31, 1982",92.67,B,140,-145,-145,140,94kgMen,Snatch,206,True
+9,GREGORIO MACHADO Mateus Filipe,BRA,"Jul 05, 1993",88.60,B,137,-142,-142,137,94kgMen,Snatch,206,True
+10,GARCIA MENDOZA Brian Antonio,MEX,"May 05, 1991",92.11,B,137,-146,-146,137,94kgMen,Snatch,206,True
+11,PAVON FUNES Cristopher Joel,HON,"Apr 18, 1993",93.22,B,130,135,-138,135,94kgMen,Snatch,206,True
+12,RIVEROS Mauro,ARG,"Apr 20, 1988",93.56,B,125,130,135,135,94kgMen,Snatch,206,True
+13,VIERA ESPINOZA Hernan Moises,PER,"Jan 16, 1993",93.08,B,132,-137,-137,132,94kgMen,Snatch,206,True
+14,BARROS Jose Maria,ARG,"Dec 31, 1979",92.11,B,125,130,-135,130,94kgMen,Snatch,206,True
+15,JARQUIN Fernando,NCA,"Sep 13, 1980",89.74,B,115,-120,-121,115,94kgMen,Snatch,206,True
+1,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Jun 11, 1986",93.52,A,196,199,201,201,94kgMen,CleanJerk,206,True
+2,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Apr 22, 1991",92.00,A,186,195,200,200,94kgMen,CleanJerk,206,True
+3,VANEGA RIOS Javier Enrique,CUB,"Aug 02, 1986",91.23,A,193,-198,-198,193,94kgMen,CleanJerk,206,True
+4,WILSON Ian Burdick,USA,"Jan 08, 1994",93.43,A,180,190,-196,190,94kgMen,CleanJerk,206,True
+5,SABATINI Philip Leuis,USA,"Dec 31, 1982",92.67,B,175,183,-188,183,94kgMen,CleanJerk,206,True
+6,GARCIA MENDOZA Brian Antonio,MEX,"May 05, 1991",92.11,B,168,180,-186,180,94kgMen,CleanJerk,206,True
+7,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",93.95,A,172,177,180,180,94kgMen,CleanJerk,206,True
+8,CARTAGENA Moises,PUR,"Oct 31, 1975",91.42,A,170,178,-185,178,94kgMen,CleanJerk,206,True
+9,GREGORIO MACHADO Marco Tulio,BRA,"Nov 03, 1991",87.40,B,170,177,-182,177,94kgMen,CleanJerk,206,True
+10,VIERA ESPINOZA Hernan Moises,PER,"Jan 16, 1993",93.08,B,170,176,-180,176,94kgMen,CleanJerk,206,True
+11,GREGORIO MACHADO Mateus Filipe,BRA,"Jul 05, 1993",88.60,B,162,170,-173,170,94kgMen,CleanJerk,206,True
+12,PAVON FUNES Cristopher Joel,HON,"Apr 18, 1993",93.22,B,170,-175,-175,170,94kgMen,CleanJerk,206,True
+13,RIVEROS Mauro,ARG,"Apr 20, 1988",93.56,B,160,166,-170,166,94kgMen,CleanJerk,206,True
+14,BARROS Jose Maria,ARG,"Dec 31, 1979",92.11,B,155,160,165,165,94kgMen,CleanJerk,206,True
+15,JARQUIN Fernando,NCA,"Sep 13, 1980",89.74,B,150,155,-160,155,94kgMen,CleanJerk,206,True
+1,GUADAMUD BRAULIO Eduardo Francisco,ECU,"Jun 11, 1986",93.52,A,166,201,367,,94kgMen,Total,206,True
+2,VANEGA RIOS Javier Enrique,CUB,"Aug 02, 1986",91.23,A,170,193,363,,94kgMen,Total,206,True
+3,GONZALEZ BARRIOS Jesus Abrahan,VEN,"Apr 22, 1991",92.00,A,162,200,362,,94kgMen,Total,206,True
+4,WILSON Ian Burdick,USA,"Jan 08, 1994",93.43,A,145,190,335,,94kgMen,Total,206,True
+5,ARRIAGADA ASCENCIO Juan Ignacio,CHI,"Oct 01, 1990",93.95,A,147,180,327,,94kgMen,Total,206,True
+6,SABATINI Philip Leuis,USA,"Dec 31, 1982",92.67,B,140,183,323,,94kgMen,Total,206,True
+7,GREGORIO MACHADO Marco Tulio,BRA,"Nov 03, 1991",87.40,B,145,177,322,,94kgMen,Total,206,True
+8,CARTAGENA Moises,PUR,"Oct 31, 1975",91.42,A,142,178,320,,94kgMen,Total,206,True
+9,GARCIA MENDOZA Brian Antonio,MEX,"May 05, 1991",92.11,B,137,180,317,,94kgMen,Total,206,True
+10,VIERA ESPINOZA Hernan Moises,PER,"Jan 16, 1993",93.08,B,132,176,308,,94kgMen,Total,206,True
+11,GREGORIO MACHADO Mateus Filipe,BRA,"Jul 05, 1993",88.60,B,137,170,307,,94kgMen,Total,206,True
+12,PAVON FUNES Cristopher Joel,HON,"Apr 18, 1993",93.22,B,135,170,305,,94kgMen,Total,206,True
+13,RIVEROS Mauro,ARG,"Apr 20, 1988",93.56,B,135,166,301,,94kgMen,Total,206,True
+14,BARROS Jose Maria,ARG,"Dec 31, 1979",92.11,B,130,165,295,,94kgMen,Total,206,True
+15,JARQUIN Fernando,NCA,"Sep 13, 1980",89.74,B,115,155,270,,94kgMen,Total,206,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",102.51,A,180,185,190,190,105kgMen,Snatch,206,True
+2,LAPORT BRANDAO Bruno,BRA,"Apr 10, 1985",103.30,B,150,155,158,158,105kgMen,Snatch,206,True
+3,GARCIA BUSTOS Jorge Eduardo,CHI,"Apr 22, 1987",102.52,A,145,150,-153,150,105kgMen,Snatch,206,True
+4,SHANKLE Donald Clark,USA,"Mar 18, 1982",102.90,B,140,145,150,150,105kgMen,Snatch,206,True
+5,BURLA Emerson,ARG,"Dec 01, 1985",102.42,B,136,143,147,147,105kgMen,Snatch,206,True
+6,ACOSTA Alejandro,ARG,"Oct 09, 1987",95.36,B,135,140,145,145,105kgMen,Snatch,206,True
+7,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",99.24,B,135,142,-145,142,105kgMen,Snatch,206,True
+8,MARTE Keven,PUR,"Mar 04, 1992",104.20,B,137,-142,142,142,105kgMen,Snatch,206,True
+9,OSORIO Victor,CHI,"Aug 09, 1985",104.47,A,141,-148,-148,141,105kgMen,Snatch,206,True
+10,DEL TORO GUILLEN Jose Saul,MEX,"Oct 11, 1993",101.50,B,135,-140,140,140,105kgMen,Snatch,206,True
+11,CARRILLO Alejandro,ESA,"Jun 12, 1986",101.20,B,120,125,130,130,105kgMen,Snatch,206,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",102.51,A,205,215,---,215,105kgMen,CleanJerk,206,True
+2,GARCIA BUSTOS Jorge Eduardo,CHI,"Apr 22, 1987",102.52,A,182,-188,189,189,105kgMen,CleanJerk,206,True
+3,LAPORT BRANDAO Bruno,BRA,"Apr 10, 1985",103.30,B,180,185,188,188,105kgMen,CleanJerk,206,True
+4,OSORIO Victor,CHI,"Aug 09, 1985",104.47,A,-181,181,-189,181,105kgMen,CleanJerk,206,True
+5,SHANKLE Donald Clark,USA,"Mar 18, 1982",102.90,B,180,-196,-196,180,105kgMen,CleanJerk,206,True
+6,BURLA Emerson,ARG,"Dec 01, 1985",102.42,B,170,177,-181,177,105kgMen,CleanJerk,206,True
+7,MARTE Keven,PUR,"Mar 04, 1992",104.20,B,167,172,177,177,105kgMen,CleanJerk,206,True
+8,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",99.24,B,170,-180,-180,170,105kgMen,CleanJerk,206,True
+9,DEL TORO GUILLEN Jose Saul,MEX,"Oct 11, 1993",101.50,B,160,165,-170,165,105kgMen,CleanJerk,206,True
+10,ACOSTA Alejandro,ARG,"Oct 09, 1987",95.36,B,-162,162,-167,162,105kgMen,CleanJerk,206,True
+11,CARRILLO Alejandro,ESA,"Jun 12, 1986",101.20,B,-150,150,160,160,105kgMen,CleanJerk,206,True
+1,ARROYO VALDEZ Jorge David,ECU,"Sep 23, 1991",102.51,A,190,215,405,,105kgMen,Total,206,True
+2,LAPORT BRANDAO Bruno,BRA,"Apr 10, 1985",103.30,B,158,188,346,,105kgMen,Total,206,True
+3,GARCIA BUSTOS Jorge Eduardo,CHI,"Apr 22, 1987",102.52,A,150,189,339,,105kgMen,Total,206,True
+4,SHANKLE Donald Clark,USA,"Mar 18, 1982",102.90,B,150,180,330,,105kgMen,Total,206,True
+5,BURLA Emerson,ARG,"Dec 01, 1985",102.42,B,147,177,324,,105kgMen,Total,206,True
+6,OSORIO Victor,CHI,"Aug 09, 1985",104.47,A,141,181,322,,105kgMen,Total,206,True
+7,MARTE Keven,PUR,"Mar 04, 1992",104.20,B,142,177,319,,105kgMen,Total,206,True
+8,PEREIRA VITORIA Vinicius,BRA,"Mar 02, 1991",99.24,B,142,170,312,,105kgMen,Total,206,True
+9,ACOSTA Alejandro,ARG,"Oct 09, 1987",95.36,B,145,162,307,,105kgMen,Total,206,True
+10,DEL TORO GUILLEN Jose Saul,MEX,"Oct 11, 1993",101.50,B,140,165,305,,105kgMen,Total,206,True
+11,CARRILLO Alejandro,ESA,"Jun 12, 1986",101.20,B,130,160,290,,105kgMen,Total,206,True
+1,SARAIVA REIS Fernando,BRA,"Mar 10, 1990",137.35,A,180,-190,-190,180,+105kgMen,Snatch,206,True
+2,LOPEZ BOBADILLA Christian Alberto,GUA,"Mar 30, 1984",135.14,A,173,-178,-178,173,+105kgMen,Snatch,206,True
+3,KOBALADZE George,CAN,"May 24, 1976",131.20,A,165,171,-174,171,+105kgMen,Snatch,206,True
+4,MAIER Shane Daniel,USA,"May 18, 1984",129.71,B,160,165,-170,165,+105kgMen,Snatch,206,True
+5,SWART Cameron Marshall,USA,"Oct 24, 1988",144.91,B,-163,163,-170,163,+105kgMen,Snatch,206,True
+6,OSUNA LOPEZ Luis Alfredo,MEX,"Aug 08, 1989",114.17,B,141,150,160,160,+105kgMen,Snatch,206,True
+7,PHANGURA Parminder,CAN,"Oct 11, 1979",137.95,B,150,156,-160,156,+105kgMen,Snatch,206,True
+8,HOIL MAS Luis Alberto,GUA,"Sep 07, 1990",138.06,B,140,145,-150,145,+105kgMen,Snatch,206,True
+9,COUTURIER Enrique,ARG,"Jul 10, 1981",125.11,B,131,136,141,141,+105kgMen,Snatch,206,True
+10,BONILLA Javier,PUR,"Oct 24, 1986",110.67,B,-125,125,132,132,+105kgMen,Snatch,206,True
+1,SARAIVA REIS Fernando,BRA,"Mar 10, 1990",137.35,A,220,230,-235,230,+105kgMen,CleanJerk,206,True
+2,KOBALADZE George,CAN,"May 24, 1976",131.20,A,212,219,-224,219,+105kgMen,CleanJerk,206,True
+3,MAIER Shane Daniel,USA,"May 18, 1984",129.71,B,203,208,212,212,+105kgMen,CleanJerk,206,True
+4,SWART Cameron Marshall,USA,"Oct 24, 1988",144.91,B,205,-211,211,211,+105kgMen,CleanJerk,206,True
+5,LOPEZ BOBADILLA Christian Alberto,GUA,"Mar 30, 1984",135.14,A,200,205,210,210,+105kgMen,CleanJerk,206,True
+6,OSUNA LOPEZ Luis Alfredo,MEX,"Aug 08, 1989",114.17,B,180,187,192,192,+105kgMen,CleanJerk,206,True
+7,PHANGURA Parminder,CAN,"Oct 11, 1979",137.95,B,185,192,-197,192,+105kgMen,CleanJerk,206,True
+8,HOIL MAS Luis Alberto,GUA,"Sep 07, 1990",138.06,B,-171,171,-180,171,+105kgMen,CleanJerk,206,True
+9,COUTURIER Enrique,ARG,"Jul 10, 1981",125.11,B,165,-170,170,170,+105kgMen,CleanJerk,206,True
+10,BONILLA Javier,PUR,"Oct 24, 1986",110.67,B,157,165,-170,165,+105kgMen,CleanJerk,206,True
+1,SARAIVA REIS Fernando,BRA,"Mar 10, 1990",137.35,A,180,230,410,,+105kgMen,Total,206,True
+2,KOBALADZE George,CAN,"May 24, 1976",131.20,A,171,219,390,,+105kgMen,Total,206,True
+3,LOPEZ BOBADILLA Christian Alberto,GUA,"Mar 30, 1984",135.14,A,173,210,383,,+105kgMen,Total,206,True
+4,MAIER Shane Daniel,USA,"May 18, 1984",129.71,B,165,212,377,,+105kgMen,Total,206,True
+5,SWART Cameron Marshall,USA,"Oct 24, 1988",144.91,B,163,211,374,,+105kgMen,Total,206,True
+6,OSUNA LOPEZ Luis Alfredo,MEX,"Aug 08, 1989",114.17,B,160,192,352,,+105kgMen,Total,206,True
+7,PHANGURA Parminder,CAN,"Oct 11, 1979",137.95,B,156,192,348,,+105kgMen,Total,206,True
+8,HOIL MAS Luis Alberto,GUA,"Sep 07, 1990",138.06,B,145,171,316,,+105kgMen,Total,206,True
+9,COUTURIER Enrique,ARG,"Jul 10, 1981",125.11,B,141,170,311,,+105kgMen,Total,206,True
+10,BONILLA Javier,PUR,"Oct 24, 1986",110.67,B,132,165,297,,+105kgMen,Total,206,True
+1,MERCADO VILLARREAL Katherin,COL,"May 20, 1990",47.57,A,- 77,77,- 80,77,48kgWomen,Snatch,206,True
+2,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",47.90,A,70,73,75,75,48kgWomen,Snatch,206,True
+3,VALENCIA HERNANDEZ Carolina,MEX,"Feb 08, 1985",47.59,A,70,73,- 75,73,48kgWomen,Snatch,206,True
+4,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Feb 27, 1995",46.84,A,68,- 71,71,71,48kgWomen,Snatch,206,True
+5,BURGOS ORTIZ Lely Berlitt,PUR,"Jun 06, 1985",47.43,A,- 70,- 70,70,70,48kgWomen,Snatch,206,True
+6,RIVAS ARTEAGA Betsi Gabriela,VEN,"Oct 02, 1986",47.56,A,70,- 73,- 73,70,48kgWomen,Snatch,206,True
+7,REYES POZO Carolanni,DOM,"Jul 13, 1991",47.69,A,- 69,- 69,69,69,48kgWomen,Snatch,206,True
+8,SANCHEZ GAITAN Fatima Lissette,ESA,"May 12, 1988",47.91,B,62,65,67,67,48kgWomen,Snatch,206,True
+9,MURCIA VARGAS Genesis Nohemy,ESA,"Sep 18, 1990",46.03,B,- 62,62,65,65,48kgWomen,Snatch,206,True
+10,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",46.84,B,57,61,63,63,48kgWomen,Snatch,206,True
+11,CAVERO Maria Eugenia,ARG,"Apr 22, 1977",47.56,B,56,59,- 61,59,48kgWomen,Snatch,206,True
+12,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Feb 25, 1989",46.97,B,54,56,- 58,56,48kgWomen,Snatch,206,True
+13,DE LEON VALDEZ Astrid Carolina,GUA,"Mar 05, 1995",47.20,B,52,54,55,55,48kgWomen,Snatch,206,True
+14,RIOS MENDOZA Maria Leonor,NCA,"Jan 13, 1993",45.86,B,50,- 55,- 55,50,48kgWomen,Snatch,206,True
+1,MERCADO VILLARREAL Katherin,COL,"May 20, 1990",47.57,A,95,99,101,101,48kgWomen,CleanJerk,206,True
+2,VALENCIA HERNANDEZ Carolina,MEX,"Feb 08, 1985",47.59,A,90,95,100,100,48kgWomen,CleanJerk,206,True
+3,RIVAS ARTEAGA Betsi Gabriela,VEN,"Oct 02, 1986",47.56,A,92,- 96,- 96,92,48kgWomen,CleanJerk,206,True
+4,BURGOS ORTIZ Lely Berlitt,PUR,"Jun 06, 1985",47.43,A,- 90,- 90,90,90,48kgWomen,CleanJerk,206,True
+5,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Feb 27, 1995",46.84,A,84,87,- 88,87,48kgWomen,CleanJerk,206,True
+6,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",47.90,A,87,- 92,- 92,87,48kgWomen,CleanJerk,206,True
+7,REYES POZO Carolanni,DOM,"Jul 13, 1991",47.69,A,86,- 89,- 89,86,48kgWomen,CleanJerk,206,True
+8,SANCHEZ GAITAN Fatima Lissette,ESA,"May 12, 1988",47.91,B,80,84,- 87,84,48kgWomen,CleanJerk,206,True
+9,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",46.84,B,78,82,- 84,82,48kgWomen,CleanJerk,206,True
+10,MURCIA VARGAS Genesis Nohemy,ESA,"Sep 18, 1990",46.03,B,75,78,80,80,48kgWomen,CleanJerk,206,True
+11,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Feb 25, 1989",46.97,B,67,71,73,73,48kgWomen,CleanJerk,206,True
+12,DE LEON VALDEZ Astrid Carolina,GUA,"Mar 05, 1995",47.20,B,70,- 72,72,72,48kgWomen,CleanJerk,206,True
+13,CAVERO Maria Eugenia,ARG,"Apr 22, 1977",47.56,B,66,71,- 74,71,48kgWomen,CleanJerk,206,True
+14,RIOS MENDOZA Maria Leonor,NCA,"Jan 13, 1993",45.86,B,65,- 70,- 70,65,48kgWomen,CleanJerk,206,True
+1,MERCADO VILLARREAL Katherin,COL,"May 20, 1990",47.57,A,77,101,178,,48kgWomen,Total,206,True
+2,VALENCIA HERNANDEZ Carolina,MEX,"Feb 08, 1985",47.59,A,73,100,173,,48kgWomen,Total,206,True
+3,RIVAS ARTEAGA Betsi Gabriela,VEN,"Oct 02, 1986",47.56,A,70,92,162,,48kgWomen,Total,206,True
+4,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",47.90,A,75,87,162,,48kgWomen,Total,206,True
+5,BURGOS ORTIZ Lely Berlitt,PUR,"Jun 06, 1985",47.43,A,70,90,160,,48kgWomen,Total,206,True
+6,PIRON CANDELARIO Beatriz Elizabeth,DOM,"Feb 27, 1995",46.84,A,71,87,158,,48kgWomen,Total,206,True
+7,REYES POZO Carolanni,DOM,"Jul 13, 1991",47.69,A,69,86,155,,48kgWomen,Total,206,True
+8,SANCHEZ GAITAN Fatima Lissette,ESA,"May 12, 1988",47.91,B,67,84,151,,48kgWomen,Total,206,True
+9,MURCIA VARGAS Genesis Nohemy,ESA,"Sep 18, 1990",46.03,B,65,80,145,,48kgWomen,Total,206,True
+10,RAMIREZ CHUMACERO Fiorela Del Rocio,PER,"May 18, 1991",46.84,B,63,82,145,,48kgWomen,Total,206,True
+11,CAVERO Maria Eugenia,ARG,"Apr 22, 1977",47.56,B,59,71,130,,48kgWomen,Total,206,True
+12,REYNOSO LOPEZ DE GALEANO Margoth Y.,GUA,"Feb 25, 1989",46.97,B,56,73,129,,48kgWomen,Total,206,True
+13,DE LEON VALDEZ Astrid Carolina,GUA,"Mar 05, 1995",47.20,B,55,72,127,,48kgWomen,Total,206,True
+14,RIOS MENDOZA Maria Leonor,NCA,"Jan 13, 1993",45.86,B,50,65,115,,48kgWomen,Total,206,True
+1,VILLAR BARBOZA Rusmeris,COL,"Mar 28, 1983",52.67,A,87,90,92,92,53kgWomen,Snatch,206,True
+2,DOS REIS SANTOS Rosane,BRA,"Jun 20, 1987",52.28,B,75,80,82,82,53kgWomen,Snatch,206,True
+3,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Sep 23, 1981",52.53,A,80,82,- 83,82,53kgWomen,Snatch,206,True
+4,PENUNURI VERDUGO Francia Natalie,MEX,"Sep 19, 1984",52.92,B,77,81,- 83,81,53kgWomen,Snatch,206,True
+5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Jan 07, 1993",52.71,B,70,75,- 77,75,53kgWomen,Snatch,206,True
+6,PAYNE Jaque Tiara,USA,"Dec 13, 1987",52.67,C,65,68,71,71,53kgWomen,Snatch,206,True
+7,OSORIO DE ROSALES Estebana Luz,ESA,"Jun 22, 1988",52.10,B,65,68,- 70,68,53kgWomen,Snatch,206,True
+8,DAZA MALLAP Janet,PER,"Oct 21, 1994",52.71,C,62,65,67,67,53kgWomen,Snatch,206,True
+9,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.94,C,63,- 66,66,66,53kgWomen,Snatch,206,True
+10,BETANCOURT OSEJO Sonia Salvadora,NCA,"Sep 08, 1988",51.97,C,60,- 65,65,65,53kgWomen,Snatch,206,True
+11,EIRYMAR Sosa,PUR,"Feb 14, 1989",52.54,C,61,65,- 67,65,53kgWomen,Snatch,206,True
+12,LANDRAU Stephanie,PUR,"Oct 03, 1989",52.87,C,61,65,- 67,65,53kgWomen,Snatch,206,True
+13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Dec 01, 1996",51.60,C,- 50,50,55,55,53kgWomen,Snatch,206,True
+---,VERA Gabriela Yoshie,CHI,"Oct 05, 1985",52.49,B,- 67,- 67,- 67,---,53kgWomen,Snatch,206,True
+1,VILLAR BARBOZA Rusmeris,COL,"Mar 28, 1983",52.67,A,-108,108,112,112,53kgWomen,CleanJerk,206,True
+2,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Sep 23, 1981",52.53,A,107,-111,-111,107,53kgWomen,CleanJerk,206,True
+3,PENUNURI VERDUGO Francia Natalie,MEX,"Sep 19, 1984",52.92,B,98,-102,-102,98,53kgWomen,CleanJerk,206,True
+4,DOS REIS SANTOS Rosane,BRA,"Jun 20, 1987",52.28,B,92,96,-100,96,53kgWomen,CleanJerk,206,True
+5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Jan 07, 1993",52.71,B,92,---,---,92,53kgWomen,CleanJerk,206,True
+6,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.94,C,83,87,89,89,53kgWomen,CleanJerk,206,True
+7,OSORIO DE ROSALES Estebana Luz,ESA,"Jun 22, 1988",52.10,B,87,- 92,- 92,87,53kgWomen,CleanJerk,206,True
+8,DAZA MALLAP Janet,PER,"Oct 21, 1994",52.71,C,83,- 85,85,85,53kgWomen,CleanJerk,206,True
+9,EIRYMAR Sosa,PUR,"Feb 14, 1989",52.54,C,75,80,83,83,53kgWomen,CleanJerk,206,True
+10,PAYNE Jaque Tiara,USA,"Dec 13, 1987",52.67,C,78,82,- 85,82,53kgWomen,CleanJerk,206,True
+11,LANDRAU Stephanie,PUR,"Oct 03, 1989",52.87,C,77,- 82,82,82,53kgWomen,CleanJerk,206,True
+12,BETANCOURT OSEJO Sonia Salvadora,NCA,"Sep 08, 1988",51.97,C,- 79,- 79,79,79,53kgWomen,CleanJerk,206,True
+13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Dec 01, 1996",51.60,C,70,- 75,75,75,53kgWomen,CleanJerk,206,True
+---,VERA Gabriela Yoshie,CHI,"Oct 05, 1985",52.49,B,---,---,---,---,53kgWomen,CleanJerk,206,True
+1,VILLAR BARBOZA Rusmeris,COL,"Mar 28, 1983",52.67,A,92,112,204,,53kgWomen,Total,206,True
+2,HENRRIQUEZ GONZALEZ Inmara Tibisay,VEN,"Sep 23, 1981",52.53,A,82,107,189,,53kgWomen,Total,206,True
+3,PENUNURI VERDUGO Francia Natalie,MEX,"Sep 19, 1984",52.92,B,81,98,179,,53kgWomen,Total,206,True
+4,DOS REIS SANTOS Rosane,BRA,"Jun 20, 1987",52.28,B,82,96,178,,53kgWomen,Total,206,True
+5,VASQUEZ ANANGONO Tatiana Margarita,ECU,"Jan 07, 1993",52.71,B,75,92,167,,53kgWomen,Total,206,True
+6,OSORIO DE ROSALES Estebana Luz,ESA,"Jun 22, 1988",52.10,B,68,87,155,,53kgWomen,Total,206,True
+7,GONZALEZ CONTRERAS Santos Isabel,GUA,"Apr 17, 1992",52.94,C,66,89,155,,53kgWomen,Total,206,True
+8,PAYNE Jaque Tiara,USA,"Dec 13, 1987",52.67,C,71,82,153,,53kgWomen,Total,206,True
+9,DAZA MALLAP Janet,PER,"Oct 21, 1994",52.71,C,67,85,152,,53kgWomen,Total,206,True
+10,EIRYMAR Sosa,PUR,"Feb 14, 1989",52.54,C,65,83,148,,53kgWomen,Total,206,True
+11,LANDRAU Stephanie,PUR,"Oct 03, 1989",52.87,C,65,82,147,,53kgWomen,Total,206,True
+12,BETANCOURT OSEJO Sonia Salvadora,NCA,"Sep 08, 1988",51.97,C,65,79,144,,53kgWomen,Total,206,True
+13,SANTILLAN RENGIFO Yaritza Yajaira,PER,"Dec 01, 1996",51.60,C,55,75,130,,53kgWomen,Total,206,True
+---,VERA Gabriela Yoshie,CHI,"Oct 05, 1985",52.49,B,---,---,---,,53kgWomen,Total,206,True
+1,ESCOBAR GUERRERO Maria Alexandra,ECU,"Jul 17, 1980",57.21,A,95,98,100,100,58kgWomen,Snatch,206,True
+2,HEREDIA CUESTA Jackelina,COL,"Dec 31, 1988",57.74,A,95,98,-100,98,58kgWomen,Snatch,206,True
+3,CONTRERAS Yuderqui Maridalia,DOM,"Mar 27, 1986",55.75,A,90,94,95,95,58kgWomen,Snatch,206,True
+4,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",56.31,A,85,89,91,91,58kgWomen,Snatch,206,True
+5,ROJAS Massiel,CHI,"Jul 11, 1984",56.95,A,80,84,- 88,84,58kgWomen,Snatch,206,True
+6,BERUBE Jacquelynn Ann,USA,"Dec 09, 1971",57.63,B,- 83,83,- 85,83,58kgWomen,Snatch,206,True
+7,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Apr 25, 1981",57.47,B,78,82,- 84,82,58kgWomen,Snatch,206,True
+8,DE AGUIAR GONCALVES Alexsandra,BRA,"Mar 12, 1989",55.85,B,- 76,76,80,80,58kgWomen,Snatch,206,True
+9,DESPRES Isabelle Mireille,CAN,"Sep 05, 1980",57.80,B,77,- 80,80,80,58kgWomen,Snatch,206,True
+10,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Mar 13, 1993",57.25,C,70,73,- 75,73,58kgWomen,Snatch,206,True
+11,CARDENAS QUIROZ Angie Nikelly,PER,"Jan 28, 1994",56.85,C,- 70,- 70,70,70,58kgWomen,Snatch,206,True
+12,ARROYO Widalys,PUR,"Mar 24, 1977",56.82,C,- 65,65,68,68,58kgWomen,Snatch,206,True
+13,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Jul 22, 1986",55.11,C,67,- 70,- 70,67,58kgWomen,Snatch,206,True
+14,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Jan 18, 1996",57.24,C,- 62,62,65,65,58kgWomen,Snatch,206,True
+15,ALONSO Maria Amparo,ARG,"Jul 10, 1987",57.74,C,60,65,- 69,65,58kgWomen,Snatch,206,True
+---,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Jan 09, 1993",57.60,A,- 89,- 89,- 89,---,58kgWomen,Snatch,206,True
+1,HEREDIA CUESTA Jackelina,COL,"Dec 31, 1988",57.74,A,123,128,-130,128,58kgWomen,CleanJerk,206,True
+2,ESCOBAR GUERRERO Maria Alexandra,ECU,"Jul 17, 1980",57.21,A,120,125,-128,125,58kgWomen,CleanJerk,206,True
+3,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Jan 09, 1993",57.60,A,109,112,114,114,58kgWomen,CleanJerk,206,True
+4,CONTRERAS Yuderqui Maridalia,DOM,"Mar 27, 1986",55.75,A,-108,108,111,111,58kgWomen,CleanJerk,206,True
+5,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",56.31,A,105,-113,-113,105,58kgWomen,CleanJerk,206,True
+6,ROJAS Massiel,CHI,"Jul 11, 1984",56.95,A,100,105,-107,105,58kgWomen,CleanJerk,206,True
+7,BERUBE Jacquelynn Ann,USA,"Dec 09, 1971",57.63,B,103,-105,-105,103,58kgWomen,CleanJerk,206,True
+8,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Apr 25, 1981",57.47,B,96,-100,100,100,58kgWomen,CleanJerk,206,True
+9,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Mar 13, 1993",57.25,C,90,95,97,97,58kgWomen,CleanJerk,206,True
+10,DESPRES Isabelle Mireille,CAN,"Sep 05, 1980",57.80,B,97,-100,-100,97,58kgWomen,CleanJerk,206,True
+11,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Jul 22, 1986",55.11,C,- 85,85,88,88,58kgWomen,CleanJerk,206,True
+12,CARDENAS QUIROZ Angie Nikelly,PER,"Jan 28, 1994",56.85,C,88,- 93,- 93,88,58kgWomen,CleanJerk,206,True
+13,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Jan 18, 1996",57.24,C,80,- 85,85,85,58kgWomen,CleanJerk,206,True
+14,ARROYO Widalys,PUR,"Mar 24, 1977",56.82,C,83,- 88,- 90,83,58kgWomen,CleanJerk,206,True
+---,DE AGUIAR GONCALVES Alexsandra,BRA,"Mar 12, 1989",55.85,B,- 98,- 98,- 98,---,58kgWomen,CleanJerk,206,True
+---,ALONSO Maria Amparo,ARG,"Jul 10, 1987",57.74,C,- 80,- 80,- 80,---,58kgWomen,CleanJerk,206,True
+1,HEREDIA CUESTA Jackelina,COL,"Dec 31, 1988",57.74,A,98,128,226,,58kgWomen,Total,206,True
+2,ESCOBAR GUERRERO Maria Alexandra,ECU,"Jul 17, 1980",57.21,A,100,125,225,,58kgWomen,Total,206,True
+3,CONTRERAS Yuderqui Maridalia,DOM,"Mar 27, 1986",55.75,A,95,111,206,,58kgWomen,Total,206,True
+4,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",56.31,A,91,105,196,,58kgWomen,Total,206,True
+5,ROJAS Massiel,CHI,"Jul 11, 1984",56.95,A,84,105,189,,58kgWomen,Total,206,True
+6,BERUBE Jacquelynn Ann,USA,"Dec 09, 1971",57.63,B,83,103,186,,58kgWomen,Total,206,True
+7,NASCIMENTO SILVA A FERREIRA Eliane,BRA,"Apr 25, 1981",57.47,B,82,100,182,,58kgWomen,Total,206,True
+8,DESPRES Isabelle Mireille,CAN,"Sep 05, 1980",57.80,B,80,97,177,,58kgWomen,Total,206,True
+9,SALDARRIAGA DIOSES Silvana Katiuzca,PER,"Mar 13, 1993",57.25,C,73,97,170,,58kgWomen,Total,206,True
+10,CARDENAS QUIROZ Angie Nikelly,PER,"Jan 28, 1994",56.85,C,70,88,158,,58kgWomen,Total,206,True
+11,COJOM PAC DE ANDRES Elida Magdalena,GUA,"Jul 22, 1986",55.11,C,67,88,155,,58kgWomen,Total,206,True
+12,ARROYO Widalys,PUR,"Mar 24, 1977",56.82,C,68,83,151,,58kgWomen,Total,206,True
+13,MUNOZ MIRANDA Barbara Yocelyn,CHI,"Jan 18, 1996",57.24,C,65,85,150,,58kgWomen,Total,206,True
+---,DE AGUIAR GONCALVES Alexsandra,BRA,"Mar 12, 1989",55.85,B,80,---,---,,58kgWomen,Total,206,True
+---,ALONSO Maria Amparo,ARG,"Jul 10, 1987",57.74,C,65,---,---,,58kgWomen,Total,206,True
+---,FIGUEROA ROLDAN Yusleidy Mariana,VEN,"Jan 09, 1993",57.60,A,---,114,---,,58kgWomen,Total,206,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",60.68,A,100,103,-105,103,63kgWomen,Snatch,206,True
+2,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",63.00,A,98,102,-105,102,63kgWomen,Snatch,206,True
+3,DOMINGUEZ LARA Monica Patricia,MEX,"Mar 05, 1988",61.43,B,88,91,94,94,63kgWomen,Snatch,206,True
+4,PARDO MARRUGO Nidia Rosa,VEN,"Jan 14, 1983",61.26,A,- 92,- 92,92,92,63kgWomen,Snatch,206,True
+5,PERKOVICH Ashley Anastasia,USA,"Nov 23, 1990",61.35,B,90,- 93,- 94,90,63kgWomen,Snatch,206,True
+6,RIVERA MARTINEZ Rizelyx,USA,"Sep 02, 1987",60.97,B,87,- 90,- 90,87,63kgWomen,Snatch,206,True
+7,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.23,B,- 87,87,- 90,87,63kgWomen,Snatch,206,True
+8,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Sep 10, 1987",61.94,B,76,- 81,81,81,63kgWomen,Snatch,206,True
+9,ACOSTA Soledad,ARG,"Apr 21, 1984",62.78,C,- 73,- 73,73,73,63kgWomen,Snatch,206,True
+10,CARCAMO LOPEZ Karla Lorena,ESA,"Nov 08, 1991",61.73,B,72,- 77,- 77,72,63kgWomen,Snatch,206,True
+11,PALACIOS Joana Valeria,ARG,"Nov 08, 1996",62.46,C,71,- 75,- 75,71,63kgWomen,Snatch,206,True
+12,BERRU MONDRAGON Danitza Disney,PER,"May 10, 1991",59.64,C,65,68,- 70,68,63kgWomen,Snatch,206,True
+13,ROSALES OBREGON Claudia Rebeca,NCA,"May 13, 1987",60.03,C,60,65,- 68,65,63kgWomen,Snatch,206,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",60.68,A,120,-124,-124,120,63kgWomen,CleanJerk,206,True
+2,PARDO MARRUGO Nidia Rosa,VEN,"Jan 14, 1983",61.26,A,-119,119,-122,119,63kgWomen,CleanJerk,206,True
+3,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",63.00,A,119,-123,-123,119,63kgWomen,CleanJerk,206,True
+4,DOMINGUEZ LARA Monica Patricia,MEX,"Mar 05, 1988",61.43,B,-110,110,115,115,63kgWomen,CleanJerk,206,True
+5,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.23,B,-110,-110,110,110,63kgWomen,CleanJerk,206,True
+6,PERKOVICH Ashley Anastasia,USA,"Nov 23, 1990",61.35,B,102,-105,108,108,63kgWomen,CleanJerk,206,True
+7,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Sep 10, 1987",61.94,B,102,-106,106,106,63kgWomen,CleanJerk,206,True
+8,PALACIOS Joana Valeria,ARG,"Nov 08, 1996",62.46,C,94,97,101,101,63kgWomen,CleanJerk,206,True
+9,CARCAMO LOPEZ Karla Lorena,ESA,"Nov 08, 1991",61.73,B,93,96,- 99,96,63kgWomen,CleanJerk,206,True
+10,BERRU MONDRAGON Danitza Disney,PER,"May 10, 1991",59.64,C,88,90,92,92,63kgWomen,CleanJerk,206,True
+11,ACOSTA Soledad,ARG,"Apr 21, 1984",62.78,C,90,- 94,- 94,90,63kgWomen,CleanJerk,206,True
+12,ROSALES OBREGON Claudia Rebeca,NCA,"May 13, 1987",60.03,C,80,85,88,88,63kgWomen,CleanJerk,206,True
+---,RIVERA MARTINEZ Rizelyx,USA,"Sep 02, 1987",60.97,B,-105,-105,-105,---,63kgWomen,CleanJerk,206,True
+1,RIVAS ORDONEZ Lina Marcela,COL,"Apr 24, 1990",60.68,A,103,120,223,,63kgWomen,Total,206,True
+2,ACOSTA VALDEZ Luz Mercedes,MEX,"Dec 22, 1980",63.00,A,102,119,221,,63kgWomen,Total,206,True
+3,PARDO MARRUGO Nidia Rosa,VEN,"Jan 14, 1983",61.26,A,92,119,211,,63kgWomen,Total,206,True
+4,DOMINGUEZ LARA Monica Patricia,MEX,"Mar 05, 1988",61.43,B,94,115,209,,63kgWomen,Total,206,True
+5,PERKOVICH Ashley Anastasia,USA,"Nov 23, 1990",61.35,B,90,108,198,,63kgWomen,Total,206,True
+6,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.23,B,87,110,197,,63kgWomen,Total,206,True
+7,CRUZ HERNANDEZ Lesbia Marielis,GUA,"Sep 10, 1987",61.94,B,81,106,187,,63kgWomen,Total,206,True
+8,PALACIOS Joana Valeria,ARG,"Nov 08, 1996",62.46,C,71,101,172,,63kgWomen,Total,206,True
+9,CARCAMO LOPEZ Karla Lorena,ESA,"Nov 08, 1991",61.73,B,72,96,168,,63kgWomen,Total,206,True
+10,ACOSTA Soledad,ARG,"Apr 21, 1984",62.78,C,73,90,163,,63kgWomen,Total,206,True
+11,BERRU MONDRAGON Danitza Disney,PER,"May 10, 1991",59.64,C,68,92,160,,63kgWomen,Total,206,True
+12,ROSALES OBREGON Claudia Rebeca,NCA,"May 13, 1987",60.03,C,65,88,153,,63kgWomen,Total,206,True
+---,RIVERA MARTINEZ Rizelyx,USA,"Sep 02, 1987",60.97,B,87,---,---,,63kgWomen,Total,206,True
+1,VALOYES CUESTA Ubaldina,COL,"Jul 06, 1982",68.97,A,105,110,-113,110,69kgWomen,Snatch,206,True
+2,PEREZ TIGRERO Mercedes Isabel,COL,"Aug 07, 1987",67.81,A,100,-105,105,105,69kgWomen,Snatch,206,True
+3,TENORIO SILVA Rosa Angela,ECU,"Oct 02, 1984",68.46,A,93,96,101,101,69kgWomen,Snatch,206,True
+4,FUENTES ZAVALA Aremi,MEX,"May 23, 1993",67.39,A,93,- 96,- 96,93,69kgWomen,Snatch,206,True
+5,MENEZES LACERDA Liliane,BRA,"Aug 17, 1985",68.14,A,88,- 91,91,91,69kgWomen,Snatch,206,True
+6,TOLEDO VEGA Angie,CHI,"Oct 28, 1989",68.78,B,80,85,90,90,69kgWomen,Snatch,206,True
+7,NAVARRO CASTILLO Rocio Yamileth,PAN,"Nov 18, 1990",66.25,B,- 83,83,85,85,69kgWomen,Snatch,206,True
+8,WARD Arlene Johanna,USA,"Jun 11, 1986",68.42,B,78,81,84,84,69kgWomen,Snatch,206,True
+9,DIAZ Natalia,ARG,"Nov 23, 1981",68.03,B,75,- 78,78,78,69kgWomen,Snatch,206,True
+10,VALDIVIA SAJAMI Veronica,PER,"Dec 28, 1994",63.77,B,58,61,63,63,69kgWomen,Snatch,206,True
+11,CARDONA Vanessa,PUR,"Jul 30, 1988",68.24,B,57,62,- 67,62,69kgWomen,Snatch,206,True
+1,PEREZ TIGRERO Mercedes Isabel,COL,"Aug 07, 1987",67.81,A,130,-135,135,135,69kgWomen,CleanJerk,206,True
+2,VALOYES CUESTA Ubaldina,COL,"Jul 06, 1982",68.97,A,-130,130,-135,130,69kgWomen,CleanJerk,206,True
+3,TENORIO SILVA Rosa Angela,ECU,"Oct 02, 1984",68.46,A,114,117,119,119,69kgWomen,CleanJerk,206,True
+4,TOLEDO VEGA Angie,CHI,"Oct 28, 1989",68.78,B,107,112,116,116,69kgWomen,CleanJerk,206,True
+5,FUENTES ZAVALA Aremi,MEX,"May 23, 1993",67.39,A,115,-120,-120,115,69kgWomen,CleanJerk,206,True
+6,MENEZES LACERDA Liliane,BRA,"Aug 17, 1985",68.14,A,110,115,-120,115,69kgWomen,CleanJerk,206,True
+7,WARD Arlene Johanna,USA,"Jun 11, 1986",68.42,B,96,100,103,103,69kgWomen,CleanJerk,206,True
+8,NAVARRO CASTILLO Rocio Yamileth,PAN,"Nov 18, 1990",66.25,B,-101,-101,102,102,69kgWomen,CleanJerk,206,True
+9,DIAZ Natalia,ARG,"Nov 23, 1981",68.03,B,93,97,-101,97,69kgWomen,CleanJerk,206,True
+10,CARDONA Vanessa,PUR,"Jul 30, 1988",68.24,B,83,87,- 91,87,69kgWomen,CleanJerk,206,True
+11,VALDIVIA SAJAMI Veronica,PER,"Dec 28, 1994",63.77,B,82,85,- 87,85,69kgWomen,CleanJerk,206,True
+1,PEREZ TIGRERO Mercedes Isabel,COL,"Aug 07, 1987",67.81,A,105,135,240,,69kgWomen,Total,206,True
+2,VALOYES CUESTA Ubaldina,COL,"Jul 06, 1982",68.97,A,110,130,240,,69kgWomen,Total,206,True
+3,TENORIO SILVA Rosa Angela,ECU,"Oct 02, 1984",68.46,A,101,119,220,,69kgWomen,Total,206,True
+4,FUENTES ZAVALA Aremi,MEX,"May 23, 1993",67.39,A,93,115,208,,69kgWomen,Total,206,True
+5,MENEZES LACERDA Liliane,BRA,"Aug 17, 1985",68.14,A,91,115,206,,69kgWomen,Total,206,True
+6,TOLEDO VEGA Angie,CHI,"Oct 28, 1989",68.78,B,90,116,206,,69kgWomen,Total,206,True
+7,NAVARRO CASTILLO Rocio Yamileth,PAN,"Nov 18, 1990",66.25,B,85,102,187,,69kgWomen,Total,206,True
+8,WARD Arlene Johanna,USA,"Jun 11, 1986",68.42,B,84,103,187,,69kgWomen,Total,206,True
+9,DIAZ Natalia,ARG,"Nov 23, 1981",68.03,B,78,97,175,,69kgWomen,Total,206,True
+10,CARDONA Vanessa,PUR,"Jul 30, 1988",68.24,B,62,87,149,,69kgWomen,Total,206,True
+11,VALDIVIA SAJAMI Veronica,PER,"Dec 28, 1994",63.77,B,63,85,148,,69kgWomen,Total,206,True
+1,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.68,A,92,97,-100,97,75kgWomen,Snatch,206,True
+2,ANTONIA FERREIRA Jaqueline,BRA,"Mar 05, 1987",73.52,A,93,- 97,- 99,93,75kgWomen,Snatch,206,True
+3,SANGHERA Prabdeep Kaur,CAN,"Nov 15, 1993",71.55,B,- 85,85,90,90,75kgWomen,Snatch,206,True
+4,MATAMALA ARAYA Nicol Valeska,CHI,"Aug 07, 1988",74.88,A,85,90,- 95,90,75kgWomen,Snatch,206,True
+5,LIMA DE ARAUJO Monique Maria,BRA,"May 30, 1992",70.26,B,80,85,- 90,85,75kgWomen,Snatch,206,True
+6,CALZADILLA Lubdys,VEN,"Jan 17, 1993",74.30,A,85,- 90,- 90,85,75kgWomen,Snatch,206,True
+7,PRATTS Janelise,PUR,"May 12, 1992",72.68,B,72,- 78,78,78,75kgWomen,Snatch,206,True
+8,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Apr 17, 1990",74.85,B,- 78,78,- 81,78,75kgWomen,Snatch,206,True
+9,HOSSEIN Ruth,ARG,"Apr 25, 1981",72.47,B,- 73,73,77,77,75kgWomen,Snatch,206,True
+10,DIAZ OBANDO Cristina Del,NCA,"Sep 21, 1987",71.35,B,- 65,65,70,70,75kgWomen,Snatch,206,True
+1,ANTONIA FERREIRA Jaqueline,BRA,"Mar 05, 1987",73.52,A,117,122,125,125,75kgWomen,CleanJerk,206,True
+2,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.68,A,121,-125,-125,121,75kgWomen,CleanJerk,206,True
+3,CALZADILLA Lubdys,VEN,"Jan 17, 1993",74.30,A,113,119,-122,119,75kgWomen,CleanJerk,206,True
+4,SANGHERA Prabdeep Kaur,CAN,"Nov 15, 1993",71.55,B,102,107,-110,107,75kgWomen,CleanJerk,206,True
+5,MATAMALA ARAYA Nicol Valeska,CHI,"Aug 07, 1988",74.88,A,105,-110,-110,105,75kgWomen,CleanJerk,206,True
+6,LIMA DE ARAUJO Monique Maria,BRA,"May 30, 1992",70.26,B,100,-105,-105,100,75kgWomen,CleanJerk,206,True
+7,HOSSEIN Ruth,ARG,"Apr 25, 1981",72.47,B,94,- 98,100,100,75kgWomen,CleanJerk,206,True
+8,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Apr 17, 1990",74.85,B,93,100,-105,100,75kgWomen,CleanJerk,206,True
+9,PRATTS Janelise,PUR,"May 12, 1992",72.68,B,90,- 95,95,95,75kgWomen,CleanJerk,206,True
+---,DIAZ OBANDO Cristina Del,NCA,"Sep 21, 1987",71.35,B,- 80,- 80,- 80,---,75kgWomen,CleanJerk,206,True
+1,ANTONIA FERREIRA Jaqueline,BRA,"Mar 05, 1987",73.52,A,93,125,218,,75kgWomen,Total,206,True
+2,VALDES PARIS Maria Fernanda,CHI,"Mar 17, 1992",74.68,A,97,121,218,,75kgWomen,Total,206,True
+3,CALZADILLA Lubdys,VEN,"Jan 17, 1993",74.30,A,85,119,204,,75kgWomen,Total,206,True
+4,SANGHERA Prabdeep Kaur,CAN,"Nov 15, 1993",71.55,B,90,107,197,,75kgWomen,Total,206,True
+5,MATAMALA ARAYA Nicol Valeska,CHI,"Aug 07, 1988",74.88,A,90,105,195,,75kgWomen,Total,206,True
+6,LIMA DE ARAUJO Monique Maria,BRA,"May 30, 1992",70.26,B,85,100,185,,75kgWomen,Total,206,True
+7,HUTCHINSON RODRIGUEZ Daysi Marlene,CRC,"Apr 17, 1990",74.85,B,78,100,178,,75kgWomen,Total,206,True
+8,HOSSEIN Ruth,ARG,"Apr 25, 1981",72.47,B,77,100,177,,75kgWomen,Total,206,True
+9,PRATTS Janelise,PUR,"May 12, 1992",72.68,B,78,95,173,,75kgWomen,Total,206,True
+---,DIAZ OBANDO Cristina Del,NCA,"Sep 21, 1987",71.35,B,70,---,---,,75kgWomen,Total,206,True
+1,NIEVE ARROYO Oliba Seledina,ECU,"Nov 25, 1977",96.77,A,106,110,117,117,+75kgWomen,Snatch,206,True
+2,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",101.34,A,101,105,108,108,+75kgWomen,Snatch,206,True
+3,ESPINOSA Yaniuska Isabel,VEN,"Dec 05, 1986",107.42,A,104,-107,107,107,+75kgWomen,Snatch,206,True
+4,PEREZ REVERON Naryury Alexandra,VEN,"Sep 29, 1992",96.78,A,-101,101,104,104,+75kgWomen,Snatch,206,True
+5,AMAECHI Chioma Madonna,USA,"Mar 02, 1992",108.91,A,-101,101,-105,101,+75kgWomen,Snatch,206,True
+6,PARRA Priscila,MEX,"Feb 18, 1989",79.87,A,93,97,100,100,+75kgWomen,Snatch,206,True
+7,SERPAN Shelbie Renee,USA,"Mar 21, 1992",116.14,B,95,98,-100,98,+75kgWomen,Snatch,206,True
+8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Aug 01, 1983",134.14,A,91,98,-101,98,+75kgWomen,Snatch,206,True
+9,SILVA GOMES Mayara,BRA,"Jun 30, 1992",121.29,A,92,95,- 97,95,+75kgWomen,Snatch,206,True
+10,GOMEZ Soto Nubia,PUR,"Sep 25, 1990",110.37,B,87,90,- 92,90,+75kgWomen,Snatch,206,True
+11,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Apr 27, 1991",85.05,B,- 87,- 87,87,87,+75kgWomen,Snatch,206,True
+12,OCON Carolina,ESA,"Aug 04, 1993",97.70,B,75,80,82,82,+75kgWomen,Snatch,206,True
+13,NAVAS SAMAYOA Erika Patricia,ESA,"Mar 30, 1987",81.10,B,- 75,75,- 80,75,+75kgWomen,Snatch,206,True
+14,MEJIA ESPINOZA Katia Yuvanela,NCA,"May 18, 1997",80.06,B,40,45,50,50,+75kgWomen,Snatch,206,True
+1,NIEVE ARROYO Oliba Seledina,ECU,"Nov 25, 1977",96.77,A,136,140,-145,140,+75kgWomen,CleanJerk,206,True
+2,AMAECHI Chioma Madonna,USA,"Mar 02, 1992",108.91,A,-130,130,137,137,+75kgWomen,CleanJerk,206,True
+3,PEREZ REVERON Naryury Alexandra,VEN,"Sep 29, 1992",96.78,A,130,135,-138,135,+75kgWomen,CleanJerk,206,True
+4,ESPINOSA Yaniuska Isabel,VEN,"Dec 05, 1986",107.42,A,-134,134,-138,134,+75kgWomen,CleanJerk,206,True
+5,SILVA GOMES Mayara,BRA,"Jun 30, 1992",121.29,A,120,131,-135,131,+75kgWomen,CleanJerk,206,True
+6,PARRA Priscila,MEX,"Feb 18, 1989",79.87,A,117,121,124,124,+75kgWomen,CleanJerk,206,True
+7,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",101.34,A,118,-122,122,122,+75kgWomen,CleanJerk,206,True
+8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Aug 01, 1983",134.14,A,122,-136,-136,122,+75kgWomen,CleanJerk,206,True
+9,SERPAN Shelbie Renee,USA,"Mar 21, 1992",116.14,B,120,-125,-125,120,+75kgWomen,CleanJerk,206,True
+10,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Apr 27, 1991",85.05,B,109,112,115,115,+75kgWomen,CleanJerk,206,True
+11,GOMEZ Soto Nubia,PUR,"Sep 25, 1990",110.37,B,106,109,112,112,+75kgWomen,CleanJerk,206,True
+12,OCON Carolina,ESA,"Aug 04, 1993",97.70,B,95,100,103,103,+75kgWomen,CleanJerk,206,True
+13,NAVAS SAMAYOA Erika Patricia,ESA,"Mar 30, 1987",81.10,B,95,100,-103,100,+75kgWomen,CleanJerk,206,True
+14,MEJIA ESPINOZA Katia Yuvanela,NCA,"May 18, 1997",80.06,B,55,60,65,65,+75kgWomen,CleanJerk,206,True
+1,NIEVE ARROYO Oliba Seledina,ECU,"Nov 25, 1977",96.77,A,117,140,257,,+75kgWomen,Total,206,True
+2,ESPINOSA Yaniuska Isabel,VEN,"Dec 05, 1986",107.42,A,107,134,241,,+75kgWomen,Total,206,True
+3,PEREZ REVERON Naryury Alexandra,VEN,"Sep 29, 1992",96.78,A,104,135,239,,+75kgWomen,Total,206,True
+4,AMAECHI Chioma Madonna,USA,"Mar 02, 1992",108.91,A,101,137,238,,+75kgWomen,Total,206,True
+5,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",101.34,A,108,122,230,,+75kgWomen,Total,206,True
+6,SILVA GOMES Mayara,BRA,"Jun 30, 1992",121.29,A,95,131,226,,+75kgWomen,Total,206,True
+7,PARRA Priscila,MEX,"Feb 18, 1989",79.87,A,100,124,224,,+75kgWomen,Total,206,True
+8,CORTEZ GARCIA Elizabeth Del Rosario,CHI,"Aug 01, 1983",134.14,A,98,122,220,,+75kgWomen,Total,206,True
+9,SERPAN Shelbie Renee,USA,"Mar 21, 1992",116.14,B,98,120,218,,+75kgWomen,Total,206,True
+10,CAMPOSECO HERNANDEZ Astrid Roxana,GUA,"Apr 27, 1991",85.05,B,87,115,202,,+75kgWomen,Total,206,True
+11,GOMEZ Soto Nubia,PUR,"Sep 25, 1990",110.37,B,90,112,202,,+75kgWomen,Total,206,True
+12,OCON Carolina,ESA,"Aug 04, 1993",97.70,B,82,103,185,,+75kgWomen,Total,206,True
+13,NAVAS SAMAYOA Erika Patricia,ESA,"Mar 30, 1987",81.10,B,75,100,175,,+75kgWomen,Total,206,True
+14,MEJIA ESPINOZA Katia Yuvanela,NCA,"May 18, 1997",80.06,B,50,65,115,,+75kgWomen,Total,206,True

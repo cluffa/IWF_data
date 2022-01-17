@@ -1,88 +1,88 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,HOANG Anh Tuan,VIE,"Born: Feb 12, 1985",B.weight: 55.56,Group: A,1: 122,2: 125,3: 128,Total: 128,56kgMen,Snatch,13
-Rank: 2,ALVAREZ BOULET Sergio,CUB,"Born: Oct 11, 1979",B.weight: 55.91,Group: A,1: -118,2: 118,3: 120,Total: 120,56kgMen,Snatch,13
-Rank: 3,LU Linbi,CHN,"Born: Aug 20, 1981",B.weight: 55.86,Group: A,1: 113,2: 118,3: -121,Total: 118,56kgMen,Snatch,13
-Rank: 4,WU Jingbiao,CHN,"Born: Jan 10, 1989",B.weight: 55.64,Group: A,1: 110,2: 116,3: -123,Total: 116,56kgMen,Snatch,13
-Rank: 5,ADAM Robert,HUN,"Born: Sep 15, 1982",B.weight: 55.65,Group: A,1: 93,2: 97,3: -100,Total: 97,56kgMen,Snatch,13
-Rank: 1,LU Linbi,CHN,"Born: Aug 20, 1981",B.weight: 55.86,Group: A,1: 143,2: -151,3: 153,Total: 153,56kgMen,CleanJerk,13
-Rank: 2,ALVAREZ BOULET Sergio,CUB,"Born: Oct 11, 1979",B.weight: 55.91,Group: A,1: -151,2: 151,3: -155,Total: 151,56kgMen,CleanJerk,13
-Rank: 3,HOANG Anh Tuan,VIE,"Born: Feb 12, 1985",B.weight: 55.56,Group: A,1: -150,2: 150,3: -154,Total: 150,56kgMen,CleanJerk,13
-Rank: 4,WU Jingbiao,CHN,"Born: Jan 10, 1989",B.weight: 55.64,Group: A,1: 130,2: 135,3: 140,Total: 140,56kgMen,CleanJerk,13
-Rank: 5,ADAM Robert,HUN,"Born: Sep 15, 1982",B.weight: 55.65,Group: A,1: 120,2: -125,3: -125,Total: 120,56kgMen,CleanJerk,13
-Rank: 1,HOANG Anh Tuan,VIE,"Born: Feb 12, 1985",B.weight: 55.56,Group: A,Snatch: 128,CI&Jerk: 150,Total: 278,,56kgMen,Total,13
-Rank: 2,LU Linbi,CHN,"Born: Aug 20, 1981",B.weight: 55.86,Group: A,Snatch: 118,CI&Jerk: 153,Total: 271,,56kgMen,Total,13
-Rank: 3,ALVAREZ BOULET Sergio,CUB,"Born: Oct 11, 1979",B.weight: 55.91,Group: A,Snatch: 120,CI&Jerk: 151,Total: 271,,56kgMen,Total,13
-Rank: 4,WU Jingbiao,CHN,"Born: Jan 10, 1989",B.weight: 55.64,Group: A,Snatch: 116,CI&Jerk: 140,Total: 256,,56kgMen,Total,13
-Rank: 5,ADAM Robert,HUN,"Born: Sep 15, 1982",B.weight: 55.65,Group: A,Snatch: 97,CI&Jerk: 120,Total: 217,,56kgMen,Total,13
-Rank: 1,STEINER Matthias,GER,"Born: Aug 25, 1982",B.weight: 137.33,Group: A,1: 185,2: 190,3: 193,Total: 193,+105kgMen,Snatch,13
-Rank: 2,BURGENER Casey,USA,"Born: Aug 15, 1982",B.weight: 125.64,Group: A,1: -170,2: 170,3: 180,Total: 180,+105kgMen,Snatch,13
-Rank: 3,SUN Hai Bo,CHN,"Born: Mar 25, 1983",B.weight: 142.63,Group: A,1: 180,2: -190,3: ---,Total: 180,+105kgMen,Snatch,13
-Rank: 4,KLESZCZ Grzegorz,POL,"Born: Nov 12, 1977",B.weight: 132.06,Group: A,1: -175,2: 175,3: -180,Total: 175,+105kgMen,Snatch,13
-Rank: 5,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 139.53,Group: A,1: 150,2: -165,3: 171,Total: 171,+105kgMen,Snatch,13
-Rank: 6,DOLEGA Robert,POL,"Born: Dec 31, 1977",B.weight: 106.23,Group: A,1: 165,2: 170,3: -175,Total: 170,+105kgMen,Snatch,13
-Rank: 7,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 141.99,Group: A,1: 155,2: -160,3: 160,Total: 160,+105kgMen,Snatch,13
-Rank: 1,STEINER Matthias,GER,"Born: Aug 25, 1982",B.weight: 137.33,Group: A,1: 216,2: -225,3: 230,Total: 230,+105kgMen,CleanJerk,13
-Rank: 2,KLESZCZ Grzegorz,POL,"Born: Nov 12, 1977",B.weight: 132.06,Group: A,1: 220,2: -225,3: -225,Total: 220,+105kgMen,CleanJerk,13
-Rank: 3,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 139.53,Group: A,1: 211,2: 220,3: -226,Total: 220,+105kgMen,CleanJerk,13
-Rank: 4,DOLEGA Robert,POL,"Born: Dec 31, 1977",B.weight: 106.23,Group: A,1: 205,2: 210,3: -213,Total: 210,+105kgMen,CleanJerk,13
-Rank: 5,BURGENER Casey,USA,"Born: Aug 15, 1982",B.weight: 125.64,Group: A,1: 210,2: -220,3: -220,Total: 210,+105kgMen,CleanJerk,13
-Rank: 6,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 141.99,Group: A,1: 190,2: 200,3: -203,Total: 200,+105kgMen,CleanJerk,13
-Rank: ---,SUN Hai Bo,CHN,"Born: Mar 25, 1983",B.weight: 142.63,Group: A,1: -211,2: ---,3: ---,Total: ---,+105kgMen,CleanJerk,13
-Rank: 1,STEINER Matthias,GER,"Born: Aug 25, 1982",B.weight: 137.33,Group: A,Snatch: 193,CI&Jerk: 230,Total: 423,,+105kgMen,Total,13
-Rank: 2,KLESZCZ Grzegorz,POL,"Born: Nov 12, 1977",B.weight: 132.06,Group: A,Snatch: 175,CI&Jerk: 220,Total: 395,,+105kgMen,Total,13
-Rank: 3,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 139.53,Group: A,Snatch: 171,CI&Jerk: 220,Total: 391,,+105kgMen,Total,13
-Rank: 4,BURGENER Casey,USA,"Born: Aug 15, 1982",B.weight: 125.64,Group: A,Snatch: 180,CI&Jerk: 210,Total: 390,,+105kgMen,Total,13
-Rank: 5,DOLEGA Robert,POL,"Born: Dec 31, 1977",B.weight: 106.23,Group: A,Snatch: 170,CI&Jerk: 210,Total: 380,,+105kgMen,Total,13
-Rank: 6,OTA Kazuomi,JPN,"Born: Jul 01, 1986",B.weight: 141.99,Group: A,Snatch: 160,CI&Jerk: 200,Total: 360,,+105kgMen,Total,13
-Rank: ---,SUN Hai Bo,CHN,"Born: Mar 25, 1983",B.weight: 142.63,Group: A,Snatch: 180,CI&Jerk: ---,Total: ---,,+105kgMen,Total,13
-Rank: 1,WANG Mingjuan,CHN,"Born: Oct 11, 1985",B.weight: 49.04,Group: A,1: 85,2: 90,3: 92,Total: 92,53kgWomen,Snatch,13
-Rank: 2,CEN Lijuan,CHN,"Born: Jul 06, 1985",B.weight: 52.23,Group: A,1: 80,2: 85,3: 90,Total: 90,53kgWomen,Snatch,13
-Rank: 3,SUDA Chaleephay,THA,"Born: Jun 06, 1987",B.weight: 52.52,Group: A,1: 85,2: 89,3: - 91,Total: 89,53kgWomen,Snatch,13
-Rank: 4,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.11,Group: A,1: 78,2: 80,3: 82,Total: 82,53kgWomen,Snatch,13
-Rank: 5,DE LA PUENTE Maria Alvarez,ESP,"Born: Mar 11, 1989",B.weight: 52.72,Group: A,1: 75,2: 80,3: - 85,Total: 80,53kgWomen,Snatch,13
-Rank: 6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Born: Mar 21, 1980",B.weight: 52.84,Group: A,1: 73,2: 77,3: - 79,Total: 77,53kgWomen,Snatch,13
-Rank: 7,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 50.19,Group: A,1: - 73,2: 73,3: - 75,Total: 73,53kgWomen,Snatch,13
-Rank: 8,ROWINSKA Malwina,POL,"Born: Nov 06, 1986",B.weight: 52.96,Group: A,1: 70,2: 73,3: - 75,Total: 73,53kgWomen,Snatch,13
-Rank: 9,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 51.80,Group: A,1: 60,2: 65,3: 70,Total: 70,53kgWomen,Snatch,13
-Rank: 1,WANG Mingjuan,CHN,"Born: Oct 11, 1985",B.weight: 49.04,Group: A,1: 105,2: 110,3: 113,Total: 113,53kgWomen,CleanJerk,13
-Rank: 2,CEN Lijuan,CHN,"Born: Jul 06, 1985",B.weight: 52.23,Group: A,1: 100,2: 105,3: 111,Total: 111,53kgWomen,CleanJerk,13
-Rank: 3,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.11,Group: A,1: 103,2: 108,3: 110,Total: 110,53kgWomen,CleanJerk,13
-Rank: 4,SUDA Chaleephay,THA,"Born: Jun 06, 1987",B.weight: 52.52,Group: A,1: 105,2: 110,3: -114,Total: 110,53kgWomen,CleanJerk,13
-Rank: 5,ROWINSKA Malwina,POL,"Born: Nov 06, 1986",B.weight: 52.96,Group: A,1: 95,2: 99,3: -101,Total: 99,53kgWomen,CleanJerk,13
-Rank: 6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Born: Mar 21, 1980",B.weight: 52.84,Group: A,1: 92,2: - 96,3: 96,Total: 96,53kgWomen,CleanJerk,13
-Rank: 7,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 50.19,Group: A,1: 92,2: 95,3: - 98,Total: 95,53kgWomen,CleanJerk,13
-Rank: 8,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 51.80,Group: A,1: 85,2: 90,3: 95,Total: 95,53kgWomen,CleanJerk,13
-Rank: 9,DE LA PUENTE Maria Alvarez,ESP,"Born: Mar 11, 1989",B.weight: 52.72,Group: A,1: 90,2: 95,3: -100,Total: 95,53kgWomen,CleanJerk,13
-Rank: 1,WANG Mingjuan,CHN,"Born: Oct 11, 1985",B.weight: 49.04,Group: A,Snatch: 92,CI&Jerk: 113,Total: 205,,53kgWomen,Total,13
-Rank: 2,CEN Lijuan,CHN,"Born: Jul 06, 1985",B.weight: 52.23,Group: A,Snatch: 90,CI&Jerk: 111,Total: 201,,53kgWomen,Total,13
-Rank: 3,SUDA Chaleephay,THA,"Born: Jun 06, 1987",B.weight: 52.52,Group: A,Snatch: 89,CI&Jerk: 110,Total: 199,,53kgWomen,Total,13
-Rank: 4,MIYAKE Hiromi,JPN,"Born: Nov 18, 1985",B.weight: 49.11,Group: A,Snatch: 82,CI&Jerk: 110,Total: 192,,53kgWomen,Total,13
-Rank: 5,DE LA PUENTE Maria Alvarez,ESP,"Born: Mar 11, 1989",B.weight: 52.72,Group: A,Snatch: 80,CI&Jerk: 95,Total: 175,,53kgWomen,Total,13
-Rank: 6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Born: Mar 21, 1980",B.weight: 52.84,Group: A,Snatch: 77,CI&Jerk: 96,Total: 173,,53kgWomen,Total,13
-Rank: 7,ROWINSKA Malwina,POL,"Born: Nov 06, 1986",B.weight: 52.96,Group: A,Snatch: 73,CI&Jerk: 99,Total: 172,,53kgWomen,Total,13
-Rank: 8,AMNUAIPORN Maneewan,THA,"Born: Apr 07, 1987",B.weight: 50.19,Group: A,Snatch: 73,CI&Jerk: 95,Total: 168,,53kgWomen,Total,13
-Rank: 9,TOUA Loa Dika,PNG,"Born: Jun 23, 1984",B.weight: 51.80,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,53kgWomen,Total,13
-Rank: 1,HUANG Huang,CHN,"Born: May 06, 1987",B.weight: 127.54,Group: A,1: 110,2: 116,3: 119,Total: 119,+75kgWomen,Snatch,13
-Rank: 2,RODITI Aikaterini,GRE,"Born: May 23, 1983",B.weight: 101.34,Group: A,1: 110,2: 115,3: 117,Total: 117,+75kgWomen,Snatch,13
-Rank: 3,KASAPI Vasiliki,GRE,"Born: Mar 22, 1983",B.weight: 130.96,Group: A,1: -115,2: 115,3: -118,Total: 115,+75kgWomen,Snatch,13
-Rank: 4,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 78.10,Group: A,1: 105,2: 110,3: -116,Total: 110,+75kgWomen,Snatch,13
-Rank: 5,LI Rongyan,CHN,"Born: Jan 05, 1991",B.weight: 76.90,Group: A,1: 95,2: 102,3: -107,Total: 102,+75kgWomen,Snatch,13
-Rank: 6,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 108.96,Group: A,1: 94,2: 98,3: -103,Total: 98,+75kgWomen,Snatch,13
-Rank: 7,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 109.77,Group: A,1: 92,2: - 95,3: - 95,Total: 92,+75kgWomen,Snatch,13
-Rank: 8,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 83.22,Group: A,1: 80,2: 85,3: - 87,Total: 85,+75kgWomen,Snatch,13
-Rank: 1,HUANG Huang,CHN,"Born: May 06, 1987",B.weight: 127.54,Group: A,1: 143,2: 148,3: 150,Total: 150,+75kgWomen,CleanJerk,13
-Rank: 2,RODITI Aikaterini,GRE,"Born: May 23, 1983",B.weight: 101.34,Group: A,1: 132,2: -137,3: 137,Total: 137,+75kgWomen,CleanJerk,13
-Rank: 3,KASAPI Vasiliki,GRE,"Born: Mar 22, 1983",B.weight: 130.96,Group: A,1: -135,2: 135,3: -142,Total: 135,+75kgWomen,CleanJerk,13
-Rank: 4,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 108.96,Group: A,1: 130,2: -135,3: -135,Total: 130,+75kgWomen,CleanJerk,13
-Rank: 5,LI Rongyan,CHN,"Born: Jan 05, 1991",B.weight: 76.90,Group: A,1: 120,2: -127,3: 127,Total: 127,+75kgWomen,CleanJerk,13
-Rank: 6,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 78.10,Group: A,1: 120,2: 125,3: -131,Total: 125,+75kgWomen,CleanJerk,13
-Rank: 7,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 109.77,Group: A,1: 125,2: -131,3: -131,Total: 125,+75kgWomen,CleanJerk,13
-Rank: ---,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 83.22,Group: A,1: -105,2: -105,3: ---,Total: ---,+75kgWomen,CleanJerk,13
-Rank: 1,HUANG Huang,CHN,"Born: May 06, 1987",B.weight: 127.54,Group: A,Snatch: 119,CI&Jerk: 150,Total: 269,,+75kgWomen,Total,13
-Rank: 2,RODITI Aikaterini,GRE,"Born: May 23, 1983",B.weight: 101.34,Group: A,Snatch: 117,CI&Jerk: 137,Total: 254,,+75kgWomen,Total,13
-Rank: 3,KASAPI Vasiliki,GRE,"Born: Mar 22, 1983",B.weight: 130.96,Group: A,Snatch: 115,CI&Jerk: 135,Total: 250,,+75kgWomen,Total,13
-Rank: 4,VALENTIN PEREZ Lidia,ESP,"Born: Feb 10, 1985",B.weight: 78.10,Group: A,Snatch: 110,CI&Jerk: 125,Total: 235,,+75kgWomen,Total,13
-Rank: 5,LI Rongyan,CHN,"Born: Jan 05, 1991",B.weight: 76.90,Group: A,Snatch: 102,CI&Jerk: 127,Total: 229,,+75kgWomen,Total,13
-Rank: 6,SHIMAMOTO Mami,JPN,"Born: Sep 24, 1987",B.weight: 108.96,Group: A,Snatch: 98,CI&Jerk: 130,Total: 228,,+75kgWomen,Total,13
-Rank: 7,JONAI Fumiko,JPN,"Born: Feb 19, 1985",B.weight: 109.77,Group: A,Snatch: 92,CI&Jerk: 125,Total: 217,,+75kgWomen,Total,13
-Rank: ---,ABORNEVA Alexandra,KAZ,"Born: Oct 30, 1986",B.weight: 83.22,Group: A,Snatch: 85,CI&Jerk: ---,Total: ---,,+75kgWomen,Total,13
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,HOANG Anh Tuan,VIE,"Feb 12, 1985",55.56,A,122,125,128,128,56kgMen,Snatch,13,True
+2,ALVAREZ BOULET Sergio,CUB,"Oct 11, 1979",55.91,A,-118,118,120,120,56kgMen,Snatch,13,True
+3,LU Linbi,CHN,"Aug 20, 1981",55.86,A,113,118,-121,118,56kgMen,Snatch,13,True
+4,WU Jingbiao,CHN,"Jan 10, 1989",55.64,A,110,116,-123,116,56kgMen,Snatch,13,True
+5,ADAM Robert,HUN,"Sep 15, 1982",55.65,A,93,97,-100,97,56kgMen,Snatch,13,True
+1,LU Linbi,CHN,"Aug 20, 1981",55.86,A,143,-151,153,153,56kgMen,CleanJerk,13,True
+2,ALVAREZ BOULET Sergio,CUB,"Oct 11, 1979",55.91,A,-151,151,-155,151,56kgMen,CleanJerk,13,True
+3,HOANG Anh Tuan,VIE,"Feb 12, 1985",55.56,A,-150,150,-154,150,56kgMen,CleanJerk,13,True
+4,WU Jingbiao,CHN,"Jan 10, 1989",55.64,A,130,135,140,140,56kgMen,CleanJerk,13,True
+5,ADAM Robert,HUN,"Sep 15, 1982",55.65,A,120,-125,-125,120,56kgMen,CleanJerk,13,True
+1,HOANG Anh Tuan,VIE,"Feb 12, 1985",55.56,A,128,150,278,,56kgMen,Total,13,True
+2,LU Linbi,CHN,"Aug 20, 1981",55.86,A,118,153,271,,56kgMen,Total,13,True
+3,ALVAREZ BOULET Sergio,CUB,"Oct 11, 1979",55.91,A,120,151,271,,56kgMen,Total,13,True
+4,WU Jingbiao,CHN,"Jan 10, 1989",55.64,A,116,140,256,,56kgMen,Total,13,True
+5,ADAM Robert,HUN,"Sep 15, 1982",55.65,A,97,120,217,,56kgMen,Total,13,True
+1,STEINER Matthias,GER,"Aug 25, 1982",137.33,A,185,190,193,193,+105kgMen,Snatch,13,True
+2,BURGENER Casey,USA,"Aug 15, 1982",125.64,A,-170,170,180,180,+105kgMen,Snatch,13,True
+3,SUN Hai Bo,CHN,"Mar 25, 1983",142.63,A,180,-190,---,180,+105kgMen,Snatch,13,True
+4,KLESZCZ Grzegorz,POL,"Nov 12, 1977",132.06,A,-175,175,-180,175,+105kgMen,Snatch,13,True
+5,GAO Le,CHN,"Mar 08, 1983",139.53,A,150,-165,171,171,+105kgMen,Snatch,13,True
+6,DOLEGA Robert,POL,"Dec 31, 1977",106.23,A,165,170,-175,170,+105kgMen,Snatch,13,True
+7,OTA Kazuomi,JPN,"Jul 01, 1986",141.99,A,155,-160,160,160,+105kgMen,Snatch,13,True
+1,STEINER Matthias,GER,"Aug 25, 1982",137.33,A,216,-225,230,230,+105kgMen,CleanJerk,13,True
+2,KLESZCZ Grzegorz,POL,"Nov 12, 1977",132.06,A,220,-225,-225,220,+105kgMen,CleanJerk,13,True
+3,GAO Le,CHN,"Mar 08, 1983",139.53,A,211,220,-226,220,+105kgMen,CleanJerk,13,True
+4,DOLEGA Robert,POL,"Dec 31, 1977",106.23,A,205,210,-213,210,+105kgMen,CleanJerk,13,True
+5,BURGENER Casey,USA,"Aug 15, 1982",125.64,A,210,-220,-220,210,+105kgMen,CleanJerk,13,True
+6,OTA Kazuomi,JPN,"Jul 01, 1986",141.99,A,190,200,-203,200,+105kgMen,CleanJerk,13,True
+---,SUN Hai Bo,CHN,"Mar 25, 1983",142.63,A,-211,---,---,---,+105kgMen,CleanJerk,13,True
+1,STEINER Matthias,GER,"Aug 25, 1982",137.33,A,193,230,423,,+105kgMen,Total,13,True
+2,KLESZCZ Grzegorz,POL,"Nov 12, 1977",132.06,A,175,220,395,,+105kgMen,Total,13,True
+3,GAO Le,CHN,"Mar 08, 1983",139.53,A,171,220,391,,+105kgMen,Total,13,True
+4,BURGENER Casey,USA,"Aug 15, 1982",125.64,A,180,210,390,,+105kgMen,Total,13,True
+5,DOLEGA Robert,POL,"Dec 31, 1977",106.23,A,170,210,380,,+105kgMen,Total,13,True
+6,OTA Kazuomi,JPN,"Jul 01, 1986",141.99,A,160,200,360,,+105kgMen,Total,13,True
+---,SUN Hai Bo,CHN,"Mar 25, 1983",142.63,A,180,---,---,,+105kgMen,Total,13,True
+1,WANG Mingjuan,CHN,"Oct 11, 1985",49.04,A,85,90,92,92,53kgWomen,Snatch,13,True
+2,CEN Lijuan,CHN,"Jul 06, 1985",52.23,A,80,85,90,90,53kgWomen,Snatch,13,True
+3,SUDA Chaleephay,THA,"Jun 06, 1987",52.52,A,85,89,- 91,89,53kgWomen,Snatch,13,True
+4,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.11,A,78,80,82,82,53kgWomen,Snatch,13,True
+5,DE LA PUENTE Maria Alvarez,ESP,"Mar 11, 1989",52.72,A,75,80,- 85,80,53kgWomen,Snatch,13,True
+6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Mar 21, 1980",52.84,A,73,77,- 79,77,53kgWomen,Snatch,13,True
+7,AMNUAIPORN Maneewan,THA,"Apr 07, 1987",50.19,A,- 73,73,- 75,73,53kgWomen,Snatch,13,True
+8,ROWINSKA Malwina,POL,"Nov 06, 1986",52.96,A,70,73,- 75,73,53kgWomen,Snatch,13,True
+9,TOUA Loa Dika,PNG,"Jun 23, 1984",51.80,A,60,65,70,70,53kgWomen,Snatch,13,True
+1,WANG Mingjuan,CHN,"Oct 11, 1985",49.04,A,105,110,113,113,53kgWomen,CleanJerk,13,True
+2,CEN Lijuan,CHN,"Jul 06, 1985",52.23,A,100,105,111,111,53kgWomen,CleanJerk,13,True
+3,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.11,A,103,108,110,110,53kgWomen,CleanJerk,13,True
+4,SUDA Chaleephay,THA,"Jun 06, 1987",52.52,A,105,110,-114,110,53kgWomen,CleanJerk,13,True
+5,ROWINSKA Malwina,POL,"Nov 06, 1986",52.96,A,95,99,-101,99,53kgWomen,CleanJerk,13,True
+6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Mar 21, 1980",52.84,A,92,- 96,96,96,53kgWomen,CleanJerk,13,True
+7,AMNUAIPORN Maneewan,THA,"Apr 07, 1987",50.19,A,92,95,- 98,95,53kgWomen,CleanJerk,13,True
+8,TOUA Loa Dika,PNG,"Jun 23, 1984",51.80,A,85,90,95,95,53kgWomen,CleanJerk,13,True
+9,DE LA PUENTE Maria Alvarez,ESP,"Mar 11, 1989",52.72,A,90,95,-100,95,53kgWomen,CleanJerk,13,True
+1,WANG Mingjuan,CHN,"Oct 11, 1985",49.04,A,92,113,205,,53kgWomen,Total,13,True
+2,CEN Lijuan,CHN,"Jul 06, 1985",52.23,A,90,111,201,,53kgWomen,Total,13,True
+3,SUDA Chaleephay,THA,"Jun 06, 1987",52.52,A,89,110,199,,53kgWomen,Total,13,True
+4,MIYAKE Hiromi,JPN,"Nov 18, 1985",49.11,A,82,110,192,,53kgWomen,Total,13,True
+5,DE LA PUENTE Maria Alvarez,ESP,"Mar 11, 1989",52.72,A,80,95,175,,53kgWomen,Total,13,True
+6,LACHAUME ANDRIEUX Virginie C. R.,FRA,"Mar 21, 1980",52.84,A,77,96,173,,53kgWomen,Total,13,True
+7,ROWINSKA Malwina,POL,"Nov 06, 1986",52.96,A,73,99,172,,53kgWomen,Total,13,True
+8,AMNUAIPORN Maneewan,THA,"Apr 07, 1987",50.19,A,73,95,168,,53kgWomen,Total,13,True
+9,TOUA Loa Dika,PNG,"Jun 23, 1984",51.80,A,70,95,165,,53kgWomen,Total,13,True
+1,HUANG Huang,CHN,"May 06, 1987",127.54,A,110,116,119,119,+75kgWomen,Snatch,13,True
+2,RODITI Aikaterini,GRE,"May 23, 1983",101.34,A,110,115,117,117,+75kgWomen,Snatch,13,True
+3,KASAPI Vasiliki,GRE,"Mar 22, 1983",130.96,A,-115,115,-118,115,+75kgWomen,Snatch,13,True
+4,VALENTIN PEREZ Lidia,ESP,"Feb 10, 1985",78.10,A,105,110,-116,110,+75kgWomen,Snatch,13,True
+5,LI Rongyan,CHN,"Jan 05, 1991",76.90,A,95,102,-107,102,+75kgWomen,Snatch,13,True
+6,SHIMAMOTO Mami,JPN,"Sep 24, 1987",108.96,A,94,98,-103,98,+75kgWomen,Snatch,13,True
+7,JONAI Fumiko,JPN,"Feb 19, 1985",109.77,A,92,- 95,- 95,92,+75kgWomen,Snatch,13,True
+8,ABORNEVA Alexandra,KAZ,"Oct 30, 1986",83.22,A,80,85,- 87,85,+75kgWomen,Snatch,13,True
+1,HUANG Huang,CHN,"May 06, 1987",127.54,A,143,148,150,150,+75kgWomen,CleanJerk,13,True
+2,RODITI Aikaterini,GRE,"May 23, 1983",101.34,A,132,-137,137,137,+75kgWomen,CleanJerk,13,True
+3,KASAPI Vasiliki,GRE,"Mar 22, 1983",130.96,A,-135,135,-142,135,+75kgWomen,CleanJerk,13,True
+4,SHIMAMOTO Mami,JPN,"Sep 24, 1987",108.96,A,130,-135,-135,130,+75kgWomen,CleanJerk,13,True
+5,LI Rongyan,CHN,"Jan 05, 1991",76.90,A,120,-127,127,127,+75kgWomen,CleanJerk,13,True
+6,VALENTIN PEREZ Lidia,ESP,"Feb 10, 1985",78.10,A,120,125,-131,125,+75kgWomen,CleanJerk,13,True
+7,JONAI Fumiko,JPN,"Feb 19, 1985",109.77,A,125,-131,-131,125,+75kgWomen,CleanJerk,13,True
+---,ABORNEVA Alexandra,KAZ,"Oct 30, 1986",83.22,A,-105,-105,---,---,+75kgWomen,CleanJerk,13,True
+1,HUANG Huang,CHN,"May 06, 1987",127.54,A,119,150,269,,+75kgWomen,Total,13,True
+2,RODITI Aikaterini,GRE,"May 23, 1983",101.34,A,117,137,254,,+75kgWomen,Total,13,True
+3,KASAPI Vasiliki,GRE,"Mar 22, 1983",130.96,A,115,135,250,,+75kgWomen,Total,13,True
+4,VALENTIN PEREZ Lidia,ESP,"Feb 10, 1985",78.10,A,110,125,235,,+75kgWomen,Total,13,True
+5,LI Rongyan,CHN,"Jan 05, 1991",76.90,A,102,127,229,,+75kgWomen,Total,13,True
+6,SHIMAMOTO Mami,JPN,"Sep 24, 1987",108.96,A,98,130,228,,+75kgWomen,Total,13,True
+7,JONAI Fumiko,JPN,"Feb 19, 1985",109.77,A,92,125,217,,+75kgWomen,Total,13,True
+---,ABORNEVA Alexandra,KAZ,"Oct 30, 1986",83.22,A,85,---,---,,+75kgWomen,Total,13,True

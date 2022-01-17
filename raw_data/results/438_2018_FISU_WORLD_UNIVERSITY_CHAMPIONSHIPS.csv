@@ -1,406 +1,406 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,KIM Seunghwan,KOR,"Born: Jan 04, 1999",B.weight: 55.90,Group: A,1: 100,2: -105,3: 105,Total: 105,56kgMen,Snatch,438
-Rank: 2,CHINEN Hayato,JPN,"Born: Sep 03, 1996",B.weight: 55.35,Group: A,1: 95,2: 98,3: 101,Total: 101,56kgMen,Snatch,438
-Rank: 3,KUBO Kaito,JPN,"Born: Jan 24, 1999",B.weight: 55.65,Group: A,1: 95,2: - 99,3: 100,Total: 100,56kgMen,Snatch,438
-Rank: 4,GARCIA Joseph Armando,USA,"Born: Nov 02, 1993",B.weight: 55.80,Group: A,1: 90,2: - 94,3: - 95,Total: 90,56kgMen,Snatch,438
-Rank: ---,RANABHAT Ganesh,NEP,"Born: Oct 15, 1999",B.weight: 53.40,Group: A,1: - 65,2: - 70,3: - 70,Total: ---,56kgMen,Snatch,438
-Rank: 1,CHINEN Hayato,JPN,"Born: Sep 03, 1996",B.weight: 55.35,Group: A,1: 125,2: 128,3: -133,Total: 128,56kgMen,CleanJerk,438
-Rank: 2,KUBO Kaito,JPN,"Born: Jan 24, 1999",B.weight: 55.65,Group: A,1: 122,2: 125,3: -132,Total: 125,56kgMen,CleanJerk,438
-Rank: 3,KIM Seunghwan,KOR,"Born: Jan 04, 1999",B.weight: 55.90,Group: A,1: -115,2: 116,3: 119,Total: 119,56kgMen,CleanJerk,438
-Rank: 4,GARCIA Joseph Armando,USA,"Born: Nov 02, 1993",B.weight: 55.80,Group: A,1: 110,2: 115,3: 118,Total: 118,56kgMen,CleanJerk,438
-Rank: ---,RANABHAT Ganesh,NEP,"Born: Oct 15, 1999",B.weight: 53.40,Group: A,1: - 85,2: - 85,3: - 90,Total: ---,56kgMen,CleanJerk,438
-Rank: 1,CHINEN Hayato,JPN,"Born: Sep 03, 1996",B.weight: 55.35,Group: A,Snatch: 101,CI&Jerk: 128,Total: 229,,56kgMen,Total,438
-Rank: 2,KUBO Kaito,JPN,"Born: Jan 24, 1999",B.weight: 55.65,Group: A,Snatch: 100,CI&Jerk: 125,Total: 225,,56kgMen,Total,438
-Rank: 3,KIM Seunghwan,KOR,"Born: Jan 04, 1999",B.weight: 55.90,Group: A,Snatch: 105,CI&Jerk: 119,Total: 224,,56kgMen,Total,438
-Rank: 4,GARCIA Joseph Armando,USA,"Born: Nov 02, 1993",B.weight: 55.80,Group: A,Snatch: 90,CI&Jerk: 118,Total: 208,,56kgMen,Total,438
-Rank: ---,RANABHAT Ganesh,NEP,"Born: Oct 15, 1999",B.weight: 53.40,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,56kgMen,Total,438
-Rank: 1,MASHIKO Hiroyuki,JPN,"Born: Oct 08, 1997",B.weight: 61.70,Group: A,1: 110,2: 114,3: -119,Total: 114,62kgMen,Snatch,438
-Rank: 2,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 60.90,Group: A,1: 110,2: -113,3: 113,Total: 113,62kgMen,Snatch,438
-Rank: 1,MASHIKO Hiroyuki,JPN,"Born: Oct 08, 1997",B.weight: 61.70,Group: A,1: 138,2: 141,3: 145,Total: 145,62kgMen,CleanJerk,438
-Rank: 2,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 60.90,Group: A,1: -140,2: 140,3: -143,Total: 140,62kgMen,CleanJerk,438
-Rank: 1,MASHIKO Hiroyuki,JPN,"Born: Oct 08, 1997",B.weight: 61.70,Group: A,Snatch: 114,CI&Jerk: 145,Total: 259,,62kgMen,Total,438
-Rank: 2,CHIANG Nien-En,TPE,"Born: Feb 19, 2000",B.weight: 60.90,Group: A,Snatch: 113,CI&Jerk: 140,Total: 253,,62kgMen,Total,438
-Rank: 1,ROTNICKI Szymon,POL,"Born: May 05, 1996",B.weight: 68.15,Group: A,1: 117,2: 120,3: 124,Total: 124,69kgMen,Snatch,438
-Rank: 2,HUANG Ding-Chieh,TPE,"Born: Mar 20, 1994",B.weight: 68.30,Group: A,1: 115,2: -118,3: 118,Total: 118,69kgMen,Snatch,438
-Rank: 3,DUMAS Alexandre,CAN,"Born: Jun 24, 1994",B.weight: 68.05,Group: A,1: 110,2: 114,3: -117,Total: 114,69kgMen,Snatch,438
-Rank: 4,WILKINS Kenneth Ryan,USA,"Born: May 26, 1996",B.weight: 68.50,Group: A,1: 113,2: -118,3: -118,Total: 113,69kgMen,Snatch,438
-Rank: 1,HUANG Ding-Chieh,TPE,"Born: Mar 20, 1994",B.weight: 68.30,Group: A,1: 150,2: 155,3: -160,Total: 155,69kgMen,CleanJerk,438
-Rank: 2,WILKINS Kenneth Ryan,USA,"Born: May 26, 1996",B.weight: 68.50,Group: A,1: 137,2: 140,3: 145,Total: 145,69kgMen,CleanJerk,438
-Rank: 3,DUMAS Alexandre,CAN,"Born: Jun 24, 1994",B.weight: 68.05,Group: A,1: 137,2: 140,3: 145,Total: 145,69kgMen,CleanJerk,438
-Rank: 4,ROTNICKI Szymon,POL,"Born: May 05, 1996",B.weight: 68.15,Group: A,1: -143,2: 143,3: -146,Total: 143,69kgMen,CleanJerk,438
-Rank: 1,HUANG Ding-Chieh,TPE,"Born: Mar 20, 1994",B.weight: 68.30,Group: A,Snatch: 118,CI&Jerk: 155,Total: 273,,69kgMen,Total,438
-Rank: 2,ROTNICKI Szymon,POL,"Born: May 05, 1996",B.weight: 68.15,Group: A,Snatch: 124,CI&Jerk: 143,Total: 267,,69kgMen,Total,438
-Rank: 3,DUMAS Alexandre,CAN,"Born: Jun 24, 1994",B.weight: 68.05,Group: A,Snatch: 114,CI&Jerk: 145,Total: 259,,69kgMen,Total,438
-Rank: 4,WILKINS Kenneth Ryan,USA,"Born: May 26, 1996",B.weight: 68.50,Group: A,Snatch: 113,CI&Jerk: 145,Total: 258,,69kgMen,Total,438
-Rank: 1,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.55,Group: A,1: 130,2: 135,3: 139,Total: 139,77kgMen,Snatch,438
-Rank: 2,HARA Yuki,JPN,"Born: May 12, 1997",B.weight: 76.85,Group: A,1: 131,2: 135,3: -138,Total: 135,77kgMen,Snatch,438
-Rank: 3,VACHON Nicolas,CAN,"Born: Jul 05, 1996",B.weight: 76.60,Group: A,1: 129,2: 133,3: -136,Total: 133,77kgMen,Snatch,438
-Rank: 4,CHENG Hao-Ping,TPE,"Born: Nov 16, 1998",B.weight: 76.50,Group: A,1: -125,2: 125,3: 130,Total: 130,77kgMen,Snatch,438
-Rank: 5,STRANSKY Petr,CZE,"Born: Aug 10, 1997",B.weight: 76.45,Group: A,1: 122,2: -126,3: 126,Total: 126,77kgMen,Snatch,438
-Rank: 6,KAO Chih-Chia,TPE,"Born: Mar 04, 2000",B.weight: 76.55,Group: A,1: 125,2: -128,3: -128,Total: 125,77kgMen,Snatch,438
-Rank: 7,STOLLE Dominic Thomas,USA,"Born: May 10, 1994",B.weight: 74.85,Group: A,1: 120,2: 125,3: -130,Total: 125,77kgMen,Snatch,438
-Rank: 8,MAHOVSKY David,CZE,"Born: Aug 18, 1994",B.weight: 77.00,Group: A,1: 120,2: 124,3: -128,Total: 124,77kgMen,Snatch,438
-Rank: 9,MRUK Lukasz,POL,"Born: Aug 25, 1996",B.weight: 76.80,Group: A,1: 120,2: -125,3: -125,Total: 120,77kgMen,Snatch,438
-Rank: 10,LAI Christopher Martin,AUS,"Born: Jul 01, 1998",B.weight: 76.00,Group: A,1: -105,2: -105,3: 105,Total: 105,77kgMen,Snatch,438
-Rank: ---,GURROLA ORTIZ Rogelio Alfonso,MEX,"Born: Aug 19, 1997",B.weight: 76.85,Group: A,1: -132,2: -132,3: ---,Total: ---,77kgMen,Snatch,438
-Rank: 1,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.55,Group: A,1: 163,2: 170,3: -174,Total: 170,77kgMen,CleanJerk,438
-Rank: 2,HARA Yuki,JPN,"Born: May 12, 1997",B.weight: 76.85,Group: A,1: 168,2: -175,3: -175,Total: 168,77kgMen,CleanJerk,438
-Rank: 3,VACHON Nicolas,CAN,"Born: Jul 05, 1996",B.weight: 76.60,Group: A,1: 167,2: -171,3: -172,Total: 167,77kgMen,CleanJerk,438
-Rank: 4,CHENG Hao-Ping,TPE,"Born: Nov 16, 1998",B.weight: 76.50,Group: A,1: 161,2: 167,3: -172,Total: 167,77kgMen,CleanJerk,438
-Rank: 5,GURROLA ORTIZ Rogelio Alfonso,MEX,"Born: Aug 19, 1997",B.weight: 76.85,Group: A,1: 162,2: -169,3: -171,Total: 162,77kgMen,CleanJerk,438
-Rank: 6,MAHOVSKY David,CZE,"Born: Aug 18, 1994",B.weight: 77.00,Group: A,1: -162,2: 162,3: -172,Total: 162,77kgMen,CleanJerk,438
-Rank: 7,MRUK Lukasz,POL,"Born: Aug 25, 1996",B.weight: 76.80,Group: A,1: 150,2: 155,3: -157,Total: 155,77kgMen,CleanJerk,438
-Rank: 8,STOLLE Dominic Thomas,USA,"Born: May 10, 1994",B.weight: 74.85,Group: A,1: 150,2: 155,3: -160,Total: 155,77kgMen,CleanJerk,438
-Rank: 9,STRANSKY Petr,CZE,"Born: Aug 10, 1997",B.weight: 76.45,Group: A,1: -150,2: -150,3: 150,Total: 150,77kgMen,CleanJerk,438
-Rank: ---,LAI Christopher Martin,AUS,"Born: Jul 01, 1998",B.weight: 76.00,Group: A,1: -138,2: -138,3: -138,Total: ---,77kgMen,CleanJerk,438
-Rank: ---,KAO Chih-Chia,TPE,"Born: Mar 04, 2000",B.weight: 76.55,Group: A,1: -162,2: -162,3: -162,Total: ---,77kgMen,CleanJerk,438
-Rank: 1,ROZSNYIK Ervin,SRB,"Born: May 22, 1993",B.weight: 76.55,Group: A,Snatch: 139,CI&Jerk: 170,Total: 309,,77kgMen,Total,438
-Rank: 2,HARA Yuki,JPN,"Born: May 12, 1997",B.weight: 76.85,Group: A,Snatch: 135,CI&Jerk: 168,Total: 303,,77kgMen,Total,438
-Rank: 3,VACHON Nicolas,CAN,"Born: Jul 05, 1996",B.weight: 76.60,Group: A,Snatch: 133,CI&Jerk: 167,Total: 300,,77kgMen,Total,438
-Rank: 4,CHENG Hao-Ping,TPE,"Born: Nov 16, 1998",B.weight: 76.50,Group: A,Snatch: 130,CI&Jerk: 167,Total: 297,,77kgMen,Total,438
-Rank: 5,MAHOVSKY David,CZE,"Born: Aug 18, 1994",B.weight: 77.00,Group: A,Snatch: 124,CI&Jerk: 162,Total: 286,,77kgMen,Total,438
-Rank: 6,STOLLE Dominic Thomas,USA,"Born: May 10, 1994",B.weight: 74.85,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,77kgMen,Total,438
-Rank: 7,STRANSKY Petr,CZE,"Born: Aug 10, 1997",B.weight: 76.45,Group: A,Snatch: 126,CI&Jerk: 150,Total: 276,,77kgMen,Total,438
-Rank: 8,MRUK Lukasz,POL,"Born: Aug 25, 1996",B.weight: 76.80,Group: A,Snatch: 120,CI&Jerk: 155,Total: 275,,77kgMen,Total,438
-Rank: ---,GURROLA ORTIZ Rogelio Alfonso,MEX,"Born: Aug 19, 1997",B.weight: 76.85,Group: A,Snatch: ---,CI&Jerk: 162,Total: ---,,77kgMen,Total,438
-Rank: ---,LAI Christopher Martin,AUS,"Born: Jul 01, 1998",B.weight: 76.00,Group: A,Snatch: 105,CI&Jerk: ---,Total: ---,,77kgMen,Total,438
-Rank: ---,KAO Chih-Chia,TPE,"Born: Mar 04, 2000",B.weight: 76.55,Group: A,Snatch: 125,CI&Jerk: ---,Total: ---,,77kgMen,Total,438
-Rank: 1,BELLEMARRE Alex,CAN,"Born: Jun 22, 1998",B.weight: 84.50,Group: A,1: 150,2: 154,3: 156,Total: 156,85kgMen,Snatch,438
-Rank: 2,YEOM Dahoon,KOR,"Born: Mar 31, 1999",B.weight: 84.90,Group: A,1: 146,2: 151,3: 155,Total: 155,85kgMen,Snatch,438
-Rank: 3,SOWA Mateusz,POL,"Born: Nov 01, 1996",B.weight: 84.55,Group: A,1: 132,2: -137,3: 141,Total: 141,85kgMen,Snatch,438
-Rank: 4,RODRIGUEZ OCASIO Christian Angel,USA,"Born: Jul 14, 1993",B.weight: 83.65,Group: A,1: 133,2: 137,3: 140,Total: 140,85kgMen,Snatch,438
-Rank: 5,POLYCHRONOPOULOS Stavros,GRE,"Born: Aug 18, 1994",B.weight: 84.90,Group: A,1: 134,2: 139,3: -142,Total: 139,85kgMen,Snatch,438
-Rank: 6,LAMB David Maxwell,USA,"Born: Nov 10, 1994",B.weight: 81.45,Group: A,1: 126,2: 130,3: -134,Total: 130,85kgMen,Snatch,438
-Rank: 7,KOLAR Josef,CZE,"Born: Oct 01, 1997",B.weight: 84.70,Group: A,1: -125,2: -125,3: 126,Total: 126,85kgMen,Snatch,438
-Rank: 8,SAXBY Liam Christopher,AUS,"Born: Jan 23, 1997",B.weight: 84.40,Group: A,1: -120,2: -120,3: 120,Total: 120,85kgMen,Snatch,438
-Rank: 9,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 84.00,Group: A,1: 105,2: 109,3: -111,Total: 109,85kgMen,Snatch,438
-Rank: 1,YEOM Dahoon,KOR,"Born: Mar 31, 1999",B.weight: 84.90,Group: A,1: 176,2: -185,3: -190,Total: 176,85kgMen,CleanJerk,438
-Rank: 2,KOLAR Josef,CZE,"Born: Oct 01, 1997",B.weight: 84.70,Group: A,1: 160,2: 168,3: -170,Total: 168,85kgMen,CleanJerk,438
-Rank: 3,SOWA Mateusz,POL,"Born: Nov 01, 1996",B.weight: 84.55,Group: A,1: 162,2: -167,3: 168,Total: 168,85kgMen,CleanJerk,438
-Rank: 4,RODRIGUEZ OCASIO Christian Angel,USA,"Born: Jul 14, 1993",B.weight: 83.65,Group: A,1: 162,2: 167,3: -170,Total: 167,85kgMen,CleanJerk,438
-Rank: 5,LAMB David Maxwell,USA,"Born: Nov 10, 1994",B.weight: 81.45,Group: A,1: 158,2: 163,3: -169,Total: 163,85kgMen,CleanJerk,438
-Rank: 6,SAXBY Liam Christopher,AUS,"Born: Jan 23, 1997",B.weight: 84.40,Group: A,1: 145,2: -149,3: -149,Total: 145,85kgMen,CleanJerk,438
-Rank: 7,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 84.00,Group: A,1: 138,2: -143,3: 145,Total: 145,85kgMen,CleanJerk,438
-Rank: ---,BELLEMARRE Alex,CAN,"Born: Jun 22, 1998",B.weight: 84.50,Group: A,1: -175,2: -175,3: -175,Total: ---,85kgMen,CleanJerk,438
-Rank: ---,POLYCHRONOPOULOS Stavros,GRE,"Born: Aug 18, 1994",B.weight: 84.90,Group: A,1: -162,2: -163,3: ---,Total: ---,85kgMen,CleanJerk,438
-Rank: 1,YEOM Dahoon,KOR,"Born: Mar 31, 1999",B.weight: 84.90,Group: A,Snatch: 155,CI&Jerk: 176,Total: 331,,85kgMen,Total,438
-Rank: 2,SOWA Mateusz,POL,"Born: Nov 01, 1996",B.weight: 84.55,Group: A,Snatch: 141,CI&Jerk: 168,Total: 309,,85kgMen,Total,438
-Rank: 3,RODRIGUEZ OCASIO Christian Angel,USA,"Born: Jul 14, 1993",B.weight: 83.65,Group: A,Snatch: 140,CI&Jerk: 167,Total: 307,,85kgMen,Total,438
-Rank: 4,KOLAR Josef,CZE,"Born: Oct 01, 1997",B.weight: 84.70,Group: A,Snatch: 126,CI&Jerk: 168,Total: 294,,85kgMen,Total,438
-Rank: 5,LAMB David Maxwell,USA,"Born: Nov 10, 1994",B.weight: 81.45,Group: A,Snatch: 130,CI&Jerk: 163,Total: 293,,85kgMen,Total,438
-Rank: 6,SAXBY Liam Christopher,AUS,"Born: Jan 23, 1997",B.weight: 84.40,Group: A,Snatch: 120,CI&Jerk: 145,Total: 265,,85kgMen,Total,438
-Rank: 7,PULIS Rodmar,MLT,"Born: Sep 29, 1994",B.weight: 84.00,Group: A,Snatch: 109,CI&Jerk: 145,Total: 254,,85kgMen,Total,438
-Rank: ---,BELLEMARRE Alex,CAN,"Born: Jun 22, 1998",B.weight: 84.50,Group: A,Snatch: 156,CI&Jerk: ---,Total: ---,,85kgMen,Total,438
-Rank: ---,POLYCHRONOPOULOS Stavros,GRE,"Born: Aug 18, 1994",B.weight: 84.90,Group: A,Snatch: 139,CI&Jerk: ---,Total: ---,,85kgMen,Total,438
-Rank: 1,CHEN Po-Jen,TPE,"Born: May 11, 1998",B.weight: 93.45,Group: A,1: 160,2: -165,3: -170,Total: 160,94kgMen,Snatch,438
-Rank: 2,BOONLANG Weeraphat,THA,"Born: Mar 23, 1997",B.weight: 93.20,Group: A,1: 141,2: -145,3: 145,Total: 145,94kgMen,Snatch,438
-Rank: 3,SOWKA Szymon,POL,"Born: Aug 13, 1996",B.weight: 93.15,Group: A,1: 135,2: 140,3: -143,Total: 140,94kgMen,Snatch,438
-Rank: 4,WANG Ching-Chieh,TPE,"Born: Apr 14, 1997",B.weight: 93.90,Group: A,1: 135,2: 140,3: -145,Total: 140,94kgMen,Snatch,438
-Rank: 5,OSTROVSKY Viktor,SVK,"Born: Jan 27, 1995",B.weight: 92.70,Group: A,1: 129,2: 133,3: 138,Total: 138,94kgMen,Snatch,438
-Rank: 6,LISTE VIANO Martin,ESP,"Born: Jun 11, 1996",B.weight: 91.95,Group: A,1: 130,2: 135,3: -141,Total: 135,94kgMen,Snatch,438
-Rank: 7,CENTKOWSKI Lukasz Mikolaj,POL,"Born: Dec 06, 1997",B.weight: 91.60,Group: A,1: 133,2: -139,3: -141,Total: 133,94kgMen,Snatch,438
-Rank: 8,DARVILLE Simon Kastbjerg,DEN,"Born: Jun 26, 1993",B.weight: 93.65,Group: A,1: 130,2: -136,3: -136,Total: 130,94kgMen,Snatch,438
-Rank: 9,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 92.45,Group: A,1: -125,2: 125,3: -129,Total: 125,94kgMen,Snatch,438
-Rank: 10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Born: Oct 30, 1996",B.weight: 93.50,Group: A,1: 115,2: -121,3: 121,Total: 121,94kgMen,Snatch,438
-Rank: 1,CHEN Po-Jen,TPE,"Born: May 11, 1998",B.weight: 93.45,Group: A,1: -185,2: 185,3: 191,Total: 191,94kgMen,CleanJerk,438
-Rank: 2,BOONLANG Weeraphat,THA,"Born: Mar 23, 1997",B.weight: 93.20,Group: A,1: 175,2: 178,3: -186,Total: 178,94kgMen,CleanJerk,438
-Rank: 3,CENTKOWSKI Lukasz Mikolaj,POL,"Born: Dec 06, 1997",B.weight: 91.60,Group: A,1: 166,2: 172,3: 177,Total: 177,94kgMen,CleanJerk,438
-Rank: 4,SOWKA Szymon,POL,"Born: Aug 13, 1996",B.weight: 93.15,Group: A,1: 167,2: 171,3: 175,Total: 175,94kgMen,CleanJerk,438
-Rank: 5,WANG Ching-Chieh,TPE,"Born: Apr 14, 1997",B.weight: 93.90,Group: A,1: 165,2: 170,3: 174,Total: 174,94kgMen,CleanJerk,438
-Rank: 6,LISTE VIANO Martin,ESP,"Born: Jun 11, 1996",B.weight: 91.95,Group: A,1: 163,2: 168,3: -175,Total: 168,94kgMen,CleanJerk,438
-Rank: 7,OSTROVSKY Viktor,SVK,"Born: Jan 27, 1995",B.weight: 92.70,Group: A,1: 166,2: -173,3: -173,Total: 166,94kgMen,CleanJerk,438
-Rank: 8,DARVILLE Simon Kastbjerg,DEN,"Born: Jun 26, 1993",B.weight: 93.65,Group: A,1: -160,2: 166,3: -173,Total: 166,94kgMen,CleanJerk,438
-Rank: 9,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 92.45,Group: A,1: -155,2: 155,3: 159,Total: 159,94kgMen,CleanJerk,438
-Rank: 10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Born: Oct 30, 1996",B.weight: 93.50,Group: A,1: 145,2: 152,3: -157,Total: 152,94kgMen,CleanJerk,438
-Rank: 1,CHEN Po-Jen,TPE,"Born: May 11, 1998",B.weight: 93.45,Group: A,Snatch: 160,CI&Jerk: 191,Total: 351,,94kgMen,Total,438
-Rank: 2,BOONLANG Weeraphat,THA,"Born: Mar 23, 1997",B.weight: 93.20,Group: A,Snatch: 145,CI&Jerk: 178,Total: 323,,94kgMen,Total,438
-Rank: 3,SOWKA Szymon,POL,"Born: Aug 13, 1996",B.weight: 93.15,Group: A,Snatch: 140,CI&Jerk: 175,Total: 315,,94kgMen,Total,438
-Rank: 4,WANG Ching-Chieh,TPE,"Born: Apr 14, 1997",B.weight: 93.90,Group: A,Snatch: 140,CI&Jerk: 174,Total: 314,,94kgMen,Total,438
-Rank: 5,CENTKOWSKI Lukasz Mikolaj,POL,"Born: Dec 06, 1997",B.weight: 91.60,Group: A,Snatch: 133,CI&Jerk: 177,Total: 310,,94kgMen,Total,438
-Rank: 6,OSTROVSKY Viktor,SVK,"Born: Jan 27, 1995",B.weight: 92.70,Group: A,Snatch: 138,CI&Jerk: 166,Total: 304,,94kgMen,Total,438
-Rank: 7,LISTE VIANO Martin,ESP,"Born: Jun 11, 1996",B.weight: 91.95,Group: A,Snatch: 135,CI&Jerk: 168,Total: 303,,94kgMen,Total,438
-Rank: 8,DARVILLE Simon Kastbjerg,DEN,"Born: Jun 26, 1993",B.weight: 93.65,Group: A,Snatch: 130,CI&Jerk: 166,Total: 296,,94kgMen,Total,438
-Rank: 9,MARQUARDT Jacob Neil,AUS,"Born: Aug 17, 1995",B.weight: 92.45,Group: A,Snatch: 125,CI&Jerk: 159,Total: 284,,94kgMen,Total,438
-Rank: 10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Born: Oct 30, 1996",B.weight: 93.50,Group: A,Snatch: 121,CI&Jerk: 152,Total: 273,,94kgMen,Total,438
-Rank: 1,KOCH Florian Donald,AUT,"Born: Aug 15, 1996",B.weight: 103.40,Group: A,1: 152,2: -156,3: 158,Total: 158,105kgMen,Snatch,438
-Rank: 2,GUNTHER Bjorn,GER,"Born: Jun 04, 1996",B.weight: 103.20,Group: A,1: -157,2: 157,3: -159,Total: 157,105kgMen,Snatch,438
-Rank: 3,MC CARTY Matthew Scott,USA,"Born: Jun 23, 1995",B.weight: 104.70,Group: A,1: -147,2: 148,3: 152,Total: 152,105kgMen,Snatch,438
-Rank: 4,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.90,Group: A,1: 143,2: 147,3: -150,Total: 147,105kgMen,Snatch,438
-Rank: 5,LEWIS Nathan Douglass,USA,"Born: Jun 28, 1995",B.weight: 103.60,Group: A,1: 138,2: 143,3: 147,Total: 147,105kgMen,Snatch,438
-Rank: 6,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 104.90,Group: A,1: 142,2: -147,3: 147,Total: 147,105kgMen,Snatch,438
-Rank: 7,HANACEK Jan,CZE,"Born: Dec 07, 1995",B.weight: 100.40,Group: A,1: 132,2: 137,3: -141,Total: 137,105kgMen,Snatch,438
-Rank: 8,KASZUBA Mateusz,POL,"Born: Mar 31, 1996",B.weight: 97.45,Group: A,1: 133,2: -137,3: -137,Total: 133,105kgMen,Snatch,438
-Rank: 9,SKEDELJ Jure,SLO,"Born: Jul 24, 1995",B.weight: 101.60,Group: A,1: 121,2: 126,3: 131,Total: 131,105kgMen,Snatch,438
-Rank: 10,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 101.20,Group: A,1: 125,2: 130,3: -135,Total: 130,105kgMen,Snatch,438
-Rank: 11,HOLDERSEN Thomas,DEN,"Born: Mar 15, 1994",B.weight: 94.65,Group: A,1: 100,2: ---,3: ---,Total: 100,105kgMen,Snatch,438
-Rank: ---,JENIK Filip,SVK,"Born: May 01, 1998",B.weight: 104.10,Group: A,1: -131,2: -131,3: -131,Total: ---,105kgMen,Snatch,438
-Rank: 1,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.90,Group: A,1: 182,2: 186,3: -192,Total: 186,105kgMen,CleanJerk,438
-Rank: 2,MC CARTY Matthew Scott,USA,"Born: Jun 23, 1995",B.weight: 104.70,Group: A,1: 183,2: -188,3: -189,Total: 183,105kgMen,CleanJerk,438
-Rank: 3,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 104.90,Group: A,1: 175,2: 183,3: -189,Total: 183,105kgMen,CleanJerk,438
-Rank: 4,LEWIS Nathan Douglass,USA,"Born: Jun 28, 1995",B.weight: 103.60,Group: A,1: 176,2: 181,3: -186,Total: 181,105kgMen,CleanJerk,438
-Rank: 5,GUNTHER Bjorn,GER,"Born: Jun 04, 1996",B.weight: 103.20,Group: A,1: 176,2: 181,3: -186,Total: 181,105kgMen,CleanJerk,438
-Rank: 6,KOCH Florian Donald,AUT,"Born: Aug 15, 1996",B.weight: 103.40,Group: A,1: 174,2: -178,3: -180,Total: 174,105kgMen,CleanJerk,438
-Rank: 7,HANACEK Jan,CZE,"Born: Dec 07, 1995",B.weight: 100.40,Group: A,1: 165,2: 170,3: -175,Total: 170,105kgMen,CleanJerk,438
-Rank: 8,KASZUBA Mateusz,POL,"Born: Mar 31, 1996",B.weight: 97.45,Group: A,1: 165,2: 170,3: -175,Total: 170,105kgMen,CleanJerk,438
-Rank: 9,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 101.20,Group: A,1: 153,2: -156,3: 156,Total: 156,105kgMen,CleanJerk,438
-Rank: 10,SKEDELJ Jure,SLO,"Born: Jul 24, 1995",B.weight: 101.60,Group: A,1: 155,2: -160,3: -165,Total: 155,105kgMen,CleanJerk,438
-Rank: 11,JENIK Filip,SVK,"Born: May 01, 1998",B.weight: 104.10,Group: A,1: 150,2: ---,3: ---,Total: 150,105kgMen,CleanJerk,438
-Rank: 12,HOLDERSEN Thomas,DEN,"Born: Mar 15, 1994",B.weight: 94.65,Group: A,1: 131,2: 136,3: 141,Total: 141,105kgMen,CleanJerk,438
-Rank: 1,GUNTHER Bjorn,GER,"Born: Jun 04, 1996",B.weight: 103.20,Group: A,Snatch: 157,CI&Jerk: 181,Total: 338,,105kgMen,Total,438
-Rank: 2,MC CARTY Matthew Scott,USA,"Born: Jun 23, 1995",B.weight: 104.70,Group: A,Snatch: 152,CI&Jerk: 183,Total: 335,,105kgMen,Total,438
-Rank: 3,LIN Sheng-Lun,TPE,"Born: Jan 22, 2000",B.weight: 104.90,Group: A,Snatch: 147,CI&Jerk: 186,Total: 333,,105kgMen,Total,438
-Rank: 4,KOCH Florian Donald,AUT,"Born: Aug 15, 1996",B.weight: 103.40,Group: A,Snatch: 158,CI&Jerk: 174,Total: 332,,105kgMen,Total,438
-Rank: 5,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 104.90,Group: A,Snatch: 147,CI&Jerk: 183,Total: 330,,105kgMen,Total,438
-Rank: 6,LEWIS Nathan Douglass,USA,"Born: Jun 28, 1995",B.weight: 103.60,Group: A,Snatch: 147,CI&Jerk: 181,Total: 328,,105kgMen,Total,438
-Rank: 7,HANACEK Jan,CZE,"Born: Dec 07, 1995",B.weight: 100.40,Group: A,Snatch: 137,CI&Jerk: 170,Total: 307,,105kgMen,Total,438
-Rank: 8,KASZUBA Mateusz,POL,"Born: Mar 31, 1996",B.weight: 97.45,Group: A,Snatch: 133,CI&Jerk: 170,Total: 303,,105kgMen,Total,438
-Rank: 9,SKEDELJ Jure,SLO,"Born: Jul 24, 1995",B.weight: 101.60,Group: A,Snatch: 131,CI&Jerk: 155,Total: 286,,105kgMen,Total,438
-Rank: 10,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 101.20,Group: A,Snatch: 130,CI&Jerk: 156,Total: 286,,105kgMen,Total,438
-Rank: 11,HOLDERSEN Thomas,DEN,"Born: Mar 15, 1994",B.weight: 94.65,Group: A,Snatch: 100,CI&Jerk: 141,Total: 241,,105kgMen,Total,438
-Rank: ---,JENIK Filip,SVK,"Born: May 01, 1998",B.weight: 104.10,Group: A,Snatch: ---,CI&Jerk: 150,Total: ---,,105kgMen,Total,438
-Rank: 1,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 125.80,Group: A,1: 150,2: 161,3: 170,Total: 170,+105kgMen,Snatch,438
-Rank: 2,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 140.80,Group: A,1: 161,2: 166,3: -171,Total: 166,+105kgMen,Snatch,438
-Rank: 3,NONAKA Masahiro,JPN,"Born: Jul 17, 1996",B.weight: 146.60,Group: A,1: 160,2: 165,3: -171,Total: 165,+105kgMen,Snatch,438
-Rank: 4,AZCATL PANTOJA Javier,MEX,"Born: Sep 10, 1996",B.weight: 105.70,Group: A,1: -142,2: 142,3: -151,Total: 142,+105kgMen,Snatch,438
-Rank: 5,LOSY Lukasz,POL,"Born: May 21, 1998",B.weight: 105.80,Group: A,1: -130,2: 130,3: 135,Total: 135,+105kgMen,Snatch,438
-Rank: 1,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 140.80,Group: A,1: 207,2: 215,3: 222,Total: 222,+105kgMen,CleanJerk,438
-Rank: 2,NONAKA Masahiro,JPN,"Born: Jul 17, 1996",B.weight: 146.60,Group: A,1: 206,2: 217,3: -224,Total: 217,+105kgMen,CleanJerk,438
-Rank: 3,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 125.80,Group: A,1: 190,2: 200,3: -210,Total: 200,+105kgMen,CleanJerk,438
-Rank: 4,AZCATL PANTOJA Javier,MEX,"Born: Sep 10, 1996",B.weight: 105.70,Group: A,1: 187,2: -195,3: -195,Total: 187,+105kgMen,CleanJerk,438
-Rank: 5,LOSY Lukasz,POL,"Born: May 21, 1998",B.weight: 105.80,Group: A,1: 160,2: -165,3: 170,Total: 170,+105kgMen,CleanJerk,438
-Rank: 1,KAJDOCI Tamas,SRB,"Born: Apr 21, 1997",B.weight: 140.80,Group: A,Snatch: 166,CI&Jerk: 222,Total: 388,,+105kgMen,Total,438
-Rank: 2,NONAKA Masahiro,JPN,"Born: Jul 17, 1996",B.weight: 146.60,Group: A,Snatch: 165,CI&Jerk: 217,Total: 382,,+105kgMen,Total,438
-Rank: 3,HSIEH Yun-Ting,TPE,"Born: Aug 08, 1999",B.weight: 125.80,Group: A,Snatch: 170,CI&Jerk: 200,Total: 370,,+105kgMen,Total,438
-Rank: 4,AZCATL PANTOJA Javier,MEX,"Born: Sep 10, 1996",B.weight: 105.70,Group: A,Snatch: 142,CI&Jerk: 187,Total: 329,,+105kgMen,Total,438
-Rank: 5,LOSY Lukasz,POL,"Born: May 21, 1998",B.weight: 105.80,Group: A,Snatch: 135,CI&Jerk: 170,Total: 305,,+105kgMen,Total,438
-Rank: 1,RESTREPO Veronica Alexandra,USA,"Born: Jul 16, 1999",B.weight: 47.25,Group: A,1: 64,2: 67,3: 70,Total: 70,48kgWomen,Snatch,438
-Rank: 2,SUZUKI Rira,JPN,"Born: Sep 06, 1998",B.weight: 45.76,Group: A,1: 65,2: 68,3: - 71,Total: 68,48kgWomen,Snatch,438
-Rank: 3,MAILLOT Asia Terry Coline,FRA,"Born: Nov 16, 1998",B.weight: 47.75,Group: A,1: - 59,2: 59,3: 61,Total: 61,48kgWomen,Snatch,438
-Rank: 4,IRAMINA Rie,JPN,"Born: Jan 21, 1999",B.weight: 47.95,Group: A,1: - 58,2: 58,3: 60,Total: 60,48kgWomen,Snatch,438
-Rank: 1,SUZUKI Rira,JPN,"Born: Sep 06, 1998",B.weight: 45.76,Group: A,1: 86,2: 90,3: 93,Total: 93,48kgWomen,CleanJerk,438
-Rank: 2,RESTREPO Veronica Alexandra,USA,"Born: Jul 16, 1999",B.weight: 47.25,Group: A,1: 83,2: 87,3: - 90,Total: 87,48kgWomen,CleanJerk,438
-Rank: 3,IRAMINA Rie,JPN,"Born: Jan 21, 1999",B.weight: 47.95,Group: A,1: 80,2: - 83,3: 84,Total: 84,48kgWomen,CleanJerk,438
-Rank: 4,MAILLOT Asia Terry Coline,FRA,"Born: Nov 16, 1998",B.weight: 47.75,Group: A,1: 75,2: - 79,3: - 80,Total: 75,48kgWomen,CleanJerk,438
-Rank: 1,SUZUKI Rira,JPN,"Born: Sep 06, 1998",B.weight: 45.76,Group: A,Snatch: 68,CI&Jerk: 93,Total: 161,,48kgWomen,Total,438
-Rank: 2,RESTREPO Veronica Alexandra,USA,"Born: Jul 16, 1999",B.weight: 47.25,Group: A,Snatch: 70,CI&Jerk: 87,Total: 157,,48kgWomen,Total,438
-Rank: 3,IRAMINA Rie,JPN,"Born: Jan 21, 1999",B.weight: 47.95,Group: A,Snatch: 60,CI&Jerk: 84,Total: 144,,48kgWomen,Total,438
-Rank: 4,MAILLOT Asia Terry Coline,FRA,"Born: Nov 16, 1998",B.weight: 47.75,Group: A,Snatch: 61,CI&Jerk: 75,Total: 136,,48kgWomen,Total,438
-Rank: 1,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 52.45,Group: A,1: 70,2: - 73,3: 75,Total: 75,53kgWomen,Snatch,438
-Rank: 2,GRANTOM Megan Kay,USA,"Born: Jan 20, 1995",B.weight: 53.00,Group: A,1: 71,2: 73,3: 75,Total: 75,53kgWomen,Snatch,438
-Rank: 3,FUENTES ZAVALA Susana Paola,MEX,"Born: Aug 22, 1994",B.weight: 52.50,Group: A,1: - 72,2: 72,3: 74,Total: 74,53kgWomen,Snatch,438
-Rank: 4,KUCZMASZEWSKA Agnieszka,POL,"Born: Jun 16, 1995",B.weight: 51.60,Group: A,1: 70,2: - 73,3: 74,Total: 74,53kgWomen,Snatch,438
-Rank: 5,LEE Wen-Kuan,TPE,"Born: Feb 23, 1996",B.weight: 52.75,Group: A,1: 70,2: 73,3: - 75,Total: 73,53kgWomen,Snatch,438
-Rank: 6,KERCHER Ellen Angelina,USA,"Born: Jan 04, 1994",B.weight: 52.85,Group: A,1: 69,2: 72,3: - 74,Total: 72,53kgWomen,Snatch,438
-Rank: 7,TONG Jennifer Ellen,GBR,"Born: Nov 08, 1996",B.weight: 52.45,Group: A,1: - 71,2: 72,3: - 76,Total: 72,53kgWomen,Snatch,438
-Rank: 8,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 52.50,Group: A,1: - 70,2: 70,3: 72,Total: 72,53kgWomen,Snatch,438
-Rank: 9,KAO Chia-Ling,TPE,"Born: Oct 31, 1997",B.weight: 52.55,Group: A,1: 67,2: 71,3: - 74,Total: 71,53kgWomen,Snatch,438
-Rank: 10,CHULUUNBAATAR Nyamzul,MGL,"Born: Jun 14, 1998",B.weight: 52.80,Group: A,1: 69,2: - 73,3: - 74,Total: 69,53kgWomen,Snatch,438
-Rank: 11,ZOLI Anna Maria,GRE,"Born: Jul 23, 1996",B.weight: 52.45,Group: A,1: 63,2: 68,3: - 71,Total: 68,53kgWomen,Snatch,438
-Rank: 12,BOGA Anna,GRE,"Born: May 13, 1996",B.weight: 51.30,Group: A,1: 60,2: 64,3: - 66,Total: 64,53kgWomen,Snatch,438
-Rank: 1,FUENTES ZAVALA Susana Paola,MEX,"Born: Aug 22, 1994",B.weight: 52.50,Group: A,1: 92,2: 95,3: 98,Total: 98,53kgWomen,CleanJerk,438
-Rank: 2,GRANTOM Megan Kay,USA,"Born: Jan 20, 1995",B.weight: 53.00,Group: A,1: 91,2: 93,3: - 96,Total: 93,53kgWomen,CleanJerk,438
-Rank: 3,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 52.50,Group: A,1: 90,2: - 93,3: 93,Total: 93,53kgWomen,CleanJerk,438
-Rank: 4,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 52.45,Group: A,1: 88,2: 91,3: - 94,Total: 91,53kgWomen,CleanJerk,438
-Rank: 5,LEE Wen-Kuan,TPE,"Born: Feb 23, 1996",B.weight: 52.75,Group: A,1: 90,2: - 93,3: - 93,Total: 90,53kgWomen,CleanJerk,438
-Rank: 6,KERCHER Ellen Angelina,USA,"Born: Jan 04, 1994",B.weight: 52.85,Group: A,1: - 88,2: 88,3: 90,Total: 90,53kgWomen,CleanJerk,438
-Rank: 7,TONG Jennifer Ellen,GBR,"Born: Nov 08, 1996",B.weight: 52.45,Group: A,1: 88,2: - 91,3: - 92,Total: 88,53kgWomen,CleanJerk,438
-Rank: 8,CHULUUNBAATAR Nyamzul,MGL,"Born: Jun 14, 1998",B.weight: 52.80,Group: A,1: 83,2: 88,3: - 92,Total: 88,53kgWomen,CleanJerk,438
-Rank: 9,KAO Chia-Ling,TPE,"Born: Oct 31, 1997",B.weight: 52.55,Group: A,1: 85,2: - 88,3: - 90,Total: 85,53kgWomen,CleanJerk,438
-Rank: 10,ZOLI Anna Maria,GRE,"Born: Jul 23, 1996",B.weight: 52.45,Group: A,1: 80,2: - 84,3: 85,Total: 85,53kgWomen,CleanJerk,438
-Rank: 11,KUCZMASZEWSKA Agnieszka,POL,"Born: Jun 16, 1995",B.weight: 51.60,Group: A,1: 83,2: - 86,3: - 86,Total: 83,53kgWomen,CleanJerk,438
-Rank: 12,BOGA Anna,GRE,"Born: May 13, 1996",B.weight: 51.30,Group: A,1: 75,2: - 80,3: - 80,Total: 75,53kgWomen,CleanJerk,438
-Rank: 1,FUENTES ZAVALA Susana Paola,MEX,"Born: Aug 22, 1994",B.weight: 52.50,Group: A,Snatch: 74,CI&Jerk: 98,Total: 172,,53kgWomen,Total,438
-Rank: 2,GRANTOM Megan Kay,USA,"Born: Jan 20, 1995",B.weight: 53.00,Group: A,Snatch: 75,CI&Jerk: 93,Total: 168,,53kgWomen,Total,438
-Rank: 3,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 52.45,Group: A,Snatch: 75,CI&Jerk: 91,Total: 166,,53kgWomen,Total,438
-Rank: 4,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 52.50,Group: A,Snatch: 72,CI&Jerk: 93,Total: 165,,53kgWomen,Total,438
-Rank: 5,LEE Wen-Kuan,TPE,"Born: Feb 23, 1996",B.weight: 52.75,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,53kgWomen,Total,438
-Rank: 6,KERCHER Ellen Angelina,USA,"Born: Jan 04, 1994",B.weight: 52.85,Group: A,Snatch: 72,CI&Jerk: 90,Total: 162,,53kgWomen,Total,438
-Rank: 7,TONG Jennifer Ellen,GBR,"Born: Nov 08, 1996",B.weight: 52.45,Group: A,Snatch: 72,CI&Jerk: 88,Total: 160,,53kgWomen,Total,438
-Rank: 8,KUCZMASZEWSKA Agnieszka,POL,"Born: Jun 16, 1995",B.weight: 51.60,Group: A,Snatch: 74,CI&Jerk: 83,Total: 157,,53kgWomen,Total,438
-Rank: 9,CHULUUNBAATAR Nyamzul,MGL,"Born: Jun 14, 1998",B.weight: 52.80,Group: A,Snatch: 69,CI&Jerk: 88,Total: 157,,53kgWomen,Total,438
-Rank: 10,KAO Chia-Ling,TPE,"Born: Oct 31, 1997",B.weight: 52.55,Group: A,Snatch: 71,CI&Jerk: 85,Total: 156,,53kgWomen,Total,438
-Rank: 11,ZOLI Anna Maria,GRE,"Born: Jul 23, 1996",B.weight: 52.45,Group: A,Snatch: 68,CI&Jerk: 85,Total: 153,,53kgWomen,Total,438
-Rank: 12,BOGA Anna,GRE,"Born: May 13, 1996",B.weight: 51.30,Group: A,Snatch: 64,CI&Jerk: 75,Total: 139,,53kgWomen,Total,438
-Rank: 1,DZIENIS Monika,POL,"Born: Jun 01, 1994",B.weight: 57.55,Group: A,1: 80,2: 83,3: 86,Total: 86,58kgWomen,Snatch,438
-Rank: 2,BRAMWELL Kaija Francesca,USA,"Born: Jul 14, 1997",B.weight: 58.00,Group: A,1: 80,2: 82,3: 85,Total: 85,58kgWomen,Snatch,438
-Rank: 3,LAMARCHE-MC CLURE Caroline,CAN,"Born: Dec 06, 1995",B.weight: 57.90,Group: A,1: - 78,2: 78,3: 81,Total: 81,58kgWomen,Snatch,438
-Rank: 4,YAMAMURA Yui,JPN,"Born: Aug 12, 1997",B.weight: 57.85,Group: A,1: 76,2: 79,3: - 81,Total: 79,58kgWomen,Snatch,438
-Rank: 5,MAKARA Akari,JPN,"Born: Dec 05, 1996",B.weight: 57.40,Group: A,1: - 79,2: 79,3: - 82,Total: 79,58kgWomen,Snatch,438
-Rank: 6,ATTILO Sophia,GER,"Born: Jul 15, 1993",B.weight: 57.60,Group: A,1: 75,2: 78,3: - 80,Total: 78,58kgWomen,Snatch,438
-Rank: 7,ROK Agata Magdalena,POL,"Born: Oct 26, 1996",B.weight: 57.85,Group: A,1: - 75,2: 75,3: - 77,Total: 75,58kgWomen,Snatch,438
-Rank: 8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Born: Nov 11, 1997",B.weight: 57.60,Group: A,1: - 72,2: 72,3: - 75,Total: 72,58kgWomen,Snatch,438
-Rank: 9,ZIZLAVSKY Anna,AUT,"Born: Apr 21, 1994",B.weight: 57.30,Group: A,1: 64,2: 68,3: - 72,Total: 68,58kgWomen,Snatch,438
-Rank: 10,SVOBODOVA Kristyna,CZE,"Born: Sep 28, 1994",B.weight: 57.90,Group: A,1: - 58,2: 58,3: 61,Total: 61,58kgWomen,Snatch,438
-Rank: 11,RANABHAT Manisha,NEP,"Born: Dec 20, 1994",B.weight: 53.90,Group: A,1: - 50,2: 50,3: 53,Total: 53,58kgWomen,Snatch,438
-Rank: 1,BRAMWELL Kaija Francesca,USA,"Born: Jul 14, 1997",B.weight: 58.00,Group: A,1: 100,2: 104,3: -109,Total: 104,58kgWomen,CleanJerk,438
-Rank: 2,MAKARA Akari,JPN,"Born: Dec 05, 1996",B.weight: 57.40,Group: A,1: 97,2: - 99,3: 99,Total: 99,58kgWomen,CleanJerk,438
-Rank: 3,YAMAMURA Yui,JPN,"Born: Aug 12, 1997",B.weight: 57.85,Group: A,1: 98,2: -100,3: -100,Total: 98,58kgWomen,CleanJerk,438
-Rank: 4,ATTILO Sophia,GER,"Born: Jul 15, 1993",B.weight: 57.60,Group: A,1: 92,2: 96,3: - 98,Total: 96,58kgWomen,CleanJerk,438
-Rank: 5,DZIENIS Monika,POL,"Born: Jun 01, 1994",B.weight: 57.55,Group: A,1: 93,2: 96,3: - 98,Total: 96,58kgWomen,CleanJerk,438
-Rank: 6,LAMARCHE-MC CLURE Caroline,CAN,"Born: Dec 06, 1995",B.weight: 57.90,Group: A,1: 95,2: - 98,3: - 98,Total: 95,58kgWomen,CleanJerk,438
-Rank: 7,ROK Agata Magdalena,POL,"Born: Oct 26, 1996",B.weight: 57.85,Group: A,1: 95,2: - 99,3: - 99,Total: 95,58kgWomen,CleanJerk,438
-Rank: 8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Born: Nov 11, 1997",B.weight: 57.60,Group: A,1: - 90,2: 90,3: - 94,Total: 90,58kgWomen,CleanJerk,438
-Rank: 9,ZIZLAVSKY Anna,AUT,"Born: Apr 21, 1994",B.weight: 57.30,Group: A,1: 79,2: 84,3: - 86,Total: 84,58kgWomen,CleanJerk,438
-Rank: 10,SVOBODOVA Kristyna,CZE,"Born: Sep 28, 1994",B.weight: 57.90,Group: A,1: 70,2: 74,3: - 78,Total: 74,58kgWomen,CleanJerk,438
-Rank: 11,RANABHAT Manisha,NEP,"Born: Dec 20, 1994",B.weight: 53.90,Group: A,1: 60,2: 65,3: - 70,Total: 65,58kgWomen,CleanJerk,438
-Rank: 1,BRAMWELL Kaija Francesca,USA,"Born: Jul 14, 1997",B.weight: 58.00,Group: A,Snatch: 85,CI&Jerk: 104,Total: 189,,58kgWomen,Total,438
-Rank: 2,DZIENIS Monika,POL,"Born: Jun 01, 1994",B.weight: 57.55,Group: A,Snatch: 86,CI&Jerk: 96,Total: 182,,58kgWomen,Total,438
-Rank: 3,MAKARA Akari,JPN,"Born: Dec 05, 1996",B.weight: 57.40,Group: A,Snatch: 79,CI&Jerk: 99,Total: 178,,58kgWomen,Total,438
-Rank: 4,YAMAMURA Yui,JPN,"Born: Aug 12, 1997",B.weight: 57.85,Group: A,Snatch: 79,CI&Jerk: 98,Total: 177,,58kgWomen,Total,438
-Rank: 5,LAMARCHE-MC CLURE Caroline,CAN,"Born: Dec 06, 1995",B.weight: 57.90,Group: A,Snatch: 81,CI&Jerk: 95,Total: 176,,58kgWomen,Total,438
-Rank: 6,ATTILO Sophia,GER,"Born: Jul 15, 1993",B.weight: 57.60,Group: A,Snatch: 78,CI&Jerk: 96,Total: 174,,58kgWomen,Total,438
-Rank: 7,ROK Agata Magdalena,POL,"Born: Oct 26, 1996",B.weight: 57.85,Group: A,Snatch: 75,CI&Jerk: 95,Total: 170,,58kgWomen,Total,438
-Rank: 8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Born: Nov 11, 1997",B.weight: 57.60,Group: A,Snatch: 72,CI&Jerk: 90,Total: 162,,58kgWomen,Total,438
-Rank: 9,ZIZLAVSKY Anna,AUT,"Born: Apr 21, 1994",B.weight: 57.30,Group: A,Snatch: 68,CI&Jerk: 84,Total: 152,,58kgWomen,Total,438
-Rank: 10,SVOBODOVA Kristyna,CZE,"Born: Sep 28, 1994",B.weight: 57.90,Group: A,Snatch: 61,CI&Jerk: 74,Total: 135,,58kgWomen,Total,438
-Rank: 11,RANABHAT Manisha,NEP,"Born: Dec 20, 1994",B.weight: 53.90,Group: A,Snatch: 53,CI&Jerk: 65,Total: 118,,58kgWomen,Total,438
-Rank: 1,CHARRON Maude G,CAN,"Born: Apr 28, 1993",B.weight: 62.30,Group: A,1: 96,2: 99,3: -102,Total: 99,63kgWomen,Snatch,438
-Rank: 2,ELLIOTT Kiana Rose,AUS,"Born: Jul 27, 1997",B.weight: 62.25,Group: A,1: 90,2: 93,3: - 97,Total: 93,63kgWomen,Snatch,438
-Rank: 3,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 62.55,Group: A,1: 88,2: 92,3: - 94,Total: 92,63kgWomen,Snatch,438
-Rank: 4,SCHWEIZER Lisa Marie,GER,"Born: Jul 18, 1995",B.weight: 62.75,Group: A,1: 85,2: 88,3: 90,Total: 90,63kgWomen,Snatch,438
-Rank: 5,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: A,1: - 88,2: - 88,3: 88,Total: 88,63kgWomen,Snatch,438
-Rank: 6,FLEMING Allison Marie,USA,"Born: Apr 18, 1996",B.weight: 62.45,Group: A,1: - 83,2: 83,3: - 86,Total: 83,63kgWomen,Snatch,438
-Rank: 7,TURNER Taylor Nicole,USA,"Born: May 26, 1997",B.weight: 58.85,Group: A,1: - 80,2: 80,3: 83,Total: 83,63kgWomen,Snatch,438
-Rank: 8,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.45,Group: A,1: 78,2: 82,3: - 85,Total: 82,63kgWomen,Snatch,438
-Rank: 9,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 63.00,Group: B,1: - 78,2: 78,3: - 81,Total: 78,63kgWomen,Snatch,438
-Rank: 10,CZOP Ewelina,POL,"Born: Feb 16, 1995",B.weight: 61.90,Group: B,1: 70,2: 74,3: 77,Total: 77,63kgWomen,Snatch,438
-Rank: 11,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 61.10,Group: B,1: 75,2: - 78,3: - 78,Total: 75,63kgWomen,Snatch,438
-Rank: 12,ANDERSEN Kiki Block Tindal,DEN,"Born: Sep 09, 1993",B.weight: 62.05,Group: B,1: 70,2: - 73,3: 73,Total: 73,63kgWomen,Snatch,438
-Rank: 13,RIBARIC Neza,SLO,"Born: Aug 09, 1994",B.weight: 62.20,Group: B,1: 67,2: 71,3: - 76,Total: 71,63kgWomen,Snatch,438
-Rank: 14,KOTLAROVA Ivana,SVK,"Born: May 14, 1995",B.weight: 62.00,Group: B,1: 58,2: 62,3: - 66,Total: 62,63kgWomen,Snatch,438
-Rank: ---,YAMAMOTO Mako,JPN,"Born: Aug 18, 1996",B.weight: 61.50,Group: A,1: - 80,2: - 80,3: - 80,Total: ---,63kgWomen,Snatch,438
-Rank: ---,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 62.35,Group: A,1: - 92,2: - 92,3: - 92,Total: ---,63kgWomen,Snatch,438
-Rank: 1,CHARRON Maude G,CAN,"Born: Apr 28, 1993",B.weight: 62.30,Group: A,1: 120,2: 124,3: 127,Total: 127,63kgWomen,CleanJerk,438
-Rank: 2,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 62.35,Group: A,1: 110,2: 113,3: -116,Total: 113,63kgWomen,CleanJerk,438
-Rank: 3,ELLIOTT Kiana Rose,AUS,"Born: Jul 27, 1997",B.weight: 62.25,Group: A,1: 106,2: 109,3: -114,Total: 109,63kgWomen,CleanJerk,438
-Rank: 4,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 62.55,Group: A,1: 97,2: 101,3: 106,Total: 106,63kgWomen,CleanJerk,438
-Rank: 5,YAMAMOTO Mako,JPN,"Born: Aug 18, 1996",B.weight: 61.50,Group: A,1: 105,2: -108,3: -110,Total: 105,63kgWomen,CleanJerk,438
-Rank: 6,SCHWEIZER Lisa Marie,GER,"Born: Jul 18, 1995",B.weight: 62.75,Group: A,1: 102,2: 105,3: -109,Total: 105,63kgWomen,CleanJerk,438
-Rank: 7,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: A,1: 98,2: 101,3: -103,Total: 101,63kgWomen,CleanJerk,438
-Rank: 8,TURNER Taylor Nicole,USA,"Born: May 26, 1997",B.weight: 58.85,Group: A,1: 95,2: 98,3: 101,Total: 101,63kgWomen,CleanJerk,438
-Rank: 9,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 63.00,Group: B,1: 96,2: 99,3: -101,Total: 99,63kgWomen,CleanJerk,438
-Rank: 10,CZOP Ewelina,POL,"Born: Feb 16, 1995",B.weight: 61.90,Group: B,1: 93,2: 98,3: -101,Total: 98,63kgWomen,CleanJerk,438
-Rank: 11,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.45,Group: A,1: - 97,2: 97,3: -106,Total: 97,63kgWomen,CleanJerk,438
-Rank: 12,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 61.10,Group: B,1: 96,2: -101,3: -103,Total: 96,63kgWomen,CleanJerk,438
-Rank: 13,RIBARIC Neza,SLO,"Born: Aug 09, 1994",B.weight: 62.20,Group: B,1: 86,2: 90,3: - 94,Total: 90,63kgWomen,CleanJerk,438
-Rank: 14,ANDERSEN Kiki Block Tindal,DEN,"Born: Sep 09, 1993",B.weight: 62.05,Group: B,1: 85,2: - 90,3: - 90,Total: 85,63kgWomen,CleanJerk,438
-Rank: 15,KOTLAROVA Ivana,SVK,"Born: May 14, 1995",B.weight: 62.00,Group: B,1: 72,2: 75,3: - 78,Total: 75,63kgWomen,CleanJerk,438
-Rank: ---,FLEMING Allison Marie,USA,"Born: Apr 18, 1996",B.weight: 62.45,Group: A,1: -100,2: -100,3: -100,Total: ---,63kgWomen,CleanJerk,438
-Rank: 1,CHARRON Maude G,CAN,"Born: Apr 28, 1993",B.weight: 62.30,Group: A,Snatch: 99,CI&Jerk: 127,Total: 226,,63kgWomen,Total,438
-Rank: 2,ELLIOTT Kiana Rose,AUS,"Born: Jul 27, 1997",B.weight: 62.25,Group: A,Snatch: 93,CI&Jerk: 109,Total: 202,,63kgWomen,Total,438
-Rank: 3,CHEN Wen-Huei,TPE,"Born: Feb 23, 1997",B.weight: 62.55,Group: A,Snatch: 92,CI&Jerk: 106,Total: 198,,63kgWomen,Total,438
-Rank: 4,SCHWEIZER Lisa Marie,GER,"Born: Jul 18, 1995",B.weight: 62.75,Group: A,Snatch: 90,CI&Jerk: 105,Total: 195,,63kgWomen,Total,438
-Rank: 5,MARTINEZ SANTIAGO Irene,ESP,"Born: Sep 14, 1993",B.weight: 62.65,Group: A,Snatch: 88,CI&Jerk: 101,Total: 189,,63kgWomen,Total,438
-Rank: 6,TURNER Taylor Nicole,USA,"Born: May 26, 1997",B.weight: 58.85,Group: A,Snatch: 83,CI&Jerk: 101,Total: 184,,63kgWomen,Total,438
-Rank: 7,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.45,Group: A,Snatch: 82,CI&Jerk: 97,Total: 179,,63kgWomen,Total,438
-Rank: 8,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 63.00,Group: B,Snatch: 78,CI&Jerk: 99,Total: 177,,63kgWomen,Total,438
-Rank: 9,CZOP Ewelina,POL,"Born: Feb 16, 1995",B.weight: 61.90,Group: B,Snatch: 77,CI&Jerk: 98,Total: 175,,63kgWomen,Total,438
-Rank: 10,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 61.10,Group: B,Snatch: 75,CI&Jerk: 96,Total: 171,,63kgWomen,Total,438
-Rank: 11,RIBARIC Neza,SLO,"Born: Aug 09, 1994",B.weight: 62.20,Group: B,Snatch: 71,CI&Jerk: 90,Total: 161,,63kgWomen,Total,438
-Rank: 12,ANDERSEN Kiki Block Tindal,DEN,"Born: Sep 09, 1993",B.weight: 62.05,Group: B,Snatch: 73,CI&Jerk: 85,Total: 158,,63kgWomen,Total,438
-Rank: 13,KOTLAROVA Ivana,SVK,"Born: May 14, 1995",B.weight: 62.00,Group: B,Snatch: 62,CI&Jerk: 75,Total: 137,,63kgWomen,Total,438
-Rank: ---,YAMAMOTO Mako,JPN,"Born: Aug 18, 1996",B.weight: 61.50,Group: A,Snatch: ---,CI&Jerk: 105,Total: ---,,63kgWomen,Total,438
-Rank: ---,GANZORIG Anuujin,MGL,"Born: Apr 11, 1998",B.weight: 62.35,Group: A,Snatch: ---,CI&Jerk: 113,Total: ---,,63kgWomen,Total,438
-Rank: ---,FLEMING Allison Marie,USA,"Born: Apr 18, 1996",B.weight: 62.45,Group: A,Snatch: 83,CI&Jerk: ---,Total: ---,,63kgWomen,Total,438
-Rank: 1,ISHII Miku,JPN,"Born: Mar 30, 1998",B.weight: 68.35,Group: A,1: 87,2: - 89,3: 90,Total: 90,69kgWomen,Snatch,438
-Rank: 2,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 68.10,Group: A,1: - 85,2: 85,3: 89,Total: 89,69kgWomen,Snatch,438
-Rank: 3,BREMNER Aria Kellyn,USA,"Born: Mar 04, 1994",B.weight: 68.45,Group: A,1: 88,2: - 90,3: - 91,Total: 88,69kgWomen,Snatch,438
-Rank: 4,ROUX Magalie,CAN,"Born: Jan 25, 1999",B.weight: 67.45,Group: A,1: 83,2: 85,3: 87,Total: 87,69kgWomen,Snatch,438
-Rank: 5,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 68.60,Group: A,1: 86,2: - 90,3: - 90,Total: 86,69kgWomen,Snatch,438
-Rank: 6,CHOU Yu-Tzu,TPE,"Born: May 29, 1997",B.weight: 68.20,Group: A,1: 85,2: - 88,3: - 88,Total: 85,69kgWomen,Snatch,438
-Rank: 7,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 65.25,Group: A,1: 79,2: 82,3: 84,Total: 84,69kgWomen,Snatch,438
-Rank: 8,MILTON Tessa,AUS,"Born: Feb 05, 1994",B.weight: 67.90,Group: B,1: 75,2: 80,3: 83,Total: 83,69kgWomen,Snatch,438
-Rank: 9,WALCHLI Alessia Joy,SUI,"Born: Sep 08, 1993",B.weight: 66.40,Group: B,1: 78,2: 81,3: - 83,Total: 81,69kgWomen,Snatch,438
-Rank: 10,PEDERSEN Mette Fasmila,DEN,"Born: Dec 03, 1993",B.weight: 68.65,Group: B,1: 76,2: 78,3: 81,Total: 81,69kgWomen,Snatch,438
-Rank: 11,RONDZIKOVA Nina,SVK,"Born: Jan 22, 1995",B.weight: 64.90,Group: B,1: 75,2: 78,3: - 81,Total: 78,69kgWomen,Snatch,438
-Rank: 12,LIAO Hua-Fan,TPE,"Born: Jan 08, 1998",B.weight: 68.65,Group: B,1: 77,2: - 80,3: - 80,Total: 77,69kgWomen,Snatch,438
-Rank: 13,RECHUL Emilia Jadwiga,POL,"Born: Aug 03, 1998",B.weight: 68.65,Group: B,1: - 70,2: 70,3: 73,Total: 73,69kgWomen,Snatch,438
-Rank: 14,TOLSTRUP Laura Vest,DEN,"Born: Sep 12, 1997",B.weight: 66.45,Group: B,1: 67,2: 70,3: - 73,Total: 70,69kgWomen,Snatch,438
-Rank: 15,REVENIKIOTI Eleni,GRE,"Born: May 26, 1997",B.weight: 68.30,Group: B,1: - 65,2: 65,3: 70,Total: 70,69kgWomen,Snatch,438
-Rank: 16,MALCEKOVA Viktoria,SVK,"Born: Jan 06, 1997",B.weight: 67.40,Group: B,1: 66,2: - 68,3: - 68,Total: 66,69kgWomen,Snatch,438
-Rank: ---,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 66.25,Group: A,1: - 77,2: - 77,3: - 77,Total: ---,69kgWomen,Snatch,438
-Rank: 1,BREMNER Aria Kellyn,USA,"Born: Mar 04, 1994",B.weight: 68.45,Group: A,1: 108,2: 112,3: 116,Total: 116,69kgWomen,CleanJerk,438
-Rank: 2,ISHII Miku,JPN,"Born: Mar 30, 1998",B.weight: 68.35,Group: A,1: 108,2: 110,3: 113,Total: 113,69kgWomen,CleanJerk,438
-Rank: 3,ROUX Magalie,CAN,"Born: Jan 25, 1999",B.weight: 67.45,Group: A,1: -109,2: 109,3: -114,Total: 109,69kgWomen,CleanJerk,438
-Rank: 4,CHOU Yu-Tzu,TPE,"Born: May 29, 1997",B.weight: 68.20,Group: A,1: 103,2: -108,3: 108,Total: 108,69kgWomen,CleanJerk,438
-Rank: 5,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 65.25,Group: A,1: 100,2: 103,3: -106,Total: 103,69kgWomen,CleanJerk,438
-Rank: 6,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 68.10,Group: A,1: -102,2: 102,3: -108,Total: 102,69kgWomen,CleanJerk,438
-Rank: 7,LIAO Hua-Fan,TPE,"Born: Jan 08, 1998",B.weight: 68.65,Group: B,1: 95,2: 100,3: -106,Total: 100,69kgWomen,CleanJerk,438
-Rank: 8,WALCHLI Alessia Joy,SUI,"Born: Sep 08, 1993",B.weight: 66.40,Group: B,1: 96,2: -100,3: 100,Total: 100,69kgWomen,CleanJerk,438
-Rank: 9,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 68.60,Group: A,1: 100,2: -102,3: -102,Total: 100,69kgWomen,CleanJerk,438
-Rank: 10,MILTON Tessa,AUS,"Born: Feb 05, 1994",B.weight: 67.90,Group: B,1: 90,2: 94,3: 99,Total: 99,69kgWomen,CleanJerk,438
-Rank: 11,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 66.25,Group: A,1: 92,2: 96,3: 98,Total: 98,69kgWomen,CleanJerk,438
-Rank: 12,RONDZIKOVA Nina,SVK,"Born: Jan 22, 1995",B.weight: 64.90,Group: B,1: - 95,2: - 97,3: 97,Total: 97,69kgWomen,CleanJerk,438
-Rank: 13,PEDERSEN Mette Fasmila,DEN,"Born: Dec 03, 1993",B.weight: 68.65,Group: B,1: 90,2: 94,3: - 97,Total: 94,69kgWomen,CleanJerk,438
-Rank: 14,TOLSTRUP Laura Vest,DEN,"Born: Sep 12, 1997",B.weight: 66.45,Group: B,1: 86,2: - 90,3: 91,Total: 91,69kgWomen,CleanJerk,438
-Rank: 15,RECHUL Emilia Jadwiga,POL,"Born: Aug 03, 1998",B.weight: 68.65,Group: B,1: - 90,2: - 90,3: 90,Total: 90,69kgWomen,CleanJerk,438
-Rank: 16,MALCEKOVA Viktoria,SVK,"Born: Jan 06, 1997",B.weight: 67.40,Group: B,1: - 88,2: 88,3: - 93,Total: 88,69kgWomen,CleanJerk,438
-Rank: 17,REVENIKIOTI Eleni,GRE,"Born: May 26, 1997",B.weight: 68.30,Group: B,1: - 84,2: 85,3: - 90,Total: 85,69kgWomen,CleanJerk,438
-Rank: 1,BREMNER Aria Kellyn,USA,"Born: Mar 04, 1994",B.weight: 68.45,Group: A,Snatch: 88,CI&Jerk: 116,Total: 204,,69kgWomen,Total,438
-Rank: 2,ISHII Miku,JPN,"Born: Mar 30, 1998",B.weight: 68.35,Group: A,Snatch: 90,CI&Jerk: 113,Total: 203,,69kgWomen,Total,438
-Rank: 3,ROUX Magalie,CAN,"Born: Jan 25, 1999",B.weight: 67.45,Group: A,Snatch: 87,CI&Jerk: 109,Total: 196,,69kgWomen,Total,438
-Rank: 4,CHOU Yu-Tzu,TPE,"Born: May 29, 1997",B.weight: 68.20,Group: A,Snatch: 85,CI&Jerk: 108,Total: 193,,69kgWomen,Total,438
-Rank: 5,HERTLOVA Simona,CZE,"Born: Mar 04, 1993",B.weight: 68.10,Group: A,Snatch: 89,CI&Jerk: 102,Total: 191,,69kgWomen,Total,438
-Rank: 6,ZAMMIT STEVENS Yasmin,MLT,"Born: Apr 21, 1993",B.weight: 65.25,Group: A,Snatch: 84,CI&Jerk: 103,Total: 187,,69kgWomen,Total,438
-Rank: 7,HAHN Victoria,AUT,"Born: Mar 17, 1993",B.weight: 68.60,Group: A,Snatch: 86,CI&Jerk: 100,Total: 186,,69kgWomen,Total,438
-Rank: 8,MILTON Tessa,AUS,"Born: Feb 05, 1994",B.weight: 67.90,Group: B,Snatch: 83,CI&Jerk: 99,Total: 182,,69kgWomen,Total,438
-Rank: 9,WALCHLI Alessia Joy,SUI,"Born: Sep 08, 1993",B.weight: 66.40,Group: B,Snatch: 81,CI&Jerk: 100,Total: 181,,69kgWomen,Total,438
-Rank: 10,LIAO Hua-Fan,TPE,"Born: Jan 08, 1998",B.weight: 68.65,Group: B,Snatch: 77,CI&Jerk: 100,Total: 177,,69kgWomen,Total,438
-Rank: 11,PEDERSEN Mette Fasmila,DEN,"Born: Dec 03, 1993",B.weight: 68.65,Group: B,Snatch: 81,CI&Jerk: 94,Total: 175,,69kgWomen,Total,438
-Rank: 12,RONDZIKOVA Nina,SVK,"Born: Jan 22, 1995",B.weight: 64.90,Group: B,Snatch: 78,CI&Jerk: 97,Total: 175,,69kgWomen,Total,438
-Rank: 13,RECHUL Emilia Jadwiga,POL,"Born: Aug 03, 1998",B.weight: 68.65,Group: B,Snatch: 73,CI&Jerk: 90,Total: 163,,69kgWomen,Total,438
-Rank: 14,TOLSTRUP Laura Vest,DEN,"Born: Sep 12, 1997",B.weight: 66.45,Group: B,Snatch: 70,CI&Jerk: 91,Total: 161,,69kgWomen,Total,438
-Rank: 15,REVENIKIOTI Eleni,GRE,"Born: May 26, 1997",B.weight: 68.30,Group: B,Snatch: 70,CI&Jerk: 85,Total: 155,,69kgWomen,Total,438
-Rank: 16,MALCEKOVA Viktoria,SVK,"Born: Jan 06, 1997",B.weight: 67.40,Group: B,Snatch: 66,CI&Jerk: 88,Total: 154,,69kgWomen,Total,438
-Rank: ---,LOPEZ CRESPO Maria Emma,ESP,"Born: Mar 14, 1996",B.weight: 66.25,Group: A,Snatch: ---,CI&Jerk: 98,Total: ---,,69kgWomen,Total,438
-Rank: 1,CHEN En-Tzu,TPE,"Born: Nov 12, 1999",B.weight: 74.40,Group: A,1: 90,2: 93,3: - 96,Total: 93,75kgWomen,Snatch,438
-Rank: 2,FREYOVA Karin,SVK,"Born: Apr 21, 1995",B.weight: 72.50,Group: A,1: 90,2: 92,3: - 94,Total: 92,75kgWomen,Snatch,438
-Rank: 3,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 72.60,Group: A,1: 86,2: 89,3: 91,Total: 91,75kgWomen,Snatch,438
-Rank: 4,COOPER Kaitlyn Dawn,USA,"Born: Jan 19, 1998",B.weight: 74.45,Group: A,1: - 87,2: 87,3: 90,Total: 90,75kgWomen,Snatch,438
-Rank: 5,WCISLAK Eliza,POL,"Born: Feb 16, 1997",B.weight: 75.00,Group: A,1: - 81,2: - 82,3: 83,Total: 83,75kgWomen,Snatch,438
-Rank: 6,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 69.25,Group: A,1: - 80,2: 80,3: - 84,Total: 80,75kgWomen,Snatch,438
-Rank: 7,ZIELINSKA Weronika,POL,"Born: May 16, 1997",B.weight: 73.65,Group: A,1: 73,2: 77,3: - 80,Total: 77,75kgWomen,Snatch,438
-Rank: 1,CHEN En-Tzu,TPE,"Born: Nov 12, 1999",B.weight: 74.40,Group: A,1: 110,2: 115,3: -118,Total: 115,75kgWomen,CleanJerk,438
-Rank: 2,FREYOVA Karin,SVK,"Born: Apr 21, 1995",B.weight: 72.50,Group: A,1: 107,2: 110,3: 113,Total: 113,75kgWomen,CleanJerk,438
-Rank: 3,COOPER Kaitlyn Dawn,USA,"Born: Jan 19, 1998",B.weight: 74.45,Group: A,1: 108,2: 112,3: -116,Total: 112,75kgWomen,CleanJerk,438
-Rank: 4,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 72.60,Group: A,1: 109,2: 112,3: -115,Total: 112,75kgWomen,CleanJerk,438
-Rank: 5,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 69.25,Group: A,1: 98,2: -100,3: 100,Total: 100,75kgWomen,CleanJerk,438
-Rank: 6,ZIELINSKA Weronika,POL,"Born: May 16, 1997",B.weight: 73.65,Group: A,1: 95,2: 99,3: -103,Total: 99,75kgWomen,CleanJerk,438
-Rank: 7,WCISLAK Eliza,POL,"Born: Feb 16, 1997",B.weight: 75.00,Group: A,1: 92,2: - 95,3: 96,Total: 96,75kgWomen,CleanJerk,438
-Rank: 1,CHEN En-Tzu,TPE,"Born: Nov 12, 1999",B.weight: 74.40,Group: A,Snatch: 93,CI&Jerk: 115,Total: 208,,75kgWomen,Total,438
-Rank: 2,FREYOVA Karin,SVK,"Born: Apr 21, 1995",B.weight: 72.50,Group: A,Snatch: 92,CI&Jerk: 113,Total: 205,,75kgWomen,Total,438
-Rank: 3,JAEGGI Nora,SUI,"Born: Apr 16, 1995",B.weight: 72.60,Group: A,Snatch: 91,CI&Jerk: 112,Total: 203,,75kgWomen,Total,438
-Rank: 4,COOPER Kaitlyn Dawn,USA,"Born: Jan 19, 1998",B.weight: 74.45,Group: A,Snatch: 90,CI&Jerk: 112,Total: 202,,75kgWomen,Total,438
-Rank: 5,PUDIVITROVA Eliska,CZE,"Born: Mar 25, 1994",B.weight: 69.25,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,75kgWomen,Total,438
-Rank: 6,WCISLAK Eliza,POL,"Born: Feb 16, 1997",B.weight: 75.00,Group: A,Snatch: 83,CI&Jerk: 96,Total: 179,,75kgWomen,Total,438
-Rank: 7,ZIELINSKA Weronika,POL,"Born: May 16, 1997",B.weight: 73.65,Group: A,Snatch: 77,CI&Jerk: 99,Total: 176,,75kgWomen,Total,438
-Rank: 1,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 83.10,Group: A,1: 95,2: 98,3: 101,Total: 101,90kgWomen,Snatch,438
-Rank: 2,TANG Wan-Siou,TPE,"Born: Jul 28, 1995",B.weight: 88.95,Group: A,1: 90,2: 93,3: - 96,Total: 93,90kgWomen,Snatch,438
-Rank: 3,PAN Li-Chen,TPE,"Born: Dec 29, 1997",B.weight: 90.00,Group: A,1: 88,2: - 91,3: 91,Total: 91,90kgWomen,Snatch,438
-Rank: 4,FARGHER Lauren Adele,NZL,"Born: Nov 01, 1994",B.weight: 84.20,Group: A,1: - 85,2: 85,3: 90,Total: 90,90kgWomen,Snatch,438
-Rank: 5,ERDENEBAT Bilegsaikhan,MGL,"Born: Sep 16, 1998",B.weight: 85.25,Group: A,1: 86,2: - 90,3: - 90,Total: 86,90kgWomen,Snatch,438
-Rank: 6,TENCEROVA Zuzana,SVK,"Born: Feb 21, 1995",B.weight: 76.70,Group: A,1: 65,2: 70,3: - 73,Total: 70,90kgWomen,Snatch,438
-Rank: 1,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 83.10,Group: A,1: 113,2: 117,3: -122,Total: 117,90kgWomen,CleanJerk,438
-Rank: 2,PAN Li-Chen,TPE,"Born: Dec 29, 1997",B.weight: 90.00,Group: A,1: 110,2: 113,3: -116,Total: 113,90kgWomen,CleanJerk,438
-Rank: 3,TANG Wan-Siou,TPE,"Born: Jul 28, 1995",B.weight: 88.95,Group: A,1: 110,2: -114,3: -114,Total: 110,90kgWomen,CleanJerk,438
-Rank: 4,ERDENEBAT Bilegsaikhan,MGL,"Born: Sep 16, 1998",B.weight: 85.25,Group: A,1: 105,2: -111,3: -111,Total: 105,90kgWomen,CleanJerk,438
-Rank: 5,FARGHER Lauren Adele,NZL,"Born: Nov 01, 1994",B.weight: 84.20,Group: A,1: 103,2: -108,3: -108,Total: 103,90kgWomen,CleanJerk,438
-Rank: 6,TENCEROVA Zuzana,SVK,"Born: Feb 21, 1995",B.weight: 76.70,Group: A,1: 75,2: - 80,3: 80,Total: 80,90kgWomen,CleanJerk,438
-Rank: 1,VANBELLINGHEN Anna Marie-J A M,BEL,"Born: Mar 10, 1994",B.weight: 83.10,Group: A,Snatch: 101,CI&Jerk: 117,Total: 218,,90kgWomen,Total,438
-Rank: 2,PAN Li-Chen,TPE,"Born: Dec 29, 1997",B.weight: 90.00,Group: A,Snatch: 91,CI&Jerk: 113,Total: 204,,90kgWomen,Total,438
-Rank: 3,TANG Wan-Siou,TPE,"Born: Jul 28, 1995",B.weight: 88.95,Group: A,Snatch: 93,CI&Jerk: 110,Total: 203,,90kgWomen,Total,438
-Rank: 4,FARGHER Lauren Adele,NZL,"Born: Nov 01, 1994",B.weight: 84.20,Group: A,Snatch: 90,CI&Jerk: 103,Total: 193,,90kgWomen,Total,438
-Rank: 5,ERDENEBAT Bilegsaikhan,MGL,"Born: Sep 16, 1998",B.weight: 85.25,Group: A,Snatch: 86,CI&Jerk: 105,Total: 191,,90kgWomen,Total,438
-Rank: 6,TENCEROVA Zuzana,SVK,"Born: Feb 21, 1995",B.weight: 76.70,Group: A,Snatch: 70,CI&Jerk: 80,Total: 150,,90kgWomen,Total,438
-Rank: 1,KO A-Rang,KOR,"Born: Aug 16, 1997",B.weight: 121.30,Group: A,1: 102,2: 104,3: 107,Total: 107,+90kgWomen,Snatch,438
-Rank: 2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Born: Feb 12, 1994",B.weight: 117.50,Group: A,1: 96,2: 98,3: 103,Total: 103,+90kgWomen,Snatch,438
-Rank: 3,AWANO Chikako,JPN,"Born: Sep 30, 1997",B.weight: 98.15,Group: A,1: 91,2: - 97,3: 97,Total: 97,+90kgWomen,Snatch,438
-Rank: 4,MAJEWSKA Zuzanna,POL,"Born: Jul 16, 1996",B.weight: 113.00,Group: A,1: 83,2: - 87,3: - 88,Total: 83,+90kgWomen,Snatch,438
-Rank: 1,KO A-Rang,KOR,"Born: Aug 16, 1997",B.weight: 121.30,Group: A,1: 118,2: 126,3: 132,Total: 132,+90kgWomen,CleanJerk,438
-Rank: 2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Born: Feb 12, 1994",B.weight: 117.50,Group: A,1: 125,2: -131,3: -133,Total: 125,+90kgWomen,CleanJerk,438
-Rank: 3,AWANO Chikako,JPN,"Born: Sep 30, 1997",B.weight: 98.15,Group: A,1: 117,2: 122,3: -127,Total: 122,+90kgWomen,CleanJerk,438
-Rank: 4,MAJEWSKA Zuzanna,POL,"Born: Jul 16, 1996",B.weight: 113.00,Group: A,1: 105,2: -110,3: -110,Total: 105,+90kgWomen,CleanJerk,438
-Rank: 1,KO A-Rang,KOR,"Born: Aug 16, 1997",B.weight: 121.30,Group: A,Snatch: 107,CI&Jerk: 132,Total: 239,,+90kgWomen,Total,438
-Rank: 2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Born: Feb 12, 1994",B.weight: 117.50,Group: A,Snatch: 103,CI&Jerk: 125,Total: 228,,+90kgWomen,Total,438
-Rank: 3,AWANO Chikako,JPN,"Born: Sep 30, 1997",B.weight: 98.15,Group: A,Snatch: 97,CI&Jerk: 122,Total: 219,,+90kgWomen,Total,438
-Rank: 4,MAJEWSKA Zuzanna,POL,"Born: Jul 16, 1996",B.weight: 113.00,Group: A,Snatch: 83,CI&Jerk: 105,Total: 188,,+90kgWomen,Total,438
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,KIM Seunghwan,KOR,"Jan 04, 1999",55.90,A,100,-105,105,105,56kgMen,Snatch,438,True
+2,CHINEN Hayato,JPN,"Sep 03, 1996",55.35,A,95,98,101,101,56kgMen,Snatch,438,True
+3,KUBO Kaito,JPN,"Jan 24, 1999",55.65,A,95,- 99,100,100,56kgMen,Snatch,438,True
+4,GARCIA Joseph Armando,USA,"Nov 02, 1993",55.80,A,90,- 94,- 95,90,56kgMen,Snatch,438,True
+---,RANABHAT Ganesh,NEP,"Oct 15, 1999",53.40,A,- 65,- 70,- 70,---,56kgMen,Snatch,438,True
+1,CHINEN Hayato,JPN,"Sep 03, 1996",55.35,A,125,128,-133,128,56kgMen,CleanJerk,438,True
+2,KUBO Kaito,JPN,"Jan 24, 1999",55.65,A,122,125,-132,125,56kgMen,CleanJerk,438,True
+3,KIM Seunghwan,KOR,"Jan 04, 1999",55.90,A,-115,116,119,119,56kgMen,CleanJerk,438,True
+4,GARCIA Joseph Armando,USA,"Nov 02, 1993",55.80,A,110,115,118,118,56kgMen,CleanJerk,438,True
+---,RANABHAT Ganesh,NEP,"Oct 15, 1999",53.40,A,- 85,- 85,- 90,---,56kgMen,CleanJerk,438,True
+1,CHINEN Hayato,JPN,"Sep 03, 1996",55.35,A,101,128,229,,56kgMen,Total,438,True
+2,KUBO Kaito,JPN,"Jan 24, 1999",55.65,A,100,125,225,,56kgMen,Total,438,True
+3,KIM Seunghwan,KOR,"Jan 04, 1999",55.90,A,105,119,224,,56kgMen,Total,438,True
+4,GARCIA Joseph Armando,USA,"Nov 02, 1993",55.80,A,90,118,208,,56kgMen,Total,438,True
+---,RANABHAT Ganesh,NEP,"Oct 15, 1999",53.40,A,---,---,---,,56kgMen,Total,438,True
+1,MASHIKO Hiroyuki,JPN,"Oct 08, 1997",61.70,A,110,114,-119,114,62kgMen,Snatch,438,True
+2,CHIANG Nien-En,TPE,"Feb 19, 2000",60.90,A,110,-113,113,113,62kgMen,Snatch,438,True
+1,MASHIKO Hiroyuki,JPN,"Oct 08, 1997",61.70,A,138,141,145,145,62kgMen,CleanJerk,438,True
+2,CHIANG Nien-En,TPE,"Feb 19, 2000",60.90,A,-140,140,-143,140,62kgMen,CleanJerk,438,True
+1,MASHIKO Hiroyuki,JPN,"Oct 08, 1997",61.70,A,114,145,259,,62kgMen,Total,438,True
+2,CHIANG Nien-En,TPE,"Feb 19, 2000",60.90,A,113,140,253,,62kgMen,Total,438,True
+1,ROTNICKI Szymon,POL,"May 05, 1996",68.15,A,117,120,124,124,69kgMen,Snatch,438,True
+2,HUANG Ding-Chieh,TPE,"Mar 20, 1994",68.30,A,115,-118,118,118,69kgMen,Snatch,438,True
+3,DUMAS Alexandre,CAN,"Jun 24, 1994",68.05,A,110,114,-117,114,69kgMen,Snatch,438,True
+4,WILKINS Kenneth Ryan,USA,"May 26, 1996",68.50,A,113,-118,-118,113,69kgMen,Snatch,438,True
+1,HUANG Ding-Chieh,TPE,"Mar 20, 1994",68.30,A,150,155,-160,155,69kgMen,CleanJerk,438,True
+2,WILKINS Kenneth Ryan,USA,"May 26, 1996",68.50,A,137,140,145,145,69kgMen,CleanJerk,438,True
+3,DUMAS Alexandre,CAN,"Jun 24, 1994",68.05,A,137,140,145,145,69kgMen,CleanJerk,438,True
+4,ROTNICKI Szymon,POL,"May 05, 1996",68.15,A,-143,143,-146,143,69kgMen,CleanJerk,438,True
+1,HUANG Ding-Chieh,TPE,"Mar 20, 1994",68.30,A,118,155,273,,69kgMen,Total,438,True
+2,ROTNICKI Szymon,POL,"May 05, 1996",68.15,A,124,143,267,,69kgMen,Total,438,True
+3,DUMAS Alexandre,CAN,"Jun 24, 1994",68.05,A,114,145,259,,69kgMen,Total,438,True
+4,WILKINS Kenneth Ryan,USA,"May 26, 1996",68.50,A,113,145,258,,69kgMen,Total,438,True
+1,ROZSNYIK Ervin,SRB,"May 22, 1993",76.55,A,130,135,139,139,77kgMen,Snatch,438,True
+2,HARA Yuki,JPN,"May 12, 1997",76.85,A,131,135,-138,135,77kgMen,Snatch,438,True
+3,VACHON Nicolas,CAN,"Jul 05, 1996",76.60,A,129,133,-136,133,77kgMen,Snatch,438,True
+4,CHENG Hao-Ping,TPE,"Nov 16, 1998",76.50,A,-125,125,130,130,77kgMen,Snatch,438,True
+5,STRANSKY Petr,CZE,"Aug 10, 1997",76.45,A,122,-126,126,126,77kgMen,Snatch,438,True
+6,KAO Chih-Chia,TPE,"Mar 04, 2000",76.55,A,125,-128,-128,125,77kgMen,Snatch,438,True
+7,STOLLE Dominic Thomas,USA,"May 10, 1994",74.85,A,120,125,-130,125,77kgMen,Snatch,438,True
+8,MAHOVSKY David,CZE,"Aug 18, 1994",77.00,A,120,124,-128,124,77kgMen,Snatch,438,True
+9,MRUK Lukasz,POL,"Aug 25, 1996",76.80,A,120,-125,-125,120,77kgMen,Snatch,438,True
+10,LAI Christopher Martin,AUS,"Jul 01, 1998",76.00,A,-105,-105,105,105,77kgMen,Snatch,438,True
+---,GURROLA ORTIZ Rogelio Alfonso,MEX,"Aug 19, 1997",76.85,A,-132,-132,---,---,77kgMen,Snatch,438,True
+1,ROZSNYIK Ervin,SRB,"May 22, 1993",76.55,A,163,170,-174,170,77kgMen,CleanJerk,438,True
+2,HARA Yuki,JPN,"May 12, 1997",76.85,A,168,-175,-175,168,77kgMen,CleanJerk,438,True
+3,VACHON Nicolas,CAN,"Jul 05, 1996",76.60,A,167,-171,-172,167,77kgMen,CleanJerk,438,True
+4,CHENG Hao-Ping,TPE,"Nov 16, 1998",76.50,A,161,167,-172,167,77kgMen,CleanJerk,438,True
+5,GURROLA ORTIZ Rogelio Alfonso,MEX,"Aug 19, 1997",76.85,A,162,-169,-171,162,77kgMen,CleanJerk,438,True
+6,MAHOVSKY David,CZE,"Aug 18, 1994",77.00,A,-162,162,-172,162,77kgMen,CleanJerk,438,True
+7,MRUK Lukasz,POL,"Aug 25, 1996",76.80,A,150,155,-157,155,77kgMen,CleanJerk,438,True
+8,STOLLE Dominic Thomas,USA,"May 10, 1994",74.85,A,150,155,-160,155,77kgMen,CleanJerk,438,True
+9,STRANSKY Petr,CZE,"Aug 10, 1997",76.45,A,-150,-150,150,150,77kgMen,CleanJerk,438,True
+---,LAI Christopher Martin,AUS,"Jul 01, 1998",76.00,A,-138,-138,-138,---,77kgMen,CleanJerk,438,True
+---,KAO Chih-Chia,TPE,"Mar 04, 2000",76.55,A,-162,-162,-162,---,77kgMen,CleanJerk,438,True
+1,ROZSNYIK Ervin,SRB,"May 22, 1993",76.55,A,139,170,309,,77kgMen,Total,438,True
+2,HARA Yuki,JPN,"May 12, 1997",76.85,A,135,168,303,,77kgMen,Total,438,True
+3,VACHON Nicolas,CAN,"Jul 05, 1996",76.60,A,133,167,300,,77kgMen,Total,438,True
+4,CHENG Hao-Ping,TPE,"Nov 16, 1998",76.50,A,130,167,297,,77kgMen,Total,438,True
+5,MAHOVSKY David,CZE,"Aug 18, 1994",77.00,A,124,162,286,,77kgMen,Total,438,True
+6,STOLLE Dominic Thomas,USA,"May 10, 1994",74.85,A,125,155,280,,77kgMen,Total,438,True
+7,STRANSKY Petr,CZE,"Aug 10, 1997",76.45,A,126,150,276,,77kgMen,Total,438,True
+8,MRUK Lukasz,POL,"Aug 25, 1996",76.80,A,120,155,275,,77kgMen,Total,438,True
+---,GURROLA ORTIZ Rogelio Alfonso,MEX,"Aug 19, 1997",76.85,A,---,162,---,,77kgMen,Total,438,True
+---,LAI Christopher Martin,AUS,"Jul 01, 1998",76.00,A,105,---,---,,77kgMen,Total,438,True
+---,KAO Chih-Chia,TPE,"Mar 04, 2000",76.55,A,125,---,---,,77kgMen,Total,438,True
+1,BELLEMARRE Alex,CAN,"Jun 22, 1998",84.50,A,150,154,156,156,85kgMen,Snatch,438,True
+2,YEOM Dahoon,KOR,"Mar 31, 1999",84.90,A,146,151,155,155,85kgMen,Snatch,438,True
+3,SOWA Mateusz,POL,"Nov 01, 1996",84.55,A,132,-137,141,141,85kgMen,Snatch,438,True
+4,RODRIGUEZ OCASIO Christian Angel,USA,"Jul 14, 1993",83.65,A,133,137,140,140,85kgMen,Snatch,438,True
+5,POLYCHRONOPOULOS Stavros,GRE,"Aug 18, 1994",84.90,A,134,139,-142,139,85kgMen,Snatch,438,True
+6,LAMB David Maxwell,USA,"Nov 10, 1994",81.45,A,126,130,-134,130,85kgMen,Snatch,438,True
+7,KOLAR Josef,CZE,"Oct 01, 1997",84.70,A,-125,-125,126,126,85kgMen,Snatch,438,True
+8,SAXBY Liam Christopher,AUS,"Jan 23, 1997",84.40,A,-120,-120,120,120,85kgMen,Snatch,438,True
+9,PULIS Rodmar,MLT,"Sep 29, 1994",84.00,A,105,109,-111,109,85kgMen,Snatch,438,True
+1,YEOM Dahoon,KOR,"Mar 31, 1999",84.90,A,176,-185,-190,176,85kgMen,CleanJerk,438,True
+2,KOLAR Josef,CZE,"Oct 01, 1997",84.70,A,160,168,-170,168,85kgMen,CleanJerk,438,True
+3,SOWA Mateusz,POL,"Nov 01, 1996",84.55,A,162,-167,168,168,85kgMen,CleanJerk,438,True
+4,RODRIGUEZ OCASIO Christian Angel,USA,"Jul 14, 1993",83.65,A,162,167,-170,167,85kgMen,CleanJerk,438,True
+5,LAMB David Maxwell,USA,"Nov 10, 1994",81.45,A,158,163,-169,163,85kgMen,CleanJerk,438,True
+6,SAXBY Liam Christopher,AUS,"Jan 23, 1997",84.40,A,145,-149,-149,145,85kgMen,CleanJerk,438,True
+7,PULIS Rodmar,MLT,"Sep 29, 1994",84.00,A,138,-143,145,145,85kgMen,CleanJerk,438,True
+---,BELLEMARRE Alex,CAN,"Jun 22, 1998",84.50,A,-175,-175,-175,---,85kgMen,CleanJerk,438,True
+---,POLYCHRONOPOULOS Stavros,GRE,"Aug 18, 1994",84.90,A,-162,-163,---,---,85kgMen,CleanJerk,438,True
+1,YEOM Dahoon,KOR,"Mar 31, 1999",84.90,A,155,176,331,,85kgMen,Total,438,True
+2,SOWA Mateusz,POL,"Nov 01, 1996",84.55,A,141,168,309,,85kgMen,Total,438,True
+3,RODRIGUEZ OCASIO Christian Angel,USA,"Jul 14, 1993",83.65,A,140,167,307,,85kgMen,Total,438,True
+4,KOLAR Josef,CZE,"Oct 01, 1997",84.70,A,126,168,294,,85kgMen,Total,438,True
+5,LAMB David Maxwell,USA,"Nov 10, 1994",81.45,A,130,163,293,,85kgMen,Total,438,True
+6,SAXBY Liam Christopher,AUS,"Jan 23, 1997",84.40,A,120,145,265,,85kgMen,Total,438,True
+7,PULIS Rodmar,MLT,"Sep 29, 1994",84.00,A,109,145,254,,85kgMen,Total,438,True
+---,BELLEMARRE Alex,CAN,"Jun 22, 1998",84.50,A,156,---,---,,85kgMen,Total,438,True
+---,POLYCHRONOPOULOS Stavros,GRE,"Aug 18, 1994",84.90,A,139,---,---,,85kgMen,Total,438,True
+1,CHEN Po-Jen,TPE,"May 11, 1998",93.45,A,160,-165,-170,160,94kgMen,Snatch,438,True
+2,BOONLANG Weeraphat,THA,"Mar 23, 1997",93.20,A,141,-145,145,145,94kgMen,Snatch,438,True
+3,SOWKA Szymon,POL,"Aug 13, 1996",93.15,A,135,140,-143,140,94kgMen,Snatch,438,True
+4,WANG Ching-Chieh,TPE,"Apr 14, 1997",93.90,A,135,140,-145,140,94kgMen,Snatch,438,True
+5,OSTROVSKY Viktor,SVK,"Jan 27, 1995",92.70,A,129,133,138,138,94kgMen,Snatch,438,True
+6,LISTE VIANO Martin,ESP,"Jun 11, 1996",91.95,A,130,135,-141,135,94kgMen,Snatch,438,True
+7,CENTKOWSKI Lukasz Mikolaj,POL,"Dec 06, 1997",91.60,A,133,-139,-141,133,94kgMen,Snatch,438,True
+8,DARVILLE Simon Kastbjerg,DEN,"Jun 26, 1993",93.65,A,130,-136,-136,130,94kgMen,Snatch,438,True
+9,MARQUARDT Jacob Neil,AUS,"Aug 17, 1995",92.45,A,-125,125,-129,125,94kgMen,Snatch,438,True
+10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",93.50,A,115,-121,121,121,94kgMen,Snatch,438,True
+1,CHEN Po-Jen,TPE,"May 11, 1998",93.45,A,-185,185,191,191,94kgMen,CleanJerk,438,True
+2,BOONLANG Weeraphat,THA,"Mar 23, 1997",93.20,A,175,178,-186,178,94kgMen,CleanJerk,438,True
+3,CENTKOWSKI Lukasz Mikolaj,POL,"Dec 06, 1997",91.60,A,166,172,177,177,94kgMen,CleanJerk,438,True
+4,SOWKA Szymon,POL,"Aug 13, 1996",93.15,A,167,171,175,175,94kgMen,CleanJerk,438,True
+5,WANG Ching-Chieh,TPE,"Apr 14, 1997",93.90,A,165,170,174,174,94kgMen,CleanJerk,438,True
+6,LISTE VIANO Martin,ESP,"Jun 11, 1996",91.95,A,163,168,-175,168,94kgMen,CleanJerk,438,True
+7,OSTROVSKY Viktor,SVK,"Jan 27, 1995",92.70,A,166,-173,-173,166,94kgMen,CleanJerk,438,True
+8,DARVILLE Simon Kastbjerg,DEN,"Jun 26, 1993",93.65,A,-160,166,-173,166,94kgMen,CleanJerk,438,True
+9,MARQUARDT Jacob Neil,AUS,"Aug 17, 1995",92.45,A,-155,155,159,159,94kgMen,CleanJerk,438,True
+10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",93.50,A,145,152,-157,152,94kgMen,CleanJerk,438,True
+1,CHEN Po-Jen,TPE,"May 11, 1998",93.45,A,160,191,351,,94kgMen,Total,438,True
+2,BOONLANG Weeraphat,THA,"Mar 23, 1997",93.20,A,145,178,323,,94kgMen,Total,438,True
+3,SOWKA Szymon,POL,"Aug 13, 1996",93.15,A,140,175,315,,94kgMen,Total,438,True
+4,WANG Ching-Chieh,TPE,"Apr 14, 1997",93.90,A,140,174,314,,94kgMen,Total,438,True
+5,CENTKOWSKI Lukasz Mikolaj,POL,"Dec 06, 1997",91.60,A,133,177,310,,94kgMen,Total,438,True
+6,OSTROVSKY Viktor,SVK,"Jan 27, 1995",92.70,A,138,166,304,,94kgMen,Total,438,True
+7,LISTE VIANO Martin,ESP,"Jun 11, 1996",91.95,A,135,168,303,,94kgMen,Total,438,True
+8,DARVILLE Simon Kastbjerg,DEN,"Jun 26, 1993",93.65,A,130,166,296,,94kgMen,Total,438,True
+9,MARQUARDT Jacob Neil,AUS,"Aug 17, 1995",92.45,A,125,159,284,,94kgMen,Total,438,True
+10,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",93.50,A,121,152,273,,94kgMen,Total,438,True
+1,KOCH Florian Donald,AUT,"Aug 15, 1996",103.40,A,152,-156,158,158,105kgMen,Snatch,438,True
+2,GUNTHER Bjorn,GER,"Jun 04, 1996",103.20,A,-157,157,-159,157,105kgMen,Snatch,438,True
+3,MC CARTY Matthew Scott,USA,"Jun 23, 1995",104.70,A,-147,148,152,152,105kgMen,Snatch,438,True
+4,LIN Sheng-Lun,TPE,"Jan 22, 2000",104.90,A,143,147,-150,147,105kgMen,Snatch,438,True
+5,LEWIS Nathan Douglass,USA,"Jun 28, 1995",103.60,A,138,143,147,147,105kgMen,Snatch,438,True
+6,IZDEBSKI Marcin,POL,"Mar 06, 1999",104.90,A,142,-147,147,147,105kgMen,Snatch,438,True
+7,HANACEK Jan,CZE,"Dec 07, 1995",100.40,A,132,137,-141,137,105kgMen,Snatch,438,True
+8,KASZUBA Mateusz,POL,"Mar 31, 1996",97.45,A,133,-137,-137,133,105kgMen,Snatch,438,True
+9,SKEDELJ Jure,SLO,"Jul 24, 1995",101.60,A,121,126,131,131,105kgMen,Snatch,438,True
+10,PAULUS Samuel,SVK,"Mar 15, 1999",101.20,A,125,130,-135,130,105kgMen,Snatch,438,True
+11,HOLDERSEN Thomas,DEN,"Mar 15, 1994",94.65,A,100,---,---,100,105kgMen,Snatch,438,True
+---,JENIK Filip,SVK,"May 01, 1998",104.10,A,-131,-131,-131,---,105kgMen,Snatch,438,True
+1,LIN Sheng-Lun,TPE,"Jan 22, 2000",104.90,A,182,186,-192,186,105kgMen,CleanJerk,438,True
+2,MC CARTY Matthew Scott,USA,"Jun 23, 1995",104.70,A,183,-188,-189,183,105kgMen,CleanJerk,438,True
+3,IZDEBSKI Marcin,POL,"Mar 06, 1999",104.90,A,175,183,-189,183,105kgMen,CleanJerk,438,True
+4,LEWIS Nathan Douglass,USA,"Jun 28, 1995",103.60,A,176,181,-186,181,105kgMen,CleanJerk,438,True
+5,GUNTHER Bjorn,GER,"Jun 04, 1996",103.20,A,176,181,-186,181,105kgMen,CleanJerk,438,True
+6,KOCH Florian Donald,AUT,"Aug 15, 1996",103.40,A,174,-178,-180,174,105kgMen,CleanJerk,438,True
+7,HANACEK Jan,CZE,"Dec 07, 1995",100.40,A,165,170,-175,170,105kgMen,CleanJerk,438,True
+8,KASZUBA Mateusz,POL,"Mar 31, 1996",97.45,A,165,170,-175,170,105kgMen,CleanJerk,438,True
+9,PAULUS Samuel,SVK,"Mar 15, 1999",101.20,A,153,-156,156,156,105kgMen,CleanJerk,438,True
+10,SKEDELJ Jure,SLO,"Jul 24, 1995",101.60,A,155,-160,-165,155,105kgMen,CleanJerk,438,True
+11,JENIK Filip,SVK,"May 01, 1998",104.10,A,150,---,---,150,105kgMen,CleanJerk,438,True
+12,HOLDERSEN Thomas,DEN,"Mar 15, 1994",94.65,A,131,136,141,141,105kgMen,CleanJerk,438,True
+1,GUNTHER Bjorn,GER,"Jun 04, 1996",103.20,A,157,181,338,,105kgMen,Total,438,True
+2,MC CARTY Matthew Scott,USA,"Jun 23, 1995",104.70,A,152,183,335,,105kgMen,Total,438,True
+3,LIN Sheng-Lun,TPE,"Jan 22, 2000",104.90,A,147,186,333,,105kgMen,Total,438,True
+4,KOCH Florian Donald,AUT,"Aug 15, 1996",103.40,A,158,174,332,,105kgMen,Total,438,True
+5,IZDEBSKI Marcin,POL,"Mar 06, 1999",104.90,A,147,183,330,,105kgMen,Total,438,True
+6,LEWIS Nathan Douglass,USA,"Jun 28, 1995",103.60,A,147,181,328,,105kgMen,Total,438,True
+7,HANACEK Jan,CZE,"Dec 07, 1995",100.40,A,137,170,307,,105kgMen,Total,438,True
+8,KASZUBA Mateusz,POL,"Mar 31, 1996",97.45,A,133,170,303,,105kgMen,Total,438,True
+9,SKEDELJ Jure,SLO,"Jul 24, 1995",101.60,A,131,155,286,,105kgMen,Total,438,True
+10,PAULUS Samuel,SVK,"Mar 15, 1999",101.20,A,130,156,286,,105kgMen,Total,438,True
+11,HOLDERSEN Thomas,DEN,"Mar 15, 1994",94.65,A,100,141,241,,105kgMen,Total,438,True
+---,JENIK Filip,SVK,"May 01, 1998",104.10,A,---,150,---,,105kgMen,Total,438,True
+1,HSIEH Yun-Ting,TPE,"Aug 08, 1999",125.80,A,150,161,170,170,+105kgMen,Snatch,438,True
+2,KAJDOCI Tamas,SRB,"Apr 21, 1997",140.80,A,161,166,-171,166,+105kgMen,Snatch,438,True
+3,NONAKA Masahiro,JPN,"Jul 17, 1996",146.60,A,160,165,-171,165,+105kgMen,Snatch,438,True
+4,AZCATL PANTOJA Javier,MEX,"Sep 10, 1996",105.70,A,-142,142,-151,142,+105kgMen,Snatch,438,True
+5,LOSY Lukasz,POL,"May 21, 1998",105.80,A,-130,130,135,135,+105kgMen,Snatch,438,True
+1,KAJDOCI Tamas,SRB,"Apr 21, 1997",140.80,A,207,215,222,222,+105kgMen,CleanJerk,438,True
+2,NONAKA Masahiro,JPN,"Jul 17, 1996",146.60,A,206,217,-224,217,+105kgMen,CleanJerk,438,True
+3,HSIEH Yun-Ting,TPE,"Aug 08, 1999",125.80,A,190,200,-210,200,+105kgMen,CleanJerk,438,True
+4,AZCATL PANTOJA Javier,MEX,"Sep 10, 1996",105.70,A,187,-195,-195,187,+105kgMen,CleanJerk,438,True
+5,LOSY Lukasz,POL,"May 21, 1998",105.80,A,160,-165,170,170,+105kgMen,CleanJerk,438,True
+1,KAJDOCI Tamas,SRB,"Apr 21, 1997",140.80,A,166,222,388,,+105kgMen,Total,438,True
+2,NONAKA Masahiro,JPN,"Jul 17, 1996",146.60,A,165,217,382,,+105kgMen,Total,438,True
+3,HSIEH Yun-Ting,TPE,"Aug 08, 1999",125.80,A,170,200,370,,+105kgMen,Total,438,True
+4,AZCATL PANTOJA Javier,MEX,"Sep 10, 1996",105.70,A,142,187,329,,+105kgMen,Total,438,True
+5,LOSY Lukasz,POL,"May 21, 1998",105.80,A,135,170,305,,+105kgMen,Total,438,True
+1,RESTREPO Veronica Alexandra,USA,"Jul 16, 1999",47.25,A,64,67,70,70,48kgWomen,Snatch,438,True
+2,SUZUKI Rira,JPN,"Sep 06, 1998",45.76,A,65,68,- 71,68,48kgWomen,Snatch,438,True
+3,MAILLOT Asia Terry Coline,FRA,"Nov 16, 1998",47.75,A,- 59,59,61,61,48kgWomen,Snatch,438,True
+4,IRAMINA Rie,JPN,"Jan 21, 1999",47.95,A,- 58,58,60,60,48kgWomen,Snatch,438,True
+1,SUZUKI Rira,JPN,"Sep 06, 1998",45.76,A,86,90,93,93,48kgWomen,CleanJerk,438,True
+2,RESTREPO Veronica Alexandra,USA,"Jul 16, 1999",47.25,A,83,87,- 90,87,48kgWomen,CleanJerk,438,True
+3,IRAMINA Rie,JPN,"Jan 21, 1999",47.95,A,80,- 83,84,84,48kgWomen,CleanJerk,438,True
+4,MAILLOT Asia Terry Coline,FRA,"Nov 16, 1998",47.75,A,75,- 79,- 80,75,48kgWomen,CleanJerk,438,True
+1,SUZUKI Rira,JPN,"Sep 06, 1998",45.76,A,68,93,161,,48kgWomen,Total,438,True
+2,RESTREPO Veronica Alexandra,USA,"Jul 16, 1999",47.25,A,70,87,157,,48kgWomen,Total,438,True
+3,IRAMINA Rie,JPN,"Jan 21, 1999",47.95,A,60,84,144,,48kgWomen,Total,438,True
+4,MAILLOT Asia Terry Coline,FRA,"Nov 16, 1998",47.75,A,61,75,136,,48kgWomen,Total,438,True
+1,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",52.45,A,70,- 73,75,75,53kgWomen,Snatch,438,True
+2,GRANTOM Megan Kay,USA,"Jan 20, 1995",53.00,A,71,73,75,75,53kgWomen,Snatch,438,True
+3,FUENTES ZAVALA Susana Paola,MEX,"Aug 22, 1994",52.50,A,- 72,72,74,74,53kgWomen,Snatch,438,True
+4,KUCZMASZEWSKA Agnieszka,POL,"Jun 16, 1995",51.60,A,70,- 73,74,74,53kgWomen,Snatch,438,True
+5,LEE Wen-Kuan,TPE,"Feb 23, 1996",52.75,A,70,73,- 75,73,53kgWomen,Snatch,438,True
+6,KERCHER Ellen Angelina,USA,"Jan 04, 1994",52.85,A,69,72,- 74,72,53kgWomen,Snatch,438,True
+7,TONG Jennifer Ellen,GBR,"Nov 08, 1996",52.45,A,- 71,72,- 76,72,53kgWomen,Snatch,438,True
+8,JONES Catrin Haf,GBR,"Jun 13, 1999",52.50,A,- 70,70,72,72,53kgWomen,Snatch,438,True
+9,KAO Chia-Ling,TPE,"Oct 31, 1997",52.55,A,67,71,- 74,71,53kgWomen,Snatch,438,True
+10,CHULUUNBAATAR Nyamzul,MGL,"Jun 14, 1998",52.80,A,69,- 73,- 74,69,53kgWomen,Snatch,438,True
+11,ZOLI Anna Maria,GRE,"Jul 23, 1996",52.45,A,63,68,- 71,68,53kgWomen,Snatch,438,True
+12,BOGA Anna,GRE,"May 13, 1996",51.30,A,60,64,- 66,64,53kgWomen,Snatch,438,True
+1,FUENTES ZAVALA Susana Paola,MEX,"Aug 22, 1994",52.50,A,92,95,98,98,53kgWomen,CleanJerk,438,True
+2,GRANTOM Megan Kay,USA,"Jan 20, 1995",53.00,A,91,93,- 96,93,53kgWomen,CleanJerk,438,True
+3,JONES Catrin Haf,GBR,"Jun 13, 1999",52.50,A,90,- 93,93,93,53kgWomen,CleanJerk,438,True
+4,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",52.45,A,88,91,- 94,91,53kgWomen,CleanJerk,438,True
+5,LEE Wen-Kuan,TPE,"Feb 23, 1996",52.75,A,90,- 93,- 93,90,53kgWomen,CleanJerk,438,True
+6,KERCHER Ellen Angelina,USA,"Jan 04, 1994",52.85,A,- 88,88,90,90,53kgWomen,CleanJerk,438,True
+7,TONG Jennifer Ellen,GBR,"Nov 08, 1996",52.45,A,88,- 91,- 92,88,53kgWomen,CleanJerk,438,True
+8,CHULUUNBAATAR Nyamzul,MGL,"Jun 14, 1998",52.80,A,83,88,- 92,88,53kgWomen,CleanJerk,438,True
+9,KAO Chia-Ling,TPE,"Oct 31, 1997",52.55,A,85,- 88,- 90,85,53kgWomen,CleanJerk,438,True
+10,ZOLI Anna Maria,GRE,"Jul 23, 1996",52.45,A,80,- 84,85,85,53kgWomen,CleanJerk,438,True
+11,KUCZMASZEWSKA Agnieszka,POL,"Jun 16, 1995",51.60,A,83,- 86,- 86,83,53kgWomen,CleanJerk,438,True
+12,BOGA Anna,GRE,"May 13, 1996",51.30,A,75,- 80,- 80,75,53kgWomen,CleanJerk,438,True
+1,FUENTES ZAVALA Susana Paola,MEX,"Aug 22, 1994",52.50,A,74,98,172,,53kgWomen,Total,438,True
+2,GRANTOM Megan Kay,USA,"Jan 20, 1995",53.00,A,75,93,168,,53kgWomen,Total,438,True
+3,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",52.45,A,75,91,166,,53kgWomen,Total,438,True
+4,JONES Catrin Haf,GBR,"Jun 13, 1999",52.50,A,72,93,165,,53kgWomen,Total,438,True
+5,LEE Wen-Kuan,TPE,"Feb 23, 1996",52.75,A,73,90,163,,53kgWomen,Total,438,True
+6,KERCHER Ellen Angelina,USA,"Jan 04, 1994",52.85,A,72,90,162,,53kgWomen,Total,438,True
+7,TONG Jennifer Ellen,GBR,"Nov 08, 1996",52.45,A,72,88,160,,53kgWomen,Total,438,True
+8,KUCZMASZEWSKA Agnieszka,POL,"Jun 16, 1995",51.60,A,74,83,157,,53kgWomen,Total,438,True
+9,CHULUUNBAATAR Nyamzul,MGL,"Jun 14, 1998",52.80,A,69,88,157,,53kgWomen,Total,438,True
+10,KAO Chia-Ling,TPE,"Oct 31, 1997",52.55,A,71,85,156,,53kgWomen,Total,438,True
+11,ZOLI Anna Maria,GRE,"Jul 23, 1996",52.45,A,68,85,153,,53kgWomen,Total,438,True
+12,BOGA Anna,GRE,"May 13, 1996",51.30,A,64,75,139,,53kgWomen,Total,438,True
+1,DZIENIS Monika,POL,"Jun 01, 1994",57.55,A,80,83,86,86,58kgWomen,Snatch,438,True
+2,BRAMWELL Kaija Francesca,USA,"Jul 14, 1997",58.00,A,80,82,85,85,58kgWomen,Snatch,438,True
+3,LAMARCHE-MC CLURE Caroline,CAN,"Dec 06, 1995",57.90,A,- 78,78,81,81,58kgWomen,Snatch,438,True
+4,YAMAMURA Yui,JPN,"Aug 12, 1997",57.85,A,76,79,- 81,79,58kgWomen,Snatch,438,True
+5,MAKARA Akari,JPN,"Dec 05, 1996",57.40,A,- 79,79,- 82,79,58kgWomen,Snatch,438,True
+6,ATTILO Sophia,GER,"Jul 15, 1993",57.60,A,75,78,- 80,78,58kgWomen,Snatch,438,True
+7,ROK Agata Magdalena,POL,"Oct 26, 1996",57.85,A,- 75,75,- 77,75,58kgWomen,Snatch,438,True
+8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Nov 11, 1997",57.60,A,- 72,72,- 75,72,58kgWomen,Snatch,438,True
+9,ZIZLAVSKY Anna,AUT,"Apr 21, 1994",57.30,A,64,68,- 72,68,58kgWomen,Snatch,438,True
+10,SVOBODOVA Kristyna,CZE,"Sep 28, 1994",57.90,A,- 58,58,61,61,58kgWomen,Snatch,438,True
+11,RANABHAT Manisha,NEP,"Dec 20, 1994",53.90,A,- 50,50,53,53,58kgWomen,Snatch,438,True
+1,BRAMWELL Kaija Francesca,USA,"Jul 14, 1997",58.00,A,100,104,-109,104,58kgWomen,CleanJerk,438,True
+2,MAKARA Akari,JPN,"Dec 05, 1996",57.40,A,97,- 99,99,99,58kgWomen,CleanJerk,438,True
+3,YAMAMURA Yui,JPN,"Aug 12, 1997",57.85,A,98,-100,-100,98,58kgWomen,CleanJerk,438,True
+4,ATTILO Sophia,GER,"Jul 15, 1993",57.60,A,92,96,- 98,96,58kgWomen,CleanJerk,438,True
+5,DZIENIS Monika,POL,"Jun 01, 1994",57.55,A,93,96,- 98,96,58kgWomen,CleanJerk,438,True
+6,LAMARCHE-MC CLURE Caroline,CAN,"Dec 06, 1995",57.90,A,95,- 98,- 98,95,58kgWomen,CleanJerk,438,True
+7,ROK Agata Magdalena,POL,"Oct 26, 1996",57.85,A,95,- 99,- 99,95,58kgWomen,CleanJerk,438,True
+8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Nov 11, 1997",57.60,A,- 90,90,- 94,90,58kgWomen,CleanJerk,438,True
+9,ZIZLAVSKY Anna,AUT,"Apr 21, 1994",57.30,A,79,84,- 86,84,58kgWomen,CleanJerk,438,True
+10,SVOBODOVA Kristyna,CZE,"Sep 28, 1994",57.90,A,70,74,- 78,74,58kgWomen,CleanJerk,438,True
+11,RANABHAT Manisha,NEP,"Dec 20, 1994",53.90,A,60,65,- 70,65,58kgWomen,CleanJerk,438,True
+1,BRAMWELL Kaija Francesca,USA,"Jul 14, 1997",58.00,A,85,104,189,,58kgWomen,Total,438,True
+2,DZIENIS Monika,POL,"Jun 01, 1994",57.55,A,86,96,182,,58kgWomen,Total,438,True
+3,MAKARA Akari,JPN,"Dec 05, 1996",57.40,A,79,99,178,,58kgWomen,Total,438,True
+4,YAMAMURA Yui,JPN,"Aug 12, 1997",57.85,A,79,98,177,,58kgWomen,Total,438,True
+5,LAMARCHE-MC CLURE Caroline,CAN,"Dec 06, 1995",57.90,A,81,95,176,,58kgWomen,Total,438,True
+6,ATTILO Sophia,GER,"Jul 15, 1993",57.60,A,78,96,174,,58kgWomen,Total,438,True
+7,ROK Agata Magdalena,POL,"Oct 26, 1996",57.85,A,75,95,170,,58kgWomen,Total,438,True
+8,SHEPPARD Amber Mia Poppy Sophia,GBR,"Nov 11, 1997",57.60,A,72,90,162,,58kgWomen,Total,438,True
+9,ZIZLAVSKY Anna,AUT,"Apr 21, 1994",57.30,A,68,84,152,,58kgWomen,Total,438,True
+10,SVOBODOVA Kristyna,CZE,"Sep 28, 1994",57.90,A,61,74,135,,58kgWomen,Total,438,True
+11,RANABHAT Manisha,NEP,"Dec 20, 1994",53.90,A,53,65,118,,58kgWomen,Total,438,True
+1,CHARRON Maude G,CAN,"Apr 28, 1993",62.30,A,96,99,-102,99,63kgWomen,Snatch,438,True
+2,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",62.25,A,90,93,- 97,93,63kgWomen,Snatch,438,True
+3,CHEN Wen-Huei,TPE,"Feb 23, 1997",62.55,A,88,92,- 94,92,63kgWomen,Snatch,438,True
+4,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",62.75,A,85,88,90,90,63kgWomen,Snatch,438,True
+5,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",62.65,A,- 88,- 88,88,88,63kgWomen,Snatch,438,True
+6,FLEMING Allison Marie,USA,"Apr 18, 1996",62.45,A,- 83,83,- 86,83,63kgWomen,Snatch,438,True
+7,TURNER Taylor Nicole,USA,"May 26, 1997",58.85,A,- 80,80,83,83,63kgWomen,Snatch,438,True
+8,NUIRO Naomy Maeva,FRA,"Feb 16, 1999",62.45,A,78,82,- 85,82,63kgWomen,Snatch,438,True
+9,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",63.00,B,- 78,78,- 81,78,63kgWomen,Snatch,438,True
+10,CZOP Ewelina,POL,"Feb 16, 1995",61.90,B,70,74,77,77,63kgWomen,Snatch,438,True
+11,GRAILLOT Vicky,FRA,"Jul 02, 2000",61.10,B,75,- 78,- 78,75,63kgWomen,Snatch,438,True
+12,ANDERSEN Kiki Block Tindal,DEN,"Sep 09, 1993",62.05,B,70,- 73,73,73,63kgWomen,Snatch,438,True
+13,RIBARIC Neza,SLO,"Aug 09, 1994",62.20,B,67,71,- 76,71,63kgWomen,Snatch,438,True
+14,KOTLAROVA Ivana,SVK,"May 14, 1995",62.00,B,58,62,- 66,62,63kgWomen,Snatch,438,True
+---,YAMAMOTO Mako,JPN,"Aug 18, 1996",61.50,A,- 80,- 80,- 80,---,63kgWomen,Snatch,438,True
+---,GANZORIG Anuujin,MGL,"Apr 11, 1998",62.35,A,- 92,- 92,- 92,---,63kgWomen,Snatch,438,True
+1,CHARRON Maude G,CAN,"Apr 28, 1993",62.30,A,120,124,127,127,63kgWomen,CleanJerk,438,True
+2,GANZORIG Anuujin,MGL,"Apr 11, 1998",62.35,A,110,113,-116,113,63kgWomen,CleanJerk,438,True
+3,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",62.25,A,106,109,-114,109,63kgWomen,CleanJerk,438,True
+4,CHEN Wen-Huei,TPE,"Feb 23, 1997",62.55,A,97,101,106,106,63kgWomen,CleanJerk,438,True
+5,YAMAMOTO Mako,JPN,"Aug 18, 1996",61.50,A,105,-108,-110,105,63kgWomen,CleanJerk,438,True
+6,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",62.75,A,102,105,-109,105,63kgWomen,CleanJerk,438,True
+7,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",62.65,A,98,101,-103,101,63kgWomen,CleanJerk,438,True
+8,TURNER Taylor Nicole,USA,"May 26, 1997",58.85,A,95,98,101,101,63kgWomen,CleanJerk,438,True
+9,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",63.00,B,96,99,-101,99,63kgWomen,CleanJerk,438,True
+10,CZOP Ewelina,POL,"Feb 16, 1995",61.90,B,93,98,-101,98,63kgWomen,CleanJerk,438,True
+11,NUIRO Naomy Maeva,FRA,"Feb 16, 1999",62.45,A,- 97,97,-106,97,63kgWomen,CleanJerk,438,True
+12,GRAILLOT Vicky,FRA,"Jul 02, 2000",61.10,B,96,-101,-103,96,63kgWomen,CleanJerk,438,True
+13,RIBARIC Neza,SLO,"Aug 09, 1994",62.20,B,86,90,- 94,90,63kgWomen,CleanJerk,438,True
+14,ANDERSEN Kiki Block Tindal,DEN,"Sep 09, 1993",62.05,B,85,- 90,- 90,85,63kgWomen,CleanJerk,438,True
+15,KOTLAROVA Ivana,SVK,"May 14, 1995",62.00,B,72,75,- 78,75,63kgWomen,CleanJerk,438,True
+---,FLEMING Allison Marie,USA,"Apr 18, 1996",62.45,A,-100,-100,-100,---,63kgWomen,CleanJerk,438,True
+1,CHARRON Maude G,CAN,"Apr 28, 1993",62.30,A,99,127,226,,63kgWomen,Total,438,True
+2,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",62.25,A,93,109,202,,63kgWomen,Total,438,True
+3,CHEN Wen-Huei,TPE,"Feb 23, 1997",62.55,A,92,106,198,,63kgWomen,Total,438,True
+4,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",62.75,A,90,105,195,,63kgWomen,Total,438,True
+5,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",62.65,A,88,101,189,,63kgWomen,Total,438,True
+6,TURNER Taylor Nicole,USA,"May 26, 1997",58.85,A,83,101,184,,63kgWomen,Total,438,True
+7,NUIRO Naomy Maeva,FRA,"Feb 16, 1999",62.45,A,82,97,179,,63kgWomen,Total,438,True
+8,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",63.00,B,78,99,177,,63kgWomen,Total,438,True
+9,CZOP Ewelina,POL,"Feb 16, 1995",61.90,B,77,98,175,,63kgWomen,Total,438,True
+10,GRAILLOT Vicky,FRA,"Jul 02, 2000",61.10,B,75,96,171,,63kgWomen,Total,438,True
+11,RIBARIC Neza,SLO,"Aug 09, 1994",62.20,B,71,90,161,,63kgWomen,Total,438,True
+12,ANDERSEN Kiki Block Tindal,DEN,"Sep 09, 1993",62.05,B,73,85,158,,63kgWomen,Total,438,True
+13,KOTLAROVA Ivana,SVK,"May 14, 1995",62.00,B,62,75,137,,63kgWomen,Total,438,True
+---,YAMAMOTO Mako,JPN,"Aug 18, 1996",61.50,A,---,105,---,,63kgWomen,Total,438,True
+---,GANZORIG Anuujin,MGL,"Apr 11, 1998",62.35,A,---,113,---,,63kgWomen,Total,438,True
+---,FLEMING Allison Marie,USA,"Apr 18, 1996",62.45,A,83,---,---,,63kgWomen,Total,438,True
+1,ISHII Miku,JPN,"Mar 30, 1998",68.35,A,87,- 89,90,90,69kgWomen,Snatch,438,True
+2,HERTLOVA Simona,CZE,"Mar 04, 1993",68.10,A,- 85,85,89,89,69kgWomen,Snatch,438,True
+3,BREMNER Aria Kellyn,USA,"Mar 04, 1994",68.45,A,88,- 90,- 91,88,69kgWomen,Snatch,438,True
+4,ROUX Magalie,CAN,"Jan 25, 1999",67.45,A,83,85,87,87,69kgWomen,Snatch,438,True
+5,HAHN Victoria,AUT,"Mar 17, 1993",68.60,A,86,- 90,- 90,86,69kgWomen,Snatch,438,True
+6,CHOU Yu-Tzu,TPE,"May 29, 1997",68.20,A,85,- 88,- 88,85,69kgWomen,Snatch,438,True
+7,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",65.25,A,79,82,84,84,69kgWomen,Snatch,438,True
+8,MILTON Tessa,AUS,"Feb 05, 1994",67.90,B,75,80,83,83,69kgWomen,Snatch,438,True
+9,WALCHLI Alessia Joy,SUI,"Sep 08, 1993",66.40,B,78,81,- 83,81,69kgWomen,Snatch,438,True
+10,PEDERSEN Mette Fasmila,DEN,"Dec 03, 1993",68.65,B,76,78,81,81,69kgWomen,Snatch,438,True
+11,RONDZIKOVA Nina,SVK,"Jan 22, 1995",64.90,B,75,78,- 81,78,69kgWomen,Snatch,438,True
+12,LIAO Hua-Fan,TPE,"Jan 08, 1998",68.65,B,77,- 80,- 80,77,69kgWomen,Snatch,438,True
+13,RECHUL Emilia Jadwiga,POL,"Aug 03, 1998",68.65,B,- 70,70,73,73,69kgWomen,Snatch,438,True
+14,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",66.45,B,67,70,- 73,70,69kgWomen,Snatch,438,True
+15,REVENIKIOTI Eleni,GRE,"May 26, 1997",68.30,B,- 65,65,70,70,69kgWomen,Snatch,438,True
+16,MALCEKOVA Viktoria,SVK,"Jan 06, 1997",67.40,B,66,- 68,- 68,66,69kgWomen,Snatch,438,True
+---,LOPEZ CRESPO Maria Emma,ESP,"Mar 14, 1996",66.25,A,- 77,- 77,- 77,---,69kgWomen,Snatch,438,True
+1,BREMNER Aria Kellyn,USA,"Mar 04, 1994",68.45,A,108,112,116,116,69kgWomen,CleanJerk,438,True
+2,ISHII Miku,JPN,"Mar 30, 1998",68.35,A,108,110,113,113,69kgWomen,CleanJerk,438,True
+3,ROUX Magalie,CAN,"Jan 25, 1999",67.45,A,-109,109,-114,109,69kgWomen,CleanJerk,438,True
+4,CHOU Yu-Tzu,TPE,"May 29, 1997",68.20,A,103,-108,108,108,69kgWomen,CleanJerk,438,True
+5,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",65.25,A,100,103,-106,103,69kgWomen,CleanJerk,438,True
+6,HERTLOVA Simona,CZE,"Mar 04, 1993",68.10,A,-102,102,-108,102,69kgWomen,CleanJerk,438,True
+7,LIAO Hua-Fan,TPE,"Jan 08, 1998",68.65,B,95,100,-106,100,69kgWomen,CleanJerk,438,True
+8,WALCHLI Alessia Joy,SUI,"Sep 08, 1993",66.40,B,96,-100,100,100,69kgWomen,CleanJerk,438,True
+9,HAHN Victoria,AUT,"Mar 17, 1993",68.60,A,100,-102,-102,100,69kgWomen,CleanJerk,438,True
+10,MILTON Tessa,AUS,"Feb 05, 1994",67.90,B,90,94,99,99,69kgWomen,CleanJerk,438,True
+11,LOPEZ CRESPO Maria Emma,ESP,"Mar 14, 1996",66.25,A,92,96,98,98,69kgWomen,CleanJerk,438,True
+12,RONDZIKOVA Nina,SVK,"Jan 22, 1995",64.90,B,- 95,- 97,97,97,69kgWomen,CleanJerk,438,True
+13,PEDERSEN Mette Fasmila,DEN,"Dec 03, 1993",68.65,B,90,94,- 97,94,69kgWomen,CleanJerk,438,True
+14,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",66.45,B,86,- 90,91,91,69kgWomen,CleanJerk,438,True
+15,RECHUL Emilia Jadwiga,POL,"Aug 03, 1998",68.65,B,- 90,- 90,90,90,69kgWomen,CleanJerk,438,True
+16,MALCEKOVA Viktoria,SVK,"Jan 06, 1997",67.40,B,- 88,88,- 93,88,69kgWomen,CleanJerk,438,True
+17,REVENIKIOTI Eleni,GRE,"May 26, 1997",68.30,B,- 84,85,- 90,85,69kgWomen,CleanJerk,438,True
+1,BREMNER Aria Kellyn,USA,"Mar 04, 1994",68.45,A,88,116,204,,69kgWomen,Total,438,True
+2,ISHII Miku,JPN,"Mar 30, 1998",68.35,A,90,113,203,,69kgWomen,Total,438,True
+3,ROUX Magalie,CAN,"Jan 25, 1999",67.45,A,87,109,196,,69kgWomen,Total,438,True
+4,CHOU Yu-Tzu,TPE,"May 29, 1997",68.20,A,85,108,193,,69kgWomen,Total,438,True
+5,HERTLOVA Simona,CZE,"Mar 04, 1993",68.10,A,89,102,191,,69kgWomen,Total,438,True
+6,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",65.25,A,84,103,187,,69kgWomen,Total,438,True
+7,HAHN Victoria,AUT,"Mar 17, 1993",68.60,A,86,100,186,,69kgWomen,Total,438,True
+8,MILTON Tessa,AUS,"Feb 05, 1994",67.90,B,83,99,182,,69kgWomen,Total,438,True
+9,WALCHLI Alessia Joy,SUI,"Sep 08, 1993",66.40,B,81,100,181,,69kgWomen,Total,438,True
+10,LIAO Hua-Fan,TPE,"Jan 08, 1998",68.65,B,77,100,177,,69kgWomen,Total,438,True
+11,PEDERSEN Mette Fasmila,DEN,"Dec 03, 1993",68.65,B,81,94,175,,69kgWomen,Total,438,True
+12,RONDZIKOVA Nina,SVK,"Jan 22, 1995",64.90,B,78,97,175,,69kgWomen,Total,438,True
+13,RECHUL Emilia Jadwiga,POL,"Aug 03, 1998",68.65,B,73,90,163,,69kgWomen,Total,438,True
+14,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",66.45,B,70,91,161,,69kgWomen,Total,438,True
+15,REVENIKIOTI Eleni,GRE,"May 26, 1997",68.30,B,70,85,155,,69kgWomen,Total,438,True
+16,MALCEKOVA Viktoria,SVK,"Jan 06, 1997",67.40,B,66,88,154,,69kgWomen,Total,438,True
+---,LOPEZ CRESPO Maria Emma,ESP,"Mar 14, 1996",66.25,A,---,98,---,,69kgWomen,Total,438,True
+1,CHEN En-Tzu,TPE,"Nov 12, 1999",74.40,A,90,93,- 96,93,75kgWomen,Snatch,438,True
+2,FREYOVA Karin,SVK,"Apr 21, 1995",72.50,A,90,92,- 94,92,75kgWomen,Snatch,438,True
+3,JAEGGI Nora,SUI,"Apr 16, 1995",72.60,A,86,89,91,91,75kgWomen,Snatch,438,True
+4,COOPER Kaitlyn Dawn,USA,"Jan 19, 1998",74.45,A,- 87,87,90,90,75kgWomen,Snatch,438,True
+5,WCISLAK Eliza,POL,"Feb 16, 1997",75.00,A,- 81,- 82,83,83,75kgWomen,Snatch,438,True
+6,PUDIVITROVA Eliska,CZE,"Mar 25, 1994",69.25,A,- 80,80,- 84,80,75kgWomen,Snatch,438,True
+7,ZIELINSKA Weronika,POL,"May 16, 1997",73.65,A,73,77,- 80,77,75kgWomen,Snatch,438,True
+1,CHEN En-Tzu,TPE,"Nov 12, 1999",74.40,A,110,115,-118,115,75kgWomen,CleanJerk,438,True
+2,FREYOVA Karin,SVK,"Apr 21, 1995",72.50,A,107,110,113,113,75kgWomen,CleanJerk,438,True
+3,COOPER Kaitlyn Dawn,USA,"Jan 19, 1998",74.45,A,108,112,-116,112,75kgWomen,CleanJerk,438,True
+4,JAEGGI Nora,SUI,"Apr 16, 1995",72.60,A,109,112,-115,112,75kgWomen,CleanJerk,438,True
+5,PUDIVITROVA Eliska,CZE,"Mar 25, 1994",69.25,A,98,-100,100,100,75kgWomen,CleanJerk,438,True
+6,ZIELINSKA Weronika,POL,"May 16, 1997",73.65,A,95,99,-103,99,75kgWomen,CleanJerk,438,True
+7,WCISLAK Eliza,POL,"Feb 16, 1997",75.00,A,92,- 95,96,96,75kgWomen,CleanJerk,438,True
+1,CHEN En-Tzu,TPE,"Nov 12, 1999",74.40,A,93,115,208,,75kgWomen,Total,438,True
+2,FREYOVA Karin,SVK,"Apr 21, 1995",72.50,A,92,113,205,,75kgWomen,Total,438,True
+3,JAEGGI Nora,SUI,"Apr 16, 1995",72.60,A,91,112,203,,75kgWomen,Total,438,True
+4,COOPER Kaitlyn Dawn,USA,"Jan 19, 1998",74.45,A,90,112,202,,75kgWomen,Total,438,True
+5,PUDIVITROVA Eliska,CZE,"Mar 25, 1994",69.25,A,80,100,180,,75kgWomen,Total,438,True
+6,WCISLAK Eliza,POL,"Feb 16, 1997",75.00,A,83,96,179,,75kgWomen,Total,438,True
+7,ZIELINSKA Weronika,POL,"May 16, 1997",73.65,A,77,99,176,,75kgWomen,Total,438,True
+1,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",83.10,A,95,98,101,101,90kgWomen,Snatch,438,True
+2,TANG Wan-Siou,TPE,"Jul 28, 1995",88.95,A,90,93,- 96,93,90kgWomen,Snatch,438,True
+3,PAN Li-Chen,TPE,"Dec 29, 1997",90.00,A,88,- 91,91,91,90kgWomen,Snatch,438,True
+4,FARGHER Lauren Adele,NZL,"Nov 01, 1994",84.20,A,- 85,85,90,90,90kgWomen,Snatch,438,True
+5,ERDENEBAT Bilegsaikhan,MGL,"Sep 16, 1998",85.25,A,86,- 90,- 90,86,90kgWomen,Snatch,438,True
+6,TENCEROVA Zuzana,SVK,"Feb 21, 1995",76.70,A,65,70,- 73,70,90kgWomen,Snatch,438,True
+1,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",83.10,A,113,117,-122,117,90kgWomen,CleanJerk,438,True
+2,PAN Li-Chen,TPE,"Dec 29, 1997",90.00,A,110,113,-116,113,90kgWomen,CleanJerk,438,True
+3,TANG Wan-Siou,TPE,"Jul 28, 1995",88.95,A,110,-114,-114,110,90kgWomen,CleanJerk,438,True
+4,ERDENEBAT Bilegsaikhan,MGL,"Sep 16, 1998",85.25,A,105,-111,-111,105,90kgWomen,CleanJerk,438,True
+5,FARGHER Lauren Adele,NZL,"Nov 01, 1994",84.20,A,103,-108,-108,103,90kgWomen,CleanJerk,438,True
+6,TENCEROVA Zuzana,SVK,"Feb 21, 1995",76.70,A,75,- 80,80,80,90kgWomen,CleanJerk,438,True
+1,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",83.10,A,101,117,218,,90kgWomen,Total,438,True
+2,PAN Li-Chen,TPE,"Dec 29, 1997",90.00,A,91,113,204,,90kgWomen,Total,438,True
+3,TANG Wan-Siou,TPE,"Jul 28, 1995",88.95,A,93,110,203,,90kgWomen,Total,438,True
+4,FARGHER Lauren Adele,NZL,"Nov 01, 1994",84.20,A,90,103,193,,90kgWomen,Total,438,True
+5,ERDENEBAT Bilegsaikhan,MGL,"Sep 16, 1998",85.25,A,86,105,191,,90kgWomen,Total,438,True
+6,TENCEROVA Zuzana,SVK,"Feb 21, 1995",76.70,A,70,80,150,,90kgWomen,Total,438,True
+1,KO A-Rang,KOR,"Aug 16, 1997",121.30,A,102,104,107,107,+90kgWomen,Snatch,438,True
+2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Feb 12, 1994",117.50,A,96,98,103,103,+90kgWomen,Snatch,438,True
+3,AWANO Chikako,JPN,"Sep 30, 1997",98.15,A,91,- 97,97,97,+90kgWomen,Snatch,438,True
+4,MAJEWSKA Zuzanna,POL,"Jul 16, 1996",113.00,A,83,- 87,- 88,83,+90kgWomen,Snatch,438,True
+1,KO A-Rang,KOR,"Aug 16, 1997",121.30,A,118,126,132,132,+90kgWomen,CleanJerk,438,True
+2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Feb 12, 1994",117.50,A,125,-131,-133,125,+90kgWomen,CleanJerk,438,True
+3,AWANO Chikako,JPN,"Sep 30, 1997",98.15,A,117,122,-127,122,+90kgWomen,CleanJerk,438,True
+4,MAJEWSKA Zuzanna,POL,"Jul 16, 1996",113.00,A,105,-110,-110,105,+90kgWomen,CleanJerk,438,True
+1,KO A-Rang,KOR,"Aug 16, 1997",121.30,A,107,132,239,,+90kgWomen,Total,438,True
+2,BUENO PLACENCIA Gladis Guadalupe,MEX,"Feb 12, 1994",117.50,A,103,125,228,,+90kgWomen,Total,438,True
+3,AWANO Chikako,JPN,"Sep 30, 1997",98.15,A,97,122,219,,+90kgWomen,Total,438,True
+4,MAJEWSKA Zuzanna,POL,"Jul 16, 1996",113.00,A,83,105,188,,+90kgWomen,Total,438,True

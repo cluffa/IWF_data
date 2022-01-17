@@ -62,12 +62,16 @@ def scrape_url(id: int = 522):
     def is_head(line):
         return line in heads
 
+
+    # %%
+    heads = ['Rank:', 'Name:', 'Nation:', 'Born:', 'B.weight:', 'Group:', '1:', '2:', '3:', 'Total:', 'Snatch:', 'CI&Jerk:']
     def rep_list(list: str, matches = heads):
         x = list
         for match in matches:
             x = x.replace(match, '')
         return x.strip()
 
+    # %%
     def containsNumber(value):
         for character in value:
             if character.isdigit():
@@ -87,23 +91,22 @@ def scrape_url(id: int = 522):
         elif is_head(line):
             col = 1
         else:
-            row.append(line)
+            row.append(rep_list(line))
             if 'Total:' in line:
                 
                 while len(row) < 10: #a
                     row.append(np.nan)
 
-
                 row.append(cat)
                 row.append(sec)
                 #print(row)
                 
-
                 df.loc[len(df)] = row
                 row = []
 
     #df['event'] = event
     df['event_id'] = id
+    df['old_classes'] = old_classes
     file = './raw_data/results/' + str(id) + ' ' + event + '.csv'
     file = file.replace(' ', '_').replace('-', '_')
     df.to_csv(file, index=False)
@@ -139,3 +142,6 @@ if __name__ == "__main__":
     pool = mp.Pool(mp.cpu_count())
     pool.map(scrape_pass_errors, unlisted)
     pool.close()
+
+
+

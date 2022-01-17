@@ -1,610 +1,610 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: ---,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 55.36,Group: A,1: 85,2: 90,3: -95,Total: 90,56kgMen,Snatch,117
-Rank: ---,MOHD Shafiq,MAS,"Born: Nov 19, 1988",B.weight: 55.56,Group: A,1: 105,2: -109,3: 109,Total: 109,56kgMen,Snatch,117
-Rank: ---,KATAMBA Ismail,UGA,"Born: Jan 19, 1987",B.weight: 55.83,Group: A,1: 90,2: -95,3: -95,Total: 90,56kgMen,Snatch,117
-Rank: ---,AMIRUL Hamizan Bin Ibrahim,MAS,"Born: Dec 03, 1981",B.weight: 55.39,Group: A,1: 111,2: 116,3: -118,Total: 116,56kgMen,Snatch,117
-Rank: ---,MARC Jonathan,MRI,"Born: Nov 13, 1989",B.weight: 55.23,Group: A,1: 90,2: -95,3: -95,Total: 90,56kgMen,Snatch,117
-Rank: ---,GUINARES Lou,NZL,"Born: Mar 18, 1990",B.weight: 55.46,Group: A,1: 90,2: -94,3: 94,Total: 94,56kgMen,Snatch,117
-Rank: ---,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 55.29,Group: A,1: 95,2: 98,3: -102,Total: 98,56kgMen,Snatch,117
-Rank: ---,BANDARA W. G. K.,SRI,"Born: Oct 04, 1985",B.weight: 55.68,Group: A,1: 98,2: -102,3: 103,Total: 103,56kgMen,Snatch,117
-Rank: ---,GHAFOOR Abdullah,PAK,"Born: Feb 02, 1986",B.weight: 55.57,Group: A,1: 99,2: 104,3: -107,Total: 104,56kgMen,Snatch,117
-Rank: ---,VALLURI Srinavasa Rao,IND,"Born: Oct 20, 1981",B.weight: 55.66,Group: A,1: 104,2: 107,3: -109,Total: 107,56kgMen,Snatch,117
-Rank: ---,DEY Sukhen,IND,"Born: Mar 28, 1989",B.weight: 55.57,Group: A,1: 106,2: 110,3: 112,Total: 112,56kgMen,Snatch,117
-Rank: ---,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.57,Group: A,1: 87,2: 92,3: -96,Total: 92,56kgMen,Snatch,117
-Rank: ---,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 55.36,Group: A,1: 115,2: -120,3: -125,Total: 115,56kgMen,CleanJerk,117
-Rank: ---,MOHD Shafiq,MAS,"Born: Nov 19, 1988",B.weight: 55.56,Group: A,1: -130,2: -130,3: -133,Total: ---,56kgMen,CleanJerk,117
-Rank: ---,KATAMBA Ismail,UGA,"Born: Jan 19, 1987",B.weight: 55.83,Group: A,1: -120,2: ---,3: ---,Total: ---,56kgMen,CleanJerk,117
-Rank: ---,AMIRUL Hamizan Bin Ibrahim,MAS,"Born: Dec 03, 1981",B.weight: 55.39,Group: A,1: 135,2: -140,3: 141,Total: 141,56kgMen,CleanJerk,117
-Rank: ---,MARC Jonathan,MRI,"Born: Nov 13, 1989",B.weight: 55.23,Group: A,1: -120,2: -120,3: 120,Total: 120,56kgMen,CleanJerk,117
-Rank: ---,GUINARES Lou,NZL,"Born: Mar 18, 1990",B.weight: 55.46,Group: A,1: -120,2: 120,3: 124,Total: 124,56kgMen,CleanJerk,117
-Rank: ---,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 55.29,Group: A,1: 120,2: -128,3: -128,Total: 120,56kgMen,CleanJerk,117
-Rank: ---,BANDARA W. G. K.,SRI,"Born: Oct 04, 1985",B.weight: 55.68,Group: A,1: 130,2: -137,3: ---,Total: 130,56kgMen,CleanJerk,117
-Rank: ---,GHAFOOR Abdullah,PAK,"Born: Feb 02, 1986",B.weight: 55.57,Group: A,1: -127,2: 127,3: 133,Total: 133,56kgMen,CleanJerk,117
-Rank: ---,VALLURI Srinavasa Rao,IND,"Born: Oct 20, 1981",B.weight: 55.66,Group: A,1: 135,2: 141,3: -146,Total: 141,56kgMen,CleanJerk,117
-Rank: ---,DEY Sukhen,IND,"Born: Mar 28, 1989",B.weight: 55.57,Group: A,1: 134,2: 140,3: -146,Total: 140,56kgMen,CleanJerk,117
-Rank: ---,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.57,Group: A,1: 110,2: 115,3: -120,Total: 115,56kgMen,CleanJerk,117
-Rank: 1,AMIRUL Hamizan Bin Ibrahim,MAS,"Born: Dec 03, 1981",B.weight: 55.39,Group: A,Snatch: 116,CI&Jerk: 141,Total: 257,,56kgMen,Total,117
-Rank: 2,DEY Sukhen,IND,"Born: Mar 28, 1989",B.weight: 55.57,Group: A,Snatch: 112,CI&Jerk: 140,Total: 252,,56kgMen,Total,117
-Rank: 3,VALLURI Srinavasa Rao,IND,"Born: Oct 20, 1981",B.weight: 55.66,Group: A,Snatch: 107,CI&Jerk: 141,Total: 248,,56kgMen,Total,117
-Rank: 4,GHAFOOR Abdullah,PAK,"Born: Feb 02, 1986",B.weight: 55.57,Group: A,Snatch: 104,CI&Jerk: 133,Total: 237,,56kgMen,Total,117
-Rank: 5,BANDARA W. G. K.,SRI,"Born: Oct 04, 1985",B.weight: 55.68,Group: A,Snatch: 103,CI&Jerk: 130,Total: 233,,56kgMen,Total,117
-Rank: 6,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Born: Dec 01, 1984",B.weight: 55.29,Group: A,Snatch: 98,CI&Jerk: 120,Total: 218,,56kgMen,Total,117
-Rank: 7,GUINARES Lou,NZL,"Born: Mar 18, 1990",B.weight: 55.46,Group: A,Snatch: 94,CI&Jerk: 124,Total: 218,,56kgMen,Total,117
-Rank: 8,MARC Jonathan,MRI,"Born: Nov 13, 1989",B.weight: 55.23,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,56kgMen,Total,117
-Rank: 9,BRECHTEFELD Elson Edward,NRU,"Born: Mar 02, 1994",B.weight: 55.57,Group: A,Snatch: 92,CI&Jerk: 115,Total: 207,,56kgMen,Total,117
-Rank: 10,BARU Morea,PNG,"Born: Apr 15, 1990",B.weight: 55.36,Group: A,Snatch: 90,CI&Jerk: 115,Total: 205,,56kgMen,Total,117
-Rank: ---,MOHD Shafiq,MAS,"Born: Nov 19, 1988",B.weight: 55.56,Group: A,Snatch: 109,CI&Jerk: ---,Total: ---,,56kgMen,Total,117
-Rank: ---,KATAMBA Ismail,UGA,"Born: Jan 19, 1987",B.weight: 55.83,Group: A,Snatch: 90,CI&Jerk: ---,Total: ---,,56kgMen,Total,117
-Rank: ---,JUMITIH Aricco,MAS,"Born: Jan 01, 1990",B.weight: 61.25,Group: A,1: 120,2: -125,3: -125,Total: 120,62kgMen,Snatch,117
-Rank: ---,NAHARUDIN Bin Mahayudin,MAS,"Born: Jan 30, 1984",B.weight: 61.69,Group: A,1: 120,2: -125,3: 125,Total: 125,62kgMen,Snatch,117
-Rank: ---,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Born: Feb 03, 1985",B.weight: 61.85,Group: A,1: -115,2: 115,3: 120,Total: 120,62kgMen,Snatch,117
-Rank: ---,SARANG Rustam,IND,"Born: Dec 12, 1988",B.weight: 61.70,Group: A,1: 115,2: 119,3: 121,Total: 121,62kgMen,Snatch,117
-Rank: ---,SINGH Jasvir,CAN,"Born: Apr 13, 1977",B.weight: 61.32,Group: A,1: 110,2: -114,3: -114,Total: 110,62kgMen,Snatch,117
-Rank: ---,KOUM Koum Daniel,AUS,"Born: May 27, 1985",B.weight: 61.85,Group: A,1: 115,2: -119,3: 119,Total: 119,62kgMen,Snatch,117
-Rank: ---,CHARLES Chauyauya,MAW,"Born: Oct 15, 1993",B.weight: 60.94,Group: B,1: 80,2: 85,3: -90,Total: 85,62kgMen,Snatch,117
-Rank: ---,DARKO Daniel,GHA,"Born: May 12, 1986",B.weight: 61.14,Group: B,1: 85,2: -90,3: -90,Total: 85,62kgMen,Snatch,117
-Rank: ---,HAUMILI Ioane,TUV,"Born: Nov 23, 1988",B.weight: 61.53,Group: B,1: 85,2: 90,3: -95,Total: 90,62kgMen,Snatch,117
-Rank: ---,TAUFA Michael Elborn,TGA,"Born: Feb 05, 1993",B.weight: 61.66,Group: B,1: 90,2: -95,3: 95,Total: 95,62kgMen,Snatch,117
-Rank: ---,RAMOHAKA Brown Chester,SOL,"Born: Feb 02, 1988",B.weight: 60.57,Group: B,1: 80,2: 90,3: -95,Total: 90,62kgMen,Snatch,117
-Rank: ---,LAPUA Lapua Tuau,TUV,"Born: Apr 15, 1991",B.weight: 61.39,Group: B,1: 95,2: 100,3: -104,Total: 100,62kgMen,Snatch,117
-Rank: ---,FREEBURY Christopher Xavier,GBR,"Born: May 22, 1989",B.weight: 61.66,Group: B,1: -105,2: 105,3: 110,Total: 110,62kgMen,Snatch,117
-Rank: ---,SSEKYAAYA Charles,UGA,"Born: Apr 11, 1994",B.weight: 61.41,Group: B,1: 102,2: 106,3: -108,Total: 106,62kgMen,Snatch,117
-Rank: ---,NGAMBA Simon,CMR,"Born: Dec 24, 1982",B.weight: 61.66,Group: A,1: 110,2: 115,3: -117,Total: 115,62kgMen,Snatch,117
-Rank: ---,EVANS Gareth Irfon,WAL,"Born: Apr 18, 1986",B.weight: 61.64,Group: A,1: 105,2: -110,3: 111,Total: 111,62kgMen,Snatch,117
-Rank: ---,SINCLAIR Cameron,NZL,"Born: Feb 06, 1987",B.weight: 60.36,Group: B,1: 105,2: 110,3: 113,Total: 113,62kgMen,Snatch,117
-Rank: ---,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.76,Group: A,1: 112,2: -117,3: 117,Total: 117,62kgMen,Snatch,117
-Rank: ---,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Born: Aug 06, 1989",B.weight: 61.92,Group: B,1: 110,2: 115,3: -118,Total: 115,62kgMen,Snatch,117
-Rank: ---,BE Vannara,AUS,"Born: Feb 16, 1988",B.weight: 61.53,Group: A,1: -110,2: 110,3: 116,Total: 116,62kgMen,Snatch,117
-Rank: ---,GHAFOOR Muhammad Ishitaq,PAK,"Born: Oct 04, 1978",B.weight: 61.47,Group: A,1: 115,2: -118,3: -119,Total: 115,62kgMen,Snatch,117
-Rank: ---,OTARI Omkar Shekhar,IND,"Born: Dec 16, 1987",B.weight: 61.76,Group: A,1: 119,2: 123,3: 125,Total: 125,62kgMen,Snatch,117
-Rank: ---,JUMITIH Aricco,MAS,"Born: Jan 01, 1990",B.weight: 61.25,Group: A,1: 150,2: 153,3: 156,Total: 156,62kgMen,CleanJerk,117
-Rank: ---,NAHARUDIN Bin Mahayudin,MAS,"Born: Jan 30, 1984",B.weight: 61.69,Group: A,1: 146,2: -150,3: 150,Total: 150,62kgMen,CleanJerk,117
-Rank: ---,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Born: Feb 03, 1985",B.weight: 61.85,Group: A,1: -145,2: -152,3: 152,Total: 152,62kgMen,CleanJerk,117
-Rank: ---,SARANG Rustam,IND,"Born: Dec 12, 1988",B.weight: 61.70,Group: A,1: 145,2: 150,3: -153,Total: 150,62kgMen,CleanJerk,117
-Rank: ---,SINGH Jasvir,CAN,"Born: Apr 13, 1977",B.weight: 61.32,Group: A,1: -143,2: -143,3: -147,Total: ---,62kgMen,CleanJerk,117
-Rank: ---,KOUM Koum Daniel,AUS,"Born: May 27, 1985",B.weight: 61.85,Group: A,1: 145,2: -148,3: -148,Total: 145,62kgMen,CleanJerk,117
-Rank: ---,CHARLES Chauyauya,MAW,"Born: Oct 15, 1993",B.weight: 60.94,Group: B,1: 108,2: -110,3: -111,Total: 108,62kgMen,CleanJerk,117
-Rank: ---,DARKO Daniel,GHA,"Born: May 12, 1986",B.weight: 61.14,Group: B,1: 110,2: -115,3: 115,Total: 115,62kgMen,CleanJerk,117
-Rank: ---,HAUMILI Ioane,TUV,"Born: Nov 23, 1988",B.weight: 61.53,Group: B,1: -115,2: 115,3: 120,Total: 120,62kgMen,CleanJerk,117
-Rank: ---,TAUFA Michael Elborn,TGA,"Born: Feb 05, 1993",B.weight: 61.66,Group: B,1: -120,2: 120,3: -126,Total: 120,62kgMen,CleanJerk,117
-Rank: ---,RAMOHAKA Brown Chester,SOL,"Born: Feb 02, 1988",B.weight: 60.57,Group: B,1: 120,2: -125,3: 125,Total: 125,62kgMen,CleanJerk,117
-Rank: ---,LAPUA Lapua Tuau,TUV,"Born: Apr 15, 1991",B.weight: 61.39,Group: B,1: 115,2: 120,3: -125,Total: 120,62kgMen,CleanJerk,117
-Rank: ---,FREEBURY Christopher Xavier,GBR,"Born: May 22, 1989",B.weight: 61.66,Group: B,1: 125,2: -130,3: -130,Total: 125,62kgMen,CleanJerk,117
-Rank: ---,SSEKYAAYA Charles,UGA,"Born: Apr 11, 1994",B.weight: 61.41,Group: B,1: 132,2: 137,3: -140,Total: 137,62kgMen,CleanJerk,117
-Rank: ---,NGAMBA Simon,CMR,"Born: Dec 24, 1982",B.weight: 61.66,Group: A,1: -130,2: 130,3: -136,Total: 130,62kgMen,CleanJerk,117
-Rank: ---,EVANS Gareth Irfon,WAL,"Born: Apr 18, 1986",B.weight: 61.64,Group: A,1: 135,2: -140,3: -140,Total: 135,62kgMen,CleanJerk,117
-Rank: ---,SINCLAIR Cameron,NZL,"Born: Feb 06, 1987",B.weight: 60.36,Group: B,1: 133,2: -138,3: 138,Total: 138,62kgMen,CleanJerk,117
-Rank: ---,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.76,Group: A,1: 135,2: -140,3: -140,Total: 135,62kgMen,CleanJerk,117
-Rank: ---,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Born: Aug 06, 1989",B.weight: 61.92,Group: B,1: 135,2: 140,3: -144,Total: 140,62kgMen,CleanJerk,117
-Rank: ---,BE Vannara,AUS,"Born: Feb 16, 1988",B.weight: 61.53,Group: A,1: 136,2: 142,3: -149,Total: 142,62kgMen,CleanJerk,117
-Rank: ---,GHAFOOR Muhammad Ishitaq,PAK,"Born: Oct 04, 1978",B.weight: 61.47,Group: A,1: 140,2: -145,3: 145,Total: 145,62kgMen,CleanJerk,117
-Rank: ---,OTARI Omkar Shekhar,IND,"Born: Dec 16, 1987",B.weight: 61.76,Group: A,1: 140,2: -145,3: -145,Total: 140,62kgMen,CleanJerk,117
-Rank: 1,JUMITIH Aricco,MAS,"Born: Jan 01, 1990",B.weight: 61.25,Group: A,Snatch: 120,CI&Jerk: 156,Total: 276,,62kgMen,Total,117
-Rank: 2,NAHARUDIN Bin Mahayudin,MAS,"Born: Jan 30, 1984",B.weight: 61.69,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,62kgMen,Total,117
-Rank: 3,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Born: Feb 03, 1985",B.weight: 61.85,Group: A,Snatch: 120,CI&Jerk: 152,Total: 272,,62kgMen,Total,117
-Rank: 4,SARANG Rustam,IND,"Born: Dec 12, 1988",B.weight: 61.70,Group: A,Snatch: 121,CI&Jerk: 150,Total: 271,,62kgMen,Total,117
-Rank: 5,OTARI Omkar Shekhar,IND,"Born: Dec 16, 1987",B.weight: 61.76,Group: A,Snatch: 125,CI&Jerk: 140,Total: 265,,62kgMen,Total,117
-Rank: 6,KOUM Koum Daniel,AUS,"Born: May 27, 1985",B.weight: 61.85,Group: A,Snatch: 119,CI&Jerk: 145,Total: 264,,62kgMen,Total,117
-Rank: 7,GHAFOOR Muhammad Ishitaq,PAK,"Born: Oct 04, 1978",B.weight: 61.47,Group: A,Snatch: 115,CI&Jerk: 145,Total: 260,,62kgMen,Total,117
-Rank: 8,BE Vannara,AUS,"Born: Feb 16, 1988",B.weight: 61.53,Group: A,Snatch: 116,CI&Jerk: 142,Total: 258,,62kgMen,Total,117
-Rank: 9,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Born: Aug 06, 1989",B.weight: 61.92,Group: B,Snatch: 115,CI&Jerk: 140,Total: 255,,62kgMen,Total,117
-Rank: 10,MINASIDIS Dimitris,CYP,"Born: Apr 29, 1989",B.weight: 61.76,Group: A,Snatch: 117,CI&Jerk: 135,Total: 252,,62kgMen,Total,117
-Rank: 11,SINCLAIR Cameron,NZL,"Born: Feb 06, 1987",B.weight: 60.36,Group: B,Snatch: 113,CI&Jerk: 138,Total: 251,,62kgMen,Total,117
-Rank: 12,EVANS Gareth Irfon,WAL,"Born: Apr 18, 1986",B.weight: 61.64,Group: A,Snatch: 111,CI&Jerk: 135,Total: 246,,62kgMen,Total,117
-Rank: 13,NGAMBA Simon,CMR,"Born: Dec 24, 1982",B.weight: 61.66,Group: A,Snatch: 115,CI&Jerk: 130,Total: 245,,62kgMen,Total,117
-Rank: 14,SSEKYAAYA Charles,UGA,"Born: Apr 11, 1994",B.weight: 61.41,Group: B,Snatch: 106,CI&Jerk: 137,Total: 243,,62kgMen,Total,117
-Rank: 15,FREEBURY Christopher Xavier,GBR,"Born: May 22, 1989",B.weight: 61.66,Group: B,Snatch: 110,CI&Jerk: 125,Total: 235,,62kgMen,Total,117
-Rank: 16,LAPUA Lapua Tuau,TUV,"Born: Apr 15, 1991",B.weight: 61.39,Group: B,Snatch: 100,CI&Jerk: 120,Total: 220,,62kgMen,Total,117
-Rank: 17,RAMOHAKA Brown Chester,SOL,"Born: Feb 02, 1988",B.weight: 60.57,Group: B,Snatch: 90,CI&Jerk: 125,Total: 215,,62kgMen,Total,117
-Rank: 18,TAUFA Michael Elborn,TGA,"Born: Feb 05, 1993",B.weight: 61.66,Group: B,Snatch: 95,CI&Jerk: 120,Total: 215,,62kgMen,Total,117
-Rank: 19,HAUMILI Ioane,TUV,"Born: Nov 23, 1988",B.weight: 61.53,Group: B,Snatch: 90,CI&Jerk: 120,Total: 210,,62kgMen,Total,117
-Rank: 20,DARKO Daniel,GHA,"Born: May 12, 1986",B.weight: 61.14,Group: B,Snatch: 85,CI&Jerk: 115,Total: 200,,62kgMen,Total,117
-Rank: 21,CHARLES Chauyauya,MAW,"Born: Oct 15, 1993",B.weight: 60.94,Group: B,Snatch: 85,CI&Jerk: 108,Total: 193,,62kgMen,Total,117
-Rank: ---,SINGH Jasvir,CAN,"Born: Apr 13, 1977",B.weight: 61.32,Group: A,Snatch: 110,CI&Jerk: ---,Total: ---,,62kgMen,Total,117
-Rank: ---,TOROMON Takenibeia,KIR,"Born: Jan 29, 1992",B.weight: 68.15,Group: B,1: 110,2: -115,3: -115,Total: 110,69kgMen,Snatch,117
-Rank: ---,MOHD Faerul Talib,MAS,"Born: Oct 10, 1986",B.weight: 68.73,Group: A,1: 131,2: -138,3: -138,Total: 131,69kgMen,Snatch,117
-Rank: ---,ETOUNDI Francois,AUS,"Born: Oct 06, 1984",B.weight: 68.83,Group: A,1: 125,2: 129,3: -132,Total: 129,69kgMen,Snatch,117
-Rank: ---,VENATIUS Njuh,CMR,"Born: Apr 13, 1988",B.weight: 68.77,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgMen,Snatch,117
-Rank: ---,MONIEN Magarajen,MRI,"Born: Mar 09, 1981",B.weight: 68.96,Group: B,1: -105,2: 105,3: -110,Total: 105,69kgMen,Snatch,117
-Rank: ---,VASILIADES Constantine,CYP,"Born: Apr 09, 1985",B.weight: 68.61,Group: B,1: 105,2: -110,3: -110,Total: 105,69kgMen,Snatch,117
-Rank: ---,TNOKO Kakhogwe,MAW,"Born: Jun 07, 1987",B.weight: 67.52,Group: B,1: 105,2: 110,3: -115,Total: 110,69kgMen,Snatch,117
-Rank: ---,KATULU Ravi Kumar,IND,"Born: Apr 24, 1988",B.weight: 68.84,Group: A,1: 138,2: 142,3: 146,Total: 146,69kgMen,Snatch,117
-Rank: ---,VIDANAGE Chinthana Geetal Vidanage,SRI,"Born: Dec 31, 1981",B.weight: 68.96,Group: A,1: 130,2: 134,3: -137,Total: 134,69kgMen,Snatch,117
-Rank: ---,MOHD Hafifi Bin Mansor,MAS,"Born: Oct 28, 1990",B.weight: 68.58,Group: A,1: -133,2: 133,3: 137,Total: 137,69kgMen,Snatch,117
-Rank: ---,YANOU KETCHANKE Jean Baptiste,CMR,"Born: Jul 19, 1993",B.weight: 68.82,Group: A,1: 123,2: 127,3: -130,Total: 127,69kgMen,Snatch,117
-Rank: ---,REHMAN Mati,PAK,"Born: Sep 17, 1984",B.weight: 68.82,Group: A,1: 120,2: 124,3: 126,Total: 126,69kgMen,Snatch,117
-Rank: ---,FETRIE Seth Degbe,GHA,"Born: Sep 24, 1991",B.weight: 68.97,Group: B,1: 95,2: -100,3: 101,Total: 101,69kgMen,Snatch,117
-Rank: ---,LUSSIER Dominic,CAN,"Born: Mar 10, 1984",B.weight: 68.99,Group: B,1: 122,2: 126,3: -128,Total: 126,69kgMen,Snatch,117
-Rank: ---,ALIKLIK Ika,NRU,"Born: Sep 16, 1985",B.weight: 68.01,Group: B,1: 110,2: -115,3: 115,Total: 115,69kgMen,Snatch,117
-Rank: ---,PERIVE Toafitu,SAM,"Born: Jan 07, 1985",B.weight: 68.27,Group: B,1: -107,2: 107,3: -110,Total: 107,69kgMen,Snatch,117
-Rank: ---,ZORBA Halil,GBR,"Born: Sep 22, 1988",B.weight: 68.90,Group: B,1: 100,2: 105,3: -110,Total: 105,69kgMen,Snatch,117
-Rank: ---,SPOONER Mark,NZL,"Born: Dec 12, 1984",B.weight: 68.72,Group: A,1: 123,2: -128,3: -130,Total: 123,69kgMen,Snatch,117
-Rank: ---,TOROMON Takenibeia,KIR,"Born: Jan 29, 1992",B.weight: 68.15,Group: B,1: 135,2: -140,3: -145,Total: 135,69kgMen,CleanJerk,117
-Rank: ---,MOHD Faerul Talib,MAS,"Born: Oct 10, 1986",B.weight: 68.73,Group: A,1: -160,2: -165,3: -165,Total: ---,69kgMen,CleanJerk,117
-Rank: ---,ETOUNDI Francois,AUS,"Born: Oct 06, 1984",B.weight: 68.83,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgMen,CleanJerk,117
-Rank: ---,VENATIUS Njuh,CMR,"Born: Apr 13, 1988",B.weight: 68.77,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgMen,CleanJerk,117
-Rank: ---,MONIEN Magarajen,MRI,"Born: Mar 09, 1981",B.weight: 68.96,Group: B,1: 120,2: -130,3: -130,Total: 120,69kgMen,CleanJerk,117
-Rank: ---,VASILIADES Constantine,CYP,"Born: Apr 09, 1985",B.weight: 68.61,Group: B,1: 125,2: -130,3: 130,Total: 130,69kgMen,CleanJerk,117
-Rank: ---,TNOKO Kakhogwe,MAW,"Born: Jun 07, 1987",B.weight: 67.52,Group: B,1: 120,2: -125,3: 127,Total: 127,69kgMen,CleanJerk,117
-Rank: ---,KATULU Ravi Kumar,IND,"Born: Apr 24, 1988",B.weight: 68.84,Group: A,1: 167,2: -175,3: 175,Total: 175,69kgMen,CleanJerk,117
-Rank: ---,VIDANAGE Chinthana Geetal Vidanage,SRI,"Born: Dec 31, 1981",B.weight: 68.96,Group: A,1: -169,2: 169,3: 174,Total: 174,69kgMen,CleanJerk,117
-Rank: ---,MOHD Hafifi Bin Mansor,MAS,"Born: Oct 28, 1990",B.weight: 68.58,Group: A,1: 165,2: 169,3: -174,Total: 169,69kgMen,CleanJerk,117
-Rank: ---,YANOU KETCHANKE Jean Baptiste,CMR,"Born: Jul 19, 1993",B.weight: 68.82,Group: A,1: 153,2: -156,3: 158,Total: 158,69kgMen,CleanJerk,117
-Rank: ---,REHMAN Mati,PAK,"Born: Sep 17, 1984",B.weight: 68.82,Group: A,1: 150,2: -155,3: 157,Total: 157,69kgMen,CleanJerk,117
-Rank: ---,FETRIE Seth Degbe,GHA,"Born: Sep 24, 1991",B.weight: 68.97,Group: B,1: 140,2: -145,3: -145,Total: 140,69kgMen,CleanJerk,117
-Rank: ---,LUSSIER Dominic,CAN,"Born: Mar 10, 1984",B.weight: 68.99,Group: B,1: 145,2: -150,3: 151,Total: 151,69kgMen,CleanJerk,117
-Rank: ---,ALIKLIK Ika,NRU,"Born: Sep 16, 1985",B.weight: 68.01,Group: B,1: 135,2: 140,3: -145,Total: 140,69kgMen,CleanJerk,117
-Rank: ---,PERIVE Toafitu,SAM,"Born: Jan 07, 1985",B.weight: 68.27,Group: B,1: 146,2: -150,3: -150,Total: 146,69kgMen,CleanJerk,117
-Rank: ---,ZORBA Halil,GBR,"Born: Sep 22, 1988",B.weight: 68.90,Group: B,1: 145,2: -152,3: -152,Total: 145,69kgMen,CleanJerk,117
-Rank: ---,SPOONER Mark,NZL,"Born: Dec 12, 1984",B.weight: 68.72,Group: A,1: 154,2: 157,3: -162,Total: 157,69kgMen,CleanJerk,117
-Rank: 1,KATULU Ravi Kumar,IND,"Born: Apr 24, 1988",B.weight: 68.84,Group: A,Snatch: 146,CI&Jerk: 175,Total: 321,,69kgMen,Total,117
-Rank: 2,VIDANAGE Chinthana Geetal Vidanage,SRI,"Born: Dec 31, 1981",B.weight: 68.96,Group: A,Snatch: 134,CI&Jerk: 174,Total: 308,,69kgMen,Total,117
-Rank: 3,MOHD Hafifi Bin Mansor,MAS,"Born: Oct 28, 1990",B.weight: 68.58,Group: A,Snatch: 137,CI&Jerk: 169,Total: 306,,69kgMen,Total,117
-Rank: 4,YANOU KETCHANKE Jean Baptiste,CMR,"Born: Jul 19, 1993",B.weight: 68.82,Group: A,Snatch: 127,CI&Jerk: 158,Total: 285,,69kgMen,Total,117
-Rank: 5,REHMAN Mati,PAK,"Born: Sep 17, 1984",B.weight: 68.82,Group: A,Snatch: 126,CI&Jerk: 157,Total: 283,,69kgMen,Total,117
-Rank: 6,SPOONER Mark,NZL,"Born: Dec 12, 1984",B.weight: 68.72,Group: A,Snatch: 123,CI&Jerk: 157,Total: 280,,69kgMen,Total,117
-Rank: 7,LUSSIER Dominic,CAN,"Born: Mar 10, 1984",B.weight: 68.99,Group: B,Snatch: 126,CI&Jerk: 151,Total: 277,,69kgMen,Total,117
-Rank: 8,ALIKLIK Ika,NRU,"Born: Sep 16, 1985",B.weight: 68.01,Group: B,Snatch: 115,CI&Jerk: 140,Total: 255,,69kgMen,Total,117
-Rank: 9,PERIVE Toafitu,SAM,"Born: Jan 07, 1985",B.weight: 68.27,Group: B,Snatch: 107,CI&Jerk: 146,Total: 253,,69kgMen,Total,117
-Rank: 10,ZORBA Halil,GBR,"Born: Sep 22, 1988",B.weight: 68.90,Group: B,Snatch: 105,CI&Jerk: 145,Total: 250,,69kgMen,Total,117
-Rank: 11,TOROMON Takenibeia,KIR,"Born: Jan 29, 1992",B.weight: 68.15,Group: B,Snatch: 110,CI&Jerk: 135,Total: 245,,69kgMen,Total,117
-Rank: 12,FETRIE Seth Degbe,GHA,"Born: Sep 24, 1991",B.weight: 68.97,Group: B,Snatch: 101,CI&Jerk: 140,Total: 241,,69kgMen,Total,117
-Rank: 13,TNOKO Kakhogwe,MAW,"Born: Jun 07, 1987",B.weight: 67.52,Group: B,Snatch: 110,CI&Jerk: 127,Total: 237,,69kgMen,Total,117
-Rank: 14,VASILIADES Constantine,CYP,"Born: Apr 09, 1985",B.weight: 68.61,Group: B,Snatch: 105,CI&Jerk: 130,Total: 235,,69kgMen,Total,117
-Rank: 15,MONIEN Magarajen,MRI,"Born: Mar 09, 1981",B.weight: 68.96,Group: B,Snatch: 105,CI&Jerk: 120,Total: 225,,69kgMen,Total,117
-Rank: ---,MOHD Faerul Talib,MAS,"Born: Oct 10, 1986",B.weight: 68.73,Group: A,Snatch: 131,CI&Jerk: ---,Total: ---,,69kgMen,Total,117
-Rank: ---,ETOUNDI Francois,AUS,"Born: Oct 06, 1984",B.weight: 68.83,Group: A,Snatch: 129,CI&Jerk: ---,Total: ---,,69kgMen,Total,117
-Rank: ---,VENATIUS Njuh,CMR,"Born: Apr 13, 1988",B.weight: 68.77,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,69kgMen,Total,117
-Rank: ---,BATUUSA Kalidi,UGA,"Born: Nov 25, 1986",B.weight: 76.94,Group: A,1: 110,2: 115,3: -120,Total: 115,77kgMen,Snatch,117
-Rank: ---,SIMEON Charles Albert,SEY,"Born: Jun 16, 1982",B.weight: 76.98,Group: A,1: 110,2: -115,3: -115,Total: 110,77kgMen,Snatch,117
-Rank: ---,VASILIADES William,CYP,"Born: Nov 22, 1987",B.weight: 75.08,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,Snatch,117
-Rank: ---,ZULKIFLI Che Ros,MAS,"Born: Jul 07, 1985",B.weight: 76.46,Group: A,1: -125,2: -126,3: -126,Total: ---,77kgMen,Snatch,117
-Rank: ---,EKPO Felix,NGR,"Born: Sep 10, 1981",B.weight: 76.12,Group: A,1: 143,2: -148,3: 148,Total: 148,77kgMen,Snatch,117
-Rank: ---,TATONGA Taubena,KIR,"Born: Aug 23, 1990",B.weight: 76.33,Group: A,1: -110,2: -110,3: -110,Total: ---,77kgMen,Snatch,117
-Rank: ---,KANE Graeme,SCO,"Born: Sep 24, 1988",B.weight: 76.66,Group: A,1: 118,2: -122,3: -122,Total: 118,77kgMen,Snatch,117
-Rank: ---,OLIVER Jack Simon,GBR,"Born: Jan 04, 1991",B.weight: 75.94,Group: A,1: 121,2: -126,3: -130,Total: 121,77kgMen,Snatch,117
-Rank: ---,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 76.79,Group: A,1: 115,2: 120,3: 125,Total: 125,77kgMen,Snatch,117
-Rank: ---,PETER Yukio,NRU,"Born: Jan 29, 1984",B.weight: 76.61,Group: A,1: 143,2: -148,3: 148,Total: 148,77kgMen,Snatch,117
-Rank: ---,TURNER Benjamin,AUS,"Born: Jan 23, 1984",B.weight: 76.39,Group: A,1: 128,2: 131,3: 133,Total: 133,77kgMen,Snatch,117
-Rank: ---,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Born: Apr 13, 1979",B.weight: 76.93,Group: A,1: 131,2: -136,3: -136,Total: 131,77kgMen,Snatch,117
-Rank: ---,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 75.80,Group: A,1: 120,2: 125,3: 128,Total: 128,77kgMen,Snatch,117
-Rank: ---,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 76.37,Group: A,1: 126,2: -132,3: 132,Total: 132,77kgMen,Snatch,117
-Rank: ---,MINKOUMBA Petit David,CMR,"Born: Feb 27, 1989",B.weight: 76.22,Group: A,1: 125,2: -130,3: -130,Total: 125,77kgMen,Snatch,117
-Rank: ---,BATUUSA Kalidi,UGA,"Born: Nov 25, 1986",B.weight: 76.94,Group: A,1: 130,2: 136,3: 142,Total: 142,77kgMen,CleanJerk,117
-Rank: ---,SIMEON Charles Albert,SEY,"Born: Jun 16, 1982",B.weight: 76.98,Group: A,1: 140,2: 145,3: -152,Total: 145,77kgMen,CleanJerk,117
-Rank: ---,VASILIADES William,CYP,"Born: Nov 22, 1987",B.weight: 75.08,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,117
-Rank: ---,ZULKIFLI Che Ros,MAS,"Born: Jul 07, 1985",B.weight: 76.46,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,117
-Rank: ---,EKPO Felix,NGR,"Born: Sep 10, 1981",B.weight: 76.12,Group: A,1: -185,2: -185,3: -185,Total: ---,77kgMen,CleanJerk,117
-Rank: ---,TATONGA Taubena,KIR,"Born: Aug 23, 1990",B.weight: 76.33,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,117
-Rank: ---,KANE Graeme,SCO,"Born: Sep 24, 1988",B.weight: 76.66,Group: A,1: 143,2: -147,3: -147,Total: 143,77kgMen,CleanJerk,117
-Rank: ---,OLIVER Jack Simon,GBR,"Born: Jan 04, 1991",B.weight: 75.94,Group: A,1: 142,2: 148,3: -152,Total: 148,77kgMen,CleanJerk,117
-Rank: ---,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 76.79,Group: A,1: 142,2: 148,3: -152,Total: 148,77kgMen,CleanJerk,117
-Rank: ---,PETER Yukio,NRU,"Born: Jan 29, 1984",B.weight: 76.61,Group: A,1: 185,2: -188,3: -188,Total: 185,77kgMen,CleanJerk,117
-Rank: ---,TURNER Benjamin,AUS,"Born: Jan 23, 1984",B.weight: 76.39,Group: A,1: 168,2: 175,3: ---,Total: 175,77kgMen,CleanJerk,117
-Rank: ---,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Born: Apr 13, 1979",B.weight: 76.93,Group: A,1: 161,2: 166,3: -171,Total: 166,77kgMen,CleanJerk,117
-Rank: ---,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 75.80,Group: A,1: 160,2: 165,3: -169,Total: 165,77kgMen,CleanJerk,117
-Rank: ---,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 76.37,Group: A,1: 157,2: -162,3: -162,Total: 157,77kgMen,CleanJerk,117
-Rank: ---,MINKOUMBA Petit David,CMR,"Born: Feb 27, 1989",B.weight: 76.22,Group: A,1: -150,2: -150,3: 150,Total: 150,77kgMen,CleanJerk,117
-Rank: 1,PETER Yukio,NRU,"Born: Jan 29, 1984",B.weight: 76.61,Group: A,Snatch: 148,CI&Jerk: 185,Total: 333,,77kgMen,Total,117
-Rank: 2,TURNER Benjamin,AUS,"Born: Jan 23, 1984",B.weight: 76.39,Group: A,Snatch: 133,CI&Jerk: 175,Total: 308,,77kgMen,Total,117
-Rank: 3,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Born: Apr 13, 1979",B.weight: 76.93,Group: A,Snatch: 131,CI&Jerk: 166,Total: 297,,77kgMen,Total,117
-Rank: 4,KARI Steven Kukuna,PNG,"Born: May 13, 1993",B.weight: 75.80,Group: A,Snatch: 128,CI&Jerk: 165,Total: 293,,77kgMen,Total,117
-Rank: 5,AMANATIDIS Alexandros,CYP,"Born: May 12, 1987",B.weight: 76.37,Group: A,Snatch: 132,CI&Jerk: 157,Total: 289,,77kgMen,Total,117
-Rank: 6,MINKOUMBA Petit David,CMR,"Born: Feb 27, 1989",B.weight: 76.22,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,77kgMen,Total,117
-Rank: 7,ROY Manoranjan,BAN,"Born: Jan 10, 1985",B.weight: 76.79,Group: A,Snatch: 125,CI&Jerk: 148,Total: 273,,77kgMen,Total,117
-Rank: 8,OLIVER Jack Simon,GBR,"Born: Jan 04, 1991",B.weight: 75.94,Group: A,Snatch: 121,CI&Jerk: 148,Total: 269,,77kgMen,Total,117
-Rank: 9,KANE Graeme,SCO,"Born: Sep 24, 1988",B.weight: 76.66,Group: A,Snatch: 118,CI&Jerk: 143,Total: 261,,77kgMen,Total,117
-Rank: 10,BATUUSA Kalidi,UGA,"Born: Nov 25, 1986",B.weight: 76.94,Group: A,Snatch: 115,CI&Jerk: 142,Total: 257,,77kgMen,Total,117
-Rank: 11,SIMEON Charles Albert,SEY,"Born: Jun 16, 1982",B.weight: 76.98,Group: A,Snatch: 110,CI&Jerk: 145,Total: 255,,77kgMen,Total,117
-Rank: ---,VASILIADES William,CYP,"Born: Nov 22, 1987",B.weight: 75.08,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,117
-Rank: ---,ZULKIFLI Che Ros,MAS,"Born: Jul 07, 1985",B.weight: 76.46,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,117
-Rank: ---,EKPO Felix,NGR,"Born: Sep 10, 1981",B.weight: 76.12,Group: A,Snatch: 148,CI&Jerk: ---,Total: ---,,77kgMen,Total,117
-Rank: ---,TATONGA Taubena,KIR,"Born: Aug 23, 1990",B.weight: 76.33,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,117
-Rank: ---,BALIGEYA Godfrey,UGA,"Born: Jul 28, 1987",B.weight: 84.12,Group: B,1: 110,2: 115,3: -118,Total: 115,85kgMen,Snatch,117
-Rank: ---,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 84.39,Group: A,1: 110,2: -115,3: 115,Total: 115,85kgMen,Snatch,117
-Rank: ---,MATSEBULA Linda,SWZ,"Born: Apr 02, 1983",B.weight: 84.20,Group: B,1: 105,2: -110,3: -110,Total: 105,85kgMen,Snatch,117
-Rank: ---,BERU Karianako,KIR,"Born: Sep 18, 1988",B.weight: 84.32,Group: B,1: 107,2: 112,3: -117,Total: 112,85kgMen,Snatch,117
-Rank: ---,AL MUMIN Mohammad Abdullah,BAN,"Born: May 03, 1983",B.weight: 84.89,Group: B,1: -110,2: -110,3: 110,Total: 110,85kgMen,Snatch,117
-Rank: ---,KAMARA Mohamed Whale,SLE,"Born: Jan 01, 1987",B.weight: 83.25,Group: B,1: 110,2: -115,3: -115,Total: 110,85kgMen,Snatch,117
-Rank: ---,MOLISA Pala Basil,VAN,"Born: Apr 15, 1979",B.weight: 83.85,Group: B,1: -105,2: 107,3: -117,Total: 107,85kgMen,Snatch,117
-Rank: ---,ABOAGYE Joe Sintim,GHA,"Born: Apr 17, 1989",B.weight: 83.13,Group: B,1: 95,2: 100,3: -106,Total: 100,85kgMen,Snatch,117
-Rank: ---,FRANCOIS Michael,TCA,"Born: Jan 02, 1985",B.weight: 84.90,Group: B,1: -70,2: 70,3: -80,Total: 70,85kgMen,Snatch,117
-Rank: ---,STAR Val-John,NRU,"Born: Jun 25, 1989",B.weight: 84.08,Group: A,1: 115,2: -120,3: -120,Total: 115,85kgMen,Snatch,117
-Rank: ---,MACHAKA Duke Onguti,KEN,"Born: Dec 31, 1993",B.weight: 83.20,Group: B,1: 110,2: 115,3: -117,Total: 115,85kgMen,Snatch,117
-Rank: ---,RIBOUEM Simplice,AUS,"Born: Dec 05, 1982",B.weight: 84.69,Group: A,1: 145,2: 150,3: -153,Total: 150,85kgMen,Snatch,117
-Rank: ---,PATTERSON Richard John Edward,NZL,"Born: Apr 30, 1983",B.weight: 84.13,Group: A,1: 142,2: 146,3: 150,Total: 150,85kgMen,Snatch,117
-Rank: ---,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.46,Group: A,1: 140,2: 145,3: -148,Total: 145,85kgMen,Snatch,117
-Rank: ---,MALI Chandrakant Dadu,IND,"Born: Aug 28, 1987",B.weight: 84.87,Group: A,1: 140,2: 145,3: -148,Total: 145,85kgMen,Snatch,117
-Rank: ---,DUMAIS Paul,CAN,"Born: Mar 08, 1991",B.weight: 84.31,Group: A,1: 145,2: -150,3: -150,Total: 145,85kgMen,Snatch,117
-Rank: ---,RAHIM Abdul Mubin,MAS,"Born: Jan 06, 1991",B.weight: 82.50,Group: A,1: 140,2: -145,3: -145,Total: 140,85kgMen,Snatch,117
-Rank: ---,SHAHZAD Khurram,PAK,"Born: Jul 07, 1981",B.weight: 84.19,Group: A,1: 130,2: 137,3: 140,Total: 140,85kgMen,Snatch,117
-Rank: ---,DIXIE Terence Nigel,SEY,"Born: Oct 15, 1983",B.weight: 84.56,Group: A,1: 125,2: -130,3: 130,Total: 130,85kgMen,Snatch,117
-Rank: ---,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Born: Nov 12, 1985",B.weight: 84.88,Group: A,1: 120,2: -124,3: -125,Total: 120,85kgMen,Snatch,117
-Rank: ---,BALIGEYA Godfrey,UGA,"Born: Jul 28, 1987",B.weight: 84.12,Group: B,1: 140,2: 145,3: -150,Total: 145,85kgMen,CleanJerk,117
-Rank: ---,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 84.39,Group: A,1: 140,2: -145,3: -145,Total: 140,85kgMen,CleanJerk,117
-Rank: ---,MATSEBULA Linda,SWZ,"Born: Apr 02, 1983",B.weight: 84.20,Group: B,1: 140,2: 146,3: 147,Total: 147,85kgMen,CleanJerk,117
-Rank: ---,BERU Karianako,KIR,"Born: Sep 18, 1988",B.weight: 84.32,Group: B,1: 140,2: -150,3: -150,Total: 140,85kgMen,CleanJerk,117
-Rank: ---,AL MUMIN Mohammad Abdullah,BAN,"Born: May 03, 1983",B.weight: 84.89,Group: B,1: 140,2: -148,3: -148,Total: 140,85kgMen,CleanJerk,117
-Rank: ---,KAMARA Mohamed Whale,SLE,"Born: Jan 01, 1987",B.weight: 83.25,Group: B,1: 135,2: -140,3: -140,Total: 135,85kgMen,CleanJerk,117
-Rank: ---,MOLISA Pala Basil,VAN,"Born: Apr 15, 1979",B.weight: 83.85,Group: B,1: 130,2: -136,3: -136,Total: 130,85kgMen,CleanJerk,117
-Rank: ---,ABOAGYE Joe Sintim,GHA,"Born: Apr 17, 1989",B.weight: 83.13,Group: B,1: 135,2: -140,3: -140,Total: 135,85kgMen,CleanJerk,117
-Rank: ---,FRANCOIS Michael,TCA,"Born: Jan 02, 1985",B.weight: 84.90,Group: B,1: 90,2: 95,3: -110,Total: 95,85kgMen,CleanJerk,117
-Rank: ---,STAR Val-John,NRU,"Born: Jun 25, 1989",B.weight: 84.08,Group: A,1: 142,2: 150,3: -155,Total: 150,85kgMen,CleanJerk,117
-Rank: ---,MACHAKA Duke Onguti,KEN,"Born: Dec 31, 1993",B.weight: 83.20,Group: B,1: 146,2: 150,3: -152,Total: 150,85kgMen,CleanJerk,117
-Rank: ---,RIBOUEM Simplice,AUS,"Born: Dec 05, 1982",B.weight: 84.69,Group: A,1: 181,2: 183,3: -194,Total: 183,85kgMen,CleanJerk,117
-Rank: ---,PATTERSON Richard John Edward,NZL,"Born: Apr 30, 1983",B.weight: 84.13,Group: A,1: -181,2: 181,3: -189,Total: 181,85kgMen,CleanJerk,117
-Rank: ---,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.46,Group: A,1: 175,2: 180,3: -187,Total: 180,85kgMen,CleanJerk,117
-Rank: ---,MALI Chandrakant Dadu,IND,"Born: Aug 28, 1987",B.weight: 84.87,Group: A,1: 175,2: 180,3: -182,Total: 180,85kgMen,CleanJerk,117
-Rank: ---,DUMAIS Paul,CAN,"Born: Mar 08, 1991",B.weight: 84.31,Group: A,1: 170,2: -174,3: -175,Total: 170,85kgMen,CleanJerk,117
-Rank: ---,RAHIM Abdul Mubin,MAS,"Born: Jan 06, 1991",B.weight: 82.50,Group: A,1: 173,2: -178,3: -178,Total: 173,85kgMen,CleanJerk,117
-Rank: ---,SHAHZAD Khurram,PAK,"Born: Jul 07, 1981",B.weight: 84.19,Group: A,1: 160,2: 166,3: -171,Total: 166,85kgMen,CleanJerk,117
-Rank: ---,DIXIE Terence Nigel,SEY,"Born: Oct 15, 1983",B.weight: 84.56,Group: A,1: -150,2: -150,3: 150,Total: 150,85kgMen,CleanJerk,117
-Rank: ---,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Born: Nov 12, 1985",B.weight: 84.88,Group: A,1: -155,2: -155,3: 155,Total: 155,85kgMen,CleanJerk,117
-Rank: 1,RIBOUEM Simplice,AUS,"Born: Dec 05, 1982",B.weight: 84.69,Group: A,Snatch: 150,CI&Jerk: 183,Total: 333,,85kgMen,Total,117
-Rank: 2,PATTERSON Richard John Edward,NZL,"Born: Apr 30, 1983",B.weight: 84.13,Group: A,Snatch: 150,CI&Jerk: 181,Total: 331,,85kgMen,Total,117
-Rank: 3,MARINEAU Mathieu,CAN,"Born: Dec 01, 1990",B.weight: 84.46,Group: A,Snatch: 145,CI&Jerk: 180,Total: 325,,85kgMen,Total,117
-Rank: 4,MALI Chandrakant Dadu,IND,"Born: Aug 28, 1987",B.weight: 84.87,Group: A,Snatch: 145,CI&Jerk: 180,Total: 325,,85kgMen,Total,117
-Rank: 5,DUMAIS Paul,CAN,"Born: Mar 08, 1991",B.weight: 84.31,Group: A,Snatch: 145,CI&Jerk: 170,Total: 315,,85kgMen,Total,117
-Rank: 6,RAHIM Abdul Mubin,MAS,"Born: Jan 06, 1991",B.weight: 82.50,Group: A,Snatch: 140,CI&Jerk: 173,Total: 313,,85kgMen,Total,117
-Rank: 7,SHAHZAD Khurram,PAK,"Born: Jul 07, 1981",B.weight: 84.19,Group: A,Snatch: 140,CI&Jerk: 166,Total: 306,,85kgMen,Total,117
-Rank: 8,DIXIE Terence Nigel,SEY,"Born: Oct 15, 1983",B.weight: 84.56,Group: A,Snatch: 130,CI&Jerk: 150,Total: 280,,85kgMen,Total,117
-Rank: 9,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Born: Nov 12, 1985",B.weight: 84.88,Group: A,Snatch: 120,CI&Jerk: 155,Total: 275,,85kgMen,Total,117
-Rank: 10,MACHAKA Duke Onguti,KEN,"Born: Dec 31, 1993",B.weight: 83.20,Group: B,Snatch: 115,CI&Jerk: 150,Total: 265,,85kgMen,Total,117
-Rank: 11,STAR Val-John,NRU,"Born: Jun 25, 1989",B.weight: 84.08,Group: A,Snatch: 115,CI&Jerk: 150,Total: 265,,85kgMen,Total,117
-Rank: 12,BALIGEYA Godfrey,UGA,"Born: Jul 28, 1987",B.weight: 84.12,Group: B,Snatch: 115,CI&Jerk: 145,Total: 260,,85kgMen,Total,117
-Rank: 13,OPELOGE Petunu,SAM,"Born: Jun 27, 1994",B.weight: 84.39,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,85kgMen,Total,117
-Rank: 14,MATSEBULA Linda,SWZ,"Born: Apr 02, 1983",B.weight: 84.20,Group: B,Snatch: 105,CI&Jerk: 147,Total: 252,,85kgMen,Total,117
-Rank: 15,BERU Karianako,KIR,"Born: Sep 18, 1988",B.weight: 84.32,Group: B,Snatch: 112,CI&Jerk: 140,Total: 252,,85kgMen,Total,117
-Rank: 16,AL MUMIN Mohammad Abdullah,BAN,"Born: May 03, 1983",B.weight: 84.89,Group: B,Snatch: 110,CI&Jerk: 140,Total: 250,,85kgMen,Total,117
-Rank: 17,KAMARA Mohamed Whale,SLE,"Born: Jan 01, 1987",B.weight: 83.25,Group: B,Snatch: 110,CI&Jerk: 135,Total: 245,,85kgMen,Total,117
-Rank: 18,MOLISA Pala Basil,VAN,"Born: Apr 15, 1979",B.weight: 83.85,Group: B,Snatch: 107,CI&Jerk: 130,Total: 237,,85kgMen,Total,117
-Rank: 19,ABOAGYE Joe Sintim,GHA,"Born: Apr 17, 1989",B.weight: 83.13,Group: B,Snatch: 100,CI&Jerk: 135,Total: 235,,85kgMen,Total,117
-Rank: 20,FRANCOIS Michael,TCA,"Born: Jan 02, 1985",B.weight: 84.90,Group: B,Snatch: 70,CI&Jerk: 95,Total: 165,,85kgMen,Total,117
-Rank: ---,BHOLLAH Ravi,MRI,"Born: Sep 28, 1981",B.weight: 91.98,Group: A,1: 115,2: 120,3: 125,Total: 125,94kgMen,Snatch,117
-Rank: ---,ADEDE James Omondi,KEN,"Born: Oct 31, 1986",B.weight: 89.12,Group: A,1: 115,2: -120,3: 121,Total: 121,94kgMen,Snatch,117
-Rank: ---,PERA Sirla,COK,"Born: Aug 28, 1992",B.weight: 93.67,Group: A,1: 102,2: 106,3: 110,Total: 110,94kgMen,Snatch,117
-Rank: ---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Born: Nov 12, 1985",B.weight: 93.69,Group: A,1: 120,2: -126,3: -127,Total: 120,94kgMen,Snatch,117
-Rank: ---,MALIK Shuja-Ud-Din,PAK,"Born: Feb 29, 1972",B.weight: 89.78,Group: A,1: -140,2: -140,3: -140,Total: ---,94kgMen,Snatch,117
-Rank: ---,KABIA Abubakarr,SLE,"Born: Jul 09, 1985",B.weight: 90.61,Group: A,1: 120,2: -125,3: 125,Total: 125,94kgMen,Snatch,117
-Rank: ---,TITO Teataua,KIR,"Born: Mar 23, 1981",B.weight: 90.75,Group: A,1: 115,2: 120,3: -125,Total: 120,94kgMen,Snatch,117
-Rank: ---,RAMSAY Buck,CAN,"Born: Aug 13, 1982",B.weight: 93.55,Group: A,1: -135,2: -135,3: 135,Total: 135,94kgMen,Snatch,117
-Rank: ---,FAAULIULI Faavae,SAM,"Born: May 12, 1983",B.weight: 93.27,Group: A,1: 138,2: 142,3: -145,Total: 142,94kgMen,Snatch,117
-Rank: ---,KIRKBRIDE Peter,SCO,"Born: Dec 19, 1987",B.weight: 92.89,Group: A,1: 140,2: 144,3: -146,Total: 144,94kgMen,Snatch,117
-Rank: ---,ULOKO Benedict,NGR,"Born: Mar 19, 1984",B.weight: 89.65,Group: A,1: 140,2: -145,3: -145,Total: 140,94kgMen,Snatch,117
-Rank: ---,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 92.13,Group: A,1: 135,2: -140,3: -140,Total: 135,94kgMen,Snatch,117
-Rank: ---,ROBERTS Nicolas,CAN,"Born: Sep 15, 1984",B.weight: 92.76,Group: A,1: -140,2: 140,3: -145,Total: 140,94kgMen,Snatch,117
-Rank: ---,OKOLI Chukwuka,NGR,"Born: Feb 26, 1980",B.weight: 92.94,Group: A,1: 140,2: -145,3: 145,Total: 145,94kgMen,Snatch,117
-Rank: ---,BHOLLAH Ravi,MRI,"Born: Sep 28, 1981",B.weight: 91.98,Group: A,1: 140,2: 150,3: ---,Total: 150,94kgMen,CleanJerk,117
-Rank: ---,ADEDE James Omondi,KEN,"Born: Oct 31, 1986",B.weight: 89.12,Group: A,1: 145,2: -150,3: 150,Total: 150,94kgMen,CleanJerk,117
-Rank: ---,PERA Sirla,COK,"Born: Aug 28, 1992",B.weight: 93.67,Group: A,1: 132,2: 135,3: -141,Total: 135,94kgMen,CleanJerk,117
-Rank: ---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Born: Nov 12, 1985",B.weight: 93.69,Group: A,1: -155,2: -156,3: -158,Total: ---,94kgMen,CleanJerk,117
-Rank: ---,MALIK Shuja-Ud-Din,PAK,"Born: Feb 29, 1972",B.weight: 89.78,Group: A,1: ---,2: ---,3: ---,Total: ---,94kgMen,CleanJerk,117
-Rank: ---,KABIA Abubakarr,SLE,"Born: Jul 09, 1985",B.weight: 90.61,Group: A,1: 150,2: 155,3: -160,Total: 155,94kgMen,CleanJerk,117
-Rank: ---,TITO Teataua,KIR,"Born: Mar 23, 1981",B.weight: 90.75,Group: A,1: 155,2: 160,3: 170,Total: 170,94kgMen,CleanJerk,117
-Rank: ---,RAMSAY Buck,CAN,"Born: Aug 13, 1982",B.weight: 93.55,Group: A,1: 175,2: 179,3: -182,Total: 179,94kgMen,CleanJerk,117
-Rank: ---,FAAULIULI Faavae,SAM,"Born: May 12, 1983",B.weight: 93.27,Group: A,1: 187,2: -192,3: 192,Total: 192,94kgMen,CleanJerk,117
-Rank: ---,KIRKBRIDE Peter,SCO,"Born: Dec 19, 1987",B.weight: 92.89,Group: A,1: 182,2: 186,3: 189,Total: 189,94kgMen,CleanJerk,117
-Rank: ---,ULOKO Benedict,NGR,"Born: Mar 19, 1984",B.weight: 89.65,Group: A,1: 180,2: 187,3: 192,Total: 192,94kgMen,CleanJerk,117
-Rank: ---,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 92.13,Group: A,1: 180,2: -186,3: 186,Total: 186,94kgMen,CleanJerk,117
-Rank: ---,ROBERTS Nicolas,CAN,"Born: Sep 15, 1984",B.weight: 92.76,Group: A,1: 176,2: -181,3: -183,Total: 176,94kgMen,CleanJerk,117
-Rank: ---,OKOLI Chukwuka,NGR,"Born: Feb 26, 1980",B.weight: 92.94,Group: A,1: 170,2: -176,3: -176,Total: 170,94kgMen,CleanJerk,117
-Rank: 1,FAAULIULI Faavae,SAM,"Born: May 12, 1983",B.weight: 93.27,Group: A,Snatch: 142,CI&Jerk: 192,Total: 334,,94kgMen,Total,117
-Rank: 2,KIRKBRIDE Peter,SCO,"Born: Dec 19, 1987",B.weight: 92.89,Group: A,Snatch: 144,CI&Jerk: 189,Total: 333,,94kgMen,Total,117
-Rank: 3,ULOKO Benedict,NGR,"Born: Mar 19, 1984",B.weight: 89.65,Group: A,Snatch: 140,CI&Jerk: 192,Total: 332,,94kgMen,Total,117
-Rank: 4,KATOATAU David,KIR,"Born: Jul 17, 1984",B.weight: 92.13,Group: A,Snatch: 135,CI&Jerk: 186,Total: 321,,94kgMen,Total,117
-Rank: 5,ROBERTS Nicolas,CAN,"Born: Sep 15, 1984",B.weight: 92.76,Group: A,Snatch: 140,CI&Jerk: 176,Total: 316,,94kgMen,Total,117
-Rank: 6,OKOLI Chukwuka,NGR,"Born: Feb 26, 1980",B.weight: 92.94,Group: A,Snatch: 145,CI&Jerk: 170,Total: 315,,94kgMen,Total,117
-Rank: 7,RAMSAY Buck,CAN,"Born: Aug 13, 1982",B.weight: 93.55,Group: A,Snatch: 135,CI&Jerk: 179,Total: 314,,94kgMen,Total,117
-Rank: 8,TITO Teataua,KIR,"Born: Mar 23, 1981",B.weight: 90.75,Group: A,Snatch: 120,CI&Jerk: 170,Total: 290,,94kgMen,Total,117
-Rank: 9,KABIA Abubakarr,SLE,"Born: Jul 09, 1985",B.weight: 90.61,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,94kgMen,Total,117
-Rank: 10,BHOLLAH Ravi,MRI,"Born: Sep 28, 1981",B.weight: 91.98,Group: A,Snatch: 125,CI&Jerk: 150,Total: 275,,94kgMen,Total,117
-Rank: 11,ADEDE James Omondi,KEN,"Born: Oct 31, 1986",B.weight: 89.12,Group: A,Snatch: 121,CI&Jerk: 150,Total: 271,,94kgMen,Total,117
-Rank: 12,PERA Sirla,COK,"Born: Aug 28, 1992",B.weight: 93.67,Group: A,Snatch: 110,CI&Jerk: 135,Total: 245,,94kgMen,Total,117
-Rank: ---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Born: Nov 12, 1985",B.weight: 93.69,Group: A,Snatch: 120,CI&Jerk: ---,Total: ---,,94kgMen,Total,117
-Rank: ---,MALIK Shuja-Ud-Din,PAK,"Born: Feb 29, 1972",B.weight: 89.78,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,94kgMen,Total,117
-Rank: ---,CHALAEV Stanislav Alexandrovich,NZL,"Born: Oct 16, 1986",B.weight: 104.04,Group: A,1: 145,2: -150,3: 150,Total: 150,105kgMen,Snatch,117
-Rank: ---,GALSWORTHY Robert,AUS,"Born: May 17, 1989",B.weight: 104.77,Group: A,1: -145,2: -145,3: 145,Total: 145,105kgMen,Snatch,117
-Rank: ---,CHEEMA Gurbinder,GBR,"Born: Nov 14, 1978",B.weight: 103.19,Group: A,1: 145,2: -150,3: 150,Total: 150,105kgMen,Snatch,117
-Rank: ---,YULE Thomas,SCO,"Born: Mar 15, 1976",B.weight: 104.61,Group: A,1: -145,2: 147,3: -151,Total: 147,105kgMen,Snatch,117
-Rank: ---,MALIK Sajjad Amin,PAK,"Born: Dec 03, 1973",B.weight: 104.74,Group: A,1: -145,2: 145,3: 150,Total: 150,105kgMen,Snatch,117
-Rank: ---,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Born: Jul 09, 1980",B.weight: 103.60,Group: A,1: -130,2: 130,3: 135,Total: 135,105kgMen,Snatch,117
-Rank: ---,ROY Bidduth Kumar,BAN,"Born: Sep 19, 1972",B.weight: 103.98,Group: A,1: -115,2: 115,3: 120,Total: 120,105kgMen,Snatch,117
-Rank: ---,LARKYNE Nii Otoo,GHA,"Born: Nov 11, 1995",B.weight: 102.21,Group: A,1: 110,2: -115,3: -115,Total: 110,105kgMen,Snatch,117
-Rank: ---,OPELOGE Tovia,SAM,"Born: Mar 27, 1990",B.weight: 103.81,Group: A,1: -135,2: -135,3: -135,Total: ---,105kgMen,Snatch,117
-Rank: ---,OPELOGE Niusila,SAM,"Born: Jun 23, 1980",B.weight: 103.57,Group: A,1: -147,2: -147,3: 147,Total: 147,105kgMen,Snatch,117
-Rank: ---,OSMAN Can Mehmet,CYP,"Born: May 16, 1981",B.weight: 98.62,Group: A,1: -133,2: -133,3: 135,Total: 135,105kgMen,Snatch,117
-Rank: ---,ONAGHINOR Curtis,NGR,"Born: Feb 13, 1980",B.weight: 102.75,Group: A,1: 145,2: -150,3: -150,Total: 145,105kgMen,Snatch,117
-Rank: ---,CHALAEV Stanislav Alexandrovich,NZL,"Born: Oct 16, 1986",B.weight: 104.04,Group: A,1: 180,2: -184,3: 184,Total: 184,105kgMen,CleanJerk,117
-Rank: ---,GALSWORTHY Robert,AUS,"Born: May 17, 1989",B.weight: 104.77,Group: A,1: 177,2: 184,3: -190,Total: 184,105kgMen,CleanJerk,117
-Rank: ---,CHEEMA Gurbinder,GBR,"Born: Nov 14, 1978",B.weight: 103.19,Group: A,1: 175,2: 178,3: -181,Total: 178,105kgMen,CleanJerk,117
-Rank: ---,YULE Thomas,SCO,"Born: Mar 15, 1976",B.weight: 104.61,Group: A,1: -180,2: 180,3: -184,Total: 180,105kgMen,CleanJerk,117
-Rank: ---,MALIK Sajjad Amin,PAK,"Born: Dec 03, 1973",B.weight: 104.74,Group: A,1: 176,2: -181,3: -181,Total: 176,105kgMen,CleanJerk,117
-Rank: ---,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Born: Jul 09, 1980",B.weight: 103.60,Group: A,1: 152,2: -160,3: -160,Total: 152,105kgMen,CleanJerk,117
-Rank: ---,ROY Bidduth Kumar,BAN,"Born: Sep 19, 1972",B.weight: 103.98,Group: A,1: -150,2: 150,3: -160,Total: 150,105kgMen,CleanJerk,117
-Rank: ---,LARKYNE Nii Otoo,GHA,"Born: Nov 11, 1995",B.weight: 102.21,Group: A,1: 140,2: -145,3: -147,Total: 140,105kgMen,CleanJerk,117
-Rank: ---,OPELOGE Tovia,SAM,"Born: Mar 27, 1990",B.weight: 103.81,Group: A,1: ---,2: ---,3: ---,Total: ---,105kgMen,CleanJerk,117
-Rank: ---,OPELOGE Niusila,SAM,"Born: Jun 23, 1980",B.weight: 103.57,Group: A,1: 191,2: -200,3: ---,Total: 191,105kgMen,CleanJerk,117
-Rank: ---,OSMAN Can Mehmet,CYP,"Born: May 16, 1981",B.weight: 98.62,Group: A,1: 165,2: -170,3: 170,Total: 170,105kgMen,CleanJerk,117
-Rank: ---,ONAGHINOR Curtis,NGR,"Born: Feb 13, 1980",B.weight: 102.75,Group: A,1: -187,2: -187,3: 187,Total: 187,105kgMen,CleanJerk,117
-Rank: 1,OPELOGE Niusila,SAM,"Born: Jun 23, 1980",B.weight: 103.57,Group: A,Snatch: 147,CI&Jerk: 191,Total: 338,,105kgMen,Total,117
-Rank: 2,CHALAEV Stanislav Alexandrovich,NZL,"Born: Oct 16, 1986",B.weight: 104.04,Group: A,Snatch: 150,CI&Jerk: 184,Total: 334,,105kgMen,Total,117
-Rank: 3,ONAGHINOR Curtis,NGR,"Born: Feb 13, 1980",B.weight: 102.75,Group: A,Snatch: 145,CI&Jerk: 187,Total: 332,,105kgMen,Total,117
-Rank: 4,GALSWORTHY Robert,AUS,"Born: May 17, 1989",B.weight: 104.77,Group: A,Snatch: 145,CI&Jerk: 184,Total: 329,,105kgMen,Total,117
-Rank: 5,CHEEMA Gurbinder,GBR,"Born: Nov 14, 1978",B.weight: 103.19,Group: A,Snatch: 150,CI&Jerk: 178,Total: 328,,105kgMen,Total,117
-Rank: 6,YULE Thomas,SCO,"Born: Mar 15, 1976",B.weight: 104.61,Group: A,Snatch: 147,CI&Jerk: 180,Total: 327,,105kgMen,Total,117
-Rank: 7,MALIK Sajjad Amin,PAK,"Born: Dec 03, 1973",B.weight: 104.74,Group: A,Snatch: 150,CI&Jerk: 176,Total: 326,,105kgMen,Total,117
-Rank: 8,OSMAN Can Mehmet,CYP,"Born: May 16, 1981",B.weight: 98.62,Group: A,Snatch: 135,CI&Jerk: 170,Total: 305,,105kgMen,Total,117
-Rank: 9,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Born: Jul 09, 1980",B.weight: 103.60,Group: A,Snatch: 135,CI&Jerk: 152,Total: 287,,105kgMen,Total,117
-Rank: 10,ROY Bidduth Kumar,BAN,"Born: Sep 19, 1972",B.weight: 103.98,Group: A,Snatch: 120,CI&Jerk: 150,Total: 270,,105kgMen,Total,117
-Rank: 11,LARKYNE Nii Otoo,GHA,"Born: Nov 11, 1995",B.weight: 102.21,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,105kgMen,Total,117
-Rank: ---,OPELOGE Tovia,SAM,"Born: Mar 27, 1990",B.weight: 103.81,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,105kgMen,Total,117
-Rank: ---,HOCKING Corran,AUS,"Born: Jul 29, 1980",B.weight: 145.18,Group: A,1: -172,2: -172,3: ---,Total: ---,+105kgMen,Snatch,117
-Rank: ---,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 134.94,Group: A,1: -155,2: -155,3: -156,Total: ---,+105kgMen,Snatch,117
-Rank: ---,SARABJIT,IND,"Born: Oct 03, 1983",B.weight: 143.47,Group: A,1: 162,2: 166,3: 169,Total: 169,+105kgMen,Snatch,117
-Rank: ---,HARVEY Kimmit Lowell,TCA,"Born: Sep 02, 1973",B.weight: 113.88,Group: A,1: -90,2: 90,3: -100,Total: 90,+105kgMen,Snatch,117
-Rank: ---,ABOTSI Albert Kwame Mensah,GHA,"Born: Jun 20, 1981",B.weight: 106.37,Group: A,1: -115,2: -115,3: 115,Total: 115,+105kgMen,Snatch,117
-Rank: ---,NEMANI Daniel,NIU,"Born: Apr 10, 1981",B.weight: 132.75,Group: A,1: 133,2: 138,3: 141,Total: 141,+105kgMen,Snatch,117
-Rank: ---,FOKEJOU TEFOT Frederic,CMR,"Born: Dec 03, 1979",B.weight: 130.78,Group: A,1: 150,2: -155,3: 156,Total: 156,+105kgMen,Snatch,117
-Rank: ---,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 127.29,Group: A,1: 161,2: 166,3: 168,Total: 168,+105kgMen,Snatch,117
-Rank: ---,DETENAMO Itte,NRU,"Born: Sep 22, 1986",B.weight: 151.90,Group: A,1: 172,2: 176,3: 179,Total: 179,+105kgMen,Snatch,117
-Rank: ---,KELLY Damon Joseph,AUS,"Born: Dec 01, 1983",B.weight: 149.06,Group: A,1: 168,2: 173,3: 176,Total: 176,+105kgMen,Snatch,117
-Rank: ---,MUSKETT Joe,GBR,"Born: Oct 05, 1985",B.weight: 137.22,Group: A,1: -142,2: 142,3: -147,Total: 142,+105kgMen,Snatch,117
-Rank: ---,HOCKING Corran,AUS,"Born: Jul 29, 1980",B.weight: 145.18,Group: A,1: ---,2: ---,3: ---,Total: ---,+105kgMen,CleanJerk,117
-Rank: ---,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 134.94,Group: A,1: ---,2: ---,3: ---,Total: ---,+105kgMen,CleanJerk,117
-Rank: ---,SARABJIT,IND,"Born: Oct 03, 1983",B.weight: 143.47,Group: A,1: -210,2: -210,3: -211,Total: ---,+105kgMen,CleanJerk,117
-Rank: ---,HARVEY Kimmit Lowell,TCA,"Born: Sep 02, 1973",B.weight: 113.88,Group: A,1: 100,2: 110,3: 120,Total: 120,+105kgMen,CleanJerk,117
-Rank: ---,ABOTSI Albert Kwame Mensah,GHA,"Born: Jun 20, 1981",B.weight: 106.37,Group: A,1: 160,2: -165,3: -170,Total: 160,+105kgMen,CleanJerk,117
-Rank: ---,NEMANI Daniel,NIU,"Born: Apr 10, 1981",B.weight: 132.75,Group: A,1: 171,2: -176,3: -176,Total: 171,+105kgMen,CleanJerk,117
-Rank: ---,FOKEJOU TEFOT Frederic,CMR,"Born: Dec 03, 1979",B.weight: 130.78,Group: A,1: -190,2: 190,3: 200,Total: 200,+105kgMen,CleanJerk,117
-Rank: ---,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 127.29,Group: A,1: -211,2: 211,3: 218,Total: 218,+105kgMen,CleanJerk,117
-Rank: ---,DETENAMO Itte,NRU,"Born: Sep 22, 1986",B.weight: 151.90,Group: A,1: -218,2: -218,3: 218,Total: 218,+105kgMen,CleanJerk,117
-Rank: ---,KELLY Damon Joseph,AUS,"Born: Dec 01, 1983",B.weight: 149.06,Group: A,1: 210,2: 221,3: -228,Total: 221,+105kgMen,CleanJerk,117
-Rank: ---,MUSKETT Joe,GBR,"Born: Oct 05, 1985",B.weight: 137.22,Group: A,1: 172,2: -180,3: -182,Total: 172,+105kgMen,CleanJerk,117
-Rank: 1,KELLY Damon Joseph,AUS,"Born: Dec 01, 1983",B.weight: 149.06,Group: A,Snatch: 176,CI&Jerk: 221,Total: 397,,+105kgMen,Total,117
-Rank: 2,DETENAMO Itte,NRU,"Born: Sep 22, 1986",B.weight: 151.90,Group: A,Snatch: 179,CI&Jerk: 218,Total: 397,,+105kgMen,Total,117
-Rank: 3,KOBALADZE George,CAN,"Born: May 24, 1976",B.weight: 127.29,Group: A,Snatch: 168,CI&Jerk: 218,Total: 386,,+105kgMen,Total,117
-Rank: 4,FOKEJOU TEFOT Frederic,CMR,"Born: Dec 03, 1979",B.weight: 130.78,Group: A,Snatch: 156,CI&Jerk: 200,Total: 356,,+105kgMen,Total,117
-Rank: 5,MUSKETT Joe,GBR,"Born: Oct 05, 1985",B.weight: 137.22,Group: A,Snatch: 142,CI&Jerk: 172,Total: 314,,+105kgMen,Total,117
-Rank: 6,NEMANI Daniel,NIU,"Born: Apr 10, 1981",B.weight: 132.75,Group: A,Snatch: 141,CI&Jerk: 171,Total: 312,,+105kgMen,Total,117
-Rank: 7,ABOTSI Albert Kwame Mensah,GHA,"Born: Jun 20, 1981",B.weight: 106.37,Group: A,Snatch: 115,CI&Jerk: 160,Total: 275,,+105kgMen,Total,117
-Rank: 8,HARVEY Kimmit Lowell,TCA,"Born: Sep 02, 1973",B.weight: 113.88,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,+105kgMen,Total,117
-Rank: ---,HOCKING Corran,AUS,"Born: Jul 29, 1980",B.weight: 145.18,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,+105kgMen,Total,117
-Rank: ---,PHANGURA Parminder,CAN,"Born: Oct 11, 1979",B.weight: 134.94,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,+105kgMen,Total,117
-Rank: ---,SARABJIT,IND,"Born: Oct 03, 1983",B.weight: 143.47,Group: A,Snatch: 169,CI&Jerk: ---,Total: ---,,+105kgMen,Total,117
-Rank: ---,NWAOKOLO Augustina Nkem,NGR,"Born: Dec 12, 1992",B.weight: 47.32,Group: A,1: 73,2: 76,3: 77,Total: 77,48kgWomen,Snatch,117
-Rank: ---,YAMASAKI Erika Yuriko Iris,AUS,"Born: Sep 02, 1987",B.weight: 47.90,Group: A,1: 70,2: -73,3: 73,Total: 73,48kgWomen,Snatch,117
-Rank: ---,SHABIRA Molla,BAN,"Born: Jan 01, 1990",B.weight: 47.69,Group: A,1: 60,2: -65,3: 66,Total: 66,48kgWomen,Snatch,117
-Rank: ---,THELEMAQUE Katsia,SEY,"Born: Feb 28, 1989",B.weight: 47.94,Group: A,1: -65,2: 65,3: -68,Total: 65,48kgWomen,Snatch,117
-Rank: ---,HARE Kathleen,PNG,"Born: Nov 23, 1987",B.weight: 46.80,Group: A,1: 60,2: 64,3: -66,Total: 64,48kgWomen,Snatch,117
-Rank: ---,VRIES Portia Charmaine,RSA,"Born: Jul 21, 1984",B.weight: 47.36,Group: A,1: 63,2: -66,3: 66,Total: 66,48kgWomen,Snatch,117
-Rank: ---,LEE Vivian,AUS,"Born: Mar 29, 1978",B.weight: 47.66,Group: A,1: 65,2: 69,3: -72,Total: 69,48kgWomen,Snatch,117
-Rank: ---,ZAKARIA Zaira,MAS,"Born: Feb 28, 1987",B.weight: 47.94,Group: A,1: -71,2: 73,3: 75,Total: 75,48kgWomen,Snatch,117
-Rank: ---,ATOM Sandhya Rani Devi,IND,"Born: Apr 05, 1980",B.weight: 47.73,Group: A,1: -70,2: 70,3: -73,Total: 70,48kgWomen,Snatch,117
-Rank: ---,CHANU NGANGBAM Soniya,IND,"Born: Feb 15, 1980",B.weight: 47.71,Group: A,1: 73,2: -76,3: -76,Total: 73,48kgWomen,Snatch,117
-Rank: ---,NWAOKOLO Augustina Nkem,NGR,"Born: Dec 12, 1992",B.weight: 47.32,Group: A,1: 94,2: 98,3: -100,Total: 98,48kgWomen,CleanJerk,117
-Rank: ---,YAMASAKI Erika Yuriko Iris,AUS,"Born: Sep 02, 1987",B.weight: 47.90,Group: A,1: -88,2: -88,3: -88,Total: ---,48kgWomen,CleanJerk,117
-Rank: ---,SHABIRA Molla,BAN,"Born: Jan 01, 1990",B.weight: 47.69,Group: A,1: 70,2: -75,3: 75,Total: 75,48kgWomen,CleanJerk,117
-Rank: ---,THELEMAQUE Katsia,SEY,"Born: Feb 28, 1989",B.weight: 47.94,Group: A,1: 80,2: -85,3: -85,Total: 80,48kgWomen,CleanJerk,117
-Rank: ---,HARE Kathleen,PNG,"Born: Nov 23, 1987",B.weight: 46.80,Group: A,1: 80,2: 83,3: -85,Total: 83,48kgWomen,CleanJerk,117
-Rank: ---,VRIES Portia Charmaine,RSA,"Born: Jul 21, 1984",B.weight: 47.36,Group: A,1: 90,2: -95,3: -95,Total: 90,48kgWomen,CleanJerk,117
-Rank: ---,LEE Vivian,AUS,"Born: Mar 29, 1978",B.weight: 47.66,Group: A,1: 87,2: 91,3: -94,Total: 91,48kgWomen,CleanJerk,117
-Rank: ---,ZAKARIA Zaira,MAS,"Born: Feb 28, 1987",B.weight: 47.94,Group: A,1: 90,2: -93,3: -93,Total: 90,48kgWomen,CleanJerk,117
-Rank: ---,ATOM Sandhya Rani Devi,IND,"Born: Apr 05, 1980",B.weight: 47.73,Group: A,1: 90,2: 95,3: -97,Total: 95,48kgWomen,CleanJerk,117
-Rank: ---,CHANU NGANGBAM Soniya,IND,"Born: Feb 15, 1980",B.weight: 47.71,Group: A,1: 94,2: -103,3: -103,Total: 94,48kgWomen,CleanJerk,117
-Rank: 1,NWAOKOLO Augustina Nkem,NGR,"Born: Dec 12, 1992",B.weight: 47.32,Group: A,Snatch: 77,CI&Jerk: 98,Total: 175,,48kgWomen,Total,117
-Rank: 2,CHANU NGANGBAM Soniya,IND,"Born: Feb 15, 1980",B.weight: 47.71,Group: A,Snatch: 73,CI&Jerk: 94,Total: 167,,48kgWomen,Total,117
-Rank: 3,ATOM Sandhya Rani Devi,IND,"Born: Apr 05, 1980",B.weight: 47.73,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,48kgWomen,Total,117
-Rank: 4,ZAKARIA Zaira,MAS,"Born: Feb 28, 1987",B.weight: 47.94,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,48kgWomen,Total,117
-Rank: 5,LEE Vivian,AUS,"Born: Mar 29, 1978",B.weight: 47.66,Group: A,Snatch: 69,CI&Jerk: 91,Total: 160,,48kgWomen,Total,117
-Rank: 6,VRIES Portia Charmaine,RSA,"Born: Jul 21, 1984",B.weight: 47.36,Group: A,Snatch: 66,CI&Jerk: 90,Total: 156,,48kgWomen,Total,117
-Rank: 7,HARE Kathleen,PNG,"Born: Nov 23, 1987",B.weight: 46.80,Group: A,Snatch: 64,CI&Jerk: 83,Total: 147,,48kgWomen,Total,117
-Rank: 8,THELEMAQUE Katsia,SEY,"Born: Feb 28, 1989",B.weight: 47.94,Group: A,Snatch: 65,CI&Jerk: 80,Total: 145,,48kgWomen,Total,117
-Rank: 9,SHABIRA Molla,BAN,"Born: Jan 01, 1990",B.weight: 47.69,Group: A,Snatch: 66,CI&Jerk: 75,Total: 141,,48kgWomen,Total,117
-Rank: ---,YAMASAKI Erika Yuriko Iris,AUS,"Born: Sep 02, 1987",B.weight: 47.90,Group: A,Snatch: 73,CI&Jerk: ---,Total: ---,,48kgWomen,Total,117
-Rank: ---,ALINAFE Mchochomi,MAW,"Born: Nov 14, 1993",B.weight: 52.21,Group: A,1: 45,2: 47,3: -50,Total: 47,53kgWomen,Snatch,117
-Rank: ---,PARVIN Firoga,BAN,"Born: Jul 15, 1984",B.weight: 52.56,Group: A,1: -63,2: 63,3: -66,Total: 63,53kgWomen,Snatch,117
-Rank: ---,DOGODO Hitolo,PNG,"Born: Sep 27, 1992",B.weight: 52.44,Group: A,1: 60,2: 63,3: -66,Total: 63,53kgWomen,Snatch,117
-Rank: ---,WONG Kar Mun Helena,SGP,"Born: Apr 11, 1988",B.weight: 51.93,Group: A,1: 62,2: 66,3: -70,Total: 66,53kgWomen,Snatch,117
-Rank: ---,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Born: Jan 01, 1990",B.weight: 52.00,Group: A,1: 67,2: -70,3: -70,Total: 67,53kgWomen,Snatch,117
-Rank: ---,HOWARD Kate,NZL,"Born: Sep 24, 1979",B.weight: 52.65,Group: A,1: 67,2: 70,3: -71,Total: 70,53kgWomen,Snatch,117
-Rank: ---,CALVINO Joanne Elizabeth,GBR,"Born: Aug 18, 1980",B.weight: 52.45,Group: A,1: 66,2: -69,3: -69,Total: 66,53kgWomen,Snatch,117
-Rank: ---,SINGH Swati,IND,"Born: Oct 02, 1987",B.weight: 52.90,Group: A,1: 74,2: -78,3: -78,Total: 74,53kgWomen,Snatch,117
-Rank: ---,RAIHAN Binti Yusoff,MAS,"Born: Jul 01, 1988",B.weight: 52.84,Group: A,1: 75,2: 80,3: -82,Total: 80,53kgWomen,Snatch,117
-Rank: ---,AZIKE Onyeka,NGR,"Born: Jul 01, 1990",B.weight: 51.95,Group: A,1: -77,2: 77,3: 80,Total: 80,53kgWomen,Snatch,117
-Rank: ---,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 52.80,Group: A,1: 82,2: -84,3: -84,Total: 82,53kgWomen,Snatch,117
-Rank: ---,ALINAFE Mchochomi,MAW,"Born: Nov 14, 1993",B.weight: 52.21,Group: A,1: -65,2: 65,3: -68,Total: 65,53kgWomen,CleanJerk,117
-Rank: ---,PARVIN Firoga,BAN,"Born: Jul 15, 1984",B.weight: 52.56,Group: A,1: 70,2: -73,3: 73,Total: 73,53kgWomen,CleanJerk,117
-Rank: ---,DOGODO Hitolo,PNG,"Born: Sep 27, 1992",B.weight: 52.44,Group: A,1: -75,2: 75,3: -80,Total: 75,53kgWomen,CleanJerk,117
-Rank: ---,WONG Kar Mun Helena,SGP,"Born: Apr 11, 1988",B.weight: 51.93,Group: A,1: -80,2: 80,3: -86,Total: 80,53kgWomen,CleanJerk,117
-Rank: ---,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Born: Jan 01, 1990",B.weight: 52.00,Group: A,1: 83,2: -86,3: -86,Total: 83,53kgWomen,CleanJerk,117
-Rank: ---,HOWARD Kate,NZL,"Born: Sep 24, 1979",B.weight: 52.65,Group: A,1: -83,2: -83,3: 83,Total: 83,53kgWomen,CleanJerk,117
-Rank: ---,CALVINO Joanne Elizabeth,GBR,"Born: Aug 18, 1980",B.weight: 52.45,Group: A,1: 87,2: 90,3: 93,Total: 93,53kgWomen,CleanJerk,117
-Rank: ---,SINGH Swati,IND,"Born: Oct 02, 1987",B.weight: 52.90,Group: A,1: 92,2: -98,3: -98,Total: 92,53kgWomen,CleanJerk,117
-Rank: ---,RAIHAN Binti Yusoff,MAS,"Born: Jul 01, 1988",B.weight: 52.84,Group: A,1: -95,2: -95,3: 95,Total: 95,53kgWomen,CleanJerk,117
-Rank: ---,AZIKE Onyeka,NGR,"Born: Jul 01, 1990",B.weight: 51.95,Group: A,1: 98,2: 100,3: -102,Total: 100,53kgWomen,CleanJerk,117
-Rank: ---,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 52.80,Group: A,1: 98,2: 100,3: -103,Total: 100,53kgWomen,CleanJerk,117
-Rank: 1,DOZOIS-PREVOST Marilou,CAN,"Born: May 11, 1986",B.weight: 52.80,Group: A,Snatch: 82,CI&Jerk: 100,Total: 182,,53kgWomen,Total,117
-Rank: 2,AZIKE Onyeka,NGR,"Born: Jul 01, 1990",B.weight: 51.95,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,53kgWomen,Total,117
-Rank: 3,RAIHAN Binti Yusoff,MAS,"Born: Jul 01, 1988",B.weight: 52.84,Group: A,Snatch: 80,CI&Jerk: 95,Total: 175,,53kgWomen,Total,117
-Rank: 4,SINGH Swati,IND,"Born: Oct 02, 1987",B.weight: 52.90,Group: A,Snatch: 74,CI&Jerk: 92,Total: 166,,53kgWomen,Total,117
-Rank: 5,CALVINO Joanne Elizabeth,GBR,"Born: Aug 18, 1980",B.weight: 52.45,Group: A,Snatch: 66,CI&Jerk: 93,Total: 159,,53kgWomen,Total,117
-Rank: 6,HOWARD Kate,NZL,"Born: Sep 24, 1979",B.weight: 52.65,Group: A,Snatch: 70,CI&Jerk: 83,Total: 153,,53kgWomen,Total,117
-Rank: 7,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Born: Jan 01, 1990",B.weight: 52.00,Group: A,Snatch: 67,CI&Jerk: 83,Total: 150,,53kgWomen,Total,117
-Rank: 8,WONG Kar Mun Helena,SGP,"Born: Apr 11, 1988",B.weight: 51.93,Group: A,Snatch: 66,CI&Jerk: 80,Total: 146,,53kgWomen,Total,117
-Rank: 9,DOGODO Hitolo,PNG,"Born: Sep 27, 1992",B.weight: 52.44,Group: A,Snatch: 63,CI&Jerk: 75,Total: 138,,53kgWomen,Total,117
-Rank: 10,PARVIN Firoga,BAN,"Born: Jul 15, 1984",B.weight: 52.56,Group: A,Snatch: 63,CI&Jerk: 73,Total: 136,,53kgWomen,Total,117
-Rank: 11,ALINAFE Mchochomi,MAW,"Born: Nov 14, 1993",B.weight: 52.21,Group: A,Snatch: 47,CI&Jerk: 65,Total: 112,,53kgWomen,Total,117
-Rank: ---,PRETORIUS Mona,RSA,"Born: Aug 12, 1988",B.weight: 57.38,Group: A,1: 76,2: -80,3: -80,Total: 76,58kgWomen,Snatch,117
-Rank: ---,AKTHER Fayema,BAN,"Born: Dec 15, 1991",B.weight: 57.42,Group: A,1: 65,2: 70,3: 72,Total: 72,58kgWomen,Snatch,117
-Rank: ---,JEWELL Helen Jane,GBR,"Born: Nov 29, 1988",B.weight: 57.13,Group: A,1: -77,2: 77,3: -81,Total: 77,58kgWomen,Snatch,117
-Rank: ---,KASSMAN Monalisa Naime,PNG,"Born: Nov 05, 1992",B.weight: 56.91,Group: A,1: 50,2: 55,3: -60,Total: 55,58kgWomen,Snatch,117
-Rank: ---,KARI Rita,PNG,"Born: Sep 03, 1989",B.weight: 57.71,Group: A,1: -75,2: 75,3: -80,Total: 75,58kgWomen,Snatch,117
-Rank: ---,MONIQUI Annie Marie Roseline Gatienne,CAN,"Born: Mar 28, 1990",B.weight: 57.55,Group: A,1: -80,2: 80,3: 82,Total: 82,58kgWomen,Snatch,117
-Rank: ---,QUARTON Emily,CAN,"Born: Aug 09, 1984",B.weight: 57.90,Group: A,1: -80,2: 80,3: -82,Total: 80,58kgWomen,Snatch,117
-Rank: ---,WINIFRED Ndidi Eze,NGR,"Born: Sep 22, 1988",B.weight: 57.45,Group: A,1: -84,2: ---,3: ---,Total: ---,58kgWomen,Snatch,117
-Rank: ---,YUMNAM Renu Bala Chanu,IND,"Born: Oct 02, 1986",B.weight: 57.93,Group: A,1: 84,2: 88,3: 90,Total: 90,58kgWomen,Snatch,117
-Rank: ---,LEE Seen,AUS,"Born: Nov 15, 1982",B.weight: 57.64,Group: A,1: 86,2: -89,3: -90,Total: 86,58kgWomen,Snatch,117
-Rank: ---,SMITH Zoe,GBR,"Born: Apr 26, 1994",B.weight: 57.98,Group: A,1: -80,2: 80,3: 85,Total: 85,58kgWomen,Snatch,117
-Rank: ---,AGRICOLE Clementina Ciana,SEY,"Born: Jul 18, 1988",B.weight: 57.59,Group: A,1: 83,2: -87,3: 87,Total: 87,58kgWomen,Snatch,117
-Rank: DSQ,BAKAM TZUCHE Pilar,CMR,"Born: Apr 10, 1988",B.weight: 57.76,Group: A,1: 75,2: -78,3: -78,Total: ---,58kgWomen,Snatch,117
-Rank: ---,PRETORIUS Mona,RSA,"Born: Aug 12, 1988",B.weight: 57.38,Group: A,1: -96,2: -96,3: -96,Total: ---,58kgWomen,CleanJerk,117
-Rank: ---,AKTHER Fayema,BAN,"Born: Dec 15, 1991",B.weight: 57.42,Group: A,1: 88,2: 92,3: -96,Total: 92,58kgWomen,CleanJerk,117
-Rank: ---,JEWELL Helen Jane,GBR,"Born: Nov 29, 1988",B.weight: 57.13,Group: A,1: -93,2: -93,3: 93,Total: 93,58kgWomen,CleanJerk,117
-Rank: ---,KASSMAN Monalisa Naime,PNG,"Born: Nov 05, 1992",B.weight: 56.91,Group: A,1: 65,2: -70,3: 70,Total: 70,58kgWomen,CleanJerk,117
-Rank: ---,KARI Rita,PNG,"Born: Sep 03, 1989",B.weight: 57.71,Group: A,1: 103,2: -106,3: -106,Total: 103,58kgWomen,CleanJerk,117
-Rank: ---,MONIQUI Annie Marie Roseline Gatienne,CAN,"Born: Mar 28, 1990",B.weight: 57.55,Group: A,1: 99,2: 102,3: -103,Total: 102,58kgWomen,CleanJerk,117
-Rank: ---,QUARTON Emily,CAN,"Born: Aug 09, 1984",B.weight: 57.90,Group: A,1: -101,2: 102,3: 105,Total: 105,58kgWomen,CleanJerk,117
-Rank: ---,WINIFRED Ndidi Eze,NGR,"Born: Sep 22, 1988",B.weight: 57.45,Group: A,1: ---,2: ---,3: ---,Total: ---,58kgWomen,CleanJerk,117
-Rank: ---,YUMNAM Renu Bala Chanu,IND,"Born: Oct 02, 1986",B.weight: 57.93,Group: A,1: 104,2: 107,3: -113,Total: 107,58kgWomen,CleanJerk,117
-Rank: ---,LEE Seen,AUS,"Born: Nov 15, 1982",B.weight: 57.64,Group: A,1: 103,2: 106,3: -111,Total: 106,58kgWomen,CleanJerk,117
-Rank: ---,SMITH Zoe,GBR,"Born: Apr 26, 1994",B.weight: 57.98,Group: A,1: 103,2: -108,3: -108,Total: 103,58kgWomen,CleanJerk,117
-Rank: ---,AGRICOLE Clementina Ciana,SEY,"Born: Jul 18, 1988",B.weight: 57.59,Group: A,1: 100,2: -105,3: ---,Total: 100,58kgWomen,CleanJerk,117
-Rank: DSQ,BAKAM TZUCHE Pilar,CMR,"Born: Apr 10, 1988",B.weight: 57.76,Group: A,1: 96,2: -100,3: -101,Total: ---,58kgWomen,CleanJerk,117
-Rank: 1,YUMNAM Renu Bala Chanu,IND,"Born: Oct 02, 1986",B.weight: 57.93,Group: A,Snatch: 90,CI&Jerk: 107,Total: 197,,58kgWomen,Total,117
-Rank: 2,LEE Seen,AUS,"Born: Nov 15, 1982",B.weight: 57.64,Group: A,Snatch: 86,CI&Jerk: 106,Total: 192,,58kgWomen,Total,117
-Rank: 3,SMITH Zoe,GBR,"Born: Apr 26, 1994",B.weight: 57.98,Group: A,Snatch: 85,CI&Jerk: 103,Total: 188,,58kgWomen,Total,117
-Rank: 4,AGRICOLE Clementina Ciana,SEY,"Born: Jul 18, 1988",B.weight: 57.59,Group: A,Snatch: 87,CI&Jerk: 100,Total: 187,,58kgWomen,Total,117
-Rank: 5,QUARTON Emily,CAN,"Born: Aug 09, 1984",B.weight: 57.90,Group: A,Snatch: 80,CI&Jerk: 105,Total: 185,,58kgWomen,Total,117
-Rank: 6,MONIQUI Annie Marie Roseline Gatienne,CAN,"Born: Mar 28, 1990",B.weight: 57.55,Group: A,Snatch: 82,CI&Jerk: 102,Total: 184,,58kgWomen,Total,117
-Rank: 7,KARI Rita,PNG,"Born: Sep 03, 1989",B.weight: 57.71,Group: A,Snatch: 75,CI&Jerk: 103,Total: 178,,58kgWomen,Total,117
-Rank: 8,JEWELL Helen Jane,GBR,"Born: Nov 29, 1988",B.weight: 57.13,Group: A,Snatch: 77,CI&Jerk: 93,Total: 170,,58kgWomen,Total,117
-Rank: 9,AKTHER Fayema,BAN,"Born: Dec 15, 1991",B.weight: 57.42,Group: A,Snatch: 72,CI&Jerk: 92,Total: 164,,58kgWomen,Total,117
-Rank: 10,KASSMAN Monalisa Naime,PNG,"Born: Nov 05, 1992",B.weight: 56.91,Group: A,Snatch: 55,CI&Jerk: 70,Total: 125,,58kgWomen,Total,117
-Rank: ---,PRETORIUS Mona,RSA,"Born: Aug 12, 1988",B.weight: 57.38,Group: A,Snatch: 76,CI&Jerk: ---,Total: ---,,58kgWomen,Total,117
-Rank: ---,WINIFRED Ndidi Eze,NGR,"Born: Sep 22, 1988",B.weight: 57.45,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,58kgWomen,Total,117
-Rank: DSQ,BAKAM TZUCHE Pilar,CMR,"Born: Apr 10, 1988",B.weight: 57.76,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,58kgWomen,Total,117
-Rank: ---,BREEZE Michaela Alica,WAL,"Born: May 17, 1979",B.weight: 61.68,Group: A,1: 90,2: 92,3: -94,Total: 92,63kgWomen,Snatch,117
-Rank: ---,TYRELL Urima,SAM,"Born: Jan 08, 1992",B.weight: 62.49,Group: A,1: 63,2: -66,3: -66,Total: 63,63kgWomen,Snatch,117
-Rank: ---,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 60.40,Group: A,1: 65,2: 70,3: -73,Total: 70,63kgWomen,Snatch,117
-Rank: ---,TOGAGAE Faitoga,SAM,"Born: Mar 06, 1989",B.weight: 61.87,Group: A,1: -76,2: 76,3: -79,Total: 76,63kgWomen,Snatch,117
-Rank: ---,NURUL Farhanah Binti Johari,MAS,"Born: Aug 06, 1988",B.weight: 62.72,Group: A,1: 85,2: 90,3: -92,Total: 90,63kgWomen,Snatch,117
-Rank: ---,FEGUE Marie Josephe,CMR,"Born: May 28, 1991",B.weight: 62.83,Group: A,1: 85,2: -88,3: 89,Total: 89,63kgWomen,Snatch,117
-Rank: ---,OKOLI Obioma Agatha,NGR,"Born: Jul 03, 1992",B.weight: 62.46,Group: A,1: 82,2: 87,3: 90,Total: 90,63kgWomen,Snatch,117
-Rank: ---,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 62.19,Group: A,1: -72,2: -72,3: -72,Total: ---,63kgWomen,Snatch,117
-Rank: ---,BREEZE Michaela Alica,WAL,"Born: May 17, 1979",B.weight: 61.68,Group: A,1: -110,2: 110,3: -113,Total: 110,63kgWomen,CleanJerk,117
-Rank: ---,TYRELL Urima,SAM,"Born: Jan 08, 1992",B.weight: 62.49,Group: A,1: 80,2: -85,3: 85,Total: 85,63kgWomen,CleanJerk,117
-Rank: ---,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 60.40,Group: A,1: 90,2: 95,3: -97,Total: 95,63kgWomen,CleanJerk,117
-Rank: ---,TOGAGAE Faitoga,SAM,"Born: Mar 06, 1989",B.weight: 61.87,Group: A,1: 96,2: 100,3: -104,Total: 100,63kgWomen,CleanJerk,117
-Rank: ---,NURUL Farhanah Binti Johari,MAS,"Born: Aug 06, 1988",B.weight: 62.72,Group: A,1: 105,2: -108,3: -109,Total: 105,63kgWomen,CleanJerk,117
-Rank: ---,FEGUE Marie Josephe,CMR,"Born: May 28, 1991",B.weight: 62.83,Group: A,1: 106,2: 109,3: -114,Total: 109,63kgWomen,CleanJerk,117
-Rank: ---,OKOLI Obioma Agatha,NGR,"Born: Jul 03, 1992",B.weight: 62.46,Group: A,1: 105,2: 115,3: 121,Total: 121,63kgWomen,CleanJerk,117
-Rank: ---,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 62.19,Group: A,1: ---,2: ---,3: ---,Total: ---,63kgWomen,CleanJerk,117
-Rank: 1,OKOLI Obioma Agatha,NGR,"Born: Jul 03, 1992",B.weight: 62.46,Group: A,Snatch: 90,CI&Jerk: 121,Total: 211,,63kgWomen,Total,117
-Rank: 2,BREEZE Michaela Alica,WAL,"Born: May 17, 1979",B.weight: 61.68,Group: A,Snatch: 92,CI&Jerk: 110,Total: 202,,63kgWomen,Total,117
-Rank: 3,FEGUE Marie Josephe,CMR,"Born: May 28, 1991",B.weight: 62.83,Group: A,Snatch: 89,CI&Jerk: 109,Total: 198,,63kgWomen,Total,117
-Rank: 4,NURUL Farhanah Binti Johari,MAS,"Born: Aug 06, 1988",B.weight: 62.72,Group: A,Snatch: 90,CI&Jerk: 105,Total: 195,,63kgWomen,Total,117
-Rank: 5,TOGAGAE Faitoga,SAM,"Born: Mar 06, 1989",B.weight: 61.87,Group: A,Snatch: 76,CI&Jerk: 100,Total: 176,,63kgWomen,Total,117
-Rank: 6,WINI Jenly Tegu,SOL,"Born: Jun 09, 1983",B.weight: 60.40,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,63kgWomen,Total,117
-Rank: 7,TYRELL Urima,SAM,"Born: Jan 08, 1992",B.weight: 62.49,Group: A,Snatch: 63,CI&Jerk: 85,Total: 148,,63kgWomen,Total,117
-Rank: ---,GODLEY Emily Victoria (ENG),GBR,"Born: Oct 22, 1989",B.weight: 62.19,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,63kgWomen,Total,117
-Rank: ---,GIRARD Christine,CAN,"Born: Jan 03, 1985",B.weight: 68.89,Group: A,1: 97,2: 101,3: 105,Total: 105,69kgWomen,Snatch,117
-Rank: ---,ABDUL HALIM Nor Khasida Binti,MAS,"Born: Nov 05, 1991",B.weight: 67.85,Group: A,1: 71,2: -75,3: 75,Total: 75,69kgWomen,Snatch,117
-Rank: ---,WOTENICK Kerri,GBR,"Born: Aug 04, 1983",B.weight: 68.82,Group: A,1: -75,2: 75,3: -78,Total: 75,69kgWomen,Snatch,117
-Rank: ---,NYANGA Prossy Irene,UGA,"Born: Aug 15, 1989",B.weight: 68.01,Group: A,1: 70,2: 75,3: -77,Total: 75,69kgWomen,Snatch,117
-Rank: ---,ABOTSI Dora Afi,GHA,"Born: Feb 22, 1991",B.weight: 67.03,Group: A,1: 73,2: -76,3: 76,Total: 76,69kgWomen,Snatch,117
-Rank: ---,GUBA Hale Mea,PNG,"Born: Jun 07, 1986",B.weight: 68.16,Group: A,1: -80,2: 80,3: -85,Total: 80,69kgWomen,Snatch,117
-Rank: ---,PERDUE Natasha,WAL,"Born: Jul 27, 1975",B.weight: 67.61,Group: A,1: -90,2: -90,3: -90,Total: ---,69kgWomen,Snatch,117
-Rank: ---,VAN TIENEN Belinda,AUS,"Born: Nov 04, 1986",B.weight: 68.82,Group: A,1: 83,2: -86,3: -86,Total: 83,69kgWomen,Snatch,117
-Rank: ---,GEORGES Janet Marie,SEY,"Born: Jan 05, 1979",B.weight: 68.34,Group: A,1: 95,2: 100,3: -102,Total: 100,69kgWomen,Snatch,117
-Rank: ---,OBIERO Mercy Apondi,KEN,"Born: Aug 27, 1978",B.weight: 67.44,Group: A,1: 76,2: 78,3: 80,Total: 80,69kgWomen,Snatch,117
-Rank: ---,ARES-PILON Marie-Josee,CAN,"Born: Apr 30, 1982",B.weight: 67.02,Group: A,1: -90,2: 90,3: 92,Total: 92,69kgWomen,Snatch,117
-Rank: ---,EBIREGUESELE Itohan,NGR,"Born: Jul 31, 1990",B.weight: 68.40,Group: A,1: 95,2: -100,3: -100,Total: 95,69kgWomen,Snatch,117
-Rank: ---,GIRARD Christine,CAN,"Born: Jan 03, 1985",B.weight: 68.89,Group: A,1: 126,2: 130,3: -133,Total: 130,69kgWomen,CleanJerk,117
-Rank: ---,ABDUL HALIM Nor Khasida Binti,MAS,"Born: Nov 05, 1991",B.weight: 67.85,Group: A,1: 91,2: 96,3: -100,Total: 96,69kgWomen,CleanJerk,117
-Rank: ---,WOTENICK Kerri,GBR,"Born: Aug 04, 1983",B.weight: 68.82,Group: A,1: -90,2: -90,3: 90,Total: 90,69kgWomen,CleanJerk,117
-Rank: ---,NYANGA Prossy Irene,UGA,"Born: Aug 15, 1989",B.weight: 68.01,Group: A,1: 85,2: 90,3: -95,Total: 90,69kgWomen,CleanJerk,117
-Rank: ---,ABOTSI Dora Afi,GHA,"Born: Feb 22, 1991",B.weight: 67.03,Group: A,1: 90,2: -93,3: 93,Total: 93,69kgWomen,CleanJerk,117
-Rank: ---,GUBA Hale Mea,PNG,"Born: Jun 07, 1986",B.weight: 68.16,Group: A,1: -100,2: 100,3: -104,Total: 100,69kgWomen,CleanJerk,117
-Rank: ---,PERDUE Natasha,WAL,"Born: Jul 27, 1975",B.weight: 67.61,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgWomen,CleanJerk,117
-Rank: ---,VAN TIENEN Belinda,AUS,"Born: Nov 04, 1986",B.weight: 68.82,Group: A,1: 104,2: -107,3: -107,Total: 104,69kgWomen,CleanJerk,117
-Rank: ---,GEORGES Janet Marie,SEY,"Born: Jan 05, 1979",B.weight: 68.34,Group: A,1: 111,2: -116,3: 116,Total: 116,69kgWomen,CleanJerk,117
-Rank: ---,OBIERO Mercy Apondi,KEN,"Born: Aug 27, 1978",B.weight: 67.44,Group: A,1: -106,2: 106,3: 110,Total: 110,69kgWomen,CleanJerk,117
-Rank: ---,ARES-PILON Marie-Josee,CAN,"Born: Apr 30, 1982",B.weight: 67.02,Group: A,1: 110,2: 115,3: -119,Total: 115,69kgWomen,CleanJerk,117
-Rank: ---,EBIREGUESELE Itohan,NGR,"Born: Jul 31, 1990",B.weight: 68.40,Group: A,1: 120,2: -126,3: -126,Total: 120,69kgWomen,CleanJerk,117
-Rank: 1,GIRARD Christine,CAN,"Born: Jan 03, 1985",B.weight: 68.89,Group: A,Snatch: 105,CI&Jerk: 130,Total: 235,,69kgWomen,Total,117
-Rank: 2,GEORGES Janet Marie,SEY,"Born: Jan 05, 1979",B.weight: 68.34,Group: A,Snatch: 100,CI&Jerk: 116,Total: 216,,69kgWomen,Total,117
-Rank: 3,EBIREGUESELE Itohan,NGR,"Born: Jul 31, 1990",B.weight: 68.40,Group: A,Snatch: 95,CI&Jerk: 120,Total: 215,,69kgWomen,Total,117
-Rank: 4,ARES-PILON Marie-Josee,CAN,"Born: Apr 30, 1982",B.weight: 67.02,Group: A,Snatch: 92,CI&Jerk: 115,Total: 207,,69kgWomen,Total,117
-Rank: 5,OBIERO Mercy Apondi,KEN,"Born: Aug 27, 1978",B.weight: 67.44,Group: A,Snatch: 80,CI&Jerk: 110,Total: 190,,69kgWomen,Total,117
-Rank: 6,VAN TIENEN Belinda,AUS,"Born: Nov 04, 1986",B.weight: 68.82,Group: A,Snatch: 83,CI&Jerk: 104,Total: 187,,69kgWomen,Total,117
-Rank: 7,GUBA Hale Mea,PNG,"Born: Jun 07, 1986",B.weight: 68.16,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,69kgWomen,Total,117
-Rank: 8,ABDUL HALIM Nor Khasida Binti,MAS,"Born: Nov 05, 1991",B.weight: 67.85,Group: A,Snatch: 75,CI&Jerk: 96,Total: 171,,69kgWomen,Total,117
-Rank: 9,ABOTSI Dora Afi,GHA,"Born: Feb 22, 1991",B.weight: 67.03,Group: A,Snatch: 76,CI&Jerk: 93,Total: 169,,69kgWomen,Total,117
-Rank: 10,NYANGA Prossy Irene,UGA,"Born: Aug 15, 1989",B.weight: 68.01,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,69kgWomen,Total,117
-Rank: 11,WOTENICK Kerri,GBR,"Born: Aug 04, 1983",B.weight: 68.82,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,69kgWomen,Total,117
-Rank: ---,PERDUE Natasha,WAL,"Born: Jul 27, 1975",B.weight: 67.61,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,69kgWomen,Total,117
-Rank: ---,DETENAMO Micheala,NRU,"Born: Sep 28, 1992",B.weight: 74.24,Group: A,1: 85,2: 90,3: -94,Total: 90,75kgWomen,Snatch,117
-Rank: ---,WILLIAMS Katelynn,CAN,"Born: May 12, 1987",B.weight: 72.28,Group: A,1: 83,2: 88,3: -90,Total: 88,75kgWomen,Snatch,117
-Rank: ---,NDLELENI Babalwa,RSA,"Born: Mar 14, 1979",B.weight: 73.84,Group: A,1: -83,2: 83,3: -88,Total: 83,75kgWomen,Snatch,117
-Rank: ---,PHILLIPS Amanda,AUS,"Born: Jul 04, 1981",B.weight: 74.18,Group: A,1: 83,2: 86,3: -88,Total: 86,75kgWomen,Snatch,117
-Rank: ---,AMPOMAH Alberta Boatema,GHA,"Born: Nov 03, 1994",B.weight: 72.25,Group: A,1: 65,2: 67,3: 70,Total: 70,75kgWomen,Snatch,117
-Rank: ---,EDWARDS Kristin Camille A,BAR,"Born: May 31, 1986",B.weight: 74.17,Group: A,1: -62,2: -62,3: -62,Total: ---,75kgWomen,Snatch,117
-Rank: ---,SINGH Srishti,IND,"Born: Aug 05, 1990",B.weight: 74.66,Group: A,1: -90,2: -90,3: 90,Total: 90,75kgWomen,Snatch,117
-Rank: ---,MYERS Jenna Anne,AUS,"Born: Mar 01, 1986",B.weight: 74.22,Group: A,1: 92,2: -95,3: 95,Total: 95,75kgWomen,Snatch,117
-Rank: ---,OPELOGE Mary,SAM,"Born: Jan 24, 1992",B.weight: 74.26,Group: A,1: -93,2: 93,3: -96,Total: 93,75kgWomen,Snatch,117
-Rank: ---,ARISHA Farra,MAS,"Born: Jan 19, 1988",B.weight: 74.93,Group: A,1: -80,2: -80,3: -86,Total: ---,75kgWomen,Snatch,117
-Rank: ---,ZAKARI Hadiza,NGR,"Born: Sep 10, 1987",B.weight: 73.96,Group: A,1: 100,2: 105,3: 110,Total: 110,75kgWomen,Snatch,117
-Rank: ---,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Born: Oct 13, 1988",B.weight: 74.67,Group: A,1: 95,2: 99,3: -102,Total: 99,75kgWomen,Snatch,117
-Rank: ---,DEVI Laishram Monika,IND,"Born: Mar 01, 1983",B.weight: 70.61,Group: A,1: 95,2: -99,3: -99,Total: 95,75kgWomen,Snatch,117
-Rank: ---,NZESSO NGAKE Madias Dodo,CMR,"Born: Apr 20, 1992",B.weight: 73.75,Group: A,1: 95,2: -98,3: -99,Total: 95,75kgWomen,Snatch,117
-Rank: ---,DETENAMO Micheala,NRU,"Born: Sep 28, 1992",B.weight: 74.24,Group: A,1: 110,2: -114,3: -114,Total: 110,75kgWomen,CleanJerk,117
-Rank: ---,WILLIAMS Katelynn,CAN,"Born: May 12, 1987",B.weight: 72.28,Group: A,1: 103,2: 108,3: 111,Total: 111,75kgWomen,CleanJerk,117
-Rank: ---,NDLELENI Babalwa,RSA,"Born: Mar 14, 1979",B.weight: 73.84,Group: A,1: 108,2: 113,3: -117,Total: 113,75kgWomen,CleanJerk,117
-Rank: ---,PHILLIPS Amanda,AUS,"Born: Jul 04, 1981",B.weight: 74.18,Group: A,1: 105,2: 110,3: -114,Total: 110,75kgWomen,CleanJerk,117
-Rank: ---,AMPOMAH Alberta Boatema,GHA,"Born: Nov 03, 1994",B.weight: 72.25,Group: A,1: 90,2: 95,3: -97,Total: 95,75kgWomen,CleanJerk,117
-Rank: ---,EDWARDS Kristin Camille A,BAR,"Born: May 31, 1986",B.weight: 74.17,Group: A,1: ---,2: ---,3: ---,Total: ---,75kgWomen,CleanJerk,117
-Rank: ---,SINGH Srishti,IND,"Born: Aug 05, 1990",B.weight: 74.66,Group: A,1: 112,2: 116,3: -119,Total: 116,75kgWomen,CleanJerk,117
-Rank: ---,MYERS Jenna Anne,AUS,"Born: Mar 01, 1986",B.weight: 74.22,Group: A,1: 113,2: -119,3: -122,Total: 113,75kgWomen,CleanJerk,117
-Rank: ---,OPELOGE Mary,SAM,"Born: Jan 24, 1992",B.weight: 74.26,Group: A,1: 117,2: 121,3: -125,Total: 121,75kgWomen,CleanJerk,117
-Rank: ---,ARISHA Farra,MAS,"Born: Jan 19, 1988",B.weight: 74.93,Group: A,1: ---,2: ---,3: ---,Total: ---,75kgWomen,CleanJerk,117
-Rank: ---,ZAKARI Hadiza,NGR,"Born: Sep 10, 1987",B.weight: 73.96,Group: A,1: 120,2: 125,3: 129,Total: 129,75kgWomen,CleanJerk,117
-Rank: ---,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Born: Oct 13, 1988",B.weight: 74.67,Group: A,1: 122,2: 126,3: -131,Total: 126,75kgWomen,CleanJerk,117
-Rank: ---,DEVI Laishram Monika,IND,"Born: Mar 01, 1983",B.weight: 70.61,Group: A,1: 118,2: 121,3: -126,Total: 121,75kgWomen,CleanJerk,117
-Rank: ---,NZESSO NGAKE Madias Dodo,CMR,"Born: Apr 20, 1992",B.weight: 73.75,Group: A,1: 116,2: 121,3: ---,Total: 121,75kgWomen,CleanJerk,117
-Rank: 1,ZAKARI Hadiza,NGR,"Born: Sep 10, 1987",B.weight: 73.96,Group: A,Snatch: 110,CI&Jerk: 129,Total: 239,,75kgWomen,Total,117
-Rank: 2,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Born: Oct 13, 1988",B.weight: 74.67,Group: A,Snatch: 99,CI&Jerk: 126,Total: 225,,75kgWomen,Total,117
-Rank: 3,DEVI Laishram Monika,IND,"Born: Mar 01, 1983",B.weight: 70.61,Group: A,Snatch: 95,CI&Jerk: 121,Total: 216,,75kgWomen,Total,117
-Rank: 4,NZESSO NGAKE Madias Dodo,CMR,"Born: Apr 20, 1992",B.weight: 73.75,Group: A,Snatch: 95,CI&Jerk: 121,Total: 216,,75kgWomen,Total,117
-Rank: 5,OPELOGE Mary,SAM,"Born: Jan 24, 1992",B.weight: 74.26,Group: A,Snatch: 93,CI&Jerk: 121,Total: 214,,75kgWomen,Total,117
-Rank: 6,MYERS Jenna Anne,AUS,"Born: Mar 01, 1986",B.weight: 74.22,Group: A,Snatch: 95,CI&Jerk: 113,Total: 208,,75kgWomen,Total,117
-Rank: 7,SINGH Srishti,IND,"Born: Aug 05, 1990",B.weight: 74.66,Group: A,Snatch: 90,CI&Jerk: 116,Total: 206,,75kgWomen,Total,117
-Rank: 8,DETENAMO Micheala,NRU,"Born: Sep 28, 1992",B.weight: 74.24,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,75kgWomen,Total,117
-Rank: 9,WILLIAMS Katelynn,CAN,"Born: May 12, 1987",B.weight: 72.28,Group: A,Snatch: 88,CI&Jerk: 111,Total: 199,,75kgWomen,Total,117
-Rank: 10,NDLELENI Babalwa,RSA,"Born: Mar 14, 1979",B.weight: 73.84,Group: A,Snatch: 83,CI&Jerk: 113,Total: 196,,75kgWomen,Total,117
-Rank: 11,PHILLIPS Amanda,AUS,"Born: Jul 04, 1981",B.weight: 74.18,Group: A,Snatch: 86,CI&Jerk: 110,Total: 196,,75kgWomen,Total,117
-Rank: 12,AMPOMAH Alberta Boatema,GHA,"Born: Nov 03, 1994",B.weight: 72.25,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,75kgWomen,Total,117
-Rank: ---,EDWARDS Kristin Camille A,BAR,"Born: May 31, 1986",B.weight: 74.17,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,75kgWomen,Total,117
-Rank: ---,ARISHA Farra,MAS,"Born: Jan 19, 1988",B.weight: 74.93,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,75kgWomen,Total,117
-Rank: ---,NXUMALO Xolile,SWZ,"Born: Mar 03, 1970",B.weight: 83.87,Group: A,1: 60,2: -65,3: -65,Total: 60,+75kgWomen,Snatch,117
-Rank: ---,OPELOGE Ele,SAM,"Born: Jul 11, 1985",B.weight: 123.09,Group: A,1: 120,2: 125,3: -130,Total: 125,+75kgWomen,Snatch,117
-Rank: ---,USMAN Maryam,NGR,"Born: Nov 09, 1990",B.weight: 116.97,Group: A,1: 115,2: -120,3: -120,Total: 115,+75kgWomen,Snatch,117
-Rank: ---,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 88.72,Group: A,1: 62,2: 65,3: 70,Total: 70,+75kgWomen,Snatch,117
-Rank: ---,GEETA Rani,IND,"Born: Sep 16, 1981",B.weight: 113.79,Group: A,1: 95,2: 100,3: -103,Total: 100,+75kgWomen,Snatch,117
-Rank: ---,ACASON Deborah Esther Ainslie,AUS,"Born: Jun 20, 1983",B.weight: 92.95,Group: A,1: 106,2: 110,3: -113,Total: 110,+75kgWomen,Snatch,117
-Rank: ---,LAMBRECHS Tracey,NZL,"Born: Aug 27, 1985",B.weight: 100.09,Group: A,1: 94,2: 99,3: -102,Total: 99,+75kgWomen,Snatch,117
-Rank: ---,VILIAMU Narita Janne Freda Tuga,NIU,"Born: Jul 04, 1989",B.weight: 145.52,Group: A,1: 90,2: -95,3: -95,Total: 90,+75kgWomen,Snatch,117
-Rank: ---,VALAYDON Shalinee,MRI,"Born: Apr 13, 1986",B.weight: 100.05,Group: A,1: -75,2: 80,3: 83,Total: 83,+75kgWomen,Snatch,117
-Rank: ---,SIMANU Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 100.38,Group: A,1: 82,2: 86,3: -90,Total: 86,+75kgWomen,Snatch,117
-Rank: ---,NAMUSOKE Becky,UGA,"Born: Dec 10, 1990",B.weight: 96.47,Group: A,1: 72,2: 76,3: 80,Total: 80,+75kgWomen,Snatch,117
-Rank: ---,NXUMALO Xolile,SWZ,"Born: Mar 03, 1970",B.weight: 83.87,Group: A,1: 82,2: 87,3: -90,Total: 87,+75kgWomen,CleanJerk,117
-Rank: ---,OPELOGE Ele,SAM,"Born: Jul 11, 1985",B.weight: 123.09,Group: A,1: 150,2: 160,3: -165,Total: 160,+75kgWomen,CleanJerk,117
-Rank: ---,USMAN Maryam,NGR,"Born: Nov 09, 1990",B.weight: 116.97,Group: A,1: 140,2: -150,3: -150,Total: 140,+75kgWomen,CleanJerk,117
-Rank: ---,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 88.72,Group: A,1: 81,2: 85,3: -88,Total: 85,+75kgWomen,CleanJerk,117
-Rank: ---,GEETA Rani,IND,"Born: Sep 16, 1981",B.weight: 113.79,Group: A,1: 125,2: 130,3: 135,Total: 135,+75kgWomen,CleanJerk,117
-Rank: ---,ACASON Deborah Esther Ainslie,AUS,"Born: Jun 20, 1983",B.weight: 92.95,Group: A,1: 130,2: 135,3: -145,Total: 135,+75kgWomen,CleanJerk,117
-Rank: ---,LAMBRECHS Tracey,NZL,"Born: Aug 27, 1985",B.weight: 100.09,Group: A,1: 120,2: 124,3: 127,Total: 127,+75kgWomen,CleanJerk,117
-Rank: ---,VILIAMU Narita Janne Freda Tuga,NIU,"Born: Jul 04, 1989",B.weight: 145.52,Group: A,1: 125,2: -130,3: -130,Total: 125,+75kgWomen,CleanJerk,117
-Rank: ---,VALAYDON Shalinee,MRI,"Born: Apr 13, 1986",B.weight: 100.05,Group: A,1: 95,2: 101,3: 105,Total: 105,+75kgWomen,CleanJerk,117
-Rank: ---,SIMANU Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 100.38,Group: A,1: 105,2: 110,3: -112,Total: 110,+75kgWomen,CleanJerk,117
-Rank: ---,NAMUSOKE Becky,UGA,"Born: Dec 10, 1990",B.weight: 96.47,Group: A,1: 90,2: 96,3: 101,Total: 101,+75kgWomen,CleanJerk,117
-Rank: 1,OPELOGE Ele,SAM,"Born: Jul 11, 1985",B.weight: 123.09,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,+75kgWomen,Total,117
-Rank: 2,USMAN Maryam,NGR,"Born: Nov 09, 1990",B.weight: 116.97,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,+75kgWomen,Total,117
-Rank: 3,ACASON Deborah Esther Ainslie,AUS,"Born: Jun 20, 1983",B.weight: 92.95,Group: A,Snatch: 110,CI&Jerk: 135,Total: 245,,+75kgWomen,Total,117
-Rank: 4,GEETA Rani,IND,"Born: Sep 16, 1981",B.weight: 113.79,Group: A,Snatch: 100,CI&Jerk: 135,Total: 235,,+75kgWomen,Total,117
-Rank: 5,LAMBRECHS Tracey,NZL,"Born: Aug 27, 1985",B.weight: 100.09,Group: A,Snatch: 99,CI&Jerk: 127,Total: 226,,+75kgWomen,Total,117
-Rank: 6,VILIAMU Narita Janne Freda Tuga,NIU,"Born: Jul 04, 1989",B.weight: 145.52,Group: A,Snatch: 90,CI&Jerk: 125,Total: 215,,+75kgWomen,Total,117
-Rank: 7,SIMANU Iuniarra,SAM,"Born: Jun 25, 1993",B.weight: 100.38,Group: A,Snatch: 86,CI&Jerk: 110,Total: 196,,+75kgWomen,Total,117
-Rank: 8,VALAYDON Shalinee,MRI,"Born: Apr 13, 1986",B.weight: 100.05,Group: A,Snatch: 83,CI&Jerk: 105,Total: 188,,+75kgWomen,Total,117
-Rank: 9,NAMUSOKE Becky,UGA,"Born: Dec 10, 1990",B.weight: 96.47,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,+75kgWomen,Total,117
-Rank: 10,PETERS Luisa Fatiaki Taitapu,COK,"Born: Jun 27, 1993",B.weight: 88.72,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,+75kgWomen,Total,117
-Rank: 11,NXUMALO Xolile,SWZ,"Born: Mar 03, 1970",B.weight: 83.87,Group: A,Snatch: 60,CI&Jerk: 87,Total: 147,,+75kgWomen,Total,117
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+---,BARU Morea,PNG,"Apr 15, 1990",55.36,A,85,90,-95,90,56kgMen,Snatch,117,True
+---,MOHD Shafiq,MAS,"Nov 19, 1988",55.56,A,105,-109,109,109,56kgMen,Snatch,117,True
+---,KATAMBA Ismail,UGA,"Jan 19, 1987",55.83,A,90,-95,-95,90,56kgMen,Snatch,117,True
+---,AMIRUL Hamizan Bin Ibrahim,MAS,"Dec 03, 1981",55.39,A,111,116,-118,116,56kgMen,Snatch,117,True
+---,MARC Jonathan,MRI,"Nov 13, 1989",55.23,A,90,-95,-95,90,56kgMen,Snatch,117,True
+---,GUINARES Lou,NZL,"Mar 18, 1990",55.46,A,90,-94,94,94,56kgMen,Snatch,117,True
+---,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Dec 01, 1984",55.29,A,95,98,-102,98,56kgMen,Snatch,117,True
+---,BANDARA W. G. K.,SRI,"Oct 04, 1985",55.68,A,98,-102,103,103,56kgMen,Snatch,117,True
+---,GHAFOOR Abdullah,PAK,"Feb 02, 1986",55.57,A,99,104,-107,104,56kgMen,Snatch,117,True
+---,VALLURI Srinavasa Rao,IND,"Oct 20, 1981",55.66,A,104,107,-109,107,56kgMen,Snatch,117,True
+---,DEY Sukhen,IND,"Mar 28, 1989",55.57,A,106,110,112,112,56kgMen,Snatch,117,True
+---,BRECHTEFELD Elson Edward,NRU,"Mar 02, 1994",55.57,A,87,92,-96,92,56kgMen,Snatch,117,True
+---,BARU Morea,PNG,"Apr 15, 1990",55.36,A,115,-120,-125,115,56kgMen,CleanJerk,117,True
+---,MOHD Shafiq,MAS,"Nov 19, 1988",55.56,A,-130,-130,-133,---,56kgMen,CleanJerk,117,True
+---,KATAMBA Ismail,UGA,"Jan 19, 1987",55.83,A,-120,---,---,---,56kgMen,CleanJerk,117,True
+---,AMIRUL Hamizan Bin Ibrahim,MAS,"Dec 03, 1981",55.39,A,135,-140,141,141,56kgMen,CleanJerk,117,True
+---,MARC Jonathan,MRI,"Nov 13, 1989",55.23,A,-120,-120,120,120,56kgMen,CleanJerk,117,True
+---,GUINARES Lou,NZL,"Mar 18, 1990",55.46,A,-120,120,124,124,56kgMen,CleanJerk,117,True
+---,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Dec 01, 1984",55.29,A,120,-128,-128,120,56kgMen,CleanJerk,117,True
+---,BANDARA W. G. K.,SRI,"Oct 04, 1985",55.68,A,130,-137,---,130,56kgMen,CleanJerk,117,True
+---,GHAFOOR Abdullah,PAK,"Feb 02, 1986",55.57,A,-127,127,133,133,56kgMen,CleanJerk,117,True
+---,VALLURI Srinavasa Rao,IND,"Oct 20, 1981",55.66,A,135,141,-146,141,56kgMen,CleanJerk,117,True
+---,DEY Sukhen,IND,"Mar 28, 1989",55.57,A,134,140,-146,140,56kgMen,CleanJerk,117,True
+---,BRECHTEFELD Elson Edward,NRU,"Mar 02, 1994",55.57,A,110,115,-120,115,56kgMen,CleanJerk,117,True
+1,AMIRUL Hamizan Bin Ibrahim,MAS,"Dec 03, 1981",55.39,A,116,141,257,,56kgMen,Total,117,True
+2,DEY Sukhen,IND,"Mar 28, 1989",55.57,A,112,140,252,,56kgMen,Total,117,True
+3,VALLURI Srinavasa Rao,IND,"Oct 20, 1981",55.66,A,107,141,248,,56kgMen,Total,117,True
+4,GHAFOOR Abdullah,PAK,"Feb 02, 1986",55.57,A,104,133,237,,56kgMen,Total,117,True
+5,BANDARA W. G. K.,SRI,"Oct 04, 1985",55.68,A,103,130,233,,56kgMen,Total,117,True
+6,CHANDADARA SIRISENAGE Sangeeth P.W.,SRI,"Dec 01, 1984",55.29,A,98,120,218,,56kgMen,Total,117,True
+7,GUINARES Lou,NZL,"Mar 18, 1990",55.46,A,94,124,218,,56kgMen,Total,117,True
+8,MARC Jonathan,MRI,"Nov 13, 1989",55.23,A,90,120,210,,56kgMen,Total,117,True
+9,BRECHTEFELD Elson Edward,NRU,"Mar 02, 1994",55.57,A,92,115,207,,56kgMen,Total,117,True
+10,BARU Morea,PNG,"Apr 15, 1990",55.36,A,90,115,205,,56kgMen,Total,117,True
+---,MOHD Shafiq,MAS,"Nov 19, 1988",55.56,A,109,---,---,,56kgMen,Total,117,True
+---,KATAMBA Ismail,UGA,"Jan 19, 1987",55.83,A,90,---,---,,56kgMen,Total,117,True
+---,JUMITIH Aricco,MAS,"Jan 01, 1990",61.25,A,120,-125,-125,120,62kgMen,Snatch,117,True
+---,NAHARUDIN Bin Mahayudin,MAS,"Jan 30, 1984",61.69,A,120,-125,125,125,62kgMen,Snatch,117,True
+---,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Feb 03, 1985",61.85,A,-115,115,120,120,62kgMen,Snatch,117,True
+---,SARANG Rustam,IND,"Dec 12, 1988",61.70,A,115,119,121,121,62kgMen,Snatch,117,True
+---,SINGH Jasvir,CAN,"Apr 13, 1977",61.32,A,110,-114,-114,110,62kgMen,Snatch,117,True
+---,KOUM Koum Daniel,AUS,"May 27, 1985",61.85,A,115,-119,119,119,62kgMen,Snatch,117,True
+---,CHARLES Chauyauya,MAW,"Oct 15, 1993",60.94,B,80,85,-90,85,62kgMen,Snatch,117,True
+---,DARKO Daniel,GHA,"May 12, 1986",61.14,B,85,-90,-90,85,62kgMen,Snatch,117,True
+---,HAUMILI Ioane,TUV,"Nov 23, 1988",61.53,B,85,90,-95,90,62kgMen,Snatch,117,True
+---,TAUFA Michael Elborn,TGA,"Feb 05, 1993",61.66,B,90,-95,95,95,62kgMen,Snatch,117,True
+---,RAMOHAKA Brown Chester,SOL,"Feb 02, 1988",60.57,B,80,90,-95,90,62kgMen,Snatch,117,True
+---,LAPUA Lapua Tuau,TUV,"Apr 15, 1991",61.39,B,95,100,-104,100,62kgMen,Snatch,117,True
+---,FREEBURY Christopher Xavier,GBR,"May 22, 1989",61.66,B,-105,105,110,110,62kgMen,Snatch,117,True
+---,SSEKYAAYA Charles,UGA,"Apr 11, 1994",61.41,B,102,106,-108,106,62kgMen,Snatch,117,True
+---,NGAMBA Simon,CMR,"Dec 24, 1982",61.66,A,110,115,-117,115,62kgMen,Snatch,117,True
+---,EVANS Gareth Irfon,WAL,"Apr 18, 1986",61.64,A,105,-110,111,111,62kgMen,Snatch,117,True
+---,SINCLAIR Cameron,NZL,"Feb 06, 1987",60.36,B,105,110,113,113,62kgMen,Snatch,117,True
+---,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.76,A,112,-117,117,117,62kgMen,Snatch,117,True
+---,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Aug 06, 1989",61.92,B,110,115,-118,115,62kgMen,Snatch,117,True
+---,BE Vannara,AUS,"Feb 16, 1988",61.53,A,-110,110,116,116,62kgMen,Snatch,117,True
+---,GHAFOOR Muhammad Ishitaq,PAK,"Oct 04, 1978",61.47,A,115,-118,-119,115,62kgMen,Snatch,117,True
+---,OTARI Omkar Shekhar,IND,"Dec 16, 1987",61.76,A,119,123,125,125,62kgMen,Snatch,117,True
+---,JUMITIH Aricco,MAS,"Jan 01, 1990",61.25,A,150,153,156,156,62kgMen,CleanJerk,117,True
+---,NAHARUDIN Bin Mahayudin,MAS,"Jan 30, 1984",61.69,A,146,-150,150,150,62kgMen,CleanJerk,117,True
+---,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Feb 03, 1985",61.85,A,-145,-152,152,152,62kgMen,CleanJerk,117,True
+---,SARANG Rustam,IND,"Dec 12, 1988",61.70,A,145,150,-153,150,62kgMen,CleanJerk,117,True
+---,SINGH Jasvir,CAN,"Apr 13, 1977",61.32,A,-143,-143,-147,---,62kgMen,CleanJerk,117,True
+---,KOUM Koum Daniel,AUS,"May 27, 1985",61.85,A,145,-148,-148,145,62kgMen,CleanJerk,117,True
+---,CHARLES Chauyauya,MAW,"Oct 15, 1993",60.94,B,108,-110,-111,108,62kgMen,CleanJerk,117,True
+---,DARKO Daniel,GHA,"May 12, 1986",61.14,B,110,-115,115,115,62kgMen,CleanJerk,117,True
+---,HAUMILI Ioane,TUV,"Nov 23, 1988",61.53,B,-115,115,120,120,62kgMen,CleanJerk,117,True
+---,TAUFA Michael Elborn,TGA,"Feb 05, 1993",61.66,B,-120,120,-126,120,62kgMen,CleanJerk,117,True
+---,RAMOHAKA Brown Chester,SOL,"Feb 02, 1988",60.57,B,120,-125,125,125,62kgMen,CleanJerk,117,True
+---,LAPUA Lapua Tuau,TUV,"Apr 15, 1991",61.39,B,115,120,-125,120,62kgMen,CleanJerk,117,True
+---,FREEBURY Christopher Xavier,GBR,"May 22, 1989",61.66,B,125,-130,-130,125,62kgMen,CleanJerk,117,True
+---,SSEKYAAYA Charles,UGA,"Apr 11, 1994",61.41,B,132,137,-140,137,62kgMen,CleanJerk,117,True
+---,NGAMBA Simon,CMR,"Dec 24, 1982",61.66,A,-130,130,-136,130,62kgMen,CleanJerk,117,True
+---,EVANS Gareth Irfon,WAL,"Apr 18, 1986",61.64,A,135,-140,-140,135,62kgMen,CleanJerk,117,True
+---,SINCLAIR Cameron,NZL,"Feb 06, 1987",60.36,B,133,-138,138,138,62kgMen,CleanJerk,117,True
+---,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.76,A,135,-140,-140,135,62kgMen,CleanJerk,117,True
+---,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Aug 06, 1989",61.92,B,135,140,-144,140,62kgMen,CleanJerk,117,True
+---,BE Vannara,AUS,"Feb 16, 1988",61.53,A,136,142,-149,142,62kgMen,CleanJerk,117,True
+---,GHAFOOR Muhammad Ishitaq,PAK,"Oct 04, 1978",61.47,A,140,-145,145,145,62kgMen,CleanJerk,117,True
+---,OTARI Omkar Shekhar,IND,"Dec 16, 1987",61.76,A,140,-145,-145,140,62kgMen,CleanJerk,117,True
+1,JUMITIH Aricco,MAS,"Jan 01, 1990",61.25,A,120,156,276,,62kgMen,Total,117,True
+2,NAHARUDIN Bin Mahayudin,MAS,"Jan 30, 1984",61.69,A,125,150,275,,62kgMen,Total,117,True
+3,KURUKULASOORIYAGE Anton Sudesh Peiris,SRI,"Feb 03, 1985",61.85,A,120,152,272,,62kgMen,Total,117,True
+4,SARANG Rustam,IND,"Dec 12, 1988",61.70,A,121,150,271,,62kgMen,Total,117,True
+5,OTARI Omkar Shekhar,IND,"Dec 16, 1987",61.76,A,125,140,265,,62kgMen,Total,117,True
+6,KOUM Koum Daniel,AUS,"May 27, 1985",61.85,A,119,145,264,,62kgMen,Total,117,True
+7,GHAFOOR Muhammad Ishitaq,PAK,"Oct 04, 1978",61.47,A,115,145,260,,62kgMen,Total,117,True
+8,BE Vannara,AUS,"Feb 16, 1988",61.53,A,116,142,258,,62kgMen,Total,117,True
+9,DISSANAYAKE MUDIYANSELAGE Indika C. D.,SRI,"Aug 06, 1989",61.92,B,115,140,255,,62kgMen,Total,117,True
+10,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.76,A,117,135,252,,62kgMen,Total,117,True
+11,SINCLAIR Cameron,NZL,"Feb 06, 1987",60.36,B,113,138,251,,62kgMen,Total,117,True
+12,EVANS Gareth Irfon,WAL,"Apr 18, 1986",61.64,A,111,135,246,,62kgMen,Total,117,True
+13,NGAMBA Simon,CMR,"Dec 24, 1982",61.66,A,115,130,245,,62kgMen,Total,117,True
+14,SSEKYAAYA Charles,UGA,"Apr 11, 1994",61.41,B,106,137,243,,62kgMen,Total,117,True
+15,FREEBURY Christopher Xavier,GBR,"May 22, 1989",61.66,B,110,125,235,,62kgMen,Total,117,True
+16,LAPUA Lapua Tuau,TUV,"Apr 15, 1991",61.39,B,100,120,220,,62kgMen,Total,117,True
+17,RAMOHAKA Brown Chester,SOL,"Feb 02, 1988",60.57,B,90,125,215,,62kgMen,Total,117,True
+18,TAUFA Michael Elborn,TGA,"Feb 05, 1993",61.66,B,95,120,215,,62kgMen,Total,117,True
+19,HAUMILI Ioane,TUV,"Nov 23, 1988",61.53,B,90,120,210,,62kgMen,Total,117,True
+20,DARKO Daniel,GHA,"May 12, 1986",61.14,B,85,115,200,,62kgMen,Total,117,True
+21,CHARLES Chauyauya,MAW,"Oct 15, 1993",60.94,B,85,108,193,,62kgMen,Total,117,True
+---,SINGH Jasvir,CAN,"Apr 13, 1977",61.32,A,110,---,---,,62kgMen,Total,117,True
+---,TOROMON Takenibeia,KIR,"Jan 29, 1992",68.15,B,110,-115,-115,110,69kgMen,Snatch,117,True
+---,MOHD Faerul Talib,MAS,"Oct 10, 1986",68.73,A,131,-138,-138,131,69kgMen,Snatch,117,True
+---,ETOUNDI Francois,AUS,"Oct 06, 1984",68.83,A,125,129,-132,129,69kgMen,Snatch,117,True
+---,VENATIUS Njuh,CMR,"Apr 13, 1988",68.77,A,---,---,---,---,69kgMen,Snatch,117,True
+---,MONIEN Magarajen,MRI,"Mar 09, 1981",68.96,B,-105,105,-110,105,69kgMen,Snatch,117,True
+---,VASILIADES Constantine,CYP,"Apr 09, 1985",68.61,B,105,-110,-110,105,69kgMen,Snatch,117,True
+---,TNOKO Kakhogwe,MAW,"Jun 07, 1987",67.52,B,105,110,-115,110,69kgMen,Snatch,117,True
+---,KATULU Ravi Kumar,IND,"Apr 24, 1988",68.84,A,138,142,146,146,69kgMen,Snatch,117,True
+---,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",68.96,A,130,134,-137,134,69kgMen,Snatch,117,True
+---,MOHD Hafifi Bin Mansor,MAS,"Oct 28, 1990",68.58,A,-133,133,137,137,69kgMen,Snatch,117,True
+---,YANOU KETCHANKE Jean Baptiste,CMR,"Jul 19, 1993",68.82,A,123,127,-130,127,69kgMen,Snatch,117,True
+---,REHMAN Mati,PAK,"Sep 17, 1984",68.82,A,120,124,126,126,69kgMen,Snatch,117,True
+---,FETRIE Seth Degbe,GHA,"Sep 24, 1991",68.97,B,95,-100,101,101,69kgMen,Snatch,117,True
+---,LUSSIER Dominic,CAN,"Mar 10, 1984",68.99,B,122,126,-128,126,69kgMen,Snatch,117,True
+---,ALIKLIK Ika,NRU,"Sep 16, 1985",68.01,B,110,-115,115,115,69kgMen,Snatch,117,True
+---,PERIVE Toafitu,SAM,"Jan 07, 1985",68.27,B,-107,107,-110,107,69kgMen,Snatch,117,True
+---,ZORBA Halil,GBR,"Sep 22, 1988",68.90,B,100,105,-110,105,69kgMen,Snatch,117,True
+---,SPOONER Mark,NZL,"Dec 12, 1984",68.72,A,123,-128,-130,123,69kgMen,Snatch,117,True
+---,TOROMON Takenibeia,KIR,"Jan 29, 1992",68.15,B,135,-140,-145,135,69kgMen,CleanJerk,117,True
+---,MOHD Faerul Talib,MAS,"Oct 10, 1986",68.73,A,-160,-165,-165,---,69kgMen,CleanJerk,117,True
+---,ETOUNDI Francois,AUS,"Oct 06, 1984",68.83,A,---,---,---,---,69kgMen,CleanJerk,117,True
+---,VENATIUS Njuh,CMR,"Apr 13, 1988",68.77,A,---,---,---,---,69kgMen,CleanJerk,117,True
+---,MONIEN Magarajen,MRI,"Mar 09, 1981",68.96,B,120,-130,-130,120,69kgMen,CleanJerk,117,True
+---,VASILIADES Constantine,CYP,"Apr 09, 1985",68.61,B,125,-130,130,130,69kgMen,CleanJerk,117,True
+---,TNOKO Kakhogwe,MAW,"Jun 07, 1987",67.52,B,120,-125,127,127,69kgMen,CleanJerk,117,True
+---,KATULU Ravi Kumar,IND,"Apr 24, 1988",68.84,A,167,-175,175,175,69kgMen,CleanJerk,117,True
+---,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",68.96,A,-169,169,174,174,69kgMen,CleanJerk,117,True
+---,MOHD Hafifi Bin Mansor,MAS,"Oct 28, 1990",68.58,A,165,169,-174,169,69kgMen,CleanJerk,117,True
+---,YANOU KETCHANKE Jean Baptiste,CMR,"Jul 19, 1993",68.82,A,153,-156,158,158,69kgMen,CleanJerk,117,True
+---,REHMAN Mati,PAK,"Sep 17, 1984",68.82,A,150,-155,157,157,69kgMen,CleanJerk,117,True
+---,FETRIE Seth Degbe,GHA,"Sep 24, 1991",68.97,B,140,-145,-145,140,69kgMen,CleanJerk,117,True
+---,LUSSIER Dominic,CAN,"Mar 10, 1984",68.99,B,145,-150,151,151,69kgMen,CleanJerk,117,True
+---,ALIKLIK Ika,NRU,"Sep 16, 1985",68.01,B,135,140,-145,140,69kgMen,CleanJerk,117,True
+---,PERIVE Toafitu,SAM,"Jan 07, 1985",68.27,B,146,-150,-150,146,69kgMen,CleanJerk,117,True
+---,ZORBA Halil,GBR,"Sep 22, 1988",68.90,B,145,-152,-152,145,69kgMen,CleanJerk,117,True
+---,SPOONER Mark,NZL,"Dec 12, 1984",68.72,A,154,157,-162,157,69kgMen,CleanJerk,117,True
+1,KATULU Ravi Kumar,IND,"Apr 24, 1988",68.84,A,146,175,321,,69kgMen,Total,117,True
+2,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",68.96,A,134,174,308,,69kgMen,Total,117,True
+3,MOHD Hafifi Bin Mansor,MAS,"Oct 28, 1990",68.58,A,137,169,306,,69kgMen,Total,117,True
+4,YANOU KETCHANKE Jean Baptiste,CMR,"Jul 19, 1993",68.82,A,127,158,285,,69kgMen,Total,117,True
+5,REHMAN Mati,PAK,"Sep 17, 1984",68.82,A,126,157,283,,69kgMen,Total,117,True
+6,SPOONER Mark,NZL,"Dec 12, 1984",68.72,A,123,157,280,,69kgMen,Total,117,True
+7,LUSSIER Dominic,CAN,"Mar 10, 1984",68.99,B,126,151,277,,69kgMen,Total,117,True
+8,ALIKLIK Ika,NRU,"Sep 16, 1985",68.01,B,115,140,255,,69kgMen,Total,117,True
+9,PERIVE Toafitu,SAM,"Jan 07, 1985",68.27,B,107,146,253,,69kgMen,Total,117,True
+10,ZORBA Halil,GBR,"Sep 22, 1988",68.90,B,105,145,250,,69kgMen,Total,117,True
+11,TOROMON Takenibeia,KIR,"Jan 29, 1992",68.15,B,110,135,245,,69kgMen,Total,117,True
+12,FETRIE Seth Degbe,GHA,"Sep 24, 1991",68.97,B,101,140,241,,69kgMen,Total,117,True
+13,TNOKO Kakhogwe,MAW,"Jun 07, 1987",67.52,B,110,127,237,,69kgMen,Total,117,True
+14,VASILIADES Constantine,CYP,"Apr 09, 1985",68.61,B,105,130,235,,69kgMen,Total,117,True
+15,MONIEN Magarajen,MRI,"Mar 09, 1981",68.96,B,105,120,225,,69kgMen,Total,117,True
+---,MOHD Faerul Talib,MAS,"Oct 10, 1986",68.73,A,131,---,---,,69kgMen,Total,117,True
+---,ETOUNDI Francois,AUS,"Oct 06, 1984",68.83,A,129,---,---,,69kgMen,Total,117,True
+---,VENATIUS Njuh,CMR,"Apr 13, 1988",68.77,A,---,---,---,,69kgMen,Total,117,True
+---,BATUUSA Kalidi,UGA,"Nov 25, 1986",76.94,A,110,115,-120,115,77kgMen,Snatch,117,True
+---,SIMEON Charles Albert,SEY,"Jun 16, 1982",76.98,A,110,-115,-115,110,77kgMen,Snatch,117,True
+---,VASILIADES William,CYP,"Nov 22, 1987",75.08,A,---,---,---,---,77kgMen,Snatch,117,True
+---,ZULKIFLI Che Ros,MAS,"Jul 07, 1985",76.46,A,-125,-126,-126,---,77kgMen,Snatch,117,True
+---,EKPO Felix,NGR,"Sep 10, 1981",76.12,A,143,-148,148,148,77kgMen,Snatch,117,True
+---,TATONGA Taubena,KIR,"Aug 23, 1990",76.33,A,-110,-110,-110,---,77kgMen,Snatch,117,True
+---,KANE Graeme,SCO,"Sep 24, 1988",76.66,A,118,-122,-122,118,77kgMen,Snatch,117,True
+---,OLIVER Jack Simon,GBR,"Jan 04, 1991",75.94,A,121,-126,-130,121,77kgMen,Snatch,117,True
+---,ROY Manoranjan,BAN,"Jan 10, 1985",76.79,A,115,120,125,125,77kgMen,Snatch,117,True
+---,PETER Yukio,NRU,"Jan 29, 1984",76.61,A,143,-148,148,148,77kgMen,Snatch,117,True
+---,TURNER Benjamin,AUS,"Jan 23, 1984",76.39,A,128,131,133,133,77kgMen,Snatch,117,True
+---,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Apr 13, 1979",76.93,A,131,-136,-136,131,77kgMen,Snatch,117,True
+---,KARI Steven Kukuna,PNG,"May 13, 1993",75.80,A,120,125,128,128,77kgMen,Snatch,117,True
+---,AMANATIDIS Alexandros,CYP,"May 12, 1987",76.37,A,126,-132,132,132,77kgMen,Snatch,117,True
+---,MINKOUMBA Petit David,CMR,"Feb 27, 1989",76.22,A,125,-130,-130,125,77kgMen,Snatch,117,True
+---,BATUUSA Kalidi,UGA,"Nov 25, 1986",76.94,A,130,136,142,142,77kgMen,CleanJerk,117,True
+---,SIMEON Charles Albert,SEY,"Jun 16, 1982",76.98,A,140,145,-152,145,77kgMen,CleanJerk,117,True
+---,VASILIADES William,CYP,"Nov 22, 1987",75.08,A,---,---,---,---,77kgMen,CleanJerk,117,True
+---,ZULKIFLI Che Ros,MAS,"Jul 07, 1985",76.46,A,---,---,---,---,77kgMen,CleanJerk,117,True
+---,EKPO Felix,NGR,"Sep 10, 1981",76.12,A,-185,-185,-185,---,77kgMen,CleanJerk,117,True
+---,TATONGA Taubena,KIR,"Aug 23, 1990",76.33,A,---,---,---,---,77kgMen,CleanJerk,117,True
+---,KANE Graeme,SCO,"Sep 24, 1988",76.66,A,143,-147,-147,143,77kgMen,CleanJerk,117,True
+---,OLIVER Jack Simon,GBR,"Jan 04, 1991",75.94,A,142,148,-152,148,77kgMen,CleanJerk,117,True
+---,ROY Manoranjan,BAN,"Jan 10, 1985",76.79,A,142,148,-152,148,77kgMen,CleanJerk,117,True
+---,PETER Yukio,NRU,"Jan 29, 1984",76.61,A,185,-188,-188,185,77kgMen,CleanJerk,117,True
+---,TURNER Benjamin,AUS,"Jan 23, 1984",76.39,A,168,175,---,175,77kgMen,CleanJerk,117,True
+---,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Apr 13, 1979",76.93,A,161,166,-171,166,77kgMen,CleanJerk,117,True
+---,KARI Steven Kukuna,PNG,"May 13, 1993",75.80,A,160,165,-169,165,77kgMen,CleanJerk,117,True
+---,AMANATIDIS Alexandros,CYP,"May 12, 1987",76.37,A,157,-162,-162,157,77kgMen,CleanJerk,117,True
+---,MINKOUMBA Petit David,CMR,"Feb 27, 1989",76.22,A,-150,-150,150,150,77kgMen,CleanJerk,117,True
+1,PETER Yukio,NRU,"Jan 29, 1984",76.61,A,148,185,333,,77kgMen,Total,117,True
+2,TURNER Benjamin,AUS,"Jan 23, 1984",76.39,A,133,175,308,,77kgMen,Total,117,True
+3,CHITRADURGA PADMA RAJU Sudhir Kumar,IND,"Apr 13, 1979",76.93,A,131,166,297,,77kgMen,Total,117,True
+4,KARI Steven Kukuna,PNG,"May 13, 1993",75.80,A,128,165,293,,77kgMen,Total,117,True
+5,AMANATIDIS Alexandros,CYP,"May 12, 1987",76.37,A,132,157,289,,77kgMen,Total,117,True
+6,MINKOUMBA Petit David,CMR,"Feb 27, 1989",76.22,A,125,150,275,,77kgMen,Total,117,True
+7,ROY Manoranjan,BAN,"Jan 10, 1985",76.79,A,125,148,273,,77kgMen,Total,117,True
+8,OLIVER Jack Simon,GBR,"Jan 04, 1991",75.94,A,121,148,269,,77kgMen,Total,117,True
+9,KANE Graeme,SCO,"Sep 24, 1988",76.66,A,118,143,261,,77kgMen,Total,117,True
+10,BATUUSA Kalidi,UGA,"Nov 25, 1986",76.94,A,115,142,257,,77kgMen,Total,117,True
+11,SIMEON Charles Albert,SEY,"Jun 16, 1982",76.98,A,110,145,255,,77kgMen,Total,117,True
+---,VASILIADES William,CYP,"Nov 22, 1987",75.08,A,---,---,---,,77kgMen,Total,117,True
+---,ZULKIFLI Che Ros,MAS,"Jul 07, 1985",76.46,A,---,---,---,,77kgMen,Total,117,True
+---,EKPO Felix,NGR,"Sep 10, 1981",76.12,A,148,---,---,,77kgMen,Total,117,True
+---,TATONGA Taubena,KIR,"Aug 23, 1990",76.33,A,---,---,---,,77kgMen,Total,117,True
+---,BALIGEYA Godfrey,UGA,"Jul 28, 1987",84.12,B,110,115,-118,115,85kgMen,Snatch,117,True
+---,OPELOGE Petunu,SAM,"Jun 27, 1994",84.39,A,110,-115,115,115,85kgMen,Snatch,117,True
+---,MATSEBULA Linda,SWZ,"Apr 02, 1983",84.20,B,105,-110,-110,105,85kgMen,Snatch,117,True
+---,BERU Karianako,KIR,"Sep 18, 1988",84.32,B,107,112,-117,112,85kgMen,Snatch,117,True
+---,AL MUMIN Mohammad Abdullah,BAN,"May 03, 1983",84.89,B,-110,-110,110,110,85kgMen,Snatch,117,True
+---,KAMARA Mohamed Whale,SLE,"Jan 01, 1987",83.25,B,110,-115,-115,110,85kgMen,Snatch,117,True
+---,MOLISA Pala Basil,VAN,"Apr 15, 1979",83.85,B,-105,107,-117,107,85kgMen,Snatch,117,True
+---,ABOAGYE Joe Sintim,GHA,"Apr 17, 1989",83.13,B,95,100,-106,100,85kgMen,Snatch,117,True
+---,FRANCOIS Michael,TCA,"Jan 02, 1985",84.90,B,-70,70,-80,70,85kgMen,Snatch,117,True
+---,STAR Val-John,NRU,"Jun 25, 1989",84.08,A,115,-120,-120,115,85kgMen,Snatch,117,True
+---,MACHAKA Duke Onguti,KEN,"Dec 31, 1993",83.20,B,110,115,-117,115,85kgMen,Snatch,117,True
+---,RIBOUEM Simplice,AUS,"Dec 05, 1982",84.69,A,145,150,-153,150,85kgMen,Snatch,117,True
+---,PATTERSON Richard John Edward,NZL,"Apr 30, 1983",84.13,A,142,146,150,150,85kgMen,Snatch,117,True
+---,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.46,A,140,145,-148,145,85kgMen,Snatch,117,True
+---,MALI Chandrakant Dadu,IND,"Aug 28, 1987",84.87,A,140,145,-148,145,85kgMen,Snatch,117,True
+---,DUMAIS Paul,CAN,"Mar 08, 1991",84.31,A,145,-150,-150,145,85kgMen,Snatch,117,True
+---,RAHIM Abdul Mubin,MAS,"Jan 06, 1991",82.50,A,140,-145,-145,140,85kgMen,Snatch,117,True
+---,SHAHZAD Khurram,PAK,"Jul 07, 1981",84.19,A,130,137,140,140,85kgMen,Snatch,117,True
+---,DIXIE Terence Nigel,SEY,"Oct 15, 1983",84.56,A,125,-130,130,130,85kgMen,Snatch,117,True
+---,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Nov 12, 1985",84.88,A,120,-124,-125,120,85kgMen,Snatch,117,True
+---,BALIGEYA Godfrey,UGA,"Jul 28, 1987",84.12,B,140,145,-150,145,85kgMen,CleanJerk,117,True
+---,OPELOGE Petunu,SAM,"Jun 27, 1994",84.39,A,140,-145,-145,140,85kgMen,CleanJerk,117,True
+---,MATSEBULA Linda,SWZ,"Apr 02, 1983",84.20,B,140,146,147,147,85kgMen,CleanJerk,117,True
+---,BERU Karianako,KIR,"Sep 18, 1988",84.32,B,140,-150,-150,140,85kgMen,CleanJerk,117,True
+---,AL MUMIN Mohammad Abdullah,BAN,"May 03, 1983",84.89,B,140,-148,-148,140,85kgMen,CleanJerk,117,True
+---,KAMARA Mohamed Whale,SLE,"Jan 01, 1987",83.25,B,135,-140,-140,135,85kgMen,CleanJerk,117,True
+---,MOLISA Pala Basil,VAN,"Apr 15, 1979",83.85,B,130,-136,-136,130,85kgMen,CleanJerk,117,True
+---,ABOAGYE Joe Sintim,GHA,"Apr 17, 1989",83.13,B,135,-140,-140,135,85kgMen,CleanJerk,117,True
+---,FRANCOIS Michael,TCA,"Jan 02, 1985",84.90,B,90,95,-110,95,85kgMen,CleanJerk,117,True
+---,STAR Val-John,NRU,"Jun 25, 1989",84.08,A,142,150,-155,150,85kgMen,CleanJerk,117,True
+---,MACHAKA Duke Onguti,KEN,"Dec 31, 1993",83.20,B,146,150,-152,150,85kgMen,CleanJerk,117,True
+---,RIBOUEM Simplice,AUS,"Dec 05, 1982",84.69,A,181,183,-194,183,85kgMen,CleanJerk,117,True
+---,PATTERSON Richard John Edward,NZL,"Apr 30, 1983",84.13,A,-181,181,-189,181,85kgMen,CleanJerk,117,True
+---,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.46,A,175,180,-187,180,85kgMen,CleanJerk,117,True
+---,MALI Chandrakant Dadu,IND,"Aug 28, 1987",84.87,A,175,180,-182,180,85kgMen,CleanJerk,117,True
+---,DUMAIS Paul,CAN,"Mar 08, 1991",84.31,A,170,-174,-175,170,85kgMen,CleanJerk,117,True
+---,RAHIM Abdul Mubin,MAS,"Jan 06, 1991",82.50,A,173,-178,-178,173,85kgMen,CleanJerk,117,True
+---,SHAHZAD Khurram,PAK,"Jul 07, 1981",84.19,A,160,166,-171,166,85kgMen,CleanJerk,117,True
+---,DIXIE Terence Nigel,SEY,"Oct 15, 1983",84.56,A,-150,-150,150,150,85kgMen,CleanJerk,117,True
+---,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Nov 12, 1985",84.88,A,-155,-155,155,155,85kgMen,CleanJerk,117,True
+1,RIBOUEM Simplice,AUS,"Dec 05, 1982",84.69,A,150,183,333,,85kgMen,Total,117,True
+2,PATTERSON Richard John Edward,NZL,"Apr 30, 1983",84.13,A,150,181,331,,85kgMen,Total,117,True
+3,MARINEAU Mathieu,CAN,"Dec 01, 1990",84.46,A,145,180,325,,85kgMen,Total,117,True
+4,MALI Chandrakant Dadu,IND,"Aug 28, 1987",84.87,A,145,180,325,,85kgMen,Total,117,True
+5,DUMAIS Paul,CAN,"Mar 08, 1991",84.31,A,145,170,315,,85kgMen,Total,117,True
+6,RAHIM Abdul Mubin,MAS,"Jan 06, 1991",82.50,A,140,173,313,,85kgMen,Total,117,True
+7,SHAHZAD Khurram,PAK,"Jul 07, 1981",84.19,A,140,166,306,,85kgMen,Total,117,True
+8,DIXIE Terence Nigel,SEY,"Oct 15, 1983",84.56,A,130,150,280,,85kgMen,Total,117,True
+9,RANATHUNGA M. Romesh Rakshitha S.,SRI,"Nov 12, 1985",84.88,A,120,155,275,,85kgMen,Total,117,True
+10,MACHAKA Duke Onguti,KEN,"Dec 31, 1993",83.20,B,115,150,265,,85kgMen,Total,117,True
+11,STAR Val-John,NRU,"Jun 25, 1989",84.08,A,115,150,265,,85kgMen,Total,117,True
+12,BALIGEYA Godfrey,UGA,"Jul 28, 1987",84.12,B,115,145,260,,85kgMen,Total,117,True
+13,OPELOGE Petunu,SAM,"Jun 27, 1994",84.39,A,115,140,255,,85kgMen,Total,117,True
+14,MATSEBULA Linda,SWZ,"Apr 02, 1983",84.20,B,105,147,252,,85kgMen,Total,117,True
+15,BERU Karianako,KIR,"Sep 18, 1988",84.32,B,112,140,252,,85kgMen,Total,117,True
+16,AL MUMIN Mohammad Abdullah,BAN,"May 03, 1983",84.89,B,110,140,250,,85kgMen,Total,117,True
+17,KAMARA Mohamed Whale,SLE,"Jan 01, 1987",83.25,B,110,135,245,,85kgMen,Total,117,True
+18,MOLISA Pala Basil,VAN,"Apr 15, 1979",83.85,B,107,130,237,,85kgMen,Total,117,True
+19,ABOAGYE Joe Sintim,GHA,"Apr 17, 1989",83.13,B,100,135,235,,85kgMen,Total,117,True
+20,FRANCOIS Michael,TCA,"Jan 02, 1985",84.90,B,70,95,165,,85kgMen,Total,117,True
+---,BHOLLAH Ravi,MRI,"Sep 28, 1981",91.98,A,115,120,125,125,94kgMen,Snatch,117,True
+---,ADEDE James Omondi,KEN,"Oct 31, 1986",89.12,A,115,-120,121,121,94kgMen,Snatch,117,True
+---,PERA Sirla,COK,"Aug 28, 1992",93.67,A,102,106,110,110,94kgMen,Snatch,117,True
+---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Nov 12, 1985",93.69,A,120,-126,-127,120,94kgMen,Snatch,117,True
+---,MALIK Shuja-Ud-Din,PAK,"Feb 29, 1972",89.78,A,-140,-140,-140,---,94kgMen,Snatch,117,True
+---,KABIA Abubakarr,SLE,"Jul 09, 1985",90.61,A,120,-125,125,125,94kgMen,Snatch,117,True
+---,TITO Teataua,KIR,"Mar 23, 1981",90.75,A,115,120,-125,120,94kgMen,Snatch,117,True
+---,RAMSAY Buck,CAN,"Aug 13, 1982",93.55,A,-135,-135,135,135,94kgMen,Snatch,117,True
+---,FAAULIULI Faavae,SAM,"May 12, 1983",93.27,A,138,142,-145,142,94kgMen,Snatch,117,True
+---,KIRKBRIDE Peter,SCO,"Dec 19, 1987",92.89,A,140,144,-146,144,94kgMen,Snatch,117,True
+---,ULOKO Benedict,NGR,"Mar 19, 1984",89.65,A,140,-145,-145,140,94kgMen,Snatch,117,True
+---,KATOATAU David,KIR,"Jul 17, 1984",92.13,A,135,-140,-140,135,94kgMen,Snatch,117,True
+---,ROBERTS Nicolas,CAN,"Sep 15, 1984",92.76,A,-140,140,-145,140,94kgMen,Snatch,117,True
+---,OKOLI Chukwuka,NGR,"Feb 26, 1980",92.94,A,140,-145,145,145,94kgMen,Snatch,117,True
+---,BHOLLAH Ravi,MRI,"Sep 28, 1981",91.98,A,140,150,---,150,94kgMen,CleanJerk,117,True
+---,ADEDE James Omondi,KEN,"Oct 31, 1986",89.12,A,145,-150,150,150,94kgMen,CleanJerk,117,True
+---,PERA Sirla,COK,"Aug 28, 1992",93.67,A,132,135,-141,135,94kgMen,CleanJerk,117,True
+---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Nov 12, 1985",93.69,A,-155,-156,-158,---,94kgMen,CleanJerk,117,True
+---,MALIK Shuja-Ud-Din,PAK,"Feb 29, 1972",89.78,A,---,---,---,---,94kgMen,CleanJerk,117,True
+---,KABIA Abubakarr,SLE,"Jul 09, 1985",90.61,A,150,155,-160,155,94kgMen,CleanJerk,117,True
+---,TITO Teataua,KIR,"Mar 23, 1981",90.75,A,155,160,170,170,94kgMen,CleanJerk,117,True
+---,RAMSAY Buck,CAN,"Aug 13, 1982",93.55,A,175,179,-182,179,94kgMen,CleanJerk,117,True
+---,FAAULIULI Faavae,SAM,"May 12, 1983",93.27,A,187,-192,192,192,94kgMen,CleanJerk,117,True
+---,KIRKBRIDE Peter,SCO,"Dec 19, 1987",92.89,A,182,186,189,189,94kgMen,CleanJerk,117,True
+---,ULOKO Benedict,NGR,"Mar 19, 1984",89.65,A,180,187,192,192,94kgMen,CleanJerk,117,True
+---,KATOATAU David,KIR,"Jul 17, 1984",92.13,A,180,-186,186,186,94kgMen,CleanJerk,117,True
+---,ROBERTS Nicolas,CAN,"Sep 15, 1984",92.76,A,176,-181,-183,176,94kgMen,CleanJerk,117,True
+---,OKOLI Chukwuka,NGR,"Feb 26, 1980",92.94,A,170,-176,-176,170,94kgMen,CleanJerk,117,True
+1,FAAULIULI Faavae,SAM,"May 12, 1983",93.27,A,142,192,334,,94kgMen,Total,117,True
+2,KIRKBRIDE Peter,SCO,"Dec 19, 1987",92.89,A,144,189,333,,94kgMen,Total,117,True
+3,ULOKO Benedict,NGR,"Mar 19, 1984",89.65,A,140,192,332,,94kgMen,Total,117,True
+4,KATOATAU David,KIR,"Jul 17, 1984",92.13,A,135,186,321,,94kgMen,Total,117,True
+5,ROBERTS Nicolas,CAN,"Sep 15, 1984",92.76,A,140,176,316,,94kgMen,Total,117,True
+6,OKOLI Chukwuka,NGR,"Feb 26, 1980",92.94,A,145,170,315,,94kgMen,Total,117,True
+7,RAMSAY Buck,CAN,"Aug 13, 1982",93.55,A,135,179,314,,94kgMen,Total,117,True
+8,TITO Teataua,KIR,"Mar 23, 1981",90.75,A,120,170,290,,94kgMen,Total,117,True
+9,KABIA Abubakarr,SLE,"Jul 09, 1985",90.61,A,125,155,280,,94kgMen,Total,117,True
+10,BHOLLAH Ravi,MRI,"Sep 28, 1981",91.98,A,125,150,275,,94kgMen,Total,117,True
+11,ADEDE James Omondi,KEN,"Oct 31, 1986",89.12,A,121,150,271,,94kgMen,Total,117,True
+12,PERA Sirla,COK,"Aug 28, 1992",93.67,A,110,135,245,,94kgMen,Total,117,True
+---,KARUNARATHNA CHANDRATHILAKE A T S,SRI,"Nov 12, 1985",93.69,A,120,---,---,,94kgMen,Total,117,True
+---,MALIK Shuja-Ud-Din,PAK,"Feb 29, 1972",89.78,A,---,---,---,,94kgMen,Total,117,True
+---,CHALAEV Stanislav Alexandrovich,NZL,"Oct 16, 1986",104.04,A,145,-150,150,150,105kgMen,Snatch,117,True
+---,GALSWORTHY Robert,AUS,"May 17, 1989",104.77,A,-145,-145,145,145,105kgMen,Snatch,117,True
+---,CHEEMA Gurbinder,GBR,"Nov 14, 1978",103.19,A,145,-150,150,150,105kgMen,Snatch,117,True
+---,YULE Thomas,SCO,"Mar 15, 1976",104.61,A,-145,147,-151,147,105kgMen,Snatch,117,True
+---,MALIK Sajjad Amin,PAK,"Dec 03, 1973",104.74,A,-145,145,150,150,105kgMen,Snatch,117,True
+---,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Jul 09, 1980",103.60,A,-130,130,135,135,105kgMen,Snatch,117,True
+---,ROY Bidduth Kumar,BAN,"Sep 19, 1972",103.98,A,-115,115,120,120,105kgMen,Snatch,117,True
+---,LARKYNE Nii Otoo,GHA,"Nov 11, 1995",102.21,A,110,-115,-115,110,105kgMen,Snatch,117,True
+---,OPELOGE Tovia,SAM,"Mar 27, 1990",103.81,A,-135,-135,-135,---,105kgMen,Snatch,117,True
+---,OPELOGE Niusila,SAM,"Jun 23, 1980",103.57,A,-147,-147,147,147,105kgMen,Snatch,117,True
+---,OSMAN Can Mehmet,CYP,"May 16, 1981",98.62,A,-133,-133,135,135,105kgMen,Snatch,117,True
+---,ONAGHINOR Curtis,NGR,"Feb 13, 1980",102.75,A,145,-150,-150,145,105kgMen,Snatch,117,True
+---,CHALAEV Stanislav Alexandrovich,NZL,"Oct 16, 1986",104.04,A,180,-184,184,184,105kgMen,CleanJerk,117,True
+---,GALSWORTHY Robert,AUS,"May 17, 1989",104.77,A,177,184,-190,184,105kgMen,CleanJerk,117,True
+---,CHEEMA Gurbinder,GBR,"Nov 14, 1978",103.19,A,175,178,-181,178,105kgMen,CleanJerk,117,True
+---,YULE Thomas,SCO,"Mar 15, 1976",104.61,A,-180,180,-184,180,105kgMen,CleanJerk,117,True
+---,MALIK Sajjad Amin,PAK,"Dec 03, 1973",104.74,A,176,-181,-181,176,105kgMen,CleanJerk,117,True
+---,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Jul 09, 1980",103.60,A,152,-160,-160,152,105kgMen,CleanJerk,117,True
+---,ROY Bidduth Kumar,BAN,"Sep 19, 1972",103.98,A,-150,150,-160,150,105kgMen,CleanJerk,117,True
+---,LARKYNE Nii Otoo,GHA,"Nov 11, 1995",102.21,A,140,-145,-147,140,105kgMen,CleanJerk,117,True
+---,OPELOGE Tovia,SAM,"Mar 27, 1990",103.81,A,---,---,---,---,105kgMen,CleanJerk,117,True
+---,OPELOGE Niusila,SAM,"Jun 23, 1980",103.57,A,191,-200,---,191,105kgMen,CleanJerk,117,True
+---,OSMAN Can Mehmet,CYP,"May 16, 1981",98.62,A,165,-170,170,170,105kgMen,CleanJerk,117,True
+---,ONAGHINOR Curtis,NGR,"Feb 13, 1980",102.75,A,-187,-187,187,187,105kgMen,CleanJerk,117,True
+1,OPELOGE Niusila,SAM,"Jun 23, 1980",103.57,A,147,191,338,,105kgMen,Total,117,True
+2,CHALAEV Stanislav Alexandrovich,NZL,"Oct 16, 1986",104.04,A,150,184,334,,105kgMen,Total,117,True
+3,ONAGHINOR Curtis,NGR,"Feb 13, 1980",102.75,A,145,187,332,,105kgMen,Total,117,True
+4,GALSWORTHY Robert,AUS,"May 17, 1989",104.77,A,145,184,329,,105kgMen,Total,117,True
+5,CHEEMA Gurbinder,GBR,"Nov 14, 1978",103.19,A,150,178,328,,105kgMen,Total,117,True
+6,YULE Thomas,SCO,"Mar 15, 1976",104.61,A,147,180,327,,105kgMen,Total,117,True
+7,MALIK Sajjad Amin,PAK,"Dec 03, 1973",104.74,A,150,176,326,,105kgMen,Total,117,True
+8,OSMAN Can Mehmet,CYP,"May 16, 1981",98.62,A,135,170,305,,105kgMen,Total,117,True
+9,WIJERATHNE Rajapaksha Pathiranage M.S.,SRI,"Jul 09, 1980",103.60,A,135,152,287,,105kgMen,Total,117,True
+10,ROY Bidduth Kumar,BAN,"Sep 19, 1972",103.98,A,120,150,270,,105kgMen,Total,117,True
+11,LARKYNE Nii Otoo,GHA,"Nov 11, 1995",102.21,A,110,140,250,,105kgMen,Total,117,True
+---,OPELOGE Tovia,SAM,"Mar 27, 1990",103.81,A,---,---,---,,105kgMen,Total,117,True
+---,HOCKING Corran,AUS,"Jul 29, 1980",145.18,A,-172,-172,---,---,+105kgMen,Snatch,117,True
+---,PHANGURA Parminder,CAN,"Oct 11, 1979",134.94,A,-155,-155,-156,---,+105kgMen,Snatch,117,True
+---,SARABJIT,IND,"Oct 03, 1983",143.47,A,162,166,169,169,+105kgMen,Snatch,117,True
+---,HARVEY Kimmit Lowell,TCA,"Sep 02, 1973",113.88,A,-90,90,-100,90,+105kgMen,Snatch,117,True
+---,ABOTSI Albert Kwame Mensah,GHA,"Jun 20, 1981",106.37,A,-115,-115,115,115,+105kgMen,Snatch,117,True
+---,NEMANI Daniel,NIU,"Apr 10, 1981",132.75,A,133,138,141,141,+105kgMen,Snatch,117,True
+---,FOKEJOU TEFOT Frederic,CMR,"Dec 03, 1979",130.78,A,150,-155,156,156,+105kgMen,Snatch,117,True
+---,KOBALADZE George,CAN,"May 24, 1976",127.29,A,161,166,168,168,+105kgMen,Snatch,117,True
+---,DETENAMO Itte,NRU,"Sep 22, 1986",151.90,A,172,176,179,179,+105kgMen,Snatch,117,True
+---,KELLY Damon Joseph,AUS,"Dec 01, 1983",149.06,A,168,173,176,176,+105kgMen,Snatch,117,True
+---,MUSKETT Joe,GBR,"Oct 05, 1985",137.22,A,-142,142,-147,142,+105kgMen,Snatch,117,True
+---,HOCKING Corran,AUS,"Jul 29, 1980",145.18,A,---,---,---,---,+105kgMen,CleanJerk,117,True
+---,PHANGURA Parminder,CAN,"Oct 11, 1979",134.94,A,---,---,---,---,+105kgMen,CleanJerk,117,True
+---,SARABJIT,IND,"Oct 03, 1983",143.47,A,-210,-210,-211,---,+105kgMen,CleanJerk,117,True
+---,HARVEY Kimmit Lowell,TCA,"Sep 02, 1973",113.88,A,100,110,120,120,+105kgMen,CleanJerk,117,True
+---,ABOTSI Albert Kwame Mensah,GHA,"Jun 20, 1981",106.37,A,160,-165,-170,160,+105kgMen,CleanJerk,117,True
+---,NEMANI Daniel,NIU,"Apr 10, 1981",132.75,A,171,-176,-176,171,+105kgMen,CleanJerk,117,True
+---,FOKEJOU TEFOT Frederic,CMR,"Dec 03, 1979",130.78,A,-190,190,200,200,+105kgMen,CleanJerk,117,True
+---,KOBALADZE George,CAN,"May 24, 1976",127.29,A,-211,211,218,218,+105kgMen,CleanJerk,117,True
+---,DETENAMO Itte,NRU,"Sep 22, 1986",151.90,A,-218,-218,218,218,+105kgMen,CleanJerk,117,True
+---,KELLY Damon Joseph,AUS,"Dec 01, 1983",149.06,A,210,221,-228,221,+105kgMen,CleanJerk,117,True
+---,MUSKETT Joe,GBR,"Oct 05, 1985",137.22,A,172,-180,-182,172,+105kgMen,CleanJerk,117,True
+1,KELLY Damon Joseph,AUS,"Dec 01, 1983",149.06,A,176,221,397,,+105kgMen,Total,117,True
+2,DETENAMO Itte,NRU,"Sep 22, 1986",151.90,A,179,218,397,,+105kgMen,Total,117,True
+3,KOBALADZE George,CAN,"May 24, 1976",127.29,A,168,218,386,,+105kgMen,Total,117,True
+4,FOKEJOU TEFOT Frederic,CMR,"Dec 03, 1979",130.78,A,156,200,356,,+105kgMen,Total,117,True
+5,MUSKETT Joe,GBR,"Oct 05, 1985",137.22,A,142,172,314,,+105kgMen,Total,117,True
+6,NEMANI Daniel,NIU,"Apr 10, 1981",132.75,A,141,171,312,,+105kgMen,Total,117,True
+7,ABOTSI Albert Kwame Mensah,GHA,"Jun 20, 1981",106.37,A,115,160,275,,+105kgMen,Total,117,True
+8,HARVEY Kimmit Lowell,TCA,"Sep 02, 1973",113.88,A,90,120,210,,+105kgMen,Total,117,True
+---,HOCKING Corran,AUS,"Jul 29, 1980",145.18,A,---,---,---,,+105kgMen,Total,117,True
+---,PHANGURA Parminder,CAN,"Oct 11, 1979",134.94,A,---,---,---,,+105kgMen,Total,117,True
+---,SARABJIT,IND,"Oct 03, 1983",143.47,A,169,---,---,,+105kgMen,Total,117,True
+---,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",47.32,A,73,76,77,77,48kgWomen,Snatch,117,True
+---,YAMASAKI Erika Yuriko Iris,AUS,"Sep 02, 1987",47.90,A,70,-73,73,73,48kgWomen,Snatch,117,True
+---,SHABIRA Molla,BAN,"Jan 01, 1990",47.69,A,60,-65,66,66,48kgWomen,Snatch,117,True
+---,THELEMAQUE Katsia,SEY,"Feb 28, 1989",47.94,A,-65,65,-68,65,48kgWomen,Snatch,117,True
+---,HARE Kathleen,PNG,"Nov 23, 1987",46.80,A,60,64,-66,64,48kgWomen,Snatch,117,True
+---,VRIES Portia Charmaine,RSA,"Jul 21, 1984",47.36,A,63,-66,66,66,48kgWomen,Snatch,117,True
+---,LEE Vivian,AUS,"Mar 29, 1978",47.66,A,65,69,-72,69,48kgWomen,Snatch,117,True
+---,ZAKARIA Zaira,MAS,"Feb 28, 1987",47.94,A,-71,73,75,75,48kgWomen,Snatch,117,True
+---,ATOM Sandhya Rani Devi,IND,"Apr 05, 1980",47.73,A,-70,70,-73,70,48kgWomen,Snatch,117,True
+---,CHANU NGANGBAM Soniya,IND,"Feb 15, 1980",47.71,A,73,-76,-76,73,48kgWomen,Snatch,117,True
+---,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",47.32,A,94,98,-100,98,48kgWomen,CleanJerk,117,True
+---,YAMASAKI Erika Yuriko Iris,AUS,"Sep 02, 1987",47.90,A,-88,-88,-88,---,48kgWomen,CleanJerk,117,True
+---,SHABIRA Molla,BAN,"Jan 01, 1990",47.69,A,70,-75,75,75,48kgWomen,CleanJerk,117,True
+---,THELEMAQUE Katsia,SEY,"Feb 28, 1989",47.94,A,80,-85,-85,80,48kgWomen,CleanJerk,117,True
+---,HARE Kathleen,PNG,"Nov 23, 1987",46.80,A,80,83,-85,83,48kgWomen,CleanJerk,117,True
+---,VRIES Portia Charmaine,RSA,"Jul 21, 1984",47.36,A,90,-95,-95,90,48kgWomen,CleanJerk,117,True
+---,LEE Vivian,AUS,"Mar 29, 1978",47.66,A,87,91,-94,91,48kgWomen,CleanJerk,117,True
+---,ZAKARIA Zaira,MAS,"Feb 28, 1987",47.94,A,90,-93,-93,90,48kgWomen,CleanJerk,117,True
+---,ATOM Sandhya Rani Devi,IND,"Apr 05, 1980",47.73,A,90,95,-97,95,48kgWomen,CleanJerk,117,True
+---,CHANU NGANGBAM Soniya,IND,"Feb 15, 1980",47.71,A,94,-103,-103,94,48kgWomen,CleanJerk,117,True
+1,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",47.32,A,77,98,175,,48kgWomen,Total,117,True
+2,CHANU NGANGBAM Soniya,IND,"Feb 15, 1980",47.71,A,73,94,167,,48kgWomen,Total,117,True
+3,ATOM Sandhya Rani Devi,IND,"Apr 05, 1980",47.73,A,70,95,165,,48kgWomen,Total,117,True
+4,ZAKARIA Zaira,MAS,"Feb 28, 1987",47.94,A,75,90,165,,48kgWomen,Total,117,True
+5,LEE Vivian,AUS,"Mar 29, 1978",47.66,A,69,91,160,,48kgWomen,Total,117,True
+6,VRIES Portia Charmaine,RSA,"Jul 21, 1984",47.36,A,66,90,156,,48kgWomen,Total,117,True
+7,HARE Kathleen,PNG,"Nov 23, 1987",46.80,A,64,83,147,,48kgWomen,Total,117,True
+8,THELEMAQUE Katsia,SEY,"Feb 28, 1989",47.94,A,65,80,145,,48kgWomen,Total,117,True
+9,SHABIRA Molla,BAN,"Jan 01, 1990",47.69,A,66,75,141,,48kgWomen,Total,117,True
+---,YAMASAKI Erika Yuriko Iris,AUS,"Sep 02, 1987",47.90,A,73,---,---,,48kgWomen,Total,117,True
+---,ALINAFE Mchochomi,MAW,"Nov 14, 1993",52.21,A,45,47,-50,47,53kgWomen,Snatch,117,True
+---,PARVIN Firoga,BAN,"Jul 15, 1984",52.56,A,-63,63,-66,63,53kgWomen,Snatch,117,True
+---,DOGODO Hitolo,PNG,"Sep 27, 1992",52.44,A,60,63,-66,63,53kgWomen,Snatch,117,True
+---,WONG Kar Mun Helena,SGP,"Apr 11, 1988",51.93,A,62,66,-70,66,53kgWomen,Snatch,117,True
+---,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Jan 01, 1990",52.00,A,67,-70,-70,67,53kgWomen,Snatch,117,True
+---,HOWARD Kate,NZL,"Sep 24, 1979",52.65,A,67,70,-71,70,53kgWomen,Snatch,117,True
+---,CALVINO Joanne Elizabeth,GBR,"Aug 18, 1980",52.45,A,66,-69,-69,66,53kgWomen,Snatch,117,True
+---,SINGH Swati,IND,"Oct 02, 1987",52.90,A,74,-78,-78,74,53kgWomen,Snatch,117,True
+---,RAIHAN Binti Yusoff,MAS,"Jul 01, 1988",52.84,A,75,80,-82,80,53kgWomen,Snatch,117,True
+---,AZIKE Onyeka,NGR,"Jul 01, 1990",51.95,A,-77,77,80,80,53kgWomen,Snatch,117,True
+---,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",52.80,A,82,-84,-84,82,53kgWomen,Snatch,117,True
+---,ALINAFE Mchochomi,MAW,"Nov 14, 1993",52.21,A,-65,65,-68,65,53kgWomen,CleanJerk,117,True
+---,PARVIN Firoga,BAN,"Jul 15, 1984",52.56,A,70,-73,73,73,53kgWomen,CleanJerk,117,True
+---,DOGODO Hitolo,PNG,"Sep 27, 1992",52.44,A,-75,75,-80,75,53kgWomen,CleanJerk,117,True
+---,WONG Kar Mun Helena,SGP,"Apr 11, 1988",51.93,A,-80,80,-86,80,53kgWomen,CleanJerk,117,True
+---,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Jan 01, 1990",52.00,A,83,-86,-86,83,53kgWomen,CleanJerk,117,True
+---,HOWARD Kate,NZL,"Sep 24, 1979",52.65,A,-83,-83,83,83,53kgWomen,CleanJerk,117,True
+---,CALVINO Joanne Elizabeth,GBR,"Aug 18, 1980",52.45,A,87,90,93,93,53kgWomen,CleanJerk,117,True
+---,SINGH Swati,IND,"Oct 02, 1987",52.90,A,92,-98,-98,92,53kgWomen,CleanJerk,117,True
+---,RAIHAN Binti Yusoff,MAS,"Jul 01, 1988",52.84,A,-95,-95,95,95,53kgWomen,CleanJerk,117,True
+---,AZIKE Onyeka,NGR,"Jul 01, 1990",51.95,A,98,100,-102,100,53kgWomen,CleanJerk,117,True
+---,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",52.80,A,98,100,-103,100,53kgWomen,CleanJerk,117,True
+1,DOZOIS-PREVOST Marilou,CAN,"May 11, 1986",52.80,A,82,100,182,,53kgWomen,Total,117,True
+2,AZIKE Onyeka,NGR,"Jul 01, 1990",51.95,A,80,100,180,,53kgWomen,Total,117,True
+3,RAIHAN Binti Yusoff,MAS,"Jul 01, 1988",52.84,A,80,95,175,,53kgWomen,Total,117,True
+4,SINGH Swati,IND,"Oct 02, 1987",52.90,A,74,92,166,,53kgWomen,Total,117,True
+5,CALVINO Joanne Elizabeth,GBR,"Aug 18, 1980",52.45,A,66,93,159,,53kgWomen,Total,117,True
+6,HOWARD Kate,NZL,"Sep 24, 1979",52.65,A,70,83,153,,53kgWomen,Total,117,True
+7,BINTI SYD ANUAR Sharifah Inani Najwa,MAS,"Jan 01, 1990",52.00,A,67,83,150,,53kgWomen,Total,117,True
+8,WONG Kar Mun Helena,SGP,"Apr 11, 1988",51.93,A,66,80,146,,53kgWomen,Total,117,True
+9,DOGODO Hitolo,PNG,"Sep 27, 1992",52.44,A,63,75,138,,53kgWomen,Total,117,True
+10,PARVIN Firoga,BAN,"Jul 15, 1984",52.56,A,63,73,136,,53kgWomen,Total,117,True
+11,ALINAFE Mchochomi,MAW,"Nov 14, 1993",52.21,A,47,65,112,,53kgWomen,Total,117,True
+---,PRETORIUS Mona,RSA,"Aug 12, 1988",57.38,A,76,-80,-80,76,58kgWomen,Snatch,117,True
+---,AKTHER Fayema,BAN,"Dec 15, 1991",57.42,A,65,70,72,72,58kgWomen,Snatch,117,True
+---,JEWELL Helen Jane,GBR,"Nov 29, 1988",57.13,A,-77,77,-81,77,58kgWomen,Snatch,117,True
+---,KASSMAN Monalisa Naime,PNG,"Nov 05, 1992",56.91,A,50,55,-60,55,58kgWomen,Snatch,117,True
+---,KARI Rita,PNG,"Sep 03, 1989",57.71,A,-75,75,-80,75,58kgWomen,Snatch,117,True
+---,MONIQUI Annie Marie Roseline Gatienne,CAN,"Mar 28, 1990",57.55,A,-80,80,82,82,58kgWomen,Snatch,117,True
+---,QUARTON Emily,CAN,"Aug 09, 1984",57.90,A,-80,80,-82,80,58kgWomen,Snatch,117,True
+---,WINIFRED Ndidi Eze,NGR,"Sep 22, 1988",57.45,A,-84,---,---,---,58kgWomen,Snatch,117,True
+---,YUMNAM Renu Bala Chanu,IND,"Oct 02, 1986",57.93,A,84,88,90,90,58kgWomen,Snatch,117,True
+---,LEE Seen,AUS,"Nov 15, 1982",57.64,A,86,-89,-90,86,58kgWomen,Snatch,117,True
+---,SMITH Zoe,GBR,"Apr 26, 1994",57.98,A,-80,80,85,85,58kgWomen,Snatch,117,True
+---,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",57.59,A,83,-87,87,87,58kgWomen,Snatch,117,True
+DSQ,BAKAM TZUCHE Pilar,CMR,"Apr 10, 1988",57.76,A,75,-78,-78,---,58kgWomen,Snatch,117,True
+---,PRETORIUS Mona,RSA,"Aug 12, 1988",57.38,A,-96,-96,-96,---,58kgWomen,CleanJerk,117,True
+---,AKTHER Fayema,BAN,"Dec 15, 1991",57.42,A,88,92,-96,92,58kgWomen,CleanJerk,117,True
+---,JEWELL Helen Jane,GBR,"Nov 29, 1988",57.13,A,-93,-93,93,93,58kgWomen,CleanJerk,117,True
+---,KASSMAN Monalisa Naime,PNG,"Nov 05, 1992",56.91,A,65,-70,70,70,58kgWomen,CleanJerk,117,True
+---,KARI Rita,PNG,"Sep 03, 1989",57.71,A,103,-106,-106,103,58kgWomen,CleanJerk,117,True
+---,MONIQUI Annie Marie Roseline Gatienne,CAN,"Mar 28, 1990",57.55,A,99,102,-103,102,58kgWomen,CleanJerk,117,True
+---,QUARTON Emily,CAN,"Aug 09, 1984",57.90,A,-101,102,105,105,58kgWomen,CleanJerk,117,True
+---,WINIFRED Ndidi Eze,NGR,"Sep 22, 1988",57.45,A,---,---,---,---,58kgWomen,CleanJerk,117,True
+---,YUMNAM Renu Bala Chanu,IND,"Oct 02, 1986",57.93,A,104,107,-113,107,58kgWomen,CleanJerk,117,True
+---,LEE Seen,AUS,"Nov 15, 1982",57.64,A,103,106,-111,106,58kgWomen,CleanJerk,117,True
+---,SMITH Zoe,GBR,"Apr 26, 1994",57.98,A,103,-108,-108,103,58kgWomen,CleanJerk,117,True
+---,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",57.59,A,100,-105,---,100,58kgWomen,CleanJerk,117,True
+DSQ,BAKAM TZUCHE Pilar,CMR,"Apr 10, 1988",57.76,A,96,-100,-101,---,58kgWomen,CleanJerk,117,True
+1,YUMNAM Renu Bala Chanu,IND,"Oct 02, 1986",57.93,A,90,107,197,,58kgWomen,Total,117,True
+2,LEE Seen,AUS,"Nov 15, 1982",57.64,A,86,106,192,,58kgWomen,Total,117,True
+3,SMITH Zoe,GBR,"Apr 26, 1994",57.98,A,85,103,188,,58kgWomen,Total,117,True
+4,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",57.59,A,87,100,187,,58kgWomen,Total,117,True
+5,QUARTON Emily,CAN,"Aug 09, 1984",57.90,A,80,105,185,,58kgWomen,Total,117,True
+6,MONIQUI Annie Marie Roseline Gatienne,CAN,"Mar 28, 1990",57.55,A,82,102,184,,58kgWomen,Total,117,True
+7,KARI Rita,PNG,"Sep 03, 1989",57.71,A,75,103,178,,58kgWomen,Total,117,True
+8,JEWELL Helen Jane,GBR,"Nov 29, 1988",57.13,A,77,93,170,,58kgWomen,Total,117,True
+9,AKTHER Fayema,BAN,"Dec 15, 1991",57.42,A,72,92,164,,58kgWomen,Total,117,True
+10,KASSMAN Monalisa Naime,PNG,"Nov 05, 1992",56.91,A,55,70,125,,58kgWomen,Total,117,True
+---,PRETORIUS Mona,RSA,"Aug 12, 1988",57.38,A,76,---,---,,58kgWomen,Total,117,True
+---,WINIFRED Ndidi Eze,NGR,"Sep 22, 1988",57.45,A,---,---,---,,58kgWomen,Total,117,True
+DSQ,BAKAM TZUCHE Pilar,CMR,"Apr 10, 1988",57.76,A,---,---,---,,58kgWomen,Total,117,True
+---,BREEZE Michaela Alica,WAL,"May 17, 1979",61.68,A,90,92,-94,92,63kgWomen,Snatch,117,True
+---,TYRELL Urima,SAM,"Jan 08, 1992",62.49,A,63,-66,-66,63,63kgWomen,Snatch,117,True
+---,WINI Jenly Tegu,SOL,"Jun 09, 1983",60.40,A,65,70,-73,70,63kgWomen,Snatch,117,True
+---,TOGAGAE Faitoga,SAM,"Mar 06, 1989",61.87,A,-76,76,-79,76,63kgWomen,Snatch,117,True
+---,NURUL Farhanah Binti Johari,MAS,"Aug 06, 1988",62.72,A,85,90,-92,90,63kgWomen,Snatch,117,True
+---,FEGUE Marie Josephe,CMR,"May 28, 1991",62.83,A,85,-88,89,89,63kgWomen,Snatch,117,True
+---,OKOLI Obioma Agatha,NGR,"Jul 03, 1992",62.46,A,82,87,90,90,63kgWomen,Snatch,117,True
+---,GODLEY Emily Victoria (ENG),GBR,"Oct 22, 1989",62.19,A,-72,-72,-72,---,63kgWomen,Snatch,117,True
+---,BREEZE Michaela Alica,WAL,"May 17, 1979",61.68,A,-110,110,-113,110,63kgWomen,CleanJerk,117,True
+---,TYRELL Urima,SAM,"Jan 08, 1992",62.49,A,80,-85,85,85,63kgWomen,CleanJerk,117,True
+---,WINI Jenly Tegu,SOL,"Jun 09, 1983",60.40,A,90,95,-97,95,63kgWomen,CleanJerk,117,True
+---,TOGAGAE Faitoga,SAM,"Mar 06, 1989",61.87,A,96,100,-104,100,63kgWomen,CleanJerk,117,True
+---,NURUL Farhanah Binti Johari,MAS,"Aug 06, 1988",62.72,A,105,-108,-109,105,63kgWomen,CleanJerk,117,True
+---,FEGUE Marie Josephe,CMR,"May 28, 1991",62.83,A,106,109,-114,109,63kgWomen,CleanJerk,117,True
+---,OKOLI Obioma Agatha,NGR,"Jul 03, 1992",62.46,A,105,115,121,121,63kgWomen,CleanJerk,117,True
+---,GODLEY Emily Victoria (ENG),GBR,"Oct 22, 1989",62.19,A,---,---,---,---,63kgWomen,CleanJerk,117,True
+1,OKOLI Obioma Agatha,NGR,"Jul 03, 1992",62.46,A,90,121,211,,63kgWomen,Total,117,True
+2,BREEZE Michaela Alica,WAL,"May 17, 1979",61.68,A,92,110,202,,63kgWomen,Total,117,True
+3,FEGUE Marie Josephe,CMR,"May 28, 1991",62.83,A,89,109,198,,63kgWomen,Total,117,True
+4,NURUL Farhanah Binti Johari,MAS,"Aug 06, 1988",62.72,A,90,105,195,,63kgWomen,Total,117,True
+5,TOGAGAE Faitoga,SAM,"Mar 06, 1989",61.87,A,76,100,176,,63kgWomen,Total,117,True
+6,WINI Jenly Tegu,SOL,"Jun 09, 1983",60.40,A,70,95,165,,63kgWomen,Total,117,True
+7,TYRELL Urima,SAM,"Jan 08, 1992",62.49,A,63,85,148,,63kgWomen,Total,117,True
+---,GODLEY Emily Victoria (ENG),GBR,"Oct 22, 1989",62.19,A,---,---,---,,63kgWomen,Total,117,True
+---,GIRARD Christine,CAN,"Jan 03, 1985",68.89,A,97,101,105,105,69kgWomen,Snatch,117,True
+---,ABDUL HALIM Nor Khasida Binti,MAS,"Nov 05, 1991",67.85,A,71,-75,75,75,69kgWomen,Snatch,117,True
+---,WOTENICK Kerri,GBR,"Aug 04, 1983",68.82,A,-75,75,-78,75,69kgWomen,Snatch,117,True
+---,NYANGA Prossy Irene,UGA,"Aug 15, 1989",68.01,A,70,75,-77,75,69kgWomen,Snatch,117,True
+---,ABOTSI Dora Afi,GHA,"Feb 22, 1991",67.03,A,73,-76,76,76,69kgWomen,Snatch,117,True
+---,GUBA Hale Mea,PNG,"Jun 07, 1986",68.16,A,-80,80,-85,80,69kgWomen,Snatch,117,True
+---,PERDUE Natasha,WAL,"Jul 27, 1975",67.61,A,-90,-90,-90,---,69kgWomen,Snatch,117,True
+---,VAN TIENEN Belinda,AUS,"Nov 04, 1986",68.82,A,83,-86,-86,83,69kgWomen,Snatch,117,True
+---,GEORGES Janet Marie,SEY,"Jan 05, 1979",68.34,A,95,100,-102,100,69kgWomen,Snatch,117,True
+---,OBIERO Mercy Apondi,KEN,"Aug 27, 1978",67.44,A,76,78,80,80,69kgWomen,Snatch,117,True
+---,ARES-PILON Marie-Josee,CAN,"Apr 30, 1982",67.02,A,-90,90,92,92,69kgWomen,Snatch,117,True
+---,EBIREGUESELE Itohan,NGR,"Jul 31, 1990",68.40,A,95,-100,-100,95,69kgWomen,Snatch,117,True
+---,GIRARD Christine,CAN,"Jan 03, 1985",68.89,A,126,130,-133,130,69kgWomen,CleanJerk,117,True
+---,ABDUL HALIM Nor Khasida Binti,MAS,"Nov 05, 1991",67.85,A,91,96,-100,96,69kgWomen,CleanJerk,117,True
+---,WOTENICK Kerri,GBR,"Aug 04, 1983",68.82,A,-90,-90,90,90,69kgWomen,CleanJerk,117,True
+---,NYANGA Prossy Irene,UGA,"Aug 15, 1989",68.01,A,85,90,-95,90,69kgWomen,CleanJerk,117,True
+---,ABOTSI Dora Afi,GHA,"Feb 22, 1991",67.03,A,90,-93,93,93,69kgWomen,CleanJerk,117,True
+---,GUBA Hale Mea,PNG,"Jun 07, 1986",68.16,A,-100,100,-104,100,69kgWomen,CleanJerk,117,True
+---,PERDUE Natasha,WAL,"Jul 27, 1975",67.61,A,---,---,---,---,69kgWomen,CleanJerk,117,True
+---,VAN TIENEN Belinda,AUS,"Nov 04, 1986",68.82,A,104,-107,-107,104,69kgWomen,CleanJerk,117,True
+---,GEORGES Janet Marie,SEY,"Jan 05, 1979",68.34,A,111,-116,116,116,69kgWomen,CleanJerk,117,True
+---,OBIERO Mercy Apondi,KEN,"Aug 27, 1978",67.44,A,-106,106,110,110,69kgWomen,CleanJerk,117,True
+---,ARES-PILON Marie-Josee,CAN,"Apr 30, 1982",67.02,A,110,115,-119,115,69kgWomen,CleanJerk,117,True
+---,EBIREGUESELE Itohan,NGR,"Jul 31, 1990",68.40,A,120,-126,-126,120,69kgWomen,CleanJerk,117,True
+1,GIRARD Christine,CAN,"Jan 03, 1985",68.89,A,105,130,235,,69kgWomen,Total,117,True
+2,GEORGES Janet Marie,SEY,"Jan 05, 1979",68.34,A,100,116,216,,69kgWomen,Total,117,True
+3,EBIREGUESELE Itohan,NGR,"Jul 31, 1990",68.40,A,95,120,215,,69kgWomen,Total,117,True
+4,ARES-PILON Marie-Josee,CAN,"Apr 30, 1982",67.02,A,92,115,207,,69kgWomen,Total,117,True
+5,OBIERO Mercy Apondi,KEN,"Aug 27, 1978",67.44,A,80,110,190,,69kgWomen,Total,117,True
+6,VAN TIENEN Belinda,AUS,"Nov 04, 1986",68.82,A,83,104,187,,69kgWomen,Total,117,True
+7,GUBA Hale Mea,PNG,"Jun 07, 1986",68.16,A,80,100,180,,69kgWomen,Total,117,True
+8,ABDUL HALIM Nor Khasida Binti,MAS,"Nov 05, 1991",67.85,A,75,96,171,,69kgWomen,Total,117,True
+9,ABOTSI Dora Afi,GHA,"Feb 22, 1991",67.03,A,76,93,169,,69kgWomen,Total,117,True
+10,NYANGA Prossy Irene,UGA,"Aug 15, 1989",68.01,A,75,90,165,,69kgWomen,Total,117,True
+11,WOTENICK Kerri,GBR,"Aug 04, 1983",68.82,A,75,90,165,,69kgWomen,Total,117,True
+---,PERDUE Natasha,WAL,"Jul 27, 1975",67.61,A,---,---,---,,69kgWomen,Total,117,True
+---,DETENAMO Micheala,NRU,"Sep 28, 1992",74.24,A,85,90,-94,90,75kgWomen,Snatch,117,True
+---,WILLIAMS Katelynn,CAN,"May 12, 1987",72.28,A,83,88,-90,88,75kgWomen,Snatch,117,True
+---,NDLELENI Babalwa,RSA,"Mar 14, 1979",73.84,A,-83,83,-88,83,75kgWomen,Snatch,117,True
+---,PHILLIPS Amanda,AUS,"Jul 04, 1981",74.18,A,83,86,-88,86,75kgWomen,Snatch,117,True
+---,AMPOMAH Alberta Boatema,GHA,"Nov 03, 1994",72.25,A,65,67,70,70,75kgWomen,Snatch,117,True
+---,EDWARDS Kristin Camille A,BAR,"May 31, 1986",74.17,A,-62,-62,-62,---,75kgWomen,Snatch,117,True
+---,SINGH Srishti,IND,"Aug 05, 1990",74.66,A,-90,-90,90,90,75kgWomen,Snatch,117,True
+---,MYERS Jenna Anne,AUS,"Mar 01, 1986",74.22,A,92,-95,95,95,75kgWomen,Snatch,117,True
+---,OPELOGE Mary,SAM,"Jan 24, 1992",74.26,A,-93,93,-96,93,75kgWomen,Snatch,117,True
+---,ARISHA Farra,MAS,"Jan 19, 1988",74.93,A,-80,-80,-86,---,75kgWomen,Snatch,117,True
+---,ZAKARI Hadiza,NGR,"Sep 10, 1987",73.96,A,100,105,110,110,75kgWomen,Snatch,117,True
+---,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Oct 13, 1988",74.67,A,95,99,-102,99,75kgWomen,Snatch,117,True
+---,DEVI Laishram Monika,IND,"Mar 01, 1983",70.61,A,95,-99,-99,95,75kgWomen,Snatch,117,True
+---,NZESSO NGAKE Madias Dodo,CMR,"Apr 20, 1992",73.75,A,95,-98,-99,95,75kgWomen,Snatch,117,True
+---,DETENAMO Micheala,NRU,"Sep 28, 1992",74.24,A,110,-114,-114,110,75kgWomen,CleanJerk,117,True
+---,WILLIAMS Katelynn,CAN,"May 12, 1987",72.28,A,103,108,111,111,75kgWomen,CleanJerk,117,True
+---,NDLELENI Babalwa,RSA,"Mar 14, 1979",73.84,A,108,113,-117,113,75kgWomen,CleanJerk,117,True
+---,PHILLIPS Amanda,AUS,"Jul 04, 1981",74.18,A,105,110,-114,110,75kgWomen,CleanJerk,117,True
+---,AMPOMAH Alberta Boatema,GHA,"Nov 03, 1994",72.25,A,90,95,-97,95,75kgWomen,CleanJerk,117,True
+---,EDWARDS Kristin Camille A,BAR,"May 31, 1986",74.17,A,---,---,---,---,75kgWomen,CleanJerk,117,True
+---,SINGH Srishti,IND,"Aug 05, 1990",74.66,A,112,116,-119,116,75kgWomen,CleanJerk,117,True
+---,MYERS Jenna Anne,AUS,"Mar 01, 1986",74.22,A,113,-119,-122,113,75kgWomen,CleanJerk,117,True
+---,OPELOGE Mary,SAM,"Jan 24, 1992",74.26,A,117,121,-125,121,75kgWomen,CleanJerk,117,True
+---,ARISHA Farra,MAS,"Jan 19, 1988",74.93,A,---,---,---,---,75kgWomen,CleanJerk,117,True
+---,ZAKARI Hadiza,NGR,"Sep 10, 1987",73.96,A,120,125,129,129,75kgWomen,CleanJerk,117,True
+---,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Oct 13, 1988",74.67,A,122,126,-131,126,75kgWomen,CleanJerk,117,True
+---,DEVI Laishram Monika,IND,"Mar 01, 1983",70.61,A,118,121,-126,121,75kgWomen,CleanJerk,117,True
+---,NZESSO NGAKE Madias Dodo,CMR,"Apr 20, 1992",73.75,A,116,121,---,121,75kgWomen,CleanJerk,117,True
+1,ZAKARI Hadiza,NGR,"Sep 10, 1987",73.96,A,110,129,239,,75kgWomen,Total,117,True
+2,BEAUCHEMIN-NADEAU Marie-Eve,CAN,"Oct 13, 1988",74.67,A,99,126,225,,75kgWomen,Total,117,True
+3,DEVI Laishram Monika,IND,"Mar 01, 1983",70.61,A,95,121,216,,75kgWomen,Total,117,True
+4,NZESSO NGAKE Madias Dodo,CMR,"Apr 20, 1992",73.75,A,95,121,216,,75kgWomen,Total,117,True
+5,OPELOGE Mary,SAM,"Jan 24, 1992",74.26,A,93,121,214,,75kgWomen,Total,117,True
+6,MYERS Jenna Anne,AUS,"Mar 01, 1986",74.22,A,95,113,208,,75kgWomen,Total,117,True
+7,SINGH Srishti,IND,"Aug 05, 1990",74.66,A,90,116,206,,75kgWomen,Total,117,True
+8,DETENAMO Micheala,NRU,"Sep 28, 1992",74.24,A,90,110,200,,75kgWomen,Total,117,True
+9,WILLIAMS Katelynn,CAN,"May 12, 1987",72.28,A,88,111,199,,75kgWomen,Total,117,True
+10,NDLELENI Babalwa,RSA,"Mar 14, 1979",73.84,A,83,113,196,,75kgWomen,Total,117,True
+11,PHILLIPS Amanda,AUS,"Jul 04, 1981",74.18,A,86,110,196,,75kgWomen,Total,117,True
+12,AMPOMAH Alberta Boatema,GHA,"Nov 03, 1994",72.25,A,70,95,165,,75kgWomen,Total,117,True
+---,EDWARDS Kristin Camille A,BAR,"May 31, 1986",74.17,A,---,---,---,,75kgWomen,Total,117,True
+---,ARISHA Farra,MAS,"Jan 19, 1988",74.93,A,---,---,---,,75kgWomen,Total,117,True
+---,NXUMALO Xolile,SWZ,"Mar 03, 1970",83.87,A,60,-65,-65,60,+75kgWomen,Snatch,117,True
+---,OPELOGE Ele,SAM,"Jul 11, 1985",123.09,A,120,125,-130,125,+75kgWomen,Snatch,117,True
+---,USMAN Maryam,NGR,"Nov 09, 1990",116.97,A,115,-120,-120,115,+75kgWomen,Snatch,117,True
+---,PETERS Luisa Fatiaki Taitapu,COK,"Jun 27, 1993",88.72,A,62,65,70,70,+75kgWomen,Snatch,117,True
+---,GEETA Rani,IND,"Sep 16, 1981",113.79,A,95,100,-103,100,+75kgWomen,Snatch,117,True
+---,ACASON Deborah Esther Ainslie,AUS,"Jun 20, 1983",92.95,A,106,110,-113,110,+75kgWomen,Snatch,117,True
+---,LAMBRECHS Tracey,NZL,"Aug 27, 1985",100.09,A,94,99,-102,99,+75kgWomen,Snatch,117,True
+---,VILIAMU Narita Janne Freda Tuga,NIU,"Jul 04, 1989",145.52,A,90,-95,-95,90,+75kgWomen,Snatch,117,True
+---,VALAYDON Shalinee,MRI,"Apr 13, 1986",100.05,A,-75,80,83,83,+75kgWomen,Snatch,117,True
+---,SIMANU Iuniarra,SAM,"Jun 25, 1993",100.38,A,82,86,-90,86,+75kgWomen,Snatch,117,True
+---,NAMUSOKE Becky,UGA,"Dec 10, 1990",96.47,A,72,76,80,80,+75kgWomen,Snatch,117,True
+---,NXUMALO Xolile,SWZ,"Mar 03, 1970",83.87,A,82,87,-90,87,+75kgWomen,CleanJerk,117,True
+---,OPELOGE Ele,SAM,"Jul 11, 1985",123.09,A,150,160,-165,160,+75kgWomen,CleanJerk,117,True
+---,USMAN Maryam,NGR,"Nov 09, 1990",116.97,A,140,-150,-150,140,+75kgWomen,CleanJerk,117,True
+---,PETERS Luisa Fatiaki Taitapu,COK,"Jun 27, 1993",88.72,A,81,85,-88,85,+75kgWomen,CleanJerk,117,True
+---,GEETA Rani,IND,"Sep 16, 1981",113.79,A,125,130,135,135,+75kgWomen,CleanJerk,117,True
+---,ACASON Deborah Esther Ainslie,AUS,"Jun 20, 1983",92.95,A,130,135,-145,135,+75kgWomen,CleanJerk,117,True
+---,LAMBRECHS Tracey,NZL,"Aug 27, 1985",100.09,A,120,124,127,127,+75kgWomen,CleanJerk,117,True
+---,VILIAMU Narita Janne Freda Tuga,NIU,"Jul 04, 1989",145.52,A,125,-130,-130,125,+75kgWomen,CleanJerk,117,True
+---,VALAYDON Shalinee,MRI,"Apr 13, 1986",100.05,A,95,101,105,105,+75kgWomen,CleanJerk,117,True
+---,SIMANU Iuniarra,SAM,"Jun 25, 1993",100.38,A,105,110,-112,110,+75kgWomen,CleanJerk,117,True
+---,NAMUSOKE Becky,UGA,"Dec 10, 1990",96.47,A,90,96,101,101,+75kgWomen,CleanJerk,117,True
+1,OPELOGE Ele,SAM,"Jul 11, 1985",123.09,A,125,160,285,,+75kgWomen,Total,117,True
+2,USMAN Maryam,NGR,"Nov 09, 1990",116.97,A,115,140,255,,+75kgWomen,Total,117,True
+3,ACASON Deborah Esther Ainslie,AUS,"Jun 20, 1983",92.95,A,110,135,245,,+75kgWomen,Total,117,True
+4,GEETA Rani,IND,"Sep 16, 1981",113.79,A,100,135,235,,+75kgWomen,Total,117,True
+5,LAMBRECHS Tracey,NZL,"Aug 27, 1985",100.09,A,99,127,226,,+75kgWomen,Total,117,True
+6,VILIAMU Narita Janne Freda Tuga,NIU,"Jul 04, 1989",145.52,A,90,125,215,,+75kgWomen,Total,117,True
+7,SIMANU Iuniarra,SAM,"Jun 25, 1993",100.38,A,86,110,196,,+75kgWomen,Total,117,True
+8,VALAYDON Shalinee,MRI,"Apr 13, 1986",100.05,A,83,105,188,,+75kgWomen,Total,117,True
+9,NAMUSOKE Becky,UGA,"Dec 10, 1990",96.47,A,80,101,181,,+75kgWomen,Total,117,True
+10,PETERS Luisa Fatiaki Taitapu,COK,"Jun 27, 1993",88.72,A,70,85,155,,+75kgWomen,Total,117,True
+11,NXUMALO Xolile,SWZ,"Mar 03, 1970",83.87,A,60,87,147,,+75kgWomen,Total,117,True

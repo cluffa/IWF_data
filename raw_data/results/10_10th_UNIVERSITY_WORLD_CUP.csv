@@ -1,268 +1,268 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,DU Binghao,CHN,"Born: Jun 17, 1984",B.weight: 55.97,Group: A,1: 110,2: -120,3: 120,Total: 120,56kgMen,Snatch,10
-Rank: 2,ROMO Alejandro,MEX,"Born: Jul 24, 1979",B.weight: 55.89,Group: A,1: 92,2: 97,3: -101,Total: 97,56kgMen,Snatch,10
-Rank: 3,GALVEZ Jose,PER,"Born: Aug 10, 1985",B.weight: 55.29,Group: A,1: - 90,2: 90,3: - 96,Total: 90,56kgMen,Snatch,10
-Rank: 4,TSAI Sheng-Fen,TPE,"Born: Oct 27, 1984",B.weight: 55.62,Group: A,1: 90,2: -100,3: -100,Total: 90,56kgMen,Snatch,10
-Rank: 1,DU Binghao,CHN,"Born: Jun 17, 1984",B.weight: 55.97,Group: A,1: 140,2: -150,3: -150,Total: 140,56kgMen,CleanJerk,10
-Rank: 2,TSAI Sheng-Fen,TPE,"Born: Oct 27, 1984",B.weight: 55.62,Group: A,1: 121,2: 128,3: 135,Total: 135,56kgMen,CleanJerk,10
-Rank: 3,GALVEZ Jose,PER,"Born: Aug 10, 1985",B.weight: 55.29,Group: A,1: 120,2: 125,3: 127,Total: 127,56kgMen,CleanJerk,10
-Rank: 4,ROMO Alejandro,MEX,"Born: Jul 24, 1979",B.weight: 55.89,Group: A,1: 120,2: -125,3: -125,Total: 120,56kgMen,CleanJerk,10
-Rank: 1,DU Binghao,CHN,"Born: Jun 17, 1984",B.weight: 55.97,Group: A,Snatch: 120,CI&Jerk: 140,Total: 260,,56kgMen,Total,10
-Rank: 2,TSAI Sheng-Fen,TPE,"Born: Oct 27, 1984",B.weight: 55.62,Group: A,Snatch: 90,CI&Jerk: 135,Total: 225,,56kgMen,Total,10
-Rank: 3,GALVEZ Jose,PER,"Born: Aug 10, 1985",B.weight: 55.29,Group: A,Snatch: 90,CI&Jerk: 127,Total: 217,,56kgMen,Total,10
-Rank: 4,ROMO Alejandro,MEX,"Born: Jul 24, 1979",B.weight: 55.89,Group: A,Snatch: 97,CI&Jerk: 120,Total: 217,,56kgMen,Total,10
-Rank: 1,ZHANG Xiangxiang,CHN,"Born: Jul 16, 1983",B.weight: 61.92,Group: A,1: 133,2: -138,3: -138,Total: 133,62kgMen,Snatch,10
-Rank: 2,LAZARO MAYKEL Ruiz Gasso,CUB,"Born: Oct 12, 1984",B.weight: 60.28,Group: A,1: 114,2: 117,3: 123,Total: 123,62kgMen,Snatch,10
-Rank: 3,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.93,Group: A,1: 108,2: 111,3: 115,Total: 115,62kgMen,Snatch,10
-Rank: 4,YAMAUCHI Kyle,USA,"Born: Mar 05, 1983",B.weight: 61.57,Group: A,1: 106,2: 110,3: -113,Total: 110,62kgMen,Snatch,10
-Rank: 5,KATSOULIDIS Panayotis,GRE,"Born: May 13, 1987",B.weight: 61.53,Group: A,1: -100,2: 100,3: 103,Total: 103,62kgMen,Snatch,10
-Rank: 6,EUAN Jose,MEX,"Born: Jan 22, 1984",B.weight: 62.00,Group: A,1: 85,2: 90,3: - 95,Total: 90,62kgMen,Snatch,10
-Rank: ---,CUENCA Marco,ECU,"Born: Jan 06, 1981",B.weight: 61.93,Group: A,1: -103,2: -103,3: -103,Total: ---,62kgMen,Snatch,10
-Rank: 1,ZHANG Xiangxiang,CHN,"Born: Jul 16, 1983",B.weight: 61.92,Group: A,1: -160,2: 160,3: -165,Total: 160,62kgMen,CleanJerk,10
-Rank: 2,LAZARO MAYKEL Ruiz Gasso,CUB,"Born: Oct 12, 1984",B.weight: 60.28,Group: A,1: 145,2: -152,3: -152,Total: 145,62kgMen,CleanJerk,10
-Rank: 3,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.93,Group: A,1: 137,2: 141,3: -145,Total: 141,62kgMen,CleanJerk,10
-Rank: 4,YAMAUCHI Kyle,USA,"Born: Mar 05, 1983",B.weight: 61.57,Group: A,1: 132,2: 136,3: 140,Total: 140,62kgMen,CleanJerk,10
-Rank: 5,CUENCA Marco,ECU,"Born: Jan 06, 1981",B.weight: 61.93,Group: A,1: -135,2: -135,3: 135,Total: 135,62kgMen,CleanJerk,10
-Rank: 6,KATSOULIDIS Panayotis,GRE,"Born: May 13, 1987",B.weight: 61.53,Group: A,1: 120,2: -125,3: 125,Total: 125,62kgMen,CleanJerk,10
-Rank: 7,EUAN Jose,MEX,"Born: Jan 22, 1984",B.weight: 62.00,Group: A,1: 110,2: 115,3: 120,Total: 120,62kgMen,CleanJerk,10
-Rank: 1,ZHANG Xiangxiang,CHN,"Born: Jul 16, 1983",B.weight: 61.92,Group: A,Snatch: 133,CI&Jerk: 160,Total: 293,,62kgMen,Total,10
-Rank: 2,LAZARO MAYKEL Ruiz Gasso,CUB,"Born: Oct 12, 1984",B.weight: 60.28,Group: A,Snatch: 123,CI&Jerk: 145,Total: 268,,62kgMen,Total,10
-Rank: 3,JOHNSON Derrick Rshone,USA,"Born: Jan 06, 1985",B.weight: 61.93,Group: A,Snatch: 115,CI&Jerk: 141,Total: 256,,62kgMen,Total,10
-Rank: 4,YAMAUCHI Kyle,USA,"Born: Mar 05, 1983",B.weight: 61.57,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,62kgMen,Total,10
-Rank: 5,KATSOULIDIS Panayotis,GRE,"Born: May 13, 1987",B.weight: 61.53,Group: A,Snatch: 103,CI&Jerk: 125,Total: 228,,62kgMen,Total,10
-Rank: 6,EUAN Jose,MEX,"Born: Jan 22, 1984",B.weight: 62.00,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,62kgMen,Total,10
-Rank: ---,CUENCA Marco,ECU,"Born: Jan 06, 1981",B.weight: 61.93,Group: A,Snatch: ---,CI&Jerk: 135,Total: ---,,62kgMen,Total,10
-Rank: 1,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 68.92,Group: A,1: -145,2: 145,3: -150,Total: 145,69kgMen,Snatch,10
-Rank: 2,AROCA Faiver,COL,"Born: Apr 21, 1981",B.weight: 68.57,Group: A,1: -117,2: -117,3: 118,Total: 118,69kgMen,Snatch,10
-Rank: 3,GARCIA SERRANO Fernando Tomas,ESP,"Born: Oct 08, 1986",B.weight: 68.04,Group: A,1: 110,2: 115,3: -120,Total: 115,69kgMen,Snatch,10
-Rank: 4,LESCANO GUERRERO Arturo David,PER,"Born: Jun 16, 1988",B.weight: 67.91,Group: A,1: 100,2: -106,3: 106,Total: 106,69kgMen,Snatch,10
-Rank: 5,BYRD Cathal,IRL,"Born: Aug 15, 1986",B.weight: 67.71,Group: A,1: 97,2: 102,3: -105,Total: 102,69kgMen,Snatch,10
-Rank: 6,TREJO Orlando,PER,"Born: May 06, 1988",B.weight: 68.91,Group: A,1: 90,2: - 95,3: 95,Total: 95,69kgMen,Snatch,10
-Rank: 7,SALINAS Leonardo Gonzalez,CHI,"Born: May 21, 1987",B.weight: 64.38,Group: A,1: - 85,2: 87,3: - 93,Total: 87,69kgMen,Snatch,10
-Rank: 1,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 68.92,Group: A,1: -180,2: -180,3: 180,Total: 180,69kgMen,CleanJerk,10
-Rank: 2,AROCA Faiver,COL,"Born: Apr 21, 1981",B.weight: 68.57,Group: A,1: 143,2: 145,3: ---,Total: 145,69kgMen,CleanJerk,10
-Rank: 3,LESCANO GUERRERO Arturo David,PER,"Born: Jun 16, 1988",B.weight: 67.91,Group: A,1: 132,2: -137,3: 140,Total: 140,69kgMen,CleanJerk,10
-Rank: 4,GARCIA SERRANO Fernando Tomas,ESP,"Born: Oct 08, 1986",B.weight: 68.04,Group: A,1: 133,2: 138,3: -141,Total: 138,69kgMen,CleanJerk,10
-Rank: 5,BYRD Cathal,IRL,"Born: Aug 15, 1986",B.weight: 67.71,Group: A,1: -125,2: -125,3: 125,Total: 125,69kgMen,CleanJerk,10
-Rank: 6,TREJO Orlando,PER,"Born: May 06, 1988",B.weight: 68.91,Group: A,1: 117,2: -122,3: 122,Total: 122,69kgMen,CleanJerk,10
-Rank: 7,SALINAS Leonardo Gonzalez,CHI,"Born: May 21, 1987",B.weight: 64.38,Group: A,1: 110,2: -115,3: -117,Total: 110,69kgMen,CleanJerk,10
-Rank: 1,LIAO Hui,CHN,"Born: Oct 05, 1987",B.weight: 68.92,Group: A,Snatch: 145,CI&Jerk: 180,Total: 325,,69kgMen,Total,10
-Rank: 2,AROCA Faiver,COL,"Born: Apr 21, 1981",B.weight: 68.57,Group: A,Snatch: 118,CI&Jerk: 145,Total: 263,,69kgMen,Total,10
-Rank: 3,GARCIA SERRANO Fernando Tomas,ESP,"Born: Oct 08, 1986",B.weight: 68.04,Group: A,Snatch: 115,CI&Jerk: 138,Total: 253,,69kgMen,Total,10
-Rank: 4,LESCANO GUERRERO Arturo David,PER,"Born: Jun 16, 1988",B.weight: 67.91,Group: A,Snatch: 106,CI&Jerk: 140,Total: 246,,69kgMen,Total,10
-Rank: 5,BYRD Cathal,IRL,"Born: Aug 15, 1986",B.weight: 67.71,Group: A,Snatch: 102,CI&Jerk: 125,Total: 227,,69kgMen,Total,10
-Rank: 6,TREJO Orlando,PER,"Born: May 06, 1988",B.weight: 68.91,Group: A,Snatch: 95,CI&Jerk: 122,Total: 217,,69kgMen,Total,10
-Rank: 7,SALINAS Leonardo Gonzalez,CHI,"Born: May 21, 1987",B.weight: 64.38,Group: A,Snatch: 87,CI&Jerk: 110,Total: 197,,69kgMen,Total,10
-Rank: 1,LIU Haihua,CHN,"Born: Aug 14, 1983",B.weight: 76.79,Group: A,1: -152,2: 153,3: 160,Total: 160,77kgMen,Snatch,10
-Rank: 2,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 76.26,Group: A,1: 146,2: 152,3: -153,Total: 152,77kgMen,Snatch,10
-Rank: 3,WOODARD Henry II,USA,"Born: Mar 30, 1987",B.weight: 76.63,Group: A,1: 125,2: -130,3: -130,Total: 125,77kgMen,Snatch,10
-Rank: 4,BRIMHALL Justin L.,USA,"Born: Sep 12, 1986",B.weight: 76.05,Group: A,1: 106,2: 111,3: 114,Total: 114,77kgMen,Snatch,10
-Rank: 5,BAILEY Walter,CAN,"Born: Jan 11, 1985",B.weight: 76.85,Group: A,1: 107,2: 111,3: -114,Total: 111,77kgMen,Snatch,10
-Rank: 6,FEIJOO Alexander,PER,"Born: Feb 14, 1988",B.weight: 76.01,Group: A,1: 95,2: 100,3: -105,Total: 100,77kgMen,Snatch,10
-Rank: ---,BALCI Cagkan,TUR,"Born: Jan 24, 1987",B.weight: 74.91,Group: A,1: -125,2: -125,3: -125,Total: ---,77kgMen,Snatch,10
-Rank: ---,McGILL Brandon,SCO,"Born: Jun 25, 1985",B.weight: 76.80,Group: A,1: -110,2: -110,3: -110,Total: ---,77kgMen,Snatch,10
-Rank: 1,LIU Haihua,CHN,"Born: Aug 14, 1983",B.weight: 76.79,Group: A,1: 175,2: 185,3: -190,Total: 185,77kgMen,CleanJerk,10
-Rank: 2,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 76.26,Group: A,1: 160,2: 168,3: 172,Total: 172,77kgMen,CleanJerk,10
-Rank: 3,WOODARD Henry II,USA,"Born: Mar 30, 1987",B.weight: 76.63,Group: A,1: 155,2: 157,3: 167,Total: 167,77kgMen,CleanJerk,10
-Rank: 4,BALCI Cagkan,TUR,"Born: Jan 24, 1987",B.weight: 74.91,Group: A,1: 150,2: -155,3: 155,Total: 155,77kgMen,CleanJerk,10
-Rank: 5,BAILEY Walter,CAN,"Born: Jan 11, 1985",B.weight: 76.85,Group: A,1: 137,2: 142,3: -145,Total: 142,77kgMen,CleanJerk,10
-Rank: 6,BRIMHALL Justin L.,USA,"Born: Sep 12, 1986",B.weight: 76.05,Group: A,1: 135,2: 139,3: -142,Total: 139,77kgMen,CleanJerk,10
-Rank: 7,FEIJOO Alexander,PER,"Born: Feb 14, 1988",B.weight: 76.01,Group: A,1: 120,2: -125,3: -125,Total: 120,77kgMen,CleanJerk,10
-Rank: ---,McGILL Brandon,SCO,"Born: Jun 25, 1985",B.weight: 76.80,Group: A,1: ---,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,10
-Rank: 1,LIU Haihua,CHN,"Born: Aug 14, 1983",B.weight: 76.79,Group: A,Snatch: 160,CI&Jerk: 185,Total: 345,,77kgMen,Total,10
-Rank: 2,IDROVO SUAREZ Julio Cesar,ECU,"Born: Mar 15, 1981",B.weight: 76.26,Group: A,Snatch: 152,CI&Jerk: 172,Total: 324,,77kgMen,Total,10
-Rank: 3,WOODARD Henry II,USA,"Born: Mar 30, 1987",B.weight: 76.63,Group: A,Snatch: 125,CI&Jerk: 167,Total: 292,,77kgMen,Total,10
-Rank: 4,BRIMHALL Justin L.,USA,"Born: Sep 12, 1986",B.weight: 76.05,Group: A,Snatch: 114,CI&Jerk: 139,Total: 253,,77kgMen,Total,10
-Rank: 5,BAILEY Walter,CAN,"Born: Jan 11, 1985",B.weight: 76.85,Group: A,Snatch: 111,CI&Jerk: 142,Total: 253,,77kgMen,Total,10
-Rank: 6,FEIJOO Alexander,PER,"Born: Feb 14, 1988",B.weight: 76.01,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,77kgMen,Total,10
-Rank: ---,BALCI Cagkan,TUR,"Born: Jan 24, 1987",B.weight: 74.91,Group: A,Snatch: ---,CI&Jerk: 155,Total: ---,,77kgMen,Total,10
-Rank: ---,McGILL Brandon,SCO,"Born: Jun 25, 1985",B.weight: 76.80,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,77kgMen,Total,10
-Rank: 1,HUANG Zhong,CHN,"Born: Jun 15, 1985",B.weight: 83.32,Group: A,1: 150,2: 160,3: -167,Total: 160,85kgMen,Snatch,10
-Rank: 2,ROBERTS Paul,USA,"Born: Mar 15, 1985",B.weight: 83.32,Group: A,1: 135,2: 138,3: 142,Total: 142,85kgMen,Snatch,10
-Rank: 3,QUITERIO Juan Carlos,DOM,"Born: Feb 06, 1983",B.weight: 83.36,Group: A,1: 137,2: 142,3: -144,Total: 142,85kgMen,Snatch,10
-Rank: 4,KRYCH Zachary Joseph Rusnacko,USA,"Born: Apr 16, 1983",B.weight: 84.55,Group: A,1: -137,2: 137,3: 141,Total: 141,85kgMen,Snatch,10
-Rank: 5,SAGIR Nezir,TUR,"Born: Oct 19, 1983",B.weight: 81.07,Group: A,1: -137,2: 137,3: -142,Total: 137,85kgMen,Snatch,10
-Rank: 6,ARIK Hakan,TUR,"Born: Mar 05, 1985",B.weight: 82.98,Group: A,1: -125,2: 125,3: 130,Total: 130,85kgMen,Snatch,10
-Rank: 7,TANAKA Hiroto,JPN,"Born: Aug 11, 1985",B.weight: 84.76,Group: A,1: -130,2: -130,3: 130,Total: 130,85kgMen,Snatch,10
-Rank: 8,GOREDETZKY Vladimir,ISR,"Born: Mar 20, 1982",B.weight: 80.57,Group: A,1: 110,2: 115,3: -120,Total: 115,85kgMen,Snatch,10
-Rank: 1,HUANG Zhong,CHN,"Born: Jun 15, 1985",B.weight: 83.32,Group: A,1: 185,2: 190,3: 195,Total: 195,85kgMen,CleanJerk,10
-Rank: 2,KRYCH Zachary Joseph Rusnacko,USA,"Born: Apr 16, 1983",B.weight: 84.55,Group: A,1: 177,2: 182,3: 184,Total: 184,85kgMen,CleanJerk,10
-Rank: 3,QUITERIO Juan Carlos,DOM,"Born: Feb 06, 1983",B.weight: 83.36,Group: A,1: -172,2: 172,3: 181,Total: 181,85kgMen,CleanJerk,10
-Rank: 4,SAGIR Nezir,TUR,"Born: Oct 19, 1983",B.weight: 81.07,Group: A,1: -175,2: 175,3: -181,Total: 175,85kgMen,CleanJerk,10
-Rank: 5,TANAKA Hiroto,JPN,"Born: Aug 11, 1985",B.weight: 84.76,Group: A,1: -163,2: 163,3: -168,Total: 163,85kgMen,CleanJerk,10
-Rank: 6,ROBERTS Paul,USA,"Born: Mar 15, 1985",B.weight: 83.32,Group: A,1: 160,2: -165,3: -167,Total: 160,85kgMen,CleanJerk,10
-Rank: 7,ARIK Hakan,TUR,"Born: Mar 05, 1985",B.weight: 82.98,Group: A,1: -155,2: 155,3: -160,Total: 155,85kgMen,CleanJerk,10
-Rank: 8,GOREDETZKY Vladimir,ISR,"Born: Mar 20, 1982",B.weight: 80.57,Group: A,1: -140,2: 140,3: -145,Total: 140,85kgMen,CleanJerk,10
-Rank: 1,HUANG Zhong,CHN,"Born: Jun 15, 1985",B.weight: 83.32,Group: A,Snatch: 160,CI&Jerk: 195,Total: 355,,85kgMen,Total,10
-Rank: 2,KRYCH Zachary Joseph Rusnacko,USA,"Born: Apr 16, 1983",B.weight: 84.55,Group: A,Snatch: 141,CI&Jerk: 184,Total: 325,,85kgMen,Total,10
-Rank: 3,QUITERIO Juan Carlos,DOM,"Born: Feb 06, 1983",B.weight: 83.36,Group: A,Snatch: 142,CI&Jerk: 181,Total: 323,,85kgMen,Total,10
-Rank: 4,SAGIR Nezir,TUR,"Born: Oct 19, 1983",B.weight: 81.07,Group: A,Snatch: 137,CI&Jerk: 175,Total: 312,,85kgMen,Total,10
-Rank: 5,ROBERTS Paul,USA,"Born: Mar 15, 1985",B.weight: 83.32,Group: A,Snatch: 142,CI&Jerk: 160,Total: 302,,85kgMen,Total,10
-Rank: 6,TANAKA Hiroto,JPN,"Born: Aug 11, 1985",B.weight: 84.76,Group: A,Snatch: 130,CI&Jerk: 163,Total: 293,,85kgMen,Total,10
-Rank: 7,ARIK Hakan,TUR,"Born: Mar 05, 1985",B.weight: 82.98,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,85kgMen,Total,10
-Rank: 8,GOREDETZKY Vladimir,ISR,"Born: Mar 20, 1982",B.weight: 80.57,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,85kgMen,Total,10
-Rank: 1,SOTOLONGO Miranda Joel,CUB,"Born: Dec 12, 1982",B.weight: 94.00,Group: A,1: 155,2: 160,3: -165,Total: 160,94kgMen,Snatch,10
-Rank: 2,SONG Jiawen,CHN,"Born: Sep 17, 1982",B.weight: 86.70,Group: A,1: 150,2: 155,3: -160,Total: 155,94kgMen,Snatch,10
-Rank: 3,BASOL Mehmet,TUR,"Born: Aug 14, 1984",B.weight: 92.50,Group: A,1: -133,2: 135,3: 138,Total: 138,94kgMen,Snatch,10
-Rank: 4,SALTSIDIS Christos,GRE,"Born: Jul 02, 1987",B.weight: 92.66,Group: A,1: -135,2: 135,3: -139,Total: 135,94kgMen,Snatch,10
-Rank: 5,VILLA Alvaro,ECU,"Born: Apr 26, 1980",B.weight: 89.58,Group: A,1: -125,2: 125,3: -130,Total: 125,94kgMen,Snatch,10
-Rank: 6,SEGURA Juan,PER,"Born: Sep 18, 1987",B.weight: 88.05,Group: A,1: 110,2: 115,3: 118,Total: 118,94kgMen,Snatch,10
-Rank: 7,MANCO Diego,PER,"Born: May 03, 1986",B.weight: 86.38,Group: A,1: -112,2: -112,3: 112,Total: 112,94kgMen,Snatch,10
-Rank: 1,SOTOLONGO Miranda Joel,CUB,"Born: Dec 12, 1982",B.weight: 94.00,Group: A,1: 197,2: 202,3: 207,Total: 207,94kgMen,CleanJerk,10
-Rank: 2,SONG Jiawen,CHN,"Born: Sep 17, 1982",B.weight: 86.70,Group: A,1: 180,2: 195,3: -202,Total: 195,94kgMen,CleanJerk,10
-Rank: 3,BASOL Mehmet,TUR,"Born: Aug 14, 1984",B.weight: 92.50,Group: A,1: 163,2: 168,3: 170,Total: 170,94kgMen,CleanJerk,10
-Rank: 4,SALTSIDIS Christos,GRE,"Born: Jul 02, 1987",B.weight: 92.66,Group: A,1: 168,2: -174,3: -174,Total: 168,94kgMen,CleanJerk,10
-Rank: 5,VILLA Alvaro,ECU,"Born: Apr 26, 1980",B.weight: 89.58,Group: A,1: 150,2: 155,3: -160,Total: 155,94kgMen,CleanJerk,10
-Rank: 6,SEGURA Juan,PER,"Born: Sep 18, 1987",B.weight: 88.05,Group: A,1: 140,2: 145,3: 150,Total: 150,94kgMen,CleanJerk,10
-Rank: 7,MANCO Diego,PER,"Born: May 03, 1986",B.weight: 86.38,Group: A,1: 140,2: -146,3: 146,Total: 146,94kgMen,CleanJerk,10
-Rank: 1,SOTOLONGO Miranda Joel,CUB,"Born: Dec 12, 1982",B.weight: 94.00,Group: A,Snatch: 160,CI&Jerk: 207,Total: 367,,94kgMen,Total,10
-Rank: 2,SONG Jiawen,CHN,"Born: Sep 17, 1982",B.weight: 86.70,Group: A,Snatch: 155,CI&Jerk: 195,Total: 350,,94kgMen,Total,10
-Rank: 3,BASOL Mehmet,TUR,"Born: Aug 14, 1984",B.weight: 92.50,Group: A,Snatch: 138,CI&Jerk: 170,Total: 308,,94kgMen,Total,10
-Rank: 4,SALTSIDIS Christos,GRE,"Born: Jul 02, 1987",B.weight: 92.66,Group: A,Snatch: 135,CI&Jerk: 168,Total: 303,,94kgMen,Total,10
-Rank: 5,VILLA Alvaro,ECU,"Born: Apr 26, 1980",B.weight: 89.58,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,94kgMen,Total,10
-Rank: 6,SEGURA Juan,PER,"Born: Sep 18, 1987",B.weight: 88.05,Group: A,Snatch: 118,CI&Jerk: 150,Total: 268,,94kgMen,Total,10
-Rank: 7,MANCO Diego,PER,"Born: May 03, 1986",B.weight: 86.38,Group: A,Snatch: 112,CI&Jerk: 146,Total: 258,,94kgMen,Total,10
-Rank: 1,BAYAM Talat,TUR,"Born: May 10, 1981",B.weight: 98.07,Group: A,1: 150,2: -160,3: 160,Total: 160,105kgMen,Snatch,10
-Rank: 2,KATEV Savko,BUL,"Born: May 25, 1984",B.weight: 101.82,Group: A,1: 150,2: -160,3: -160,Total: 150,105kgMen,Snatch,10
-Rank: 3,LAGUNES Ruben,MEX,"Born: Nov 01, 1985",B.weight: 104.57,Group: A,1: 125,2: 130,3: -131,Total: 130,105kgMen,Snatch,10
-Rank: 4,ALIAGA Jasson,PER,"Born: Jun 10, 1984",B.weight: 94.32,Group: A,1: 121,2: -126,3: 127,Total: 127,105kgMen,Snatch,10
-Rank: 5,SALINAS DESCOVICH Ronald Robinson,CHI,"Born: Aug 27, 1985",B.weight: 103.16,Group: A,1: 115,2: 122,3: 126,Total: 126,105kgMen,Snatch,10
-Rank: 6,SATT Bascope Pedro,BOL,"Born: Jan 27, 1986",B.weight: 104.86,Group: A,1: 102,2: -107,3: 107,Total: 107,105kgMen,Snatch,10
-Rank: 7,ORTIZ Rodolfo,PER,"Born: Sep 08, 1982",B.weight: 100.30,Group: A,1: 83,2: 87,3: 90,Total: 90,105kgMen,Snatch,10
-Rank: ---,CHIU Loren,CAN,"Born: Jan 31, 1979",B.weight: 104.58,Group: A,1: -130,2: -130,3: -130,Total: ---,105kgMen,Snatch,10
-Rank: 1,BAYAM Talat,TUR,"Born: May 10, 1981",B.weight: 98.07,Group: A,1: 190,2: 195,3: -202,Total: 195,105kgMen,CleanJerk,10
-Rank: 2,KATEV Savko,BUL,"Born: May 25, 1984",B.weight: 101.82,Group: A,1: 175,2: ---,3: ---,Total: 175,105kgMen,CleanJerk,10
-Rank: 3,ALIAGA Jasson,PER,"Born: Jun 10, 1984",B.weight: 94.32,Group: A,1: 160,2: 165,3: 170,Total: 170,105kgMen,CleanJerk,10
-Rank: 4,CHIU Loren,CAN,"Born: Jan 31, 1979",B.weight: 104.58,Group: A,1: 150,2: -165,3: ---,Total: 150,105kgMen,CleanJerk,10
-Rank: 5,SALINAS DESCOVICH Ronald Robinson,CHI,"Born: Aug 27, 1985",B.weight: 103.16,Group: A,1: 125,2: 135,3: 140,Total: 140,105kgMen,CleanJerk,10
-Rank: 6,ORTIZ Rodolfo,PER,"Born: Sep 08, 1982",B.weight: 100.30,Group: A,1: 114,2: 120,3: -125,Total: 120,105kgMen,CleanJerk,10
-Rank: ---,SATT Bascope Pedro,BOL,"Born: Jan 27, 1986",B.weight: 104.86,Group: A,1: -133,2: -133,3: -133,Total: ---,105kgMen,CleanJerk,10
-Rank: ---,LAGUNES Ruben,MEX,"Born: Nov 01, 1985",B.weight: 104.57,Group: A,1: ---,2: ---,3: ---,Total: ---,105kgMen,CleanJerk,10
-Rank: 1,BAYAM Talat,TUR,"Born: May 10, 1981",B.weight: 98.07,Group: A,Snatch: 160,CI&Jerk: 195,Total: 355,,105kgMen,Total,10
-Rank: 2,KATEV Savko,BUL,"Born: May 25, 1984",B.weight: 101.82,Group: A,Snatch: 150,CI&Jerk: 175,Total: 325,,105kgMen,Total,10
-Rank: 3,ALIAGA Jasson,PER,"Born: Jun 10, 1984",B.weight: 94.32,Group: A,Snatch: 127,CI&Jerk: 170,Total: 297,,105kgMen,Total,10
-Rank: 4,SALINAS DESCOVICH Ronald Robinson,CHI,"Born: Aug 27, 1985",B.weight: 103.16,Group: A,Snatch: 126,CI&Jerk: 140,Total: 266,,105kgMen,Total,10
-Rank: 5,ORTIZ Rodolfo,PER,"Born: Sep 08, 1982",B.weight: 100.30,Group: A,Snatch: 90,CI&Jerk: 120,Total: 210,,105kgMen,Total,10
-Rank: ---,CHIU Loren,CAN,"Born: Jan 31, 1979",B.weight: 104.58,Group: A,Snatch: ---,CI&Jerk: 150,Total: ---,,105kgMen,Total,10
-Rank: ---,SATT Bascope Pedro,BOL,"Born: Jan 27, 1986",B.weight: 104.86,Group: A,Snatch: 107,CI&Jerk: ---,Total: ---,,105kgMen,Total,10
-Rank: ---,LAGUNES Ruben,MEX,"Born: Nov 01, 1985",B.weight: 104.57,Group: A,Snatch: 130,CI&Jerk: ---,Total: ---,,105kgMen,Total,10
-Rank: 1,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 135.36,Group: A,1: 150,2: 170,3: 177,Total: 177,+105kgMen,Snatch,10
-Rank: 2,JUDGE Patrick,USA,"Born: Mar 06, 1986",B.weight: 149.40,Group: A,1: 142,2: 144,3: 145,Total: 145,+105kgMen,Snatch,10
-Rank: 3,HIROSE Masaya,JPN,"Born: Jul 06, 1986",B.weight: 158.57,Group: A,1: 135,2: 143,3: 145,Total: 145,+105kgMen,Snatch,10
-Rank: 4,ITO Collin,USA,"Born: Apr 05, 1987",B.weight: 131.28,Group: A,1: 137,2: -143,3: 143,Total: 143,+105kgMen,Snatch,10
-Rank: 1,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 135.36,Group: A,1: 200,2: 215,3: -223,Total: 215,+105kgMen,CleanJerk,10
-Rank: 2,HIROSE Masaya,JPN,"Born: Jul 06, 1986",B.weight: 158.57,Group: A,1: 185,2: 190,3: 197,Total: 197,+105kgMen,CleanJerk,10
-Rank: 3,JUDGE Patrick,USA,"Born: Mar 06, 1986",B.weight: 149.40,Group: A,1: 187,2: 190,3: -197,Total: 190,+105kgMen,CleanJerk,10
-Rank: 4,ITO Collin,USA,"Born: Apr 05, 1987",B.weight: 131.28,Group: A,1: 181,2: -187,3: -187,Total: 181,+105kgMen,CleanJerk,10
-Rank: 1,GAO Le,CHN,"Born: Mar 08, 1983",B.weight: 135.36,Group: A,Snatch: 177,CI&Jerk: 215,Total: 392,,+105kgMen,Total,10
-Rank: 2,HIROSE Masaya,JPN,"Born: Jul 06, 1986",B.weight: 158.57,Group: A,Snatch: 145,CI&Jerk: 197,Total: 342,,+105kgMen,Total,10
-Rank: 3,JUDGE Patrick,USA,"Born: Mar 06, 1986",B.weight: 149.40,Group: A,Snatch: 145,CI&Jerk: 190,Total: 335,,+105kgMen,Total,10
-Rank: 4,ITO Collin,USA,"Born: Apr 05, 1987",B.weight: 131.28,Group: A,Snatch: 143,CI&Jerk: 181,Total: 324,,+105kgMen,Total,10
-Rank: 1,GAO Wei,CHN,"Born: Apr 01, 1985",B.weight: 47.85,Group: A,1: 75,2: 80,3: 85,Total: 85,48kgWomen,Snatch,10
-Rank: 2,ARBOLEDA MORENO Marilyn Paola,ECU,"Born: Jun 27, 1982",B.weight: 47.78,Group: A,1: 55,2: 59,3: 60,Total: 60,48kgWomen,Snatch,10
-Rank: 3,ALFARO Albertina,CHI,"Born: Oct 05, 1984",B.weight: 47.17,Group: A,1: 57,2: - 59,3: 59,Total: 59,48kgWomen,Snatch,10
-Rank: 4,SNETHEN Heather,USA,"Born: Jul 18, 1986",B.weight: 47.65,Group: A,1: - 59,2: - 59,3: 59,Total: 59,48kgWomen,Snatch,10
-Rank: 5,SALCEDO HUAMANI Josefina,PER,"Born: Aug 21, 1988",B.weight: 46.10,Group: A,1: - 52,2: 52,3: - 56,Total: 52,48kgWomen,Snatch,10
-Rank: ---,QUISPE Rosario,PER,"Born: Sep 04, 1987",B.weight: 47.97,Group: A,1: - 49,2: - 49,3: - 49,Total: ---,48kgWomen,Snatch,10
-Rank: 1,GAO Wei,CHN,"Born: Apr 01, 1985",B.weight: 47.85,Group: A,1: 95,2: 100,3: 105,Total: 105,48kgWomen,CleanJerk,10
-Rank: 2,ALFARO Albertina,CHI,"Born: Oct 05, 1984",B.weight: 47.17,Group: A,1: - 73,2: 73,3: 74,Total: 74,48kgWomen,CleanJerk,10
-Rank: 3,ARBOLEDA MORENO Marilyn Paola,ECU,"Born: Jun 27, 1982",B.weight: 47.78,Group: A,1: - 73,2: 73,3: - 75,Total: 73,48kgWomen,CleanJerk,10
-Rank: 4,SALCEDO HUAMANI Josefina,PER,"Born: Aug 21, 1988",B.weight: 46.10,Group: A,1: 72,2: - 75,3: - 75,Total: 72,48kgWomen,CleanJerk,10
-Rank: 5,SNETHEN Heather,USA,"Born: Jul 18, 1986",B.weight: 47.65,Group: A,1: 72,2: - 74,3: - 74,Total: 72,48kgWomen,CleanJerk,10
-Rank: 6,QUISPE Rosario,PER,"Born: Sep 04, 1987",B.weight: 47.97,Group: A,1: 55,2: 60,3: - 65,Total: 60,48kgWomen,CleanJerk,10
-Rank: 1,GAO Wei,CHN,"Born: Apr 01, 1985",B.weight: 47.85,Group: A,Snatch: 85,CI&Jerk: 105,Total: 190,,48kgWomen,Total,10
-Rank: 2,ALFARO Albertina,CHI,"Born: Oct 05, 1984",B.weight: 47.17,Group: A,Snatch: 59,CI&Jerk: 74,Total: 133,,48kgWomen,Total,10
-Rank: 3,ARBOLEDA MORENO Marilyn Paola,ECU,"Born: Jun 27, 1982",B.weight: 47.78,Group: A,Snatch: 60,CI&Jerk: 73,Total: 133,,48kgWomen,Total,10
-Rank: 4,SNETHEN Heather,USA,"Born: Jul 18, 1986",B.weight: 47.65,Group: A,Snatch: 59,CI&Jerk: 72,Total: 131,,48kgWomen,Total,10
-Rank: 5,SALCEDO HUAMANI Josefina,PER,"Born: Aug 21, 1988",B.weight: 46.10,Group: A,Snatch: 52,CI&Jerk: 72,Total: 124,,48kgWomen,Total,10
-Rank: ---,QUISPE Rosario,PER,"Born: Sep 04, 1987",B.weight: 47.97,Group: A,Snatch: ---,CI&Jerk: 60,Total: ---,,48kgWomen,Total,10
-Rank: 1,DONG Cailian,CHN,"Born: Oct 07, 1985",B.weight: 52.19,Group: A,1: 75,2: 80,3: 86,Total: 86,53kgWomen,Snatch,10
-Rank: 2,ARIAS Sylvia,ECU,"Born: Jan 15, 1983",B.weight: 52.85,Group: A,1: - 68,2: 68,3: - 70,Total: 68,53kgWomen,Snatch,10
-Rank: 3,TURNBULL Samantha,USA,"Born: May 01, 1988",B.weight: 52.86,Group: A,1: - 66,2: - 66,3: 66,Total: 66,53kgWomen,Snatch,10
-Rank: 4,FILANDRIANOU Christina,GRE,"Born: Jan 08, 1982",B.weight: 51.85,Group: A,1: 56,2: 60,3: - 62,Total: 60,53kgWomen,Snatch,10
-Rank: 5,CUBA Maribel Ines,PER,"Born: Jan 07, 1989",B.weight: 51.70,Group: A,1: 50,2: 53,3: 56,Total: 56,53kgWomen,Snatch,10
-Rank: 6,MENDEZ Ibanez Carmen,BOL,"Born: Jul 16, 1989",B.weight: 52.48,Group: A,1: - 35,2: 35,3: - 40,Total: 35,53kgWomen,Snatch,10
-Rank: ---,FIDES Jessica,USA,"Born: May 11, 1982",B.weight: 52.77,Group: A,1: - 67,2: - 67,3: - 67,Total: ---,53kgWomen,Snatch,10
-Rank: 1,DONG Cailian,CHN,"Born: Oct 07, 1985",B.weight: 52.19,Group: A,1: 100,2: 110,3: 115,Total: 115,53kgWomen,CleanJerk,10
-Rank: 2,FIDES Jessica,USA,"Born: May 11, 1982",B.weight: 52.77,Group: A,1: 81,2: 84,3: 86,Total: 86,53kgWomen,CleanJerk,10
-Rank: 3,TURNBULL Samantha,USA,"Born: May 01, 1988",B.weight: 52.86,Group: A,1: - 81,2: 81,3: 86,Total: 86,53kgWomen,CleanJerk,10
-Rank: 4,ARIAS Sylvia,ECU,"Born: Jan 15, 1983",B.weight: 52.85,Group: A,1: 83,2: - 86,3: - 87,Total: 83,53kgWomen,CleanJerk,10
-Rank: 5,CUBA Maribel Ines,PER,"Born: Jan 07, 1989",B.weight: 51.70,Group: A,1: 70,2: - 75,3: 75,Total: 75,53kgWomen,CleanJerk,10
-Rank: 6,FILANDRIANOU Christina,GRE,"Born: Jan 08, 1982",B.weight: 51.85,Group: A,1: 75,2: - 80,3: - 80,Total: 75,53kgWomen,CleanJerk,10
-Rank: ---,MENDEZ Ibanez Carmen,BOL,"Born: Jul 16, 1989",B.weight: 52.48,Group: A,1: - 50,2: - 50,3: - 50,Total: ---,53kgWomen,CleanJerk,10
-Rank: 1,DONG Cailian,CHN,"Born: Oct 07, 1985",B.weight: 52.19,Group: A,Snatch: 86,CI&Jerk: 115,Total: 201,,53kgWomen,Total,10
-Rank: 2,TURNBULL Samantha,USA,"Born: May 01, 1988",B.weight: 52.86,Group: A,Snatch: 66,CI&Jerk: 86,Total: 152,,53kgWomen,Total,10
-Rank: 3,ARIAS Sylvia,ECU,"Born: Jan 15, 1983",B.weight: 52.85,Group: A,Snatch: 68,CI&Jerk: 83,Total: 151,,53kgWomen,Total,10
-Rank: 4,FILANDRIANOU Christina,GRE,"Born: Jan 08, 1982",B.weight: 51.85,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,53kgWomen,Total,10
-Rank: 5,CUBA Maribel Ines,PER,"Born: Jan 07, 1989",B.weight: 51.70,Group: A,Snatch: 56,CI&Jerk: 75,Total: 131,,53kgWomen,Total,10
-Rank: ---,MENDEZ Ibanez Carmen,BOL,"Born: Jul 16, 1989",B.weight: 52.48,Group: A,Snatch: 35,CI&Jerk: ---,Total: ---,,53kgWomen,Total,10
-Rank: ---,FIDES Jessica,USA,"Born: May 11, 1982",B.weight: 52.77,Group: A,Snatch: ---,CI&Jerk: 86,Total: ---,,53kgWomen,Total,10
-Rank: 1,CHEN Xiuying,CHN,"Born: Jan 28, 1986",B.weight: 57.98,Group: A,1: 90,2: - 95,3: 95,Total: 95,58kgWomen,Snatch,10
-Rank: 2,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.95,Group: A,1: 83,2: 86,3: - 88,Total: 86,58kgWomen,Snatch,10
-Rank: 3,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 57.98,Group: A,1: 75,2: - 79,3: 79,Total: 79,58kgWomen,Snatch,10
-Rank: 4,LIN Tsu-Ling,TPE,"Born: Mar 05, 1984",B.weight: 56.27,Group: A,1: 75,2: - 80,3: - 80,Total: 75,58kgWomen,Snatch,10
-Rank: 5,KATZENMEIER Hilary,USA,"Born: Aug 22, 1988",B.weight: 57.12,Group: A,1: 71,2: 74,3: 75,Total: 75,58kgWomen,Snatch,10
-Rank: 6,DAVIS Sarah E.,USA,"Born: Nov 06, 1983",B.weight: 57.23,Group: A,1: 70,2: - 73,3: 73,Total: 73,58kgWomen,Snatch,10
-Rank: 7,RAMIREZ Miriam,PER,"Born: Feb 05, 1986",B.weight: 57.32,Group: A,1: - 52,2: 52,3: 56,Total: 56,58kgWomen,Snatch,10
-Rank: 8,IGLESIAS Robles Eliana,BOL,"Born: Jun 15, 1988",B.weight: 55.47,Group: A,1: - 50,2: 50,3: - 53,Total: 50,58kgWomen,Snatch,10
-Rank: 1,CHEN Xiuying,CHN,"Born: Jan 28, 1986",B.weight: 57.98,Group: A,1: 120,2: 125,3: -130,Total: 125,58kgWomen,CleanJerk,10
-Rank: 2,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.95,Group: A,1: 105,2: -110,3: -110,Total: 105,58kgWomen,CleanJerk,10
-Rank: 3,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 57.98,Group: A,1: 98,2: -102,3: 102,Total: 102,58kgWomen,CleanJerk,10
-Rank: 4,LIN Tsu-Ling,TPE,"Born: Mar 05, 1984",B.weight: 56.27,Group: A,1: 95,2: -100,3: -100,Total: 95,58kgWomen,CleanJerk,10
-Rank: 5,KATZENMEIER Hilary,USA,"Born: Aug 22, 1988",B.weight: 57.12,Group: A,1: 86,2: - 92,3: - 92,Total: 86,58kgWomen,CleanJerk,10
-Rank: 6,RAMIREZ Miriam,PER,"Born: Feb 05, 1986",B.weight: 57.32,Group: A,1: - 72,2: 72,3: 77,Total: 77,58kgWomen,CleanJerk,10
-Rank: 7,IGLESIAS Robles Eliana,BOL,"Born: Jun 15, 1988",B.weight: 55.47,Group: A,1: 60,2: - 63,3: - 63,Total: 60,58kgWomen,CleanJerk,10
-Rank: ---,DAVIS Sarah E.,USA,"Born: Nov 06, 1983",B.weight: 57.23,Group: A,1: - 88,2: - 88,3: - 88,Total: ---,58kgWomen,CleanJerk,10
-Rank: 1,CHEN Xiuying,CHN,"Born: Jan 28, 1986",B.weight: 57.98,Group: A,Snatch: 95,CI&Jerk: 125,Total: 220,,58kgWomen,Total,10
-Rank: 2,MATSUMOTO Moeha,JPN,"Born: Mar 13, 1986",B.weight: 57.95,Group: A,Snatch: 86,CI&Jerk: 105,Total: 191,,58kgWomen,Total,10
-Rank: 3,GUICHO RECIO Quisia Yaneli,MEX,"Born: Sep 12, 1987",B.weight: 57.98,Group: A,Snatch: 79,CI&Jerk: 102,Total: 181,,58kgWomen,Total,10
-Rank: 4,LIN Tsu-Ling,TPE,"Born: Mar 05, 1984",B.weight: 56.27,Group: A,Snatch: 75,CI&Jerk: 95,Total: 170,,58kgWomen,Total,10
-Rank: 5,KATZENMEIER Hilary,USA,"Born: Aug 22, 1988",B.weight: 57.12,Group: A,Snatch: 75,CI&Jerk: 86,Total: 161,,58kgWomen,Total,10
-Rank: 6,RAMIREZ Miriam,PER,"Born: Feb 05, 1986",B.weight: 57.32,Group: A,Snatch: 56,CI&Jerk: 77,Total: 133,,58kgWomen,Total,10
-Rank: 7,IGLESIAS Robles Eliana,BOL,"Born: Jun 15, 1988",B.weight: 55.47,Group: A,Snatch: 50,CI&Jerk: 60,Total: 110,,58kgWomen,Total,10
-Rank: ---,DAVIS Sarah E.,USA,"Born: Nov 06, 1983",B.weight: 57.23,Group: A,Snatch: 73,CI&Jerk: ---,Total: ---,,58kgWomen,Total,10
-Rank: 1,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.67,Group: A,1: 77,2: 81,3: - 84,Total: 81,63kgWomen,Snatch,10
-Rank: 2,MUSSER Leslie J.,USA,"Born: Apr 02, 1980",B.weight: 61.19,Group: A,1: 63,2: 66,3: - 70,Total: 66,63kgWomen,Snatch,10
-Rank: 1,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.67,Group: A,1: 98,2: 102,3: 105,Total: 105,63kgWomen,CleanJerk,10
-Rank: 2,MUSSER Leslie J.,USA,"Born: Apr 02, 1980",B.weight: 61.19,Group: A,1: 80,2: - 83,3: 83,Total: 83,63kgWomen,CleanJerk,10
-Rank: 1,MALLA HERAS Martha Lourdes,ECU,"Born: Apr 09, 1981",B.weight: 62.67,Group: A,Snatch: 81,CI&Jerk: 105,Total: 186,,63kgWomen,Total,10
-Rank: 2,MUSSER Leslie J.,USA,"Born: Apr 02, 1980",B.weight: 61.19,Group: A,Snatch: 66,CI&Jerk: 83,Total: 149,,63kgWomen,Total,10
-Rank: 1,GUTIERREZ GUERRERO Gaby,PER,"Born: Jul 07, 1988",B.weight: 63.73,Group: A,1: 60,2: 70,3: 71,Total: 71,69kgWomen,Snatch,10
-Rank: 2,MARTINEZ Ibeth,MEX,"Born: Oct 15, 1983",B.weight: 63.13,Group: A,1: - 70,2: - 70,3: 70,Total: 70,69kgWomen,Snatch,10
-Rank: 3,ANDRADE Pinedo Silvia,BOL,"Born: Apr 05, 1984",B.weight: 64.58,Group: A,1: 50,2: 53,3: - 56,Total: 53,69kgWomen,Snatch,10
-Rank: 1,MARTINEZ Ibeth,MEX,"Born: Oct 15, 1983",B.weight: 63.13,Group: A,1: 90,2: 92,3: - 95,Total: 92,69kgWomen,CleanJerk,10
-Rank: 2,GUTIERREZ GUERRERO Gaby,PER,"Born: Jul 07, 1988",B.weight: 63.73,Group: A,1: 85,2: - 91,3: - 91,Total: 85,69kgWomen,CleanJerk,10
-Rank: 3,ANDRADE Pinedo Silvia,BOL,"Born: Apr 05, 1984",B.weight: 64.58,Group: A,1: 67,2: - 70,3: - 70,Total: 67,69kgWomen,CleanJerk,10
-Rank: 1,MARTINEZ Ibeth,MEX,"Born: Oct 15, 1983",B.weight: 63.13,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,69kgWomen,Total,10
-Rank: 2,GUTIERREZ GUERRERO Gaby,PER,"Born: Jul 07, 1988",B.weight: 63.73,Group: A,Snatch: 71,CI&Jerk: 85,Total: 156,,69kgWomen,Total,10
-Rank: 3,ANDRADE Pinedo Silvia,BOL,"Born: Apr 05, 1984",B.weight: 64.58,Group: A,Snatch: 53,CI&Jerk: 67,Total: 120,,69kgWomen,Total,10
-Rank: 1,RATTANACHUANG Watcharawadee,THA,"Born: Jun 23, 1988",B.weight: 73.93,Group: A,1: 86,2: - 92,3: 92,Total: 92,75kgWomen,Snatch,10
-Rank: 2,KIKUTA Yuko,JPN,"Born: Jun 22, 1985",B.weight: 74.13,Group: A,1: - 85,2: - 85,3: 85,Total: 85,75kgWomen,Snatch,10
-Rank: 3,NOKTA Gulden,TUR,"Born: Jan 01, 1986",B.weight: 73.85,Group: A,1: 66,2: 72,3: - 77,Total: 72,75kgWomen,Snatch,10
-Rank: 4,MORI AGUINAGA Marcela,PER,"Born: Oct 02, 1984",B.weight: 72.63,Group: A,1: 60,2: 62,3: 65,Total: 65,75kgWomen,Snatch,10
-Rank: 1,RATTANACHUANG Watcharawadee,THA,"Born: Jun 23, 1988",B.weight: 73.93,Group: A,1: 110,2: 115,3: -120,Total: 115,75kgWomen,CleanJerk,10
-Rank: 2,KIKUTA Yuko,JPN,"Born: Jun 22, 1985",B.weight: 74.13,Group: A,1: 103,2: -107,3: 107,Total: 107,75kgWomen,CleanJerk,10
-Rank: 3,NOKTA Gulden,TUR,"Born: Jan 01, 1986",B.weight: 73.85,Group: A,1: 82,2: 89,3: - 92,Total: 89,75kgWomen,CleanJerk,10
-Rank: 4,MORI AGUINAGA Marcela,PER,"Born: Oct 02, 1984",B.weight: 72.63,Group: A,1: 77,2: 80,3: - 81,Total: 80,75kgWomen,CleanJerk,10
-Rank: 1,RATTANACHUANG Watcharawadee,THA,"Born: Jun 23, 1988",B.weight: 73.93,Group: A,Snatch: 92,CI&Jerk: 115,Total: 207,,75kgWomen,Total,10
-Rank: 2,KIKUTA Yuko,JPN,"Born: Jun 22, 1985",B.weight: 74.13,Group: A,Snatch: 85,CI&Jerk: 107,Total: 192,,75kgWomen,Total,10
-Rank: 3,NOKTA Gulden,TUR,"Born: Jan 01, 1986",B.weight: 73.85,Group: A,Snatch: 72,CI&Jerk: 89,Total: 161,,75kgWomen,Total,10
-Rank: 4,MORI AGUINAGA Marcela,PER,"Born: Oct 02, 1984",B.weight: 72.63,Group: A,Snatch: 65,CI&Jerk: 80,Total: 145,,75kgWomen,Total,10
-Rank: 1,ZHANG Zheng,CHN,"Born: Feb 15, 1987",B.weight: 123.97,Group: A,1: 115,2: -125,3: 125,Total: 125,+75kgWomen,Snatch,10
-Rank: 2,SUESAT Metiya,THA,"Born: Apr 21, 1986",B.weight: 112.38,Group: A,1: 100,2: -105,3: -105,Total: 100,+75kgWomen,Snatch,10
-Rank: 3,CHENG Yung-hsin,TPE,"Born: Oct 05, 1984",B.weight: 91.56,Group: A,1: 90,2: 92,3: 97,Total: 97,+75kgWomen,Snatch,10
-Rank: 4,HEARN Rachel,USA,"Born: Dec 15, 1980",B.weight: 113.00,Group: A,1: - 88,2: 88,3: 91,Total: 91,+75kgWomen,Snatch,10
-Rank: 5,CORNEJO SCHEELJE Christina Maria V.,PER,"Born: Jun 09, 1985",B.weight: 112.33,Group: A,1: - 85,2: - 85,3: 85,Total: 85,+75kgWomen,Snatch,10
-Rank: 6,DOGANCI Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 79.30,Group: A,1: - 70,2: 70,3: 75,Total: 75,+75kgWomen,Snatch,10
-Rank: 1,ZHANG Zheng,CHN,"Born: Feb 15, 1987",B.weight: 123.97,Group: A,1: 145,2: -169,3: -169,Total: 145,+75kgWomen,CleanJerk,10
-Rank: 2,SUESAT Metiya,THA,"Born: Apr 21, 1986",B.weight: 112.38,Group: A,1: -122,2: 122,3: -125,Total: 122,+75kgWomen,CleanJerk,10
-Rank: 3,HEARN Rachel,USA,"Born: Dec 15, 1980",B.weight: 113.00,Group: A,1: 117,2: 121,3: 122,Total: 122,+75kgWomen,CleanJerk,10
-Rank: 4,CHENG Yung-hsin,TPE,"Born: Oct 05, 1984",B.weight: 91.56,Group: A,1: 112,2: 117,3: 121,Total: 121,+75kgWomen,CleanJerk,10
-Rank: 5,CORNEJO SCHEELJE Christina Maria V.,PER,"Born: Jun 09, 1985",B.weight: 112.33,Group: A,1: 105,2: -120,3: -120,Total: 105,+75kgWomen,CleanJerk,10
-Rank: 6,DOGANCI Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 79.30,Group: A,1: 85,2: 90,3: - 93,Total: 90,+75kgWomen,CleanJerk,10
-Rank: 1,ZHANG Zheng,CHN,"Born: Feb 15, 1987",B.weight: 123.97,Group: A,Snatch: 125,CI&Jerk: 145,Total: 270,,+75kgWomen,Total,10
-Rank: 2,SUESAT Metiya,THA,"Born: Apr 21, 1986",B.weight: 112.38,Group: A,Snatch: 100,CI&Jerk: 122,Total: 222,,+75kgWomen,Total,10
-Rank: 3,CHENG Yung-hsin,TPE,"Born: Oct 05, 1984",B.weight: 91.56,Group: A,Snatch: 97,CI&Jerk: 121,Total: 218,,+75kgWomen,Total,10
-Rank: 4,HEARN Rachel,USA,"Born: Dec 15, 1980",B.weight: 113.00,Group: A,Snatch: 91,CI&Jerk: 122,Total: 213,,+75kgWomen,Total,10
-Rank: 5,CORNEJO SCHEELJE Christina Maria V.,PER,"Born: Jun 09, 1985",B.weight: 112.33,Group: A,Snatch: 85,CI&Jerk: 105,Total: 190,,+75kgWomen,Total,10
-Rank: 6,DOGANCI Ismihan,TUR,"Born: Feb 11, 1988",B.weight: 79.30,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,+75kgWomen,Total,10
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,DU Binghao,CHN,"Jun 17, 1984",55.97,A,110,-120,120,120,56kgMen,Snatch,10,True
+2,ROMO Alejandro,MEX,"Jul 24, 1979",55.89,A,92,97,-101,97,56kgMen,Snatch,10,True
+3,GALVEZ Jose,PER,"Aug 10, 1985",55.29,A,- 90,90,- 96,90,56kgMen,Snatch,10,True
+4,TSAI Sheng-Fen,TPE,"Oct 27, 1984",55.62,A,90,-100,-100,90,56kgMen,Snatch,10,True
+1,DU Binghao,CHN,"Jun 17, 1984",55.97,A,140,-150,-150,140,56kgMen,CleanJerk,10,True
+2,TSAI Sheng-Fen,TPE,"Oct 27, 1984",55.62,A,121,128,135,135,56kgMen,CleanJerk,10,True
+3,GALVEZ Jose,PER,"Aug 10, 1985",55.29,A,120,125,127,127,56kgMen,CleanJerk,10,True
+4,ROMO Alejandro,MEX,"Jul 24, 1979",55.89,A,120,-125,-125,120,56kgMen,CleanJerk,10,True
+1,DU Binghao,CHN,"Jun 17, 1984",55.97,A,120,140,260,,56kgMen,Total,10,True
+2,TSAI Sheng-Fen,TPE,"Oct 27, 1984",55.62,A,90,135,225,,56kgMen,Total,10,True
+3,GALVEZ Jose,PER,"Aug 10, 1985",55.29,A,90,127,217,,56kgMen,Total,10,True
+4,ROMO Alejandro,MEX,"Jul 24, 1979",55.89,A,97,120,217,,56kgMen,Total,10,True
+1,ZHANG Xiangxiang,CHN,"Jul 16, 1983",61.92,A,133,-138,-138,133,62kgMen,Snatch,10,True
+2,LAZARO MAYKEL Ruiz Gasso,CUB,"Oct 12, 1984",60.28,A,114,117,123,123,62kgMen,Snatch,10,True
+3,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.93,A,108,111,115,115,62kgMen,Snatch,10,True
+4,YAMAUCHI Kyle,USA,"Mar 05, 1983",61.57,A,106,110,-113,110,62kgMen,Snatch,10,True
+5,KATSOULIDIS Panayotis,GRE,"May 13, 1987",61.53,A,-100,100,103,103,62kgMen,Snatch,10,True
+6,EUAN Jose,MEX,"Jan 22, 1984",62.00,A,85,90,- 95,90,62kgMen,Snatch,10,True
+---,CUENCA Marco,ECU,"Jan 06, 1981",61.93,A,-103,-103,-103,---,62kgMen,Snatch,10,True
+1,ZHANG Xiangxiang,CHN,"Jul 16, 1983",61.92,A,-160,160,-165,160,62kgMen,CleanJerk,10,True
+2,LAZARO MAYKEL Ruiz Gasso,CUB,"Oct 12, 1984",60.28,A,145,-152,-152,145,62kgMen,CleanJerk,10,True
+3,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.93,A,137,141,-145,141,62kgMen,CleanJerk,10,True
+4,YAMAUCHI Kyle,USA,"Mar 05, 1983",61.57,A,132,136,140,140,62kgMen,CleanJerk,10,True
+5,CUENCA Marco,ECU,"Jan 06, 1981",61.93,A,-135,-135,135,135,62kgMen,CleanJerk,10,True
+6,KATSOULIDIS Panayotis,GRE,"May 13, 1987",61.53,A,120,-125,125,125,62kgMen,CleanJerk,10,True
+7,EUAN Jose,MEX,"Jan 22, 1984",62.00,A,110,115,120,120,62kgMen,CleanJerk,10,True
+1,ZHANG Xiangxiang,CHN,"Jul 16, 1983",61.92,A,133,160,293,,62kgMen,Total,10,True
+2,LAZARO MAYKEL Ruiz Gasso,CUB,"Oct 12, 1984",60.28,A,123,145,268,,62kgMen,Total,10,True
+3,JOHNSON Derrick Rshone,USA,"Jan 06, 1985",61.93,A,115,141,256,,62kgMen,Total,10,True
+4,YAMAUCHI Kyle,USA,"Mar 05, 1983",61.57,A,110,140,250,,62kgMen,Total,10,True
+5,KATSOULIDIS Panayotis,GRE,"May 13, 1987",61.53,A,103,125,228,,62kgMen,Total,10,True
+6,EUAN Jose,MEX,"Jan 22, 1984",62.00,A,90,120,210,,62kgMen,Total,10,True
+---,CUENCA Marco,ECU,"Jan 06, 1981",61.93,A,---,135,---,,62kgMen,Total,10,True
+1,LIAO Hui,CHN,"Oct 05, 1987",68.92,A,-145,145,-150,145,69kgMen,Snatch,10,True
+2,AROCA Faiver,COL,"Apr 21, 1981",68.57,A,-117,-117,118,118,69kgMen,Snatch,10,True
+3,GARCIA SERRANO Fernando Tomas,ESP,"Oct 08, 1986",68.04,A,110,115,-120,115,69kgMen,Snatch,10,True
+4,LESCANO GUERRERO Arturo David,PER,"Jun 16, 1988",67.91,A,100,-106,106,106,69kgMen,Snatch,10,True
+5,BYRD Cathal,IRL,"Aug 15, 1986",67.71,A,97,102,-105,102,69kgMen,Snatch,10,True
+6,TREJO Orlando,PER,"May 06, 1988",68.91,A,90,- 95,95,95,69kgMen,Snatch,10,True
+7,SALINAS Leonardo Gonzalez,CHI,"May 21, 1987",64.38,A,- 85,87,- 93,87,69kgMen,Snatch,10,True
+1,LIAO Hui,CHN,"Oct 05, 1987",68.92,A,-180,-180,180,180,69kgMen,CleanJerk,10,True
+2,AROCA Faiver,COL,"Apr 21, 1981",68.57,A,143,145,---,145,69kgMen,CleanJerk,10,True
+3,LESCANO GUERRERO Arturo David,PER,"Jun 16, 1988",67.91,A,132,-137,140,140,69kgMen,CleanJerk,10,True
+4,GARCIA SERRANO Fernando Tomas,ESP,"Oct 08, 1986",68.04,A,133,138,-141,138,69kgMen,CleanJerk,10,True
+5,BYRD Cathal,IRL,"Aug 15, 1986",67.71,A,-125,-125,125,125,69kgMen,CleanJerk,10,True
+6,TREJO Orlando,PER,"May 06, 1988",68.91,A,117,-122,122,122,69kgMen,CleanJerk,10,True
+7,SALINAS Leonardo Gonzalez,CHI,"May 21, 1987",64.38,A,110,-115,-117,110,69kgMen,CleanJerk,10,True
+1,LIAO Hui,CHN,"Oct 05, 1987",68.92,A,145,180,325,,69kgMen,Total,10,True
+2,AROCA Faiver,COL,"Apr 21, 1981",68.57,A,118,145,263,,69kgMen,Total,10,True
+3,GARCIA SERRANO Fernando Tomas,ESP,"Oct 08, 1986",68.04,A,115,138,253,,69kgMen,Total,10,True
+4,LESCANO GUERRERO Arturo David,PER,"Jun 16, 1988",67.91,A,106,140,246,,69kgMen,Total,10,True
+5,BYRD Cathal,IRL,"Aug 15, 1986",67.71,A,102,125,227,,69kgMen,Total,10,True
+6,TREJO Orlando,PER,"May 06, 1988",68.91,A,95,122,217,,69kgMen,Total,10,True
+7,SALINAS Leonardo Gonzalez,CHI,"May 21, 1987",64.38,A,87,110,197,,69kgMen,Total,10,True
+1,LIU Haihua,CHN,"Aug 14, 1983",76.79,A,-152,153,160,160,77kgMen,Snatch,10,True
+2,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",76.26,A,146,152,-153,152,77kgMen,Snatch,10,True
+3,WOODARD Henry II,USA,"Mar 30, 1987",76.63,A,125,-130,-130,125,77kgMen,Snatch,10,True
+4,BRIMHALL Justin L.,USA,"Sep 12, 1986",76.05,A,106,111,114,114,77kgMen,Snatch,10,True
+5,BAILEY Walter,CAN,"Jan 11, 1985",76.85,A,107,111,-114,111,77kgMen,Snatch,10,True
+6,FEIJOO Alexander,PER,"Feb 14, 1988",76.01,A,95,100,-105,100,77kgMen,Snatch,10,True
+---,BALCI Cagkan,TUR,"Jan 24, 1987",74.91,A,-125,-125,-125,---,77kgMen,Snatch,10,True
+---,McGILL Brandon,SCO,"Jun 25, 1985",76.80,A,-110,-110,-110,---,77kgMen,Snatch,10,True
+1,LIU Haihua,CHN,"Aug 14, 1983",76.79,A,175,185,-190,185,77kgMen,CleanJerk,10,True
+2,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",76.26,A,160,168,172,172,77kgMen,CleanJerk,10,True
+3,WOODARD Henry II,USA,"Mar 30, 1987",76.63,A,155,157,167,167,77kgMen,CleanJerk,10,True
+4,BALCI Cagkan,TUR,"Jan 24, 1987",74.91,A,150,-155,155,155,77kgMen,CleanJerk,10,True
+5,BAILEY Walter,CAN,"Jan 11, 1985",76.85,A,137,142,-145,142,77kgMen,CleanJerk,10,True
+6,BRIMHALL Justin L.,USA,"Sep 12, 1986",76.05,A,135,139,-142,139,77kgMen,CleanJerk,10,True
+7,FEIJOO Alexander,PER,"Feb 14, 1988",76.01,A,120,-125,-125,120,77kgMen,CleanJerk,10,True
+---,McGILL Brandon,SCO,"Jun 25, 1985",76.80,A,---,---,---,---,77kgMen,CleanJerk,10,True
+1,LIU Haihua,CHN,"Aug 14, 1983",76.79,A,160,185,345,,77kgMen,Total,10,True
+2,IDROVO SUAREZ Julio Cesar,ECU,"Mar 15, 1981",76.26,A,152,172,324,,77kgMen,Total,10,True
+3,WOODARD Henry II,USA,"Mar 30, 1987",76.63,A,125,167,292,,77kgMen,Total,10,True
+4,BRIMHALL Justin L.,USA,"Sep 12, 1986",76.05,A,114,139,253,,77kgMen,Total,10,True
+5,BAILEY Walter,CAN,"Jan 11, 1985",76.85,A,111,142,253,,77kgMen,Total,10,True
+6,FEIJOO Alexander,PER,"Feb 14, 1988",76.01,A,100,120,220,,77kgMen,Total,10,True
+---,BALCI Cagkan,TUR,"Jan 24, 1987",74.91,A,---,155,---,,77kgMen,Total,10,True
+---,McGILL Brandon,SCO,"Jun 25, 1985",76.80,A,---,---,---,,77kgMen,Total,10,True
+1,HUANG Zhong,CHN,"Jun 15, 1985",83.32,A,150,160,-167,160,85kgMen,Snatch,10,True
+2,ROBERTS Paul,USA,"Mar 15, 1985",83.32,A,135,138,142,142,85kgMen,Snatch,10,True
+3,QUITERIO Juan Carlos,DOM,"Feb 06, 1983",83.36,A,137,142,-144,142,85kgMen,Snatch,10,True
+4,KRYCH Zachary Joseph Rusnacko,USA,"Apr 16, 1983",84.55,A,-137,137,141,141,85kgMen,Snatch,10,True
+5,SAGIR Nezir,TUR,"Oct 19, 1983",81.07,A,-137,137,-142,137,85kgMen,Snatch,10,True
+6,ARIK Hakan,TUR,"Mar 05, 1985",82.98,A,-125,125,130,130,85kgMen,Snatch,10,True
+7,TANAKA Hiroto,JPN,"Aug 11, 1985",84.76,A,-130,-130,130,130,85kgMen,Snatch,10,True
+8,GOREDETZKY Vladimir,ISR,"Mar 20, 1982",80.57,A,110,115,-120,115,85kgMen,Snatch,10,True
+1,HUANG Zhong,CHN,"Jun 15, 1985",83.32,A,185,190,195,195,85kgMen,CleanJerk,10,True
+2,KRYCH Zachary Joseph Rusnacko,USA,"Apr 16, 1983",84.55,A,177,182,184,184,85kgMen,CleanJerk,10,True
+3,QUITERIO Juan Carlos,DOM,"Feb 06, 1983",83.36,A,-172,172,181,181,85kgMen,CleanJerk,10,True
+4,SAGIR Nezir,TUR,"Oct 19, 1983",81.07,A,-175,175,-181,175,85kgMen,CleanJerk,10,True
+5,TANAKA Hiroto,JPN,"Aug 11, 1985",84.76,A,-163,163,-168,163,85kgMen,CleanJerk,10,True
+6,ROBERTS Paul,USA,"Mar 15, 1985",83.32,A,160,-165,-167,160,85kgMen,CleanJerk,10,True
+7,ARIK Hakan,TUR,"Mar 05, 1985",82.98,A,-155,155,-160,155,85kgMen,CleanJerk,10,True
+8,GOREDETZKY Vladimir,ISR,"Mar 20, 1982",80.57,A,-140,140,-145,140,85kgMen,CleanJerk,10,True
+1,HUANG Zhong,CHN,"Jun 15, 1985",83.32,A,160,195,355,,85kgMen,Total,10,True
+2,KRYCH Zachary Joseph Rusnacko,USA,"Apr 16, 1983",84.55,A,141,184,325,,85kgMen,Total,10,True
+3,QUITERIO Juan Carlos,DOM,"Feb 06, 1983",83.36,A,142,181,323,,85kgMen,Total,10,True
+4,SAGIR Nezir,TUR,"Oct 19, 1983",81.07,A,137,175,312,,85kgMen,Total,10,True
+5,ROBERTS Paul,USA,"Mar 15, 1985",83.32,A,142,160,302,,85kgMen,Total,10,True
+6,TANAKA Hiroto,JPN,"Aug 11, 1985",84.76,A,130,163,293,,85kgMen,Total,10,True
+7,ARIK Hakan,TUR,"Mar 05, 1985",82.98,A,130,155,285,,85kgMen,Total,10,True
+8,GOREDETZKY Vladimir,ISR,"Mar 20, 1982",80.57,A,115,140,255,,85kgMen,Total,10,True
+1,SOTOLONGO Miranda Joel,CUB,"Dec 12, 1982",94.00,A,155,160,-165,160,94kgMen,Snatch,10,True
+2,SONG Jiawen,CHN,"Sep 17, 1982",86.70,A,150,155,-160,155,94kgMen,Snatch,10,True
+3,BASOL Mehmet,TUR,"Aug 14, 1984",92.50,A,-133,135,138,138,94kgMen,Snatch,10,True
+4,SALTSIDIS Christos,GRE,"Jul 02, 1987",92.66,A,-135,135,-139,135,94kgMen,Snatch,10,True
+5,VILLA Alvaro,ECU,"Apr 26, 1980",89.58,A,-125,125,-130,125,94kgMen,Snatch,10,True
+6,SEGURA Juan,PER,"Sep 18, 1987",88.05,A,110,115,118,118,94kgMen,Snatch,10,True
+7,MANCO Diego,PER,"May 03, 1986",86.38,A,-112,-112,112,112,94kgMen,Snatch,10,True
+1,SOTOLONGO Miranda Joel,CUB,"Dec 12, 1982",94.00,A,197,202,207,207,94kgMen,CleanJerk,10,True
+2,SONG Jiawen,CHN,"Sep 17, 1982",86.70,A,180,195,-202,195,94kgMen,CleanJerk,10,True
+3,BASOL Mehmet,TUR,"Aug 14, 1984",92.50,A,163,168,170,170,94kgMen,CleanJerk,10,True
+4,SALTSIDIS Christos,GRE,"Jul 02, 1987",92.66,A,168,-174,-174,168,94kgMen,CleanJerk,10,True
+5,VILLA Alvaro,ECU,"Apr 26, 1980",89.58,A,150,155,-160,155,94kgMen,CleanJerk,10,True
+6,SEGURA Juan,PER,"Sep 18, 1987",88.05,A,140,145,150,150,94kgMen,CleanJerk,10,True
+7,MANCO Diego,PER,"May 03, 1986",86.38,A,140,-146,146,146,94kgMen,CleanJerk,10,True
+1,SOTOLONGO Miranda Joel,CUB,"Dec 12, 1982",94.00,A,160,207,367,,94kgMen,Total,10,True
+2,SONG Jiawen,CHN,"Sep 17, 1982",86.70,A,155,195,350,,94kgMen,Total,10,True
+3,BASOL Mehmet,TUR,"Aug 14, 1984",92.50,A,138,170,308,,94kgMen,Total,10,True
+4,SALTSIDIS Christos,GRE,"Jul 02, 1987",92.66,A,135,168,303,,94kgMen,Total,10,True
+5,VILLA Alvaro,ECU,"Apr 26, 1980",89.58,A,125,155,280,,94kgMen,Total,10,True
+6,SEGURA Juan,PER,"Sep 18, 1987",88.05,A,118,150,268,,94kgMen,Total,10,True
+7,MANCO Diego,PER,"May 03, 1986",86.38,A,112,146,258,,94kgMen,Total,10,True
+1,BAYAM Talat,TUR,"May 10, 1981",98.07,A,150,-160,160,160,105kgMen,Snatch,10,True
+2,KATEV Savko,BUL,"May 25, 1984",101.82,A,150,-160,-160,150,105kgMen,Snatch,10,True
+3,LAGUNES Ruben,MEX,"Nov 01, 1985",104.57,A,125,130,-131,130,105kgMen,Snatch,10,True
+4,ALIAGA Jasson,PER,"Jun 10, 1984",94.32,A,121,-126,127,127,105kgMen,Snatch,10,True
+5,SALINAS DESCOVICH Ronald Robinson,CHI,"Aug 27, 1985",103.16,A,115,122,126,126,105kgMen,Snatch,10,True
+6,SATT Bascope Pedro,BOL,"Jan 27, 1986",104.86,A,102,-107,107,107,105kgMen,Snatch,10,True
+7,ORTIZ Rodolfo,PER,"Sep 08, 1982",100.30,A,83,87,90,90,105kgMen,Snatch,10,True
+---,CHIU Loren,CAN,"Jan 31, 1979",104.58,A,-130,-130,-130,---,105kgMen,Snatch,10,True
+1,BAYAM Talat,TUR,"May 10, 1981",98.07,A,190,195,-202,195,105kgMen,CleanJerk,10,True
+2,KATEV Savko,BUL,"May 25, 1984",101.82,A,175,---,---,175,105kgMen,CleanJerk,10,True
+3,ALIAGA Jasson,PER,"Jun 10, 1984",94.32,A,160,165,170,170,105kgMen,CleanJerk,10,True
+4,CHIU Loren,CAN,"Jan 31, 1979",104.58,A,150,-165,---,150,105kgMen,CleanJerk,10,True
+5,SALINAS DESCOVICH Ronald Robinson,CHI,"Aug 27, 1985",103.16,A,125,135,140,140,105kgMen,CleanJerk,10,True
+6,ORTIZ Rodolfo,PER,"Sep 08, 1982",100.30,A,114,120,-125,120,105kgMen,CleanJerk,10,True
+---,SATT Bascope Pedro,BOL,"Jan 27, 1986",104.86,A,-133,-133,-133,---,105kgMen,CleanJerk,10,True
+---,LAGUNES Ruben,MEX,"Nov 01, 1985",104.57,A,---,---,---,---,105kgMen,CleanJerk,10,True
+1,BAYAM Talat,TUR,"May 10, 1981",98.07,A,160,195,355,,105kgMen,Total,10,True
+2,KATEV Savko,BUL,"May 25, 1984",101.82,A,150,175,325,,105kgMen,Total,10,True
+3,ALIAGA Jasson,PER,"Jun 10, 1984",94.32,A,127,170,297,,105kgMen,Total,10,True
+4,SALINAS DESCOVICH Ronald Robinson,CHI,"Aug 27, 1985",103.16,A,126,140,266,,105kgMen,Total,10,True
+5,ORTIZ Rodolfo,PER,"Sep 08, 1982",100.30,A,90,120,210,,105kgMen,Total,10,True
+---,CHIU Loren,CAN,"Jan 31, 1979",104.58,A,---,150,---,,105kgMen,Total,10,True
+---,SATT Bascope Pedro,BOL,"Jan 27, 1986",104.86,A,107,---,---,,105kgMen,Total,10,True
+---,LAGUNES Ruben,MEX,"Nov 01, 1985",104.57,A,130,---,---,,105kgMen,Total,10,True
+1,GAO Le,CHN,"Mar 08, 1983",135.36,A,150,170,177,177,+105kgMen,Snatch,10,True
+2,JUDGE Patrick,USA,"Mar 06, 1986",149.40,A,142,144,145,145,+105kgMen,Snatch,10,True
+3,HIROSE Masaya,JPN,"Jul 06, 1986",158.57,A,135,143,145,145,+105kgMen,Snatch,10,True
+4,ITO Collin,USA,"Apr 05, 1987",131.28,A,137,-143,143,143,+105kgMen,Snatch,10,True
+1,GAO Le,CHN,"Mar 08, 1983",135.36,A,200,215,-223,215,+105kgMen,CleanJerk,10,True
+2,HIROSE Masaya,JPN,"Jul 06, 1986",158.57,A,185,190,197,197,+105kgMen,CleanJerk,10,True
+3,JUDGE Patrick,USA,"Mar 06, 1986",149.40,A,187,190,-197,190,+105kgMen,CleanJerk,10,True
+4,ITO Collin,USA,"Apr 05, 1987",131.28,A,181,-187,-187,181,+105kgMen,CleanJerk,10,True
+1,GAO Le,CHN,"Mar 08, 1983",135.36,A,177,215,392,,+105kgMen,Total,10,True
+2,HIROSE Masaya,JPN,"Jul 06, 1986",158.57,A,145,197,342,,+105kgMen,Total,10,True
+3,JUDGE Patrick,USA,"Mar 06, 1986",149.40,A,145,190,335,,+105kgMen,Total,10,True
+4,ITO Collin,USA,"Apr 05, 1987",131.28,A,143,181,324,,+105kgMen,Total,10,True
+1,GAO Wei,CHN,"Apr 01, 1985",47.85,A,75,80,85,85,48kgWomen,Snatch,10,True
+2,ARBOLEDA MORENO Marilyn Paola,ECU,"Jun 27, 1982",47.78,A,55,59,60,60,48kgWomen,Snatch,10,True
+3,ALFARO Albertina,CHI,"Oct 05, 1984",47.17,A,57,- 59,59,59,48kgWomen,Snatch,10,True
+4,SNETHEN Heather,USA,"Jul 18, 1986",47.65,A,- 59,- 59,59,59,48kgWomen,Snatch,10,True
+5,SALCEDO HUAMANI Josefina,PER,"Aug 21, 1988",46.10,A,- 52,52,- 56,52,48kgWomen,Snatch,10,True
+---,QUISPE Rosario,PER,"Sep 04, 1987",47.97,A,- 49,- 49,- 49,---,48kgWomen,Snatch,10,True
+1,GAO Wei,CHN,"Apr 01, 1985",47.85,A,95,100,105,105,48kgWomen,CleanJerk,10,True
+2,ALFARO Albertina,CHI,"Oct 05, 1984",47.17,A,- 73,73,74,74,48kgWomen,CleanJerk,10,True
+3,ARBOLEDA MORENO Marilyn Paola,ECU,"Jun 27, 1982",47.78,A,- 73,73,- 75,73,48kgWomen,CleanJerk,10,True
+4,SALCEDO HUAMANI Josefina,PER,"Aug 21, 1988",46.10,A,72,- 75,- 75,72,48kgWomen,CleanJerk,10,True
+5,SNETHEN Heather,USA,"Jul 18, 1986",47.65,A,72,- 74,- 74,72,48kgWomen,CleanJerk,10,True
+6,QUISPE Rosario,PER,"Sep 04, 1987",47.97,A,55,60,- 65,60,48kgWomen,CleanJerk,10,True
+1,GAO Wei,CHN,"Apr 01, 1985",47.85,A,85,105,190,,48kgWomen,Total,10,True
+2,ALFARO Albertina,CHI,"Oct 05, 1984",47.17,A,59,74,133,,48kgWomen,Total,10,True
+3,ARBOLEDA MORENO Marilyn Paola,ECU,"Jun 27, 1982",47.78,A,60,73,133,,48kgWomen,Total,10,True
+4,SNETHEN Heather,USA,"Jul 18, 1986",47.65,A,59,72,131,,48kgWomen,Total,10,True
+5,SALCEDO HUAMANI Josefina,PER,"Aug 21, 1988",46.10,A,52,72,124,,48kgWomen,Total,10,True
+---,QUISPE Rosario,PER,"Sep 04, 1987",47.97,A,---,60,---,,48kgWomen,Total,10,True
+1,DONG Cailian,CHN,"Oct 07, 1985",52.19,A,75,80,86,86,53kgWomen,Snatch,10,True
+2,ARIAS Sylvia,ECU,"Jan 15, 1983",52.85,A,- 68,68,- 70,68,53kgWomen,Snatch,10,True
+3,TURNBULL Samantha,USA,"May 01, 1988",52.86,A,- 66,- 66,66,66,53kgWomen,Snatch,10,True
+4,FILANDRIANOU Christina,GRE,"Jan 08, 1982",51.85,A,56,60,- 62,60,53kgWomen,Snatch,10,True
+5,CUBA Maribel Ines,PER,"Jan 07, 1989",51.70,A,50,53,56,56,53kgWomen,Snatch,10,True
+6,MENDEZ Ibanez Carmen,BOL,"Jul 16, 1989",52.48,A,- 35,35,- 40,35,53kgWomen,Snatch,10,True
+---,FIDES Jessica,USA,"May 11, 1982",52.77,A,- 67,- 67,- 67,---,53kgWomen,Snatch,10,True
+1,DONG Cailian,CHN,"Oct 07, 1985",52.19,A,100,110,115,115,53kgWomen,CleanJerk,10,True
+2,FIDES Jessica,USA,"May 11, 1982",52.77,A,81,84,86,86,53kgWomen,CleanJerk,10,True
+3,TURNBULL Samantha,USA,"May 01, 1988",52.86,A,- 81,81,86,86,53kgWomen,CleanJerk,10,True
+4,ARIAS Sylvia,ECU,"Jan 15, 1983",52.85,A,83,- 86,- 87,83,53kgWomen,CleanJerk,10,True
+5,CUBA Maribel Ines,PER,"Jan 07, 1989",51.70,A,70,- 75,75,75,53kgWomen,CleanJerk,10,True
+6,FILANDRIANOU Christina,GRE,"Jan 08, 1982",51.85,A,75,- 80,- 80,75,53kgWomen,CleanJerk,10,True
+---,MENDEZ Ibanez Carmen,BOL,"Jul 16, 1989",52.48,A,- 50,- 50,- 50,---,53kgWomen,CleanJerk,10,True
+1,DONG Cailian,CHN,"Oct 07, 1985",52.19,A,86,115,201,,53kgWomen,Total,10,True
+2,TURNBULL Samantha,USA,"May 01, 1988",52.86,A,66,86,152,,53kgWomen,Total,10,True
+3,ARIAS Sylvia,ECU,"Jan 15, 1983",52.85,A,68,83,151,,53kgWomen,Total,10,True
+4,FILANDRIANOU Christina,GRE,"Jan 08, 1982",51.85,A,60,75,135,,53kgWomen,Total,10,True
+5,CUBA Maribel Ines,PER,"Jan 07, 1989",51.70,A,56,75,131,,53kgWomen,Total,10,True
+---,MENDEZ Ibanez Carmen,BOL,"Jul 16, 1989",52.48,A,35,---,---,,53kgWomen,Total,10,True
+---,FIDES Jessica,USA,"May 11, 1982",52.77,A,---,86,---,,53kgWomen,Total,10,True
+1,CHEN Xiuying,CHN,"Jan 28, 1986",57.98,A,90,- 95,95,95,58kgWomen,Snatch,10,True
+2,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.95,A,83,86,- 88,86,58kgWomen,Snatch,10,True
+3,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",57.98,A,75,- 79,79,79,58kgWomen,Snatch,10,True
+4,LIN Tsu-Ling,TPE,"Mar 05, 1984",56.27,A,75,- 80,- 80,75,58kgWomen,Snatch,10,True
+5,KATZENMEIER Hilary,USA,"Aug 22, 1988",57.12,A,71,74,75,75,58kgWomen,Snatch,10,True
+6,DAVIS Sarah E.,USA,"Nov 06, 1983",57.23,A,70,- 73,73,73,58kgWomen,Snatch,10,True
+7,RAMIREZ Miriam,PER,"Feb 05, 1986",57.32,A,- 52,52,56,56,58kgWomen,Snatch,10,True
+8,IGLESIAS Robles Eliana,BOL,"Jun 15, 1988",55.47,A,- 50,50,- 53,50,58kgWomen,Snatch,10,True
+1,CHEN Xiuying,CHN,"Jan 28, 1986",57.98,A,120,125,-130,125,58kgWomen,CleanJerk,10,True
+2,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.95,A,105,-110,-110,105,58kgWomen,CleanJerk,10,True
+3,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",57.98,A,98,-102,102,102,58kgWomen,CleanJerk,10,True
+4,LIN Tsu-Ling,TPE,"Mar 05, 1984",56.27,A,95,-100,-100,95,58kgWomen,CleanJerk,10,True
+5,KATZENMEIER Hilary,USA,"Aug 22, 1988",57.12,A,86,- 92,- 92,86,58kgWomen,CleanJerk,10,True
+6,RAMIREZ Miriam,PER,"Feb 05, 1986",57.32,A,- 72,72,77,77,58kgWomen,CleanJerk,10,True
+7,IGLESIAS Robles Eliana,BOL,"Jun 15, 1988",55.47,A,60,- 63,- 63,60,58kgWomen,CleanJerk,10,True
+---,DAVIS Sarah E.,USA,"Nov 06, 1983",57.23,A,- 88,- 88,- 88,---,58kgWomen,CleanJerk,10,True
+1,CHEN Xiuying,CHN,"Jan 28, 1986",57.98,A,95,125,220,,58kgWomen,Total,10,True
+2,MATSUMOTO Moeha,JPN,"Mar 13, 1986",57.95,A,86,105,191,,58kgWomen,Total,10,True
+3,GUICHO RECIO Quisia Yaneli,MEX,"Sep 12, 1987",57.98,A,79,102,181,,58kgWomen,Total,10,True
+4,LIN Tsu-Ling,TPE,"Mar 05, 1984",56.27,A,75,95,170,,58kgWomen,Total,10,True
+5,KATZENMEIER Hilary,USA,"Aug 22, 1988",57.12,A,75,86,161,,58kgWomen,Total,10,True
+6,RAMIREZ Miriam,PER,"Feb 05, 1986",57.32,A,56,77,133,,58kgWomen,Total,10,True
+7,IGLESIAS Robles Eliana,BOL,"Jun 15, 1988",55.47,A,50,60,110,,58kgWomen,Total,10,True
+---,DAVIS Sarah E.,USA,"Nov 06, 1983",57.23,A,73,---,---,,58kgWomen,Total,10,True
+1,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.67,A,77,81,- 84,81,63kgWomen,Snatch,10,True
+2,MUSSER Leslie J.,USA,"Apr 02, 1980",61.19,A,63,66,- 70,66,63kgWomen,Snatch,10,True
+1,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.67,A,98,102,105,105,63kgWomen,CleanJerk,10,True
+2,MUSSER Leslie J.,USA,"Apr 02, 1980",61.19,A,80,- 83,83,83,63kgWomen,CleanJerk,10,True
+1,MALLA HERAS Martha Lourdes,ECU,"Apr 09, 1981",62.67,A,81,105,186,,63kgWomen,Total,10,True
+2,MUSSER Leslie J.,USA,"Apr 02, 1980",61.19,A,66,83,149,,63kgWomen,Total,10,True
+1,GUTIERREZ GUERRERO Gaby,PER,"Jul 07, 1988",63.73,A,60,70,71,71,69kgWomen,Snatch,10,True
+2,MARTINEZ Ibeth,MEX,"Oct 15, 1983",63.13,A,- 70,- 70,70,70,69kgWomen,Snatch,10,True
+3,ANDRADE Pinedo Silvia,BOL,"Apr 05, 1984",64.58,A,50,53,- 56,53,69kgWomen,Snatch,10,True
+1,MARTINEZ Ibeth,MEX,"Oct 15, 1983",63.13,A,90,92,- 95,92,69kgWomen,CleanJerk,10,True
+2,GUTIERREZ GUERRERO Gaby,PER,"Jul 07, 1988",63.73,A,85,- 91,- 91,85,69kgWomen,CleanJerk,10,True
+3,ANDRADE Pinedo Silvia,BOL,"Apr 05, 1984",64.58,A,67,- 70,- 70,67,69kgWomen,CleanJerk,10,True
+1,MARTINEZ Ibeth,MEX,"Oct 15, 1983",63.13,A,70,92,162,,69kgWomen,Total,10,True
+2,GUTIERREZ GUERRERO Gaby,PER,"Jul 07, 1988",63.73,A,71,85,156,,69kgWomen,Total,10,True
+3,ANDRADE Pinedo Silvia,BOL,"Apr 05, 1984",64.58,A,53,67,120,,69kgWomen,Total,10,True
+1,RATTANACHUANG Watcharawadee,THA,"Jun 23, 1988",73.93,A,86,- 92,92,92,75kgWomen,Snatch,10,True
+2,KIKUTA Yuko,JPN,"Jun 22, 1985",74.13,A,- 85,- 85,85,85,75kgWomen,Snatch,10,True
+3,NOKTA Gulden,TUR,"Jan 01, 1986",73.85,A,66,72,- 77,72,75kgWomen,Snatch,10,True
+4,MORI AGUINAGA Marcela,PER,"Oct 02, 1984",72.63,A,60,62,65,65,75kgWomen,Snatch,10,True
+1,RATTANACHUANG Watcharawadee,THA,"Jun 23, 1988",73.93,A,110,115,-120,115,75kgWomen,CleanJerk,10,True
+2,KIKUTA Yuko,JPN,"Jun 22, 1985",74.13,A,103,-107,107,107,75kgWomen,CleanJerk,10,True
+3,NOKTA Gulden,TUR,"Jan 01, 1986",73.85,A,82,89,- 92,89,75kgWomen,CleanJerk,10,True
+4,MORI AGUINAGA Marcela,PER,"Oct 02, 1984",72.63,A,77,80,- 81,80,75kgWomen,CleanJerk,10,True
+1,RATTANACHUANG Watcharawadee,THA,"Jun 23, 1988",73.93,A,92,115,207,,75kgWomen,Total,10,True
+2,KIKUTA Yuko,JPN,"Jun 22, 1985",74.13,A,85,107,192,,75kgWomen,Total,10,True
+3,NOKTA Gulden,TUR,"Jan 01, 1986",73.85,A,72,89,161,,75kgWomen,Total,10,True
+4,MORI AGUINAGA Marcela,PER,"Oct 02, 1984",72.63,A,65,80,145,,75kgWomen,Total,10,True
+1,ZHANG Zheng,CHN,"Feb 15, 1987",123.97,A,115,-125,125,125,+75kgWomen,Snatch,10,True
+2,SUESAT Metiya,THA,"Apr 21, 1986",112.38,A,100,-105,-105,100,+75kgWomen,Snatch,10,True
+3,CHENG Yung-hsin,TPE,"Oct 05, 1984",91.56,A,90,92,97,97,+75kgWomen,Snatch,10,True
+4,HEARN Rachel,USA,"Dec 15, 1980",113.00,A,- 88,88,91,91,+75kgWomen,Snatch,10,True
+5,CORNEJO SCHEELJE Christina Maria V.,PER,"Jun 09, 1985",112.33,A,- 85,- 85,85,85,+75kgWomen,Snatch,10,True
+6,DOGANCI Ismihan,TUR,"Feb 11, 1988",79.30,A,- 70,70,75,75,+75kgWomen,Snatch,10,True
+1,ZHANG Zheng,CHN,"Feb 15, 1987",123.97,A,145,-169,-169,145,+75kgWomen,CleanJerk,10,True
+2,SUESAT Metiya,THA,"Apr 21, 1986",112.38,A,-122,122,-125,122,+75kgWomen,CleanJerk,10,True
+3,HEARN Rachel,USA,"Dec 15, 1980",113.00,A,117,121,122,122,+75kgWomen,CleanJerk,10,True
+4,CHENG Yung-hsin,TPE,"Oct 05, 1984",91.56,A,112,117,121,121,+75kgWomen,CleanJerk,10,True
+5,CORNEJO SCHEELJE Christina Maria V.,PER,"Jun 09, 1985",112.33,A,105,-120,-120,105,+75kgWomen,CleanJerk,10,True
+6,DOGANCI Ismihan,TUR,"Feb 11, 1988",79.30,A,85,90,- 93,90,+75kgWomen,CleanJerk,10,True
+1,ZHANG Zheng,CHN,"Feb 15, 1987",123.97,A,125,145,270,,+75kgWomen,Total,10,True
+2,SUESAT Metiya,THA,"Apr 21, 1986",112.38,A,100,122,222,,+75kgWomen,Total,10,True
+3,CHENG Yung-hsin,TPE,"Oct 05, 1984",91.56,A,97,121,218,,+75kgWomen,Total,10,True
+4,HEARN Rachel,USA,"Dec 15, 1980",113.00,A,91,122,213,,+75kgWomen,Total,10,True
+5,CORNEJO SCHEELJE Christina Maria V.,PER,"Jun 09, 1985",112.33,A,85,105,190,,+75kgWomen,Total,10,True
+6,DOGANCI Ismihan,TUR,"Feb 11, 1988",79.30,A,75,90,165,,+75kgWomen,Total,10,True

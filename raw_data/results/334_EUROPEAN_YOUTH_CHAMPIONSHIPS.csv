@@ -1,472 +1,472 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
-Rank: 1,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 49.20,Group: A,1: 81,2: -86,3: 86,Total: 86,50kgMen,Snatch,334
-Rank: 2,GUNGOR Isa,TUR,"Born: Sep 13, 1998",B.weight: 49.95,Group: A,1: 81,2: -86,3: 86,Total: 86,50kgMen,Snatch,334
-Rank: 3,MNATSAKANYAN Hamlet,ARM,"Born: Jul 05, 1998",B.weight: 49.60,Group: A,1: -80,2: 80,3: -85,Total: 80,50kgMen,Snatch,334
-Rank: 4,SCHEDLER Lucas,GER,"Born: Jun 01, 1998",B.weight: 49.13,Group: A,1: 75,2: -79,3: 79,Total: 79,50kgMen,Snatch,334
-Rank: 5,ADIKIN Aleksandr,RUS,"Born: Jul 05, 1999",B.weight: 49.74,Group: A,1: -75,2: 75,3: 78,Total: 78,50kgMen,Snatch,334
-Rank: 6,RAMAZAN Gulsen,TUR,"Born: Oct 02, 1999",B.weight: 49.69,Group: A,1: 76,2: -80,3: -80,Total: 76,50kgMen,Snatch,334
-Rank: 7,SECCHI Giuseppe,ITA,"Born: Sep 16, 1998",B.weight: 49.71,Group: A,1: 70,2: -74,3: -74,Total: 70,50kgMen,Snatch,334
-Rank: 1,MNATSAKANYAN Hamlet,ARM,"Born: Jul 05, 1998",B.weight: 49.60,Group: A,1: 100,2: -109,3: 109,Total: 109,50kgMen,CleanJerk,334
-Rank: 2,SECCHI Giuseppe,ITA,"Born: Sep 16, 1998",B.weight: 49.71,Group: A,1: 100,2: 103,3: -105,Total: 103,50kgMen,CleanJerk,334
-Rank: 3,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 49.20,Group: A,1: 95,2: 100,3: 102,Total: 102,50kgMen,CleanJerk,334
-Rank: 4,ADIKIN Aleksandr,RUS,"Born: Jul 05, 1999",B.weight: 49.74,Group: A,1: -98,2: -98,3: 98,Total: 98,50kgMen,CleanJerk,334
-Rank: 5,GUNGOR Isa,TUR,"Born: Sep 13, 1998",B.weight: 49.95,Group: A,1: 98,2: -101,3: -103,Total: 98,50kgMen,CleanJerk,334
-Rank: 6,SCHEDLER Lucas,GER,"Born: Jun 01, 1998",B.weight: 49.13,Group: A,1: 93,2: -97,3: -98,Total: 93,50kgMen,CleanJerk,334
-Rank: 7,RAMAZAN Gulsen,TUR,"Born: Oct 02, 1999",B.weight: 49.69,Group: A,1: 88,2: -93,3: -93,Total: 88,50kgMen,CleanJerk,334
-Rank: 1,MNATSAKANYAN Hamlet,ARM,"Born: Jul 05, 1998",B.weight: 49.60,Group: A,Snatch: 80,CI&Jerk: 109,Total: 189,,50kgMen,Total,334
-Rank: 2,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 49.20,Group: A,Snatch: 86,CI&Jerk: 102,Total: 188,,50kgMen,Total,334
-Rank: 3,GUNGOR Isa,TUR,"Born: Sep 13, 1998",B.weight: 49.95,Group: A,Snatch: 86,CI&Jerk: 98,Total: 184,,50kgMen,Total,334
-Rank: 4,ADIKIN Aleksandr,RUS,"Born: Jul 05, 1999",B.weight: 49.74,Group: A,Snatch: 78,CI&Jerk: 98,Total: 176,,50kgMen,Total,334
-Rank: 5,SECCHI Giuseppe,ITA,"Born: Sep 16, 1998",B.weight: 49.71,Group: A,Snatch: 70,CI&Jerk: 103,Total: 173,,50kgMen,Total,334
-Rank: 6,SCHEDLER Lucas,GER,"Born: Jun 01, 1998",B.weight: 49.13,Group: A,Snatch: 79,CI&Jerk: 93,Total: 172,,50kgMen,Total,334
-Rank: 7,RAMAZAN Gulsen,TUR,"Born: Oct 02, 1999",B.weight: 49.69,Group: A,Snatch: 76,CI&Jerk: 88,Total: 164,,50kgMen,Total,334
-Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.64,Group: A,1: 96,2: 100,3: 102,Total: 102,56kgMen,Snatch,334
-Rank: 2,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.86,Group: A,1: 93,2: 97,3: 99,Total: 99,56kgMen,Snatch,334
-Rank: 3,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 55.51,Group: A,1: 93,2: 98,3: -100,Total: 98,56kgMen,Snatch,334
-Rank: 4,KHALILOV Kanan,AZE,"Born: Aug 09, 1999",B.weight: 55.22,Group: A,1: 93,2: 97,3: -100,Total: 97,56kgMen,Snatch,334
-Rank: 5,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 54.87,Group: A,1: -95,2: 95,3: -100,Total: 95,56kgMen,Snatch,334
-Rank: 6,PEDRAK Benjamin Ludovic Matthieu,FRA,"Born: Nov 25, 1998",B.weight: 54.78,Group: A,1: 91,2: 94,3: -97,Total: 94,56kgMen,Snatch,334
-Rank: 7,OLESKIEWICZ Kamil Tomasz,POL,"Born: Mar 13, 1998",B.weight: 55.75,Group: A,1: 90,2: 93,3: -96,Total: 93,56kgMen,Snatch,334
-Rank: 8,MAU Jon Luke,GER,"Born: Oct 02, 1998",B.weight: 55.62,Group: A,1: 86,2: 90,3: 92,Total: 92,56kgMen,Snatch,334
-Rank: 9,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 55.72,Group: A,1: 87,2: -90,3: 90,Total: 90,56kgMen,Snatch,334
-Rank: 10,SCHEDLER Leon,GER,"Born: Jun 01, 1998",B.weight: 55.19,Group: A,1: 88,2: -90,3: -90,Total: 88,56kgMen,Snatch,334
-Rank: 11,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 54.98,Group: A,1: -77,2: 77,3: 80,Total: 80,56kgMen,Snatch,334
-Rank: 12,ZBORIL Stepan,CZE,"Born: Nov 23, 1999",B.weight: 55.63,Group: A,1: 70,2: 73,3: -75,Total: 73,56kgMen,Snatch,334
-Rank: 13,LANTZ Adam Kent,SWE,"Born: May 21, 1999",B.weight: 51.90,Group: A,1: 60,2: 65,3: -68,Total: 65,56kgMen,Snatch,334
-Rank: 1,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 55.51,Group: A,1: 115,2: 118,3: 122,Total: 122,56kgMen,CleanJerk,334
-Rank: 2,MAU Jon Luke,GER,"Born: Oct 02, 1998",B.weight: 55.62,Group: A,1: 115,2: 119,3: 122,Total: 122,56kgMen,CleanJerk,334
-Rank: 3,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 54.87,Group: A,1: 112,2: 116,3: 121,Total: 121,56kgMen,CleanJerk,334
-Rank: 4,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.86,Group: A,1: 116,2: -121,3: 121,Total: 121,56kgMen,CleanJerk,334
-Rank: 5,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.64,Group: A,1: 117,2: 120,3: -122,Total: 120,56kgMen,CleanJerk,334
-Rank: 6,OLESKIEWICZ Kamil Tomasz,POL,"Born: Mar 13, 1998",B.weight: 55.75,Group: A,1: 115,2: -119,3: 119,Total: 119,56kgMen,CleanJerk,334
-Rank: 7,SCHEDLER Leon,GER,"Born: Jun 01, 1998",B.weight: 55.19,Group: A,1: 114,2: -117,3: 117,Total: 117,56kgMen,CleanJerk,334
-Rank: 8,KHALILOV Kanan,AZE,"Born: Aug 09, 1999",B.weight: 55.22,Group: A,1: 110,2: -116,3: -119,Total: 110,56kgMen,CleanJerk,334
-Rank: 9,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 55.72,Group: A,1: -110,2: -110,3: 110,Total: 110,56kgMen,CleanJerk,334
-Rank: 10,PEDRAK Benjamin Ludovic Matthieu,FRA,"Born: Nov 25, 1998",B.weight: 54.78,Group: A,1: 108,2: -113,3: -113,Total: 108,56kgMen,CleanJerk,334
-Rank: 11,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 54.98,Group: A,1: 93,2: 96,3: -100,Total: 96,56kgMen,CleanJerk,334
-Rank: 12,LANTZ Adam Kent,SWE,"Born: May 21, 1999",B.weight: 51.90,Group: A,1: 74,2: 80,3: -83,Total: 80,56kgMen,CleanJerk,334
-Rank: ---,ZBORIL Stepan,CZE,"Born: Nov 23, 1999",B.weight: 55.63,Group: A,1: -94,2: -94,3: -94,Total: ---,56kgMen,CleanJerk,334
-Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.64,Group: A,Snatch: 102,CI&Jerk: 120,Total: 222,,56kgMen,Total,334
-Rank: 2,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 55.51,Group: A,Snatch: 98,CI&Jerk: 122,Total: 220,,56kgMen,Total,334
-Rank: 3,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.86,Group: A,Snatch: 99,CI&Jerk: 121,Total: 220,,56kgMen,Total,334
-Rank: 4,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 54.87,Group: A,Snatch: 95,CI&Jerk: 121,Total: 216,,56kgMen,Total,334
-Rank: 5,MAU Jon Luke,GER,"Born: Oct 02, 1998",B.weight: 55.62,Group: A,Snatch: 92,CI&Jerk: 122,Total: 214,,56kgMen,Total,334
-Rank: 6,OLESKIEWICZ Kamil Tomasz,POL,"Born: Mar 13, 1998",B.weight: 55.75,Group: A,Snatch: 93,CI&Jerk: 119,Total: 212,,56kgMen,Total,334
-Rank: 7,KHALILOV Kanan,AZE,"Born: Aug 09, 1999",B.weight: 55.22,Group: A,Snatch: 97,CI&Jerk: 110,Total: 207,,56kgMen,Total,334
-Rank: 8,SCHEDLER Leon,GER,"Born: Jun 01, 1998",B.weight: 55.19,Group: A,Snatch: 88,CI&Jerk: 117,Total: 205,,56kgMen,Total,334
-Rank: 9,PEDRAK Benjamin Ludovic Matthieu,FRA,"Born: Nov 25, 1998",B.weight: 54.78,Group: A,Snatch: 94,CI&Jerk: 108,Total: 202,,56kgMen,Total,334
-Rank: 10,VLADISAVLJEV Stevan,SRB,"Born: Jul 04, 1999",B.weight: 55.72,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,56kgMen,Total,334
-Rank: 11,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 54.98,Group: A,Snatch: 80,CI&Jerk: 96,Total: 176,,56kgMen,Total,334
-Rank: 12,LANTZ Adam Kent,SWE,"Born: May 21, 1999",B.weight: 51.90,Group: A,Snatch: 65,CI&Jerk: 80,Total: 145,,56kgMen,Total,334
-Rank: ---,ZBORIL Stepan,CZE,"Born: Nov 23, 1999",B.weight: 55.63,Group: A,Snatch: 73,CI&Jerk: ---,Total: ---,,56kgMen,Total,334
-Rank: 1,HOVHANNISYAN Hrayr,ARM,"Born: Mar 07, 1998",B.weight: 61.53,Group: A,1: 107,2: 112,3: 114,Total: 114,62kgMen,Snatch,334
-Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 61.68,Group: A,1: 110,2: -113,3: 113,Total: 113,62kgMen,Snatch,334
-Rank: 3,ILHAN Ramazan,TUR,"Born: Dec 20, 1998",B.weight: 61.80,Group: A,1: 110,2: -113,3: 113,Total: 113,62kgMen,Snatch,334
-Rank: 4,ELIS Murat,TUR,"Born: Feb 23, 1998",B.weight: 61.84,Group: A,1: 110,2: -113,3: 113,Total: 113,62kgMen,Snatch,334
-Rank: 5,MANUKYAN Levon,ARM,"Born: Jul 31, 1998",B.weight: 61.80,Group: A,1: -106,2: 106,3: 111,Total: 111,62kgMen,Snatch,334
-Rank: 6,KAPYTAU Raman,BLR,"Born: Mar 08, 1998",B.weight: 61.54,Group: A,1: 106,2: -110,3: 110,Total: 110,62kgMen,Snatch,334
-Rank: 7,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.27,Group: A,1: -108,2: 108,3: -111,Total: 108,62kgMen,Snatch,334
-Rank: 8,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 60.59,Group: A,1: 100,2: -105,3: 106,Total: 106,62kgMen,Snatch,334
-Rank: 9,DUMITRAS Bogdan-George,ROU,"Born: Apr 12, 1999",B.weight: 61.09,Group: A,1: 105,2: -110,3: -110,Total: 105,62kgMen,Snatch,334
-Rank: 10,HRYSHYN Taras,UKR,"Born: Mar 14, 1998",B.weight: 61.82,Group: A,1: 97,2: -101,3: 101,Total: 101,62kgMen,Snatch,334
-Rank: 11,MOSKAL Vlastimil,CZE,"Born: May 10, 1998",B.weight: 61.84,Group: A,1: 90,2: 94,3: 96,Total: 96,62kgMen,Snatch,334
-Rank: 12,KAIKKONEN Samuel Juho Aleksi,FIN,"Born: Nov 24, 1998",B.weight: 60.75,Group: A,1: 82,2: 86,3: -88,Total: 86,62kgMen,Snatch,334
-Rank: ---,SOTIROV Hristo,BUL,"Born: Sep 30, 1998",B.weight: 61.82,Group: A,1: -105,2: -105,3: -105,Total: ---,62kgMen,Snatch,334
-Rank: 1,MANUKYAN Levon,ARM,"Born: Jul 31, 1998",B.weight: 61.80,Group: A,1: 131,2: 138,3: 142,Total: 142,62kgMen,CleanJerk,334
-Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 61.68,Group: A,1: 135,2: -139,3: 139,Total: 139,62kgMen,CleanJerk,334
-Rank: 3,DUMITRAS Bogdan-George,ROU,"Born: Apr 12, 1999",B.weight: 61.09,Group: A,1: 125,2: 130,3: 135,Total: 135,62kgMen,CleanJerk,334
-Rank: 4,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 60.59,Group: A,1: 128,2: 131,3: 134,Total: 134,62kgMen,CleanJerk,334
-Rank: 5,KAPYTAU Raman,BLR,"Born: Mar 08, 1998",B.weight: 61.54,Group: A,1: 130,2: 134,3: -136,Total: 134,62kgMen,CleanJerk,334
-Rank: 6,ILHAN Ramazan,TUR,"Born: Dec 20, 1998",B.weight: 61.80,Group: A,1: 127,2: -131,3: 134,Total: 134,62kgMen,CleanJerk,334
-Rank: 7,HRYSHYN Taras,UKR,"Born: Mar 14, 1998",B.weight: 61.82,Group: A,1: 122,2: 129,3: 132,Total: 132,62kgMen,CleanJerk,334
-Rank: 8,ELIS Murat,TUR,"Born: Feb 23, 1998",B.weight: 61.84,Group: A,1: -131,2: 132,3: -135,Total: 132,62kgMen,CleanJerk,334
-Rank: 9,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.27,Group: A,1: 130,2: -136,3: -137,Total: 130,62kgMen,CleanJerk,334
-Rank: 10,SOTIROV Hristo,BUL,"Born: Sep 30, 1998",B.weight: 61.82,Group: A,1: 125,2: 130,3: -135,Total: 130,62kgMen,CleanJerk,334
-Rank: 11,MOSKAL Vlastimil,CZE,"Born: May 10, 1998",B.weight: 61.84,Group: A,1: 113,2: 117,3: -119,Total: 117,62kgMen,CleanJerk,334
-Rank: 12,KAIKKONEN Samuel Juho Aleksi,FIN,"Born: Nov 24, 1998",B.weight: 60.75,Group: A,1: 101,2: -105,3: 105,Total: 105,62kgMen,CleanJerk,334
-Rank: ---,HOVHANNISYAN Hrayr,ARM,"Born: Mar 07, 1998",B.weight: 61.53,Group: A,1: -127,2: -127,3: -127,Total: ---,62kgMen,CleanJerk,334
-Rank: 1,MANUKYAN Levon,ARM,"Born: Jul 31, 1998",B.weight: 61.80,Group: A,Snatch: 111,CI&Jerk: 142,Total: 253,,62kgMen,Total,334
-Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 61.68,Group: A,Snatch: 113,CI&Jerk: 139,Total: 252,,62kgMen,Total,334
-Rank: 3,ILHAN Ramazan,TUR,"Born: Dec 20, 1998",B.weight: 61.80,Group: A,Snatch: 113,CI&Jerk: 134,Total: 247,,62kgMen,Total,334
-Rank: 4,ELIS Murat,TUR,"Born: Feb 23, 1998",B.weight: 61.84,Group: A,Snatch: 113,CI&Jerk: 132,Total: 245,,62kgMen,Total,334
-Rank: 5,KAPYTAU Raman,BLR,"Born: Mar 08, 1998",B.weight: 61.54,Group: A,Snatch: 110,CI&Jerk: 134,Total: 244,,62kgMen,Total,334
-Rank: 6,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 60.59,Group: A,Snatch: 106,CI&Jerk: 134,Total: 240,,62kgMen,Total,334
-Rank: 7,DUMITRAS Bogdan-George,ROU,"Born: Apr 12, 1999",B.weight: 61.09,Group: A,Snatch: 105,CI&Jerk: 135,Total: 240,,62kgMen,Total,334
-Rank: 8,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.27,Group: A,Snatch: 108,CI&Jerk: 130,Total: 238,,62kgMen,Total,334
-Rank: 9,HRYSHYN Taras,UKR,"Born: Mar 14, 1998",B.weight: 61.82,Group: A,Snatch: 101,CI&Jerk: 132,Total: 233,,62kgMen,Total,334
-Rank: 10,MOSKAL Vlastimil,CZE,"Born: May 10, 1998",B.weight: 61.84,Group: A,Snatch: 96,CI&Jerk: 117,Total: 213,,62kgMen,Total,334
-Rank: 11,KAIKKONEN Samuel Juho Aleksi,FIN,"Born: Nov 24, 1998",B.weight: 60.75,Group: A,Snatch: 86,CI&Jerk: 105,Total: 191,,62kgMen,Total,334
-Rank: ---,HOVHANNISYAN Hrayr,ARM,"Born: Mar 07, 1998",B.weight: 61.53,Group: A,Snatch: 114,CI&Jerk: ---,Total: ---,,62kgMen,Total,334
-Rank: ---,SOTIROV Hristo,BUL,"Born: Sep 30, 1998",B.weight: 61.82,Group: A,Snatch: ---,CI&Jerk: 130,Total: ---,,62kgMen,Total,334
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 68.49,Group: A,1: 125,2: 130,3: 135,Total: 135,69kgMen,Snatch,334
-Rank: 2,CAGDAR Ahmet,TUR,"Born: Jan 23, 1999",B.weight: 68.79,Group: A,1: 114,2: -119,3: 119,Total: 119,69kgMen,Snatch,334
-Rank: 3,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 67.95,Group: A,1: 115,2: -118,3: 118,Total: 118,69kgMen,Snatch,334
-Rank: 4,YALCIN Mehmet,TUR,"Born: Jan 13, 1998",B.weight: 68.44,Group: A,1: 114,2: -117,3: -118,Total: 114,69kgMen,Snatch,334
-Rank: 5,AGRIGOROAEI Marius,ROU,"Born: Aug 14, 1998",B.weight: 64.21,Group: A,1: -108,2: 108,3: 111,Total: 111,69kgMen,Snatch,334
-Rank: 6,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 68.01,Group: A,1: 105,2: 110,3: -113,Total: 110,69kgMen,Snatch,334
-Rank: 7,PADURE Daniel Ionut,ROU,"Born: Mar 22, 1998",B.weight: 67.66,Group: A,1: 100,2: -106,3: 106,Total: 106,69kgMen,Snatch,334
-Rank: 8,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 68.34,Group: A,1: 97,2: 100,3: 102,Total: 102,69kgMen,Snatch,334
-Rank: ---,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 68.05,Group: A,1: -110,2: -110,3: -110,Total: ---,69kgMen,Snatch,334
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 68.49,Group: A,1: 150,2: 160,3: -165,Total: 160,69kgMen,CleanJerk,334
-Rank: 2,CAGDAR Ahmet,TUR,"Born: Jan 23, 1999",B.weight: 68.79,Group: A,1: 140,2: 145,3: 149,Total: 149,69kgMen,CleanJerk,334
-Rank: 3,YALCIN Mehmet,TUR,"Born: Jan 13, 1998",B.weight: 68.44,Group: A,1: 141,2: 145,3: -149,Total: 145,69kgMen,CleanJerk,334
-Rank: 4,AGRIGOROAEI Marius,ROU,"Born: Aug 14, 1998",B.weight: 64.21,Group: A,1: -133,2: -133,3: 136,Total: 136,69kgMen,CleanJerk,334
-Rank: 5,PADURE Daniel Ionut,ROU,"Born: Mar 22, 1998",B.weight: 67.66,Group: A,1: -130,2: 130,3: 136,Total: 136,69kgMen,CleanJerk,334
-Rank: 6,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 67.95,Group: A,1: 136,2: -141,3: -141,Total: 136,69kgMen,CleanJerk,334
-Rank: 7,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 68.01,Group: A,1: 125,2: -132,3: 132,Total: 132,69kgMen,CleanJerk,334
-Rank: 8,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 68.34,Group: A,1: 120,2: -124,3: -126,Total: 120,69kgMen,CleanJerk,334
-Rank: ---,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 68.05,Group: A,1: ---,2: ---,3: ---,Total: ---,69kgMen,CleanJerk,334
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 68.49,Group: A,Snatch: 135,CI&Jerk: 160,Total: 295,,69kgMen,Total,334
-Rank: 2,CAGDAR Ahmet,TUR,"Born: Jan 23, 1999",B.weight: 68.79,Group: A,Snatch: 119,CI&Jerk: 149,Total: 268,,69kgMen,Total,334
-Rank: 3,YALCIN Mehmet,TUR,"Born: Jan 13, 1998",B.weight: 68.44,Group: A,Snatch: 114,CI&Jerk: 145,Total: 259,,69kgMen,Total,334
-Rank: 4,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 67.95,Group: A,Snatch: 118,CI&Jerk: 136,Total: 254,,69kgMen,Total,334
-Rank: 5,AGRIGOROAEI Marius,ROU,"Born: Aug 14, 1998",B.weight: 64.21,Group: A,Snatch: 111,CI&Jerk: 136,Total: 247,,69kgMen,Total,334
-Rank: 6,PADURE Daniel Ionut,ROU,"Born: Mar 22, 1998",B.weight: 67.66,Group: A,Snatch: 106,CI&Jerk: 136,Total: 242,,69kgMen,Total,334
-Rank: 7,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 68.01,Group: A,Snatch: 110,CI&Jerk: 132,Total: 242,,69kgMen,Total,334
-Rank: 8,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 68.34,Group: A,Snatch: 102,CI&Jerk: 120,Total: 222,,69kgMen,Total,334
-Rank: ---,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 68.05,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,69kgMen,Total,334
-Rank: 1,BADZIAGOWSKI Kacper,POL,"Born: Oct 30, 1998",B.weight: 76.83,Group: A,1: -135,2: 135,3: 140,Total: 140,77kgMen,Snatch,334
-Rank: 2,DAVITADZE Revaz,GEO,"Born: Oct 16, 1998",B.weight: 76.55,Group: A,1: 132,2: -136,3: 136,Total: 136,77kgMen,Snatch,334
-Rank: 3,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 76.24,Group: A,1: 125,2: 130,3: -135,Total: 130,77kgMen,Snatch,334
-Rank: 4,BABAKYAN Samvel,ARM,"Born: Dec 08, 1998",B.weight: 76.32,Group: A,1: -118,2: 118,3: 126,Total: 126,77kgMen,Snatch,334
-Rank: 5,OKHRIMENKO Dmitrii,RUS,"Born: Jan 27, 1999",B.weight: 73.97,Group: A,1: 118,2: 123,3: 125,Total: 125,77kgMen,Snatch,334
-Rank: 6,HLADYSH Oleksandr,UKR,"Born: May 25, 1998",B.weight: 73.11,Group: A,1: 114,2: 118,3: 121,Total: 121,77kgMen,Snatch,334
-Rank: 7,KLOS Kacper,POL,"Born: Feb 16, 1998",B.weight: 73.29,Group: A,1: 120,2: -125,3: -125,Total: 120,77kgMen,Snatch,334
-Rank: 8,KRIZ Lukas,CZE,"Born: Apr 07, 1998",B.weight: 73.38,Group: A,1: 120,2: -125,3: -125,Total: 120,77kgMen,Snatch,334
-Rank: 9,MIRZAYEV Sanan,AZE,"Born: Dec 15, 1999",B.weight: 75.87,Group: A,1: -118,2: 118,3: -123,Total: 118,77kgMen,Snatch,334
-Rank: 10,MARGULIS Bronislav,ISR,"Born: Jul 26, 1998",B.weight: 75.28,Group: A,1: 110,2: 115,3: -118,Total: 115,77kgMen,Snatch,334
-Rank: 11,GONTA Reinis Peteris,LAT,"Born: Jan 20, 1998",B.weight: 75.71,Group: A,1: 110,2: 115,3: -118,Total: 115,77kgMen,Snatch,334
-Rank: 12,CHOLUJ Jakub,GER,"Born: Nov 09, 1999",B.weight: 76.22,Group: A,1: 108,2: 113,3: -116,Total: 113,77kgMen,Snatch,334
-Rank: 13,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 71.67,Group: A,1: 107,2: 110,3: -115,Total: 110,77kgMen,Snatch,334
-Rank: 14,POSTEK Matej,SVK,"Born: Feb 22, 1998",B.weight: 75.60,Group: A,1: -107,2: 107,3: -112,Total: 107,77kgMen,Snatch,334
-Rank: 15,VASILONOKS Arturs,LAT,"Born: Apr 16, 1998",B.weight: 74.52,Group: A,1: 95,2: 101,3: 105,Total: 105,77kgMen,Snatch,334
-Rank: 16,PANJAVI Kian,GBR,"Born: Jul 06, 1998",B.weight: 70.89,Group: A,1: 95,2: -100,3: -100,Total: 95,77kgMen,Snatch,334
-Rank: 17,KOSONEN Jasper Erik Viljami,FIN,"Born: Jan 01, 1998",B.weight: 69.89,Group: A,1: 88,2: 93,3: -96,Total: 93,77kgMen,Snatch,334
-Rank: 18,DE HOOP Thomas Alexander,NED,"Born: Apr 23, 1999",B.weight: 70.00,Group: A,1: 79,2: 82,3: 85,Total: 85,77kgMen,Snatch,334
-Rank: 1,DAVITADZE Revaz,GEO,"Born: Oct 16, 1998",B.weight: 76.55,Group: A,1: 158,2: 164,3: -168,Total: 164,77kgMen,CleanJerk,334
-Rank: 2,BADZIAGOWSKI Kacper,POL,"Born: Oct 30, 1998",B.weight: 76.83,Group: A,1: 160,2: -164,3: 164,Total: 164,77kgMen,CleanJerk,334
-Rank: 3,BABAKYAN Samvel,ARM,"Born: Dec 08, 1998",B.weight: 76.32,Group: A,1: 153,2: -158,3: 158,Total: 158,77kgMen,CleanJerk,334
-Rank: 4,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 76.24,Group: A,1: 153,2: -157,3: 157,Total: 157,77kgMen,CleanJerk,334
-Rank: 5,KLOS Kacper,POL,"Born: Feb 16, 1998",B.weight: 73.29,Group: A,1: 152,2: 156,3: -159,Total: 156,77kgMen,CleanJerk,334
-Rank: 6,HLADYSH Oleksandr,UKR,"Born: May 25, 1998",B.weight: 73.11,Group: A,1: 141,2: 146,3: 151,Total: 151,77kgMen,CleanJerk,334
-Rank: 7,OKHRIMENKO Dmitrii,RUS,"Born: Jan 27, 1999",B.weight: 73.97,Group: A,1: 147,2: -152,3: -153,Total: 147,77kgMen,CleanJerk,334
-Rank: 8,KRIZ Lukas,CZE,"Born: Apr 07, 1998",B.weight: 73.38,Group: A,1: 140,2: -145,3: 145,Total: 145,77kgMen,CleanJerk,334
-Rank: 9,MIRZAYEV Sanan,AZE,"Born: Dec 15, 1999",B.weight: 75.87,Group: A,1: 130,2: 143,3: -150,Total: 143,77kgMen,CleanJerk,334
-Rank: 10,MARGULIS Bronislav,ISR,"Born: Jul 26, 1998",B.weight: 75.28,Group: A,1: 130,2: 136,3: 137,Total: 137,77kgMen,CleanJerk,334
-Rank: 11,POSTEK Matej,SVK,"Born: Feb 22, 1998",B.weight: 75.60,Group: A,1: -135,2: -135,3: 137,Total: 137,77kgMen,CleanJerk,334
-Rank: 12,GONTA Reinis Peteris,LAT,"Born: Jan 20, 1998",B.weight: 75.71,Group: A,1: -132,2: 132,3: 137,Total: 137,77kgMen,CleanJerk,334
-Rank: 13,CHOLUJ Jakub,GER,"Born: Nov 09, 1999",B.weight: 76.22,Group: A,1: 130,2: 135,3: -140,Total: 135,77kgMen,CleanJerk,334
-Rank: 14,VASILONOKS Arturs,LAT,"Born: Apr 16, 1998",B.weight: 74.52,Group: A,1: 121,2: 128,3: -132,Total: 128,77kgMen,CleanJerk,334
-Rank: 15,PANJAVI Kian,GBR,"Born: Jul 06, 1998",B.weight: 70.89,Group: A,1: 115,2: 118,3: -121,Total: 118,77kgMen,CleanJerk,334
-Rank: 16,KOSONEN Jasper Erik Viljami,FIN,"Born: Jan 01, 1998",B.weight: 69.89,Group: A,1: 110,2: 117,3: -121,Total: 117,77kgMen,CleanJerk,334
-Rank: 17,DE HOOP Thomas Alexander,NED,"Born: Apr 23, 1999",B.weight: 70.00,Group: A,1: 101,2: 106,3: -109,Total: 106,77kgMen,CleanJerk,334
-Rank: ---,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 71.67,Group: A,1: -129,2: ---,3: ---,Total: ---,77kgMen,CleanJerk,334
-Rank: 1,BADZIAGOWSKI Kacper,POL,"Born: Oct 30, 1998",B.weight: 76.83,Group: A,Snatch: 140,CI&Jerk: 164,Total: 304,,77kgMen,Total,334
-Rank: 2,DAVITADZE Revaz,GEO,"Born: Oct 16, 1998",B.weight: 76.55,Group: A,Snatch: 136,CI&Jerk: 164,Total: 300,,77kgMen,Total,334
-Rank: 3,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 76.24,Group: A,Snatch: 130,CI&Jerk: 157,Total: 287,,77kgMen,Total,334
-Rank: 4,BABAKYAN Samvel,ARM,"Born: Dec 08, 1998",B.weight: 76.32,Group: A,Snatch: 126,CI&Jerk: 158,Total: 284,,77kgMen,Total,334
-Rank: 5,KLOS Kacper,POL,"Born: Feb 16, 1998",B.weight: 73.29,Group: A,Snatch: 120,CI&Jerk: 156,Total: 276,,77kgMen,Total,334
-Rank: 6,HLADYSH Oleksandr,UKR,"Born: May 25, 1998",B.weight: 73.11,Group: A,Snatch: 121,CI&Jerk: 151,Total: 272,,77kgMen,Total,334
-Rank: 7,OKHRIMENKO Dmitrii,RUS,"Born: Jan 27, 1999",B.weight: 73.97,Group: A,Snatch: 125,CI&Jerk: 147,Total: 272,,77kgMen,Total,334
-Rank: 8,KRIZ Lukas,CZE,"Born: Apr 07, 1998",B.weight: 73.38,Group: A,Snatch: 120,CI&Jerk: 145,Total: 265,,77kgMen,Total,334
-Rank: 9,MIRZAYEV Sanan,AZE,"Born: Dec 15, 1999",B.weight: 75.87,Group: A,Snatch: 118,CI&Jerk: 143,Total: 261,,77kgMen,Total,334
-Rank: 10,MARGULIS Bronislav,ISR,"Born: Jul 26, 1998",B.weight: 75.28,Group: A,Snatch: 115,CI&Jerk: 137,Total: 252,,77kgMen,Total,334
-Rank: 11,GONTA Reinis Peteris,LAT,"Born: Jan 20, 1998",B.weight: 75.71,Group: A,Snatch: 115,CI&Jerk: 137,Total: 252,,77kgMen,Total,334
-Rank: 12,CHOLUJ Jakub,GER,"Born: Nov 09, 1999",B.weight: 76.22,Group: A,Snatch: 113,CI&Jerk: 135,Total: 248,,77kgMen,Total,334
-Rank: 13,POSTEK Matej,SVK,"Born: Feb 22, 1998",B.weight: 75.60,Group: A,Snatch: 107,CI&Jerk: 137,Total: 244,,77kgMen,Total,334
-Rank: 14,VASILONOKS Arturs,LAT,"Born: Apr 16, 1998",B.weight: 74.52,Group: A,Snatch: 105,CI&Jerk: 128,Total: 233,,77kgMen,Total,334
-Rank: 15,PANJAVI Kian,GBR,"Born: Jul 06, 1998",B.weight: 70.89,Group: A,Snatch: 95,CI&Jerk: 118,Total: 213,,77kgMen,Total,334
-Rank: 16,KOSONEN Jasper Erik Viljami,FIN,"Born: Jan 01, 1998",B.weight: 69.89,Group: A,Snatch: 93,CI&Jerk: 117,Total: 210,,77kgMen,Total,334
-Rank: 17,DE HOOP Thomas Alexander,NED,"Born: Apr 23, 1999",B.weight: 70.00,Group: A,Snatch: 85,CI&Jerk: 106,Total: 191,,77kgMen,Total,334
-Rank: ---,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 71.67,Group: A,Snatch: 110,CI&Jerk: ---,Total: ---,,77kgMen,Total,334
-Rank: 1,ISMAYILOV Huseyn,AZE,"Born: Jan 30, 1999",B.weight: 81.48,Group: A,1: -135,2: 135,3: 139,Total: 139,85kgMen,Snatch,334
-Rank: 2,YENGIBARYAN Harutyun,ARM,"Born: Mar 17, 1998",B.weight: 84.45,Group: A,1: -130,2: 130,3: 138,Total: 138,85kgMen,Snatch,334
-Rank: 3,SKULIMOWSKI Mateusz,POL,"Born: Jul 31, 1998",B.weight: 84.12,Group: A,1: 133,2: 137,3: -139,Total: 137,85kgMen,Snatch,334
-Rank: 4,OBUKHOV Igor,UKR,"Born: May 05, 1998",B.weight: 83.72,Group: A,1: 130,2: 134,3: 136,Total: 136,85kgMen,Snatch,334
-Rank: 5,PIANSKI Julian,GER,"Born: Jun 10, 1998",B.weight: 84.32,Group: A,1: 125,2: 129,3: 131,Total: 131,85kgMen,Snatch,334
-Rank: 6,MERT Ertan,TUR,"Born: Oct 12, 1998",B.weight: 83.33,Group: A,1: 123,2: 130,3: -133,Total: 130,85kgMen,Snatch,334
-Rank: 7,MARTIROSYAN Arsen,ARM,"Born: Jul 24, 1998",B.weight: 84.45,Group: A,1: 130,2: -135,3: -136,Total: 130,85kgMen,Snatch,334
-Rank: 8,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 82.00,Group: A,1: 119,2: 124,3: 126,Total: 126,85kgMen,Snatch,334
-Rank: 9,BERTRAN Kristijan,SRB,"Born: Nov 27, 1998",B.weight: 84.16,Group: A,1: -117,2: 117,3: 123,Total: 123,85kgMen,Snatch,334
-Rank: 10,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 83.56,Group: A,1: -105,2: 105,3: 110,Total: 110,85kgMen,Snatch,334
-Rank: 11,RYBAK Eduard,CZE,"Born: Jul 21, 1999",B.weight: 82.56,Group: A,1: -97,2: 97,3: -102,Total: 97,85kgMen,Snatch,334
-Rank: ---,FISCHER David,AUT,"Born: Nov 03, 1998",B.weight: 84.93,Group: A,1: -130,2: -130,3: -131,Total: ---,85kgMen,Snatch,334
-Rank: 1,OBUKHOV Igor,UKR,"Born: May 05, 1998",B.weight: 83.72,Group: A,1: 167,2: 172,3: 181,Total: 181,85kgMen,CleanJerk,334
-Rank: 2,MARTIROSYAN Arsen,ARM,"Born: Jul 24, 1998",B.weight: 84.45,Group: A,1: 160,2: 165,3: 171,Total: 171,85kgMen,CleanJerk,334
-Rank: 3,SKULIMOWSKI Mateusz,POL,"Born: Jul 31, 1998",B.weight: 84.12,Group: A,1: 160,2: 164,3: -166,Total: 164,85kgMen,CleanJerk,334
-Rank: 4,ISMAYILOV Huseyn,AZE,"Born: Jan 30, 1999",B.weight: 81.48,Group: A,1: 155,2: 161,3: -164,Total: 161,85kgMen,CleanJerk,334
-Rank: 6,FISCHER David,AUT,"Born: Nov 03, 1998",B.weight: 84.93,Group: A,1: 155,2: 161,3: -165,Total: 161,85kgMen,CleanJerk,334
-Rank: 6,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 82.00,Group: A,1: 155,2: 160,3: -165,Total: 160,85kgMen,CleanJerk,334
-Rank: 7,PIANSKI Julian,GER,"Born: Jun 10, 1998",B.weight: 84.32,Group: A,1: -155,2: 155,3: 160,Total: 160,85kgMen,CleanJerk,334
-Rank: 8,MERT Ertan,TUR,"Born: Oct 12, 1998",B.weight: 83.33,Group: A,1: 152,2: -157,3: 158,Total: 158,85kgMen,CleanJerk,334
-Rank: 9,BERTRAN Kristijan,SRB,"Born: Nov 27, 1998",B.weight: 84.16,Group: A,1: -147,2: 147,3: 152,Total: 152,85kgMen,CleanJerk,334
-Rank: 10,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 83.56,Group: A,1: 135,2: 140,3: -145,Total: 140,85kgMen,CleanJerk,334
-Rank: 11,RYBAK Eduard,CZE,"Born: Jul 21, 1999",B.weight: 82.56,Group: A,1: -125,2: 125,3: -130,Total: 125,85kgMen,CleanJerk,334
-Rank: ---,YENGIBARYAN Harutyun,ARM,"Born: Mar 17, 1998",B.weight: 84.45,Group: A,1: -160,2: -160,3: -160,Total: ---,85kgMen,CleanJerk,334
-Rank: 1,OBUKHOV Igor,UKR,"Born: May 05, 1998",B.weight: 83.72,Group: A,Snatch: 136,CI&Jerk: 181,Total: 317,,85kgMen,Total,334
-Rank: 2,SKULIMOWSKI Mateusz,POL,"Born: Jul 31, 1998",B.weight: 84.12,Group: A,Snatch: 137,CI&Jerk: 164,Total: 301,,85kgMen,Total,334
-Rank: 3,MARTIROSYAN Arsen,ARM,"Born: Jul 24, 1998",B.weight: 84.45,Group: A,Snatch: 130,CI&Jerk: 171,Total: 301,,85kgMen,Total,334
-Rank: 4,ISMAYILOV Huseyn,AZE,"Born: Jan 30, 1999",B.weight: 81.48,Group: A,Snatch: 139,CI&Jerk: 161,Total: 300,,85kgMen,Total,334
-Rank: 5,PIANSKI Julian,GER,"Born: Jun 10, 1998",B.weight: 84.32,Group: A,Snatch: 131,CI&Jerk: 160,Total: 291,,85kgMen,Total,334
-Rank: 6,MERT Ertan,TUR,"Born: Oct 12, 1998",B.weight: 83.33,Group: A,Snatch: 130,CI&Jerk: 158,Total: 288,,85kgMen,Total,334
-Rank: 7,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 82.00,Group: A,Snatch: 126,CI&Jerk: 160,Total: 286,,85kgMen,Total,334
-Rank: 8,BERTRAN Kristijan,SRB,"Born: Nov 27, 1998",B.weight: 84.16,Group: A,Snatch: 123,CI&Jerk: 152,Total: 275,,85kgMen,Total,334
-Rank: 9,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 83.56,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,85kgMen,Total,334
-Rank: 10,RYBAK Eduard,CZE,"Born: Jul 21, 1999",B.weight: 82.56,Group: A,Snatch: 97,CI&Jerk: 125,Total: 222,,85kgMen,Total,334
-Rank: ---,FISCHER David,AUT,"Born: Nov 03, 1998",B.weight: 84.93,Group: A,Snatch: ---,CI&Jerk: 161,Total: ---,,85kgMen,Total,334
-Rank: ---,YENGIBARYAN Harutyun,ARM,"Born: Mar 17, 1998",B.weight: 84.45,Group: A,Snatch: 138,CI&Jerk: ---,Total: ---,,85kgMen,Total,334
-Rank: 1,SVALOV Mikhail,RUS,"Born: Nov 24, 1998",B.weight: 92.04,Group: A,1: -138,2: 138,3: 141,Total: 141,94kgMen,Snatch,334
-Rank: 2,KIRAKOSYAN Sargis,ARM,"Born: Dec 30, 1998",B.weight: 93.58,Group: A,1: 130,2: 135,3: 138,Total: 138,94kgMen,Snatch,334
-Rank: 3,CHERNYSHOV Dmitrii,RUS,"Born: May 01, 1998",B.weight: 92.01,Group: A,1: 130,2: -134,3: 134,Total: 134,94kgMen,Snatch,334
-Rank: 4,GRIGORYAN Grigor,ARM,"Born: Jan 18, 1998",B.weight: 92.17,Group: A,1: 130,2: -135,3: -135,Total: 130,94kgMen,Snatch,334
-Rank: 5,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 92.24,Group: A,1: 125,2: 130,3: -135,Total: 130,94kgMen,Snatch,334
-Rank: 6,CURCURUTO Matteo,ITA,"Born: Aug 17, 1998",B.weight: 92.31,Group: A,1: 125,2: -130,3: 130,Total: 130,94kgMen,Snatch,334
-Rank: 7,KULZER Peter,GER,"Born: Mar 13, 1998",B.weight: 92.71,Group: A,1: -125,2: 125,3: 130,Total: 130,94kgMen,Snatch,334
-Rank: 8,GORNY Jakub,CZE,"Born: Jul 05, 1998",B.weight: 92.53,Group: A,1: 120,2: -124,3: 125,Total: 125,94kgMen,Snatch,334
-Rank: 9,MARTENSSON Anton Andreas,SWE,"Born: Sep 19, 1998",B.weight: 93.05,Group: A,1: 100,2: -105,3: -105,Total: 100,94kgMen,Snatch,334
-Rank: 1,KIRAKOSYAN Sargis,ARM,"Born: Dec 30, 1998",B.weight: 93.58,Group: A,1: -165,2: 167,3: ---,Total: 167,94kgMen,CleanJerk,334
-Rank: 2,CHERNYSHOV Dmitrii,RUS,"Born: May 01, 1998",B.weight: 92.01,Group: A,1: 161,2: 166,3: -171,Total: 166,94kgMen,CleanJerk,334
-Rank: 3,CURCURUTO Matteo,ITA,"Born: Aug 17, 1998",B.weight: 92.31,Group: A,1: 160,2: 166,3: -171,Total: 166,94kgMen,CleanJerk,334
-Rank: 4,GORNY Jakub,CZE,"Born: Jul 05, 1998",B.weight: 92.53,Group: A,1: 152,2: -157,3: 157,Total: 157,94kgMen,CleanJerk,334
-Rank: 5,KULZER Peter,GER,"Born: Mar 13, 1998",B.weight: 92.71,Group: A,1: 157,2: -161,3: ---,Total: 157,94kgMen,CleanJerk,334
-Rank: 6,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 92.24,Group: A,1: 147,2: -155,3: -157,Total: 147,94kgMen,CleanJerk,334
-Rank: ---,GRIGORYAN Grigor,ARM,"Born: Jan 18, 1998",B.weight: 92.17,Group: A,1: ---,2: ---,3: ---,Total: ---,94kgMen,CleanJerk,334
-Rank: ---,SVALOV Mikhail,RUS,"Born: Nov 24, 1998",B.weight: 92.04,Group: A,1: -163,2: -163,3: -163,Total: ---,94kgMen,CleanJerk,334
-Rank: ---,MARTENSSON Anton Andreas,SWE,"Born: Sep 19, 1998",B.weight: 93.05,Group: A,1: -140,2: -140,3: -141,Total: ---,94kgMen,CleanJerk,334
-Rank: 1,KIRAKOSYAN Sargis,ARM,"Born: Dec 30, 1998",B.weight: 93.58,Group: A,Snatch: 138,CI&Jerk: 167,Total: 305,,94kgMen,Total,334
-Rank: 2,CHERNYSHOV Dmitrii,RUS,"Born: May 01, 1998",B.weight: 92.01,Group: A,Snatch: 134,CI&Jerk: 166,Total: 300,,94kgMen,Total,334
-Rank: 3,CURCURUTO Matteo,ITA,"Born: Aug 17, 1998",B.weight: 92.31,Group: A,Snatch: 130,CI&Jerk: 166,Total: 296,,94kgMen,Total,334
-Rank: 4,KULZER Peter,GER,"Born: Mar 13, 1998",B.weight: 92.71,Group: A,Snatch: 130,CI&Jerk: 157,Total: 287,,94kgMen,Total,334
-Rank: 5,GORNY Jakub,CZE,"Born: Jul 05, 1998",B.weight: 92.53,Group: A,Snatch: 125,CI&Jerk: 157,Total: 282,,94kgMen,Total,334
-Rank: 6,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 92.24,Group: A,Snatch: 130,CI&Jerk: 147,Total: 277,,94kgMen,Total,334
-Rank: ---,GRIGORYAN Grigor,ARM,"Born: Jan 18, 1998",B.weight: 92.17,Group: A,Snatch: 130,CI&Jerk: ---,Total: ---,,94kgMen,Total,334
-Rank: ---,SVALOV Mikhail,RUS,"Born: Nov 24, 1998",B.weight: 92.04,Group: A,Snatch: 141,CI&Jerk: ---,Total: ---,,94kgMen,Total,334
-Rank: ---,MARTENSSON Anton Andreas,SWE,"Born: Sep 19, 1998",B.weight: 93.05,Group: A,Snatch: 100,CI&Jerk: ---,Total: ---,,94kgMen,Total,334
-Rank: 1,GRETSA Dmitrii,RUS,"Born: Jul 08, 1999",B.weight: 143.15,Group: A,1: -136,2: 136,3: 140,Total: 140,+94kgMen,Snatch,334
-Rank: 2,BACHIR EL HARRAOUI Abiolah,ESP,"Born: Aug 04, 1998",B.weight: 106.60,Group: A,1: 132,2: 136,3: 139,Total: 139,+94kgMen,Snatch,334
-Rank: 3,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 127.20,Group: A,1: 130,2: 135,3: 138,Total: 138,+94kgMen,Snatch,334
-Rank: 4,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.48,Group: A,1: 125,2: 130,3: 133,Total: 133,+94kgMen,Snatch,334
-Rank: 5,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.85,Group: A,1: 125,2: 130,3: 132,Total: 132,+94kgMen,Snatch,334
-Rank: 6,HOLOCSI Krisztian,SVK,"Born: Sep 08, 1998",B.weight: 108.81,Group: A,1: 132,2: -136,3: -136,Total: 132,+94kgMen,Snatch,334
-Rank: 7,MILLER Jalaal Isa Abdul-Aziz,GBR,"Born: Jul 21, 1998",B.weight: 134.15,Group: A,1: 110,2: 115,3: -118,Total: 115,+94kgMen,Snatch,334
-Rank: 8,IVANOVS Nikita,LAT,"Born: Aug 13, 1998",B.weight: 105.20,Group: A,1: 114,2: -118,3: -118,Total: 114,+94kgMen,Snatch,334
-Rank: 1,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 127.20,Group: A,1: 162,2: 167,3: 171,Total: 171,+94kgMen,CleanJerk,334
-Rank: 2,GRETSA Dmitrii,RUS,"Born: Jul 08, 1999",B.weight: 143.15,Group: A,1: 166,2: 170,3: -175,Total: 170,+94kgMen,CleanJerk,334
-Rank: 3,BACHIR EL HARRAOUI Abiolah,ESP,"Born: Aug 04, 1998",B.weight: 106.60,Group: A,1: 160,2: 165,3: 169,Total: 169,+94kgMen,CleanJerk,334
-Rank: 4,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.85,Group: A,1: 160,2: 165,3: -167,Total: 165,+94kgMen,CleanJerk,334
-Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.48,Group: A,1: 155,2: 161,3: -167,Total: 161,+94kgMen,CleanJerk,334
-Rank: 6,HOLOCSI Krisztian,SVK,"Born: Sep 08, 1998",B.weight: 108.81,Group: A,1: 160,2: -166,3: -169,Total: 160,+94kgMen,CleanJerk,334
-Rank: 7,IVANOVS Nikita,LAT,"Born: Aug 13, 1998",B.weight: 105.20,Group: A,1: 140,2: -145,3: 146,Total: 146,+94kgMen,CleanJerk,334
-Rank: 8,MILLER Jalaal Isa Abdul-Aziz,GBR,"Born: Jul 21, 1998",B.weight: 134.15,Group: A,1: -140,2: 140,3: 145,Total: 145,+94kgMen,CleanJerk,334
-Rank: 1,GRETSA Dmitrii,RUS,"Born: Jul 08, 1999",B.weight: 143.15,Group: A,Snatch: 140,CI&Jerk: 170,Total: 310,,+94kgMen,Total,334
-Rank: 2,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 127.20,Group: A,Snatch: 138,CI&Jerk: 171,Total: 309,,+94kgMen,Total,334
-Rank: 3,BACHIR EL HARRAOUI Abiolah,ESP,"Born: Aug 04, 1998",B.weight: 106.60,Group: A,Snatch: 139,CI&Jerk: 169,Total: 308,,+94kgMen,Total,334
-Rank: 4,PELTONEN Roni Jali Kasperi,FIN,"Born: Oct 06, 1998",B.weight: 104.85,Group: A,Snatch: 132,CI&Jerk: 165,Total: 297,,+94kgMen,Total,334
-Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.48,Group: A,Snatch: 133,CI&Jerk: 161,Total: 294,,+94kgMen,Total,334
-Rank: 6,HOLOCSI Krisztian,SVK,"Born: Sep 08, 1998",B.weight: 108.81,Group: A,Snatch: 132,CI&Jerk: 160,Total: 292,,+94kgMen,Total,334
-Rank: 7,IVANOVS Nikita,LAT,"Born: Aug 13, 1998",B.weight: 105.20,Group: A,Snatch: 114,CI&Jerk: 146,Total: 260,,+94kgMen,Total,334
-Rank: 8,MILLER Jalaal Isa Abdul-Aziz,GBR,"Born: Jul 21, 1998",B.weight: 134.15,Group: A,Snatch: 115,CI&Jerk: 145,Total: 260,,+94kgMen,Total,334
-Rank: 1,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 43.85,Group: A,1: -53,2: 55,3: 61,Total: 61,44kgWomen,Snatch,334
-Rank: 2,MIRANKOVA Aliaksandra,BLR,"Born: May 24, 1999",B.weight: 43.97,Group: A,1: -55,2: 56,3: -60,Total: 56,44kgWomen,Snatch,334
-Rank: 3,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 43.57,Group: A,1: 50,2: -51,3: 51,Total: 51,44kgWomen,Snatch,334
-Rank: 4,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 43.56,Group: A,1: -47,2: 47,3: 50,Total: 50,44kgWomen,Snatch,334
-Rank: 5,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 43.70,Group: A,1: 42,2: 45,3: -48,Total: 45,44kgWomen,Snatch,334
-Rank: 6,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.97,Group: A,1: 45,2: -50,3: -50,Total: 45,44kgWomen,Snatch,334
-Rank: 1,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 43.85,Group: A,1: 67,2: 72,3: 74,Total: 74,44kgWomen,CleanJerk,334
-Rank: 2,MIRANKOVA Aliaksandra,BLR,"Born: May 24, 1999",B.weight: 43.97,Group: A,1: 70,2: 73,3: -75,Total: 73,44kgWomen,CleanJerk,334
-Rank: 3,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 43.70,Group: A,1: 60,2: -64,3: 64,Total: 64,44kgWomen,CleanJerk,334
-Rank: 4,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 43.57,Group: A,1: 60,2: 62,3: -65,Total: 62,44kgWomen,CleanJerk,334
-Rank: 5,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 43.56,Group: A,1: -58,2: 58,3: -62,Total: 58,44kgWomen,CleanJerk,334
-Rank: 6,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.97,Group: A,1: 55,2: -64,3: -64,Total: 55,44kgWomen,CleanJerk,334
-Rank: 1,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 43.85,Group: A,Snatch: 61,CI&Jerk: 74,Total: 135,,44kgWomen,Total,334
-Rank: 2,MIRANKOVA Aliaksandra,BLR,"Born: May 24, 1999",B.weight: 43.97,Group: A,Snatch: 56,CI&Jerk: 73,Total: 129,,44kgWomen,Total,334
-Rank: 3,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 43.57,Group: A,Snatch: 51,CI&Jerk: 62,Total: 113,,44kgWomen,Total,334
-Rank: 4,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 43.70,Group: A,Snatch: 45,CI&Jerk: 64,Total: 109,,44kgWomen,Total,334
-Rank: 5,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 43.56,Group: A,Snatch: 50,CI&Jerk: 58,Total: 108,,44kgWomen,Total,334
-Rank: 6,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.97,Group: A,Snatch: 45,CI&Jerk: 55,Total: 100,,44kgWomen,Total,334
-Rank: 1,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.62,Group: A,1: 63,2: 65,3: 67,Total: 67,48kgWomen,Snatch,334
-Rank: 2,ACAR Elif,TUR,"Born: Apr 05, 1998",B.weight: 47.68,Group: A,1: 58,2: 61,3: -63,Total: 61,48kgWomen,Snatch,334
-Rank: 3,SHELEH Natalya,BLR,"Born: Oct 07, 1998",B.weight: 47.72,Group: A,1: 56,2: 61,3: -63,Total: 61,48kgWomen,Snatch,334
-Rank: 4,WALZAK Pauline,GER,"Born: Jun 25, 1999",B.weight: 47.56,Group: A,1: 57,2: -60,3: 60,Total: 60,48kgWomen,Snatch,334
-Rank: 5,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 47.83,Group: A,1: 54,2: 57,3: -62,Total: 57,48kgWomen,Snatch,334
-Rank: 1,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.62,Group: A,1: 80,2: 85,3: 87,Total: 87,48kgWomen,CleanJerk,334
-Rank: 2,ACAR Elif,TUR,"Born: Apr 05, 1998",B.weight: 47.68,Group: A,1: 71,2: 74,3: 75,Total: 75,48kgWomen,CleanJerk,334
-Rank: 3,WALZAK Pauline,GER,"Born: Jun 25, 1999",B.weight: 47.56,Group: A,1: 69,2: 72,3: 74,Total: 74,48kgWomen,CleanJerk,334
-Rank: 4,SHELEH Natalya,BLR,"Born: Oct 07, 1998",B.weight: 47.72,Group: A,1: 70,2: 73,3: 74,Total: 74,48kgWomen,CleanJerk,334
-Rank: 5,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 47.83,Group: A,1: 64,2: -68,3: 72,Total: 72,48kgWomen,CleanJerk,334
-Rank: 1,KARAKOL Gamze,TUR,"Born: Dec 15, 1998",B.weight: 47.62,Group: A,Snatch: 67,CI&Jerk: 87,Total: 154,,48kgWomen,Total,334
-Rank: 2,ACAR Elif,TUR,"Born: Apr 05, 1998",B.weight: 47.68,Group: A,Snatch: 61,CI&Jerk: 75,Total: 136,,48kgWomen,Total,334
-Rank: 3,SHELEH Natalya,BLR,"Born: Oct 07, 1998",B.weight: 47.72,Group: A,Snatch: 61,CI&Jerk: 74,Total: 135,,48kgWomen,Total,334
-Rank: 4,WALZAK Pauline,GER,"Born: Jun 25, 1999",B.weight: 47.56,Group: A,Snatch: 60,CI&Jerk: 74,Total: 134,,48kgWomen,Total,334
-Rank: 5,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 47.83,Group: A,Snatch: 57,CI&Jerk: 72,Total: 129,,48kgWomen,Total,334
-Rank: 1,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 52.47,Group: A,1: 81,2: 84,3: 88,Total: 88,53kgWomen,Snatch,334
-Rank: 2,NOVITSKAIA Kristina,RUS,"Born: Sep 22, 1999",B.weight: 51.13,Group: A,1: 67,2: 70,3: 73,Total: 73,53kgWomen,Snatch,334
-Rank: 3,MAKUTSEVICH Krystsina,BLR,"Born: May 26, 1999",B.weight: 52.99,Group: A,1: 66,2: 70,3: 72,Total: 72,53kgWomen,Snatch,334
-Rank: 4,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 52.29,Group: A,1: 65,2: -68,3: 68,Total: 68,53kgWomen,Snatch,334
-Rank: 5,MROZ Kinga,POL,"Born: Jan 22, 1998",B.weight: 52.85,Group: A,1: -64,2: 65,3: 68,Total: 68,53kgWomen,Snatch,334
-Rank: 6,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.60,Group: A,1: 62,2: -65,3: -65,Total: 62,53kgWomen,Snatch,334
-Rank: 7,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 52.74,Group: A,1: 57,2: 60,3: 62,Total: 62,53kgWomen,Snatch,334
-Rank: 8,LASKER Revital,ISR,"Born: May 04, 1998",B.weight: 52.95,Group: A,1: 50,2: 53,3: 54,Total: 54,53kgWomen,Snatch,334
-Rank: 9,BARNA Zsofia Dora,HUN,"Born: Aug 11, 1998",B.weight: 51.04,Group: A,1: 48,2: 51,3: 53,Total: 53,53kgWomen,Snatch,334
-Rank: 1,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 52.47,Group: A,1: 98,2: 102,3: ---,Total: 102,53kgWomen,CleanJerk,334
-Rank: 2,NOVITSKAIA Kristina,RUS,"Born: Sep 22, 1999",B.weight: 51.13,Group: A,1: 87,2: 90,3: ---,Total: 90,53kgWomen,CleanJerk,334
-Rank: 3,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 52.29,Group: A,1: 85,2: 88,3: 90,Total: 90,53kgWomen,CleanJerk,334
-Rank: 4,MROZ Kinga,POL,"Born: Jan 22, 1998",B.weight: 52.85,Group: A,1: 83,2: 86,3: 89,Total: 89,53kgWomen,CleanJerk,334
-Rank: 5,MAKUTSEVICH Krystsina,BLR,"Born: May 26, 1999",B.weight: 52.99,Group: A,1: 83,2: 88,3: -90,Total: 88,53kgWomen,CleanJerk,334
-Rank: 6,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 52.74,Group: A,1: -77,2: 77,3: -80,Total: 77,53kgWomen,CleanJerk,334
-Rank: 7,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.60,Group: A,1: 72,2: 75,3: -79,Total: 75,53kgWomen,CleanJerk,334
-Rank: 8,BARNA Zsofia Dora,HUN,"Born: Aug 11, 1998",B.weight: 51.04,Group: A,1: 63,2: 66,3: 67,Total: 67,53kgWomen,CleanJerk,334
-Rank: 9,LASKER Revital,ISR,"Born: May 04, 1998",B.weight: 52.95,Group: A,1: 63,2: -65,3: 66,Total: 66,53kgWomen,CleanJerk,334
-Rank: 1,KOHA Rebeka,LAT,"Born: May 19, 1998",B.weight: 52.47,Group: A,Snatch: 88,CI&Jerk: 102,Total: 190,,53kgWomen,Total,334
-Rank: 2,NOVITSKAIA Kristina,RUS,"Born: Sep 22, 1999",B.weight: 51.13,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,53kgWomen,Total,334
-Rank: 3,MAKUTSEVICH Krystsina,BLR,"Born: May 26, 1999",B.weight: 52.99,Group: A,Snatch: 72,CI&Jerk: 88,Total: 160,,53kgWomen,Total,334
-Rank: 4,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 52.29,Group: A,Snatch: 68,CI&Jerk: 90,Total: 158,,53kgWomen,Total,334
-Rank: 5,MROZ Kinga,POL,"Born: Jan 22, 1998",B.weight: 52.85,Group: A,Snatch: 68,CI&Jerk: 89,Total: 157,,53kgWomen,Total,334
-Rank: 6,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 52.74,Group: A,Snatch: 62,CI&Jerk: 77,Total: 139,,53kgWomen,Total,334
-Rank: 7,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.60,Group: A,Snatch: 62,CI&Jerk: 75,Total: 137,,53kgWomen,Total,334
-Rank: 8,BARNA Zsofia Dora,HUN,"Born: Aug 11, 1998",B.weight: 51.04,Group: A,Snatch: 53,CI&Jerk: 67,Total: 120,,53kgWomen,Total,334
-Rank: 9,LASKER Revital,ISR,"Born: May 04, 1998",B.weight: 52.95,Group: A,Snatch: 54,CI&Jerk: 66,Total: 120,,53kgWomen,Total,334
-Rank: 1,FURDIK Irina,RUS,"Born: Jun 16, 1998",B.weight: 57.82,Group: A,1: 80,2: 83,3: 85,Total: 85,58kgWomen,Snatch,334
-Rank: 2,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 57.77,Group: A,1: 78,2: 81,3: 84,Total: 84,58kgWomen,Snatch,334
-Rank: 3,LYTKINA Anna,RUS,"Born: May 28, 1998",B.weight: 56.89,Group: A,1: 80,2: -83,3: 83,Total: 83,58kgWomen,Snatch,334
-Rank: 4,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.10,Group: A,1: -82,2: -82,3: 82,Total: 82,58kgWomen,Snatch,334
-Rank: 5,PEPLOWSKA Aleksandra,POL,"Born: Apr 13, 1998",B.weight: 57.73,Group: A,1: 78,2: -81,3: -81,Total: 78,58kgWomen,Snatch,334
-Rank: 6,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.00,Group: A,1: -75,2: 75,3: -78,Total: 75,58kgWomen,Snatch,334
-Rank: 7,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.48,Group: A,1: 70,2: -73,3: 73,Total: 73,58kgWomen,Snatch,334
-Rank: 8,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 57.61,Group: A,1: -68,2: 68,3: -71,Total: 68,58kgWomen,Snatch,334
-Rank: 9,KOPYTKO Iryna,UKR,"Born: Feb 24, 1998",B.weight: 57.92,Group: A,1: 68,2: -71,3: -71,Total: 68,58kgWomen,Snatch,334
-Rank: 10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Born: Aug 28, 1998",B.weight: 57.85,Group: A,1: 59,2: 62,3: -64,Total: 62,58kgWomen,Snatch,334
-Rank: ---,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.84,Group: A,1: -65,2: -65,3: -65,Total: ---,58kgWomen,Snatch,334
-Rank: 1,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.10,Group: A,1: 101,2: 104,3: 107,Total: 107,58kgWomen,CleanJerk,334
-Rank: 2,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 57.77,Group: A,1: 95,2: 101,3: -103,Total: 101,58kgWomen,CleanJerk,334
-Rank: 3,FURDIK Irina,RUS,"Born: Jun 16, 1998",B.weight: 57.82,Group: A,1: -100,2: -100,3: 101,Total: 101,58kgWomen,CleanJerk,334
-Rank: 4,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.00,Group: A,1: 90,2: 93,3: 96,Total: 96,58kgWomen,CleanJerk,334
-Rank: 5,LYTKINA Anna,RUS,"Born: May 28, 1998",B.weight: 56.89,Group: A,1: 88,2: 93,3: -97,Total: 93,58kgWomen,CleanJerk,334
-Rank: 6,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.48,Group: A,1: -92,2: 92,3: -98,Total: 92,58kgWomen,CleanJerk,334
-Rank: 7,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 57.61,Group: A,1: 88,2: 91,3: -94,Total: 91,58kgWomen,CleanJerk,334
-Rank: 8,PEPLOWSKA Aleksandra,POL,"Born: Apr 13, 1998",B.weight: 57.73,Group: A,1: 91,2: -94,3: -96,Total: 91,58kgWomen,CleanJerk,334
-Rank: 9,KOPYTKO Iryna,UKR,"Born: Feb 24, 1998",B.weight: 57.92,Group: A,1: 88,2: -91,3: 91,Total: 91,58kgWomen,CleanJerk,334
-Rank: 10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Born: Aug 28, 1998",B.weight: 57.85,Group: A,1: 75,2: 80,3: -83,Total: 80,58kgWomen,CleanJerk,334
-Rank: ---,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.84,Group: A,1: ---,2: ---,3: ---,Total: ---,58kgWomen,CleanJerk,334
-Rank: 1,SANCHEZ FERRER Alba,ESP,"Born: Jan 10, 1998",B.weight: 57.10,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,58kgWomen,Total,334
-Rank: 2,FURDIK Irina,RUS,"Born: Jun 16, 1998",B.weight: 57.82,Group: A,Snatch: 85,CI&Jerk: 101,Total: 186,,58kgWomen,Total,334
-Rank: 3,TSIATSIORKINA Aliaksandra,BLR,"Born: Aug 19, 1999",B.weight: 57.77,Group: A,Snatch: 84,CI&Jerk: 101,Total: 185,,58kgWomen,Total,334
-Rank: 4,LYTKINA Anna,RUS,"Born: May 28, 1998",B.weight: 56.89,Group: A,Snatch: 83,CI&Jerk: 93,Total: 176,,58kgWomen,Total,334
-Rank: 5,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.00,Group: A,Snatch: 75,CI&Jerk: 96,Total: 171,,58kgWomen,Total,334
-Rank: 6,PEPLOWSKA Aleksandra,POL,"Born: Apr 13, 1998",B.weight: 57.73,Group: A,Snatch: 78,CI&Jerk: 91,Total: 169,,58kgWomen,Total,334
-Rank: 7,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.48,Group: A,Snatch: 73,CI&Jerk: 92,Total: 165,,58kgWomen,Total,334
-Rank: 8,DAVILA SANSINENA Susana,ESP,"Born: Feb 07, 1998",B.weight: 57.61,Group: A,Snatch: 68,CI&Jerk: 91,Total: 159,,58kgWomen,Total,334
-Rank: 9,KOPYTKO Iryna,UKR,"Born: Feb 24, 1998",B.weight: 57.92,Group: A,Snatch: 68,CI&Jerk: 91,Total: 159,,58kgWomen,Total,334
-Rank: 10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Born: Aug 28, 1998",B.weight: 57.85,Group: A,Snatch: 62,CI&Jerk: 80,Total: 142,,58kgWomen,Total,334
-Rank: ---,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.84,Group: A,Snatch: ---,CI&Jerk: ---,Total: ---,,58kgWomen,Total,334
-Rank: 1,SHEVKOPLIAS Alona,UKR,"Born: Apr 03, 1998",B.weight: 62.61,Group: A,1: 85,2: 87,3: 89,Total: 89,63kgWomen,Snatch,334
-Rank: 2,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 61.59,Group: A,1: 78,2: 81,3: 85,Total: 85,63kgWomen,Snatch,334
-Rank: 3,CHIBISOVA Irina,RUS,"Born: May 26, 1998",B.weight: 61.62,Group: A,1: 75,2: 78,3: 80,Total: 80,63kgWomen,Snatch,334
-Rank: 4,WRZOSEK Maria,POL,"Born: Jul 26, 1999",B.weight: 62.94,Group: A,1: 75,2: 78,3: -80,Total: 78,63kgWomen,Snatch,334
-Rank: 5,TEODORESEI Mihaela,ROU,"Born: Jul 28, 1998",B.weight: 62.46,Group: A,1: 70,2: 76,3: -79,Total: 76,63kgWomen,Snatch,334
-Rank: 6,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.15,Group: A,1: 72,2: 75,3: -78,Total: 75,63kgWomen,Snatch,334
-Rank: 7,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 62.43,Group: A,1: -72,2: 72,3: 75,Total: 75,63kgWomen,Snatch,334
-Rank: 8,TOKMAK Sultan,TUR,"Born: Apr 05, 1998",B.weight: 62.11,Group: A,1: 73,2: -76,3: -76,Total: 73,63kgWomen,Snatch,334
-Rank: 9,KESKIN Yasemin,TUR,"Born: Nov 17, 1998",B.weight: 62.33,Group: A,1: 70,2: -75,3: -76,Total: 70,63kgWomen,Snatch,334
-Rank: 10,SKUGGEDAL Nora,NOR,"Born: Jun 29, 1998",B.weight: 62.81,Group: A,1: -67,2: 67,3: 70,Total: 70,63kgWomen,Snatch,334
-Rank: 11,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 61.56,Group: A,1: 66,2: 69,3: -72,Total: 69,63kgWomen,Snatch,334
-Rank: 12,LUHOVA Vanya,BUL,"Born: Oct 30, 1999",B.weight: 61.13,Group: A,1: 68,2: -71,3: -72,Total: 68,63kgWomen,Snatch,334
-Rank: 13,OTT Justine Myriam Jacqueline Joelle,FRA,"Born: Nov 02, 1998",B.weight: 63.00,Group: A,1: 62,2: 65,3: 67,Total: 67,63kgWomen,Snatch,334
-Rank: 14,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Born: Oct 22, 1999",B.weight: 61.97,Group: A,1: 61,2: 64,3: 66,Total: 66,63kgWomen,Snatch,334
-Rank: 15,HARDIE Rosie Jane,GBR,"Born: Apr 09, 1998",B.weight: 60.42,Group: A,1: 58,2: 62,3: 65,Total: 65,63kgWomen,Snatch,334
-Rank: 16,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.39,Group: A,1: 55,2: 58,3: 60,Total: 60,63kgWomen,Snatch,334
-Rank: 1,SHEVKOPLIAS Alona,UKR,"Born: Apr 03, 1998",B.weight: 62.61,Group: A,1: 101,2: 106,3: -109,Total: 106,63kgWomen,CleanJerk,334
-Rank: 2,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 61.59,Group: A,1: 100,2: -105,3: 105,Total: 105,63kgWomen,CleanJerk,334
-Rank: 3,CHIBISOVA Irina,RUS,"Born: May 26, 1998",B.weight: 61.62,Group: A,1: 95,2: 100,3: -105,Total: 100,63kgWomen,CleanJerk,334
-Rank: 4,KESKIN Yasemin,TUR,"Born: Nov 17, 1998",B.weight: 62.33,Group: A,1: -96,2: 96,3: -101,Total: 96,63kgWomen,CleanJerk,334
-Rank: 5,LUHOVA Vanya,BUL,"Born: Oct 30, 1999",B.weight: 61.13,Group: A,1: 88,2: 91,3: 95,Total: 95,63kgWomen,CleanJerk,334
-Rank: 6,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.15,Group: A,1: 91,2: 95,3: -98,Total: 95,63kgWomen,CleanJerk,334
-Rank: 7,TEODORESEI Mihaela,ROU,"Born: Jul 28, 1998",B.weight: 62.46,Group: A,1: 90,2: 94,3: -98,Total: 94,63kgWomen,CleanJerk,334
-Rank: 8,WRZOSEK Maria,POL,"Born: Jul 26, 1999",B.weight: 62.94,Group: A,1: 93,2: -96,3: -103,Total: 93,63kgWomen,CleanJerk,334
-Rank: 9,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 61.56,Group: A,1: -84,2: 84,3: 90,Total: 90,63kgWomen,CleanJerk,334
-Rank: 10,TOKMAK Sultan,TUR,"Born: Apr 05, 1998",B.weight: 62.11,Group: A,1: 86,2: -90,3: 90,Total: 90,63kgWomen,CleanJerk,334
-Rank: 11,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 62.43,Group: A,1: 90,2: -93,3: -93,Total: 90,63kgWomen,CleanJerk,334
-Rank: 12,OTT Justine Myriam Jacqueline Joelle,FRA,"Born: Nov 02, 1998",B.weight: 63.00,Group: A,1: 83,2: 88,3: -90,Total: 88,63kgWomen,CleanJerk,334
-Rank: 13,SKUGGEDAL Nora,NOR,"Born: Jun 29, 1998",B.weight: 62.81,Group: A,1: 84,2: -88,3: -90,Total: 84,63kgWomen,CleanJerk,334
-Rank: 14,HARDIE Rosie Jane,GBR,"Born: Apr 09, 1998",B.weight: 60.42,Group: A,1: 76,2: 79,3: -82,Total: 79,63kgWomen,CleanJerk,334
-Rank: 15,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.39,Group: A,1: 74,2: 78,3: -80,Total: 78,63kgWomen,CleanJerk,334
-Rank: 16,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Born: Oct 22, 1999",B.weight: 61.97,Group: A,1: 74,2: 76,3: -79,Total: 76,63kgWomen,CleanJerk,334
-Rank: 1,SHEVKOPLIAS Alona,UKR,"Born: Apr 03, 1998",B.weight: 62.61,Group: A,Snatch: 89,CI&Jerk: 106,Total: 195,,63kgWomen,Total,334
-Rank: 2,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 61.59,Group: A,Snatch: 85,CI&Jerk: 105,Total: 190,,63kgWomen,Total,334
-Rank: 3,CHIBISOVA Irina,RUS,"Born: May 26, 1998",B.weight: 61.62,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,63kgWomen,Total,334
-Rank: 4,WRZOSEK Maria,POL,"Born: Jul 26, 1999",B.weight: 62.94,Group: A,Snatch: 78,CI&Jerk: 93,Total: 171,,63kgWomen,Total,334
-Rank: 5,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.15,Group: A,Snatch: 75,CI&Jerk: 95,Total: 170,,63kgWomen,Total,334
-Rank: 6,TEODORESEI Mihaela,ROU,"Born: Jul 28, 1998",B.weight: 62.46,Group: A,Snatch: 76,CI&Jerk: 94,Total: 170,,63kgWomen,Total,334
-Rank: 7,KESKIN Yasemin,TUR,"Born: Nov 17, 1998",B.weight: 62.33,Group: A,Snatch: 70,CI&Jerk: 96,Total: 166,,63kgWomen,Total,334
-Rank: 8,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 62.43,Group: A,Snatch: 75,CI&Jerk: 90,Total: 165,,63kgWomen,Total,334
-Rank: 9,LUHOVA Vanya,BUL,"Born: Oct 30, 1999",B.weight: 61.13,Group: A,Snatch: 68,CI&Jerk: 95,Total: 163,,63kgWomen,Total,334
-Rank: 10,TOKMAK Sultan,TUR,"Born: Apr 05, 1998",B.weight: 62.11,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,63kgWomen,Total,334
-Rank: 11,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 61.56,Group: A,Snatch: 69,CI&Jerk: 90,Total: 159,,63kgWomen,Total,334
-Rank: 12,OTT Justine Myriam Jacqueline Joelle,FRA,"Born: Nov 02, 1998",B.weight: 63.00,Group: A,Snatch: 67,CI&Jerk: 88,Total: 155,,63kgWomen,Total,334
-Rank: 13,SKUGGEDAL Nora,NOR,"Born: Jun 29, 1998",B.weight: 62.81,Group: A,Snatch: 70,CI&Jerk: 84,Total: 154,,63kgWomen,Total,334
-Rank: 14,HARDIE Rosie Jane,GBR,"Born: Apr 09, 1998",B.weight: 60.42,Group: A,Snatch: 65,CI&Jerk: 79,Total: 144,,63kgWomen,Total,334
-Rank: 15,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Born: Oct 22, 1999",B.weight: 61.97,Group: A,Snatch: 66,CI&Jerk: 76,Total: 142,,63kgWomen,Total,334
-Rank: 16,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.39,Group: A,Snatch: 60,CI&Jerk: 78,Total: 138,,63kgWomen,Total,334
-Rank: 1,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 64.84,Group: A,1: 92,2: 95,3: -99,Total: 95,69kgWomen,Snatch,334
-Rank: 2,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 68.27,Group: A,1: 86,2: 91,3: 93,Total: 93,69kgWomen,Snatch,334
-Rank: 3,HERNANDEZ MARTIN Ilia,ESP,"Born: Apr 12, 1998",B.weight: 68.11,Group: A,1: 80,2: 83,3: -85,Total: 83,69kgWomen,Snatch,334
-Rank: 4,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 66.54,Group: A,1: 73,2: 76,3: 80,Total: 80,69kgWomen,Snatch,334
-Rank: 5,GURTLER Annalena,GER,"Born: Nov 03, 1998",B.weight: 68.76,Group: A,1: 73,2: 76,3: 78,Total: 78,69kgWomen,Snatch,334
-Rank: 6,ATTI Nadia,GER,"Born: Mar 10, 1998",B.weight: 68.90,Group: A,1: 72,2: 75,3: -78,Total: 75,69kgWomen,Snatch,334
-Rank: 7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 68.74,Group: A,1: 68,2: 71,3: 74,Total: 74,69kgWomen,Snatch,334
-Rank: 8,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 64.52,Group: A,1: 63,2: 66,3: 69,Total: 69,69kgWomen,Snatch,334
-Rank: 9,BALABANOVA Kateryna,UKR,"Born: May 14, 1998",B.weight: 63.30,Group: A,1: 63,2: 65,3: 66,Total: 66,69kgWomen,Snatch,334
-Rank: 10,STONCIUTE Monika,LTU,"Born: Mar 20, 1998",B.weight: 66.94,Group: A,1: 62,2: -65,3: 66,Total: 66,69kgWomen,Snatch,334
-Rank: 1,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 64.84,Group: A,1: 115,2: 120,3: 125,Total: 125,69kgWomen,CleanJerk,334
-Rank: 2,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 68.27,Group: A,1: 106,2: 111,3: 113,Total: 113,69kgWomen,CleanJerk,334
-Rank: 3,HERNANDEZ MARTIN Ilia,ESP,"Born: Apr 12, 1998",B.weight: 68.11,Group: A,1: 105,2: 110,3: 112,Total: 112,69kgWomen,CleanJerk,334
-Rank: 4,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 68.74,Group: A,1: 88,2: 97,3: -100,Total: 97,69kgWomen,CleanJerk,334
-Rank: 5,ATTI Nadia,GER,"Born: Mar 10, 1998",B.weight: 68.90,Group: A,1: 92,2: 95,3: -97,Total: 95,69kgWomen,CleanJerk,334
-Rank: 6,GURTLER Annalena,GER,"Born: Nov 03, 1998",B.weight: 68.76,Group: A,1: -93,2: -93,3: 93,Total: 93,69kgWomen,CleanJerk,334
-Rank: 7,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 66.54,Group: A,1: 85,2: -90,3: 90,Total: 90,69kgWomen,CleanJerk,334
-Rank: 8,BALABANOVA Kateryna,UKR,"Born: May 14, 1998",B.weight: 63.30,Group: A,1: 81,2: 85,3: 88,Total: 88,69kgWomen,CleanJerk,334
-Rank: 9,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 64.52,Group: A,1: -82,2: -82,3: 82,Total: 82,69kgWomen,CleanJerk,334
-Rank: 10,STONCIUTE Monika,LTU,"Born: Mar 20, 1998",B.weight: 66.94,Group: A,1: 80,2: 82,3: -84,Total: 82,69kgWomen,CleanJerk,334
-Rank: 1,TILER Rebekah Jade,GBR,"Born: Jan 13, 1999",B.weight: 64.84,Group: A,Snatch: 95,CI&Jerk: 125,Total: 220,,69kgWomen,Total,334
-Rank: 2,POGHOSYAN Sona,ARM,"Born: Jun 29, 1998",B.weight: 68.27,Group: A,Snatch: 93,CI&Jerk: 113,Total: 206,,69kgWomen,Total,334
-Rank: 3,HERNANDEZ MARTIN Ilia,ESP,"Born: Apr 12, 1998",B.weight: 68.11,Group: A,Snatch: 83,CI&Jerk: 112,Total: 195,,69kgWomen,Total,334
-Rank: 4,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 68.74,Group: A,Snatch: 74,CI&Jerk: 97,Total: 171,,69kgWomen,Total,334
-Rank: 5,GURTLER Annalena,GER,"Born: Nov 03, 1998",B.weight: 68.76,Group: A,Snatch: 78,CI&Jerk: 93,Total: 171,,69kgWomen,Total,334
-Rank: 6,RUBANOVICH Nikol Bella,ISR,"Born: May 09, 1998",B.weight: 66.54,Group: A,Snatch: 80,CI&Jerk: 90,Total: 170,,69kgWomen,Total,334
-Rank: 7,ATTI Nadia,GER,"Born: Mar 10, 1998",B.weight: 68.90,Group: A,Snatch: 75,CI&Jerk: 95,Total: 170,,69kgWomen,Total,334
-Rank: 8,BALABANOVA Kateryna,UKR,"Born: May 14, 1998",B.weight: 63.30,Group: A,Snatch: 66,CI&Jerk: 88,Total: 154,,69kgWomen,Total,334
-Rank: 9,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 64.52,Group: A,Snatch: 69,CI&Jerk: 82,Total: 151,,69kgWomen,Total,334
-Rank: 10,STONCIUTE Monika,LTU,"Born: Mar 20, 1998",B.weight: 66.94,Group: A,Snatch: 66,CI&Jerk: 82,Total: 148,,69kgWomen,Total,334
-Rank: 1,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 108.38,Group: A,1: 87,2: 90,3: 92,Total: 92,+69kgWomen,Snatch,334
-Rank: 2,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 74.85,Group: A,1: 86,2: 89,3: 90,Total: 90,+69kgWomen,Snatch,334
-Rank: 3,SHYSHANOVA Anastasiia,UKR,"Born: Dec 02, 1998",B.weight: 72.41,Group: A,1: 85,2: 88,3: -90,Total: 88,+69kgWomen,Snatch,334
-Rank: 4,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 82.42,Group: A,1: 81,2: 86,3: -88,Total: 86,+69kgWomen,Snatch,334
-Rank: 5,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 100.45,Group: A,1: 79,2: -84,3: 84,Total: 84,+69kgWomen,Snatch,334
-Rank: 6,IVANOVA Dzhesika,BUL,"Born: Oct 26, 1998",B.weight: 78.16,Group: A,1: -82,2: 82,3: -84,Total: 82,+69kgWomen,Snatch,334
-Rank: 7,BOYNUEGRI Tugce,TUR,"Born: Oct 12, 1998",B.weight: 82.11,Group: A,1: -75,2: 75,3: 81,Total: 81,+69kgWomen,Snatch,334
-Rank: 8,GYURUS Barbara,HUN,"Born: Aug 12, 1998",B.weight: 116.53,Group: A,1: 74,2: 78,3: 80,Total: 80,+69kgWomen,Snatch,334
-Rank: 9,SAUDARGAITE Danute,LTU,"Born: Apr 15, 1998",B.weight: 72.86,Group: A,1: 70,2: -74,3: 75,Total: 75,+69kgWomen,Snatch,334
-Rank: 10,CATALDO Anna Chiara,ITA,"Born: Oct 29, 1998",B.weight: 77.69,Group: A,1: 75,2: -80,3: -80,Total: 75,+69kgWomen,Snatch,334
-Rank: 11,ATAKAN Zeynep,TUR,"Born: Aug 01, 1998",B.weight: 69.30,Group: A,1: 74,2: -78,3: -78,Total: 74,+69kgWomen,Snatch,334
-Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 100.45,Group: A,1: 109,2: 114,3: 119,Total: 119,+69kgWomen,CleanJerk,334
-Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 82.42,Group: A,1: 106,2: 111,3: -115,Total: 111,+69kgWomen,CleanJerk,334
-Rank: 3,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 108.38,Group: A,1: 106,2: -111,3: 111,Total: 111,+69kgWomen,CleanJerk,334
-Rank: 4,SHYSHANOVA Anastasiia,UKR,"Born: Dec 02, 1998",B.weight: 72.41,Group: A,1: 103,2: 106,3: 108,Total: 108,+69kgWomen,CleanJerk,334
-Rank: 5,IVANOVA Dzhesika,BUL,"Born: Oct 26, 1998",B.weight: 78.16,Group: A,1: 100,2: 107,3: -111,Total: 107,+69kgWomen,CleanJerk,334
-Rank: 6,ATAKAN Zeynep,TUR,"Born: Aug 01, 1998",B.weight: 69.30,Group: A,1: 105,2: -108,3: -108,Total: 105,+69kgWomen,CleanJerk,334
-Rank: 7,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 74.85,Group: A,1: 101,2: -106,3: -106,Total: 101,+69kgWomen,CleanJerk,334
-Rank: 8,GYURUS Barbara,HUN,"Born: Aug 12, 1998",B.weight: 116.53,Group: A,1: 94,2: 98,3: -100,Total: 98,+69kgWomen,CleanJerk,334
-Rank: 9,CATALDO Anna Chiara,ITA,"Born: Oct 29, 1998",B.weight: 77.69,Group: A,1: 94,2: -98,3: -98,Total: 94,+69kgWomen,CleanJerk,334
-Rank: 10,BOYNUEGRI Tugce,TUR,"Born: Oct 12, 1998",B.weight: 82.11,Group: A,1: -92,2: 92,3: -98,Total: 92,+69kgWomen,CleanJerk,334
-Rank: 11,SAUDARGAITE Danute,LTU,"Born: Apr 15, 1998",B.weight: 72.86,Group: A,1: 81,2: 86,3: -90,Total: 86,+69kgWomen,CleanJerk,334
-Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 100.45,Group: A,Snatch: 84,CI&Jerk: 119,Total: 203,,+69kgWomen,Total,334
-Rank: 2,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 108.38,Group: A,Snatch: 92,CI&Jerk: 111,Total: 203,,+69kgWomen,Total,334
-Rank: 3,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 82.42,Group: A,Snatch: 86,CI&Jerk: 111,Total: 197,,+69kgWomen,Total,334
-Rank: 4,SHYSHANOVA Anastasiia,UKR,"Born: Dec 02, 1998",B.weight: 72.41,Group: A,Snatch: 88,CI&Jerk: 108,Total: 196,,+69kgWomen,Total,334
-Rank: 5,KISIL Valentyna,UKR,"Born: Jul 05, 1998",B.weight: 74.85,Group: A,Snatch: 90,CI&Jerk: 101,Total: 191,,+69kgWomen,Total,334
-Rank: 6,IVANOVA Dzhesika,BUL,"Born: Oct 26, 1998",B.weight: 78.16,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,+69kgWomen,Total,334
-Rank: 7,ATAKAN Zeynep,TUR,"Born: Aug 01, 1998",B.weight: 69.30,Group: A,Snatch: 74,CI&Jerk: 105,Total: 179,,+69kgWomen,Total,334
-Rank: 8,GYURUS Barbara,HUN,"Born: Aug 12, 1998",B.weight: 116.53,Group: A,Snatch: 80,CI&Jerk: 98,Total: 178,,+69kgWomen,Total,334
-Rank: 9,BOYNUEGRI Tugce,TUR,"Born: Oct 12, 1998",B.weight: 82.11,Group: A,Snatch: 81,CI&Jerk: 92,Total: 173,,+69kgWomen,Total,334
-Rank: 10,CATALDO Anna Chiara,ITA,"Born: Oct 29, 1998",B.weight: 77.69,Group: A,Snatch: 75,CI&Jerk: 94,Total: 169,,+69kgWomen,Total,334
-Rank: 11,SAUDARGAITE Danute,LTU,"Born: Apr 15, 1998",B.weight: 72.86,Group: A,Snatch: 75,CI&Jerk: 86,Total: 161,,+69kgWomen,Total,334
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,LUCA Marian-Cristian,ROU,"Feb 16, 1999",49.20,A,81,-86,86,86,50kgMen,Snatch,334,True
+2,GUNGOR Isa,TUR,"Sep 13, 1998",49.95,A,81,-86,86,86,50kgMen,Snatch,334,True
+3,MNATSAKANYAN Hamlet,ARM,"Jul 05, 1998",49.60,A,-80,80,-85,80,50kgMen,Snatch,334,True
+4,SCHEDLER Lucas,GER,"Jun 01, 1998",49.13,A,75,-79,79,79,50kgMen,Snatch,334,True
+5,ADIKIN Aleksandr,RUS,"Jul 05, 1999",49.74,A,-75,75,78,78,50kgMen,Snatch,334,True
+6,RAMAZAN Gulsen,TUR,"Oct 02, 1999",49.69,A,76,-80,-80,76,50kgMen,Snatch,334,True
+7,SECCHI Giuseppe,ITA,"Sep 16, 1998",49.71,A,70,-74,-74,70,50kgMen,Snatch,334,True
+1,MNATSAKANYAN Hamlet,ARM,"Jul 05, 1998",49.60,A,100,-109,109,109,50kgMen,CleanJerk,334,True
+2,SECCHI Giuseppe,ITA,"Sep 16, 1998",49.71,A,100,103,-105,103,50kgMen,CleanJerk,334,True
+3,LUCA Marian-Cristian,ROU,"Feb 16, 1999",49.20,A,95,100,102,102,50kgMen,CleanJerk,334,True
+4,ADIKIN Aleksandr,RUS,"Jul 05, 1999",49.74,A,-98,-98,98,98,50kgMen,CleanJerk,334,True
+5,GUNGOR Isa,TUR,"Sep 13, 1998",49.95,A,98,-101,-103,98,50kgMen,CleanJerk,334,True
+6,SCHEDLER Lucas,GER,"Jun 01, 1998",49.13,A,93,-97,-98,93,50kgMen,CleanJerk,334,True
+7,RAMAZAN Gulsen,TUR,"Oct 02, 1999",49.69,A,88,-93,-93,88,50kgMen,CleanJerk,334,True
+1,MNATSAKANYAN Hamlet,ARM,"Jul 05, 1998",49.60,A,80,109,189,,50kgMen,Total,334,True
+2,LUCA Marian-Cristian,ROU,"Feb 16, 1999",49.20,A,86,102,188,,50kgMen,Total,334,True
+3,GUNGOR Isa,TUR,"Sep 13, 1998",49.95,A,86,98,184,,50kgMen,Total,334,True
+4,ADIKIN Aleksandr,RUS,"Jul 05, 1999",49.74,A,78,98,176,,50kgMen,Total,334,True
+5,SECCHI Giuseppe,ITA,"Sep 16, 1998",49.71,A,70,103,173,,50kgMen,Total,334,True
+6,SCHEDLER Lucas,GER,"Jun 01, 1998",49.13,A,79,93,172,,50kgMen,Total,334,True
+7,RAMAZAN Gulsen,TUR,"Oct 02, 1999",49.69,A,76,88,164,,50kgMen,Total,334,True
+1,SUKHOTSKYI Dmytro,UKR,"May 24, 1999",55.64,A,96,100,102,102,56kgMen,Snatch,334,True
+2,OSTEEV Kirill,RUS,"Jan 11, 1999",55.86,A,93,97,99,99,56kgMen,Snatch,334,True
+3,KARA Ramazan,TUR,"Jun 19, 1999",55.51,A,93,98,-100,98,56kgMen,Snatch,334,True
+4,KHALILOV Kanan,AZE,"Aug 09, 1999",55.22,A,93,97,-100,97,56kgMen,Snatch,334,True
+5,GARAEV Zulfat,RUS,"Jan 12, 2000",54.87,A,-95,95,-100,95,56kgMen,Snatch,334,True
+6,PEDRAK Benjamin Ludovic Matthieu,FRA,"Nov 25, 1998",54.78,A,91,94,-97,94,56kgMen,Snatch,334,True
+7,OLESKIEWICZ Kamil Tomasz,POL,"Mar 13, 1998",55.75,A,90,93,-96,93,56kgMen,Snatch,334,True
+8,MAU Jon Luke,GER,"Oct 02, 1998",55.62,A,86,90,92,92,56kgMen,Snatch,334,True
+9,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",55.72,A,87,-90,90,90,56kgMen,Snatch,334,True
+10,SCHEDLER Leon,GER,"Jun 01, 1998",55.19,A,88,-90,-90,88,56kgMen,Snatch,334,True
+11,KEREKES Balazs,HUN,"Sep 07, 1999",54.98,A,-77,77,80,80,56kgMen,Snatch,334,True
+12,ZBORIL Stepan,CZE,"Nov 23, 1999",55.63,A,70,73,-75,73,56kgMen,Snatch,334,True
+13,LANTZ Adam Kent,SWE,"May 21, 1999",51.90,A,60,65,-68,65,56kgMen,Snatch,334,True
+1,KARA Ramazan,TUR,"Jun 19, 1999",55.51,A,115,118,122,122,56kgMen,CleanJerk,334,True
+2,MAU Jon Luke,GER,"Oct 02, 1998",55.62,A,115,119,122,122,56kgMen,CleanJerk,334,True
+3,GARAEV Zulfat,RUS,"Jan 12, 2000",54.87,A,112,116,121,121,56kgMen,CleanJerk,334,True
+4,OSTEEV Kirill,RUS,"Jan 11, 1999",55.86,A,116,-121,121,121,56kgMen,CleanJerk,334,True
+5,SUKHOTSKYI Dmytro,UKR,"May 24, 1999",55.64,A,117,120,-122,120,56kgMen,CleanJerk,334,True
+6,OLESKIEWICZ Kamil Tomasz,POL,"Mar 13, 1998",55.75,A,115,-119,119,119,56kgMen,CleanJerk,334,True
+7,SCHEDLER Leon,GER,"Jun 01, 1998",55.19,A,114,-117,117,117,56kgMen,CleanJerk,334,True
+8,KHALILOV Kanan,AZE,"Aug 09, 1999",55.22,A,110,-116,-119,110,56kgMen,CleanJerk,334,True
+9,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",55.72,A,-110,-110,110,110,56kgMen,CleanJerk,334,True
+10,PEDRAK Benjamin Ludovic Matthieu,FRA,"Nov 25, 1998",54.78,A,108,-113,-113,108,56kgMen,CleanJerk,334,True
+11,KEREKES Balazs,HUN,"Sep 07, 1999",54.98,A,93,96,-100,96,56kgMen,CleanJerk,334,True
+12,LANTZ Adam Kent,SWE,"May 21, 1999",51.90,A,74,80,-83,80,56kgMen,CleanJerk,334,True
+---,ZBORIL Stepan,CZE,"Nov 23, 1999",55.63,A,-94,-94,-94,---,56kgMen,CleanJerk,334,True
+1,SUKHOTSKYI Dmytro,UKR,"May 24, 1999",55.64,A,102,120,222,,56kgMen,Total,334,True
+2,KARA Ramazan,TUR,"Jun 19, 1999",55.51,A,98,122,220,,56kgMen,Total,334,True
+3,OSTEEV Kirill,RUS,"Jan 11, 1999",55.86,A,99,121,220,,56kgMen,Total,334,True
+4,GARAEV Zulfat,RUS,"Jan 12, 2000",54.87,A,95,121,216,,56kgMen,Total,334,True
+5,MAU Jon Luke,GER,"Oct 02, 1998",55.62,A,92,122,214,,56kgMen,Total,334,True
+6,OLESKIEWICZ Kamil Tomasz,POL,"Mar 13, 1998",55.75,A,93,119,212,,56kgMen,Total,334,True
+7,KHALILOV Kanan,AZE,"Aug 09, 1999",55.22,A,97,110,207,,56kgMen,Total,334,True
+8,SCHEDLER Leon,GER,"Jun 01, 1998",55.19,A,88,117,205,,56kgMen,Total,334,True
+9,PEDRAK Benjamin Ludovic Matthieu,FRA,"Nov 25, 1998",54.78,A,94,108,202,,56kgMen,Total,334,True
+10,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",55.72,A,90,110,200,,56kgMen,Total,334,True
+11,KEREKES Balazs,HUN,"Sep 07, 1999",54.98,A,80,96,176,,56kgMen,Total,334,True
+12,LANTZ Adam Kent,SWE,"May 21, 1999",51.90,A,65,80,145,,56kgMen,Total,334,True
+---,ZBORIL Stepan,CZE,"Nov 23, 1999",55.63,A,73,---,---,,56kgMen,Total,334,True
+1,HOVHANNISYAN Hrayr,ARM,"Mar 07, 1998",61.53,A,107,112,114,114,62kgMen,Snatch,334,True
+2,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",61.68,A,110,-113,113,113,62kgMen,Snatch,334,True
+3,ILHAN Ramazan,TUR,"Dec 20, 1998",61.80,A,110,-113,113,113,62kgMen,Snatch,334,True
+4,ELIS Murat,TUR,"Feb 23, 1998",61.84,A,110,-113,113,113,62kgMen,Snatch,334,True
+5,MANUKYAN Levon,ARM,"Jul 31, 1998",61.80,A,-106,106,111,111,62kgMen,Snatch,334,True
+6,KAPYTAU Raman,BLR,"Mar 08, 1998",61.54,A,106,-110,110,110,62kgMen,Snatch,334,True
+7,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.27,A,-108,108,-111,108,62kgMen,Snatch,334,True
+8,CARP Constantin,ROU,"Jun 03, 1999",60.59,A,100,-105,106,106,62kgMen,Snatch,334,True
+9,DUMITRAS Bogdan-George,ROU,"Apr 12, 1999",61.09,A,105,-110,-110,105,62kgMen,Snatch,334,True
+10,HRYSHYN Taras,UKR,"Mar 14, 1998",61.82,A,97,-101,101,101,62kgMen,Snatch,334,True
+11,MOSKAL Vlastimil,CZE,"May 10, 1998",61.84,A,90,94,96,96,62kgMen,Snatch,334,True
+12,KAIKKONEN Samuel Juho Aleksi,FIN,"Nov 24, 1998",60.75,A,82,86,-88,86,62kgMen,Snatch,334,True
+---,SOTIROV Hristo,BUL,"Sep 30, 1998",61.82,A,-105,-105,-105,---,62kgMen,Snatch,334,True
+1,MANUKYAN Levon,ARM,"Jul 31, 1998",61.80,A,131,138,142,142,62kgMen,CleanJerk,334,True
+2,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",61.68,A,135,-139,139,139,62kgMen,CleanJerk,334,True
+3,DUMITRAS Bogdan-George,ROU,"Apr 12, 1999",61.09,A,125,130,135,135,62kgMen,CleanJerk,334,True
+4,CARP Constantin,ROU,"Jun 03, 1999",60.59,A,128,131,134,134,62kgMen,CleanJerk,334,True
+5,KAPYTAU Raman,BLR,"Mar 08, 1998",61.54,A,130,134,-136,134,62kgMen,CleanJerk,334,True
+6,ILHAN Ramazan,TUR,"Dec 20, 1998",61.80,A,127,-131,134,134,62kgMen,CleanJerk,334,True
+7,HRYSHYN Taras,UKR,"Mar 14, 1998",61.82,A,122,129,132,132,62kgMen,CleanJerk,334,True
+8,ELIS Murat,TUR,"Feb 23, 1998",61.84,A,-131,132,-135,132,62kgMen,CleanJerk,334,True
+9,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.27,A,130,-136,-137,130,62kgMen,CleanJerk,334,True
+10,SOTIROV Hristo,BUL,"Sep 30, 1998",61.82,A,125,130,-135,130,62kgMen,CleanJerk,334,True
+11,MOSKAL Vlastimil,CZE,"May 10, 1998",61.84,A,113,117,-119,117,62kgMen,CleanJerk,334,True
+12,KAIKKONEN Samuel Juho Aleksi,FIN,"Nov 24, 1998",60.75,A,101,-105,105,105,62kgMen,CleanJerk,334,True
+---,HOVHANNISYAN Hrayr,ARM,"Mar 07, 1998",61.53,A,-127,-127,-127,---,62kgMen,CleanJerk,334,True
+1,MANUKYAN Levon,ARM,"Jul 31, 1998",61.80,A,111,142,253,,62kgMen,Total,334,True
+2,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",61.68,A,113,139,252,,62kgMen,Total,334,True
+3,ILHAN Ramazan,TUR,"Dec 20, 1998",61.80,A,113,134,247,,62kgMen,Total,334,True
+4,ELIS Murat,TUR,"Feb 23, 1998",61.84,A,113,132,245,,62kgMen,Total,334,True
+5,KAPYTAU Raman,BLR,"Mar 08, 1998",61.54,A,110,134,244,,62kgMen,Total,334,True
+6,CARP Constantin,ROU,"Jun 03, 1999",60.59,A,106,134,240,,62kgMen,Total,334,True
+7,DUMITRAS Bogdan-George,ROU,"Apr 12, 1999",61.09,A,105,135,240,,62kgMen,Total,334,True
+8,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.27,A,108,130,238,,62kgMen,Total,334,True
+9,HRYSHYN Taras,UKR,"Mar 14, 1998",61.82,A,101,132,233,,62kgMen,Total,334,True
+10,MOSKAL Vlastimil,CZE,"May 10, 1998",61.84,A,96,117,213,,62kgMen,Total,334,True
+11,KAIKKONEN Samuel Juho Aleksi,FIN,"Nov 24, 1998",60.75,A,86,105,191,,62kgMen,Total,334,True
+---,HOVHANNISYAN Hrayr,ARM,"Mar 07, 1998",61.53,A,114,---,---,,62kgMen,Total,334,True
+---,SOTIROV Hristo,BUL,"Sep 30, 1998",61.82,A,---,130,---,,62kgMen,Total,334,True
+1,SUHAREVS Ritvars,LAT,"Jan 11, 1999",68.49,A,125,130,135,135,69kgMen,Snatch,334,True
+2,CAGDAR Ahmet,TUR,"Jan 23, 1999",68.79,A,114,-119,119,119,69kgMen,Snatch,334,True
+3,PARVANOVSKI Hristiyan Svetlinov,BUL,"Feb 12, 1999",67.95,A,115,-118,118,118,69kgMen,Snatch,334,True
+4,YALCIN Mehmet,TUR,"Jan 13, 1998",68.44,A,114,-117,-118,114,69kgMen,Snatch,334,True
+5,AGRIGOROAEI Marius,ROU,"Aug 14, 1998",64.21,A,-108,108,111,111,69kgMen,Snatch,334,True
+6,ALAM Omed,DEN,"May 20, 1999",68.01,A,105,110,-113,110,69kgMen,Snatch,334,True
+7,PADURE Daniel Ionut,ROU,"Mar 22, 1998",67.66,A,100,-106,106,106,69kgMen,Snatch,334,True
+8,ANDERSEN Eskil Engelsgjerd,NOR,"Feb 01, 1999",68.34,A,97,100,102,102,69kgMen,Snatch,334,True
+---,SHKAREV Artem,RUS,"Nov 03, 1999",68.05,A,-110,-110,-110,---,69kgMen,Snatch,334,True
+1,SUHAREVS Ritvars,LAT,"Jan 11, 1999",68.49,A,150,160,-165,160,69kgMen,CleanJerk,334,True
+2,CAGDAR Ahmet,TUR,"Jan 23, 1999",68.79,A,140,145,149,149,69kgMen,CleanJerk,334,True
+3,YALCIN Mehmet,TUR,"Jan 13, 1998",68.44,A,141,145,-149,145,69kgMen,CleanJerk,334,True
+4,AGRIGOROAEI Marius,ROU,"Aug 14, 1998",64.21,A,-133,-133,136,136,69kgMen,CleanJerk,334,True
+5,PADURE Daniel Ionut,ROU,"Mar 22, 1998",67.66,A,-130,130,136,136,69kgMen,CleanJerk,334,True
+6,PARVANOVSKI Hristiyan Svetlinov,BUL,"Feb 12, 1999",67.95,A,136,-141,-141,136,69kgMen,CleanJerk,334,True
+7,ALAM Omed,DEN,"May 20, 1999",68.01,A,125,-132,132,132,69kgMen,CleanJerk,334,True
+8,ANDERSEN Eskil Engelsgjerd,NOR,"Feb 01, 1999",68.34,A,120,-124,-126,120,69kgMen,CleanJerk,334,True
+---,SHKAREV Artem,RUS,"Nov 03, 1999",68.05,A,---,---,---,---,69kgMen,CleanJerk,334,True
+1,SUHAREVS Ritvars,LAT,"Jan 11, 1999",68.49,A,135,160,295,,69kgMen,Total,334,True
+2,CAGDAR Ahmet,TUR,"Jan 23, 1999",68.79,A,119,149,268,,69kgMen,Total,334,True
+3,YALCIN Mehmet,TUR,"Jan 13, 1998",68.44,A,114,145,259,,69kgMen,Total,334,True
+4,PARVANOVSKI Hristiyan Svetlinov,BUL,"Feb 12, 1999",67.95,A,118,136,254,,69kgMen,Total,334,True
+5,AGRIGOROAEI Marius,ROU,"Aug 14, 1998",64.21,A,111,136,247,,69kgMen,Total,334,True
+6,PADURE Daniel Ionut,ROU,"Mar 22, 1998",67.66,A,106,136,242,,69kgMen,Total,334,True
+7,ALAM Omed,DEN,"May 20, 1999",68.01,A,110,132,242,,69kgMen,Total,334,True
+8,ANDERSEN Eskil Engelsgjerd,NOR,"Feb 01, 1999",68.34,A,102,120,222,,69kgMen,Total,334,True
+---,SHKAREV Artem,RUS,"Nov 03, 1999",68.05,A,---,---,---,,69kgMen,Total,334,True
+1,BADZIAGOWSKI Kacper,POL,"Oct 30, 1998",76.83,A,-135,135,140,140,77kgMen,Snatch,334,True
+2,DAVITADZE Revaz,GEO,"Oct 16, 1998",76.55,A,132,-136,136,136,77kgMen,Snatch,334,True
+3,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",76.24,A,125,130,-135,130,77kgMen,Snatch,334,True
+4,BABAKYAN Samvel,ARM,"Dec 08, 1998",76.32,A,-118,118,126,126,77kgMen,Snatch,334,True
+5,OKHRIMENKO Dmitrii,RUS,"Jan 27, 1999",73.97,A,118,123,125,125,77kgMen,Snatch,334,True
+6,HLADYSH Oleksandr,UKR,"May 25, 1998",73.11,A,114,118,121,121,77kgMen,Snatch,334,True
+7,KLOS Kacper,POL,"Feb 16, 1998",73.29,A,120,-125,-125,120,77kgMen,Snatch,334,True
+8,KRIZ Lukas,CZE,"Apr 07, 1998",73.38,A,120,-125,-125,120,77kgMen,Snatch,334,True
+9,MIRZAYEV Sanan,AZE,"Dec 15, 1999",75.87,A,-118,118,-123,118,77kgMen,Snatch,334,True
+10,MARGULIS Bronislav,ISR,"Jul 26, 1998",75.28,A,110,115,-118,115,77kgMen,Snatch,334,True
+11,GONTA Reinis Peteris,LAT,"Jan 20, 1998",75.71,A,110,115,-118,115,77kgMen,Snatch,334,True
+12,CHOLUJ Jakub,GER,"Nov 09, 1999",76.22,A,108,113,-116,113,77kgMen,Snatch,334,True
+13,BRODA Patrik,SVK,"Nov 19, 1999",71.67,A,107,110,-115,110,77kgMen,Snatch,334,True
+14,POSTEK Matej,SVK,"Feb 22, 1998",75.60,A,-107,107,-112,107,77kgMen,Snatch,334,True
+15,VASILONOKS Arturs,LAT,"Apr 16, 1998",74.52,A,95,101,105,105,77kgMen,Snatch,334,True
+16,PANJAVI Kian,GBR,"Jul 06, 1998",70.89,A,95,-100,-100,95,77kgMen,Snatch,334,True
+17,KOSONEN Jasper Erik Viljami,FIN,"Jan 01, 1998",69.89,A,88,93,-96,93,77kgMen,Snatch,334,True
+18,DE HOOP Thomas Alexander,NED,"Apr 23, 1999",70.00,A,79,82,85,85,77kgMen,Snatch,334,True
+1,DAVITADZE Revaz,GEO,"Oct 16, 1998",76.55,A,158,164,-168,164,77kgMen,CleanJerk,334,True
+2,BADZIAGOWSKI Kacper,POL,"Oct 30, 1998",76.83,A,160,-164,164,164,77kgMen,CleanJerk,334,True
+3,BABAKYAN Samvel,ARM,"Dec 08, 1998",76.32,A,153,-158,158,158,77kgMen,CleanJerk,334,True
+4,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",76.24,A,153,-157,157,157,77kgMen,CleanJerk,334,True
+5,KLOS Kacper,POL,"Feb 16, 1998",73.29,A,152,156,-159,156,77kgMen,CleanJerk,334,True
+6,HLADYSH Oleksandr,UKR,"May 25, 1998",73.11,A,141,146,151,151,77kgMen,CleanJerk,334,True
+7,OKHRIMENKO Dmitrii,RUS,"Jan 27, 1999",73.97,A,147,-152,-153,147,77kgMen,CleanJerk,334,True
+8,KRIZ Lukas,CZE,"Apr 07, 1998",73.38,A,140,-145,145,145,77kgMen,CleanJerk,334,True
+9,MIRZAYEV Sanan,AZE,"Dec 15, 1999",75.87,A,130,143,-150,143,77kgMen,CleanJerk,334,True
+10,MARGULIS Bronislav,ISR,"Jul 26, 1998",75.28,A,130,136,137,137,77kgMen,CleanJerk,334,True
+11,POSTEK Matej,SVK,"Feb 22, 1998",75.60,A,-135,-135,137,137,77kgMen,CleanJerk,334,True
+12,GONTA Reinis Peteris,LAT,"Jan 20, 1998",75.71,A,-132,132,137,137,77kgMen,CleanJerk,334,True
+13,CHOLUJ Jakub,GER,"Nov 09, 1999",76.22,A,130,135,-140,135,77kgMen,CleanJerk,334,True
+14,VASILONOKS Arturs,LAT,"Apr 16, 1998",74.52,A,121,128,-132,128,77kgMen,CleanJerk,334,True
+15,PANJAVI Kian,GBR,"Jul 06, 1998",70.89,A,115,118,-121,118,77kgMen,CleanJerk,334,True
+16,KOSONEN Jasper Erik Viljami,FIN,"Jan 01, 1998",69.89,A,110,117,-121,117,77kgMen,CleanJerk,334,True
+17,DE HOOP Thomas Alexander,NED,"Apr 23, 1999",70.00,A,101,106,-109,106,77kgMen,CleanJerk,334,True
+---,BRODA Patrik,SVK,"Nov 19, 1999",71.67,A,-129,---,---,---,77kgMen,CleanJerk,334,True
+1,BADZIAGOWSKI Kacper,POL,"Oct 30, 1998",76.83,A,140,164,304,,77kgMen,Total,334,True
+2,DAVITADZE Revaz,GEO,"Oct 16, 1998",76.55,A,136,164,300,,77kgMen,Total,334,True
+3,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",76.24,A,130,157,287,,77kgMen,Total,334,True
+4,BABAKYAN Samvel,ARM,"Dec 08, 1998",76.32,A,126,158,284,,77kgMen,Total,334,True
+5,KLOS Kacper,POL,"Feb 16, 1998",73.29,A,120,156,276,,77kgMen,Total,334,True
+6,HLADYSH Oleksandr,UKR,"May 25, 1998",73.11,A,121,151,272,,77kgMen,Total,334,True
+7,OKHRIMENKO Dmitrii,RUS,"Jan 27, 1999",73.97,A,125,147,272,,77kgMen,Total,334,True
+8,KRIZ Lukas,CZE,"Apr 07, 1998",73.38,A,120,145,265,,77kgMen,Total,334,True
+9,MIRZAYEV Sanan,AZE,"Dec 15, 1999",75.87,A,118,143,261,,77kgMen,Total,334,True
+10,MARGULIS Bronislav,ISR,"Jul 26, 1998",75.28,A,115,137,252,,77kgMen,Total,334,True
+11,GONTA Reinis Peteris,LAT,"Jan 20, 1998",75.71,A,115,137,252,,77kgMen,Total,334,True
+12,CHOLUJ Jakub,GER,"Nov 09, 1999",76.22,A,113,135,248,,77kgMen,Total,334,True
+13,POSTEK Matej,SVK,"Feb 22, 1998",75.60,A,107,137,244,,77kgMen,Total,334,True
+14,VASILONOKS Arturs,LAT,"Apr 16, 1998",74.52,A,105,128,233,,77kgMen,Total,334,True
+15,PANJAVI Kian,GBR,"Jul 06, 1998",70.89,A,95,118,213,,77kgMen,Total,334,True
+16,KOSONEN Jasper Erik Viljami,FIN,"Jan 01, 1998",69.89,A,93,117,210,,77kgMen,Total,334,True
+17,DE HOOP Thomas Alexander,NED,"Apr 23, 1999",70.00,A,85,106,191,,77kgMen,Total,334,True
+---,BRODA Patrik,SVK,"Nov 19, 1999",71.67,A,110,---,---,,77kgMen,Total,334,True
+1,ISMAYILOV Huseyn,AZE,"Jan 30, 1999",81.48,A,-135,135,139,139,85kgMen,Snatch,334,True
+2,YENGIBARYAN Harutyun,ARM,"Mar 17, 1998",84.45,A,-130,130,138,138,85kgMen,Snatch,334,True
+3,SKULIMOWSKI Mateusz,POL,"Jul 31, 1998",84.12,A,133,137,-139,137,85kgMen,Snatch,334,True
+4,OBUKHOV Igor,UKR,"May 05, 1998",83.72,A,130,134,136,136,85kgMen,Snatch,334,True
+5,PIANSKI Julian,GER,"Jun 10, 1998",84.32,A,125,129,131,131,85kgMen,Snatch,334,True
+6,MERT Ertan,TUR,"Oct 12, 1998",83.33,A,123,130,-133,130,85kgMen,Snatch,334,True
+7,MARTIROSYAN Arsen,ARM,"Jul 24, 1998",84.45,A,130,-135,-136,130,85kgMen,Snatch,334,True
+8,MICHALSKI Jakub,POL,"Aug 05, 1999",82.00,A,119,124,126,126,85kgMen,Snatch,334,True
+9,BERTRAN Kristijan,SRB,"Nov 27, 1998",84.16,A,-117,117,123,123,85kgMen,Snatch,334,True
+10,PAULUS Samuel,SVK,"Mar 15, 1999",83.56,A,-105,105,110,110,85kgMen,Snatch,334,True
+11,RYBAK Eduard,CZE,"Jul 21, 1999",82.56,A,-97,97,-102,97,85kgMen,Snatch,334,True
+---,FISCHER David,AUT,"Nov 03, 1998",84.93,A,-130,-130,-131,---,85kgMen,Snatch,334,True
+1,OBUKHOV Igor,UKR,"May 05, 1998",83.72,A,167,172,181,181,85kgMen,CleanJerk,334,True
+2,MARTIROSYAN Arsen,ARM,"Jul 24, 1998",84.45,A,160,165,171,171,85kgMen,CleanJerk,334,True
+3,SKULIMOWSKI Mateusz,POL,"Jul 31, 1998",84.12,A,160,164,-166,164,85kgMen,CleanJerk,334,True
+4,ISMAYILOV Huseyn,AZE,"Jan 30, 1999",81.48,A,155,161,-164,161,85kgMen,CleanJerk,334,True
+6,FISCHER David,AUT,"Nov 03, 1998",84.93,A,155,161,-165,161,85kgMen,CleanJerk,334,True
+6,MICHALSKI Jakub,POL,"Aug 05, 1999",82.00,A,155,160,-165,160,85kgMen,CleanJerk,334,True
+7,PIANSKI Julian,GER,"Jun 10, 1998",84.32,A,-155,155,160,160,85kgMen,CleanJerk,334,True
+8,MERT Ertan,TUR,"Oct 12, 1998",83.33,A,152,-157,158,158,85kgMen,CleanJerk,334,True
+9,BERTRAN Kristijan,SRB,"Nov 27, 1998",84.16,A,-147,147,152,152,85kgMen,CleanJerk,334,True
+10,PAULUS Samuel,SVK,"Mar 15, 1999",83.56,A,135,140,-145,140,85kgMen,CleanJerk,334,True
+11,RYBAK Eduard,CZE,"Jul 21, 1999",82.56,A,-125,125,-130,125,85kgMen,CleanJerk,334,True
+---,YENGIBARYAN Harutyun,ARM,"Mar 17, 1998",84.45,A,-160,-160,-160,---,85kgMen,CleanJerk,334,True
+1,OBUKHOV Igor,UKR,"May 05, 1998",83.72,A,136,181,317,,85kgMen,Total,334,True
+2,SKULIMOWSKI Mateusz,POL,"Jul 31, 1998",84.12,A,137,164,301,,85kgMen,Total,334,True
+3,MARTIROSYAN Arsen,ARM,"Jul 24, 1998",84.45,A,130,171,301,,85kgMen,Total,334,True
+4,ISMAYILOV Huseyn,AZE,"Jan 30, 1999",81.48,A,139,161,300,,85kgMen,Total,334,True
+5,PIANSKI Julian,GER,"Jun 10, 1998",84.32,A,131,160,291,,85kgMen,Total,334,True
+6,MERT Ertan,TUR,"Oct 12, 1998",83.33,A,130,158,288,,85kgMen,Total,334,True
+7,MICHALSKI Jakub,POL,"Aug 05, 1999",82.00,A,126,160,286,,85kgMen,Total,334,True
+8,BERTRAN Kristijan,SRB,"Nov 27, 1998",84.16,A,123,152,275,,85kgMen,Total,334,True
+9,PAULUS Samuel,SVK,"Mar 15, 1999",83.56,A,110,140,250,,85kgMen,Total,334,True
+10,RYBAK Eduard,CZE,"Jul 21, 1999",82.56,A,97,125,222,,85kgMen,Total,334,True
+---,FISCHER David,AUT,"Nov 03, 1998",84.93,A,---,161,---,,85kgMen,Total,334,True
+---,YENGIBARYAN Harutyun,ARM,"Mar 17, 1998",84.45,A,138,---,---,,85kgMen,Total,334,True
+1,SVALOV Mikhail,RUS,"Nov 24, 1998",92.04,A,-138,138,141,141,94kgMen,Snatch,334,True
+2,KIRAKOSYAN Sargis,ARM,"Dec 30, 1998",93.58,A,130,135,138,138,94kgMen,Snatch,334,True
+3,CHERNYSHOV Dmitrii,RUS,"May 01, 1998",92.01,A,130,-134,134,134,94kgMen,Snatch,334,True
+4,GRIGORYAN Grigor,ARM,"Jan 18, 1998",92.17,A,130,-135,-135,130,94kgMen,Snatch,334,True
+5,IZDEBSKI Marcin,POL,"Mar 06, 1999",92.24,A,125,130,-135,130,94kgMen,Snatch,334,True
+6,CURCURUTO Matteo,ITA,"Aug 17, 1998",92.31,A,125,-130,130,130,94kgMen,Snatch,334,True
+7,KULZER Peter,GER,"Mar 13, 1998",92.71,A,-125,125,130,130,94kgMen,Snatch,334,True
+8,GORNY Jakub,CZE,"Jul 05, 1998",92.53,A,120,-124,125,125,94kgMen,Snatch,334,True
+9,MARTENSSON Anton Andreas,SWE,"Sep 19, 1998",93.05,A,100,-105,-105,100,94kgMen,Snatch,334,True
+1,KIRAKOSYAN Sargis,ARM,"Dec 30, 1998",93.58,A,-165,167,---,167,94kgMen,CleanJerk,334,True
+2,CHERNYSHOV Dmitrii,RUS,"May 01, 1998",92.01,A,161,166,-171,166,94kgMen,CleanJerk,334,True
+3,CURCURUTO Matteo,ITA,"Aug 17, 1998",92.31,A,160,166,-171,166,94kgMen,CleanJerk,334,True
+4,GORNY Jakub,CZE,"Jul 05, 1998",92.53,A,152,-157,157,157,94kgMen,CleanJerk,334,True
+5,KULZER Peter,GER,"Mar 13, 1998",92.71,A,157,-161,---,157,94kgMen,CleanJerk,334,True
+6,IZDEBSKI Marcin,POL,"Mar 06, 1999",92.24,A,147,-155,-157,147,94kgMen,CleanJerk,334,True
+---,GRIGORYAN Grigor,ARM,"Jan 18, 1998",92.17,A,---,---,---,---,94kgMen,CleanJerk,334,True
+---,SVALOV Mikhail,RUS,"Nov 24, 1998",92.04,A,-163,-163,-163,---,94kgMen,CleanJerk,334,True
+---,MARTENSSON Anton Andreas,SWE,"Sep 19, 1998",93.05,A,-140,-140,-141,---,94kgMen,CleanJerk,334,True
+1,KIRAKOSYAN Sargis,ARM,"Dec 30, 1998",93.58,A,138,167,305,,94kgMen,Total,334,True
+2,CHERNYSHOV Dmitrii,RUS,"May 01, 1998",92.01,A,134,166,300,,94kgMen,Total,334,True
+3,CURCURUTO Matteo,ITA,"Aug 17, 1998",92.31,A,130,166,296,,94kgMen,Total,334,True
+4,KULZER Peter,GER,"Mar 13, 1998",92.71,A,130,157,287,,94kgMen,Total,334,True
+5,GORNY Jakub,CZE,"Jul 05, 1998",92.53,A,125,157,282,,94kgMen,Total,334,True
+6,IZDEBSKI Marcin,POL,"Mar 06, 1999",92.24,A,130,147,277,,94kgMen,Total,334,True
+---,GRIGORYAN Grigor,ARM,"Jan 18, 1998",92.17,A,130,---,---,,94kgMen,Total,334,True
+---,SVALOV Mikhail,RUS,"Nov 24, 1998",92.04,A,141,---,---,,94kgMen,Total,334,True
+---,MARTENSSON Anton Andreas,SWE,"Sep 19, 1998",93.05,A,100,---,---,,94kgMen,Total,334,True
+1,GRETSA Dmitrii,RUS,"Jul 08, 1999",143.15,A,-136,136,140,140,+94kgMen,Snatch,334,True
+2,BACHIR EL HARRAOUI Abiolah,ESP,"Aug 04, 1998",106.60,A,132,136,139,139,+94kgMen,Snatch,334,True
+3,WEGRZYN Jakub,POL,"Jul 28, 1999",127.20,A,130,135,138,138,+94kgMen,Snatch,334,True
+4,VINCI Alessandro,ITA,"Feb 21, 1999",111.48,A,125,130,133,133,+94kgMen,Snatch,334,True
+5,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",104.85,A,125,130,132,132,+94kgMen,Snatch,334,True
+6,HOLOCSI Krisztian,SVK,"Sep 08, 1998",108.81,A,132,-136,-136,132,+94kgMen,Snatch,334,True
+7,MILLER Jalaal Isa Abdul-Aziz,GBR,"Jul 21, 1998",134.15,A,110,115,-118,115,+94kgMen,Snatch,334,True
+8,IVANOVS Nikita,LAT,"Aug 13, 1998",105.20,A,114,-118,-118,114,+94kgMen,Snatch,334,True
+1,WEGRZYN Jakub,POL,"Jul 28, 1999",127.20,A,162,167,171,171,+94kgMen,CleanJerk,334,True
+2,GRETSA Dmitrii,RUS,"Jul 08, 1999",143.15,A,166,170,-175,170,+94kgMen,CleanJerk,334,True
+3,BACHIR EL HARRAOUI Abiolah,ESP,"Aug 04, 1998",106.60,A,160,165,169,169,+94kgMen,CleanJerk,334,True
+4,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",104.85,A,160,165,-167,165,+94kgMen,CleanJerk,334,True
+5,VINCI Alessandro,ITA,"Feb 21, 1999",111.48,A,155,161,-167,161,+94kgMen,CleanJerk,334,True
+6,HOLOCSI Krisztian,SVK,"Sep 08, 1998",108.81,A,160,-166,-169,160,+94kgMen,CleanJerk,334,True
+7,IVANOVS Nikita,LAT,"Aug 13, 1998",105.20,A,140,-145,146,146,+94kgMen,CleanJerk,334,True
+8,MILLER Jalaal Isa Abdul-Aziz,GBR,"Jul 21, 1998",134.15,A,-140,140,145,145,+94kgMen,CleanJerk,334,True
+1,GRETSA Dmitrii,RUS,"Jul 08, 1999",143.15,A,140,170,310,,+94kgMen,Total,334,True
+2,WEGRZYN Jakub,POL,"Jul 28, 1999",127.20,A,138,171,309,,+94kgMen,Total,334,True
+3,BACHIR EL HARRAOUI Abiolah,ESP,"Aug 04, 1998",106.60,A,139,169,308,,+94kgMen,Total,334,True
+4,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",104.85,A,132,165,297,,+94kgMen,Total,334,True
+5,VINCI Alessandro,ITA,"Feb 21, 1999",111.48,A,133,161,294,,+94kgMen,Total,334,True
+6,HOLOCSI Krisztian,SVK,"Sep 08, 1998",108.81,A,132,160,292,,+94kgMen,Total,334,True
+7,IVANOVS Nikita,LAT,"Aug 13, 1998",105.20,A,114,146,260,,+94kgMen,Total,334,True
+8,MILLER Jalaal Isa Abdul-Aziz,GBR,"Jul 21, 1998",134.15,A,115,145,260,,+94kgMen,Total,334,True
+1,OLESKIEWICZ Sylwia Malgorzata,POL,"Jun 23, 1999",43.85,A,-53,55,61,61,44kgWomen,Snatch,334,True
+2,MIRANKOVA Aliaksandra,BLR,"May 24, 1999",43.97,A,-55,56,-60,56,44kgWomen,Snatch,334,True
+3,MOCAER-LORGERE Nolwenn,FRA,"Apr 13, 1999",43.57,A,50,-51,51,51,44kgWomen,Snatch,334,True
+4,MUKKALA Kirsi-Marja,FIN,"Nov 18, 1999",43.56,A,-47,47,50,50,44kgWomen,Snatch,334,True
+5,LHERMIER Nolwen Gladys Emilie,FRA,"Dec 07, 1999",43.70,A,42,45,-48,45,44kgWomen,Snatch,334,True
+6,PAMPORDZHIEVA Gergana,BUL,"Jan 17, 1999",43.97,A,45,-50,-50,45,44kgWomen,Snatch,334,True
+1,OLESKIEWICZ Sylwia Malgorzata,POL,"Jun 23, 1999",43.85,A,67,72,74,74,44kgWomen,CleanJerk,334,True
+2,MIRANKOVA Aliaksandra,BLR,"May 24, 1999",43.97,A,70,73,-75,73,44kgWomen,CleanJerk,334,True
+3,LHERMIER Nolwen Gladys Emilie,FRA,"Dec 07, 1999",43.70,A,60,-64,64,64,44kgWomen,CleanJerk,334,True
+4,MOCAER-LORGERE Nolwenn,FRA,"Apr 13, 1999",43.57,A,60,62,-65,62,44kgWomen,CleanJerk,334,True
+5,MUKKALA Kirsi-Marja,FIN,"Nov 18, 1999",43.56,A,-58,58,-62,58,44kgWomen,CleanJerk,334,True
+6,PAMPORDZHIEVA Gergana,BUL,"Jan 17, 1999",43.97,A,55,-64,-64,55,44kgWomen,CleanJerk,334,True
+1,OLESKIEWICZ Sylwia Malgorzata,POL,"Jun 23, 1999",43.85,A,61,74,135,,44kgWomen,Total,334,True
+2,MIRANKOVA Aliaksandra,BLR,"May 24, 1999",43.97,A,56,73,129,,44kgWomen,Total,334,True
+3,MOCAER-LORGERE Nolwenn,FRA,"Apr 13, 1999",43.57,A,51,62,113,,44kgWomen,Total,334,True
+4,LHERMIER Nolwen Gladys Emilie,FRA,"Dec 07, 1999",43.70,A,45,64,109,,44kgWomen,Total,334,True
+5,MUKKALA Kirsi-Marja,FIN,"Nov 18, 1999",43.56,A,50,58,108,,44kgWomen,Total,334,True
+6,PAMPORDZHIEVA Gergana,BUL,"Jan 17, 1999",43.97,A,45,55,100,,44kgWomen,Total,334,True
+1,KARAKOL Gamze,TUR,"Dec 15, 1998",47.62,A,63,65,67,67,48kgWomen,Snatch,334,True
+2,ACAR Elif,TUR,"Apr 05, 1998",47.68,A,58,61,-63,61,48kgWomen,Snatch,334,True
+3,SHELEH Natalya,BLR,"Oct 07, 1998",47.72,A,56,61,-63,61,48kgWomen,Snatch,334,True
+4,WALZAK Pauline,GER,"Jun 25, 1999",47.56,A,57,-60,60,60,48kgWomen,Snatch,334,True
+5,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",47.83,A,54,57,-62,57,48kgWomen,Snatch,334,True
+1,KARAKOL Gamze,TUR,"Dec 15, 1998",47.62,A,80,85,87,87,48kgWomen,CleanJerk,334,True
+2,ACAR Elif,TUR,"Apr 05, 1998",47.68,A,71,74,75,75,48kgWomen,CleanJerk,334,True
+3,WALZAK Pauline,GER,"Jun 25, 1999",47.56,A,69,72,74,74,48kgWomen,CleanJerk,334,True
+4,SHELEH Natalya,BLR,"Oct 07, 1998",47.72,A,70,73,74,74,48kgWomen,CleanJerk,334,True
+5,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",47.83,A,64,-68,72,72,48kgWomen,CleanJerk,334,True
+1,KARAKOL Gamze,TUR,"Dec 15, 1998",47.62,A,67,87,154,,48kgWomen,Total,334,True
+2,ACAR Elif,TUR,"Apr 05, 1998",47.68,A,61,75,136,,48kgWomen,Total,334,True
+3,SHELEH Natalya,BLR,"Oct 07, 1998",47.72,A,61,74,135,,48kgWomen,Total,334,True
+4,WALZAK Pauline,GER,"Jun 25, 1999",47.56,A,60,74,134,,48kgWomen,Total,334,True
+5,RIGAUD Garance Ariette Ouiza,FRA,"Nov 12, 1999",47.83,A,57,72,129,,48kgWomen,Total,334,True
+1,KOHA Rebeka,LAT,"May 19, 1998",52.47,A,81,84,88,88,53kgWomen,Snatch,334,True
+2,NOVITSKAIA Kristina,RUS,"Sep 22, 1999",51.13,A,67,70,73,73,53kgWomen,Snatch,334,True
+3,MAKUTSEVICH Krystsina,BLR,"May 26, 1999",52.99,A,66,70,72,72,53kgWomen,Snatch,334,True
+4,CONSTANTIN Nicoleta-Vasilica,ROU,"Dec 05, 1999",52.29,A,65,-68,68,68,53kgWomen,Snatch,334,True
+5,MROZ Kinga,POL,"Jan 22, 1998",52.85,A,-64,65,68,68,53kgWomen,Snatch,334,True
+6,PALMA MARTINEZ Soledad,ESP,"Sep 29, 1999",52.60,A,62,-65,-65,62,53kgWomen,Snatch,334,True
+7,KHADZHIEVA Ekaterina,RUS,"Jan 01, 2000",52.74,A,57,60,62,62,53kgWomen,Snatch,334,True
+8,LASKER Revital,ISR,"May 04, 1998",52.95,A,50,53,54,54,53kgWomen,Snatch,334,True
+9,BARNA Zsofia Dora,HUN,"Aug 11, 1998",51.04,A,48,51,53,53,53kgWomen,Snatch,334,True
+1,KOHA Rebeka,LAT,"May 19, 1998",52.47,A,98,102,---,102,53kgWomen,CleanJerk,334,True
+2,NOVITSKAIA Kristina,RUS,"Sep 22, 1999",51.13,A,87,90,---,90,53kgWomen,CleanJerk,334,True
+3,CONSTANTIN Nicoleta-Vasilica,ROU,"Dec 05, 1999",52.29,A,85,88,90,90,53kgWomen,CleanJerk,334,True
+4,MROZ Kinga,POL,"Jan 22, 1998",52.85,A,83,86,89,89,53kgWomen,CleanJerk,334,True
+5,MAKUTSEVICH Krystsina,BLR,"May 26, 1999",52.99,A,83,88,-90,88,53kgWomen,CleanJerk,334,True
+6,KHADZHIEVA Ekaterina,RUS,"Jan 01, 2000",52.74,A,-77,77,-80,77,53kgWomen,CleanJerk,334,True
+7,PALMA MARTINEZ Soledad,ESP,"Sep 29, 1999",52.60,A,72,75,-79,75,53kgWomen,CleanJerk,334,True
+8,BARNA Zsofia Dora,HUN,"Aug 11, 1998",51.04,A,63,66,67,67,53kgWomen,CleanJerk,334,True
+9,LASKER Revital,ISR,"May 04, 1998",52.95,A,63,-65,66,66,53kgWomen,CleanJerk,334,True
+1,KOHA Rebeka,LAT,"May 19, 1998",52.47,A,88,102,190,,53kgWomen,Total,334,True
+2,NOVITSKAIA Kristina,RUS,"Sep 22, 1999",51.13,A,73,90,163,,53kgWomen,Total,334,True
+3,MAKUTSEVICH Krystsina,BLR,"May 26, 1999",52.99,A,72,88,160,,53kgWomen,Total,334,True
+4,CONSTANTIN Nicoleta-Vasilica,ROU,"Dec 05, 1999",52.29,A,68,90,158,,53kgWomen,Total,334,True
+5,MROZ Kinga,POL,"Jan 22, 1998",52.85,A,68,89,157,,53kgWomen,Total,334,True
+6,KHADZHIEVA Ekaterina,RUS,"Jan 01, 2000",52.74,A,62,77,139,,53kgWomen,Total,334,True
+7,PALMA MARTINEZ Soledad,ESP,"Sep 29, 1999",52.60,A,62,75,137,,53kgWomen,Total,334,True
+8,BARNA Zsofia Dora,HUN,"Aug 11, 1998",51.04,A,53,67,120,,53kgWomen,Total,334,True
+9,LASKER Revital,ISR,"May 04, 1998",52.95,A,54,66,120,,53kgWomen,Total,334,True
+1,FURDIK Irina,RUS,"Jun 16, 1998",57.82,A,80,83,85,85,58kgWomen,Snatch,334,True
+2,TSIATSIORKINA Aliaksandra,BLR,"Aug 19, 1999",57.77,A,78,81,84,84,58kgWomen,Snatch,334,True
+3,LYTKINA Anna,RUS,"May 28, 1998",56.89,A,80,-83,83,83,58kgWomen,Snatch,334,True
+4,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",57.10,A,-82,-82,82,82,58kgWomen,Snatch,334,True
+5,PEPLOWSKA Aleksandra,POL,"Apr 13, 1998",57.73,A,78,-81,-81,78,58kgWomen,Snatch,334,True
+6,TYMOSHCHUK Mariia,UKR,"Aug 02, 1999",57.00,A,-75,75,-78,75,58kgWomen,Snatch,334,True
+7,CAKIN Aysegul,TUR,"Jun 24, 1999",57.48,A,70,-73,73,73,58kgWomen,Snatch,334,True
+8,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",57.61,A,-68,68,-71,68,58kgWomen,Snatch,334,True
+9,KOPYTKO Iryna,UKR,"Feb 24, 1998",57.92,A,68,-71,-71,68,58kgWomen,Snatch,334,True
+10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Aug 28, 1998",57.85,A,59,62,-64,62,58kgWomen,Snatch,334,True
+---,TALASTERA Suvi Tuulia,FIN,"Jan 06, 1999",57.84,A,-65,-65,-65,---,58kgWomen,Snatch,334,True
+1,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",57.10,A,101,104,107,107,58kgWomen,CleanJerk,334,True
+2,TSIATSIORKINA Aliaksandra,BLR,"Aug 19, 1999",57.77,A,95,101,-103,101,58kgWomen,CleanJerk,334,True
+3,FURDIK Irina,RUS,"Jun 16, 1998",57.82,A,-100,-100,101,101,58kgWomen,CleanJerk,334,True
+4,TYMOSHCHUK Mariia,UKR,"Aug 02, 1999",57.00,A,90,93,96,96,58kgWomen,CleanJerk,334,True
+5,LYTKINA Anna,RUS,"May 28, 1998",56.89,A,88,93,-97,93,58kgWomen,CleanJerk,334,True
+6,CAKIN Aysegul,TUR,"Jun 24, 1999",57.48,A,-92,92,-98,92,58kgWomen,CleanJerk,334,True
+7,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",57.61,A,88,91,-94,91,58kgWomen,CleanJerk,334,True
+8,PEPLOWSKA Aleksandra,POL,"Apr 13, 1998",57.73,A,91,-94,-96,91,58kgWomen,CleanJerk,334,True
+9,KOPYTKO Iryna,UKR,"Feb 24, 1998",57.92,A,88,-91,91,91,58kgWomen,CleanJerk,334,True
+10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Aug 28, 1998",57.85,A,75,80,-83,80,58kgWomen,CleanJerk,334,True
+---,TALASTERA Suvi Tuulia,FIN,"Jan 06, 1999",57.84,A,---,---,---,---,58kgWomen,CleanJerk,334,True
+1,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",57.10,A,82,107,189,,58kgWomen,Total,334,True
+2,FURDIK Irina,RUS,"Jun 16, 1998",57.82,A,85,101,186,,58kgWomen,Total,334,True
+3,TSIATSIORKINA Aliaksandra,BLR,"Aug 19, 1999",57.77,A,84,101,185,,58kgWomen,Total,334,True
+4,LYTKINA Anna,RUS,"May 28, 1998",56.89,A,83,93,176,,58kgWomen,Total,334,True
+5,TYMOSHCHUK Mariia,UKR,"Aug 02, 1999",57.00,A,75,96,171,,58kgWomen,Total,334,True
+6,PEPLOWSKA Aleksandra,POL,"Apr 13, 1998",57.73,A,78,91,169,,58kgWomen,Total,334,True
+7,CAKIN Aysegul,TUR,"Jun 24, 1999",57.48,A,73,92,165,,58kgWomen,Total,334,True
+8,DAVILA SANSINENA Susana,ESP,"Feb 07, 1998",57.61,A,68,91,159,,58kgWomen,Total,334,True
+9,KOPYTKO Iryna,UKR,"Feb 24, 1998",57.92,A,68,91,159,,58kgWomen,Total,334,True
+10,ARNOULD Lutricia Ghislaine Claudine,FRA,"Aug 28, 1998",57.85,A,62,80,142,,58kgWomen,Total,334,True
+---,TALASTERA Suvi Tuulia,FIN,"Jan 06, 1999",57.84,A,---,---,---,,58kgWomen,Total,334,True
+1,SHEVKOPLIAS Alona,UKR,"Apr 03, 1998",62.61,A,85,87,89,89,63kgWomen,Snatch,334,True
+2,BELOBORODOVA Anastasiia,RUS,"Oct 13, 1999",61.59,A,78,81,85,85,63kgWomen,Snatch,334,True
+3,CHIBISOVA Irina,RUS,"May 26, 1998",61.62,A,75,78,80,80,63kgWomen,Snatch,334,True
+4,WRZOSEK Maria,POL,"Jul 26, 1999",62.94,A,75,78,-80,78,63kgWomen,Snatch,334,True
+5,TEODORESEI Mihaela,ROU,"Jul 28, 1998",62.46,A,70,76,-79,76,63kgWomen,Snatch,334,True
+6,KIRYCHUK Alina,UKR,"Mar 11, 1999",62.15,A,72,75,-78,75,63kgWomen,Snatch,334,True
+7,CABALLERO I MANZANARES Noelia,ESP,"Apr 29, 1999",62.43,A,-72,72,75,75,63kgWomen,Snatch,334,True
+8,TOKMAK Sultan,TUR,"Apr 05, 1998",62.11,A,73,-76,-76,73,63kgWomen,Snatch,334,True
+9,KESKIN Yasemin,TUR,"Nov 17, 1998",62.33,A,70,-75,-76,70,63kgWomen,Snatch,334,True
+10,SKUGGEDAL Nora,NOR,"Jun 29, 1998",62.81,A,-67,67,70,70,63kgWomen,Snatch,334,True
+11,KOWALSKA Sandra Weronika,POL,"Mar 23, 1999",61.56,A,66,69,-72,69,63kgWomen,Snatch,334,True
+12,LUHOVA Vanya,BUL,"Oct 30, 1999",61.13,A,68,-71,-72,68,63kgWomen,Snatch,334,True
+13,OTT Justine Myriam Jacqueline Joelle,FRA,"Nov 02, 1998",63.00,A,62,65,67,67,63kgWomen,Snatch,334,True
+14,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Oct 22, 1999",61.97,A,61,64,66,66,63kgWomen,Snatch,334,True
+15,HARDIE Rosie Jane,GBR,"Apr 09, 1998",60.42,A,58,62,65,65,63kgWomen,Snatch,334,True
+16,CEDERHOLM Alva Karolina,SWE,"Jun 21, 1999",60.39,A,55,58,60,60,63kgWomen,Snatch,334,True
+1,SHEVKOPLIAS Alona,UKR,"Apr 03, 1998",62.61,A,101,106,-109,106,63kgWomen,CleanJerk,334,True
+2,BELOBORODOVA Anastasiia,RUS,"Oct 13, 1999",61.59,A,100,-105,105,105,63kgWomen,CleanJerk,334,True
+3,CHIBISOVA Irina,RUS,"May 26, 1998",61.62,A,95,100,-105,100,63kgWomen,CleanJerk,334,True
+4,KESKIN Yasemin,TUR,"Nov 17, 1998",62.33,A,-96,96,-101,96,63kgWomen,CleanJerk,334,True
+5,LUHOVA Vanya,BUL,"Oct 30, 1999",61.13,A,88,91,95,95,63kgWomen,CleanJerk,334,True
+6,KIRYCHUK Alina,UKR,"Mar 11, 1999",62.15,A,91,95,-98,95,63kgWomen,CleanJerk,334,True
+7,TEODORESEI Mihaela,ROU,"Jul 28, 1998",62.46,A,90,94,-98,94,63kgWomen,CleanJerk,334,True
+8,WRZOSEK Maria,POL,"Jul 26, 1999",62.94,A,93,-96,-103,93,63kgWomen,CleanJerk,334,True
+9,KOWALSKA Sandra Weronika,POL,"Mar 23, 1999",61.56,A,-84,84,90,90,63kgWomen,CleanJerk,334,True
+10,TOKMAK Sultan,TUR,"Apr 05, 1998",62.11,A,86,-90,90,90,63kgWomen,CleanJerk,334,True
+11,CABALLERO I MANZANARES Noelia,ESP,"Apr 29, 1999",62.43,A,90,-93,-93,90,63kgWomen,CleanJerk,334,True
+12,OTT Justine Myriam Jacqueline Joelle,FRA,"Nov 02, 1998",63.00,A,83,88,-90,88,63kgWomen,CleanJerk,334,True
+13,SKUGGEDAL Nora,NOR,"Jun 29, 1998",62.81,A,84,-88,-90,84,63kgWomen,CleanJerk,334,True
+14,HARDIE Rosie Jane,GBR,"Apr 09, 1998",60.42,A,76,79,-82,79,63kgWomen,CleanJerk,334,True
+15,CEDERHOLM Alva Karolina,SWE,"Jun 21, 1999",60.39,A,74,78,-80,78,63kgWomen,CleanJerk,334,True
+16,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Oct 22, 1999",61.97,A,74,76,-79,76,63kgWomen,CleanJerk,334,True
+1,SHEVKOPLIAS Alona,UKR,"Apr 03, 1998",62.61,A,89,106,195,,63kgWomen,Total,334,True
+2,BELOBORODOVA Anastasiia,RUS,"Oct 13, 1999",61.59,A,85,105,190,,63kgWomen,Total,334,True
+3,CHIBISOVA Irina,RUS,"May 26, 1998",61.62,A,80,100,180,,63kgWomen,Total,334,True
+4,WRZOSEK Maria,POL,"Jul 26, 1999",62.94,A,78,93,171,,63kgWomen,Total,334,True
+5,KIRYCHUK Alina,UKR,"Mar 11, 1999",62.15,A,75,95,170,,63kgWomen,Total,334,True
+6,TEODORESEI Mihaela,ROU,"Jul 28, 1998",62.46,A,76,94,170,,63kgWomen,Total,334,True
+7,KESKIN Yasemin,TUR,"Nov 17, 1998",62.33,A,70,96,166,,63kgWomen,Total,334,True
+8,CABALLERO I MANZANARES Noelia,ESP,"Apr 29, 1999",62.43,A,75,90,165,,63kgWomen,Total,334,True
+9,LUHOVA Vanya,BUL,"Oct 30, 1999",61.13,A,68,95,163,,63kgWomen,Total,334,True
+10,TOKMAK Sultan,TUR,"Apr 05, 1998",62.11,A,73,90,163,,63kgWomen,Total,334,True
+11,KOWALSKA Sandra Weronika,POL,"Mar 23, 1999",61.56,A,69,90,159,,63kgWomen,Total,334,True
+12,OTT Justine Myriam Jacqueline Joelle,FRA,"Nov 02, 1998",63.00,A,67,88,155,,63kgWomen,Total,334,True
+13,SKUGGEDAL Nora,NOR,"Jun 29, 1998",62.81,A,70,84,154,,63kgWomen,Total,334,True
+14,HARDIE Rosie Jane,GBR,"Apr 09, 1998",60.42,A,65,79,144,,63kgWomen,Total,334,True
+15,LIWENDAHL Mimmi Emelie Elisabeth,SWE,"Oct 22, 1999",61.97,A,66,76,142,,63kgWomen,Total,334,True
+16,CEDERHOLM Alva Karolina,SWE,"Jun 21, 1999",60.39,A,60,78,138,,63kgWomen,Total,334,True
+1,TILER Rebekah Jade,GBR,"Jan 13, 1999",64.84,A,92,95,-99,95,69kgWomen,Snatch,334,True
+2,POGHOSYAN Sona,ARM,"Jun 29, 1998",68.27,A,86,91,93,93,69kgWomen,Snatch,334,True
+3,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",68.11,A,80,83,-85,83,69kgWomen,Snatch,334,True
+4,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",66.54,A,73,76,80,80,69kgWomen,Snatch,334,True
+5,GURTLER Annalena,GER,"Nov 03, 1998",68.76,A,73,76,78,78,69kgWomen,Snatch,334,True
+6,ATTI Nadia,GER,"Mar 10, 1998",68.90,A,72,75,-78,75,69kgWomen,Snatch,334,True
+7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Feb 12, 1999",68.74,A,68,71,74,74,69kgWomen,Snatch,334,True
+8,FERNEZOVA Eliska,SVK,"Sep 14, 1999",64.52,A,63,66,69,69,69kgWomen,Snatch,334,True
+9,BALABANOVA Kateryna,UKR,"May 14, 1998",63.30,A,63,65,66,66,69kgWomen,Snatch,334,True
+10,STONCIUTE Monika,LTU,"Mar 20, 1998",66.94,A,62,-65,66,66,69kgWomen,Snatch,334,True
+1,TILER Rebekah Jade,GBR,"Jan 13, 1999",64.84,A,115,120,125,125,69kgWomen,CleanJerk,334,True
+2,POGHOSYAN Sona,ARM,"Jun 29, 1998",68.27,A,106,111,113,113,69kgWomen,CleanJerk,334,True
+3,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",68.11,A,105,110,112,112,69kgWomen,CleanJerk,334,True
+4,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Feb 12, 1999",68.74,A,88,97,-100,97,69kgWomen,CleanJerk,334,True
+5,ATTI Nadia,GER,"Mar 10, 1998",68.90,A,92,95,-97,95,69kgWomen,CleanJerk,334,True
+6,GURTLER Annalena,GER,"Nov 03, 1998",68.76,A,-93,-93,93,93,69kgWomen,CleanJerk,334,True
+7,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",66.54,A,85,-90,90,90,69kgWomen,CleanJerk,334,True
+8,BALABANOVA Kateryna,UKR,"May 14, 1998",63.30,A,81,85,88,88,69kgWomen,CleanJerk,334,True
+9,FERNEZOVA Eliska,SVK,"Sep 14, 1999",64.52,A,-82,-82,82,82,69kgWomen,CleanJerk,334,True
+10,STONCIUTE Monika,LTU,"Mar 20, 1998",66.94,A,80,82,-84,82,69kgWomen,CleanJerk,334,True
+1,TILER Rebekah Jade,GBR,"Jan 13, 1999",64.84,A,95,125,220,,69kgWomen,Total,334,True
+2,POGHOSYAN Sona,ARM,"Jun 29, 1998",68.27,A,93,113,206,,69kgWomen,Total,334,True
+3,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",68.11,A,83,112,195,,69kgWomen,Total,334,True
+4,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Feb 12, 1999",68.74,A,74,97,171,,69kgWomen,Total,334,True
+5,GURTLER Annalena,GER,"Nov 03, 1998",68.76,A,78,93,171,,69kgWomen,Total,334,True
+6,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",66.54,A,80,90,170,,69kgWomen,Total,334,True
+7,ATTI Nadia,GER,"Mar 10, 1998",68.90,A,75,95,170,,69kgWomen,Total,334,True
+8,BALABANOVA Kateryna,UKR,"May 14, 1998",63.30,A,66,88,154,,69kgWomen,Total,334,True
+9,FERNEZOVA Eliska,SVK,"Sep 14, 1999",64.52,A,69,82,151,,69kgWomen,Total,334,True
+10,STONCIUTE Monika,LTU,"Mar 20, 1998",66.94,A,66,82,148,,69kgWomen,Total,334,True
+1,KAROLAK Magdalena,POL,"Jun 01, 1999",108.38,A,87,90,92,92,+69kgWomen,Snatch,334,True
+2,KISIL Valentyna,UKR,"Jul 05, 1998",74.85,A,86,89,90,90,+69kgWomen,Snatch,334,True
+3,SHYSHANOVA Anastasiia,UKR,"Dec 02, 1998",72.41,A,85,88,-90,88,+69kgWomen,Snatch,334,True
+4,RIAZANOVA Daria,RUS,"Aug 24, 2000",82.42,A,81,86,-88,86,+69kgWomen,Snatch,334,True
+5,DALALYAN Arpine,ARM,"Feb 18, 1999",100.45,A,79,-84,84,84,+69kgWomen,Snatch,334,True
+6,IVANOVA Dzhesika,BUL,"Oct 26, 1998",78.16,A,-82,82,-84,82,+69kgWomen,Snatch,334,True
+7,BOYNUEGRI Tugce,TUR,"Oct 12, 1998",82.11,A,-75,75,81,81,+69kgWomen,Snatch,334,True
+8,GYURUS Barbara,HUN,"Aug 12, 1998",116.53,A,74,78,80,80,+69kgWomen,Snatch,334,True
+9,SAUDARGAITE Danute,LTU,"Apr 15, 1998",72.86,A,70,-74,75,75,+69kgWomen,Snatch,334,True
+10,CATALDO Anna Chiara,ITA,"Oct 29, 1998",77.69,A,75,-80,-80,75,+69kgWomen,Snatch,334,True
+11,ATAKAN Zeynep,TUR,"Aug 01, 1998",69.30,A,74,-78,-78,74,+69kgWomen,Snatch,334,True
+1,DALALYAN Arpine,ARM,"Feb 18, 1999",100.45,A,109,114,119,119,+69kgWomen,CleanJerk,334,True
+2,RIAZANOVA Daria,RUS,"Aug 24, 2000",82.42,A,106,111,-115,111,+69kgWomen,CleanJerk,334,True
+3,KAROLAK Magdalena,POL,"Jun 01, 1999",108.38,A,106,-111,111,111,+69kgWomen,CleanJerk,334,True
+4,SHYSHANOVA Anastasiia,UKR,"Dec 02, 1998",72.41,A,103,106,108,108,+69kgWomen,CleanJerk,334,True
+5,IVANOVA Dzhesika,BUL,"Oct 26, 1998",78.16,A,100,107,-111,107,+69kgWomen,CleanJerk,334,True
+6,ATAKAN Zeynep,TUR,"Aug 01, 1998",69.30,A,105,-108,-108,105,+69kgWomen,CleanJerk,334,True
+7,KISIL Valentyna,UKR,"Jul 05, 1998",74.85,A,101,-106,-106,101,+69kgWomen,CleanJerk,334,True
+8,GYURUS Barbara,HUN,"Aug 12, 1998",116.53,A,94,98,-100,98,+69kgWomen,CleanJerk,334,True
+9,CATALDO Anna Chiara,ITA,"Oct 29, 1998",77.69,A,94,-98,-98,94,+69kgWomen,CleanJerk,334,True
+10,BOYNUEGRI Tugce,TUR,"Oct 12, 1998",82.11,A,-92,92,-98,92,+69kgWomen,CleanJerk,334,True
+11,SAUDARGAITE Danute,LTU,"Apr 15, 1998",72.86,A,81,86,-90,86,+69kgWomen,CleanJerk,334,True
+1,DALALYAN Arpine,ARM,"Feb 18, 1999",100.45,A,84,119,203,,+69kgWomen,Total,334,True
+2,KAROLAK Magdalena,POL,"Jun 01, 1999",108.38,A,92,111,203,,+69kgWomen,Total,334,True
+3,RIAZANOVA Daria,RUS,"Aug 24, 2000",82.42,A,86,111,197,,+69kgWomen,Total,334,True
+4,SHYSHANOVA Anastasiia,UKR,"Dec 02, 1998",72.41,A,88,108,196,,+69kgWomen,Total,334,True
+5,KISIL Valentyna,UKR,"Jul 05, 1998",74.85,A,90,101,191,,+69kgWomen,Total,334,True
+6,IVANOVA Dzhesika,BUL,"Oct 26, 1998",78.16,A,82,107,189,,+69kgWomen,Total,334,True
+7,ATAKAN Zeynep,TUR,"Aug 01, 1998",69.30,A,74,105,179,,+69kgWomen,Total,334,True
+8,GYURUS Barbara,HUN,"Aug 12, 1998",116.53,A,80,98,178,,+69kgWomen,Total,334,True
+9,BOYNUEGRI Tugce,TUR,"Oct 12, 1998",82.11,A,81,92,173,,+69kgWomen,Total,334,True
+10,CATALDO Anna Chiara,ITA,"Oct 29, 1998",77.69,A,75,94,169,,+69kgWomen,Total,334,True
+11,SAUDARGAITE Danute,LTU,"Apr 15, 1998",72.86,A,75,86,161,,+69kgWomen,Total,334,True
