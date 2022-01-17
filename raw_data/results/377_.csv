@@ -1,28 +1,28 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
-Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,1: 90,2: 101,3: 110,Total: 110,77kgMen,Snatch,
-Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,1: 80,2: 90,3: 100,Total: 100,77kgMen,Snatch,
-Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,1: 75,2: 80,3: 85,Total: 85,77kgMen,Snatch,
-Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,1: 70,2: -75,3: 75,Total: 75,77kgMen,Snatch,
-Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,1: 111,2: 122,3: -130,Total: 122,77kgMen,CleanJerk,
-Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,1: 100,2: 110,3: 120,Total: 120,77kgMen,CleanJerk,
-Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,1: 95,2: -100,3: ----,Total: 95,77kgMen,CleanJerk,
-Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,1: 80,2: ---,3: ---,Total: 80,77kgMen,CleanJerk,
-Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,Snatch: 110,CI&Jerk: 122,Total: 232,,77kgMen,Total,
-Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,77kgMen,Total,
-Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,Snatch: 85,CI&Jerk: 95,Total: 180,,77kgMen,Total,
-Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,Snatch: 75,CI&Jerk: 80,Total: 155,,77kgMen,Total,
-Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,1: 94,2: 98,3: 104,Total: 104,85kgMen,Snatch,
-Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,1: 75,2: 80,3: 86,Total: 86,85kgMen,Snatch,
-Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,1: 60,2: 65,3: 70,Total: 70,85kgMen,Snatch,
-Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,1: 108,2: 115,3: 120,Total: 120,85kgMen,CleanJerk,
-Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,1: 108,2: 115,3: 120,Total: 120,85kgMen,CleanJerk,
-Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,1: 80,2: 85,3: 95,Total: 95,85kgMen,CleanJerk,
-Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,Snatch: 104,CI&Jerk: 120,Total: 224,,85kgMen,Total,
-Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,Snatch: 86,CI&Jerk: 120,Total: 206,,85kgMen,Total,
-Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,85kgMen,Total,
-Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,1: 80,2: -112,3: 112,Total: 112,94kgMen,Snatch,
-Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,1: 80,2: 90,3: 100,Total: 100,94kgMen,Snatch,
-Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,1: 110,2: 140,3: -150,Total: 140,94kgMen,CleanJerk,
-Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,1: 100,2: 110,3: 120,Total: 120,94kgMen,CleanJerk,
-Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,Snatch: 112,CI&Jerk: 140,Total: 252,,94kgMen,Total,
-Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,94kgMen,Total,
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
+Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,1: 90,2: 101,3: 110,Total: 110,77kgMen,Snatch,377
+Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,1: 80,2: 90,3: 100,Total: 100,77kgMen,Snatch,377
+Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,1: 75,2: 80,3: 85,Total: 85,77kgMen,Snatch,377
+Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,1: 70,2: -75,3: 75,Total: 75,77kgMen,Snatch,377
+Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,1: 111,2: 122,3: -130,Total: 122,77kgMen,CleanJerk,377
+Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,1: 100,2: 110,3: 120,Total: 120,77kgMen,CleanJerk,377
+Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,1: 95,2: -100,3: ----,Total: 95,77kgMen,CleanJerk,377
+Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,1: 80,2: ---,3: ---,Total: 80,77kgMen,CleanJerk,377
+Rank: 1,MABUYA Khati,RSA,"Born: Jul 02, 1988",B.weight: 71.40,Group: A,Snatch: 110,CI&Jerk: 122,Total: 232,,77kgMen,Total,377
+Rank: 2,RAMELA Phehello John,RSA,"Born: Jul 25, 1993",B.weight: 69.25,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,77kgMen,Total,377
+Rank: 3,TSHEPO Malhabe,RSA,"Born: Apr 23, 1996",B.weight: 74.45,Group: A,Snatch: 85,CI&Jerk: 95,Total: 180,,77kgMen,Total,377
+Rank: 4,SIYABONGA Nkambule,RSA,"Born: Jul 01, 1993",B.weight: 69.70,Group: A,Snatch: 75,CI&Jerk: 80,Total: 155,,77kgMen,Total,377
+Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,1: 94,2: 98,3: 104,Total: 104,85kgMen,Snatch,377
+Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,1: 75,2: 80,3: 86,Total: 86,85kgMen,Snatch,377
+Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,1: 60,2: 65,3: 70,Total: 70,85kgMen,Snatch,377
+Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,1: 108,2: 115,3: 120,Total: 120,85kgMen,CleanJerk,377
+Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,1: 108,2: 115,3: 120,Total: 120,85kgMen,CleanJerk,377
+Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,1: 80,2: 85,3: 95,Total: 95,85kgMen,CleanJerk,377
+Rank: 1,POW CHONG Grant Lawrence,RSA,"Born: May 17, 1983",B.weight: 78.65,Group: A,Snatch: 104,CI&Jerk: 120,Total: 224,,85kgMen,Total,377
+Rank: 2,SHAN Mafung,RSA,"Born: Jan 02, 1993",B.weight: 80.90,Group: A,Snatch: 86,CI&Jerk: 120,Total: 206,,85kgMen,Total,377
+Rank: 3,SIFISO Dladla,SWZ,"Born: Sep 01, 1980",B.weight: 78.10,Group: A,Snatch: 70,CI&Jerk: 95,Total: 165,,85kgMen,Total,377
+Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,1: 80,2: -112,3: 112,Total: 112,94kgMen,Snatch,377
+Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,1: 80,2: 90,3: 100,Total: 100,94kgMen,Snatch,377
+Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,1: 110,2: 140,3: -150,Total: 140,94kgMen,CleanJerk,377
+Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,1: 100,2: 110,3: 120,Total: 120,94kgMen,CleanJerk,377
+Rank: 1,THAPELO Maikhi,RSA,"Born: Feb 28, 1983",B.weight: 88.35,Group: A,Snatch: 112,CI&Jerk: 140,Total: 252,,94kgMen,Total,377
+Rank: 2,KHLED El Jlailati,RSA,"Born: Jan 22, 1987",B.weight: 91.55,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,94kgMen,Total,377

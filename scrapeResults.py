@@ -102,7 +102,8 @@ def scrape_url(id: int = 522):
                 df.loc[len(df)] = row
                 row = []
 
-    df['event'] = event
+    #df['event'] = event
+    df['event_id'] = id
     file = './raw_data/results/' + str(id) + ' ' + event + '.csv'
     file = file.replace(' ', '_').replace('-', '_')
     df.to_csv(file, index=False)

@@ -1,493 +1,493 @@
-rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event
-Rank: 1,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,1: 75,2: 80,3: 81,Total: 81,50kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,1: 73,2: 77,3: 81,Total: 81,50kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,1: -75,2: 75,3: 80,Total: 80,50kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,1: -95,2: 95,3: 100,Total: 100,50kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,1: 87,2: 93,3: ---,Total: 93,50kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,1: 86,2: 93,3: -100,Total: 93,50kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,50kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,Snatch: 81,CI&Jerk: 93,Total: 174,,50kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,Snatch: 81,CI&Jerk: 93,Total: 174,,50kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,1: 101,2: 104,3: 106,Total: 106,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,1: 95,2: 100,3: 102,Total: 102,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,1: 97,2: 100,3: -102,Total: 100,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,1: 90,2: 95,3: 98,Total: 98,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,1: 96,2: -100,3: -102,Total: 96,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,1: -92,2: 92,3: -98,Total: 92,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,1: -87,2: 87,3: 91,Total: 91,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,1: -85,2: 85,3: 90,Total: 90,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,1: 84,2: 88,3: -91,Total: 88,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,1: -75,2: 75,3: 83,Total: 83,56kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,1: 122,2: 126,3: -130,Total: 126,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,1: 118,2: -121,3: 121,Total: 121,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,1: 115,2: 118,3: -122,Total: 118,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,1: 114,2: 118,3: -120,Total: 118,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,1: 110,2: 115,3: -119,Total: 115,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,1: 114,2: -118,3: -119,Total: 114,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,1: 103,2: 108,3: 111,Total: 111,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,1: 109,2: -114,3: -115,Total: 109,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,1: 100,2: 105,3: 108,Total: 108,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,1: 90,2: 100,3: -105,Total: 100,56kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,Snatch: 106,CI&Jerk: 126,Total: 232,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,Snatch: 100,CI&Jerk: 121,Total: 221,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,Snatch: 102,CI&Jerk: 118,Total: 220,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,Snatch: 98,CI&Jerk: 115,Total: 213,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,Snatch: 96,CI&Jerk: 114,Total: 210,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,Snatch: 92,CI&Jerk: 118,Total: 210,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,Snatch: 91,CI&Jerk: 109,Total: 200,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,Snatch: 88,CI&Jerk: 111,Total: 199,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,Snatch: 90,CI&Jerk: 108,Total: 198,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,Snatch: 83,CI&Jerk: 100,Total: 183,,56kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,1: 116,2: 121,3: -125,Total: 121,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,1: 120,2: -123,3: -124,Total: 120,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,1: -110,2: 110,3: 115,Total: 115,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,1: 107,2: 111,3: 115,Total: 115,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,1: 109,2: 112,3: -114,Total: 112,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,1: -108,2: 108,3: 111,Total: 111,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,1: -111,2: 111,3: -115,Total: 111,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,1: 97,2: 102,3: 105,Total: 105,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,1: 97,2: 101,3: 104,Total: 104,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,1: 103,2: -107,3: -107,Total: 103,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,1: 96,2: 100,3: -103,Total: 100,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,1: 90,2: 93,3: -95,Total: 93,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,1: 88,2: 92,3: -95,Total: 92,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,1: -87,2: 87,3: 90,Total: 90,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,1: 87,2: 90,3: -93,Total: 90,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,1: 86,2: 89,3: -91,Total: 89,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,1: 87,2: -90,3: -93,Total: 87,62kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,1: 145,2: -148,3: 148,Total: 148,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,1: 140,2: -147,3: 147,Total: 147,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,1: 140,2: 143,3: -148,Total: 143,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,1: 135,2: 140,3: -143,Total: 140,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,1: 130,2: -136,3: 139,Total: 139,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,1: 132,2: 138,3: -143,Total: 138,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,1: -135,2: 135,3: -142,Total: 135,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,1: 131,2: -136,3: -136,Total: 131,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,1: 116,2: -120,3: 122,Total: 122,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,1: 116,2: 120,3: 122,Total: 122,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,1: -118,2: -118,3: 120,Total: 120,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,1: 112,2: 116,3: -118,Total: 116,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,1: 108,2: 114,3: -115,Total: 114,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,1: 110,2: 113,3: -115,Total: 113,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,1: -107,2: 107,3: 112,Total: 112,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,1: 108,2: -112,3: -112,Total: 108,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,1: -101,2: 101,3: 104,Total: 104,62kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,Snatch: 121,CI&Jerk: 148,Total: 269,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,Snatch: 120,CI&Jerk: 147,Total: 267,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,Snatch: 112,CI&Jerk: 143,Total: 255,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,Snatch: 115,CI&Jerk: 139,Total: 254,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,Snatch: 111,CI&Jerk: 140,Total: 251,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,Snatch: 115,CI&Jerk: 135,Total: 250,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,Snatch: 111,CI&Jerk: 138,Total: 249,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,Snatch: 103,CI&Jerk: 131,Total: 234,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,Snatch: 105,CI&Jerk: 122,Total: 227,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,Snatch: 104,CI&Jerk: 122,Total: 226,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,Snatch: 90,CI&Jerk: 114,Total: 204,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,Snatch: 92,CI&Jerk: 112,Total: 204,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,Snatch: 90,CI&Jerk: 113,Total: 203,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,Snatch: 87,CI&Jerk: 116,Total: 203,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,Snatch: 93,CI&Jerk: 108,Total: 201,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,Snatch: 89,CI&Jerk: 104,Total: 193,,62kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,1: 124,2: 128,3: 132,Total: 132,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,1: 122,2: 128,3: 131,Total: 131,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,1: 126,2: 129,3: -132,Total: 129,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,1: 120,2: 124,3: -127,Total: 124,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,1: -120,2: 120,3: 123,Total: 123,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,1: 120,2: -125,3: -126,Total: 120,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,1: 120,2: -125,3: -125,Total: 120,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,1: 113,2: 117,3: -120,Total: 117,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,1: 110,2: 114,3: 117,Total: 117,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,1: 110,2: 115,3: -120,Total: 115,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,1: -112,2: -112,3: 112,Total: 112,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,1: 110,2: -116,3: -116,Total: 110,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,1: 102,2: 108,3: -111,Total: 108,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,1: 98,2: 103,3: -108,Total: 103,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,1: -95,2: 95,3: 100,Total: 100,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,1: -93,2: -93,3: 93,Total: 93,69kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,1: 155,2: 158,3: 161,Total: 161,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,1: 153,2: 158,3: 161,Total: 161,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,1: 150,2: 155,3: 159,Total: 159,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,1: 152,2: 156,3: 159,Total: 159,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,1: 153,2: -156,3: 156,Total: 156,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,1: 140,2: 145,3: 150,Total: 150,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,1: 140,2: -150,3: 150,Total: 150,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,1: 148,2: -153,3: -155,Total: 148,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,1: 133,2: -138,3: 138,Total: 138,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,1: -135,2: -135,3: 135,Total: 135,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,1: -133,2: 133,3: -138,Total: 133,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,1: 128,2: -133,3: 133,Total: 133,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,1: -125,2: -127,3: 127,Total: 127,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,1: 115,2: 118,3: 120,Total: 120,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,1: 120,2: -128,3: -128,Total: 120,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,1: -141,2: -141,3: -141,Total: ---,69kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,Snatch: 132,CI&Jerk: 159,Total: 291,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,Snatch: 124,CI&Jerk: 161,Total: 285,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,Snatch: 129,CI&Jerk: 156,Total: 285,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,Snatch: 131,CI&Jerk: 150,Total: 281,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,Snatch: 120,CI&Jerk: 161,Total: 281,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,Snatch: 120,CI&Jerk: 159,Total: 279,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,Snatch: 123,CI&Jerk: 148,Total: 271,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,Snatch: 115,CI&Jerk: 150,Total: 265,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,Snatch: 117,CI&Jerk: 138,Total: 255,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,Snatch: 117,CI&Jerk: 135,Total: 252,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,Snatch: 112,CI&Jerk: 133,Total: 245,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,Snatch: 103,CI&Jerk: 133,Total: 236,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,Snatch: 108,CI&Jerk: 127,Total: 235,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,Snatch: 93,CI&Jerk: 120,Total: 213,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,Snatch: 110,CI&Jerk: ---,Total: ---,,69kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,1: 140,2: 147,3: 153,Total: 153,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,1: 130,2: 134,3: 136,Total: 136,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,1: 126,2: -131,3: 131,Total: 131,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,1: -130,2: 130,3: -135,Total: 130,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,1: -130,2: 130,3: -133,Total: 130,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,1: 120,2: 124,3: 127,Total: 127,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,1: 123,2: 127,3: -131,Total: 127,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,1: 120,2: 124,3: 127,Total: 127,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,1: 125,2: -129,3: -129,Total: 125,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,1: 122,2: -126,3: -126,Total: 122,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,1: 114,2: 119,3: -123,Total: 119,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,1: -110,2: 110,3: 115,Total: 115,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,1: 106,2: 110,3: 112,Total: 112,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,1: 105,2: -109,3: 110,Total: 110,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,1: 104,2: 109,3: -111,Total: 109,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,1: -107,2: -107,3: 107,Total: 107,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,1: 85,2: 91,3: 95,Total: 95,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,1: -75,2: 75,3: 82,Total: 82,77kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,1: 170,2: 179,3: -183,Total: 179,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,1: 150,2: 155,3: 160,Total: 160,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,1: 155,2: 160,3: -162,Total: 160,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,1: -155,2: -155,3: 158,Total: 158,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,1: 155,2: -158,3: -159,Total: 155,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,1: -155,2: 155,3: -160,Total: 155,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,1: 141,2: 147,3: 154,Total: 154,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,1: 153,2: -157,3: -157,Total: 153,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,1: 153,2: -159,3: -159,Total: 153,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,1: 145,2: 151,3: -155,Total: 151,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,1: 150,2: -156,3: -157,Total: 150,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,1: 141,2: 145,3: -151,Total: 145,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,1: 135,2: 140,3: -144,Total: 140,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,1: -135,2: 136,3: 140,Total: 140,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,1: -132,2: 132,3: 137,Total: 137,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,1: 115,2: 121,3: 126,Total: 126,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,1: 120,2: 125,3: -128,Total: 125,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,1: 95,2: 102,3: 107,Total: 107,77kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,Snatch: 153,CI&Jerk: 179,Total: 332,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,Snatch: 136,CI&Jerk: 155,Total: 291,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,Snatch: 130,CI&Jerk: 158,Total: 288,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,Snatch: 127,CI&Jerk: 160,Total: 287,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,Snatch: 131,CI&Jerk: 153,Total: 284,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,Snatch: 127,CI&Jerk: 153,Total: 280,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,Snatch: 127,CI&Jerk: 151,Total: 278,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,Snatch: 122,CI&Jerk: 150,Total: 272,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,Snatch: 119,CI&Jerk: 145,Total: 264,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,Snatch: 109,CI&Jerk: 154,Total: 263,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 15,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,Snatch: 112,CI&Jerk: 137,Total: 249,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 16,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,Snatch: 107,CI&Jerk: 125,Total: 232,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 17,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,Snatch: 95,CI&Jerk: 126,Total: 221,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,77kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,1: 140,2: 145,3: 150,Total: 150,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,1: 130,2: -134,3: 134,Total: 134,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,1: 130,2: 134,3: -136,Total: 134,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,1: 120,2: 125,3: 130,Total: 130,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,1: -128,2: -128,3: 128,Total: 128,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,1: 121,2: 126,3: -128,Total: 126,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,1: 120,2: 125,3: -128,Total: 125,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,1: 115,2: 120,3: 124,Total: 124,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,1: 115,2: 119,3: 124,Total: 124,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,1: 105,2: 110,3: -115,Total: 110,85kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,1: 170,2: 180,3: ---,Total: 180,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,1: 165,2: 172,3: -181,Total: 172,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,1: 162,2: -171,3: -171,Total: 162,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,1: 153,2: 156,3: -161,Total: 156,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,1: 145,2: 150,3: 155,Total: 155,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,1: 150,2: -155,3: 155,Total: 155,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,1: 151,2: 155,3: -160,Total: 155,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,1: 145,2: 150,3: 154,Total: 154,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,1: 143,2: 150,3: -155,Total: 150,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,1: 135,2: -140,3: -140,Total: 135,85kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,Snatch: 150,CI&Jerk: 180,Total: 330,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,Snatch: 134,CI&Jerk: 172,Total: 306,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,Snatch: 134,CI&Jerk: 162,Total: 296,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,Snatch: 128,CI&Jerk: 156,Total: 284,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,Snatch: 126,CI&Jerk: 155,Total: 281,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,Snatch: 124,CI&Jerk: 154,Total: 278,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,Snatch: 124,CI&Jerk: 150,Total: 274,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,Snatch: 110,CI&Jerk: 135,Total: 245,,85kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,1: 142,2: 147,3: 150,Total: 150,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,1: 140,2: 147,3: 150,Total: 150,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,1: 138,2: 142,3: 145,Total: 145,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,1: 137,2: 141,3: -146,Total: 141,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,1: 130,2: 135,3: 139,Total: 139,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,1: 131,2: 136,3: 139,Total: 139,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,1: 135,2: 139,3: -142,Total: 139,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,1: 124,2: -129,3: -130,Total: 124,94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,1: 172,2: 177,3: 182,Total: 182,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,1: 167,2: 174,3: 181,Total: 181,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,1: -165,2: 166,3: 169,Total: 169,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,1: 165,2: 168,3: -171,Total: 168,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,1: 160,2: 166,3: -174,Total: 166,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,1: -155,2: 157,3: -165,Total: 157,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,1: -146,2: 146,3: -150,Total: 146,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,1: -165,2: -166,3: -166,Total: ---,94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,Snatch: 150,CI&Jerk: 182,Total: 332,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,Snatch: 139,CI&Jerk: 181,Total: 320,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,Snatch: 150,CI&Jerk: 169,Total: 319,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,Snatch: 145,CI&Jerk: 168,Total: 313,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,Snatch: 139,CI&Jerk: 166,Total: 305,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,Snatch: 139,CI&Jerk: 157,Total: 296,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,Snatch: 124,CI&Jerk: 146,Total: 270,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,Snatch: 141,CI&Jerk: ---,Total: ---,,94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,1: 145,2: 150,3: 155,Total: 155,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,1: 145,2: 150,3: 155,Total: 155,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,1: 145,2: 150,3: 152,Total: 152,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,1: -141,2: 141,3: 146,Total: 146,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,1: -132,2: 132,3: 137,Total: 137,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,1: 125,2: 130,3: -133,Total: 130,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,1: 115,2: 120,3: -125,Total: 120,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,1: 103,2: 108,3: 112,Total: 112,+94kgMen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,1: 176,2: 181,3: -185,Total: 181,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,1: 175,2: 180,3: -185,Total: 180,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,1: 170,2: 175,3: -183,Total: 175,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,1: 165,2: 170,3: 173,Total: 173,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,1: 171,2: -176,3: -182,Total: 171,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,1: 153,2: 155,3: -160,Total: 155,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,1: 145,2: -154,3: 154,Total: 154,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,1: 133,2: 138,3: 141,Total: 141,+94kgMen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,Snatch: 155,CI&Jerk: 181,Total: 336,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,Snatch: 155,CI&Jerk: 180,Total: 335,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,Snatch: 152,CI&Jerk: 175,Total: 327,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,Snatch: 146,CI&Jerk: 173,Total: 319,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,Snatch: 137,CI&Jerk: 171,Total: 308,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,Snatch: 120,CI&Jerk: 154,Total: 274,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,Snatch: 112,CI&Jerk: 141,Total: 253,,+94kgMen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,1: 57,2: 60,3: -66,Total: 60,44kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,1: 53,2: 57,3: 58,Total: 58,44kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,1: 53,2: 56,3: 57,Total: 57,44kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,1: 45,2: 49,3: 51,Total: 51,44kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,1: 40,2: 43,3: 45,Total: 45,44kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,1: 70,2: 81,3: 87,Total: 87,44kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,1: 64,2: 66,3: 68,Total: 68,44kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,1: 63,2: 65,3: 67,Total: 67,44kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,1: 58,2: 62,3: -66,Total: 62,44kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,1: 50,2: 54,3: 57,Total: 57,44kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,Snatch: 60,CI&Jerk: 87,Total: 147,,44kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,Snatch: 57,CI&Jerk: 68,Total: 125,,44kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,Snatch: 58,CI&Jerk: 67,Total: 125,,44kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,Snatch: 51,CI&Jerk: 62,Total: 113,,44kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,Snatch: 45,CI&Jerk: 57,Total: 102,,44kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,1: 63,2: 66,3: -68,Total: 66,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,1: -63,2: 63,3: 65,Total: 65,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,1: 62,2: 65,3: -67,Total: 65,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,1: -61,2: 61,3: -64,Total: 61,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,1: 60,2: -63,3: -63,Total: 60,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,1: 54,2: 56,3: 58,Total: 58,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,1: -55,2: 55,3: 57,Total: 57,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,1: 54,2: -57,3: -58,Total: 54,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,1: 50,2: -53,3: 53,Total: 53,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,1: -50,2: 50,3: -53,Total: 50,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,1: -65,2: -65,3: -65,Total: ---,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,1: -62,2: -63,3: -65,Total: ---,48kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,1: 82,2: 87,3: ---,Total: 87,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,1: 78,2: 82,3: 85,Total: 85,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,1: 76,2: 80,3: -83,Total: 80,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,1: 77,2: 80,3: -83,Total: 80,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,1: 78,2: -82,3: -82,Total: 78,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,1: -78,2: 78,3: -83,Total: 78,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,1: 75,2: -83,3: -83,Total: 75,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,1: 68,2: -71,3: 71,Total: 71,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,1: 66,2: 69,3: 71,Total: 71,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,1: 70,2: -73,3: -73,Total: 70,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,1: 64,2: 68,3: -71,Total: 68,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,1: 60,2: 65,3: -68,Total: 65,48kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,Snatch: 65,CI&Jerk: 87,Total: 152,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,Snatch: 66,CI&Jerk: 85,Total: 151,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,Snatch: 65,CI&Jerk: 78,Total: 143,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,Snatch: 61,CI&Jerk: 80,Total: 141,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,Snatch: 60,CI&Jerk: 78,Total: 138,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,Snatch: 58,CI&Jerk: 70,Total: 128,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,Snatch: 57,CI&Jerk: 71,Total: 128,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,Snatch: 53,CI&Jerk: 71,Total: 124,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,Snatch: 54,CI&Jerk: 68,Total: 122,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,Snatch: 50,CI&Jerk: 65,Total: 115,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,Snatch: ---,CI&Jerk: 80,Total: ---,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,Snatch: ---,CI&Jerk: 75,Total: ---,,48kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,1: 71,2: 74,3: 76,Total: 76,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,1: 72,2: 74,3: -77,Total: 74,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,1: 67,2: 71,3: -73,Total: 71,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,1: 65,2: -68,3: 70,Total: 70,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,1: 68,2: 70,3: -73,Total: 70,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,1: 70,2: -74,3: -74,Total: 70,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,1: 63,2: 67,3: 70,Total: 70,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,1: 59,2: 62,3: 64,Total: 64,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,1: 63,2: -66,3: -66,Total: 63,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,1: -57,2: 57,3: 60,Total: 60,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,1: 57,2: -60,3: 60,Total: 60,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,1: 54,2: 57,3: -59,Total: 57,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,1: -47,2: 47,3: 50,Total: 50,53kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,1: 88,2: 92,3: -97,Total: 92,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,1: 87,2: 89,3: 91,Total: 91,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,1: 86,2: 88,3: -90,Total: 88,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,1: 82,2: -88,3: 88,Total: 88,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,1: 80,2: -84,3: 85,Total: 85,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,1: 77,2: 81,3: 84,Total: 84,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,1: 80,2: -84,3: 84,Total: 84,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,1: 83,2: -88,3: -89,Total: 83,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,1: 75,2: 80,3: 82,Total: 82,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,1: 75,2: -78,3: 78,Total: 78,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,1: 68,2: 72,3: 75,Total: 75,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,1: 69,2: 72,3: -75,Total: 72,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,1: -62,2: -62,3: 62,Total: 62,53kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,Snatch: 76,CI&Jerk: 91,Total: 167,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,Snatch: 74,CI&Jerk: 88,Total: 162,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,Snatch: 71,CI&Jerk: 88,Total: 159,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,Snatch: 70,CI&Jerk: 84,Total: 154,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,Snatch: 70,CI&Jerk: 83,Total: 153,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,Snatch: 64,CI&Jerk: 84,Total: 148,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,Snatch: 63,CI&Jerk: 82,Total: 145,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,Snatch: 60,CI&Jerk: 78,Total: 138,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,Snatch: 57,CI&Jerk: 72,Total: 129,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,Snatch: 50,CI&Jerk: 62,Total: 112,,53kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,1: 80,2: 82,3: 84,Total: 84,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,1: 75,2: -78,3: 78,Total: 78,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,1: -75,2: 75,3: -78,Total: 75,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,1: 70,2: 72,3: 74,Total: 74,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,1: 65,2: 69,3: -71,Total: 69,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,1: 68,2: -70,3: -71,Total: 68,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,1: -67,2: 67,3: -70,Total: 67,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,1: 62,2: 67,3: -70,Total: 67,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,1: 63,2: -66,3: 66,Total: 66,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,1: -64,2: -65,3: 65,Total: 65,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,1: 65,2: -68,3: -68,Total: 65,58kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,1: 100,2: 103,3: ---,Total: 103,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,1: 95,2: 99,3: -102,Total: 99,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,1: 93,2: -96,3: 96,Total: 96,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,1: 85,2: -89,3: 89,Total: 89,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,1: 85,2: -89,3: -89,Total: 85,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,1: 80,2: 83,3: 85,Total: 85,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,1: 77,2: -80,3: 84,Total: 84,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,1: 83,2: -86,3: -87,Total: 83,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,1: -78,2: 78,3: 82,Total: 82,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,1: -80,2: 80,3: -83,Total: 80,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,1: 73,2: -76,3: -76,Total: 73,58kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,Snatch: 84,CI&Jerk: 103,Total: 187,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,Snatch: 78,CI&Jerk: 99,Total: 177,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,Snatch: 75,CI&Jerk: 96,Total: 171,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,Snatch: 74,CI&Jerk: 85,Total: 159,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,Snatch: 65,CI&Jerk: 89,Total: 154,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,Snatch: 68,CI&Jerk: 85,Total: 153,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,Snatch: 67,CI&Jerk: 83,Total: 150,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,Snatch: 67,CI&Jerk: 82,Total: 149,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,Snatch: 69,CI&Jerk: 80,Total: 149,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,Snatch: 65,CI&Jerk: 73,Total: 138,,58kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,1: 83,2: 86,3: 89,Total: 89,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,1: 81,2: 82,3: 84,Total: 84,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,1: 77,2: 80,3: 82,Total: 82,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,1: 76,2: 80,3: 81,Total: 81,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,1: 76,2: 79,3: 81,Total: 81,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,1: 72,2: 75,3: -77,Total: 75,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,1: 65,2: -70,3: 70,Total: 70,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,1: 63,2: 66,3: -70,Total: 66,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,1: 60,2: 63,3: 65,Total: 65,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,1: -61,2: 61,3: -64,Total: 61,63kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,1: 102,2: 105,3: -107,Total: 105,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,1: 101,2: 103,3: 105,Total: 105,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,1: 99,2: 103,3: 105,Total: 105,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,1: 96,2: 99,3: 104,Total: 104,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,1: 94,2: -97,3: 98,Total: 98,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,1: -86,2: 86,3: 92,Total: 92,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,1: 78,2: 81,3: 84,Total: 84,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,1: 78,2: 81,3: -84,Total: 81,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,1: 70,2: 73,3: 75,Total: 75,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,1: -88,2: -88,3: -88,Total: ---,63kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,Snatch: 89,CI&Jerk: 105,Total: 194,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,Snatch: 84,CI&Jerk: 105,Total: 189,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,Snatch: 82,CI&Jerk: 105,Total: 187,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,Snatch: 81,CI&Jerk: 104,Total: 185,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,Snatch: 81,CI&Jerk: 98,Total: 179,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,Snatch: 61,CI&Jerk: 81,Total: 142,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,Snatch: 65,CI&Jerk: 75,Total: 140,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,Snatch: 75,CI&Jerk: ---,Total: ---,,63kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,1: 79,2: 82,3: 85,Total: 85,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,1: 75,2: 78,3: 80,Total: 80,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,1: 75,2: 78,3: 80,Total: 80,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,1: 73,2: 76,3: 78,Total: 78,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,1: 72,2: 75,3: 78,Total: 78,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,1: -74,2: 74,3: -77,Total: 74,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,1: 65,2: 70,3: 73,Total: 73,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,1: -73,2: 73,3: -75,Total: 73,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,1: 64,2: -68,3: 70,Total: 70,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,1: -68,2: 68,3: -70,Total: 68,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,1: 62,2: -66,3: 66,Total: 66,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,1: 50,2: 55,3: 59,Total: 59,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,1: -70,2: -72,3: -73,Total: ---,69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,1: 96,2: 100,3: 102,Total: 102,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,1: 98,2: -101,3: 101,Total: 101,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,1: 90,2: 95,3: 100,Total: 100,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,1: 92,2: 96,3: 100,Total: 100,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,1: 95,2: 99,3: -102,Total: 99,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,1: 85,2: 90,3: 95,Total: 95,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,1: 91,2: -95,3: 95,Total: 95,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,1: 85,2: 88,3: 90,Total: 90,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,1: 90,2: -95,3: -95,Total: 90,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,1: 80,2: 84,3: -86,Total: 84,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,1: 81,2: -84,3: 84,Total: 84,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,1: 78,2: 81,3: 83,Total: 83,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 13,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,1: -60,2: 60,3: -68,Total: 60,69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,Snatch: 85,CI&Jerk: 102,Total: 187,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,Snatch: 80,CI&Jerk: 99,Total: 179,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,Snatch: 78,CI&Jerk: 100,Total: 178,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,Snatch: 73,CI&Jerk: 100,Total: 173,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,Snatch: 74,CI&Jerk: 95,Total: 169,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,Snatch: 78,CI&Jerk: 90,Total: 168,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,Snatch: 70,CI&Jerk: 83,Total: 153,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,Snatch: 68,CI&Jerk: 84,Total: 152,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 11,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 12,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,Snatch: 59,CI&Jerk: 60,Total: 119,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,Snatch: ---,CI&Jerk: 95,Total: ---,,69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,1: 89,2: 93,3: -96,Total: 93,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,1: 87,2: 90,3: 92,Total: 92,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,1: -90,2: 90,3: -94,Total: 90,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,1: 85,2: 89,3: -91,Total: 89,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,1: 80,2: 85,3: -87,Total: 85,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,1: 80,2: -85,3: -85,Total: 80,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,1: 62,2: 66,3: 69,Total: 69,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,1: 55,2: 60,3: -64,Total: 60,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,1: 45,2: -50,3: -50,Total: 45,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,1: -82,2: -82,3: -82,Total: ---,+69kgWomen,Snatch,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,1: 115,2: 120,3: 124,Total: 124,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,1: 115,2: 120,3: -125,Total: 120,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,1: 111,2: 116,3: -121,Total: 116,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,1: 105,2: 110,3: -115,Total: 110,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,1: 110,2: -114,3: -115,Total: 110,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,1: -103,2: -103,3: 103,Total: 103,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,1: 95,2: -100,3: 100,Total: 100,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,1: 83,2: 88,3: 91,Total: 91,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,1: 70,2: 75,3: -78,Total: 75,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 10,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,1: 60,2: 65,3: -70,Total: 65,+69kgWomen,CleanJerk,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,Snatch: 89,CI&Jerk: 124,Total: 213,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,Snatch: 92,CI&Jerk: 120,Total: 212,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 3,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,Snatch: 93,CI&Jerk: 116,Total: 209,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 4,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 5,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,Snatch: 85,CI&Jerk: 110,Total: 195,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,Snatch: 80,CI&Jerk: 103,Total: 183,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,Snatch: 69,CI&Jerk: 91,Total: 160,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 8,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: 9,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,Snatch: 45,CI&Jerk: 65,Total: 110,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
-Rank: ---,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,Snatch: ---,CI&Jerk: 100,Total: ---,,+69kgWomen,Total,EUROPEAN YOUTH CHAMPIONSHIPS
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id
+Rank: 1,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,1: 75,2: 80,3: 81,Total: 81,50kgMen,Snatch,363
+Rank: 2,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,1: 73,2: 77,3: 81,Total: 81,50kgMen,Snatch,363
+Rank: 3,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,1: -75,2: 75,3: 80,Total: 80,50kgMen,Snatch,363
+Rank: 1,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,1: -95,2: 95,3: 100,Total: 100,50kgMen,CleanJerk,363
+Rank: 2,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,1: 87,2: 93,3: ---,Total: 93,50kgMen,CleanJerk,363
+Rank: 3,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,1: 86,2: 93,3: -100,Total: 93,50kgMen,CleanJerk,363
+Rank: 1,IANCU Valentin-Ionadi,ROU,"Born: Jan 16, 2000",B.weight: 48.78,Group: A,Snatch: 80,CI&Jerk: 100,Total: 180,,50kgMen,Total,363
+Rank: 2,BALAUTA Petrica,ROU,"Born: Jun 29, 2000",B.weight: 49.54,Group: A,Snatch: 81,CI&Jerk: 93,Total: 174,,50kgMen,Total,363
+Rank: 3,MAMMADOV Ismayil,AZE,"Born: Aug 18, 2000",B.weight: 50.00,Group: A,Snatch: 81,CI&Jerk: 93,Total: 174,,50kgMen,Total,363
+Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,1: 101,2: 104,3: 106,Total: 106,56kgMen,Snatch,363
+Rank: 2,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,1: 95,2: 100,3: 102,Total: 102,56kgMen,Snatch,363
+Rank: 3,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,1: 97,2: 100,3: -102,Total: 100,56kgMen,Snatch,363
+Rank: 4,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,1: 90,2: 95,3: 98,Total: 98,56kgMen,Snatch,363
+Rank: 5,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,1: 96,2: -100,3: -102,Total: 96,56kgMen,Snatch,363
+Rank: 6,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,1: -92,2: 92,3: -98,Total: 92,56kgMen,Snatch,363
+Rank: 7,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,1: -87,2: 87,3: 91,Total: 91,56kgMen,Snatch,363
+Rank: 8,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,1: -85,2: 85,3: 90,Total: 90,56kgMen,Snatch,363
+Rank: 9,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,1: 84,2: 88,3: -91,Total: 88,56kgMen,Snatch,363
+Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,1: -75,2: 75,3: 83,Total: 83,56kgMen,Snatch,363
+Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,1: 122,2: 126,3: -130,Total: 126,56kgMen,CleanJerk,363
+Rank: 2,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,1: 118,2: -121,3: 121,Total: 121,56kgMen,CleanJerk,363
+Rank: 3,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,1: 115,2: 118,3: -122,Total: 118,56kgMen,CleanJerk,363
+Rank: 4,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,1: 114,2: 118,3: -120,Total: 118,56kgMen,CleanJerk,363
+Rank: 5,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,1: 110,2: 115,3: -119,Total: 115,56kgMen,CleanJerk,363
+Rank: 6,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,1: 114,2: -118,3: -119,Total: 114,56kgMen,CleanJerk,363
+Rank: 7,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,1: 103,2: 108,3: 111,Total: 111,56kgMen,CleanJerk,363
+Rank: 8,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,1: 109,2: -114,3: -115,Total: 109,56kgMen,CleanJerk,363
+Rank: 9,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,1: 100,2: 105,3: 108,Total: 108,56kgMen,CleanJerk,363
+Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,1: 90,2: 100,3: -105,Total: 100,56kgMen,CleanJerk,363
+Rank: 1,SUKHOTSKYI Dmytro,UKR,"Born: May 24, 1999",B.weight: 55.66,Group: A,Snatch: 106,CI&Jerk: 126,Total: 232,,56kgMen,Total,363
+Rank: 2,OSTEEV Kirill,RUS,"Born: Jan 11, 1999",B.weight: 55.74,Group: A,Snatch: 100,CI&Jerk: 121,Total: 221,,56kgMen,Total,363
+Rank: 3,BAGRATYAN Babken,ARM,"Born: Nov 20, 2000",B.weight: 55.36,Group: A,Snatch: 102,CI&Jerk: 118,Total: 220,,56kgMen,Total,363
+Rank: 4,LUCA Marian-Cristian,ROU,"Born: Feb 16, 1999",B.weight: 53.64,Group: A,Snatch: 98,CI&Jerk: 115,Total: 213,,56kgMen,Total,363
+Rank: 5,GOCMENOGLU Yusuf,TUR,"Born: Nov 24, 2000",B.weight: 55.44,Group: A,Snatch: 96,CI&Jerk: 114,Total: 210,,56kgMen,Total,363
+Rank: 6,BASKAYA Halit Can,TUR,"Born: Jan 27, 1999",B.weight: 55.74,Group: A,Snatch: 92,CI&Jerk: 118,Total: 210,,56kgMen,Total,363
+Rank: 7,MARUSHCHAK Anton,UKR,"Born: Jan 05, 2000",B.weight: 55.94,Group: A,Snatch: 91,CI&Jerk: 109,Total: 200,,56kgMen,Total,363
+Rank: 8,MASTRANGELO Donato,ITA,"Born: Sep 09, 2000",B.weight: 55.76,Group: A,Snatch: 88,CI&Jerk: 111,Total: 199,,56kgMen,Total,363
+Rank: 9,KEREKES Balazs,HUN,"Born: Sep 07, 1999",B.weight: 55.52,Group: A,Snatch: 90,CI&Jerk: 108,Total: 198,,56kgMen,Total,363
+Rank: 10,KEREKES Patrik,HUN,"Born: Dec 10, 2000",B.weight: 55.38,Group: A,Snatch: 83,CI&Jerk: 100,Total: 183,,56kgMen,Total,363
+Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,1: 116,2: 121,3: -125,Total: 121,62kgMen,Snatch,363
+Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,1: 120,2: -123,3: -124,Total: 120,62kgMen,Snatch,363
+Rank: 3,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,1: -110,2: 110,3: 115,Total: 115,62kgMen,Snatch,363
+Rank: 4,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,1: 107,2: 111,3: 115,Total: 115,62kgMen,Snatch,363
+Rank: 5,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,1: 109,2: 112,3: -114,Total: 112,62kgMen,Snatch,363
+Rank: 6,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,1: -108,2: 108,3: 111,Total: 111,62kgMen,Snatch,363
+Rank: 7,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,1: -111,2: 111,3: -115,Total: 111,62kgMen,Snatch,363
+Rank: 8,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,1: 97,2: 102,3: 105,Total: 105,62kgMen,Snatch,363
+Rank: 9,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,1: 97,2: 101,3: 104,Total: 104,62kgMen,Snatch,363
+Rank: 10,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,1: 103,2: -107,3: -107,Total: 103,62kgMen,Snatch,363
+Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,1: 96,2: 100,3: -103,Total: 100,62kgMen,Snatch,363
+Rank: 12,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,1: 90,2: 93,3: -95,Total: 93,62kgMen,Snatch,363
+Rank: 13,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,1: 88,2: 92,3: -95,Total: 92,62kgMen,Snatch,363
+Rank: 14,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,1: -87,2: 87,3: 90,Total: 90,62kgMen,Snatch,363
+Rank: 15,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,1: 87,2: 90,3: -93,Total: 90,62kgMen,Snatch,363
+Rank: 16,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,1: 86,2: 89,3: -91,Total: 89,62kgMen,Snatch,363
+Rank: 17,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,1: 87,2: -90,3: -93,Total: 87,62kgMen,Snatch,363
+Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,1: 145,2: -148,3: 148,Total: 148,62kgMen,CleanJerk,363
+Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,1: 140,2: -147,3: 147,Total: 147,62kgMen,CleanJerk,363
+Rank: 3,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,1: 140,2: 143,3: -148,Total: 143,62kgMen,CleanJerk,363
+Rank: 4,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,1: 135,2: 140,3: -143,Total: 140,62kgMen,CleanJerk,363
+Rank: 5,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,1: 130,2: -136,3: 139,Total: 139,62kgMen,CleanJerk,363
+Rank: 6,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,1: 132,2: 138,3: -143,Total: 138,62kgMen,CleanJerk,363
+Rank: 7,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,1: -135,2: 135,3: -142,Total: 135,62kgMen,CleanJerk,363
+Rank: 8,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,1: 131,2: -136,3: -136,Total: 131,62kgMen,CleanJerk,363
+Rank: 9,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,1: 116,2: -120,3: 122,Total: 122,62kgMen,CleanJerk,363
+Rank: 10,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,1: 116,2: 120,3: 122,Total: 122,62kgMen,CleanJerk,363
+Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,1: -118,2: -118,3: 120,Total: 120,62kgMen,CleanJerk,363
+Rank: 12,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,1: 112,2: 116,3: -118,Total: 116,62kgMen,CleanJerk,363
+Rank: 13,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,1: 108,2: 114,3: -115,Total: 114,62kgMen,CleanJerk,363
+Rank: 14,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,1: 110,2: 113,3: -115,Total: 113,62kgMen,CleanJerk,363
+Rank: 15,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,1: -107,2: 107,3: 112,Total: 112,62kgMen,CleanJerk,363
+Rank: 16,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,1: 108,2: -112,3: -112,Total: 108,62kgMen,CleanJerk,363
+Rank: 17,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,1: -101,2: 101,3: 104,Total: 104,62kgMen,CleanJerk,363
+Rank: 1,GROZDEV Stilyan Rosenov,BUL,"Born: Jul 27, 1999",B.weight: 61.38,Group: A,Snatch: 121,CI&Jerk: 148,Total: 269,,62kgMen,Total,363
+Rank: 2,GARAEV Zulfat,RUS,"Born: Jan 12, 2000",B.weight: 61.38,Group: A,Snatch: 120,CI&Jerk: 147,Total: 267,,62kgMen,Total,363
+Rank: 3,PAMPORDZHIEV Dian Angelov,BUL,"Born: Dec 14, 1999",B.weight: 61.44,Group: A,Snatch: 112,CI&Jerk: 143,Total: 255,,62kgMen,Total,363
+Rank: 4,CARP Constantin,ROU,"Born: Jun 03, 1999",B.weight: 61.58,Group: A,Snatch: 115,CI&Jerk: 139,Total: 254,,62kgMen,Total,363
+Rank: 5,KARA Ramazan,TUR,"Born: Jun 19, 1999",B.weight: 60.74,Group: A,Snatch: 111,CI&Jerk: 140,Total: 251,,62kgMen,Total,363
+Rank: 6,GRIGORYAN Armen,ARM,"Born: Apr 15, 2000",B.weight: 61.50,Group: A,Snatch: 115,CI&Jerk: 135,Total: 250,,62kgMen,Total,363
+Rank: 7,RUSTAMOV Isa,AZE,"Born: Nov 06, 1999",B.weight: 61.64,Group: A,Snatch: 111,CI&Jerk: 138,Total: 249,,62kgMen,Total,363
+Rank: 8,YUKSEL Batu Han,TUR,"Born: Oct 04, 1999",B.weight: 61.62,Group: A,Snatch: 103,CI&Jerk: 131,Total: 234,,62kgMen,Total,363
+Rank: 9,INDOVIGLIA Antonino,ITA,"Born: Aug 05, 1999",B.weight: 61.66,Group: A,Snatch: 105,CI&Jerk: 122,Total: 227,,62kgMen,Total,363
+Rank: 10,MANNIRONI Manuel,ITA,"Born: Sep 10, 1999",B.weight: 61.46,Group: A,Snatch: 104,CI&Jerk: 122,Total: 226,,62kgMen,Total,363
+Rank: 11,ASANIDZE Kakhi,GEO,"Born: Oct 01, 2000",B.weight: 61.54,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,62kgMen,Total,363
+Rank: 12,DUL Adam,HUN,"Born: Oct 16, 2000",B.weight: 60.06,Group: A,Snatch: 90,CI&Jerk: 114,Total: 204,,62kgMen,Total,363
+Rank: 13,BERTILI Bernard Manuel,FRA,"Born: Jan 11, 2000",B.weight: 61.32,Group: A,Snatch: 92,CI&Jerk: 112,Total: 204,,62kgMen,Total,363
+Rank: 14,CORTES Bisbal Aaron F.,ESP,"Born: Jan 28, 2000",B.weight: 61.34,Group: A,Snatch: 90,CI&Jerk: 113,Total: 203,,62kgMen,Total,363
+Rank: 15,CALLARD Harrison William,GBR,"Born: Jun 23, 2000",B.weight: 61.38,Group: A,Snatch: 87,CI&Jerk: 116,Total: 203,,62kgMen,Total,363
+Rank: 16,RAMA NUNEZ Marcos,ESP,"Born: May 13, 1999",B.weight: 61.52,Group: A,Snatch: 93,CI&Jerk: 108,Total: 201,,62kgMen,Total,363
+Rank: 17,BARNET Jiri,CZE,"Born: Aug 03, 1999",B.weight: 61.58,Group: A,Snatch: 89,CI&Jerk: 104,Total: 193,,62kgMen,Total,363
+Rank: 1,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,1: 124,2: 128,3: 132,Total: 132,69kgMen,Snatch,363
+Rank: 2,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,1: 122,2: 128,3: 131,Total: 131,69kgMen,Snatch,363
+Rank: 3,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,1: 126,2: 129,3: -132,Total: 129,69kgMen,Snatch,363
+Rank: 4,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,1: 120,2: 124,3: -127,Total: 124,69kgMen,Snatch,363
+Rank: 5,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,1: -120,2: 120,3: 123,Total: 123,69kgMen,Snatch,363
+Rank: 6,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,1: 120,2: -125,3: -126,Total: 120,69kgMen,Snatch,363
+Rank: 7,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,1: 120,2: -125,3: -125,Total: 120,69kgMen,Snatch,363
+Rank: 8,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,1: 113,2: 117,3: -120,Total: 117,69kgMen,Snatch,363
+Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,1: 110,2: 114,3: 117,Total: 117,69kgMen,Snatch,363
+Rank: 10,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,1: 110,2: 115,3: -120,Total: 115,69kgMen,Snatch,363
+Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,1: -112,2: -112,3: 112,Total: 112,69kgMen,Snatch,363
+Rank: 12,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,1: 110,2: -116,3: -116,Total: 110,69kgMen,Snatch,363
+Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,1: 102,2: 108,3: -111,Total: 108,69kgMen,Snatch,363
+Rank: 14,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,1: 98,2: 103,3: -108,Total: 103,69kgMen,Snatch,363
+Rank: 15,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,1: -95,2: 95,3: 100,Total: 100,69kgMen,Snatch,363
+Rank: 16,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,1: -93,2: -93,3: 93,Total: 93,69kgMen,Snatch,363
+Rank: 1,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,1: 155,2: 158,3: 161,Total: 161,69kgMen,CleanJerk,363
+Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,1: 153,2: 158,3: 161,Total: 161,69kgMen,CleanJerk,363
+Rank: 3,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,1: 150,2: 155,3: 159,Total: 159,69kgMen,CleanJerk,363
+Rank: 4,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,1: 152,2: 156,3: 159,Total: 159,69kgMen,CleanJerk,363
+Rank: 5,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,1: 153,2: -156,3: 156,Total: 156,69kgMen,CleanJerk,363
+Rank: 6,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,1: 140,2: 145,3: 150,Total: 150,69kgMen,CleanJerk,363
+Rank: 7,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,1: 140,2: -150,3: 150,Total: 150,69kgMen,CleanJerk,363
+Rank: 8,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,1: 148,2: -153,3: -155,Total: 148,69kgMen,CleanJerk,363
+Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,1: 133,2: -138,3: 138,Total: 138,69kgMen,CleanJerk,363
+Rank: 10,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,1: -135,2: -135,3: 135,Total: 135,69kgMen,CleanJerk,363
+Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,1: -133,2: 133,3: -138,Total: 133,69kgMen,CleanJerk,363
+Rank: 12,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,1: 128,2: -133,3: 133,Total: 133,69kgMen,CleanJerk,363
+Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,1: -125,2: -127,3: 127,Total: 127,69kgMen,CleanJerk,363
+Rank: 14,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,1: 115,2: 118,3: 120,Total: 120,69kgMen,CleanJerk,363
+Rank: 15,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,1: 120,2: -128,3: -128,Total: 120,69kgMen,CleanJerk,363
+Rank: ---,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,1: -141,2: -141,3: -141,Total: ---,69kgMen,CleanJerk,363
+Rank: 1,YAZICI Ferhat Ali,TUR,"Born: Sep 09, 1999",B.weight: 68.78,Group: A,Snatch: 132,CI&Jerk: 159,Total: 291,,69kgMen,Total,363
+Rank: 2,KUDLASZYK Piotr Mateusz,POL,"Born: May 29, 1999",B.weight: 68.60,Group: A,Snatch: 124,CI&Jerk: 161,Total: 285,,69kgMen,Total,363
+Rank: 3,ATANASOV Yordan Georgiev,BUL,"Born: Oct 17, 1999",B.weight: 68.74,Group: A,Snatch: 129,CI&Jerk: 156,Total: 285,,69kgMen,Total,363
+Rank: 4,JURECKI Szymon,POL,"Born: Jul 22, 1999",B.weight: 67.70,Group: A,Snatch: 131,CI&Jerk: 150,Total: 281,,69kgMen,Total,363
+Rank: 5,DUMITRASCU Paul,ROU,"Born: Jan 31, 2000",B.weight: 68.14,Group: A,Snatch: 120,CI&Jerk: 161,Total: 281,,69kgMen,Total,363
+Rank: 6,DEVRAN Kayra,TUR,"Born: Feb 05, 2000",B.weight: 68.28,Group: A,Snatch: 120,CI&Jerk: 159,Total: 279,,69kgMen,Total,363
+Rank: 7,MIRONENKO Ilia,RUS,"Born: Jan 11, 1999",B.weight: 67.66,Group: A,Snatch: 123,CI&Jerk: 148,Total: 271,,69kgMen,Total,363
+Rank: 8,HARUTYUNYAN Rafik,ARM,"Born: May 17, 2000",B.weight: 67.54,Group: A,Snatch: 115,CI&Jerk: 150,Total: 265,,69kgMen,Total,363
+Rank: 9,SHEMCHUK Dmytro,UKR,"Born: Jan 25, 2000",B.weight: 68.88,Group: A,Snatch: 117,CI&Jerk: 138,Total: 255,,69kgMen,Total,363
+Rank: 10,MURRAY Christopher John,GBR,"Born: Feb 05, 1999",B.weight: 68.14,Group: A,Snatch: 117,CI&Jerk: 135,Total: 252,,69kgMen,Total,363
+Rank: 11,MAKHMUDOV Eltybar-Oleh,UKR,"Born: May 14, 1999",B.weight: 67.98,Group: A,Snatch: 112,CI&Jerk: 133,Total: 245,,69kgMen,Total,363
+Rank: 12,YANNICK Staudt,GER,"Born: May 07, 1999",B.weight: 68.57,Group: A,Snatch: 103,CI&Jerk: 133,Total: 236,,69kgMen,Total,363
+Rank: 13,KUSAI Kristof Erik,HUN,"Born: Jul 18, 1999",B.weight: 68.22,Group: A,Snatch: 108,CI&Jerk: 127,Total: 235,,69kgMen,Total,363
+Rank: 14,AGHALAROV Kamran,AZE,"Born: Feb 20, 1999",B.weight: 68.84,Group: A,Snatch: 100,CI&Jerk: 120,Total: 220,,69kgMen,Total,363
+Rank: 15,FARMER Michael Anthony,GBR,"Born: May 06, 1999",B.weight: 64.76,Group: A,Snatch: 93,CI&Jerk: 120,Total: 213,,69kgMen,Total,363
+Rank: ---,SULIANI Fabio,ITA,"Born: Jan 24, 1999",B.weight: 68.24,Group: A,Snatch: 110,CI&Jerk: ---,Total: ---,,69kgMen,Total,363
+Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,1: 140,2: 147,3: 153,Total: 153,77kgMen,Snatch,363
+Rank: 2,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,1: 130,2: 134,3: 136,Total: 136,77kgMen,Snatch,363
+Rank: 3,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,1: 126,2: -131,3: 131,Total: 131,77kgMen,Snatch,363
+Rank: 4,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,1: -130,2: 130,3: -135,Total: 130,77kgMen,Snatch,363
+Rank: 5,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,1: -130,2: 130,3: -133,Total: 130,77kgMen,Snatch,363
+Rank: 6,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,1: 120,2: 124,3: 127,Total: 127,77kgMen,Snatch,363
+Rank: 7,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,1: 123,2: 127,3: -131,Total: 127,77kgMen,Snatch,363
+Rank: 8,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,1: 120,2: 124,3: 127,Total: 127,77kgMen,Snatch,363
+Rank: 9,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,1: 125,2: -129,3: -129,Total: 125,77kgMen,Snatch,363
+Rank: 10,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,1: 122,2: -126,3: -126,Total: 122,77kgMen,Snatch,363
+Rank: 11,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,1: 114,2: 119,3: -123,Total: 119,77kgMen,Snatch,363
+Rank: 12,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,1: -110,2: 110,3: 115,Total: 115,77kgMen,Snatch,363
+Rank: 13,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,1: 106,2: 110,3: 112,Total: 112,77kgMen,Snatch,363
+Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,1: 105,2: -109,3: 110,Total: 110,77kgMen,Snatch,363
+Rank: 15,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,1: 104,2: 109,3: -111,Total: 109,77kgMen,Snatch,363
+Rank: 16,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,1: -107,2: -107,3: 107,Total: 107,77kgMen,Snatch,363
+Rank: 17,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,1: 85,2: 91,3: 95,Total: 95,77kgMen,Snatch,363
+Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,1: -75,2: 75,3: 82,Total: 82,77kgMen,Snatch,363
+Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,1: 170,2: 179,3: -183,Total: 179,77kgMen,CleanJerk,363
+Rank: 2,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,1: 150,2: 155,3: 160,Total: 160,77kgMen,CleanJerk,363
+Rank: 3,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,1: 155,2: 160,3: -162,Total: 160,77kgMen,CleanJerk,363
+Rank: 4,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,1: -155,2: -155,3: 158,Total: 158,77kgMen,CleanJerk,363
+Rank: 5,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,1: 155,2: -158,3: -159,Total: 155,77kgMen,CleanJerk,363
+Rank: 6,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,1: -155,2: 155,3: -160,Total: 155,77kgMen,CleanJerk,363
+Rank: 7,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,1: 141,2: 147,3: 154,Total: 154,77kgMen,CleanJerk,363
+Rank: 8,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,1: 153,2: -157,3: -157,Total: 153,77kgMen,CleanJerk,363
+Rank: 9,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,1: 153,2: -159,3: -159,Total: 153,77kgMen,CleanJerk,363
+Rank: 10,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,1: 145,2: 151,3: -155,Total: 151,77kgMen,CleanJerk,363
+Rank: 11,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,1: 150,2: -156,3: -157,Total: 150,77kgMen,CleanJerk,363
+Rank: 12,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,1: 141,2: 145,3: -151,Total: 145,77kgMen,CleanJerk,363
+Rank: 13,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,1: 135,2: 140,3: -144,Total: 140,77kgMen,CleanJerk,363
+Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,1: -135,2: 136,3: 140,Total: 140,77kgMen,CleanJerk,363
+Rank: 15,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,1: -132,2: 132,3: 137,Total: 137,77kgMen,CleanJerk,363
+Rank: 16,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,1: 115,2: 121,3: 126,Total: 126,77kgMen,CleanJerk,363
+Rank: 17,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,1: 120,2: 125,3: -128,Total: 125,77kgMen,CleanJerk,363
+Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,1: 95,2: 102,3: 107,Total: 107,77kgMen,CleanJerk,363
+Rank: 1,SUHAREVS Ritvars,LAT,"Born: Jan 11, 1999",B.weight: 76.64,Group: A,Snatch: 153,CI&Jerk: 179,Total: 332,,77kgMen,Total,363
+Rank: 2,PARVANOVSKI Hristiyan Svetlinov,BUL,"Born: Feb 12, 1999",B.weight: 75.74,Group: A,Snatch: 136,CI&Jerk: 155,Total: 291,,77kgMen,Total,363
+Rank: 3,BEBEN Patryk Sylwester,POL,"Born: Mar 18, 2000",B.weight: 75.14,Group: A,Snatch: 130,CI&Jerk: 158,Total: 288,,77kgMen,Total,363
+Rank: 4,SAVA Ionut,ROU,"Born: Nov 24, 1999",B.weight: 76.52,Group: A,Snatch: 127,CI&Jerk: 160,Total: 287,,77kgMen,Total,363
+Rank: 5,ADAMUS Bartlomiej Stefan,POL,"Born: May 12, 2000",B.weight: 76.24,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,77kgMen,Total,363
+Rank: 6,MEZINSKIS Armands,LAT,"Born: Sep 08, 2000",B.weight: 76.32,Group: A,Snatch: 125,CI&Jerk: 160,Total: 285,,77kgMen,Total,363
+Rank: 7,KAKABADZE Nodari,GEO,"Born: May 26, 1999",B.weight: 76.46,Group: A,Snatch: 131,CI&Jerk: 153,Total: 284,,77kgMen,Total,363
+Rank: 8,SHKAREV Artem,RUS,"Born: Nov 03, 1999",B.weight: 76.98,Group: A,Snatch: 127,CI&Jerk: 153,Total: 280,,77kgMen,Total,363
+Rank: 9,ALAM Omed,DEN,"Born: May 20, 1999",B.weight: 74.36,Group: A,Snatch: 127,CI&Jerk: 151,Total: 278,,77kgMen,Total,363
+Rank: 10,YILDIRIM Kursat,TUR,"Born: Jan 01, 1999",B.weight: 75.46,Group: A,Snatch: 122,CI&Jerk: 150,Total: 272,,77kgMen,Total,363
+Rank: 11,ANDERSEN Eskil Engelsgjerd,NOR,"Born: Feb 01, 1999",B.weight: 74.74,Group: A,Snatch: 119,CI&Jerk: 145,Total: 264,,77kgMen,Total,363
+Rank: 12,STREICHL Martin,CZE,"Born: Jul 19, 2000",B.weight: 76.10,Group: A,Snatch: 109,CI&Jerk: 154,Total: 263,,77kgMen,Total,363
+Rank: 13,BRODA Patrik,SVK,"Born: Nov 19, 1999",B.weight: 74.66,Group: A,Snatch: 115,CI&Jerk: 140,Total: 255,,77kgMen,Total,363
+Rank: 14,BENASSI Leonardo,ITA,"Born: Feb 23, 1999",B.weight: 76.26,Group: A,Snatch: 110,CI&Jerk: 140,Total: 250,,77kgMen,Total,363
+Rank: 15,FARETIE Sony Xavier,FRA,"Born: Jun 02, 2000",B.weight: 72.00,Group: A,Snatch: 112,CI&Jerk: 137,Total: 249,,77kgMen,Total,363
+Rank: 16,BEYNON Rhodri Philip,GBR,"Born: May 21, 1999",B.weight: 76.50,Group: A,Snatch: 107,CI&Jerk: 125,Total: 232,,77kgMen,Total,363
+Rank: 17,MELLER Yogev,ISR,"Born: Feb 06, 2000",B.weight: 73.14,Group: A,Snatch: 95,CI&Jerk: 126,Total: 221,,77kgMen,Total,363
+Rank: 18,KAMPF Cedric,SUI,"Born: Oct 02, 1999",B.weight: 72.10,Group: A,Snatch: 82,CI&Jerk: 107,Total: 189,,77kgMen,Total,363
+Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,1: 140,2: 145,3: 150,Total: 150,85kgMen,Snatch,363
+Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,1: 130,2: -134,3: 134,Total: 134,85kgMen,Snatch,363
+Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,1: 130,2: 134,3: -136,Total: 134,85kgMen,Snatch,363
+Rank: 4,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,1: 120,2: 125,3: 130,Total: 130,85kgMen,Snatch,363
+Rank: 5,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,1: -128,2: -128,3: 128,Total: 128,85kgMen,Snatch,363
+Rank: 6,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,1: 121,2: 126,3: -128,Total: 126,85kgMen,Snatch,363
+Rank: 7,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,1: 120,2: 125,3: -128,Total: 125,85kgMen,Snatch,363
+Rank: 8,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,1: 115,2: 120,3: 124,Total: 124,85kgMen,Snatch,363
+Rank: 9,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,1: 115,2: 119,3: 124,Total: 124,85kgMen,Snatch,363
+Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,1: 105,2: 110,3: -115,Total: 110,85kgMen,Snatch,363
+Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,1: 170,2: 180,3: ---,Total: 180,85kgMen,CleanJerk,363
+Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,1: 165,2: 172,3: -181,Total: 172,85kgMen,CleanJerk,363
+Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,1: 162,2: -171,3: -171,Total: 162,85kgMen,CleanJerk,363
+Rank: 4,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,1: 153,2: 156,3: -161,Total: 156,85kgMen,CleanJerk,363
+Rank: 5,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,1: 145,2: 150,3: 155,Total: 155,85kgMen,CleanJerk,363
+Rank: 6,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,1: 150,2: -155,3: 155,Total: 155,85kgMen,CleanJerk,363
+Rank: 7,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,1: 151,2: 155,3: -160,Total: 155,85kgMen,CleanJerk,363
+Rank: 8,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,1: 145,2: 150,3: 154,Total: 154,85kgMen,CleanJerk,363
+Rank: 9,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,1: 143,2: 150,3: -155,Total: 150,85kgMen,CleanJerk,363
+Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,1: 135,2: -140,3: -140,Total: 135,85kgMen,CleanJerk,363
+Rank: 1,AVAGYAN Karen,ARM,"Born: May 12, 1999",B.weight: 82.12,Group: A,Snatch: 150,CI&Jerk: 180,Total: 330,,85kgMen,Total,363
+Rank: 2,MICHALSKI Jakub,POL,"Born: Aug 05, 1999",B.weight: 84.30,Group: A,Snatch: 134,CI&Jerk: 172,Total: 306,,85kgMen,Total,363
+Rank: 3,KESAEV Georgii,RUS,"Born: Nov 15, 1999",B.weight: 84.36,Group: A,Snatch: 134,CI&Jerk: 162,Total: 296,,85kgMen,Total,363
+Rank: 4,HARUTYUNYAN Hmayak,ARM,"Born: Jan 06, 1999",B.weight: 83.84,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,85kgMen,Total,363
+Rank: 5,ROMANAK Tomas,SVK,"Born: Dec 18, 2000",B.weight: 84.82,Group: A,Snatch: 128,CI&Jerk: 156,Total: 284,,85kgMen,Total,363
+Rank: 6,GEORGIEV Valentin Petrov,BUL,"Born: Feb 14, 1999",B.weight: 84.26,Group: A,Snatch: 126,CI&Jerk: 155,Total: 281,,85kgMen,Total,363
+Rank: 7,JUHIMENKO Alberts,LAT,"Born: Jun 06, 1999",B.weight: 79.22,Group: A,Snatch: 125,CI&Jerk: 155,Total: 280,,85kgMen,Total,363
+Rank: 8,TSYGOL Vladyslav,UKR,"Born: Jan 28, 1999",B.weight: 84.82,Group: A,Snatch: 124,CI&Jerk: 154,Total: 278,,85kgMen,Total,363
+Rank: 9,NYKONENKO Yevhenii,UKR,"Born: Mar 10, 2000",B.weight: 81.98,Group: A,Snatch: 124,CI&Jerk: 150,Total: 274,,85kgMen,Total,363
+Rank: 10,VASAS Peter,HUN,"Born: Sep 07, 1999",B.weight: 83.28,Group: A,Snatch: 110,CI&Jerk: 135,Total: 245,,85kgMen,Total,363
+Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,1: 142,2: 147,3: 150,Total: 150,94kgMen,Snatch,363
+Rank: 2,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,1: 140,2: 147,3: 150,Total: 150,94kgMen,Snatch,363
+Rank: 3,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,1: 138,2: 142,3: 145,Total: 145,94kgMen,Snatch,363
+Rank: 4,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,1: 137,2: 141,3: -146,Total: 141,94kgMen,Snatch,363
+Rank: 5,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,1: 130,2: 135,3: 139,Total: 139,94kgMen,Snatch,363
+Rank: 6,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,1: 131,2: 136,3: 139,Total: 139,94kgMen,Snatch,363
+Rank: 7,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,1: 135,2: 139,3: -142,Total: 139,94kgMen,Snatch,363
+Rank: 8,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,1: 124,2: -129,3: -130,Total: 124,94kgMen,Snatch,363
+Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,1: 172,2: 177,3: 182,Total: 182,94kgMen,CleanJerk,363
+Rank: 2,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,1: 167,2: 174,3: 181,Total: 181,94kgMen,CleanJerk,363
+Rank: 3,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,1: -165,2: 166,3: 169,Total: 169,94kgMen,CleanJerk,363
+Rank: 4,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,1: 165,2: 168,3: -171,Total: 168,94kgMen,CleanJerk,363
+Rank: 5,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,1: 160,2: 166,3: -174,Total: 166,94kgMen,CleanJerk,363
+Rank: 6,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,1: -155,2: 157,3: -165,Total: 157,94kgMen,CleanJerk,363
+Rank: 7,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,1: -146,2: 146,3: -150,Total: 146,94kgMen,CleanJerk,363
+Rank: ---,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,1: -165,2: -166,3: -166,Total: ---,94kgMen,CleanJerk,363
+Rank: 1,CHKHEIDZE Irakli,GEO,"Born: Jan 05, 1999",B.weight: 91.94,Group: A,Snatch: 150,CI&Jerk: 182,Total: 332,,94kgMen,Total,363
+Rank: 2,PUSHMIN Egor,RUS,"Born: Jun 30, 1999",B.weight: 93.68,Group: A,Snatch: 139,CI&Jerk: 181,Total: 320,,94kgMen,Total,363
+Rank: 3,SZMEJA Pawel,POL,"Born: Mar 22, 1999",B.weight: 92.64,Group: A,Snatch: 150,CI&Jerk: 169,Total: 319,,94kgMen,Total,363
+Rank: 4,IZDEBSKI Marcin,POL,"Born: Mar 06, 1999",B.weight: 93.70,Group: A,Snatch: 145,CI&Jerk: 168,Total: 313,,94kgMen,Total,363
+Rank: 5,MOCHERNIUK Danylo,UKR,"Born: Dec 05, 1999",B.weight: 93.60,Group: A,Snatch: 139,CI&Jerk: 166,Total: 305,,94kgMen,Total,363
+Rank: 6,ZEMRUKIS Edgars,LAT,"Born: Mar 31, 1999",B.weight: 93.34,Group: A,Snatch: 139,CI&Jerk: 157,Total: 296,,94kgMen,Total,363
+Rank: 7,PAULUS Samuel,SVK,"Born: Mar 15, 1999",B.weight: 90.08,Group: A,Snatch: 124,CI&Jerk: 146,Total: 270,,94kgMen,Total,363
+Rank: ---,GALIATSATOS Evangelos,GRE,"Born: Mar 02, 2000",B.weight: 92.78,Group: A,Snatch: 141,CI&Jerk: ---,Total: ---,,94kgMen,Total,363
+Rank: 1,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,1: 145,2: 150,3: 155,Total: 155,+94kgMen,Snatch,363
+Rank: 2,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,1: 145,2: 150,3: 155,Total: 155,+94kgMen,Snatch,363
+Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,1: 145,2: 150,3: 152,Total: 152,+94kgMen,Snatch,363
+Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,1: -141,2: 141,3: 146,Total: 146,+94kgMen,Snatch,363
+Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,1: -132,2: 132,3: 137,Total: 137,+94kgMen,Snatch,363
+Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,1: 125,2: 130,3: -133,Total: 130,+94kgMen,Snatch,363
+Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,1: 115,2: 120,3: -125,Total: 120,+94kgMen,Snatch,363
+Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,1: 103,2: 108,3: 112,Total: 112,+94kgMen,Snatch,363
+Rank: 1,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,1: 176,2: 181,3: -185,Total: 181,+94kgMen,CleanJerk,363
+Rank: 2,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,1: 175,2: 180,3: -185,Total: 180,+94kgMen,CleanJerk,363
+Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,1: 170,2: 175,3: -183,Total: 175,+94kgMen,CleanJerk,363
+Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,1: 165,2: 170,3: 173,Total: 173,+94kgMen,CleanJerk,363
+Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,1: 171,2: -176,3: -182,Total: 171,+94kgMen,CleanJerk,363
+Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,1: 153,2: 155,3: -160,Total: 155,+94kgMen,CleanJerk,363
+Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,1: 145,2: -154,3: 154,Total: 154,+94kgMen,CleanJerk,363
+Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,1: 133,2: 138,3: 141,Total: 141,+94kgMen,CleanJerk,363
+Rank: 1,WEGRZYN Jakub,POL,"Born: Jul 28, 1999",B.weight: 137.06,Group: A,Snatch: 155,CI&Jerk: 181,Total: 336,,+94kgMen,Total,363
+Rank: 2,LALAYAN Varazdat,ARM,"Born: May 01, 1999",B.weight: 111.62,Group: A,Snatch: 155,CI&Jerk: 180,Total: 335,,+94kgMen,Total,363
+Rank: 3,PANAYOTIDI Nikolay,RUS,"Born: Jan 01, 1999",B.weight: 102.10,Group: A,Snatch: 152,CI&Jerk: 175,Total: 327,,+94kgMen,Total,363
+Rank: 4,HANZENKO Oleh,UKR,"Born: Dec 10, 1999",B.weight: 136.20,Group: A,Snatch: 146,CI&Jerk: 173,Total: 319,,+94kgMen,Total,363
+Rank: 5,VINCI Alessandro,ITA,"Born: Feb 21, 1999",B.weight: 111.76,Group: A,Snatch: 137,CI&Jerk: 171,Total: 308,,+94kgMen,Total,363
+Rank: 6,KAPLAN Yildiray,TUR,"Born: Apr 19, 2000",B.weight: 100.62,Group: A,Snatch: 130,CI&Jerk: 155,Total: 285,,+94kgMen,Total,363
+Rank: 7,TODOROV Martin,BUL,"Born: Mar 02, 1999",B.weight: 116.18,Group: A,Snatch: 120,CI&Jerk: 154,Total: 274,,+94kgMen,Total,363
+Rank: 8,KLEVTSOV Nikita,EST,"Born: Dec 19, 2000",B.weight: 105.52,Group: A,Snatch: 112,CI&Jerk: 141,Total: 253,,+94kgMen,Total,363
+Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,1: 57,2: 60,3: -66,Total: 60,44kgWomen,Snatch,363
+Rank: 2,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,1: 53,2: 57,3: 58,Total: 58,44kgWomen,Snatch,363
+Rank: 3,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,1: 53,2: 56,3: 57,Total: 57,44kgWomen,Snatch,363
+Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,1: 45,2: 49,3: 51,Total: 51,44kgWomen,Snatch,363
+Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,1: 40,2: 43,3: 45,Total: 45,44kgWomen,Snatch,363
+Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,1: 70,2: 81,3: 87,Total: 87,44kgWomen,CleanJerk,363
+Rank: 2,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,1: 64,2: 66,3: 68,Total: 68,44kgWomen,CleanJerk,363
+Rank: 3,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,1: 63,2: 65,3: 67,Total: 67,44kgWomen,CleanJerk,363
+Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,1: 58,2: 62,3: -66,Total: 62,44kgWomen,CleanJerk,363
+Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,1: 50,2: 54,3: 57,Total: 57,44kgWomen,CleanJerk,363
+Rank: 1,DIMITROVA Dayana Dimitrova,BUL,"Born: Oct 22, 2000",B.weight: 43.90,Group: A,Snatch: 60,CI&Jerk: 87,Total: 147,,44kgWomen,Total,363
+Rank: 2,NARIN Ayse,TUR,"Born: Jan 30, 2000",B.weight: 43.26,Group: A,Snatch: 57,CI&Jerk: 68,Total: 125,,44kgWomen,Total,363
+Rank: 3,TAMDEMIR Kevser,TUR,"Born: Jul 06, 2000",B.weight: 43.56,Group: A,Snatch: 58,CI&Jerk: 67,Total: 125,,44kgWomen,Total,363
+Rank: 4,PAMPORDZHIEVA Gergana,BUL,"Born: Jan 17, 1999",B.weight: 43.64,Group: A,Snatch: 51,CI&Jerk: 62,Total: 113,,44kgWomen,Total,363
+Rank: 5,KORCZAK Klaudia Aleksandra,POL,"Born: Jul 11, 1999",B.weight: 43.98,Group: A,Snatch: 45,CI&Jerk: 57,Total: 102,,44kgWomen,Total,363
+Rank: 1,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,1: 63,2: 66,3: -68,Total: 66,48kgWomen,Snatch,363
+Rank: 2,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,1: -63,2: 63,3: 65,Total: 65,48kgWomen,Snatch,363
+Rank: 3,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,1: 62,2: 65,3: -67,Total: 65,48kgWomen,Snatch,363
+Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,1: -61,2: 61,3: -64,Total: 61,48kgWomen,Snatch,363
+Rank: 5,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,1: 60,2: -63,3: -63,Total: 60,48kgWomen,Snatch,363
+Rank: 6,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,1: 54,2: 56,3: 58,Total: 58,48kgWomen,Snatch,363
+Rank: 7,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,1: -55,2: 55,3: 57,Total: 57,48kgWomen,Snatch,363
+Rank: 8,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,1: 54,2: -57,3: -58,Total: 54,48kgWomen,Snatch,363
+Rank: 9,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,1: 50,2: -53,3: 53,Total: 53,48kgWomen,Snatch,363
+Rank: 10,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,1: -50,2: 50,3: -53,Total: 50,48kgWomen,Snatch,363
+Rank: ---,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,1: -65,2: -65,3: -65,Total: ---,48kgWomen,Snatch,363
+Rank: ---,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,1: -62,2: -63,3: -65,Total: ---,48kgWomen,Snatch,363
+Rank: 1,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,1: 82,2: 87,3: ---,Total: 87,48kgWomen,CleanJerk,363
+Rank: 2,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,1: 78,2: 82,3: 85,Total: 85,48kgWomen,CleanJerk,363
+Rank: 3,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,1: 76,2: 80,3: -83,Total: 80,48kgWomen,CleanJerk,363
+Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,1: 77,2: 80,3: -83,Total: 80,48kgWomen,CleanJerk,363
+Rank: 5,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,1: 78,2: -82,3: -82,Total: 78,48kgWomen,CleanJerk,363
+Rank: 6,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,1: -78,2: 78,3: -83,Total: 78,48kgWomen,CleanJerk,363
+Rank: 7,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,1: 75,2: -83,3: -83,Total: 75,48kgWomen,CleanJerk,363
+Rank: 8,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,1: 68,2: -71,3: 71,Total: 71,48kgWomen,CleanJerk,363
+Rank: 9,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,1: 66,2: 69,3: 71,Total: 71,48kgWomen,CleanJerk,363
+Rank: 10,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,1: 70,2: -73,3: -73,Total: 70,48kgWomen,CleanJerk,363
+Rank: 11,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,1: 64,2: 68,3: -71,Total: 68,48kgWomen,CleanJerk,363
+Rank: 12,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,1: 60,2: 65,3: -68,Total: 65,48kgWomen,CleanJerk,363
+Rank: 1,AZIMOVA Sabina,AZE,"Born: Nov 02, 2000",B.weight: 47.80,Group: A,Snatch: 65,CI&Jerk: 87,Total: 152,,48kgWomen,Total,363
+Rank: 2,NGUEN Nadezhda-Mey Tuy,BUL,"Born: Jul 01, 2000",B.weight: 47.80,Group: A,Snatch: 66,CI&Jerk: 85,Total: 151,,48kgWomen,Total,363
+Rank: 3,JONES Catrin Haf,GBR,"Born: Jun 13, 1999",B.weight: 47.14,Group: A,Snatch: 65,CI&Jerk: 78,Total: 143,,48kgWomen,Total,363
+Rank: 4,GRIGORAS Bianca Geanina,ROU,"Born: Mar 20, 2000",B.weight: 47.46,Group: A,Snatch: 61,CI&Jerk: 80,Total: 141,,48kgWomen,Total,363
+Rank: 5,ARSLAN Yesim,TUR,"Born: Jul 23, 1999",B.weight: 47.26,Group: A,Snatch: 60,CI&Jerk: 78,Total: 138,,48kgWomen,Total,363
+Rank: 6,LHERMIER Nolwen Gladys Emilie,FRA,"Born: Dec 07, 1999",B.weight: 47.56,Group: A,Snatch: 58,CI&Jerk: 70,Total: 128,,48kgWomen,Total,363
+Rank: 7,ALIEKSANDROVA Maryna,UKR,"Born: Jun 04, 1999",B.weight: 48.00,Group: A,Snatch: 57,CI&Jerk: 71,Total: 128,,48kgWomen,Total,363
+Rank: 8,MOCAER-LORGERE Nolwenn,FRA,"Born: Apr 13, 1999",B.weight: 47.22,Group: A,Snatch: 53,CI&Jerk: 71,Total: 124,,48kgWomen,Total,363
+Rank: 9,MUKKALA Kirsi-Marja,FIN,"Born: Nov 18, 1999",B.weight: 47.32,Group: A,Snatch: 54,CI&Jerk: 68,Total: 122,,48kgWomen,Total,363
+Rank: 10,VARGA Virag Zsoka,HUN,"Born: Aug 26, 2000",B.weight: 47.96,Group: A,Snatch: 50,CI&Jerk: 65,Total: 115,,48kgWomen,Total,363
+Rank: ---,DOGAN Ayse,TUR,"Born: Feb 12, 2000",B.weight: 47.02,Group: A,Snatch: ---,CI&Jerk: 80,Total: ---,,48kgWomen,Total,363
+Rank: ---,OLESKIEWICZ Sylwia Malgorzata,POL,"Born: Jun 23, 1999",B.weight: 46.72,Group: A,Snatch: ---,CI&Jerk: 75,Total: ---,,48kgWomen,Total,363
+Rank: 1,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,1: 71,2: 74,3: 76,Total: 76,53kgWomen,Snatch,363
+Rank: 2,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,1: 72,2: 74,3: -77,Total: 74,53kgWomen,Snatch,363
+Rank: 3,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,1: 67,2: 71,3: -73,Total: 71,53kgWomen,Snatch,363
+Rank: 4,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,1: 65,2: -68,3: 70,Total: 70,53kgWomen,Snatch,363
+Rank: 5,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,1: 68,2: 70,3: -73,Total: 70,53kgWomen,Snatch,363
+Rank: 6,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,1: 70,2: -74,3: -74,Total: 70,53kgWomen,Snatch,363
+Rank: 7,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,1: 63,2: 67,3: 70,Total: 70,53kgWomen,Snatch,363
+Rank: 8,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,1: 59,2: 62,3: 64,Total: 64,53kgWomen,Snatch,363
+Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,1: 63,2: -66,3: -66,Total: 63,53kgWomen,Snatch,363
+Rank: 10,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,1: -57,2: 57,3: 60,Total: 60,53kgWomen,Snatch,363
+Rank: 11,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,1: 57,2: -60,3: 60,Total: 60,53kgWomen,Snatch,363
+Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,1: 54,2: 57,3: -59,Total: 57,53kgWomen,Snatch,363
+Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,1: -47,2: 47,3: 50,Total: 50,53kgWomen,Snatch,363
+Rank: 1,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,1: 88,2: 92,3: -97,Total: 92,53kgWomen,CleanJerk,363
+Rank: 2,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,1: 87,2: 89,3: 91,Total: 91,53kgWomen,CleanJerk,363
+Rank: 3,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,1: 86,2: 88,3: -90,Total: 88,53kgWomen,CleanJerk,363
+Rank: 4,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,1: 82,2: -88,3: 88,Total: 88,53kgWomen,CleanJerk,363
+Rank: 5,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,1: 80,2: -84,3: 85,Total: 85,53kgWomen,CleanJerk,363
+Rank: 6,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,1: 77,2: 81,3: 84,Total: 84,53kgWomen,CleanJerk,363
+Rank: 7,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,1: 80,2: -84,3: 84,Total: 84,53kgWomen,CleanJerk,363
+Rank: 8,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,1: 83,2: -88,3: -89,Total: 83,53kgWomen,CleanJerk,363
+Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,1: 75,2: 80,3: 82,Total: 82,53kgWomen,CleanJerk,363
+Rank: 10,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,1: 75,2: -78,3: 78,Total: 78,53kgWomen,CleanJerk,363
+Rank: 11,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,1: 68,2: 72,3: 75,Total: 75,53kgWomen,CleanJerk,363
+Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,1: 69,2: 72,3: -75,Total: 72,53kgWomen,CleanJerk,363
+Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,1: -62,2: -62,3: 62,Total: 62,53kgWomen,CleanJerk,363
+Rank: 1,PENCIU Andreea,ROU,"Born: Sep 07, 2000",B.weight: 51.92,Group: A,Snatch: 76,CI&Jerk: 91,Total: 167,,53kgWomen,Total,363
+Rank: 2,CONSTANTIN Nicoleta-Vasilica,ROU,"Born: Dec 05, 1999",B.weight: 51.76,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,53kgWomen,Total,363
+Rank: 3,HANHUR Mariia,UKR,"Born: Aug 24, 2000",B.weight: 52.50,Group: A,Snatch: 74,CI&Jerk: 88,Total: 162,,53kgWomen,Total,363
+Rank: 4,ILIEVA Atanaska Asenova,BUL,"Born: Jun 14, 2000",B.weight: 52.88,Group: A,Snatch: 71,CI&Jerk: 88,Total: 159,,53kgWomen,Total,363
+Rank: 5,MAGISTRIS Lucrezia,ITA,"Born: Apr 21, 1999",B.weight: 52.22,Group: A,Snatch: 70,CI&Jerk: 85,Total: 155,,53kgWomen,Total,363
+Rank: 6,CARRETTO Sabina,ITA,"Born: Nov 12, 2000",B.weight: 52.08,Group: A,Snatch: 70,CI&Jerk: 84,Total: 154,,53kgWomen,Total,363
+Rank: 7,GOLUBINA Alesia,RUS,"Born: Apr 13, 2000",B.weight: 52.93,Group: A,Snatch: 70,CI&Jerk: 83,Total: 153,,53kgWomen,Total,363
+Rank: 8,RIGAUD Garance Ariette Ouiza,FRA,"Born: Nov 12, 1999",B.weight: 49.56,Group: A,Snatch: 64,CI&Jerk: 84,Total: 148,,53kgWomen,Total,363
+Rank: 9,PALMA MARTINEZ Soledad,ESP,"Born: Sep 29, 1999",B.weight: 52.62,Group: A,Snatch: 63,CI&Jerk: 82,Total: 145,,53kgWomen,Total,363
+Rank: 10,GARRIDO HUELVA Andrea,ESP,"Born: Sep 05, 2000",B.weight: 52.06,Group: A,Snatch: 60,CI&Jerk: 78,Total: 138,,53kgWomen,Total,363
+Rank: 11,SYTELA Siri Matilda Elisabet,FIN,"Born: Jun 03, 2000",B.weight: 51.22,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,53kgWomen,Total,363
+Rank: 12,RICHET Catherine Antoinette Haimitti,FRA,"Born: Dec 29, 1999",B.weight: 52.88,Group: *5,Snatch: 57,CI&Jerk: 72,Total: 129,,53kgWomen,Total,363
+Rank: 13,JAKOVLEVAITE Deimante,LTU,"Born: May 08, 1999",B.weight: 52.56,Group: A,Snatch: 50,CI&Jerk: 62,Total: 112,,53kgWomen,Total,363
+Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,1: 80,2: 82,3: 84,Total: 84,58kgWomen,Snatch,363
+Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,1: 75,2: -78,3: 78,Total: 78,58kgWomen,Snatch,363
+Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,1: -75,2: 75,3: -78,Total: 75,58kgWomen,Snatch,363
+Rank: 4,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,1: 70,2: 72,3: 74,Total: 74,58kgWomen,Snatch,363
+Rank: 5,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,1: 65,2: 69,3: -71,Total: 69,58kgWomen,Snatch,363
+Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,1: 68,2: -70,3: -71,Total: 68,58kgWomen,Snatch,363
+Rank: 7,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,1: -67,2: 67,3: -70,Total: 67,58kgWomen,Snatch,363
+Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,1: 62,2: 67,3: -70,Total: 67,58kgWomen,Snatch,363
+Rank: 9,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,1: 63,2: -66,3: 66,Total: 66,58kgWomen,Snatch,363
+Rank: 10,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,1: -64,2: -65,3: 65,Total: 65,58kgWomen,Snatch,363
+Rank: 11,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,1: 65,2: -68,3: -68,Total: 65,58kgWomen,Snatch,363
+Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,1: 100,2: 103,3: ---,Total: 103,58kgWomen,CleanJerk,363
+Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,1: 95,2: 99,3: -102,Total: 99,58kgWomen,CleanJerk,363
+Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,1: 93,2: -96,3: 96,Total: 96,58kgWomen,CleanJerk,363
+Rank: 4,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,1: 85,2: -89,3: 89,Total: 89,58kgWomen,CleanJerk,363
+Rank: 5,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,1: 85,2: -89,3: -89,Total: 85,58kgWomen,CleanJerk,363
+Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,1: 80,2: 83,3: 85,Total: 85,58kgWomen,CleanJerk,363
+Rank: 7,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,1: 77,2: -80,3: 84,Total: 84,58kgWomen,CleanJerk,363
+Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,1: 83,2: -86,3: -87,Total: 83,58kgWomen,CleanJerk,363
+Rank: 9,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,1: -78,2: 78,3: 82,Total: 82,58kgWomen,CleanJerk,363
+Rank: 10,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,1: -80,2: 80,3: -83,Total: 80,58kgWomen,CleanJerk,363
+Rank: 11,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,1: 73,2: -76,3: -76,Total: 73,58kgWomen,CleanJerk,363
+Rank: 1,TYMOSHCHUK Mariia,UKR,"Born: Aug 02, 1999",B.weight: 57.60,Group: A,Snatch: 84,CI&Jerk: 103,Total: 187,,58kgWomen,Total,363
+Rank: 2,CAKIN Aysegul,TUR,"Born: Jun 24, 1999",B.weight: 57.14,Group: A,Snatch: 78,CI&Jerk: 99,Total: 177,,58kgWomen,Total,363
+Rank: 3,LEVENT Nuray,TUR,"Born: May 08, 2000",B.weight: 57.36,Group: A,Snatch: 75,CI&Jerk: 96,Total: 171,,58kgWomen,Total,363
+Rank: 4,ILKHANOVA Kateryna,UKR,"Born: Sep 02, 2000",B.weight: 57.54,Group: A,Snatch: 74,CI&Jerk: 85,Total: 159,,58kgWomen,Total,363
+Rank: 5,KHADZHIEVA Ekaterina,RUS,"Born: Jan 01, 2000",B.weight: 57.08,Group: A,Snatch: 65,CI&Jerk: 89,Total: 154,,58kgWomen,Total,363
+Rank: 6,FERNANDEZ GARCIA Nerea,ESP,"Born: May 02, 2000",B.weight: 57.56,Group: A,Snatch: 68,CI&Jerk: 85,Total: 153,,58kgWomen,Total,363
+Rank: 7,COMTE Pauline Marie-France Claudine,FRA,"Born: Sep 10, 1999",B.weight: 57.66,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,58kgWomen,Total,363
+Rank: 8,KOWALSKA Sandra Weronika,POL,"Born: Mar 23, 1999",B.weight: 57.98,Group: A,Snatch: 67,CI&Jerk: 83,Total: 150,,58kgWomen,Total,363
+Rank: 9,CORBU Giulia,ITA,"Born: Apr 27, 2000",B.weight: 56.70,Group: A,Snatch: 67,CI&Jerk: 82,Total: 149,,58kgWomen,Total,363
+Rank: 10,TALASTERA Suvi Tuulia,FIN,"Born: Jan 06, 1999",B.weight: 57.64,Group: A,Snatch: 69,CI&Jerk: 80,Total: 149,,58kgWomen,Total,363
+Rank: 11,METAXA Anastasia,GRE,"Born: Jul 10, 2000",B.weight: 54.94,Group: A,Snatch: 65,CI&Jerk: 73,Total: 138,,58kgWomen,Total,363
+Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,1: 83,2: 86,3: 89,Total: 89,63kgWomen,Snatch,363
+Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,1: 81,2: 82,3: 84,Total: 84,63kgWomen,Snatch,363
+Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,1: 77,2: 80,3: 82,Total: 82,63kgWomen,Snatch,363
+Rank: 4,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,1: 76,2: 80,3: 81,Total: 81,63kgWomen,Snatch,363
+Rank: 5,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,1: 76,2: 79,3: 81,Total: 81,63kgWomen,Snatch,363
+Rank: 6,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,1: 72,2: 75,3: -77,Total: 75,63kgWomen,Snatch,363
+Rank: 7,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,1: 65,2: -70,3: 70,Total: 70,63kgWomen,Snatch,363
+Rank: 8,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,1: 63,2: 66,3: -70,Total: 66,63kgWomen,Snatch,363
+Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,1: 60,2: 63,3: 65,Total: 65,63kgWomen,Snatch,363
+Rank: 10,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,1: -61,2: 61,3: -64,Total: 61,63kgWomen,Snatch,363
+Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,1: 102,2: 105,3: -107,Total: 105,63kgWomen,CleanJerk,363
+Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,1: 101,2: 103,3: 105,Total: 105,63kgWomen,CleanJerk,363
+Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,1: 99,2: 103,3: 105,Total: 105,63kgWomen,CleanJerk,363
+Rank: 4,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,1: 96,2: 99,3: 104,Total: 104,63kgWomen,CleanJerk,363
+Rank: 5,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,1: 94,2: -97,3: 98,Total: 98,63kgWomen,CleanJerk,363
+Rank: 6,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,1: -86,2: 86,3: 92,Total: 92,63kgWomen,CleanJerk,363
+Rank: 7,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,1: 78,2: 81,3: 84,Total: 84,63kgWomen,CleanJerk,363
+Rank: 8,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,1: 78,2: 81,3: -84,Total: 81,63kgWomen,CleanJerk,363
+Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,1: 70,2: 73,3: 75,Total: 75,63kgWomen,CleanJerk,363
+Rank: ---,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,1: -88,2: -88,3: -88,Total: ---,63kgWomen,CleanJerk,363
+Rank: 1,BELOBORODOVA Anastasiia,RUS,"Born: Oct 13, 1999",B.weight: 62.68,Group: A,Snatch: 89,CI&Jerk: 105,Total: 194,,63kgWomen,Total,363
+Rank: 2,KIRYCHUK Alina,UKR,"Born: Mar 11, 1999",B.weight: 62.74,Group: A,Snatch: 84,CI&Jerk: 105,Total: 189,,63kgWomen,Total,363
+Rank: 3,ALTUN Berfin,TUR,"Born: Nov 01, 1999",B.weight: 62.90,Group: A,Snatch: 82,CI&Jerk: 105,Total: 187,,63kgWomen,Total,363
+Rank: 4,GRIGORIU Maria-Luana,ROU,"Born: Feb 07, 2000",B.weight: 62.60,Group: A,Snatch: 81,CI&Jerk: 104,Total: 185,,63kgWomen,Total,363
+Rank: 5,ALEXE Alexandra,ROU,"Born: Apr 20, 2000",B.weight: 61.78,Group: A,Snatch: 81,CI&Jerk: 98,Total: 179,,63kgWomen,Total,363
+Rank: 6,FERNEZOVA Eliska,SVK,"Born: Sep 14, 1999",B.weight: 62.50,Group: A,Snatch: 70,CI&Jerk: 92,Total: 162,,63kgWomen,Total,363
+Rank: 7,NUIRO Naomy Maeva,FRA,"Born: Feb 16, 1999",B.weight: 62.40,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,63kgWomen,Total,363
+Rank: 8,GRAILLOT Vicky,FRA,"Born: Jul 02, 2000",B.weight: 62.16,Group: A,Snatch: 61,CI&Jerk: 81,Total: 142,,63kgWomen,Total,363
+Rank: 9,ROSENDAHL Freja,DEN,"Born: Sep 30, 1999",B.weight: 60.52,Group: A,Snatch: 65,CI&Jerk: 75,Total: 140,,63kgWomen,Total,363
+Rank: ---,CEDERHOLM Alva Karolina,SWE,"Born: Jun 21, 1999",B.weight: 60.90,Group: A,Snatch: 75,CI&Jerk: ---,Total: ---,,63kgWomen,Total,363
+Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,1: 79,2: 82,3: 85,Total: 85,69kgWomen,Snatch,363
+Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,1: 75,2: 78,3: 80,Total: 80,69kgWomen,Snatch,363
+Rank: 3,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,1: 75,2: 78,3: 80,Total: 80,69kgWomen,Snatch,363
+Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,1: 73,2: 76,3: 78,Total: 78,69kgWomen,Snatch,363
+Rank: 5,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,1: 72,2: 75,3: 78,Total: 78,69kgWomen,Snatch,363
+Rank: 6,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,1: -74,2: 74,3: -77,Total: 74,69kgWomen,Snatch,363
+Rank: 7,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,1: 65,2: 70,3: 73,Total: 73,69kgWomen,Snatch,363
+Rank: 8,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,1: -73,2: 73,3: -75,Total: 73,69kgWomen,Snatch,363
+Rank: 9,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,1: 64,2: -68,3: 70,Total: 70,69kgWomen,Snatch,363
+Rank: 10,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,1: -68,2: 68,3: -70,Total: 68,69kgWomen,Snatch,363
+Rank: 11,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,1: 62,2: -66,3: 66,Total: 66,69kgWomen,Snatch,363
+Rank: 12,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,1: 50,2: 55,3: 59,Total: 59,69kgWomen,Snatch,363
+Rank: ---,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,1: -70,2: -72,3: -73,Total: ---,69kgWomen,Snatch,363
+Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,1: 96,2: 100,3: 102,Total: 102,69kgWomen,CleanJerk,363
+Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,1: 98,2: -101,3: 101,Total: 101,69kgWomen,CleanJerk,363
+Rank: 3,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,1: 90,2: 95,3: 100,Total: 100,69kgWomen,CleanJerk,363
+Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,1: 92,2: 96,3: 100,Total: 100,69kgWomen,CleanJerk,363
+Rank: 5,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,1: 95,2: 99,3: -102,Total: 99,69kgWomen,CleanJerk,363
+Rank: 6,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,1: 85,2: 90,3: 95,Total: 95,69kgWomen,CleanJerk,363
+Rank: 7,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,1: 91,2: -95,3: 95,Total: 95,69kgWomen,CleanJerk,363
+Rank: 8,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,1: 85,2: 88,3: 90,Total: 90,69kgWomen,CleanJerk,363
+Rank: 9,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,1: 90,2: -95,3: -95,Total: 90,69kgWomen,CleanJerk,363
+Rank: 10,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,1: 80,2: 84,3: -86,Total: 84,69kgWomen,CleanJerk,363
+Rank: 11,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,1: 81,2: -84,3: 84,Total: 84,69kgWomen,CleanJerk,363
+Rank: 12,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,1: 78,2: 81,3: 83,Total: 83,69kgWomen,CleanJerk,363
+Rank: 13,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,1: -60,2: 60,3: -68,Total: 60,69kgWomen,CleanJerk,363
+Rank: 1,CABALLERO I MANZANARES Noelia,ESP,"Born: Apr 29, 1999",B.weight: 66.90,Group: A,Snatch: 85,CI&Jerk: 102,Total: 187,,69kgWomen,Total,363
+Rank: 2,DURANTE Alessia,ITA,"Born: May 14, 1999",B.weight: 67.58,Group: A,Snatch: 80,CI&Jerk: 101,Total: 181,,69kgWomen,Total,363
+Rank: 3,VIZGINA Ekaterina,RUS,"Born: Oct 24, 2001",B.weight: 68.32,Group: A,Snatch: 80,CI&Jerk: 99,Total: 179,,69kgWomen,Total,363
+Rank: 4,PIKASH Olha,UKR,"Born: Jul 29, 1999",B.weight: 63.64,Group: A,Snatch: 78,CI&Jerk: 100,Total: 178,,69kgWomen,Total,363
+Rank: 5,GAVRILOVA Valentina,RUS,"Born: Jul 05, 2000",B.weight: 63.54,Group: A,Snatch: 73,CI&Jerk: 100,Total: 173,,69kgWomen,Total,363
+Rank: 6,CORDUNEANU Elena A.,ROU,"Born: Apr 04, 2000",B.weight: 68.00,Group: A,Snatch: 74,CI&Jerk: 95,Total: 169,,69kgWomen,Total,363
+Rank: 7,ABIBOK Kateryna,UKR,"Born: Dec 26, 1999",B.weight: 66.40,Group: A,Snatch: 78,CI&Jerk: 90,Total: 168,,69kgWomen,Total,363
+Rank: 8,TABACARU Mariana,ROU,"Born: Jan 16, 2000",B.weight: 67.38,Group: A,Snatch: 73,CI&Jerk: 90,Total: 163,,69kgWomen,Total,363
+Rank: 9,MITYKO Veronika,HUN,"Born: Jul 26, 2000",B.weight: 66.88,Group: A,Snatch: 70,CI&Jerk: 83,Total: 153,,69kgWomen,Total,363
+Rank: 10,PAWLIK Natalia Ewa,POL,"Born: Apr 27, 2000",B.weight: 66.88,Group: A,Snatch: 68,CI&Jerk: 84,Total: 152,,69kgWomen,Total,363
+Rank: 11,BIJOKOVA Marketa,CZE,"Born: Aug 28, 2000",B.weight: 66.64,Group: A,Snatch: 66,CI&Jerk: 84,Total: 150,,69kgWomen,Total,363
+Rank: 12,FERSTER Sara Rivka,ISR,"Born: Dec 10, 1999",B.weight: 66.82,Group: A,Snatch: 59,CI&Jerk: 60,Total: 119,,69kgWomen,Total,363
+Rank: ---,GLAB Klaudia Katarzyna,POL,"Born: Dec 19, 1999",B.weight: 67.78,Group: A,Snatch: ---,CI&Jerk: 95,Total: ---,,69kgWomen,Total,363
+Rank: 1,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,1: 89,2: 93,3: -96,Total: 93,+69kgWomen,Snatch,363
+Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,1: 87,2: 90,3: 92,Total: 92,+69kgWomen,Snatch,363
+Rank: 3,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,1: -90,2: 90,3: -94,Total: 90,+69kgWomen,Snatch,363
+Rank: 4,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,1: 85,2: 89,3: -91,Total: 89,+69kgWomen,Snatch,363
+Rank: 5,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,1: 80,2: 85,3: -87,Total: 85,+69kgWomen,Snatch,363
+Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,1: 80,2: -85,3: -85,Total: 80,+69kgWomen,Snatch,363
+Rank: 7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,1: 62,2: 66,3: 69,Total: 69,+69kgWomen,Snatch,363
+Rank: 8,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,1: 55,2: 60,3: -64,Total: 60,+69kgWomen,Snatch,363
+Rank: 9,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,1: 45,2: -50,3: -50,Total: 45,+69kgWomen,Snatch,363
+Rank: ---,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,1: -82,2: -82,3: -82,Total: ---,+69kgWomen,Snatch,363
+Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,1: 115,2: 120,3: 124,Total: 124,+69kgWomen,CleanJerk,363
+Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,1: 115,2: 120,3: -125,Total: 120,+69kgWomen,CleanJerk,363
+Rank: 3,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,1: 111,2: 116,3: -121,Total: 116,+69kgWomen,CleanJerk,363
+Rank: 4,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,1: 105,2: 110,3: -115,Total: 110,+69kgWomen,CleanJerk,363
+Rank: 5,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,1: 110,2: -114,3: -115,Total: 110,+69kgWomen,CleanJerk,363
+Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,1: -103,2: -103,3: 103,Total: 103,+69kgWomen,CleanJerk,363
+Rank: 7,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,1: 95,2: -100,3: 100,Total: 100,+69kgWomen,CleanJerk,363
+Rank: 8,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,1: 83,2: 88,3: 91,Total: 91,+69kgWomen,CleanJerk,363
+Rank: 9,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,1: 70,2: 75,3: -78,Total: 75,+69kgWomen,CleanJerk,363
+Rank: 10,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,1: 60,2: 65,3: -70,Total: 65,+69kgWomen,CleanJerk,363
+Rank: 1,DALALYAN Arpine,ARM,"Born: Feb 18, 1999",B.weight: 106.32,Group: A,Snatch: 89,CI&Jerk: 124,Total: 213,,+69kgWomen,Total,363
+Rank: 2,RIAZANOVA Daria,RUS,"Born: Aug 24, 2000",B.weight: 84.22,Group: A,Snatch: 92,CI&Jerk: 120,Total: 212,,+69kgWomen,Total,363
+Rank: 3,KAROLAK Magdalena,POL,"Born: Jun 01, 1999",B.weight: 116.64,Group: A,Snatch: 93,CI&Jerk: 116,Total: 209,,+69kgWomen,Total,363
+Rank: 4,FISCHER Sarah,AUT,"Born: Nov 09, 2000",B.weight: 77.86,Group: A,Snatch: 90,CI&Jerk: 110,Total: 200,,+69kgWomen,Total,363
+Rank: 5,ZUBOVA Angelina,RUS,"Born: Sep 05, 1999",B.weight: 75.92,Group: A,Snatch: 85,CI&Jerk: 110,Total: 195,,+69kgWomen,Total,363
+Rank: 6,SENICOVA Nikola,SVK,"Born: May 27, 2000",B.weight: 74.74,Group: A,Snatch: 80,CI&Jerk: 103,Total: 183,,+69kgWomen,Total,363
+Rank: 7,KOZUCHOWSKA Malgorzata Aleksandra,POL,"Born: Feb 12, 1999",B.weight: 74.04,Group: A,Snatch: 69,CI&Jerk: 91,Total: 160,,+69kgWomen,Total,363
+Rank: 8,LITVINOV Dana,ISR,"Born: Aug 11, 2000",B.weight: 85.02,Group: A,Snatch: 60,CI&Jerk: 75,Total: 135,,+69kgWomen,Total,363
+Rank: 9,ABDURAHMANOVA Fidan,AZE,"Born: Apr 13, 1999",B.weight: 83.28,Group: A,Snatch: 45,CI&Jerk: 65,Total: 110,,+69kgWomen,Total,363
+Rank: ---,PAKOZDI Eva,HUN,"Born: Jan 25, 2000",B.weight: 128.48,Group: A,Snatch: ---,CI&Jerk: 100,Total: ---,,+69kgWomen,Total,363
