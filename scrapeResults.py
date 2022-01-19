@@ -136,12 +136,12 @@ if __name__ == "__main__":
     pool.map(scrape_pass_errors, ids)
     pool.close()
 
-unlisted = [1, 87, 101, 136, 169, 316, 377, 505]
-
-if __name__ == "__main__":
-    pool = mp.Pool(mp.cpu_count())
-    pool.map(scrape_pass_errors, unlisted)
-    pool.close()
+# unlisted = [1, 87, 101, 136, 169, 316, 377, 505]
+# 
+# if __name__ == "__main__":
+#     pool = mp.Pool(mp.cpu_count())
+#     pool.map(scrape_pass_errors, unlisted)
+#     pool.close()
 
 
 
