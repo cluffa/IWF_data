@@ -163,7 +163,8 @@ events <- events_dirty %>%
   distinct() %>% 
   mutate(
     date = as.Date(date, '%b %d, %Y'),
-    id = as.numeric(id)
+    id = as.numeric(id),
+    location = str_remove_all(location, '\\t')
   ) %>% 
   rename(
     event_id = id
