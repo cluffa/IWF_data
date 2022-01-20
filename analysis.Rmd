@@ -1,0 +1,37 @@
+---
+title: "Untitled, in progress"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+load("./all_data.Rdata")
+```
+
+I am looking for Lasha Talakhadze's id.
+```{r}
+athletes %>% filter(grepl("Talakhadze", name, ignore.case = TRUE))
+lasha_id = 7627
+```
+
+```{r}
+results_sep <- results %>% # a dataset where each best lift/total is another line
+  select(-contains("lift")) %>% 
+  pivot_longer(c("snatch_best", "cleanjerk_best", "total"), names_to = "lift", values_to = "weight") %>% 
+  mutate(lift = str_remove(lift, "_best"))
+
+
+
+lasha <- results_sep %>% 
+  filter(athlete_id == lasha_id, !is.na(weight)) %>% 
+  left_join(events, by = 'event_id')
+  
+
+lasha %>% 
+  filter(lift != "total") %>% 
+  ggplot(aes(x = date)) +
+    geom_line(aes(y = weight, color = lift))
+    
+```
+
