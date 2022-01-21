@@ -96,11 +96,11 @@ clean_results <- function(df) {
     ) %>%
     arrange(desc(event_id)) %>% 
     distinct() %>% 
-    replace_na(
+    replace_na( # '---' denotes 0/3 lifts, '', means no attempt/forfeit, set to na
       list('---', '')
     ) %>% 
     mutate(
-      dq = (rank == 'DSQ'),
+      dq = (rank == 'DSQ'), # total rank is 'DSQ' if disqualified, usually due to testing positive for PEDs
       birthday = as.Date(born, '%b %d, %Y'), # convert to date
       across( # fix spaces between '-' and number
         c(rank, bw, lift1, lift2, lift3),
@@ -121,8 +121,7 @@ clean_results <- function(df) {
       values_fn = function(x) x[1] # if multiple entries select first
     ) %>%
     rename_all(tolower) %>%
-    # join athlete ids, because of slightly different duplicate names
-    left_join(
+    left_join( # join athlete ids, because of slightly different duplicate name
       athletes %>%
         pivot_longer(
           c('name', 'name_alt'),
@@ -134,7 +133,13 @@ clean_results <- function(df) {
           name, birthday, athlete_id, gender
         ),
       by = c('name', 'birthday')
-      ) %>%
+      ) %>% 
+    select(-name) %>% 
+    left_join( # replace name with "selected" name if they have multiple
+      athletes %>% 
+        select(name, athlete_id),
+      by = 'athlete_id'
+    )
     rename(
       snatch_best = total_lift1,
       cleanjerk_best = total_lift2,
