@@ -35,47 +35,33 @@ results_names_dirty <- results_list %>%
   mutate(
     gender = if_else(str_detect(cat, 'Women'), 'W', 'M')
   ) %>%
-  rename(
-    country = nation # final is nation, but set to country to match
-  ) %>%
   select(
     -cat
   ) %>%
   unique()
 
 athletes <- athletes_dirty %>% 
+  mutate(
+    nation = country
+  ) %>% 
   bind_rows(results_names_dirty) %>% 
   distinct() %>%
   mutate(
-    birthday = as.Date(born, '%b %d, %Y'),
-    nation = country
+    birthday = as.Date(born, '%b %d, %Y')
   ) %>% 
   mutate(names_split = name) %>% 
   separate(col = names_split, into = c('last', 'first'), sep = ' ') %>% # separate names
   group_by(birthday, gender, last, first) %>% # group
-  summarize(matches = length(name), name = toString(name), nation = toString(nation)) %>% # matching names sep by comma
+  summarize(matches = length(name), name = toString(name), nations = toString(nation)) %>% # matching names sep by comma
   ungroup() %>% 
   separate(col = name, into = c('name', 'name_alt'), sep = ', ') %>% # split alt names by comma
-  mutate(name_alt = ifelse(name == name_alt, NA, name_alt)) %>% 
-  separate(col = nation, into = c('nation_current', 'nation_all', 'nation_all2', 'nation_all3'), sep = ', ') %>% # split alt names by comma
-  mutate( # fix duplicate nation in nation all
-    nation_all3 = ifelse(nation_all3 == nation_all2, NA, nation_all3),
-    nation_all3 = ifelse(nation_all3 == nation_all, NA, nation_all3),
-    nation_all3 = ifelse(nation_all3 == nation_current, NA, nation_all3),
-    nation_all2 = ifelse(nation_all2 == nation_all, NA, nation_all2),
-    nation_all2 = ifelse(nation_all2 == nation_current, NA, nation_all2),
-    nation_all = ifelse(nation_all == nation_current, NA, nation_all)
-    ) %>% 
-  unite(
-    nation_all,
-    c('nation_current', 'nation_all', 'nation_all2', 'nation_all3'),
-    sep = ', ',
-    na.rm = TRUE,
-    remove = FALSE
-  ) %>% 
-  rowid_to_column('athlete_id') %>% 
+  mutate( # remove name_alt if not different than name, remove duplicate nations
+    name_alt = ifelse(name == name_alt, NA, name_alt),
+    nations = sapply(str_split(nations, ', '), function(x) toString(unique(x)))
+    ) %>%
+  rowid_to_column('athlete_id') %>%
   select( # final order
-    athlete_id, name, name_alt, birthday, gender, nation_current, nation_all
+    athlete_id, name, name_alt, birthday, gender, nations
   ) %>% suppressWarnings()
 
 #################### the cleaning function for results ########################
@@ -108,8 +94,12 @@ clean_results <- function(df) {
         pattern = ' '
       ),
       across( # convert to numeric
-        c(rank, bw, lift1, lift2, lift3, event_id, old_classes, dq),
+        c(bw, lift1, lift2, lift3),
         as.numeric
+      ) %>% suppressWarnings(),
+      cross( # convert to int
+        c(rank, event_id, old_classes, dq),
+        as.integer
       ) %>% suppressWarnings(),
       category = str_replace(cat, 'kg', ' kg ')
     ) %>% 
@@ -139,7 +129,7 @@ clean_results <- function(df) {
       athletes %>% 
         select(name, athlete_id),
       by = 'athlete_id'
-    )
+    ) %>% 
     rename(
       snatch_best = total_lift1,
       cleanjerk_best = total_lift2,
@@ -168,7 +158,7 @@ events <- events_dirty %>%
   distinct() %>% 
   mutate(
     date = as.Date(date, '%b %d, %Y'),
-    id = as.numeric(id),
+    id = as.integer(id),
     location = str_remove_all(location, '\\t')
   ) %>% 
   rename(
