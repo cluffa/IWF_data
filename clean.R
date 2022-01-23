@@ -25,6 +25,11 @@ athletes_dirty <- read_csv("./raw_data/athletes.csv", show_col_types = FALSE)
 # grouping by lastname, firstname, nation, birthday
 # gives 44 matches. I have reviewed all, and can say
 # these are real matches.
+# 
+
+# manual overrides for known errors
+athletes_dirty[athletes_dirty$name == 'ALWINE Meredith',]$born = 'Jun 08, 1998'
+
 
 results_names_dirty <- results_list %>%
   lapply(function(df) df[c('name', 'nation', 'born', 'cat')]) %>%
@@ -96,11 +101,11 @@ clean_results <- function(df) {
       across( # convert to numeric
         c(bw, lift1, lift2, lift3),
         as.numeric
-      ) %>% suppressWarnings(),
-      cross( # convert to int
+      ),
+      across( # convert to int
         c(rank, event_id, old_classes, dq),
         as.integer
-      ) %>% suppressWarnings(),
+      ),
       category = str_replace(cat, 'kg', ' kg ')
     ) %>% 
     pivot_wider( # pivot lifts by section
@@ -180,3 +185,4 @@ write_csv(events, './clean_data/events.csv')
 ########### all data as .Rdata ###########
 
 save(results, events, athletes, file = './all_data.Rdata')
+
