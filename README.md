@@ -17,8 +17,6 @@ where "?event_id=" comes from events, old classes page is id < 441
 
 There are also a few unlisted results pages. They are ids = [1, 87, 101, 136, 169, 316, 377, 505]
 
----
-
 ## Data Info
 
 ### Athletes
