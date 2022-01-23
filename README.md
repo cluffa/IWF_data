@@ -17,8 +17,6 @@ where "?event_id=" comes from events, old classes page is id < 441
 
 There are also a few unlisted results pages. They are ids = [1, 87, 101, 136, 169, 316, 377, 505]
 
----
-
 ## Data Info
 
 ### Athletes
@@ -59,6 +57,8 @@ cleanjerk\_lift2|2nd clean and jerk attempt|negative = miss
 cleanjerk\_lift3|3rd clean and jerk attempt|negative = miss
 cleanjerk\_best|best clean and jerk out of three attempts|
 total|sum of best snatch and best clean and jerk|
+
+### Events
 
 **variable**|**description**|**key**
 :-----:|:-----:|:-----:
