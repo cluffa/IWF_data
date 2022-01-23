@@ -28,29 +28,32 @@ to the athlete who lift the most combined, called the total. This medal
 holds much more weight than the other two. The gold medal winner in the
 total is called the category champion.
 
-|     Clean and Jerk     |        Snatch         |
-|:----------------------:|:---------------------:|
-| ![](./images/ilya.gif) | ![](./images/liu.gif) |
+|       Clean and Jerk       |          Snatch          |
+|:--------------------------:|:------------------------:|
+| ![ilya](./images/ilya.gif) | ![liu](./images/liu.gif) |
 
 ``` r
 search <- athletes %>% filter(
-  grepl('katherine', name, ignore.case = TRUE),
+  grepl('katherine', name, ignore.case = TRUE) | grepl('martha', name, ignore.case = TRUE) | grepl('alwine', name, ignore.case = TRUE),
   grepl('USA', nations)
   )
-ids = search['athlete_id']
+ids = search$athlete_id
 
 results_sep <- results %>% # a dataset where each best lift/total is another line
-  select(-contains("lift")) %>% 
-  pivot_longer(c("snatch_best", "cleanjerk_best", "total"), names_to = "lift", values_to = "weight") %>% 
-  mutate(lift = str_remove(lift, "_best"))
+  select(-contains('lift')) %>% 
+  pivot_longer(c('snatch_best', 'cleanjerk_best', 'total'), names_to = 'lift', values_to = 'weight') %>% 
+  mutate(lift = str_remove(lift, '_best'))
 
 results_sep %>% 
-  filter(athlete_id %in% ids, !is.na(weight)) %>% 
-  left_join(events, by = 'event_id') %>% 
-  filter(lift != "total") %>% 
+  filter(
+    sapply(athlete_id, function(id) id %in% ids),
+    !is.na(weight)) %>% 
+  left_join(events, by = 'event_id') %>%
   ggplot(aes(x = date, y = weight, color = name)) +
-    geom_line(aes(linetype = lift)) +
-    geom_point()
+    geom_line() +
+    geom_point() +
+    facet_wrap(vars(lift), scales = 'free', ncol = 1) +
+    labs(title = 'comparison')
 ```
 
 ![](analysis_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
