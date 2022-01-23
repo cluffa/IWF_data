@@ -60,6 +60,8 @@ cleanjerk\_lift3|3rd clean and jerk attempt|negative = miss
 cleanjerk\_best|best clean and jerk out of three attempts|
 total|sum of best snatch and best clean and jerk|
 
+### Events
+
 **variable**|**description**|**key**
 :-----:|:-----:|:-----:
 event_id | id |
