@@ -43,4 +43,4 @@ for url in urls:
 
     combined = combined.append(df)
 
-combined.sort_values('id').to_csv('./raw_data/events.csv', index=False)
+combined.sort_values('id').to_csv('../raw_data/events.csv', index=False)

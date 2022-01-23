@@ -6,17 +6,17 @@ update_data <- FALSE
 if(update_data) {
   library(reticulate)
   use_condaenv('base')
-  py_run_file('./scrapeEvents.py')
-  py_run_file('./scrapeAthletes.py')
-  py_run_file('./scrapeResults.py')
+  py_run_file('./scrape/scrapeEvents.py')
+  py_run_file('./scrape/scrapeAthletes.py')
+  py_run_file('./scrape/scrapeResults.py')
 }
 
 ########## reading in files ###########
 
 results_files <- list.files('./raw_data/results/', full.names = TRUE)
 results_list <- lapply(results_files, read_csv, show_col_types = FALSE, num_threads = 36)
-events_dirty <- read_csv("./raw_data/events.csv", show_col_types = FALSE)
-athletes_dirty <- read_csv("./raw_data/athletes.csv", show_col_types = FALSE)
+events_dirty <- read_csv('./raw_data/events.csv', show_col_types = FALSE)
+athletes_dirty <- read_csv('./raw_data/athletes.csv', show_col_types = FALSE)
 
 ################ cleaning athletes #####################
 
@@ -130,7 +130,7 @@ clean_results <- function(df) {
       by = c('name', 'birthday')
       ) %>% 
     select(-name) %>% 
-    left_join( # replace name with "selected" name if they have multiple
+    left_join( # replace name with 'selected' name if they have multiple
       athletes %>% 
         select(name, athlete_id),
       by = 'athlete_id'

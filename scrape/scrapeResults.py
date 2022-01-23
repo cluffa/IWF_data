@@ -107,7 +107,7 @@ def scrape_url(id: int = 522):
     #df['event'] = event
     df['event_id'] = id
     df['old_classes'] = old_classes
-    file = './raw_data/results/' + str(id) + ' ' + event + '.csv'
+    file = '../raw_data/results/' + str(id) + ' ' + event + '.csv'
     file = file.replace(' ', '_').replace('-', '_')
     df.to_csv(file, index=False)
 
@@ -129,7 +129,7 @@ def scrape_pass_errors(id):
 
 import multiprocessing as mp
 
-ids = pd.read_csv('./raw_data/events.csv')['id']
+ids = pd.read_csv('../raw_data/events.csv')['id']
 
 if __name__ == "__main__":
     pool = mp.Pool(mp.cpu_count())

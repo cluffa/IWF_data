@@ -23,4 +23,4 @@ for line in soup.find_all('div', 'row'):
     df = df.append(temp)
 
 print(df.head(10))
-df.to_csv('./raw_data/athletes.csv', index=False)
+df.to_csv('../raw_data/athletes.csv', index=False)

@@ -12,7 +12,7 @@ Clean and Jerk            |  Snatch
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
-load('./all_data.Rdata')
+load('../all_data.Rdata')
 ```
 
 ```{r}
