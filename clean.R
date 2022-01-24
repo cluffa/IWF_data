@@ -117,11 +117,11 @@ clean_results <- function(df) {
     replace_na( # '---' denotes 0/3 lifts, '', means no attempt/forfeit, set to na
       list('---', '')
     ) %>%
-    left_join(events %>% select(event_id, date), by = 'event_id') %>%
+    left_join(events %>% select(event_id, date, event), by = 'event_id') %>%
     mutate(
       dq = (rank == 'DSQ'), # total rank is 'DSQ' if disqualified, usually due to testing positive for PEDs
       date_of_birth = as_date(born, format = '%b %d, %Y'), # convert to date
-      age = date - date_of_birth,
+      age = interval(date_of_birth, date) / years(1),
       across( # fix spaces between '-' and number
         c(rank, bw, lift1, lift2, lift3),
         str_remove_all,
@@ -138,7 +138,8 @@ clean_results <- function(df) {
       category = str_replace(cat, 'kg', ' kg ')
     ) %>%
     pivot_wider( # pivot lifts by section
-      id_cols = c(name, dq, nation, date_of_birth, bw, group, category, event_id, old_classes, age),
+      id_cols = c(name, dq, nation, date_of_birth, bw, group, category, event_id, old_classes, age, date, event),
+      #id_cols = - c(sec, lift1, lift2, lift3, rank),
       names_from = sec,
       names_glue = '{sec}_{.value}',
       values_from = c(lift1, lift2, lift3, rank),
@@ -171,7 +172,7 @@ clean_results <- function(df) {
     ) %>%
     select( # set final order
       total_rank, snatch_rank, cleanjerk_rank,
-      name, athlete_id, date_of_birth, age, gender, nation, group, bw, category, dq, old_classes, event_id,
+      name, athlete_id, date_of_birth, age, gender, nation, group, bw, category, dq, old_classes, event_id, event, date,
       snatch_lift1, snatch_lift2, snatch_lift3,
       snatch_best,
       cleanjerk_lift1, cleanjerk_lift2, cleanjerk_lift3,
@@ -184,7 +185,7 @@ clean_results <- function(df) {
     return()
 }
 
-clean_results(results_list[[378]]) # for testing
+#clean_results(results_list[[378]]) # for testing
 
 results_list_clean <- lapply(results_list, clean_results) # clean all
 
