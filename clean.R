@@ -19,18 +19,15 @@ results_list <- lapply(results_files, read_csv, show_col_types = FALSE, num_thre
 events_dirty <- read_csv('./raw_data/events.csv', show_col_types = FALSE)
 athletes_dirty <- read_csv('./raw_data/athletes.csv', show_col_types = FALSE)
 
+
 ################ cleaning athletes #####################
 
 # there are many athletes that have the multiple rows
 # with different or no middle name or extension.
-# grouping by lastname, firstname, nation, birthday
+# grouping by lastname, firstname, nation, date_of_birth
 # gives 44 matches. I have reviewed all, and can say
 # these are real matches.
 #
-
-# manual overrides for known errors
-athletes_dirty[athletes_dirty$name == 'ALWINE Meredith',]$born = 'Jun 08, 1998'
-
 
 results_names_dirty <- results_list %>%
   lapply(function(df) df[c('name', 'nation', 'born', 'cat')]) %>%
@@ -53,11 +50,12 @@ athletes <- athletes_dirty %>%
   bind_rows(results_names_dirty) %>%
   distinct() %>%
   mutate(
-    birthday = as_date(born, format = '%b %d, %Y', tz = "GMT")
+    date_of_birth = as_date(born, format = '%b %d, %Y'),
+    born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born) # manual overrides for known errors
   ) %>%
   mutate(names_split = name) %>%
   separate(col = names_split, into = c('last', 'first'), sep = ' ') %>% # separate names
-  group_by(birthday, gender, last, first) %>% # group
+  group_by(date_of_birth, gender, last, first) %>% # group
   summarize(matches = length(name), name = toString(name), nations = toString(nation)) %>% # matching names sep by comma
   ungroup() %>%
   separate(col = name, into = c('name', 'name_alt'), sep = ', ') %>% # split alt names by comma
@@ -67,8 +65,36 @@ athletes <- athletes_dirty %>%
     ) %>%
   rowid_to_column('athlete_id') %>%
   select( # final order
-    athlete_id, name, name_alt, birthday, gender, nations
+    athlete_id, name, name_alt, date_of_birth, gender, nations
   ) %>% suppressWarnings()
+
+############# cleaning events #########################
+get_age_group <- function(event_name) {
+  if(length(event_name) > 1) {
+    return(as.vector(sapply(event_name, get_age_group)))
+  } else if(grepl('youth', event_name, ignore.case = TRUE)) {
+    return('youth')
+  } else if(grepl('junior|university', event_name, ignore.case = TRUE)) {
+    return('junior')
+  } else {
+    return('senior')
+  }
+}
+
+events <- events_dirty %>%
+  distinct() %>%
+  mutate(
+    date = as_date(date, format = '%b %d, %Y'),
+    id = as.integer(id),
+    location = str_remove_all(location, '\\t'),
+    age_group = get_age_group(event),
+    is_olympics = as.integer(grepl('olympic', event, ignore.case = TRUE)),
+    is_university = as.integer(grepl('university', event, ignore.case = TRUE))
+  ) %>%
+  rename(
+    event_id = id
+  ) %>%
+  arrange(event_id)
 
 #################### the cleaning function for results ########################
 
@@ -91,9 +117,11 @@ clean_results <- function(df) {
     replace_na( # '---' denotes 0/3 lifts, '', means no attempt/forfeit, set to na
       list('---', '')
     ) %>%
+    left_join(events %>% select(event_id, date), by = 'event_id') %>%
     mutate(
       dq = (rank == 'DSQ'), # total rank is 'DSQ' if disqualified, usually due to testing positive for PEDs
-      birthday = as_date(born, format = '%b %d, %Y', tz = "GMT"), # convert to date
+      date_of_birth = as_date(born, format = '%b %d, %Y'), # convert to date
+      age = date - date_of_birth,
       across( # fix spaces between '-' and number
         c(rank, bw, lift1, lift2, lift3),
         str_remove_all,
@@ -110,7 +138,7 @@ clean_results <- function(df) {
       category = str_replace(cat, 'kg', ' kg ')
     ) %>%
     pivot_wider( # pivot lifts by section
-      id_cols = c(name, dq, nation, birthday, bw, group, category, event_id, old_classes),
+      id_cols = c(name, dq, nation, date_of_birth, bw, group, category, event_id, old_classes, age),
       names_from = sec,
       names_glue = '{sec}_{.value}',
       values_from = c(lift1, lift2, lift3, rank),
@@ -126,9 +154,9 @@ clean_results <- function(df) {
         ) %>%
         filter(!is.na(name)) %>%
         select(
-          name, birthday, athlete_id, gender
+          name, date_of_birth, athlete_id, gender
         ),
-      by = c('name', 'birthday')
+      by = c('name', 'date_of_birth')
       ) %>%
     select(-name) %>%
     left_join( # replace name with 'selected' name if they have multiple
@@ -143,7 +171,7 @@ clean_results <- function(df) {
     ) %>%
     select( # set final order
       total_rank, snatch_rank, cleanjerk_rank,
-      name, athlete_id, birthday, gender, nation, group, bw, category, dq, old_classes, event_id,
+      name, athlete_id, date_of_birth, age, gender, nation, group, bw, category, dq, old_classes, event_id,
       snatch_lift1, snatch_lift2, snatch_lift3,
       snatch_best,
       cleanjerk_lift1, cleanjerk_lift2, cleanjerk_lift3,
@@ -151,26 +179,14 @@ clean_results <- function(df) {
       total
     ) %>%
     arrange(category, group, total_rank) %>%
+    suppressWarnings() %>%
+    suppressMessages() %>%
     return()
 }
 
-#clean_results(results_list[[378]]) # for testing
+clean_results(results_list[[378]]) # for testing
 
 results_list_clean <- lapply(results_list, clean_results) # clean all
-
-############# cleaning events #########################
-
-events <- events_dirty %>%
-  distinct() %>%
-  mutate(
-    date = as_date(date, format = '%b %d, %Y', tz = "GMT"),
-    id = as.integer(id),
-    location = str_remove_all(location, '\\t')
-  ) %>%
-  rename(
-    event_id = id
-  ) %>%
-  arrange(event_id)
 
 ############### saving data ############
 
