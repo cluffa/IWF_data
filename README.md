@@ -72,7 +72,7 @@ total|sum of best snatch and best clean and jerk|
 event_id | id |
 event | event name |
 date | date of event | YYYY-MM-DD
-location | all nations athlete has compteted under | city, ISO 3166 country code
+location | location of event | city, ISO 3166 country code
 age\_group|youth, junior, or senior|
 is\_olympics|is event olympic games, subset of senior|
 is\_university|is event universities, subset of junior|
