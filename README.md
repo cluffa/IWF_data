@@ -43,7 +43,8 @@ snatch\_rank|rank in the snatch|all NA if no medal given at event (ex: Olympics)
 cleanjerk\_rank|rank in the clean and jerk|all NA if no medal given at event
 name|athlete name|
 athlete\_id|athlete id|key to athletes data
-birthday|date of birth| YYYY-MM-DD
+date\_of\_birth|date of birth| YYYY-MM-DD
+age|age day of event| years
 gender|gender|M = Man, W = Woman
 nation|country they are competing for|ISO 3166 country code
 group|group session|A=final=best
@@ -52,6 +53,9 @@ category|weight class/category| + = lower limit
 dq|was disqualified|0 = no, 1 = yes
 old\_classes|is category from the old weight classes|0 = no, 1 = yes
 event\_id|event id|key to events data
+even|event name|
+date|date of event start|
+
 snatch\_lift1|absolute value is 1st snatch attempt|negative = miss
 snatch\_lift2|2nd snatch attempt|negative = miss
 snatch\_lift3|3rd snatch attempt|negative = miss
@@ -70,3 +74,6 @@ event_id | id |
 event | event name |
 date | date of event | YYYY-MM-DD
 location | all nations athlete has compteted under | city, ISO 3166 country code
+age\_group|youth, junior, or senior|
+is\_olympics|is event olympic games, subset of senior|
+is\_university|is event universities, subset of junior|
