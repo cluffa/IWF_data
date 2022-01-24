@@ -55,7 +55,6 @@ old\_classes|is category from the old weight classes|0 = no, 1 = yes
 event\_id|event id|key to events data
 event|event name|  
 date|date of event start|  
-
 snatch\_lift1|absolute value is 1st snatch attempt|negative = miss
 snatch\_lift2|2nd snatch attempt|negative = miss
 snatch\_lift3|3rd snatch attempt|negative = miss
