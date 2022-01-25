@@ -1,5 +1,9 @@
 # IWF Event Results, Athletes, anaylsis
 
+## Overview
+
+The data was scraped from the IWF website. The results are most, if not all, results from IWF sanction events back to the 2004 Olympic Games in Athens. This can be found in `clean_data/all_results.csv` or separated by event in the `clean_data/results` folder. Athlete data can be found in `clean_data/athletes.csv`. Event data can be found in `clean_data/events.csv`. Athlete data and event data both have ids that match to the results. All the data as R data.frames with correct data types can be found in the `all_data.Rdata` file.
+
 ## Data Sources
 
 athletes:  
@@ -39,7 +43,8 @@ snatch\_rank|rank in the snatch|all NA if no medal given at event (ex: Olympics)
 cleanjerk\_rank|rank in the clean and jerk|all NA if no medal given at event
 name|athlete name|
 athlete\_id|athlete id|key to athletes data
-birthday|date of birth| YYYY-MM-DD
+date\_of\_birth|date of birth| YYYY-MM-DD
+age|age day of event| years
 gender|gender|M = Man, W = Woman
 nation|country they are competing for|ISO 3166 country code
 group|group session|A=final=best
@@ -48,6 +53,8 @@ category|weight class/category| + = lower limit
 dq|was disqualified|0 = no, 1 = yes
 old\_classes|is category from the old weight classes|0 = no, 1 = yes
 event\_id|event id|key to events data
+event|event name|  
+date|date of event start|  
 snatch\_lift1|absolute value is 1st snatch attempt|negative = miss
 snatch\_lift2|2nd snatch attempt|negative = miss
 snatch\_lift3|3rd snatch attempt|negative = miss
@@ -65,4 +72,7 @@ total|sum of best snatch and best clean and jerk|
 event_id | id |
 event | event name |
 date | date of event | YYYY-MM-DD
-location | all nations athlete has compteted under | city, ISO 3166 country code
+location | location of event | city, ISO 3166 country code
+age\_group|youth, junior, or senior|
+is\_olympics|is event olympic games, subset of senior|
+is\_university|is event universities, subset of junior|
