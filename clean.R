@@ -44,8 +44,7 @@ overrides <- data.frame(
   real_dob = c('Jun 08, 1998')
 )
 
-results_list <- fix_dob(results_list, overrides$names, overrides$real_dob)
-athletes_dirty <- fix_dob(athletes_dirty, overrides$names, overrides$real_dob)
+# function applied under after setting athlete id
 
 ################ cleaning athletes #####################
 
@@ -70,6 +69,23 @@ results_names_dirty <- results_list %>%
   ) %>%
   unique()
 
+# making id before filter that won't change
+athlete_ids <- bind_rows(
+  results_names_dirty,
+  athletes_dirty %>%
+    select(name, country, born, gender) %>%
+    rename(nation = country)
+  ) %>%
+  unique() %>%
+  rowid_to_column('athlete_id') %>%
+  fix_dob(overrides$names, overrides$real_dob) %>%
+  mutate(date_of_birth = as_date(born, format = '%b %d, %Y')) %>%
+  select(athlete_id, name, gender, date_of_birth)
+
+results_list <- fix_dob(results_list, overrides$names, overrides$real_dob)
+results_names_dirty <- fix_dob(results_names_dirty, overrides$names, overrides$real_dob)
+athletes_dirty <- fix_dob(athletes_dirty, overrides$names, overrides$real_dob)
+
 athletes <- athletes_dirty %>%
   mutate(
     nation = country
@@ -77,7 +93,6 @@ athletes <- athletes_dirty %>%
   bind_rows(results_names_dirty) %>%
   distinct() %>%
   mutate(
-    born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born), # manual overrides for known errors
     date_of_birth = as_date(born, format = '%b %d, %Y')
   ) %>%
   mutate(names_split = name) %>%
@@ -90,7 +105,10 @@ athletes <- athletes_dirty %>%
     name_alt = ifelse(name == name_alt, NA, name_alt),
     nations = sapply(str_split(nations, ', '), function(x) toString(unique(x)))
     ) %>%
-  rowid_to_column('athlete_id') %>%
+  left_join(
+    athlete_ids,
+    by = c('name', 'date_of_birth', 'gender')
+  ) %>%
   select( # final order
     athlete_id, name, name_alt, date_of_birth, gender, nations
   ) %>% suppressWarnings()
@@ -149,7 +167,7 @@ clean_results <- function(df) {
       dq = (rank == 'DSQ'), # total rank is 'DSQ' if disqualified, usually due to testing positive for PEDs
       born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born), # override errors
       date_of_birth = as_date(born, format = '%b %d, %Y'), # convert to date
-      age = interval(date_of_birth, date) / years(1),
+      age = round(interval(date_of_birth, date) / years(1), 1),
       across( # fix spaces between '-' and number
         c(rank, bw, lift1, lift2, lift3),
         str_remove_all,
