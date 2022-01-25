@@ -19,6 +19,33 @@ results_list <- lapply(results_files, read_csv, show_col_types = FALSE, num_thre
 events_dirty <- read_csv('./raw_data/events.csv', show_col_types = FALSE)
 athletes_dirty <- read_csv('./raw_data/athletes.csv', show_col_types = FALSE)
 
+############# manual fixes ##############
+
+fix_dob <- function(data, athlete_name, real_dob) {
+  if(length(athlete_name) > 1) { # apply for all names if more than 1
+    for (i in 1:length(athlete_name)) {
+      data = fix_dob(data, athlete_name[i], real_dob[i])
+    }
+    return(data)
+  } else if('list' %in% class(data)) { # apply to all dfs if list of dfs
+    return(lapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
+
+  } else if('data.frame' %in% class(data)) { # apply to single df, single name
+    data$born = if_else(data$name == athlete_name, real_dob, data$born)
+    return(data)
+
+  } else {
+    stop()
+  }
+}
+
+overrides <- data.frame(
+  names = c('ALWINE Meredith'),
+  real_dob = c('Jun 08, 1998')
+)
+
+results_list <- fix_dob(results_list, overrides$names, overrides$real_dob)
+athletes_dirty <- fix_dob(athletes_dirty, overrides$names, overrides$real_dob)
 
 ################ cleaning athletes #####################
 
@@ -50,8 +77,8 @@ athletes <- athletes_dirty %>%
   bind_rows(results_names_dirty) %>%
   distinct() %>%
   mutate(
-    date_of_birth = as_date(born, format = '%b %d, %Y'),
-    born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born) # manual overrides for known errors
+    born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born), # manual overrides for known errors
+    date_of_birth = as_date(born, format = '%b %d, %Y')
   ) %>%
   mutate(names_split = name) %>%
   separate(col = names_split, into = c('last', 'first'), sep = ' ') %>% # separate names
@@ -120,6 +147,7 @@ clean_results <- function(df) {
     left_join(events %>% select(event_id, date, event), by = 'event_id') %>%
     mutate(
       dq = (rank == 'DSQ'), # total rank is 'DSQ' if disqualified, usually due to testing positive for PEDs
+      born = ifelse(name == 'ALWINE Meredith', 'Jun 08, 1998', born), # override errors
       date_of_birth = as_date(born, format = '%b %d, %Y'), # convert to date
       age = interval(date_of_birth, date) / years(1),
       across( # fix spaces between '-' and number
