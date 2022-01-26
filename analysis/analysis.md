@@ -33,18 +33,20 @@ total is called the category champion.
 | ![ilya](./images/ilya.gif) | ![liu](./images/liu.gif) |
 
 ``` r
-search <- athletes %>% filter(
-  grepl('katherine', name, ignore.case = TRUE) | grepl('martha', name, ignore.case = TRUE) | grepl('alwine', name, ignore.case = TRUE),
-  grepl('USA', nations)
-  )
-ids = search$athlete_id
-
-results_sep <- results %>% # a dataset where each best lift/total is another line
+results_long <- results %>% # a dataset where each best lift/total is another line
   select(-contains('lift')) %>% 
   pivot_longer(c('snatch_best', 'cleanjerk_best', 'total'), names_to = 'lift', values_to = 'weight') %>% 
   mutate(lift = str_remove(lift, '_best'))
+```
 
-results_sep %>% 
+``` r
+search <- athletes %>% filter(
+  grepl('katherine|martha|alwine', name, ignore.case = TRUE),
+  grepl('USA', nations)
+  )
+ids <- search$athlete_id
+
+results_long %>%
   filter(
     sapply(athlete_id, function(id) id %in% ids),
     !is.na(weight)) %>% 
@@ -56,4 +58,16 @@ results_sep %>%
     labs(title = 'comparison')
 ```
 
-![](analysis_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](analysis_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+``` r
+search
+```
+
+    ## # A tibble: 4 × 6
+    ##   athlete_id name            name_alt                birthday   gender nations
+    ##        <int> <chr>           <chr>                   <date>     <chr>  <chr>  
+    ## 1       9095 ROGERS Martha   ROGERS Martha Ann       1995-08-23 W      USA    
+    ## 2      11227 ALWINE Meredith ALWINE Meredith Leigh   1998-06-08 W      USA    
+    ## 3      11339 ALWINE Meredith <NA>                    1998-08-01 W      USA    
+    ## 4      11651 NYE Katherine   NYE Katherine Elizabeth 1999-01-05 W      USA

@@ -249,4 +249,4 @@ write_csv(events, './clean_data/events.csv')
 ########### all data as .Rdata ###########
 
 save(results, events, athletes, file = './all_data.Rdata')
-
+rm(list = ls(all.names = TRUE))
