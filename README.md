@@ -2,7 +2,7 @@
 
 ## Overview
 
-The data was scraped from the IWF website. The results are most, if not all, results from IWF sanction events back to the 2004 Olympic Games in Athens. This can be found in `clean_data/all_results.csv` or separated by event in the `clean_data/results` folder. Athlete data can be found in `clean_data/athletes.csv`. Event data can be found in `clean_data/events.csv`. Athlete data and event data both have ids that match to the results. All the data as R data.frames with correct data types can be found in the `all_data.Rdata` file.
+The data was scraped from the IWF website. The results are most, if not all, results from IWF sanction events since 1998. This can be found in `clean_data/all_results.csv` or separated by event in the `clean_data/results` folder. Athlete data can be found in `clean_data/athletes.csv`. Event data can be found in `clean_data/events.csv`. Athlete data and event data both have ids that match to the results. All the data as R data.frames with correct data types can be found in the `all_data.Rdata` file.
 
 ## Data Sources
 
