@@ -133,7 +133,9 @@ events <- events_dirty %>%
     id = as.integer(id),
     location = str_remove_all(location, '\\t'),
     age_group = get_age_group(event),
-    is_olympics = as.integer(grepl('olympic', event, ignore.case = TRUE)),
+    is_olympics = as.integer(
+      grepl('olympic games', event, ignore.case = TRUE) & !grepl('test|youth', event, ignore.case = TRUE)
+      ),
     is_university = as.integer(grepl('university', event, ignore.case = TRUE))
   ) %>%
   rename(
