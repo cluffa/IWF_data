@@ -18,6 +18,7 @@ results_files <- list.files('./raw_data/results/', full.names = TRUE)
 results_list <- lapply(results_files, read_csv, show_col_types = FALSE, num_threads = 36)
 events_dirty <- read_csv('./raw_data/events.csv', show_col_types = FALSE)
 athletes_dirty <- read_csv('./raw_data/athletes.csv', show_col_types = FALSE)
+iso_codes <- read_csv("./clean_data/iso_code.csv", show_col_types = FALSE)
 
 ############# manual fixes ##############
 
@@ -129,9 +130,19 @@ get_age_group <- function(event_name) {
 events <- events_dirty %>%
   distinct() %>%
   mutate(
+    location = str_remove_all(location, '\\t')
+  ) %>%
+  separate(
+    col = location,
+    into = c("city", "iso_code", "other"),
+    sep = ", "
+  ) %>%
+  mutate(
+    city = if_else(!is.na(other), paste(city, iso_code), city),
+    iso_code = if_else(!is.na(other), other, iso_code),
+    other = NULL,
     date = as_date(date, format = '%b %d, %Y'),
     id = as.integer(id),
-    location = str_remove_all(location, '\\t'),
     age_group = get_age_group(event),
     is_olympics = as.integer(
       grepl('olympic games', event, ignore.case = TRUE) & !grepl('test|youth', event, ignore.case = TRUE)
@@ -140,6 +151,12 @@ events <- events_dirty %>%
   ) %>%
   rename(
     event_id = id
+  ) %>%
+  left_join(
+    iso_codes %>%
+      rename(iso_code = `Alpha-3 code`, country = `English short name lower case`) %>%
+      select(iso_code, country),
+    by = "iso_code"
   ) %>%
   arrange(event_id)
 
@@ -251,4 +268,4 @@ write_csv(events, './clean_data/events.csv')
 ########### all data as .Rdata ###########
 
 save(results, events, athletes, file = './all_data.Rdata')
-rm(list = ls(all.names = TRUE))
+#rm(list = ls(all.names = TRUE))
