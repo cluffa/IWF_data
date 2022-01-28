@@ -1,6 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(stringr)
+library(parallel)
 
 update_data <- FALSE
 
@@ -15,7 +16,7 @@ if(update_data) {
 ########## reading in files ###########
 
 results_files <- list.files('./raw_data/results/', full.names = TRUE)
-results_list <- lapply(results_files, read_csv, show_col_types = FALSE, num_threads = 36)
+results_list <- mclapply(results_files, read_csv, show_col_types = FALSE)
 events_dirty <- read_csv('./raw_data/events.csv', show_col_types = FALSE)
 athletes_dirty <- read_csv('./raw_data/athletes.csv', show_col_types = FALSE)
 iso_codes <- read_csv("./clean_data/iso_code.csv", show_col_types = FALSE)
@@ -29,7 +30,7 @@ fix_dob <- function(data, athlete_name, real_dob) {
     }
     return(data)
   } else if('list' %in% class(data)) { # apply to all dfs if list of dfs
-    return(lapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
+    return(mclapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
 
   } else if('data.frame' %in% class(data)) { # apply to single df, single name
     data$born = if_else(data$name == athlete_name, real_dob, data$born)
@@ -68,7 +69,7 @@ results_names_dirty <- results_list %>%
   select(
     -cat
   ) %>%
-  unique()
+  distinct()
 
 # making id before filter that won't change
 athlete_ids <- bind_rows(
@@ -77,11 +78,14 @@ athlete_ids <- bind_rows(
     select(name, country, born, gender) %>%
     rename(nation = country)
   ) %>%
-  unique() %>%
+  group_by(name, born, gender) %>%
+  summarise(name, born, toString(nation), gender) %>%
+  distinct() %>%
   rowid_to_column('athlete_id') %>%
   fix_dob(overrides$names, overrides$real_dob) %>%
   mutate(date_of_birth = as_date(born, format = '%b %d, %Y')) %>%
-  select(athlete_id, name, gender, date_of_birth)
+  select(athlete_id, name, gender, date_of_birth) %>%
+  arrange(athlete_id)
 
 results_list <- fix_dob(results_list, overrides$names, overrides$real_dob)
 results_names_dirty <- fix_dob(results_names_dirty, overrides$names, overrides$real_dob)
@@ -106,6 +110,7 @@ athletes <- athletes_dirty %>%
     name_alt = ifelse(name == name_alt, NA, name_alt),
     nations = sapply(str_split(nations, ', '), function(x) toString(unique(x)))
     ) %>%
+  distinct() %>%
   left_join(
     athlete_ids,
     by = c('name', 'date_of_birth', 'gender')
@@ -252,12 +257,12 @@ clean_results <- function(df) {
 
 #clean_results(results_list[[378]]) # for testing
 
-results_list_clean <- lapply(results_list, clean_results) # clean all
+results_list_clean <- mclapply(results_list, clean_results) # clean all
 
 ############### saving data ############
 
 results_files_clean <- str_replace(results_files, 'raw_data', 'clean_data') # make new file paths
-mapply(write_csv, x = results_list_clean, file = results_files_clean, num_threads = 36)
+mcmapply(write_csv, x = results_list_clean, file = results_files_clean, num_threads = 36)
 
 results = bind_rows(results_list_clean) %>% arrange(event_id, category, group, total_rank)
 
