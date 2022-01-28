@@ -30,7 +30,7 @@ fix_dob <- function(data, athlete_name, real_dob) {
     }
     return(data)
   } else if('list' %in% class(data)) { # apply to all dfs if list of dfs
-    return(mclapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
+    return(lapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
 
   } else if('data.frame' %in% class(data)) { # apply to single df, single name
     data$born = if_else(data$name == athlete_name, real_dob, data$born)
@@ -46,7 +46,7 @@ overrides <- data.frame(
   real_dob = c('Jun 08, 1998')
 )
 
-# function applied under after setting athlete id
+# function applied after setting athlete id
 
 ################ cleaning athletes #####################
 
@@ -262,7 +262,7 @@ results_list_clean <- mclapply(results_list, clean_results) # clean all
 ############### saving data ############
 
 results_files_clean <- str_replace(results_files, 'raw_data', 'clean_data') # make new file paths
-mcmapply(write_csv, x = results_list_clean, file = results_files_clean, num_threads = 36)
+mapply(write_csv, x = results_list_clean, file = results_files_clean)
 
 results = bind_rows(results_list_clean) %>% arrange(event_id, category, group, total_rank)
 
