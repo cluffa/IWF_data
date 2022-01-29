@@ -37,23 +37,29 @@ The gold medal winner in the total is called the category champion.
 One of the most important aspects of the competition is allocating
 enough rest. As mentioned in the intro, it is a common strategy to go up
 in weight even if an athlete has missed an attempt. This is because
-going up in weight allows others to make their attempts before the need
-to go back up to the platform. I will make a group for each of the two
-strategies. Each observation is two subsequent lifts. The first lift is
-failed and the second lift is either made or missed.
+going up in weight allows for more time between a missed lift and the
+next. I will make a group for each of the two strategies. Each
+observation is two subsequent lifts. The first lift is failed and the
+second lift is either made or missed.
 
 ``` r
+olympics <- events %>%  # only olympic results
+  filter(is_olympics == 1) %>%
+  select(event_id) %>%
+  left_join(results, by = "event_id") %>%
+  arrange(desc(date), total_rank)
+
 pairs <- bind_rows(
-    results %>% select(snatch_lift1, snatch_lift2) %>%
+    olympics %>% select(snatch_lift1, snatch_lift2) %>%
       rename(lift1 = snatch_lift1, lift2 = snatch_lift2) %>% 
       mutate(type = "snatch", pos = "12"),
-    results %>% select(snatch_lift2, snatch_lift3) %>%
+    olympics %>% select(snatch_lift2, snatch_lift3) %>%
       rename(lift1 = snatch_lift2, lift2 = snatch_lift3) %>% 
       mutate(type = "snatch", pos = "23"),
-    results %>% select(cleanjerk_lift1, cleanjerk_lift2) %>%
+    olympics %>% select(cleanjerk_lift1, cleanjerk_lift2) %>%
       rename(lift1 = cleanjerk_lift1, lift2 = cleanjerk_lift2) %>% 
       mutate(type = "cleanjerk", pos = "12"),
-    results %>% select(cleanjerk_lift2, cleanjerk_lift3) %>%
+    olympics %>% select(cleanjerk_lift2, cleanjerk_lift3) %>%
       rename(lift1 = cleanjerk_lift2, lift2 = cleanjerk_lift3) %>% 
       mutate(type = "cleanjerk", pos = "23")
   ) %>% 
@@ -63,40 +69,40 @@ pairs <- bind_rows(
     made_lift2 = lift2 > 0) %>% 
   rowid_to_column()
 
-head(pairs)
+pairs
 ```
 
-    ## # A tibble: 6 × 7
-    ##   rowid lift1 lift2 type   pos    jump made_lift2
-    ##   <int> <dbl> <dbl> <chr>  <chr> <dbl> <lgl>     
-    ## 1     1  -186  -190 snatch 12        4 FALSE     
-    ## 2     2  -193   193 snatch 12        0 TRUE      
-    ## 3     3  -187   187 snatch 12        0 TRUE      
-    ## 4     4  -180  -180 snatch 12        0 FALSE     
-    ## 5     5  -177   177 snatch 12        0 TRUE      
-    ## 6     6  -125   125 snatch 12        0 TRUE
+    ## # A tibble: 1,491 × 7
+    ##    rowid lift1 lift2 type   pos    jump made_lift2
+    ##    <int> <dbl> <dbl> <chr>  <chr> <dbl> <lgl>     
+    ##  1     1  -189   189 snatch 12        0 TRUE      
+    ##  2     2  -137   137 snatch 12        0 TRUE      
+    ##  3     3  -165   165 snatch 12        0 TRUE      
+    ##  4     4  -115   115 snatch 12        0 TRUE      
+    ##  5     5   -84    84 snatch 12        0 TRUE      
+    ##  6     6  -165   165 snatch 12        0 TRUE      
+    ##  7     7  -130   130 snatch 12        0 TRUE      
+    ##  8     8  -101   101 snatch 12        0 TRUE      
+    ##  9     9  -151   151 snatch 12        0 TRUE      
+    ## 10    10  -102  -102 snatch 12        0 FALSE     
+    ## # … with 1,481 more rows
 
-Negative weight means it is a miss. Right off the top we can see
-examples of each strategy. The first observation missed 186 and went up
-to 190 only to miss again. The rest stayed at the first weight and 4/5
-made it.
+Note that a negative weight means it is a failed attempt.
 
 ``` r
 mean(pairs$made_lift2)
 ```
 
-    ## [1] 0.5093273
+    ## [1] 0.4466801
 
-Only 51% of lifts after a miss are made.
+Only 45% of lifts after a miss are made.
 
-I will make separate the two. No jump and a jump \> 0.
+Splitting into groups. No jump and a jump \> 0.
 
 ``` r
 big_jump <- pairs %>% filter(jump > 0)
 no_jump <- pairs %>% filter(jump == 0)
-```
 
-``` r
 made <- c(sum(big_jump$made_lift2), sum(no_jump$made_lift2))
 total <- c(nrow(big_jump), nrow(no_jump))
 tibble(jump = c("big", "none"), made, total, prop = made/total)
@@ -105,10 +111,12 @@ tibble(jump = c("big", "none"), made, total, prop = made/total)
     ## # A tibble: 2 × 4
     ##   jump   made total  prop
     ##   <chr> <int> <int> <dbl>
-    ## 1 big    4042  9637 0.419
-    ## 2 none  24241 45860 0.529
+    ## 1 big      72   232 0.310
+    ## 2 none    594  1259 0.472
 
-A quick proportion test.
+Proportion test with the hypotheses:
+*H*<sub>0</sub> : *p*<sub>sucess after jump</sub> − *p*<sub>sucess after no jump</sub> = 0
+*H*<sub>*A*</sub> : *p*<sub>sucess after jump</sub> − *p*<sub>sucess after no jump</sub> ≠ 0
 
 ``` r
 prop.test(made, total)
@@ -118,13 +126,76 @@ prop.test(made, total)
     ##  2-sample test for equality of proportions with continuity correction
     ## 
     ## data:  made out of total
-    ## X-squared = 379.29, df = 1, p-value < 2.2e-16
+    ## X-squared = 20.014, df = 1, p-value = 7.686e-06
     ## alternative hypothesis: two.sided
     ## 95 percent confidence interval:
-    ##  -0.12008462 -0.09823912
+    ##  -0.22961767 -0.09329871
     ## sample estimates:
     ##    prop 1    prop 2 
-    ## 0.4194251 0.5285870
+    ## 0.3103448 0.4718030
+
+The results are significant. So it is safe to say that the benefits of
+making a larger jump are not worth the increase risk of failing an
+attempt.
+
+I also want to test the difference when the two subsequent lifts are
+first and second or second and third.
+
+``` r
+big_jump_23 <- pairs %>% filter(jump > 0, pos == "23")
+no_jump_23 <- pairs %>% filter(jump == 0, pos == "23")
+big_jump_12 <- pairs %>% filter(jump > 0, pos == "12")
+no_jump_12 <- pairs %>% filter(jump == 0, pos == "12")
+
+made_23 <- c(sum(big_jump_23$made_lift2), sum(no_jump_23$made_lift2))
+total_23 <- c(nrow(big_jump_23), nrow(no_jump_23))
+made_12 <- c(sum(big_jump_12$made_lift2), sum(no_jump_12$made_lift2))
+total_12 <- c(nrow(big_jump_12), nrow(no_jump_12))
+
+tibble(jump = c("big 23", "none 23", "big 12", "none 12"), made = c(made_23, made_12), total = c(total_23, total_12), prop = c(made_23/total_23, made_12/total_12))
+```
+
+    ## # A tibble: 4 × 4
+    ##   jump     made total  prop
+    ##   <chr>   <int> <int> <dbl>
+    ## 1 big 23     58   191 0.304
+    ## 2 none 23   296   775 0.382
+    ## 3 big 12     14    41 0.341
+    ## 4 none 12   298   484 0.616
+
+``` r
+prop.test(made_23, total_23)
+```
+
+    ## 
+    ##  2-sample test for equality of proportions with continuity correction
+    ## 
+    ## data:  made_23 out of total_23
+    ## X-squared = 3.7134, df = 1, p-value = 0.05398
+    ## alternative hypothesis: two.sided
+    ## 95 percent confidence interval:
+    ##  -0.155173832 -0.001367293
+    ## sample estimates:
+    ##    prop 1    prop 2 
+    ## 0.3036649 0.3819355
+
+``` r
+prop.test(made_12, total_12)
+```
+
+    ## 
+    ##  2-sample test for equality of proportions with continuity correction
+    ## 
+    ## data:  made_12 out of total_12
+    ## X-squared = 10.68, df = 1, p-value = 0.001083
+    ## alternative hypothesis: two.sided
+    ## 95 percent confidence interval:
+    ##  -0.4389486 -0.1095295
+    ## sample estimates:
+    ##    prop 1    prop 2 
+    ## 0.3414634 0.6157025
+
+The probabilities for 2 & 3 are much closer than 1 & 2.
 
 example athlete comparison
 
@@ -163,6 +234,6 @@ search
     ## # A tibble: 3 × 6
     ##   athlete_id name            name_alt               date_of_birth gender nations
     ##        <int> <chr>           <chr>                  <date>        <chr>  <chr>  
-    ## 1      13402 ROGERS Martha   ROGERS Martha Ann      1995-08-23    W      USA    
-    ## 2      13391 ALWINE Meredith ALWINE Meredith Leigh  1998-06-08    W      USA    
-    ## 3      13399 NYE Katherine   NYE Katherine Elizabe… 1999-01-05    W      USA
+    ## 1      11627 ROGERS Martha   ROGERS Martha Ann      1995-08-23    W      USA    
+    ## 2        820 ALWINE Meredith ALWINE Meredith Leigh  1998-06-08    W      USA    
+    ## 3       9952 NYE Katherine   NYE Katherine Elizabe… 1999-01-05    W      USA

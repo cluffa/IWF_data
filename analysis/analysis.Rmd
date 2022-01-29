@@ -10,7 +10,7 @@ Clean and Jerk            |  Snatch
 ![ilya](./images/ilya.gif)  |  ![liu](./images/liu.gif)
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 library(tidyverse)
 library(lubridate)
 load('../all_data.Rdata')
@@ -18,20 +18,26 @@ load('../all_data.Rdata')
 
 # Competition Strategy
 
-One of the most important aspects of the competition is allocating enough rest. As mentioned in the intro, it is a common strategy to go up in weight even if an athlete has missed an attempt. This is because going up in weight allows others to make their attempts before the need to go back up to the platform. I will make a group for each of the two strategies. Each observation is two subsequent lifts. The first lift is failed and the second lift is either made or missed.
+One of the most important aspects of the competition is allocating enough rest. As mentioned in the intro, it is a common strategy to go up in weight even if an athlete has missed an attempt. This is because going up in weight allows for more time between a missed lift and the next. I will make a group for each of the two strategies. Each observation is two subsequent lifts. The first lift is failed and the second lift is either made or missed.
 
 ```{r}
+olympics <- events %>%  # only olympic results
+  filter(is_olympics == 1) %>%
+  select(event_id) %>%
+  left_join(results, by = "event_id") %>%
+  arrange(desc(date), total_rank)
+
 pairs <- bind_rows(
-    results %>% select(snatch_lift1, snatch_lift2) %>%
+    olympics %>% select(snatch_lift1, snatch_lift2) %>%
       rename(lift1 = snatch_lift1, lift2 = snatch_lift2) %>% 
       mutate(type = "snatch", pos = "12"),
-    results %>% select(snatch_lift2, snatch_lift3) %>%
+    olympics %>% select(snatch_lift2, snatch_lift3) %>%
       rename(lift1 = snatch_lift2, lift2 = snatch_lift3) %>% 
       mutate(type = "snatch", pos = "23"),
-    results %>% select(cleanjerk_lift1, cleanjerk_lift2) %>%
+    olympics %>% select(cleanjerk_lift1, cleanjerk_lift2) %>%
       rename(lift1 = cleanjerk_lift1, lift2 = cleanjerk_lift2) %>% 
       mutate(type = "cleanjerk", pos = "12"),
-    results %>% select(cleanjerk_lift2, cleanjerk_lift3) %>%
+    olympics %>% select(cleanjerk_lift2, cleanjerk_lift3) %>%
       rename(lift1 = cleanjerk_lift2, lift2 = cleanjerk_lift3) %>% 
       mutate(type = "cleanjerk", pos = "23")
   ) %>% 
@@ -41,35 +47,56 @@ pairs <- bind_rows(
     made_lift2 = lift2 > 0) %>% 
   rowid_to_column()
 
-head(pairs)
+pairs
 ```
 
-Negative weight means it is a miss. Right off the top we can see examples of each strategy. The first observation missed 186 and went up to 190 only to miss again. The rest stayed at the first weight and 4/5 made it.
+Note that a negative weight means it is a failed attempt.
 
 ```{r}
 mean(pairs$made_lift2)
 ```
+Only 45% of lifts after a miss are made.
 
-Only 51% of lifts after a miss are made.
-
-I will make separate the two. No jump and a jump > 0.
+Splitting into groups. No jump and a jump > 0.
 
 ```{r}
 big_jump <- pairs %>% filter(jump > 0)
 no_jump <- pairs %>% filter(jump == 0)
-```
 
-```{r}
 made <- c(sum(big_jump$made_lift2), sum(no_jump$made_lift2))
 total <- c(nrow(big_jump), nrow(no_jump))
 tibble(jump = c("big", "none"), made, total, prop = made/total)
 ```
 
-A quick proportion test.
+Proportion test with the hypotheses:
+$$H_0:p_{\text{sucess after jump}}-p_{\text{sucess after no jump}}=0$$
+$$H_A:p_{\text{sucess after jump}}-p_{\text{sucess after no jump}}\ne0$$
 
 ```{r}
 prop.test(made, total)
 ```
+
+The results are significant. So it is safe to say that the benefits of making a larger jump are not worth the increase risk of failing an attempt. 
+
+I also want to test the difference when the two subsequent lifts are first and second or second and third.
+
+```{r}
+big_jump_23 <- pairs %>% filter(jump > 0, pos == "23")
+no_jump_23 <- pairs %>% filter(jump == 0, pos == "23")
+big_jump_12 <- pairs %>% filter(jump > 0, pos == "12")
+no_jump_12 <- pairs %>% filter(jump == 0, pos == "12")
+
+made_23 <- c(sum(big_jump_23$made_lift2), sum(no_jump_23$made_lift2))
+total_23 <- c(nrow(big_jump_23), nrow(no_jump_23))
+made_12 <- c(sum(big_jump_12$made_lift2), sum(no_jump_12$made_lift2))
+total_12 <- c(nrow(big_jump_12), nrow(no_jump_12))
+
+tibble(jump = c("big 23", "none 23", "big 12", "none 12"), made = c(made_23, made_12), total = c(total_23, total_12), prop = c(made_23/total_23, made_12/total_12))
+prop.test(made_23, total_23)
+prop.test(made_12, total_12)
+```
+
+The probabilities for 2 & 3 are much closer than 1 & 2. 
 
 
 
