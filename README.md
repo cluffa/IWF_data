@@ -1,4 +1,4 @@
-# IWF Event Results, Athletes, anaylsis
+# IWF Event Results, Athletes, Analysis
 
 ## Overview
 
@@ -34,7 +34,7 @@ name| name |
 name_alt| alternate name if more than one were used|
 birthday| date of birth | YYYY-MM-DD
 gender | gender | M = man, W = woman
-nations | all nations athlete has compteted under | SO 3166 country code
+nations | all nations athlete has competed under | SO 3166 country code
 
 ### Results
 
