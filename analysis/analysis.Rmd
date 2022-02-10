@@ -14,7 +14,7 @@ knit: (function(inputFile, encoding) {
 
 Clean and Jerk            |  Snatch
 :-------------------------:|:-------------------------:
-![ilya](./images/ilya.gif)  |  ![liu](./images/liu.gif)
+![ilya](../analysis/images/ilya.gif)  |  ![liu](../analysis/images/liu.gif)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE, fig.height=4, fig.width=10)
