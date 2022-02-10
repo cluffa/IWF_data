@@ -14,10 +14,10 @@ knit: (function(inputFile, encoding) {
 
 Clean and Jerk            |  Snatch
 :-------------------------:|:-------------------------:
-![ilya](../analysis/images/ilya.gif)  |  ![liu](../analysis/images/liu.gif)
+![ilya](https://github.com/cluffa/IWF_data/blob/a31d57864b3f45c48ce32507a5a2f2c635b586ce/analysis/images/ilya.gif?raw=true)  |  ![liu](https://github.com/cluffa/IWF_data/blob/a31d57864b3f45c48ce32507a5a2f2c635b586ce/analysis/images/liu.gif?raw=true)
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, cache = TRUE, fig.height=4, fig.width=10)
+knitr::opts_chunk$set(echo = TRUE, cache = FALSE, fig.height=4, fig.width=10)
 library(tidyverse)
 library(lubridate)
 library(kableExtra)
