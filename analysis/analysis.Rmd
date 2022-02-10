@@ -1,8 +1,13 @@
 ---
-title: 'Analysis Olympic Games Weightlifting Results'
+title: '(WORK IN PROGRESS) Analysis Of Olympic Games Weightlifting Results'
 output:
   html_document:
     code_folding: hide
+    self_contained: false
+    toc: true
+    
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../docs", output_file = "index.html") })
 ---
 |   The sport of weightlifting has a long history. It was first included in the Olympics in the 1896. Today there are two lifts; the snatch and the clean and jerk. There were originally many lifts, including one and two hand versions. By 1928 there was the snatch, clean and jerk, and the clean and press. In 1972 the press was removed and we're left with the two lifts we have today.  
 |   While it may seem like just a competition to see who can lift the most, it is much more complicated than that. There are weight categories. 10 per gender per age group. Each lift gets three attempts. 
