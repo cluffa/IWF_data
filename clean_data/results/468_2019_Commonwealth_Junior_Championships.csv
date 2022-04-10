@@ -1,5 +1,5 @@
 total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,nation,group,bw,category,dq,old_classes,event_id,event,date,snatch_lift1,snatch_lift2,snatch_lift3,snatch_best,cleanjerk_lift1,cleanjerk_lift2,cleanjerk_lift3,cleanjerk_best,total
-1,1,1,STOWERS Feagaiga,13077,2000-11-17,18.6,W,SAM,A,117.97,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,113,119,-126,119,142,-147,-150,142,261
+1,1,1,STOWERS Feagaiga,13076,2000-11-17,18.6,W,SAM,A,117.97,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,113,119,-126,119,142,-147,-150,142,261
 2,2,2,AMOE TARRANT Charisma,872,1999-05-26,20.1,W,AUS,A,131.8,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,100,105,109,109,137,-143,-144,137,246
 3,4,3,ROPATI Tuualii,11698,2000-03-22,19.3,W,SAM,A,113.25,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,80,85,90,90,100,110,114,114,204
 4,5,4,MWAREOW Mamuel,9490,2002-10-31,16.7,W,NRU,A,98.25,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,80,-85,-85,80,105,111,-115,111,191
@@ -7,7 +7,7 @@ total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,n
 NA,3,NA,MANUMUA Kuinini Juanita Mechteld,8425,2000-12-12,18.6,W,TGA,A,110.24,+87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,94,98,-101,98,-111,-111,-111,NA,NA
 1,2,1,BORAH Bornali,1933,2000-07-31,18.9,W,IND,A,44.45,45 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,55,-59,-59,55,70,76,-82,76,131
 2,1,2,SAKSHI PRAKASH MASKE,11973,2001-03-23,18.3,W,IND,A,44.7,45 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,54,58,-61,58,65,69,72,72,130
-3,3,3,TOUA Konio,13714,1999-02-25,20.4,W,PNG,A,44.95,45 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,47,50,-53,50,-65,65,-70,65,115
+3,3,3,TOUA Konio,13713,1999-02-25,20.4,W,PNG,A,44.95,45 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,47,50,-53,50,-65,65,-70,65,115
 4,4,4,IKA Daniella,5798,2004-01-08,15.5,W,NRU,A,44.5,45 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,30,35,-39,35,-43,43,47,47,82
 1,2,1,MALA Jaylyn,8305,2000-12-06,18.6,W,SOL,A,47.55,49 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,47,50,-53,50,57,63,65,65,115
 2,1,2,GAVERA Korema Marie,4518,2000-05-18,19.1,W,PNG,A,48.45,49 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,48,52,-54,52,58,62,-65,62,114
@@ -15,20 +15,20 @@ NA,3,NA,MANUMUA Kuinini Juanita Mechteld,8425,2000-12-12,18.6,W,TGA,A,110.24,+87
 2,1,2,SHADRACK Walter,12449,2000-10-06,18.8,M,SOL,A,54.75,55 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,80,-85,-85,80,100,105,-109,105,185
 NA,NA,3,ERATI Kaimauri,3871,2004-06-13,15.1,M,KIR,A,53.8,55 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-60,-60,-60,NA,70,75,-83,75,NA
 1,1,2,JONES Catrin Haf,6198,1999-06-13,20.1,W,WAL,A,53.2,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,73,75,77,77,93,96,-98,96,173
-2,3,1,SOREN Sneha,12916,2001-05-02,18.2,W,IND,A,53,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,70,73,-75,73,96,-101,-101,96,169
+2,3,1,SOREN Sneha,12915,2001-05-02,18.2,W,IND,A,53,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,70,73,-75,73,96,-101,-101,96,169
 3,2,3,SALONI Singh,12032,2001-10-25,17.7,W,IND,A,54.55,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-75,-75,75,75,-85,85,88,88,163
 4,5,4,ROY BOGANA Naoani Konio,11753,2003-03-27,16.3,W,PNG,A,53.6,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,50,55,-60,55,60,65,-70,65,120
 NA,4,NA,PRYOR Ellie Mai,11033,2001-10-03,17.8,W,WAL,A,54.8,55 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,64,-67,-67,64,-82,-82,-82,NA,NA
 1,1,1,ADAK Sukarna,187,2003-01-10,16.5,W,IND,A,57,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,77,-81,-81,77,95,101,-104,101,178
 2,2,3,ISAIA Sekolasitika,5884,2000-07-11,19,W,SAM,A,57.65,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,65,69,71,71,85,89,91,91,162
-3,3,2,UEPA Bernada,13907,2000-07-07,19,W,NRU,B,58.85,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-65,65,68,68,82,87,92,92,160
+3,3,2,UEPA Bernada,13906,2000-07-07,19,W,NRU,B,58.85,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-65,65,68,68,82,87,92,92,160
 4,4,4,HAMPTON Stella Rose,5139,2000-02-09,19.4,W,NZL,B,57.7,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,60,63,-65,63,-77,77,80,80,143
-5,5,6,WANEASI Betty,14369,2002-07-15,17,W,SOL,B,58.1,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,57,62,-65,62,72,76,-78,76,138
+5,5,6,WANEASI Betty,14368,2002-07-15,17,W,SOL,B,58.1,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,57,62,-65,62,72,76,-78,76,138
 6,6,5,MEKULA Adi Wini,8792,2002-07-17,17,W,FIJ,B,57.95,59 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,58,-60,60,60,73,77,-79,77,137
 1,2,1,JACOB Vanlaltluanga,5958,2002-02-17,17.4,M,IND,A,60.8,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,105,109,112,112,130,-135,-135,130,242
-2,3,2,TAFI John Lautafi,13313,2002-03-10,17.3,M,SAM,A,60.55,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,85,90,95,95,-115,-115,115,115,210
+2,3,2,TAFI John Lautafi,13312,2002-03-10,17.3,M,SAM,A,60.55,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,85,90,95,95,-115,-115,115,115,210
 3,4,4,IETE Tatake,5785,2000-09-11,18.8,M,KIR,A,59.5,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,75,80,85,85,88,93,102,102,187
-4,5,3,UDU Heni Ju.,13902,2002-09-21,16.8,M,PNG,A,60.45,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,68,73,76,76,88,93,103,103,179
+4,5,3,UDU Heni Ju.,13901,2002-09-21,16.8,M,PNG,A,60.45,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,68,73,76,76,88,93,103,103,179
 5,6,5,GIOURA Chrisman,4616,2002-12-24,16.5,M,NRU,A,59.55,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,67,-71,-71,67,-85,85,89,89,156
 NA,1,NA,MUTHUPANDI Raja,9482,2000-01-12,19.5,M,IND,A,60.85,61 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,116,120,-123,120,-142,-142,-142,NA,NA
 1,1,1,SERAM Nirupama Devi,12394,2000-10-05,18.8,W,IND,A,63.8,64 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,79,82,85,85,109,112,-115,112,197
@@ -42,7 +42,7 @@ NA,1,NA,MUTHUPANDI Raja,9482,2000-01-12,19.5,M,IND,A,60.85,61 kg Men,0,0,468,201
 NA,1,NA,JEREMY Lalrinnunga,6111,2002-10-26,16.7,M,IND,A,65.5,67 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,129,133,136,136,-160,-160,-161,NA,NA
 NA,6,NA,RAOBU Manuila,11282,2000-09-18,18.8,M,TUV,A,65.7,67 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,101,-106,106,106,-126,-126,-126,NA,NA
 5,7,5,"NASILA Samuela",9630,1999-06-03,20.1,M,FIJ,B,66.3,67 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,77,84,88,88,100,105,110,110,198
-1,1,2,UEPA Maximina,13908,2002-09-22,16.8,W,NRU,A,68.2,71 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,81,85,86,86,-105,105,-110,105,191
+1,1,2,UEPA Maximina,13907,2002-09-22,16.8,W,NRU,A,68.2,71 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,81,85,86,86,-105,105,-110,105,191
 2,3,1,CHAMOUN Sabah,2512,2000-07-09,19,W,AUS,A,67.8,71 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,75,79,-82,79,101,104,107,107,186
 3,2,4,BILLEN Jeenat,1821,2001-03-28,18.3,W,CAN,A,67.8,71 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,80,-83,-83,80,99,102,-104,102,182
 4,4,3,HANSEN Samantha Leigh,5171,1999-07-02,20,W,NZL,A,69.5,71 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,73,-76,76,76,98,102,-106,102,178
@@ -63,16 +63,16 @@ NA,6,NA,RAOBU Manuila,11282,2000-09-18,18.8,M,TUV,A,65.7,67 kg Men,0,0,468,2019 
 3,3,2,DETUDAMO Uea,3405,1999-12-16,19.6,M,NRU,B,73.25,81 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,110,115,-118,115,137,142,146,146,261
 4,5,4,LEILUA Tavita,7645,2002-09-30,16.8,M,SAM,B,79.45,81 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-85,85,95,95,115,121,125,125,220
 NA,4,NA,LOHIA Igo,7950,1999-09-16,19.8,M,PNG,B,76.5,81 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-105,105,111,111,-135,-135,-135,NA,NA
-1,1,1,SIVE PETELO Leotina Kolotita,12768,2001-07-18,18,W,SAM,A,78.8,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,85,89,-92,89,105,110,-114,110,199
-2,2,2,UEPA Ariana,13906,1999-11-04,19.7,W,NRU,A,78.35,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,68,71,-74,71,87,91,-95,91,162
+1,1,1,SIVE PETELO Leotina Kolotita,12767,2001-07-18,18,W,SAM,A,78.8,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,85,89,-92,89,105,110,-114,110,199
+2,2,2,UEPA Ariana,13905,1999-11-04,19.7,W,NRU,A,78.35,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,68,71,-74,71,87,91,-95,91,162
 3,3,3,MCDONALD Mata Noko,8716,2000-03-26,19.3,W,COK,A,80.35,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,64,-67,67,67,88,-93,-93,88,155
 4,4,4,AGIR J-La Jojay,248,2003-02-11,16.4,W,NRU,A,76.65,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-66,66,-69,66,83,87,-90,87,153
-5,5,5,VUSONITOKALAU Merewalesi,14331,1999-06-09,20.1,W,FIJ,A,79.75,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-60,60,-65,60,80,-85,-85,80,140
+5,5,5,VUSONITOKALAU Merewalesi,14330,1999-06-09,20.1,W,FIJ,A,79.75,81 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-60,60,-65,60,80,-85,-85,80,140
 1,1,2,PEREIRA Loto,10628,2000-07-07,19,W,SAM,A,81.9,87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,65,70,73,73,85,90,-94,90,163
 2,2,1,DETENAMO Roviel,3403,2003-09-16,15.8,W,NRU,A,86.2,87 kg Women,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-70,-70,70,70,-88,88,93,93,163
 1,1,1,OPELOGE Don,10145,1999-05-13,20.2,M,SAM,A,88.05,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,145,-151,-157,145,-185,185,193,193,338
-2,2,2,WARD Benjamin Harry,14427,2000-09-26,18.8,M,AUS,A,88.85,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,133,138,-143,138,161,-167,-171,161,299
-3,3,4,VAKURUIVALU Timothy Victor Tuitoga,14021,1999-09-16,19.8,M,FIJ,A,87.05,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,111,115,120,120,138,-143,-143,138,258
+2,2,2,WARD Benjamin Harry,14426,2000-09-26,18.8,M,AUS,A,88.85,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,133,138,-143,138,161,-167,-171,161,299
+3,3,4,VAKURUIVALU Timothy Victor Tuitoga,14020,1999-09-16,19.8,M,FIJ,A,87.05,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,111,115,120,120,138,-143,-143,138,258
 4,4,3,COOK Marcincy,2963,2002-04-16,17.2,M,NRU,A,89,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-106,106,110,110,133,137,141,141,251
 5,5,5,SIMOI Sepa,12686,2002-02-11,17.4,M,PNG,A,86.95,89 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,85,91,94,94,115,124,130,130,224
 1,1,1,"NANAI LIVI Maeu",9588,1999-01-29,20.4,M,SAM,A,92.99,96 kg Men,0,0,468,2019 Commonwealth Junior Championships,2019-07-09,-146,146,154,154,-174,174,181,181,335

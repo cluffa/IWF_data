@@ -1,6 +1,6 @@
 total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,nation,group,bw,category,dq,old_classes,event_id,event,date,snatch_lift1,snatch_lift2,snatch_lift3,snatch_best,cleanjerk_lift1,cleanjerk_lift2,cleanjerk_lift3,cleanjerk_best,total
 1,1,1,DAVOUDI Ali,3245,1999-03-22,19.9,M,IRI,A,167.3,+109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,190,-200,-200,190,231,-240,-242,231,421
-2,2,2,SOLEYMANI Alireza,12872,1996-02-17,23,M,IRI,A,111.5,+109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,170,-175,-175,175,205,212,-217,212,382
+2,2,2,SOLEYMANI Alireza,12871,1996-02-17,23,M,IRI,A,111.5,+109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,170,-175,-175,175,205,212,-217,212,382
 3,3,3,AL-DARRAJI Mohammed Hadi Kadhim,452,1998-07-25,20.6,M,IRQ,A,133,+109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,150,157,162,162,190,195,-200,195,357
 1,1,3,HASHEMI Ali,5243,1991-11-01,27.3,M,IRI,A,106.5,109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,175,-180,182,182,215,222,-232,222,404
 2,3,1,GHADAMI Kia,4567,1991-01-26,28.1,M,IRI,A,109,109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,173,-178,-178,173,211,231,-235,231,404
@@ -10,7 +10,7 @@ total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,n
 6,5,6,HOFMANN Matthaeus Klaus Lorant Georg,5489,1994-06-28,24.7,M,GER,A,108,109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,160,165,168,168,188,193,198,198,366
 NA,NA,NA,ALAIFURI Salwan Jasim Abbood,510,1991-09-26,27.4,M,IRQ,A,106,109 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,-180,NA,NA,NA,NA,NA,NA,NA,NA
 1,1,1,MAU Jon Luke,8661,1998-10-02,20.4,M,GER,A,60.95,61 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,113,118,-122,118,148,153,156,156,274
-2,2,2,TOPTAS Caner,13683,2001-08-14,17.5,M,TUR,A,60.95,61 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,108,114,-119,114,125,130,135,135,249
+2,2,2,TOPTAS Caner,13682,2001-08-14,17.5,M,TUR,A,60.95,61 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,108,114,-119,114,125,130,135,135,249
 3,3,3,AL AJARMEH Hamzeh Ahmad Awad,393,2002-06-27,16.7,M,JOR,A,58.7,61 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,65,71,74,74,78,-83,86,86,160
 1,1,1,AL-ZUBAIDI Mohammed Ali Wahhab,489,1996-01-01,23.2,M,IRQ,A,66.8,67 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,124,-130,-130,124,-156,-156,156,156,280
 2,2,2,NEMER Zaid Mohammad Ayoub,9712,2002-09-05,16.5,M,JOR,A,65.6,67 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,75,80,87,87,95,105,112,112,199
@@ -20,7 +20,7 @@ NA,NA,NA,ALAIFURI Salwan Jasim Abbood,510,1991-09-26,27.4,M,IRQ,A,106,109 kg Men
 NA,1,NA,ISMAYILOV Daniyar,5901,1992-02-03,27.1,M,TUR,A,67.6,73 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,150,154,-157,154,-175,-175,-175,NA,NA
 NA,NA,3,ATABAYEV Guvanch,1192,1994-04-14,24.9,M,TKM,A,72,73 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,-133,-133,-134,NA,-160,160,-170,160,NA
 1,2,1,MUELLER Nico,9359,1993-11-02,25.3,M,GER,A,80.8,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,150,154,157,157,188,193,198,198,355
-2,1,3,SUHAREVS Ritvars,13151,1999-01-11,20.1,M,LAT,A,80.4,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,152,156,160,160,185,-190,-191,185,345
+2,1,3,SUHAREVS Ritvars,13150,1999-01-11,20.1,M,LAT,A,80.4,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,152,156,160,160,185,-190,-191,185,345
 3,4,2,ALJUMAILI Safaa Rashid Mahmood,678,1990-01-01,29.2,M,IRQ,A,80.7,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,147,152,-155,152,190,-194,-194,190,342
 4,3,4,LANG Max Richard,7473,1992-12-06,26.2,M,GER,A,80.4,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,148,153,-156,153,180,185,-190,185,338
 5,5,5,JAVADI ALIABADI Mir Mostafa,6050,2000-06-22,18.7,M,IRI,A,78.4,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,145,150,-155,150,181,-191,-191,181,331
@@ -28,7 +28,7 @@ NA,NA,3,ATABAYEV Guvanch,1192,1994-04-14,24.9,M,TKM,A,72,73 kg Men,0,0,451,4th I
 7,7,7,SHOHRADOV Shatlyk,12590,2000-03-04,19,M,TKM,A,77.4,81 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,136,140,144,144,165,169,-172,169,313
 1,1,1,ROSTAMI Kianoush,11735,1991-07-23,27.6,M,IRI,A,94,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,161,172,NA,172,200,210,220,220,392
 2,2,2,KOZEVNIKOVS Vadims,7167,1994-02-01,25.1,M,LAT,A,95.54,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,151,156,160,160,196,-202,202,202,362
-3,3,3,SPIESS Jurgen Christian,12971,1984-03-26,34.9,M,GER,A,95.85,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,153,157,160,160,188,195,-200,195,355
+3,3,3,SPIESS Jurgen Christian,12970,1984-03-26,34.9,M,GER,A,95.85,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,153,157,160,160,188,195,-200,195,355
 4,4,4,MEREDOV Izzatbek,8852,1996-06-03,22.7,M,TKM,A,91.2,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,-145,145,150,150,181,-187,-187,181,331
 5,5,5,SERDAROV Azat,12395,1999-02-07,20.1,M,TKM,A,95.6,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,-135,135,139,139,170,175,-180,175,314
 6,6,6,ALABOUDI Khaled Awad Bahjat,499,2000-05-28,18.8,M,JOR,A,84.3,96 kg Men,0,0,451,4th International Fajr Cup,2019-03-01,-133,133,-140,133,160,168,171,171,304

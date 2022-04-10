@@ -76,7 +76,8 @@ athlete_ids <- bind_rows(
   results_names_dirty,
   athletes_dirty %>%
     select(name, country, born, gender) %>%
-    rename(nation = country)
+    rename(nation = country) %>%
+    mutate(gender = toupper(gender))
   ) %>%
   group_by(name, born, gender) %>%
   summarise(name, born, toString(nation), gender) %>%
@@ -95,7 +96,8 @@ athletes_dirty <- fix_dob(athletes_dirty, overrides$names, overrides$real_dob)
 
 athletes <- athletes_dirty %>%
   mutate(
-    nation = country
+    nation = country,
+    gender = toupper(gender)
   ) %>%
   bind_rows(results_names_dirty) %>%
   distinct() %>%
