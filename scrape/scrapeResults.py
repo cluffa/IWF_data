@@ -1,13 +1,23 @@
 # This script will scrape https://iwf.sport/results
 # for iwf sanctioned event results
-
+# %%
 from bs4 import BeautifulSoup
 import bs4
 import requests
 import pandas as pd
 import numpy as np
+import os
 
+# file directory
+dir = os.path.dirname(__file__)
+
+existing_ids = [int(file.split('_')[0]) for file in os.listdir(f'{dir}/../raw_data/results/')]
+
+# %%
 def scrape_url(id: int = 522):
+    if id in existing_ids:
+        return
+
     """scrapes results page
 
     Args:
@@ -107,7 +117,7 @@ def scrape_url(id: int = 522):
     #df['event'] = event
     df['event_id'] = id
     df['old_classes'] = old_classes
-    file = '../raw_data/results/' + str(id) + ' ' + event + '.csv'
+    file = f'{dir}/../raw_data/results/' + str(id) + ' ' + event + '.csv'
     file = file.replace(' ', '_').replace('-', '_')
     df.to_csv(file, index=False)
 
@@ -129,7 +139,11 @@ def scrape_pass_errors(id):
 
 import multiprocessing as mp
 
-ids = pd.read_csv('../raw_data/events.csv')['id']
+ids = pd.read_csv(f'{dir}/../raw_data/events.csv')['id']
+
+def updateResults():
+    for id in ids:
+        scrape_pass_errors(id)
 
 if __name__ == "__main__":
     pool = mp.Pool(mp.cpu_count())

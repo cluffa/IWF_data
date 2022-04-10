@@ -5,22 +5,29 @@ import bs4
 import requests
 import pandas as pd
 import numpy as np
-df = pd.DataFrame({'name':[], 'born':[], 'gender':[], 'country':[]})
+import os
 
-url = 'https://iwf.sport/results/results-by-events/?athlete_name=&athlete_gender=all&athlete_nation=all'
+def updateAthletes():
+    dir = os.path.dirname(__file__)
 
-req = requests.get(url)
-content = req.text
-soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
+    df = pd.DataFrame({'name':[], 'born':[], 'gender':[], 'country':[]})
 
-for line in soup.find_all('div', 'row'):
-    row = []
-    for item in line:
-        row.append(item.get_text().strip().split(': ')[-1])
+    url = 'https://iwf.sport/results/results-by-events/?athlete_name=&athlete_gender=all&athlete_nation=all'
 
-    temp = pd.DataFrame({'name':[row[1]], 'born':[row[3]], 'gender':[row[5]], 'country':[row[7]]})
+    req = requests.get(url)
+    content = req.text
+    soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
 
-    df = df.append(temp)
+    for line in soup.find_all('div', 'row'):
+        row = []
+        for item in line:
+            row.append(item.get_text().strip().split(': ')[-1])
 
-print(df.head(10))
-df.to_csv('../raw_data/athletes.csv', index=False)
+        temp = pd.DataFrame({'name':[row[1]], 'born':[row[3]], 'gender':[row[5]], 'country':[row[7]]})
+
+        df = pd.concat((df, temp))
+
+    df.to_csv(f'{dir}/../raw_data/athletes.csv', index=False)
+
+if __name__ == "__main__":
+    updateAthletes()

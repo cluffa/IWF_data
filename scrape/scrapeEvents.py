@@ -6,41 +6,49 @@ import bs4
 import requests
 import pandas as pd
 import numpy as np
-combined = pd.DataFrame()
+import os
 
-urls = ['https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all',
-    'https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all']
+def updateEvents():
+    combined = pd.DataFrame()
 
-for url in urls:
-    df = pd.DataFrame()
-    req = requests.get(url)
-    content = req.text
-    soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
+    dir = os.path.dirname(__file__)
 
-    ids = []
-    for id in soup.find_all('a', 'card', href=True):
-        ids.append(int(id['href'].replace('?event_id=', '')))
+    urls = ['https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all',
+        'https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all']
 
-    df['id'] = ids
+    for url in urls:
+        df = pd.DataFrame()
+        req = requests.get(url)
+        content = req.text
+        soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
 
-    events = []
-    for event in soup.find_all('span', 'text'):
-        events.append(event.get_text())
+        ids = []
+        for id in soup.find_all('a', 'card', href=True):
+            ids.append(int(id['href'].replace('?event_id=', '')))
 
-    df['event'] = events
+        df['id'] = ids
 
-    dates = []
-    for date in soup.find_all('div', 'col-md-2 col-4 not__cell__767'):
-        dates.append(date.get_text().strip())
+        events = []
+        for event in soup.find_all('span', 'text'):
+            events.append(event.get_text())
 
-    df['date'] = dates
+        df['event'] = events
 
-    locations = []
-    for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
-        locations.append(country.get_text().strip())
+        dates = []
+        for date in soup.find_all('div', 'col-md-2 col-4 not__cell__767'):
+            dates.append(date.get_text().strip())
 
-    df['location'] = locations
+        df['date'] = dates
 
-    combined = combined.append(df)
+        locations = []
+        for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
+            locations.append(country.get_text().strip())
 
-combined.sort_values('id').to_csv('../raw_data/events.csv', index=False)
+        df['location'] = locations
+
+        combined = combined.append(df)
+
+    combined.sort_values('id').to_csv(f'{dir}/../raw_data/events.csv', index=False)
+
+if __name__ == "__main__":
+    updateEvents()
