@@ -5,13 +5,13 @@ library(parallel)
 
 update_data <- FALSE
 
-if(update_data) {
-  library(reticulate)
-  use_condaenv('base')
-  py_run_file('./scrape/scrapeEvents.py')
-  py_run_file('./scrape/scrapeAthletes.py')
-  py_run_file('./scrape/scrapeResults.py')
-}
+# if (update_data) {
+#   library(reticulate)
+#   use_condaenv('base')
+#   py_run_file('./scrape/scrapeEvents.py')
+#   py_run_file('./scrape/scrapeAthletes.py')
+#   py_run_file('./scrape/scrapeResults.py')
+# }
 
 ########## reading in files ###########
 
@@ -24,15 +24,15 @@ iso_codes <- read_csv("./clean_data/iso_code.csv", show_col_types = FALSE)
 ############# manual fixes ##############
 
 fix_dob <- function(data, athlete_name, real_dob) {
-  if(length(athlete_name) > 1) { # apply for all names if more than 1
+  if (length(athlete_name) > 1) { # apply for all names if more than 1
     for (i in 1:length(athlete_name)) {
       data = fix_dob(data, athlete_name[i], real_dob[i])
     }
     return(data)
-  } else if('list' %in% class(data)) { # apply to all dfs if list of dfs
+  } else if ('list' %in% class(data)) { # apply to all dfs if list of dfs
     return(lapply(data, fix_dob, athlete_name = athlete_name, real_dob = real_dob))
 
-  } else if('data.frame' %in% class(data)) { # apply to single df, single name
+  } else if ('data.frame' %in% class(data)) { # apply to single df, single name
     data$born = if_else(data$name == athlete_name, real_dob, data$born)
     return(data)
 
@@ -83,7 +83,9 @@ athlete_ids <- bind_rows(
   distinct() %>%
   rowid_to_column('athlete_id') %>%
   fix_dob(overrides$names, overrides$real_dob) %>%
-  mutate(date_of_birth = as_date(born, format = '%b %d, %Y')) %>%
+  mutate(
+    date_of_birth = as_date(born, format = '%b %d, %Y'),
+    gender = toupper(gender)) %>%
   select(athlete_id, name, gender, date_of_birth) %>%
   arrange(athlete_id)
 
@@ -121,11 +123,11 @@ athletes <- athletes_dirty %>%
 
 ############# cleaning events #########################
 get_age_group <- function(event_name) {
-  if(length(event_name) > 1) {
+  if (length(event_name) > 1) {
     return(as.vector(sapply(event_name, get_age_group)))
-  } else if(grepl('youth', event_name, ignore.case = TRUE)) {
+  } else if (grepl('youth', event_name, ignore.case = TRUE)) {
     return('youth')
-  } else if(grepl('junior|university', event_name, ignore.case = TRUE)) {
+  } else if (grepl('junior|university', event_name, ignore.case = TRUE)) {
     return('junior')
   } else {
     return('senior')
@@ -171,7 +173,7 @@ clean_results <- function(df) {
   # This function cleans an event result dataframe
 
   # fix for small events where there are no groups. shift columns left and set group as A.
-  if((str_length(df$group)[1] > 1) && (sum(!is.na(df$lift4)) == 0 )) {
+  if ((str_length(df$group)[1] > 1) && (sum(!is.na(df$lift4)) == 0 )) {
     df[7:10] <- df[6:9]
     df$group <- 'A'
   }
@@ -205,7 +207,9 @@ clean_results <- function(df) {
         c(rank, event_id, old_classes, dq),
         as.integer
       ),
-      category = str_replace(cat, 'kg', ' kg ')
+      category = str_replace(cat, 'kg', ' kg '),
+      category = str_replace(category, 'P', '+'),
+      category = str_replace(category, 'p', '+')
     ) %>%
     pivot_wider( # pivot lifts by section
       id_cols = c(name, dq, nation, date_of_birth, bw, group, category, event_id, old_classes, age, date, event),
