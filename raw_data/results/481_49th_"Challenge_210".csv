@@ -1,0 +1,106 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,LI Fabin,CHN,"Jan 15, 1993",60.66,A,120,125,130,130,61kgMen,Snatch,481,False
+1,LI Fabin,CHN,"Jan 15, 1993",60.66,A,146,153,160,160,61kgMen,CleanJerk,481,False
+1,LI Fabin,CHN,"Jan 15, 1993",60.66,A,130,160,290,,61kgMen,Total,481,False
+1,HAN Myeongmok,KOR,"Feb 01, 1991",66.70,A,128,134,139,139,67kgMen,Snatch,481,False
+2,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.85,A,-127,127,133,133,67kgMen,Snatch,481,False
+3,QIN Fulin,CHN,"Jan 12, 1994",64.96,A,110,120,-130,120,67kgMen,Snatch,481,False
+1,QIN Fulin,CHN,"Jan 12, 1994",64.96,A,140,155,165,165,67kgMen,CleanJerk,481,False
+2,HAN Myeongmok,KOR,"Feb 01, 1991",66.70,A,150,-160,160,160,67kgMen,CleanJerk,481,False
+3,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.85,A,-150,150,155,155,67kgMen,CleanJerk,481,False
+1,HAN Myeongmok,KOR,"Feb 01, 1991",66.70,A,139,160,299,,67kgMen,Total,481,False
+2,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.85,A,133,155,288,,67kgMen,Total,481,False
+3,QIN Fulin,CHN,"Jan 12, 1994",64.96,A,120,165,285,,67kgMen,Total,481,False
+1,FENG Lyudong,CHN,"Oct 23, 1991",70.77,A,135,140,150,150,73kgMen,Snatch,481,False
+2,CHEN Lijun,CHN,"Feb 08, 1993",70.55,A,110,115,120,120,73kgMen,Snatch,481,False
+---,LEE Alex,USA,"Nov 18, 1988",69.13,A,---,---,---,---,73kgMen,Snatch,481,False
+1,FENG Lyudong,CHN,"Oct 23, 1991",70.77,A,150,160,165,165,73kgMen,CleanJerk,481,False
+2,CHEN Lijun,CHN,"Feb 08, 1993",70.55,A,140,145,150,150,73kgMen,CleanJerk,481,False
+---,LEE Alex,USA,"Nov 18, 1988",69.13,A,---,---,---,---,73kgMen,CleanJerk,481,False
+1,FENG Lyudong,CHN,"Oct 23, 1991",70.77,A,150,165,315,,73kgMen,Total,481,False
+2,CHEN Lijun,CHN,"Feb 08, 1993",70.55,A,120,150,270,,73kgMen,Total,481,False
+---,LEE Alex,USA,"Nov 18, 1988",69.13,A,---,---,---,,73kgMen,Total,481,False
+1,SHI Zhiyong,CHN,"Oct 10, 1993",77.39,A,130,140,150,150,81kgMen,Snatch,481,False
+---,LYU Xiaojun,CHN,"Jul 27, 1984",79.87,A,---,---,---,---,81kgMen,Snatch,481,False
+1,SHI Zhiyong,CHN,"Oct 10, 1993",77.39,A,160,170,180,180,81kgMen,CleanJerk,481,False
+---,LYU Xiaojun,CHN,"Jul 27, 1984",79.87,A,---,---,---,---,81kgMen,CleanJerk,481,False
+1,SHI Zhiyong,CHN,"Oct 10, 1993",77.39,A,150,180,330,,81kgMen,Total,481,False
+---,LYU Xiaojun,CHN,"Jul 27, 1984",79.87,A,---,---,---,,81kgMen,Total,481,False
+1,LI Dayin,CHN,"Feb 12, 1998",85.77,A,150,160,170,170,89kgMen,Snatch,481,False
+2,TERMIGNONE Dany,SUI,"Mar 15, 1987",82.51,A,115,-120,-120,115,89kgMen,Snatch,481,False
+3,KIM Woo Jae,KOR,"Sep 26, 1991",82.71,A,90,100,---,100,89kgMen,Snatch,481,False
+1,LI Dayin,CHN,"Feb 12, 1998",85.77,A,172,---,---,172,89kgMen,CleanJerk,481,False
+2,TERMIGNONE Dany,SUI,"Mar 15, 1987",82.51,A,140,-145,-145,140,89kgMen,CleanJerk,481,False
+3,KIM Woo Jae,KOR,"Sep 26, 1991",82.71,A,100,---,---,100,89kgMen,CleanJerk,481,False
+1,LI Dayin,CHN,"Feb 12, 1998",85.77,A,170,172,342,,89kgMen,Total,481,False
+2,TERMIGNONE Dany,SUI,"Mar 15, 1987",82.51,A,115,140,255,,89kgMen,Total,481,False
+3,KIM Woo Jae,KOR,"Sep 26, 1991",82.71,A,100,100,200,,89kgMen,Total,481,False
+1,YU Dongju,KOR,"Aug 19, 1993",90.24,A,120,135,139,139,96kgMen,Snatch,481,False
+2,TSCHAN Yannick,SUI,"Aug 30, 1996",94.32,A,-134,134,138,138,96kgMen,Snatch,481,False
+1,YU Dongju,KOR,"Aug 19, 1993",90.24,A,170,---,---,170,96kgMen,CleanJerk,481,False
+2,TSCHAN Yannick,SUI,"Aug 30, 1996",94.32,A,167,-171,-173,167,96kgMen,CleanJerk,481,False
+1,YU Dongju,KOR,"Aug 19, 1993",90.24,A,139,170,309,,96kgMen,Total,481,False
+2,TSCHAN Yannick,SUI,"Aug 30, 1996",94.32,A,138,167,305,,96kgMen,Total,481,False
+1,TIAN Tao,CHN,"Apr 08, 1994",99.08,A,130,140,150,150,102kgMen,Snatch,481,False
+2,MORADI Sohrab,IRI,"Sep 22, 1988",97.43,A,80,---,---,80,102kgMen,Snatch,481,False
+1,TIAN Tao,CHN,"Apr 08, 1994",99.08,A,150,160,170,170,102kgMen,CleanJerk,481,False
+2,MORADI Sohrab,IRI,"Sep 22, 1988",97.43,A,110,120,---,120,102kgMen,CleanJerk,481,False
+1,TIAN Tao,CHN,"Apr 08, 1994",99.08,A,150,170,320,,102kgMen,Total,481,False
+2,MORADI Sohrab,IRI,"Sep 22, 1988",97.43,A,80,120,200,,102kgMen,Total,481,False
+1,WITTE Keiser Andrew,USA,"Mar 15, 1995",143.51,A,180,185,-190,185,+109kgMen,Snatch,481,False
+2,ASAAD Man,SYR,"Nov 20, 1993",147.26,A,170,180,-190,180,+109kgMen,Snatch,481,False
+3,YANG Zhe,CHN,"Jul 14, 1991",111.45,A,150,160,170,170,+109kgMen,Snatch,481,False
+1,ASAAD Man,SYR,"Nov 20, 1993",147.26,A,210,220,233,233,+109kgMen,CleanJerk,481,False
+2,WITTE Keiser Andrew,USA,"Mar 15, 1995",143.51,A,-211,-211,211,211,+109kgMen,CleanJerk,481,False
+3,YANG Zhe,CHN,"Jul 14, 1991",111.45,A,170,180,---,180,+109kgMen,CleanJerk,481,False
+1,ASAAD Man,SYR,"Nov 20, 1993",147.26,A,180,233,413,,+109kgMen,Total,481,False
+2,WITTE Keiser Andrew,USA,"Mar 15, 1995",143.51,A,185,211,396,,+109kgMen,Total,481,False
+3,YANG Zhe,CHN,"Jul 14, 1991",111.45,A,170,180,350,,+109kgMen,Total,481,False
+1,OLIVEIRA MADEIRA Luana,BRA,"Jan 31, 1998",48.96,A,77,80,-82,80,49kgWomen,Snatch,481,False
+1,OLIVEIRA MADEIRA Luana,BRA,"Jan 31, 1998",48.96,A,92,-95,96,96,49kgWomen,CleanJerk,481,False
+1,OLIVEIRA MADEIRA Luana,BRA,"Jan 31, 1998",48.96,A,80,96,176,,49kgWomen,Total,481,False
+1,ZHANG Wanqiong,CHN,"Jan 21, 1994",54.89,A,88,93,96,96,55kgWomen,Snatch,481,False
+1,ZHANG Wanqiong,CHN,"Jan 21, 1994",54.89,A,110,118,121,121,55kgWomen,CleanJerk,481,False
+1,ZHANG Wanqiong,CHN,"Jan 21, 1994",54.89,A,96,121,217,,55kgWomen,Total,481,False
+1,DARSIGNY Tali,CAN,"Mar 08, 1998",58.99,A,88,91,93,93,59kgWomen,Snatch,481,False
+2,TURNER Taylor Nicole,USA,"May 26, 1997",58.71,A,88,91,-93,91,59kgWomen,Snatch,481,False
+3,MEISTER Scheila,SUI,"May 02, 1987",58.57,A,70,74,76,76,59kgWomen,Snatch,481,False
+4,STESL Nastasja,SLO,"May 28, 1991",58.33,A,71,74,76,76,59kgWomen,Snatch,481,False
+1,TURNER Taylor Nicole,USA,"May 26, 1997",58.71,A,111,-116,-118,111,59kgWomen,CleanJerk,481,False
+2,DARSIGNY Tali,CAN,"Mar 08, 1998",58.99,A,106,110,-113,110,59kgWomen,CleanJerk,481,False
+3,MEISTER Scheila,SUI,"May 02, 1987",58.57,A,90,93,-95,93,59kgWomen,CleanJerk,481,False
+4,STESL Nastasja,SLO,"May 28, 1991",58.33,A,89,92,-94,92,59kgWomen,CleanJerk,481,False
+1,DARSIGNY Tali,CAN,"Mar 08, 1998",58.99,A,93,110,203,,59kgWomen,Total,481,False
+2,TURNER Taylor Nicole,USA,"May 26, 1997",58.71,A,91,111,202,,59kgWomen,Total,481,False
+3,MEISTER Scheila,SUI,"May 02, 1987",58.57,A,76,93,169,,59kgWomen,Total,481,False
+4,STESL Nastasja,SLO,"May 28, 1991",58.33,A,76,92,168,,59kgWomen,Total,481,False
+1,HORNA Ivana,SVK,"Aug 31, 1990",63.41,A,79,83,85,85,64kgWomen,Snatch,481,False
+2,BARBIER Clarisse Nathalie Julie,FRA,"Jun 03, 2000",61.94,A,63,67,-70,67,64kgWomen,Snatch,481,False
+1,HORNA Ivana,SVK,"Aug 31, 1990",63.41,A,-98,-98,98,98,64kgWomen,CleanJerk,481,False
+2,BARBIER Clarisse Nathalie Julie,FRA,"Jun 03, 2000",61.94,A,80,84,-87,84,64kgWomen,CleanJerk,481,False
+1,HORNA Ivana,SVK,"Aug 31, 1990",63.41,A,85,98,183,,64kgWomen,Total,481,False
+2,BARBIER Clarisse Nathalie Julie,FRA,"Jun 03, 2000",61.94,A,67,84,151,,64kgWomen,Total,481,False
+1,SEAMON Jillian Marie,USA,"Jun 14, 1990",70.72,A,90,93,-96,93,71kgWomen,Snatch,481,False
+2,DESTRIBATS Manon,FRA,"Nov 12, 2000",67.27,A,77,80,-83,80,71kgWomen,Snatch,481,False
+1,SEAMON Jillian Marie,USA,"Jun 14, 1990",70.72,A,110,114,-117,114,71kgWomen,CleanJerk,481,False
+2,DESTRIBATS Manon,FRA,"Nov 12, 2000",67.27,A,97,-100,-100,97,71kgWomen,CleanJerk,481,False
+1,SEAMON Jillian Marie,USA,"Jun 14, 1990",70.72,A,93,114,207,,71kgWomen,Total,481,False
+2,DESTRIBATS Manon,FRA,"Nov 12, 2000",67.27,A,80,97,177,,71kgWomen,Total,481,False
+1,JAEGGI Nora,SUI,"Apr 16, 1995",75.52,A,-90,90,94,94,76kgWomen,Snatch,481,False
+1,JAEGGI Nora,SUI,"Apr 16, 1995",75.52,A,115,-119,119,119,76kgWomen,CleanJerk,481,False
+1,JAEGGI Nora,SUI,"Apr 16, 1995",75.52,A,94,119,213,,76kgWomen,Total,481,False
+1,MESHITKHANOVA Raushan,KAZ,"Nov 24, 1995",79.69,A,-90,90,95,95,81kgWomen,Snatch,481,False
+1,MESHITKHANOVA Raushan,KAZ,"Nov 24, 1995",79.69,A,105,-110,110,110,81kgWomen,CleanJerk,481,False
+1,MESHITKHANOVA Raushan,KAZ,"Nov 24, 1995",79.69,A,95,110,205,,81kgWomen,Total,481,False
+1,KANG Yue,CHN,"Oct 08, 1991",86.12,A,-110,110,120,120,87kgWomen,Snatch,481,False
+2,SZUROMI Timea Reka,HUN,"Oct 30, 1983",81.81,A,90,93,-96,93,87kgWomen,Snatch,481,False
+1,KANG Yue,CHN,"Oct 08, 1991",86.12,A,140,-150,-150,140,87kgWomen,CleanJerk,481,False
+2,SZUROMI Timea Reka,HUN,"Oct 30, 1983",81.81,A,110,115,119,119,87kgWomen,CleanJerk,481,False
+1,KANG Yue,CHN,"Oct 08, 1991",86.12,A,120,140,260,,87kgWomen,Total,481,False
+2,SZUROMI Timea Reka,HUN,"Oct 30, 1983",81.81,A,93,119,212,,87kgWomen,Total,481,False
+1,LI Wenwen,CHN,"Mar 05, 2000",149.64,A,110,120,130,130,+87kgWomen,Snatch,481,False
+2,SON Younghee,KOR,"Apr 24, 1993",113.41,A,100,105,111,111,+87kgWomen,Snatch,481,False
+1,LI Wenwen,CHN,"Mar 05, 2000",149.64,A,150,160,165,165,+87kgWomen,CleanJerk,481,False
+2,SON Younghee,KOR,"Apr 24, 1993",113.41,A,130,135,141,141,+87kgWomen,CleanJerk,481,False
+1,LI Wenwen,CHN,"Mar 05, 2000",149.64,A,130,165,295,,+87kgWomen,Total,481,False
+2,SON Younghee,KOR,"Apr 24, 1993",113.41,A,111,141,252,,+87kgWomen,Total,481,False
