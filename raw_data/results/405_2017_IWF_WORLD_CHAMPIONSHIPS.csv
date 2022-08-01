@@ -3,38 +3,38 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 2,TRAN Le Quoc Toan,VIE,"Apr 05, 1989",55.68,A,-119,119,-122,119,56kgMen,Snatch,405,True
 3,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.84,A,116,118,-120,118,56kgMen,Snatch,405,True
 4,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.92,A,113,-116,117,117,56kgMen,Snatch,405,True
-5,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,115,-118,-119,115,56kgMen,Snatch,405,True
-6,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,108,-112,112,112,56kgMen,Snatch,405,True
-7,MUHAMMAD Azroy Hazalwafie,MAS,"Apr 04, 1994",55.84,A,-111,111,-114,111,56kgMen,Snatch,405,True
-8,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,-105,-105,105,105,56kgMen,Snatch,405,True
-9,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,103,-107,-107,103,56kgMen,Snatch,405,True
-10,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,100,103,-105,103,56kgMen,Snatch,405,True
+5,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,108,-112,112,112,56kgMen,Snatch,405,True
+6,MUHAMMAD Azroy Hazalwafie,MAS,"Apr 04, 1994",55.84,A,-111,111,-114,111,56kgMen,Snatch,405,True
+7,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,-105,-105,105,105,56kgMen,Snatch,405,True
+8,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,103,-107,-107,103,56kgMen,Snatch,405,True
+9,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,100,103,-105,103,56kgMen,Snatch,405,True
 ---,SCARANTINO Mirco,ITA,"Jan 16, 1995",55.95,A,-114,-114,-114,---,56kgMen,Snatch,405,True
 ---,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.38,A,-110,-110,-110,---,56kgMen,Snatch,405,True
+DSQ,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,115,-118,-119,---,56kgMen,Snatch,405,True
 1,THACH Kim Tuan,VIE,"Jan 15, 1994",55.88,A,150,153,-158,153,56kgMen,CleanJerk,405,True
-2,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,147,152,-155,152,56kgMen,CleanJerk,405,True
-3,TRAN Le Quoc Toan,VIE,"Apr 05, 1989",55.68,A,151,-154,-154,151,56kgMen,CleanJerk,405,True
-4,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.92,A,-144,144,149,149,56kgMen,CleanJerk,405,True
-5,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.84,A,135,138,140,140,56kgMen,CleanJerk,405,True
-6,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,138,-143,-143,138,56kgMen,CleanJerk,405,True
-7,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,131,135,137,137,56kgMen,CleanJerk,405,True
-8,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,130,135,-138,135,56kgMen,CleanJerk,405,True
-9,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,127,-132,-132,127,56kgMen,CleanJerk,405,True
+2,TRAN Le Quoc Toan,VIE,"Apr 05, 1989",55.68,A,151,-154,-154,151,56kgMen,CleanJerk,405,True
+3,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.92,A,-144,144,149,149,56kgMen,CleanJerk,405,True
+4,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.84,A,135,138,140,140,56kgMen,CleanJerk,405,True
+5,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,138,-143,-143,138,56kgMen,CleanJerk,405,True
+6,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,131,135,137,137,56kgMen,CleanJerk,405,True
+7,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,130,135,-138,135,56kgMen,CleanJerk,405,True
+8,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,127,-132,-132,127,56kgMen,CleanJerk,405,True
 ---,SCARANTINO Mirco,ITA,"Jan 16, 1995",55.95,A,---,---,---,---,56kgMen,CleanJerk,405,True
 ---,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.38,A,-143,---,---,---,56kgMen,CleanJerk,405,True
 ---,MUHAMMAD Azroy Hazalwafie,MAS,"Apr 04, 1994",55.84,A,-132,-132,-132,---,56kgMen,CleanJerk,405,True
+DSQ,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,147,152,-155,---,56kgMen,CleanJerk,405,True
 1,THACH Kim Tuan,VIE,"Jan 15, 1994",55.88,A,126,153,279,,56kgMen,Total,405,True
 2,TRAN Le Quoc Toan,VIE,"Apr 05, 1989",55.68,A,119,151,270,,56kgMen,Total,405,True
-3,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,115,152,267,,56kgMen,Total,405,True
-4,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.92,A,117,149,266,,56kgMen,Total,405,True
-5,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.84,A,118,140,258,,56kgMen,Total,405,True
-6,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,112,138,250,,56kgMen,Total,405,True
-7,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,103,137,240,,56kgMen,Total,405,True
-8,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,103,135,238,,56kgMen,Total,405,True
-9,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,105,127,232,,56kgMen,Total,405,True
+3,BERNA GONZALEZ Carlos Andres,COL,"Jan 21, 1990",55.92,A,117,149,266,,56kgMen,Total,405,True
+4,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.84,A,118,140,258,,56kgMen,Total,405,True
+5,ALSALEEM Seraj Abdulrahim M,KSA,"Feb 10, 1996",55.93,A,112,138,250,,56kgMen,Total,405,True
+6,ROJAS CONCHA Marcos Antonio,PER,"Jun 02, 1995",55.66,A,103,137,240,,56kgMen,Total,405,True
+7,TULO Manueli,FIJ,"Mar 25, 1990",55.77,A,103,135,238,,56kgMen,Total,405,True
+8,REISENAUER Brian James,USA,"Oct 25, 1988",55.95,A,105,127,232,,56kgMen,Total,405,True
 ---,SCARANTINO Mirco,ITA,"Jan 16, 1995",55.95,A,---,---,---,,56kgMen,Total,405,True
 ---,DE LAS SALAS DE LA ROSA Habib,COL,"Apr 19, 1987",55.38,A,---,---,---,,56kgMen,Total,405,True
 ---,MUHAMMAD Azroy Hazalwafie,MAS,"Apr 04, 1994",55.84,A,111,---,---,,56kgMen,Total,405,True
+DSQ,MINGMOON Witoon,THA,"Feb 10, 1996",55.82,A,---,---,---,,56kgMen,Total,405,True
 1,TRINH Van Vinh,VIE,"Dec 17, 1995",61.85,A,130,134,136,136,62kgMen,Snatch,405,True
 2,HAN Myeongmok,KOR,"Feb 01, 1991",61.90,A,-135,135,-137,135,62kgMen,Snatch,405,True
 3,ERGASHEV Adkhamjon,UZB,"Mar 12, 1999",61.85,A,-129,129,135,135,62kgMen,Snatch,405,True

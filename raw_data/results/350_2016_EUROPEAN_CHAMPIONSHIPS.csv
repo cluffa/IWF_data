@@ -48,59 +48,59 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 15,HENDERSON Samuel,GBR,"Oct 28, 1997",54.94,B,84,97,181,,56kgMen,Total,350,True
 16,BOGOJEVIC Georgije,CRO,"Aug 13, 1988",55.08,B,63,85,148,,56kgMen,Total,350,True
 1,BILGIN Erol,TUR,"Feb 20, 1987",61.55,A,126,130,133,133,62kgMen,Snatch,350,True
-2,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,125,130,133,133,62kgMen,Snatch,350,True
-3,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.33,A,125,-128,129,129,62kgMen,Snatch,350,True
-4,DUDOGLO Iuri,MDA,"Jul 09, 1991",61.25,A,124,126,128,128,62kgMen,Snatch,350,True
-5,ATAK Hursit,TUR,"May 24, 1991",61.68,A,126,-129,-129,126,62kgMen,Snatch,350,True
-6,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,117,121,124,124,62kgMen,Snatch,350,True
-7,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,118,121,123,123,62kgMen,Snatch,350,True
-8,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,-122,122,-126,122,62kgMen,Snatch,350,True
-9,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,-121,121,-126,121,62kgMen,Snatch,350,True
-10,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,115,119,-122,119,62kgMen,Snatch,350,True
-11,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,113,-117,117,117,62kgMen,Snatch,350,True
-12,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,109,113,116,116,62kgMen,Snatch,350,True
-13,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,115,-118,-118,115,62kgMen,Snatch,350,True
-14,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,110,113,-116,113,62kgMen,Snatch,350,True
-15,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,102,107,111,111,62kgMen,Snatch,350,True
-16,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,106,110,-113,110,62kgMen,Snatch,350,True
-17,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,95,100,-102,100,62kgMen,Snatch,350,True
+2,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.33,A,125,-128,129,129,62kgMen,Snatch,350,True
+3,DUDOGLO Iuri,MDA,"Jul 09, 1991",61.25,A,124,126,128,128,62kgMen,Snatch,350,True
+4,ATAK Hursit,TUR,"May 24, 1991",61.68,A,126,-129,-129,126,62kgMen,Snatch,350,True
+5,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,117,121,124,124,62kgMen,Snatch,350,True
+6,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,118,121,123,123,62kgMen,Snatch,350,True
+7,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,-122,122,-126,122,62kgMen,Snatch,350,True
+8,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,-121,121,-126,121,62kgMen,Snatch,350,True
+9,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,115,119,-122,119,62kgMen,Snatch,350,True
+10,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,113,-117,117,117,62kgMen,Snatch,350,True
+11,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,109,113,116,116,62kgMen,Snatch,350,True
+12,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,115,-118,-118,115,62kgMen,Snatch,350,True
+13,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,110,113,-116,113,62kgMen,Snatch,350,True
+14,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,102,107,111,111,62kgMen,Snatch,350,True
+15,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,106,110,-113,110,62kgMen,Snatch,350,True
+16,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,95,100,-102,100,62kgMen,Snatch,350,True
 ---,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.31,A,-123,-125,-125,---,62kgMen,Snatch,350,True
+DSQ,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,125,130,133,---,62kgMen,Snatch,350,True
 1,ATAK Hursit,TUR,"May 24, 1991",61.68,A,157,163,170,170,62kgMen,CleanJerk,350,True
 2,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.33,A,152,-155,159,159,62kgMen,CleanJerk,350,True
 3,DUDOGLO Iuri,MDA,"Jul 09, 1991",61.25,A,-155,-155,156,156,62kgMen,CleanJerk,350,True
-4,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,150,156,-159,156,62kgMen,CleanJerk,350,True
-5,BILGIN Erol,TUR,"Feb 20, 1987",61.55,A,-151,151,155,155,62kgMen,CleanJerk,350,True
-6,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,147,152,-155,152,62kgMen,CleanJerk,350,True
-7,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,145,149,151,151,62kgMen,CleanJerk,350,True
-8,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,140,143,145,145,62kgMen,CleanJerk,350,True
-9,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,-145,145,-149,145,62kgMen,CleanJerk,350,True
-10,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,142,-151,-151,142,62kgMen,CleanJerk,350,True
-11,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,142,-147,-147,142,62kgMen,CleanJerk,350,True
-12,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,-142,142,-146,142,62kgMen,CleanJerk,350,True
-13,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,137,141,-143,141,62kgMen,CleanJerk,350,True
-14,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,135,-140,-140,135,62kgMen,CleanJerk,350,True
-15,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,127,-132,132,132,62kgMen,CleanJerk,350,True
-16,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,125,-130,-130,125,62kgMen,CleanJerk,350,True
-17,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,115,120,123,123,62kgMen,CleanJerk,350,True
+4,BILGIN Erol,TUR,"Feb 20, 1987",61.55,A,-151,151,155,155,62kgMen,CleanJerk,350,True
+5,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,147,152,-155,152,62kgMen,CleanJerk,350,True
+6,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,145,149,151,151,62kgMen,CleanJerk,350,True
+7,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,140,143,145,145,62kgMen,CleanJerk,350,True
+8,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,-145,145,-149,145,62kgMen,CleanJerk,350,True
+9,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,142,-151,-151,142,62kgMen,CleanJerk,350,True
+10,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,142,-147,-147,142,62kgMen,CleanJerk,350,True
+11,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,-142,142,-146,142,62kgMen,CleanJerk,350,True
+12,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,137,141,-143,141,62kgMen,CleanJerk,350,True
+13,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,135,-140,-140,135,62kgMen,CleanJerk,350,True
+14,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,127,-132,132,132,62kgMen,CleanJerk,350,True
+15,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,125,-130,-130,125,62kgMen,CleanJerk,350,True
+16,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,115,120,123,123,62kgMen,CleanJerk,350,True
 ---,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.31,A,---,---,---,---,62kgMen,CleanJerk,350,True
+DSQ,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,150,156,-159,---,62kgMen,CleanJerk,350,True
 1,ATAK Hursit,TUR,"May 24, 1991",61.68,A,126,170,296,,62kgMen,Total,350,True
-2,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,133,156,289,,62kgMen,Total,350,True
-3,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.33,A,129,159,288,,62kgMen,Total,350,True
-4,BILGIN Erol,TUR,"Feb 20, 1987",61.55,A,133,155,288,,62kgMen,Total,350,True
-5,DUDOGLO Iuri,MDA,"Jul 09, 1991",61.25,A,128,156,284,,62kgMen,Total,350,True
-6,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,122,151,273,,62kgMen,Total,350,True
-7,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,124,145,269,,62kgMen,Total,350,True
-8,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,117,152,269,,62kgMen,Total,350,True
-9,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,123,142,265,,62kgMen,Total,350,True
-10,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,121,142,263,,62kgMen,Total,350,True
-11,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,119,142,261,,62kgMen,Total,350,True
-12,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,113,145,258,,62kgMen,Total,350,True
-13,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,116,141,257,,62kgMen,Total,350,True
-14,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,115,135,250,,62kgMen,Total,350,True
-15,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,111,132,243,,62kgMen,Total,350,True
-16,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,110,125,235,,62kgMen,Total,350,True
-17,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,100,123,223,,62kgMen,Total,350,True
+2,URUMOV Vladimir Marinov,BUL,"Aug 28, 1990",61.33,A,129,159,288,,62kgMen,Total,350,True
+3,BILGIN Erol,TUR,"Feb 20, 1987",61.55,A,133,155,288,,62kgMen,Total,350,True
+4,DUDOGLO Iuri,MDA,"Jul 09, 1991",61.25,A,128,156,284,,62kgMen,Total,350,True
+5,ILIE Ionut,ROU,"Jan 02, 1993",61.47,A,122,151,273,,62kgMen,Total,350,True
+6,GROZDEV Stilyan Rosenov,BUL,"Jul 27, 1999",61.36,A,124,145,269,,62kgMen,Total,350,True
+7,SOOKY Gergely Zoltan,HUN,"Sep 19, 1993",61.59,B,117,152,269,,62kgMen,Total,350,True
+8,SHAMILISHVILI Ramini,GEO,"May 11, 1994",61.38,A,123,142,265,,62kgMen,Total,350,True
+9,ABISHOV Allahyar,AZE,"Mar 30, 1995",60.99,B,121,142,263,,62kgMen,Total,350,True
+10,EVANS Gareth Irfon (WAL),GBR,"Apr 18, 1986",61.65,B,119,142,261,,62kgMen,Total,350,True
+11,AVDIRAJ Romario,ALB,"Feb 03, 1994",61.32,B,113,145,258,,62kgMen,Total,350,True
+12,DI GIUSTO Michael,ITA,"Feb 16, 1995",61.60,B,116,141,257,,62kgMen,Total,350,True
+13,GARCIA RUEDA Ivan,ESP,"Jan 17, 1983",61.55,B,115,135,250,,62kgMen,Total,350,True
+14,AKRITIDIS Arthouros,GRE,"Jan 02, 1986",61.62,B,111,132,243,,62kgMen,Total,350,True
+15,LEWI Bar,ISR,"Apr 20, 1993",61.02,B,110,125,235,,62kgMen,Total,350,True
+16,MOSKAL Vlastimil,CZE,"May 10, 1998",61.42,B,100,123,223,,62kgMen,Total,350,True
 ---,MINASIDIS Dimitris,CYP,"Apr 29, 1989",61.31,A,---,---,---,,62kgMen,Total,350,True
+DSQ,KHALIBEKOV Feliks,RUS,"Feb 03, 1990",61.74,A,---,---,---,,62kgMen,Total,350,True
 1,ISMAYILOV Daniyar,TUR,"Feb 03, 1992",68.25,A,150,155,-161,155,69kgMen,Snatch,350,True
 2,PETROV Sergei,RUS,"Feb 17, 1994",68.58,A,140,144,147,147,69kgMen,Snatch,350,True
 3,CALJA Briken,ALB,"Feb 19, 1990",68.55,A,142,145,-147,145,69kgMen,Snatch,350,True

@@ -73,43 +73,43 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 6,ZAFARJONOV Sarvarbek,UZB,"Jul 26, 2000",80.95,B,147,153,-157,153,81kgMen,Snatch,495,False
 7,BEYTULA Yunder Nedim,BUL,"Jan 09, 1992",80.50,A,147,151,153,153,81kgMen,Snatch,495,False
 8,TOSHTEMIROV Mukhammadkodir,UZB,"Sep 17, 2001",79.40,B,145,150,-155,150,81kgMen,Snatch,495,False
-9,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,145,-150,150,150,81kgMen,Snatch,495,False
-10,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,-140,140,-150,140,81kgMen,Snatch,495,False
-11,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,115,122,126,126,81kgMen,Snatch,495,False
-12,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,110,-115,-115,110,81kgMen,Snatch,495,False
-13,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,105,110,-114,110,81kgMen,Snatch,495,False
+9,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,-140,140,-150,140,81kgMen,Snatch,495,False
+10,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,115,122,126,126,81kgMen,Snatch,495,False
+11,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,110,-115,-115,110,81kgMen,Snatch,495,False
+12,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,105,110,-114,110,81kgMen,Snatch,495,False
 ---,PIZZOLATO Antonino,ITA,"Aug 20, 1996",80.85,A,-160,-161,-161,---,81kgMen,Snatch,495,False
 ---,KARAPETYAN Andranik,ARM,"Dec 15, 1995",80.75,A,-160,-161,-161,---,81kgMen,Snatch,495,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,145,-150,150,---,81kgMen,Snatch,495,False
 1,MUELLER Nico,GER,"Nov 02, 1993",80.85,A,188,-195,195,195,81kgMen,CleanJerk,495,False
 2,ZAFARJONOV Sarvarbek,UZB,"Jul 26, 2000",80.95,B,180,190,194,194,81kgMen,CleanJerk,495,False
 3,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.95,A,190,194,-199,194,81kgMen,CleanJerk,495,False
 4,BEYTULA Yunder Nedim,BUL,"Jan 09, 1992",80.50,A,188,191,194,194,81kgMen,CleanJerk,495,False
-5,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,185,192,---,192,81kgMen,CleanJerk,495,False
-6,ERDOGDU Celil,TUR,"Dec 05, 1997",80.95,B,-181,181,188,188,81kgMen,CleanJerk,495,False
-7,SUHAREVS Ritvars,LAT,"Jan 11, 1999",80.60,A,-187,188,-194,188,81kgMen,CleanJerk,495,False
-8,CHOE Jon Wi,PRK,"Jun 29, 1993",80.50,A,175,181,-190,181,81kgMen,CleanJerk,495,False
-9,KARAPETYAN Andranik,ARM,"Dec 15, 1995",80.75,A,170,180,-190,180,81kgMen,CleanJerk,495,False
-10,TOSHTEMIROV Mukhammadkodir,UZB,"Sep 17, 2001",79.40,B,170,175,-180,175,81kgMen,CleanJerk,495,False
-11,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,-175,175,-185,175,81kgMen,CleanJerk,495,False
-12,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,135,145,-151,145,81kgMen,CleanJerk,495,False
-13,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,140,-150,-150,140,81kgMen,CleanJerk,495,False
-14,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,130,-140,-150,130,81kgMen,CleanJerk,495,False
+5,ERDOGDU Celil,TUR,"Dec 05, 1997",80.95,B,-181,181,188,188,81kgMen,CleanJerk,495,False
+6,SUHAREVS Ritvars,LAT,"Jan 11, 1999",80.60,A,-187,188,-194,188,81kgMen,CleanJerk,495,False
+7,CHOE Jon Wi,PRK,"Jun 29, 1993",80.50,A,175,181,-190,181,81kgMen,CleanJerk,495,False
+8,KARAPETYAN Andranik,ARM,"Dec 15, 1995",80.75,A,170,180,-190,180,81kgMen,CleanJerk,495,False
+9,TOSHTEMIROV Mukhammadkodir,UZB,"Sep 17, 2001",79.40,B,170,175,-180,175,81kgMen,CleanJerk,495,False
+10,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,-175,175,-185,175,81kgMen,CleanJerk,495,False
+11,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,135,145,-151,145,81kgMen,CleanJerk,495,False
+12,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,140,-150,-150,140,81kgMen,CleanJerk,495,False
+13,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,130,-140,-150,130,81kgMen,CleanJerk,495,False
 ---,PIZZOLATO Antonino,ITA,"Aug 20, 1996",80.85,A,---,---,---,---,81kgMen,CleanJerk,495,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,185,192,---,---,81kgMen,CleanJerk,495,False
 1,MUELLER Nico,GER,"Nov 02, 1993",80.85,A,160,195,355,,81kgMen,Total,495,False
 2,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.95,A,157,194,351,,81kgMen,Total,495,False
 3,SUHAREVS Ritvars,LAT,"Jan 11, 1999",80.60,A,160,188,348,,81kgMen,Total,495,False
 4,ZAFARJONOV Sarvarbek,UZB,"Jul 26, 2000",80.95,B,153,194,347,,81kgMen,Total,495,False
 5,BEYTULA Yunder Nedim,BUL,"Jan 09, 1992",80.50,A,153,194,347,,81kgMen,Total,495,False
 6,ERDOGDU Celil,TUR,"Dec 05, 1997",80.95,B,154,188,342,,81kgMen,Total,495,False
-7,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,150,192,342,,81kgMen,Total,495,False
-8,CHOE Jon Wi,PRK,"Jun 29, 1993",80.50,A,156,181,337,,81kgMen,Total,495,False
-9,TOSHTEMIROV Mukhammadkodir,UZB,"Sep 17, 2001",79.40,B,150,175,325,,81kgMen,Total,495,False
-10,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,140,175,315,,81kgMen,Total,495,False
-11,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,126,145,271,,81kgMen,Total,495,False
-12,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,110,140,250,,81kgMen,Total,495,False
-13,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,110,130,240,,81kgMen,Total,495,False
+7,CHOE Jon Wi,PRK,"Jun 29, 1993",80.50,A,156,181,337,,81kgMen,Total,495,False
+8,TOSHTEMIROV Mukhammadkodir,UZB,"Sep 17, 2001",79.40,B,150,175,325,,81kgMen,Total,495,False
+9,ULANOV Denis,KAZ,"Oct 28, 1993",80.30,A,140,175,315,,81kgMen,Total,495,False
+10,BOUHI Soufiane,MAR,"Apr 12, 2001",80.20,B,126,145,271,,81kgMen,Total,495,False
+11,ROY Sumon Chandra,BAN,"Feb 15, 1987",80.75,B,110,140,250,,81kgMen,Total,495,False
+12,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.80,B,110,130,240,,81kgMen,Total,495,False
 ---,PIZZOLATO Antonino,ITA,"Aug 20, 1996",80.85,A,---,---,---,,81kgMen,Total,495,False
 ---,KARAPETYAN Andranik,ARM,"Dec 15, 1995",80.75,A,---,180,---,,81kgMen,Total,495,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",79.25,A,---,---,---,,81kgMen,Total,495,False
 1,ROSTAMI Kianoush,IRI,"Jul 23, 1991",95.25,A,172,-177,178,178,96kgMen,Snatch,495,False
 2,ELBAKH Fares Ibrahim E. H.,QAT,"Jun 04, 1998",96.00,A,-173,-173,176,176,96kgMen,Snatch,495,False
 3,RASULBEKOV Bekdoolot,KGZ,"Sep 12, 1996",95.80,A,-165,165,-168,165,96kgMen,Snatch,495,False

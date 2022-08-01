@@ -4,7 +4,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 4,XXVIII OLYMPIC GAMES,2004-08-14,Athens,GRE,senior,1,0,NA
 5,31st MEN's and 11th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2005-05-17,Busan,KOR,junior,0,0,"Korea, Republic of"
 6,32nd MEN's and 12th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2006-05-28,Hangzhou,CHN,junior,0,0,China
-7,9th UNIVERSITY WORLD CUP,2006-06-30,IZMIR,TUR,junior,0,1,Turkey
+7,9th UNIVERSITY WORLD CUP,2006-06-30,IZMIR, TUR,junior,0,1,NA
 8,75th MEN's and 18th WOMEN's WORLD CHAMPIONSHIPS,2006-09-30,Santo Domingo,DOM,senior,0,0,Dominican Republic
 9,33rd MEN's and 13th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2007-06-10,Prague,CZE,junior,0,0,Czech Republic
 10,10th UNIVERSITY WORLD CUP,2007-08-09,LIMA,PER,junior,0,1,Peru
@@ -167,7 +167,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 258,ASIAN CUP,2013-09-10,Pyongyang,PRK,senior,0,0,"Korea, Democratic People's Republic of"
 259,ASIAN JUNIOR CUP,2013-09-10,Pyongyang,PRK,junior,0,0,"Korea, Democratic People's Republic of"
 260,2013 COMMONWEALTH CHAMPIONSHIPS,2013-11-24,Penang,MAS,senior,0,0,NA
-261,2013 IWF GRAND PRIX & 2nd BAKU INTERNATIONAL CUP,2013-12-06,Baku,AZE,senior,0,0,Azerbaijan
+261,2013 IWF GRAND PRIX & 2nd BAKU INTERNATIONAL CUP,2013-12-06,Baku, AZE,senior,0,0,NA
 262,2013 COMMONWEALTH JUNIOR CHAMPIONSHIPS,2013-11-24,Penang,MAS,junior,0,0,NA
 263,2013 COMMONWEALTH YOUTH CHAMPIONSHIPS,2013-11-24,Penang,MAS,youth,0,0,NA
 264,EUROPEAN UNDER 17 CHAMPIONSHIPS,2013-09-01,Klaipeda,LTU,senior,0,0,Lithuania
@@ -398,7 +398,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 495,6th Qatar International Cup,2019-12-19,Doha,QAT,senior,0,0,Qatar
 496,Roma 2020 World Cup,2020-01-27,Roma,ITA,senior,0,0,Italy
 497,6th International Solidarity Championships,2020-02-08,Tashkent,UZB,senior,0,0,Uzbekistan
-498,European Youth Championships,2019-12-07,Eilat, ISR,youth,0,0,NA
+498,European Youth Championships,2019-12-07,Eilat,ISR,youth,0,0,Israel
 499,5th International Fajr Cup,2020-02-01,Rasht,IRI,senior,0,0,NA
 500,Malta International Open,2020-02-23,Cospicua,MLT,senior,0,0,Malta
 501,West Asian Championships,2020-02-25,Dubai,UAE,senior,0,0,NA
@@ -415,7 +415,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 514,2021 Ibero-American Championships,2021-05-10,Cali,COL,senior,0,0,Colombia
 515,2021 Open Championships,2021-05-10,Cali,COL,senior,0,0,Colombia
 516,2021 African Championships,2021-05-24,Nairobi,KEN,senior,0,0,Kenya
-517,2020 Junior EXTRA,2021-05-23,Tashkent,UZB,junior,0,0,Uzbekistan
+517,2020 Junior EXTRA,2021-10-05,Tashkent,UZB,junior,0,0,Uzbekistan
 518,XXXII OLYMPIC GAMES,2021-07-23,Tokyo,JPN,senior,1,0,Japan
 519,2021 IWF Youth World Championships,2021-10-05,Jeddah,KSA,youth,0,0,NA
 520,2020 PAN-AMERICAN JUNIOR CHAMPIONSHIPS,2021-07-09,Manizales,COL,junior,0,0,Colombia
@@ -427,3 +427,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 526,2021 Pan-American Championships,2021-11-01,Guayaquil,ECU,senior,0,0,Ecuador
 527,2021 Commonwealth Senior Championships,2021-12-07,Tashkent,UZB,senior,0,0,Uzbekistan
 528,Junior Pan American Games,2021-11-25,Cali Valle,COL,junior,0,0,Colombia
+529,2022 IWF Junior World Championships,2022-05-02,Heraklion,GRE,junior,0,0,NA
+530,2022 IWF Youth World Championships,2022-06-11,Leon,MEX,youth,0,0,Mexico
+531,PAN-AMERICAN JUNIOR CHAMPIONSHIPS,2021-10-17,Guadalajara,MEX,junior,0,0,Mexico
+532,2022 European Championships,2022-05-28,Tirana,ALB,senior,0,0,Albania

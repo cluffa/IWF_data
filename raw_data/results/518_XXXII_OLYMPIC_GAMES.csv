@@ -132,7 +132,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 5,SUHAREVS Ritvars,LAT,"Jan 11, 1999",80.90,A,-158,158,163,163,81kgMen,Snatch,518,False
 6,BONNAT MICHEL Zacarias,DOM,"Feb 27, 1996",80.90,A,158,-163,163,163,81kgMen,Snatch,518,False
 7,MAURUS Harrison James,USA,"Feb 26, 2000",80.95,A,153,158,161,161,81kgMen,Snatch,518,False
-8,MENDEZ PEREZ Arley,CUB,"Dec 31, 1993",81.00,A,160,-163,-165,160,81kgMen,Snatch,518,False
+8,MENDEZ PEREZ Arley,CHI,"Dec 31, 1993",81.00,A,160,-163,-165,160,81kgMen,Snatch,518,False
 9,MUELLER Nico,GER,"Nov 02, 1993",80.90,A,155,159,-161,159,81kgMen,Snatch,518,False
 10,MATA PEREZ Andres Eduardo,ESP,"Nov 11, 1992",80.70,A,154,158,-161,158,81kgMen,Snatch,518,False
 11,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.55,B,151,155,157,157,81kgMen,Snatch,518,False
@@ -152,7 +152,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 11,MCTAGGART Cameron David,NZL,"Sep 30, 1997",80.80,B,170,175,-178,175,81kgMen,CleanJerk,518,False
 12,BAHLOUL Ramzi,TUN,"Oct 18, 1989",80.85,B,164,-171,-171,164,81kgMen,CleanJerk,518,False
 ---,REJEPOV Rejepbay,TKM,"Feb 23, 1992",80.95,A,-195,-195,-198,---,81kgMen,CleanJerk,518,False
----,MENDEZ PEREZ Arley,CUB,"Dec 31, 1993",81.00,A,-190,-190,-190,---,81kgMen,CleanJerk,518,False
+---,MENDEZ PEREZ Arley,CHI,"Dec 31, 1993",81.00,A,-190,-190,-190,---,81kgMen,CleanJerk,518,False
 1,LYU Xiaojun,CHN,"Jul 27, 1984",80.75,A,170,204,374,,81kgMen,Total,518,False
 2,BONNAT MICHEL Zacarias,DOM,"Feb 27, 1996",80.90,A,163,204,367,,81kgMen,Total,518,False
 3,PIZZOLATO Antonino,ITA,"Aug 20, 1996",80.90,A,165,200,365,,81kgMen,Total,518,False
@@ -166,7 +166,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 11,MCTAGGART Cameron David,NZL,"Sep 30, 1997",80.80,B,140,175,315,,81kgMen,Total,518,False
 12,BAHLOUL Ramzi,TUN,"Oct 18, 1989",80.85,B,136,164,300,,81kgMen,Total,518,False
 ---,REJEPOV Rejepbay,TKM,"Feb 23, 1992",80.95,A,164,---,---,,81kgMen,Total,518,False
----,MENDEZ PEREZ Arley,CUB,"Dec 31, 1993",81.00,A,160,---,---,,81kgMen,Total,518,False
+---,MENDEZ PEREZ Arley,CHI,"Dec 31, 1993",81.00,A,160,---,---,,81kgMen,Total,518,False
 1,SANTAVY Boady Robert,CAN,"May 22, 1997",95.40,A,173,-177,178,178,96kgMen,Snatch,518,False
 2,VALLENILLA SANCHEZ Keydomar Giovanni,VEN,"Oct 08, 1999",95.00,A,172,175,177,177,96kgMen,Snatch,518,False
 3,PLIESNOI Anton,GEO,"Sep 17, 1996",96.00,A,173,-177,177,177,96kgMen,Snatch,518,False
@@ -545,8 +545,8 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 4,CAMPBELL Emily Jade,GBR,"May 06, 1994",124.80,A,118,-122,122,122,+87kgWomen,Snatch,518,False
 5,AKMAL Nurul,INA,"Feb 12, 1993",113.55,A,107,111,115,115,+87kgWomen,Snatch,518,False
 6,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",126.20,A,105,111,-116,111,+87kgWomen,Snatch,518,False
-7,AMOE-TARRANT Charisma Precious,NRU,"May 26, 1999",154.05,A,95,100,105,105,+87kgWomen,Snatch,518,False
-8,MANUMUA Kuinini Juanita Mechteld,USA,"Dec 12, 2000",108.50,A,100,103,-106,103,+87kgWomen,Snatch,518,False
+7,AMOE TARRANT Charisma,AUS,"May 26, 1999",154.05,A,95,100,105,105,+87kgWomen,Snatch,518,False
+8,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",108.50,A,100,103,-106,103,+87kgWomen,Snatch,518,False
 9,FISCHER Sarah,AUT,"Nov 09, 2000",93.35,A,93,-97,97,97,+87kgWomen,Snatch,518,False
 10,DUVERGER PILETA Eyurkenia,CUB,"Oct 04, 1999",103.65,B,96,-100,-100,96,+87kgWomen,Snatch,518,False
 11,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",87.10,B,96,-100,-100,96,+87kgWomen,Snatch,518,False
@@ -558,10 +558,10 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 3,ROBLES Sarah Elizabeth,USA,"Aug 01, 1988",148.30,A,150,154,-157,154,+87kgWomen,CleanJerk,518,False
 4,LEE Seon Mi,KOR,"Aug 01, 2000",118.90,A,148,152,-155,152,+87kgWomen,CleanJerk,518,False
 5,AKMAL Nurul,INA,"Feb 12, 1993",113.55,A,141,-151,-154,141,+87kgWomen,CleanJerk,518,False
-6,AMOE-TARRANT Charisma Precious,NRU,"May 26, 1999",154.05,A,123,128,138,138,+87kgWomen,CleanJerk,518,False
+6,AMOE TARRANT Charisma,AUS,"May 26, 1999",154.05,A,123,128,138,138,+87kgWomen,CleanJerk,518,False
 7,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",126.20,A,125,131,-132,131,+87kgWomen,CleanJerk,518,False
 8,DUVERGER PILETA Eyurkenia,CUB,"Oct 04, 1999",103.65,B,120,124,129,129,+87kgWomen,CleanJerk,518,False
-9,MANUMUA Kuinini Juanita Mechteld,USA,"Dec 12, 2000",108.50,A,-125,125,-128,125,+87kgWomen,CleanJerk,518,False
+9,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",108.50,A,-125,125,-128,125,+87kgWomen,CleanJerk,518,False
 10,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",87.10,B,115,119,123,123,+87kgWomen,CleanJerk,518,False
 11,FISCHER Sarah,AUT,"Nov 09, 2000",93.35,A,117,-123,123,123,+87kgWomen,CleanJerk,518,False
 12,UCELO MARROQUIN Scarleth Vanessa,GUA,"Apr 07, 2000",113.50,B,115,120,122,122,+87kgWomen,CleanJerk,518,False
@@ -572,9 +572,9 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 3,ROBLES Sarah Elizabeth,USA,"Aug 01, 1988",148.30,A,128,154,282,,+87kgWomen,Total,518,False
 4,LEE Seon Mi,KOR,"Aug 01, 2000",118.90,A,125,152,277,,+87kgWomen,Total,518,False
 5,AKMAL Nurul,INA,"Feb 12, 1993",113.55,A,115,141,256,,+87kgWomen,Total,518,False
-6,AMOE-TARRANT Charisma Precious,NRU,"May 26, 1999",154.05,A,105,138,243,,+87kgWomen,Total,518,False
+6,AMOE TARRANT Charisma,AUS,"May 26, 1999",154.05,A,105,138,243,,+87kgWomen,Total,518,False
 7,SALADIN TOLENTINO Veronica Estela,DOM,"May 21, 1992",126.20,A,111,131,242,,+87kgWomen,Total,518,False
-8,MANUMUA Kuinini Juanita Mechteld,USA,"Dec 12, 2000",108.50,A,103,125,228,,+87kgWomen,Total,518,False
+8,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",108.50,A,103,125,228,,+87kgWomen,Total,518,False
 9,DUVERGER PILETA Eyurkenia,CUB,"Oct 04, 1999",103.65,B,96,129,225,,+87kgWomen,Total,518,False
 10,FISCHER Sarah,AUT,"Nov 09, 2000",93.35,A,97,123,220,,+87kgWomen,Total,518,False
 11,VANBELLINGHEN Anna Marie-J A M,BEL,"Mar 10, 1994",87.10,B,96,123,219,,+87kgWomen,Total,518,False

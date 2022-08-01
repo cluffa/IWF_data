@@ -212,7 +212,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 7,SHOHRADOV Shatlyk,TKM,"Mar 04, 2000",81.31,A,140,145,-150,145,89kgMen,Snatch,453,False
 8,ALABOUDI Khaled Awad Bahjat,JOR,"May 28, 2000",82.52,A,130,137,140,140,89kgMen,Snatch,453,False
 9,MOUSA Malek Faed Naji,JOR,"Nov 11, 1996",86.53,A,131,138,140,140,89kgMen,Snatch,453,False
----,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,-150,---,---,---,89kgMen,Snatch,453,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,-150,---,---,---,89kgMen,Snatch,453,False
 1,YU Dongju,KOR,"Aug 19, 1993",88.40,A,198,202,207,207,89kgMen,CleanJerk,453,False
 2,MIRI Ali,IRI,"Aug 01, 1995",89.00,A,195,200,205,205,89kgMen,CleanJerk,453,False
 3,YAMAMOTO Toshiki,JPN,"Sep 08, 1991",88.91,A,195,-203,203,203,89kgMen,CleanJerk,453,False
@@ -222,7 +222,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 7,SHOHRADOV Shatlyk,TKM,"Mar 04, 2000",81.31,A,165,170,175,175,89kgMen,CleanJerk,453,False
 8,MOUSA Malek Faed Naji,JOR,"Nov 11, 1996",86.53,A,161,170,-174,170,89kgMen,CleanJerk,453,False
 9,ALABOUDI Khaled Awad Bahjat,JOR,"May 28, 2000",82.52,A,160,166,-171,166,89kgMen,CleanJerk,453,False
----,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,---,---,---,---,89kgMen,CleanJerk,453,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,---,---,---,---,89kgMen,CleanJerk,453,False
 1,YU Dongju,KOR,"Aug 19, 1993",88.40,A,160,207,367,,89kgMen,Total,453,False
 2,MIRI Ali,IRI,"Aug 01, 1995",89.00,A,161,205,366,,89kgMen,Total,453,False
 3,YAMAMOTO Toshiki,JPN,"Sep 08, 1991",88.91,A,155,203,358,,89kgMen,Total,453,False
@@ -232,7 +232,7 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 7,SHOHRADOV Shatlyk,TKM,"Mar 04, 2000",81.31,A,145,175,320,,89kgMen,Total,453,False
 8,MOUSA Malek Faed Naji,JOR,"Nov 11, 1996",86.53,A,140,170,310,,89kgMen,Total,453,False
 9,ALABOUDI Khaled Awad Bahjat,JOR,"May 28, 2000",82.52,A,140,166,306,,89kgMen,Total,453,False
----,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,---,---,---,,89kgMen,Total,453,False
+DSQ,RAHIMOV Nijat,KAZ,"Aug 13, 1993",81.81,A,---,---,---,,89kgMen,Total,453,False
 1,TIAN Tao,CHN,"Apr 08, 1994",94.81,A,175,181,-183,181,96kgMen,Snatch,453,False
 2,ELBAKH Fares Ibrahim E. H.,QAT,"Jun 04, 1998",95.93,A,170,-174,174,174,96kgMen,Snatch,453,False
 3,MOUSAVIJARAHI Seyedayoob,IRI,"Apr 21, 1995",95.67,A,166,-171,-171,166,96kgMen,Snatch,453,False

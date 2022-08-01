@@ -1,0 +1,322 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,SANCHEZ GUTIERREZ Winder Alejandro,VEN,"Sep 14, 2001",54.30,A,98,101,104,104,55kgMen,Snatch,531,False
+2,POOX PERALTA Jose Manuel,MEX,"Mar 17, 2003",55.00,A,93,98,100,100,55kgMen,Snatch,531,False
+3,TORRES Benjamin,CHI,"Jul 23, 2005",54.70,A,80,87,91,91,55kgMen,Snatch,531,False
+1,SANCHEZ GUTIERREZ Winder Alejandro,VEN,"Sep 14, 2001",54.30,A,130,-133,134,134,55kgMen,CleanJerk,531,False
+2,POOX PERALTA Jose Manuel,MEX,"Mar 17, 2003",55.00,A,125,131,-135,131,55kgMen,CleanJerk,531,False
+3,TORRES Benjamin,CHI,"Jul 23, 2005",54.70,A,100,-110,110,110,55kgMen,CleanJerk,531,False
+1,SANCHEZ GUTIERREZ Winder Alejandro,VEN,"Sep 14, 2001",54.30,A,104,134,238,,55kgMen,Total,531,False
+2,POOX PERALTA Jose Manuel,MEX,"Mar 17, 2003",55.00,A,100,131,231,,55kgMen,Total,531,False
+3,TORRES Benjamin,CHI,"Jul 23, 2005",54.70,A,91,110,201,,55kgMen,Total,531,False
+1,VILLAR MANJARRES Estiven Jose,COL,"Mar 12, 2001",61.00,A,114,117,122,122,61kgMen,Snatch,531,False
+2,Daniel CAICEDO Daniel CAICEDO,COL,"Jan 27, 2004",60.00,A,108,112,114,114,61kgMen,Snatch,531,False
+3,SIMARD Youri,CAN,"Jan 03, 2001",60.80,A,-109,109,113,113,61kgMen,Snatch,531,False
+4,MARTINEZ GONZALEZ Juan Miguel,PAN,"Oct 05, 2001",60.80,A,101,105,108,108,61kgMen,Snatch,531,False
+5,Francisco MAIDANA Francisco MAIDANA,ARG,"Sep 23, 2001",60.60,A,98,102,105,105,61kgMen,Snatch,531,False
+1,VILLAR MANJARRES Estiven Jose,COL,"Mar 12, 2001",61.00,A,138,142,145,145,61kgMen,CleanJerk,531,False
+2,SIMARD Youri,CAN,"Jan 03, 2001",60.80,A,137,141,-144,141,61kgMen,CleanJerk,531,False
+3,Daniel CAICEDO Daniel CAICEDO,COL,"Jan 27, 2004",60.00,A,130,-135,-135,130,61kgMen,CleanJerk,531,False
+4,MARTINEZ GONZALEZ Juan Miguel,PAN,"Oct 05, 2001",60.80,A,121,-125,127,127,61kgMen,CleanJerk,531,False
+5,Francisco MAIDANA Francisco MAIDANA,ARG,"Sep 23, 2001",60.60,A,126,-130,-130,126,61kgMen,CleanJerk,531,False
+1,VILLAR MANJARRES Estiven Jose,COL,"Mar 12, 2001",61.00,A,122,145,267,,61kgMen,Total,531,False
+2,SIMARD Youri,CAN,"Jan 03, 2001",60.80,A,113,141,254,,61kgMen,Total,531,False
+3,Daniel CAICEDO Daniel CAICEDO,COL,"Jan 27, 2004",60.00,A,114,130,244,,61kgMen,Total,531,False
+4,MARTINEZ GONZALEZ Juan Miguel,PAN,"Oct 05, 2001",60.80,A,108,127,235,,61kgMen,Total,531,False
+5,Francisco MAIDANA Francisco MAIDANA,ARG,"Sep 23, 2001",60.60,A,105,126,231,,61kgMen,Total,531,False
+1,MANZANO Andres,COL,"Jan 07, 2001",67.00,A,122,126,130,130,67kgMen,Snatch,531,False
+2,MARQUEZ Mario,USA,"Jun 27, 2003",66.40,A,-117,117,121,121,67kgMen,Snatch,531,False
+3,TREJO GONZALEZ Carlos David,VEN,"Jan 01, 2001",66.70,A,117,120,-123,120,67kgMen,Snatch,531,False
+4,PECH Darvin,MEX,"Dec 16, 2003",66.20,A,113,117,-120,117,67kgMen,Snatch,531,False
+5,MARTINEZ CASTILLO Ronnier Zaed,PAN,"Dec 12, 2001",66.60,A,-116,116,-121,116,67kgMen,Snatch,531,False
+6,PUENTE ZARATE Andres Samuel,MEX,"Jun 14, 2002",65.50,A,107,111,115,115,67kgMen,Snatch,531,False
+7,CARES VALDES Sergio,CHI,"Jan 07, 2002",66.10,A,-112,112,-118,112,67kgMen,Snatch,531,False
+8,RHODES Coby Donovan,USA,"Mar 20, 2003",65.90,A,102,106,110,110,67kgMen,Snatch,531,False
+9,RENTERIA CAAMANO Mateo,PER,"Oct 19, 2003",65.60,A,-100,100,103,103,67kgMen,Snatch,531,False
+1,MANZANO Andres,COL,"Jan 07, 2001",67.00,A,150,154,160,160,67kgMen,CleanJerk,531,False
+2,MARQUEZ Mario,USA,"Jun 27, 2003",66.40,A,148,152,-156,152,67kgMen,CleanJerk,531,False
+3,MARTINEZ CASTILLO Ronnier Zaed,PAN,"Dec 12, 2001",66.60,A,144,149,-153,149,67kgMen,CleanJerk,531,False
+4,TREJO GONZALEZ Carlos David,VEN,"Jan 01, 2001",66.70,A,144,148,-151,148,67kgMen,CleanJerk,531,False
+5,PUENTE ZARATE Andres Samuel,MEX,"Jun 14, 2002",65.50,A,138,143,147,147,67kgMen,CleanJerk,531,False
+6,PECH Darvin,MEX,"Dec 16, 2003",66.20,A,140,145,-149,145,67kgMen,CleanJerk,531,False
+7,CARES VALDES Sergio,CHI,"Jan 07, 2002",66.10,A,-135,135,140,140,67kgMen,CleanJerk,531,False
+8,RHODES Coby Donovan,USA,"Mar 20, 2003",65.90,A,130,135,-139,135,67kgMen,CleanJerk,531,False
+9,RENTERIA CAAMANO Mateo,PER,"Oct 19, 2003",65.60,A,125,130,-134,130,67kgMen,CleanJerk,531,False
+1,MANZANO Andres,COL,"Jan 07, 2001",67.00,A,130,160,290,,67kgMen,Total,531,False
+2,MARQUEZ Mario,USA,"Jun 27, 2003",66.40,A,121,152,273,,67kgMen,Total,531,False
+3,TREJO GONZALEZ Carlos David,VEN,"Jan 01, 2001",66.70,A,120,148,268,,67kgMen,Total,531,False
+4,MARTINEZ CASTILLO Ronnier Zaed,PAN,"Dec 12, 2001",66.60,A,116,149,265,,67kgMen,Total,531,False
+5,PECH Darvin,MEX,"Dec 16, 2003",66.20,A,117,145,262,,67kgMen,Total,531,False
+6,PUENTE ZARATE Andres Samuel,MEX,"Jun 14, 2002",65.50,A,115,147,262,,67kgMen,Total,531,False
+7,CARES VALDES Sergio,CHI,"Jan 07, 2002",66.10,A,112,140,252,,67kgMen,Total,531,False
+8,RHODES Coby Donovan,USA,"Mar 20, 2003",65.90,A,110,135,245,,67kgMen,Total,531,False
+9,RENTERIA CAAMANO Mateo,PER,"Oct 19, 2003",65.60,A,103,130,233,,67kgMen,Total,531,False
+1,MARTINEZ LOPEZ Juan Camilo,COL,"Mar 18, 2001",72.30,A,127,-132,132,132,73kgMen,Snatch,531,False
+2,RIVERO Nicolas David,ARG,"Mar 20, 2003",72.20,A,121,125,-130,125,73kgMen,Snatch,531,False
+3,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",69.70,A,121,-125,125,125,73kgMen,Snatch,531,False
+4,OLLO RANGEL Richard Jose,VEN,"Jan 21, 2002",71.50,A,-124,-124,124,124,73kgMen,Snatch,531,False
+5,VILLEGAS FERNANDEZ Santiago Daniel,PER,"Jun 17, 2001",72.80,A,120,-123,123,123,73kgMen,Snatch,531,False
+6,CAHOY Caden Taiyo,USA,"Jan 31, 2004",68.20,A,114,-118,120,120,73kgMen,Snatch,531,False
+7,LOPEZ Diego,MEX,"Jan 10, 1984",72.50,A,112,117,-120,117,73kgMen,Snatch,531,False
+8,AMAZONAS TELLES Victor Matheus,BRA,"Dec 27, 2001",72.00,A,105,-110,-115,105,73kgMen,Snatch,531,False
+1,MARTINEZ LOPEZ Juan Camilo,COL,"Mar 18, 2001",72.30,A,161,170,-173,170,73kgMen,CleanJerk,531,False
+2,VILLEGAS FERNANDEZ Santiago Daniel,PER,"Jun 17, 2001",72.80,A,156,-159,159,159,73kgMen,CleanJerk,531,False
+3,OLLO RANGEL Richard Jose,VEN,"Jan 21, 2002",71.50,A,-152,152,157,157,73kgMen,CleanJerk,531,False
+4,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",69.70,A,150,153,-156,153,73kgMen,CleanJerk,531,False
+5,CAHOY Caden Taiyo,USA,"Jan 31, 2004",68.20,A,147,152,-160,152,73kgMen,CleanJerk,531,False
+6,LOPEZ Diego,MEX,"Jan 10, 1984",72.50,A,143,148,-151,148,73kgMen,CleanJerk,531,False
+7,RIVERO Nicolas David,ARG,"Mar 20, 2003",72.20,A,143,-148,-148,143,73kgMen,CleanJerk,531,False
+8,AMAZONAS TELLES Victor Matheus,BRA,"Dec 27, 2001",72.00,A,125,133,-140,133,73kgMen,CleanJerk,531,False
+1,MARTINEZ LOPEZ Juan Camilo,COL,"Mar 18, 2001",72.30,A,132,170,302,,73kgMen,Total,531,False
+2,VILLEGAS FERNANDEZ Santiago Daniel,PER,"Jun 17, 2001",72.80,A,123,159,282,,73kgMen,Total,531,False
+3,OLLO RANGEL Richard Jose,VEN,"Jan 21, 2002",71.50,A,124,157,281,,73kgMen,Total,531,False
+4,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",69.70,A,125,153,278,,73kgMen,Total,531,False
+5,CAHOY Caden Taiyo,USA,"Jan 31, 2004",68.20,A,120,152,272,,73kgMen,Total,531,False
+6,RIVERO Nicolas David,ARG,"Mar 20, 2003",72.20,A,125,143,268,,73kgMen,Total,531,False
+7,LOPEZ Diego,MEX,"Jan 10, 1984",72.50,A,117,148,265,,73kgMen,Total,531,False
+8,AMAZONAS TELLES Victor Matheus,BRA,"Dec 27, 2001",72.00,A,105,133,238,,73kgMen,Total,531,False
+1,CANUL FACUNDO Mauricio Cristofer,MEX,"Sep 28, 2001",79.80,A,137,141,-145,141,81kgMen,Snatch,531,False
+2,SERNA Andres,COL,"Nov 15, 1997",78.80,A,132,136,140,140,81kgMen,Snatch,531,False
+3,PIZZUTI Dante,ARG,"Jul 07, 2003",79.80,A,133,137,-142,137,81kgMen,Snatch,531,False
+4,DARSIGNY Shad,CAN,"Apr 20, 2003",78.80,A,128,-132,134,134,81kgMen,Snatch,531,False
+5,VALERO Jhon,COL,"Jan 20, 2002",73.70,A,127,130,-133,130,81kgMen,Snatch,531,False
+6,ALVAREZ ESPINOZA Jesus Daniel,VEN,"Jan 03, 2002",80.40,A,121,126,129,129,81kgMen,Snatch,531,False
+7,BROOKS Robert Blaine,USA,"Nov 10, 2001",79.50,A,120,125,-129,125,81kgMen,Snatch,531,False
+8,HART Thomas Jacob,USA,"Aug 24, 2001",80.70,A,120,124,-127,124,81kgMen,Snatch,531,False
+9,SANCHEZ Ian,CHI,"Mar 27, 2004",75.90,A,112,117,-120,117,81kgMen,Snatch,531,False
+10,ALVES Cayo,BRA,"May 09, 2002",79.50,A,115,-120,-120,115,81kgMen,Snatch,531,False
+1,CANUL FACUNDO Mauricio Cristofer,MEX,"Sep 28, 2001",79.80,A,168,173,180,180,81kgMen,CleanJerk,531,False
+2,PIZZUTI Dante,ARG,"Jul 07, 2003",79.80,A,167,170,-180,170,81kgMen,CleanJerk,531,False
+3,VALERO Jhon,COL,"Jan 20, 2002",73.70,A,-163,163,167,167,81kgMen,CleanJerk,531,False
+4,SERNA Andres,COL,"Nov 15, 1997",78.80,A,155,162,166,166,81kgMen,CleanJerk,531,False
+5,ALVAREZ ESPINOZA Jesus Daniel,VEN,"Jan 03, 2002",80.40,A,161,165,-169,165,81kgMen,CleanJerk,531,False
+6,DARSIGNY Shad,CAN,"Apr 20, 2003",78.80,A,160,163,-166,163,81kgMen,CleanJerk,531,False
+7,BROOKS Robert Blaine,USA,"Nov 10, 2001",79.50,A,-160,-160,161,161,81kgMen,CleanJerk,531,False
+8,HART Thomas Jacob,USA,"Aug 24, 2001",80.70,A,160,-163,-166,160,81kgMen,CleanJerk,531,False
+9,SANCHEZ Ian,CHI,"Mar 27, 2004",75.90,A,145,150,-160,150,81kgMen,CleanJerk,531,False
+10,ALVES Cayo,BRA,"May 09, 2002",79.50,A,140,-146,146,146,81kgMen,CleanJerk,531,False
+1,CANUL FACUNDO Mauricio Cristofer,MEX,"Sep 28, 2001",79.80,A,141,180,321,,81kgMen,Total,531,False
+2,PIZZUTI Dante,ARG,"Jul 07, 2003",79.80,A,137,170,307,,81kgMen,Total,531,False
+3,SERNA Andres,COL,"Nov 15, 1997",78.80,A,140,166,306,,81kgMen,Total,531,False
+4,DARSIGNY Shad,CAN,"Apr 20, 2003",78.80,A,134,163,297,,81kgMen,Total,531,False
+5,VALERO Jhon,COL,"Jan 20, 2002",73.70,A,130,167,297,,81kgMen,Total,531,False
+6,ALVAREZ ESPINOZA Jesus Daniel,VEN,"Jan 03, 2002",80.40,A,129,165,294,,81kgMen,Total,531,False
+7,BROOKS Robert Blaine,USA,"Nov 10, 2001",79.50,A,125,161,286,,81kgMen,Total,531,False
+8,HART Thomas Jacob,USA,"Aug 24, 2001",80.70,A,124,160,284,,81kgMen,Total,531,False
+9,SANCHEZ Ian,CHI,"Mar 27, 2004",75.90,A,117,150,267,,81kgMen,Total,531,False
+10,ALVES Cayo,BRA,"May 09, 2002",79.50,A,115,146,261,,81kgMen,Total,531,False
+1,ATENCIA PRIOU Amel Karim,PER,"Feb 18, 2002",85.60,A,138,-143,-143,138,89kgMen,Snatch,531,False
+2,EASLEY William Ward,USA,"Sep 10, 2001",88.90,A,131,136,-139,136,89kgMen,Snatch,531,False
+3,SPARKS Conner,USA,"Aug 24, 2001",88.40,A,130,-135,-136,130,89kgMen,Snatch,531,False
+4,OVIEDO Leonel Alejandro,ARG,"Jan 14, 2001",86.00,A,125,-130,130,130,89kgMen,Snatch,531,False
+5,CORONADO ZUNIGA Pedro Ignacio,CHI,"Sep 11, 2003",81.60,A,115,120,125,125,89kgMen,Snatch,531,False
+1,SPARKS Conner,USA,"Aug 24, 2001",88.40,A,170,174,179,179,89kgMen,CleanJerk,531,False
+2,EASLEY William Ward,USA,"Sep 10, 2001",88.90,A,-168,168,172,172,89kgMen,CleanJerk,531,False
+3,ATENCIA PRIOU Amel Karim,PER,"Feb 18, 2002",85.60,A,165,-169,169,169,89kgMen,CleanJerk,531,False
+4,OVIEDO Leonel Alejandro,ARG,"Jan 14, 2001",86.00,A,155,160,-165,160,89kgMen,CleanJerk,531,False
+5,CORONADO ZUNIGA Pedro Ignacio,CHI,"Sep 11, 2003",81.60,A,145,150,-156,150,89kgMen,CleanJerk,531,False
+1,SPARKS Conner,USA,"Aug 24, 2001",88.40,A,130,179,309,,89kgMen,Total,531,False
+2,EASLEY William Ward,USA,"Sep 10, 2001",88.90,A,136,172,308,,89kgMen,Total,531,False
+3,ATENCIA PRIOU Amel Karim,PER,"Feb 18, 2002",85.60,A,138,169,307,,89kgMen,Total,531,False
+4,OVIEDO Leonel Alejandro,ARG,"Jan 14, 2001",86.00,A,130,160,290,,89kgMen,Total,531,False
+5,CORONADO ZUNIGA Pedro Ignacio,CHI,"Sep 11, 2003",81.60,A,125,150,275,,89kgMen,Total,531,False
+1,LOPEZ CUELLO Yeison Adolfo,COL,"Apr 17, 2001",92.50,A,150,155,-163,155,96kgMen,Snatch,531,False
+2,DIAZ HERRERA Pedro Antonio,VEN,"Apr 23, 2001",91.60,A,-140,140,145,145,96kgMen,Snatch,531,False
+3,RAMOS Jonathan,MEX,"Sep 24, 2003",93.60,A,-140,-140,140,140,96kgMen,Snatch,531,False
+1,LOPEZ CUELLO Yeison Adolfo,COL,"Apr 17, 2001",92.50,A,186,-200,---,186,96kgMen,CleanJerk,531,False
+2,RAMOS Jonathan,MEX,"Sep 24, 2003",93.60,A,180,184,-190,184,96kgMen,CleanJerk,531,False
+3,DIAZ HERRERA Pedro Antonio,VEN,"Apr 23, 2001",91.60,A,172,-178,178,178,96kgMen,CleanJerk,531,False
+1,LOPEZ CUELLO Yeison Adolfo,COL,"Apr 17, 2001",92.50,A,155,186,341,,96kgMen,Total,531,False
+2,RAMOS Jonathan,MEX,"Sep 24, 2003",93.60,A,140,184,324,,96kgMen,Total,531,False
+3,DIAZ HERRERA Pedro Antonio,VEN,"Apr 23, 2001",91.60,A,145,178,323,,96kgMen,Total,531,False
+1,CANO Luis,COL,"Apr 30, 2002",97.10,A,145,150,-154,150,102kgMen,Snatch,531,False
+2,D AGOSTINO Mangosong Chrisanto,USA,"Dec 22, 2001",98.20,A,135,139,-143,139,102kgMen,Snatch,531,False
+3,AGUIRRE REYES Dayan Alejandro,MEX,"Jun 22, 2002",98.00,A,130,134,138,138,102kgMen,Snatch,531,False
+4,MORALES MARTINEZ Gustavo Adolfo,VEN,"Jun 05, 2002",97.30,A,133,-137,-137,133,102kgMen,Snatch,531,False
+1,CANO Luis,COL,"Apr 30, 2002",97.10,A,185,-190,193,193,102kgMen,CleanJerk,531,False
+2,D AGOSTINO Mangosong Chrisanto,USA,"Dec 22, 2001",98.20,A,170,180,-186,180,102kgMen,CleanJerk,531,False
+3,AGUIRRE REYES Dayan Alejandro,MEX,"Jun 22, 2002",98.00,A,-168,168,---,168,102kgMen,CleanJerk,531,False
+4,MORALES MARTINEZ Gustavo Adolfo,VEN,"Jun 05, 2002",97.30,A,163,167,-171,167,102kgMen,CleanJerk,531,False
+1,CANO Luis,COL,"Apr 30, 2002",97.10,A,150,193,343,,102kgMen,Total,531,False
+2,D AGOSTINO Mangosong Chrisanto,USA,"Dec 22, 2001",98.20,A,139,180,319,,102kgMen,Total,531,False
+3,AGUIRRE REYES Dayan Alejandro,MEX,"Jun 22, 2002",98.00,A,138,168,306,,102kgMen,Total,531,False
+4,MORALES MARTINEZ Gustavo Adolfo,VEN,"Jun 05, 2002",97.30,A,133,167,300,,102kgMen,Total,531,False
+1,GOVEA SANDOVAL Antonio Jose,MEX,"Nov 17, 2001",105.10,A,144,147,150,150,109kgMen,Snatch,531,False
+2,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",103.70,A,140,144,146,146,109kgMen,Snatch,531,False
+3,DIAZ MERCADO Daniel David,COL,"Feb 10, 2004",102.50,A,-137,137,-142,137,109kgMen,Snatch,531,False
+1,GOVEA SANDOVAL Antonio Jose,MEX,"Nov 17, 2001",105.10,A,172,175,182,182,109kgMen,CleanJerk,531,False
+2,DIAZ MERCADO Daniel David,COL,"Feb 10, 2004",102.50,A,168,172,174,174,109kgMen,CleanJerk,531,False
+3,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",103.70,A,168,-172,173,173,109kgMen,CleanJerk,531,False
+1,GOVEA SANDOVAL Antonio Jose,MEX,"Nov 17, 2001",105.10,A,150,182,332,,109kgMen,Total,531,False
+2,ZAPATA PRIETO Camilo Esteban,CHI,"Mar 20, 2001",103.70,A,146,173,319,,109kgMen,Total,531,False
+3,DIAZ MERCADO Daniel David,COL,"Feb 10, 2004",102.50,A,137,174,311,,109kgMen,Total,531,False
+1,BONILLA GRANJA Arley Fernando,COL,"Jun 08, 2002",109.30,A,145,148,153,153,+109kgMen,Snatch,531,False
+2,MEDINA BANUELOS Jesus Manuel,MEX,"Apr 08, 2003",167.10,A,137,142,146,146,+109kgMen,Snatch,531,False
+3,HERNANDEZ Jorge,MEX,"Dec 14, 2002",136.50,A,137,140,145,145,+109kgMen,Snatch,531,False
+4,SOARES Rafael,BRA,"Jan 10, 2003",112.80,A,137,-143,145,145,+109kgMen,Snatch,531,False
+1,BONILLA GRANJA Arley Fernando,COL,"Jun 08, 2002",109.30,A,180,185,190,190,+109kgMen,CleanJerk,531,False
+2,HERNANDEZ Jorge,MEX,"Dec 14, 2002",136.50,A,170,175,180,180,+109kgMen,CleanJerk,531,False
+3,MEDINA BANUELOS Jesus Manuel,MEX,"Apr 08, 2003",167.10,A,155,167,-175,167,+109kgMen,CleanJerk,531,False
+4,SOARES Rafael,BRA,"Jan 10, 2003",112.80,A,165,-170,-174,165,+109kgMen,CleanJerk,531,False
+1,BONILLA GRANJA Arley Fernando,COL,"Jun 08, 2002",109.30,A,153,190,343,,+109kgMen,Total,531,False
+2,HERNANDEZ Jorge,MEX,"Dec 14, 2002",136.50,A,145,180,325,,+109kgMen,Total,531,False
+3,MEDINA BANUELOS Jesus Manuel,MEX,"Apr 08, 2003",167.10,A,146,167,313,,+109kgMen,Total,531,False
+4,SOARES Rafael,BRA,"Jan 10, 2003",112.80,A,145,165,310,,+109kgMen,Total,531,False
+1,ALVAREZ Alejandra,COL,"Oct 16, 2003",44.55,A,57,60,65,65,45kgWomen,Snatch,531,False
+2,MARTINEZ Mariangeli,VEN,"Oct 21, 2003",44.85,A,-52,52,-58,52,45kgWomen,Snatch,531,False
+1,ALVAREZ Alejandra,COL,"Oct 16, 2003",44.55,A,75,79,83,83,45kgWomen,CleanJerk,531,False
+2,MARTINEZ Mariangeli,VEN,"Oct 21, 2003",44.85,A,70,76,-80,76,45kgWomen,CleanJerk,531,False
+1,ALVAREZ Alejandra,COL,"Oct 16, 2003",44.55,A,65,83,148,,45kgWomen,Total,531,False
+2,MARTINEZ Mariangeli,VEN,"Oct 21, 2003",44.85,A,52,76,128,,45kgWomen,Total,531,False
+1,MOYA MENA Antonina,COL,"Apr 05, 2001",54.70,A,81,84,87,87,49kgWomen,Snatch,531,False
+1,ECHANDIA ZARATE Katherin Oriana,VEN,"Aug 14, 2001",48.80,A,76,-79,81,81,49kgWomen,Snatch,531,False
+2,HERNANDEZ VIEYRA Yesica Yadira,MEX,"Dec 15, 2001",48.80,A,75,78,80,80,49kgWomen,Snatch,531,False
+3,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",48.80,A,60,63,65,65,49kgWomen,Snatch,531,False
+---,DUNN Hannah Joy,USA,"Sep 01, 2003",48.25,A,-68,-68,-68,---,49kgWomen,Snatch,531,False
+1,MOYA MENA Antonina,COL,"Apr 05, 2001",54.70,A,100,103,105,105,49kgWomen,CleanJerk,531,False
+1,HERNANDEZ VIEYRA Yesica Yadira,MEX,"Dec 15, 2001",48.80,A,96,100,103,103,49kgWomen,CleanJerk,531,False
+2,ECHANDIA ZARATE Katherin Oriana,VEN,"Aug 14, 2001",48.80,A,96,-100,-101,96,49kgWomen,CleanJerk,531,False
+3,DUNN Hannah Joy,USA,"Sep 01, 2003",48.25,A,80,-83,83,83,49kgWomen,CleanJerk,531,False
+4,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",48.80,A,79,-82,-82,79,49kgWomen,CleanJerk,531,False
+1,MOYA MENA Antonina,COL,"Apr 05, 2001",54.70,A,87,105,192,,49kgWomen,Total,531,False
+1,HERNANDEZ VIEYRA Yesica Yadira,MEX,"Dec 15, 2001",48.80,A,80,103,183,,49kgWomen,Total,531,False
+2,ECHANDIA ZARATE Katherin Oriana,VEN,"Aug 14, 2001",48.80,A,81,96,177,,49kgWomen,Total,531,False
+3,SALDARRIAGA YOVERA Anali Paola,PER,"Oct 21, 2003",48.80,A,65,79,144,,49kgWomen,Total,531,False
+---,DUNN Hannah Joy,USA,"Sep 01, 2003",48.25,A,---,83,---,,49kgWomen,Total,531,False
+2,BORREGO PALACIOS Irene Esmeralda,MEX,"Nov 03, 2001",54.30,A,81,84,86,86,55kgWomen,Snatch,531,False
+3,JUNKAR ACERO Kely Valentina,COL,"Nov 14, 2001",55.00,A,80,83,-85,83,55kgWomen,Snatch,531,False
+4,QUINTERO VALERA Yasmin Juliannis,VEN,"Nov 08, 2002",53.90,A,77,81,-84,81,55kgWomen,Snatch,531,False
+5,COOK Leila Rhiann,USA,"Jan 05, 2002",54.40,A,71,74,77,77,55kgWomen,Snatch,531,False
+6,SIMONEAU Charlotte,CAN,"May 30, 2005",54.70,A,70,74,76,76,55kgWomen,Snatch,531,False
+7,NYE Emma Elizabeth,USA,"Jul 11, 2002",54.80,A,72,75,-78,75,55kgWomen,Snatch,531,False
+8,VIEIRA RODRIGUES Julia,BRA,"May 17, 2004",54.70,A,-70,70,73,73,55kgWomen,Snatch,531,False
+9,OCHOA INSFRAN Regina Maria Paula,ARG,"Jan 19, 2001",53.10,A,-71,71,-74,71,55kgWomen,Snatch,531,False
+2,BORREGO PALACIOS Irene Esmeralda,MEX,"Nov 03, 2001",54.30,A,-101,101,-107,101,55kgWomen,CleanJerk,531,False
+3,JUNKAR ACERO Kely Valentina,COL,"Nov 14, 2001",55.00,A,100,-103,-104,100,55kgWomen,CleanJerk,531,False
+4,COOK Leila Rhiann,USA,"Jan 05, 2002",54.40,A,96,100,-103,100,55kgWomen,CleanJerk,531,False
+5,QUINTERO VALERA Yasmin Juliannis,VEN,"Nov 08, 2002",53.90,A,96,-100,-101,96,55kgWomen,CleanJerk,531,False
+6,VIEIRA RODRIGUES Julia,BRA,"May 17, 2004",54.70,A,90,93,-95,93,55kgWomen,CleanJerk,531,False
+7,NYE Emma Elizabeth,USA,"Jul 11, 2002",54.80,A,90,-93,93,93,55kgWomen,CleanJerk,531,False
+8,SIMONEAU Charlotte,CAN,"May 30, 2005",54.70,A,-91,-91,91,91,55kgWomen,CleanJerk,531,False
+9,OCHOA INSFRAN Regina Maria Paula,ARG,"Jan 19, 2001",53.10,A,84,88,-91,88,55kgWomen,CleanJerk,531,False
+2,BORREGO PALACIOS Irene Esmeralda,MEX,"Nov 03, 2001",54.30,A,86,101,187,,55kgWomen,Total,531,False
+3,JUNKAR ACERO Kely Valentina,COL,"Nov 14, 2001",55.00,A,83,100,183,,55kgWomen,Total,531,False
+4,QUINTERO VALERA Yasmin Juliannis,VEN,"Nov 08, 2002",53.90,A,81,96,177,,55kgWomen,Total,531,False
+5,COOK Leila Rhiann,USA,"Jan 05, 2002",54.40,A,77,100,177,,55kgWomen,Total,531,False
+6,NYE Emma Elizabeth,USA,"Jul 11, 2002",54.80,A,75,93,168,,55kgWomen,Total,531,False
+7,SIMONEAU Charlotte,CAN,"May 30, 2005",54.70,A,76,91,167,,55kgWomen,Total,531,False
+8,VIEIRA RODRIGUES Julia,BRA,"May 17, 2004",54.70,A,73,93,166,,55kgWomen,Total,531,False
+9,OCHOA INSFRAN Regina Maria Paula,ARG,"Jan 19, 2001",53.10,A,71,88,159,,55kgWomen,Total,531,False
+1,ROJAS GONZALEZ Queysi Julissa,MEX,"Mar 19, 2002",63.10,A,91,94,97,97,59kgWomen,Snatch,531,False
+1,USUGA Concepcion,COL,"Feb 07, 2001",59.00,A,89,91,95,95,59kgWomen,Snatch,531,False
+2,ORTIZ PETTERSON Karla Viviana,MEX,"Sep 11, 2001",58.40,A,85,88,90,90,59kgWomen,Snatch,531,False
+3,GUILLEN VAZQUEZ Daphne,MEX,"Mar 21, 2002",58.70,A,85,88,-92,88,59kgWomen,Snatch,531,False
+4,UZCATEGUI Rosselyn,VEN,"Jul 11, 2002",58.80,A,83,-86,86,86,59kgWomen,Snatch,531,False
+5,MENDOZA Martina Soledad,ARG,"Nov 30, 2001",57.80,A,75,78,82,82,59kgWomen,Snatch,531,False
+6,CAMERON Georgia,CAN,"Apr 19, 2001",58.00,A,70,73,75,75,59kgWomen,Snatch,531,False
+7,IRIZARRY Diana Isabella,USA,"Aug 03, 2003",58.10,A,69,72,-75,72,59kgWomen,Snatch,531,False
+8,LUQUE Aneliz,CHI,"Sep 12, 2005",58.10,A,-65,65,70,70,59kgWomen,Snatch,531,False
+1,ROJAS GONZALEZ Queysi Julissa,MEX,"Mar 19, 2002",63.10,A,115,117,-121,117,59kgWomen,CleanJerk,531,False
+1,ORTIZ PETTERSON Karla Viviana,MEX,"Sep 11, 2001",58.40,A,108,111,115,115,59kgWomen,CleanJerk,531,False
+2,USUGA Concepcion,COL,"Feb 07, 2001",59.00,A,106,110,114,114,59kgWomen,CleanJerk,531,False
+3,UZCATEGUI Rosselyn,VEN,"Jul 11, 2002",58.80,A,103,107,109,109,59kgWomen,CleanJerk,531,False
+4,GUILLEN VAZQUEZ Daphne,MEX,"Mar 21, 2002",58.70,A,106,-110,-110,106,59kgWomen,CleanJerk,531,False
+5,IRIZARRY Diana Isabella,USA,"Aug 03, 2003",58.10,A,94,98,101,101,59kgWomen,CleanJerk,531,False
+6,MENDOZA Martina Soledad,ARG,"Nov 30, 2001",57.80,A,94,-98,-100,94,59kgWomen,CleanJerk,531,False
+7,CAMERON Georgia,CAN,"Apr 19, 2001",58.00,A,88,92,94,94,59kgWomen,CleanJerk,531,False
+8,LUQUE Aneliz,CHI,"Sep 12, 2005",58.10,A,-85,85,90,90,59kgWomen,CleanJerk,531,False
+1,ROJAS GONZALEZ Queysi Julissa,MEX,"Mar 19, 2002",63.10,A,97,117,214,,59kgWomen,Total,531,False
+1,USUGA Concepcion,COL,"Feb 07, 2001",59.00,A,95,114,209,,59kgWomen,Total,531,False
+2,ORTIZ PETTERSON Karla Viviana,MEX,"Sep 11, 2001",58.40,A,90,115,205,,59kgWomen,Total,531,False
+3,UZCATEGUI Rosselyn,VEN,"Jul 11, 2002",58.80,A,86,109,195,,59kgWomen,Total,531,False
+4,GUILLEN VAZQUEZ Daphne,MEX,"Mar 21, 2002",58.70,A,88,106,194,,59kgWomen,Total,531,False
+5,MENDOZA Martina Soledad,ARG,"Nov 30, 2001",57.80,A,82,94,176,,59kgWomen,Total,531,False
+6,IRIZARRY Diana Isabella,USA,"Aug 03, 2003",58.10,A,72,101,173,,59kgWomen,Total,531,False
+7,CAMERON Georgia,CAN,"Apr 19, 2001",58.00,A,75,94,169,,59kgWomen,Total,531,False
+8,LUQUE Aneliz,CHI,"Sep 12, 2005",58.10,A,70,90,160,,59kgWomen,Total,531,False
+2,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",62.35,A,93,96,-98,96,64kgWomen,Snatch,531,False
+3,RODRIGUEZ QUINTERO Julieth Alejandra,COL,"Feb 20, 2002",63.10,A,93,96,-98,96,64kgWomen,Snatch,531,False
+4,FRANCO GONZALEZ Eliannys Nohemi,VEN,"Apr 23, 2002",63.35,A,-83,83,86,86,64kgWomen,Snatch,531,False
+5,HENRY Nicolasa,USA,"Feb 26, 2002",63.90,A,84,-87,-88,84,64kgWomen,Snatch,531,False
+6,RUIZ DIAZ Lucila Belen,ARG,"Apr 06, 2002",63.10,A,76,80,-83,80,64kgWomen,Snatch,531,False
+7,GOLDMAN CALIFRER Lourdes,BRA,"Apr 05, 2003",63.35,A,-70,70,75,75,64kgWomen,Snatch,531,False
+8,NEIRA Anahis,CHI,"Feb 14, 2001",63.95,A,67,72,-75,72,64kgWomen,Snatch,531,False
+2,RODRIGUEZ QUINTERO Julieth Alejandra,COL,"Feb 20, 2002",63.10,A,-112,113,116,116,64kgWomen,CleanJerk,531,False
+3,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",62.35,A,112,115,-117,115,64kgWomen,CleanJerk,531,False
+4,FRANCO GONZALEZ Eliannys Nohemi,VEN,"Apr 23, 2002",63.35,A,105,-110,111,111,64kgWomen,CleanJerk,531,False
+5,HENRY Nicolasa,USA,"Feb 26, 2002",63.90,A,110,-114,-115,110,64kgWomen,CleanJerk,531,False
+6,GOLDMAN CALIFRER Lourdes,BRA,"Apr 05, 2003",63.35,A,95,102,-104,102,64kgWomen,CleanJerk,531,False
+7,RUIZ DIAZ Lucila Belen,ARG,"Apr 06, 2002",63.10,A,96,100,-104,100,64kgWomen,CleanJerk,531,False
+8,NEIRA Anahis,CHI,"Feb 14, 2001",63.95,A,87,92,95,95,64kgWomen,CleanJerk,531,False
+2,RODRIGUEZ QUINTERO Julieth Alejandra,COL,"Feb 20, 2002",63.10,A,96,116,212,,64kgWomen,Total,531,False
+3,CASADEVALL Maria Luz,ARG,"Mar 17, 2001",62.35,A,96,115,211,,64kgWomen,Total,531,False
+4,FRANCO GONZALEZ Eliannys Nohemi,VEN,"Apr 23, 2002",63.35,A,86,111,197,,64kgWomen,Total,531,False
+5,HENRY Nicolasa,USA,"Feb 26, 2002",63.90,A,84,110,194,,64kgWomen,Total,531,False
+6,RUIZ DIAZ Lucila Belen,ARG,"Apr 06, 2002",63.10,A,80,100,180,,64kgWomen,Total,531,False
+7,GOLDMAN CALIFRER Lourdes,BRA,"Apr 05, 2003",63.35,A,75,102,177,,64kgWomen,Total,531,False
+8,NEIRA Anahis,CHI,"Feb 14, 2001",63.95,A,72,95,167,,64kgWomen,Total,531,False
+1,REYES Marina,MEX,"Jul 12, 1980",70.70,A,91,93,95,95,71kgWomen,Snatch,531,False
+2,SINISTERRA TORRES Erika,COL,"Aug 29, 2002",68.30,A,85,88,90,90,71kgWomen,Snatch,531,False
+3,THORNTON Alexandra Marie,USA,"Jan 26, 2001",70.08,A,86,89,-91,89,71kgWomen,Snatch,531,False
+4,ANDREWS Natalie,USA,"Jun 03, 2003",69.90,A,82,84,87,87,71kgWomen,Snatch,531,False
+5,VERA AGUDELO Paula Natalia,COL,"Jan 10, 2001",69.60,A,78,82,85,85,71kgWomen,Snatch,531,False
+6,ARMARAL MARTINS Rayane,BRA,"Jul 25, 2001",69.60,A,70,-74,75,75,71kgWomen,Snatch,531,False
+7,VELASQUEZ Miriana,CHI,"Jun 15, 2002",69.50,A,-70,70,74,74,71kgWomen,Snatch,531,False
+1,REYES Marina,MEX,"Jul 12, 1980",70.70,A,120,124,-127,124,71kgWomen,CleanJerk,531,False
+2,SINISTERRA TORRES Erika,COL,"Aug 29, 2002",68.30,A,111,115,118,118,71kgWomen,CleanJerk,531,False
+3,THORNTON Alexandra Marie,USA,"Jan 26, 2001",70.08,A,110,113,117,117,71kgWomen,CleanJerk,531,False
+4,VERA AGUDELO Paula Natalia,COL,"Jan 10, 2001",69.60,A,110,113,-116,113,71kgWomen,CleanJerk,531,False
+5,ANDREWS Natalie,USA,"Jun 03, 2003",69.90,A,104,-108,-111,104,71kgWomen,CleanJerk,531,False
+6,VELASQUEZ Miriana,CHI,"Jun 15, 2002",69.50,A,-95,96,-105,96,71kgWomen,CleanJerk,531,False
+7,ARMARAL MARTINS Rayane,BRA,"Jul 25, 2001",69.60,A,85,90,-95,90,71kgWomen,CleanJerk,531,False
+1,REYES Marina,MEX,"Jul 12, 1980",70.70,A,95,124,219,,71kgWomen,Total,531,False
+2,SINISTERRA TORRES Erika,COL,"Aug 29, 2002",68.30,A,90,118,208,,71kgWomen,Total,531,False
+3,THORNTON Alexandra Marie,USA,"Jan 26, 2001",70.08,A,89,117,206,,71kgWomen,Total,531,False
+4,VERA AGUDELO Paula Natalia,COL,"Jan 10, 2001",69.60,A,85,113,198,,71kgWomen,Total,531,False
+5,ANDREWS Natalie,USA,"Jun 03, 2003",69.90,A,87,104,191,,71kgWomen,Total,531,False
+6,VELASQUEZ Miriana,CHI,"Jun 15, 2002",69.50,A,74,96,170,,71kgWomen,Total,531,False
+7,ARMARAL MARTINS Rayane,BRA,"Jul 25, 2001",69.60,A,75,90,165,,71kgWomen,Total,531,False
+1,Ana Paola Ana Paola,MEX,"Nov 15, 2001",73.80,A,88,92,-95,92,76kgWomen,Snatch,531,False
+2,RODRIGUEZ ROMERO Maria Valentina,VEN,"Apr 07, 2002",74.70,A,-91,91,-93,91,76kgWomen,Snatch,531,False
+3,BILLEN Jeenat,CAN,"Mar 28, 2001",73.80,A,79,82,-86,82,76kgWomen,Snatch,531,False
+1,RODRIGUEZ ROMERO Maria Valentina,VEN,"Apr 07, 2002",74.70,A,110,113,-117,113,76kgWomen,CleanJerk,531,False
+2,Ana Paola Ana Paola,MEX,"Nov 15, 2001",73.80,A,105,111,-114,111,76kgWomen,CleanJerk,531,False
+3,BILLEN Jeenat,CAN,"Mar 28, 2001",73.80,A,97,-102,102,102,76kgWomen,CleanJerk,531,False
+1,RODRIGUEZ ROMERO Maria Valentina,VEN,"Apr 07, 2002",74.70,A,91,113,204,,76kgWomen,Total,531,False
+2,Ana Paola Ana Paola,MEX,"Nov 15, 2001",73.80,A,92,111,203,,76kgWomen,Total,531,False
+3,BILLEN Jeenat,CAN,"Mar 28, 2001",73.80,A,82,102,184,,76kgWomen,Total,531,False
+1,MONTANO GRANJA Sirley Daniela,COL,"Jul 23, 2003",77.90,A,90,94,97,97,81kgWomen,Snatch,531,False
+2,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",76.90,A,83,-86,87,87,81kgWomen,Snatch,531,False
+3,DE AQUINO MARTINHO Beatriz,BRA,"Oct 14, 2002",79.70,A,83,86,-88,86,81kgWomen,Snatch,531,False
+4,RAMIREZ GAYTAN Leslie Vanessa,MEX,"Jun 12, 2003",79.70,A,78,82,-85,82,81kgWomen,Snatch,531,False
+1,MONTANO GRANJA Sirley Daniela,COL,"Jul 23, 2003",77.90,A,120,125,-128,125,81kgWomen,CleanJerk,531,False
+2,RAMIREZ GAYTAN Leslie Vanessa,MEX,"Jun 12, 2003",79.70,A,105,109,112,112,81kgWomen,CleanJerk,531,False
+3,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",76.90,A,105,109,-113,109,81kgWomen,CleanJerk,531,False
+4,DE AQUINO MARTINHO Beatriz,BRA,"Oct 14, 2002",79.70,A,95,-101,-103,95,81kgWomen,CleanJerk,531,False
+1,MONTANO GRANJA Sirley Daniela,COL,"Jul 23, 2003",77.90,A,97,125,222,,81kgWomen,Total,531,False
+2,SALDARRIAGA DIOSES Estrella Belen,PER,"Jan 11, 2003",76.90,A,87,109,196,,81kgWomen,Total,531,False
+3,RAMIREZ GAYTAN Leslie Vanessa,MEX,"Jun 12, 2003",79.70,A,82,112,194,,81kgWomen,Total,531,False
+4,DE AQUINO MARTINHO Beatriz,BRA,"Oct 14, 2002",79.70,A,86,95,181,,81kgWomen,Total,531,False
+1,FRANCO RODRIGUEZ Angie Paola,COL,"Aug 21, 2003",85.50,A,94,96,98,98,87kgWomen,Snatch,531,False
+2,GUTIERREZ LOPEZ Angela Yazmin,MEX,"Dec 11, 2001",85.50,A,92,94,97,97,87kgWomen,Snatch,531,False
+3,OWENS Avery Elizabeth,USA,"Jan 18, 2002",86.50,A,90,93,95,95,87kgWomen,Snatch,531,False
+1,GUTIERREZ LOPEZ Angela Yazmin,MEX,"Dec 11, 2001",85.50,A,117,121,124,124,87kgWomen,CleanJerk,531,False
+2,FRANCO RODRIGUEZ Angie Paola,COL,"Aug 21, 2003",85.50,A,-118,119,121,121,87kgWomen,CleanJerk,531,False
+3,OWENS Avery Elizabeth,USA,"Jan 18, 2002",86.50,A,120,-125,-127,120,87kgWomen,CleanJerk,531,False
+1,GUTIERREZ LOPEZ Angela Yazmin,MEX,"Dec 11, 2001",85.50,A,97,124,221,,87kgWomen,Total,531,False
+2,FRANCO RODRIGUEZ Angie Paola,COL,"Aug 21, 2003",85.50,A,98,121,219,,87kgWomen,Total,531,False
+3,OWENS Avery Elizabeth,USA,"Jan 18, 2002",86.50,A,95,120,215,,87kgWomen,Total,531,False
+1,RODRIGUEZ LUGO Adbeel Noemi,MEX,"May 23, 2002",111.60,A,101,103,105,105,+87kgWomen,Snatch,531,False
+2,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",107.75,A,100,-103,104,104,+87kgWomen,Snatch,531,False
+3,JUSTINO DE LIMA Taiane,BRA,"Feb 16, 2004",116.10,A,90,94,97,97,+87kgWomen,Snatch,531,False
+4,PAVEZ MIRANDA Arantzazu,CHI,"Nov 23, 2004",116.05,A,85,90,93,93,+87kgWomen,Snatch,531,False
+5,WALKER Nia Lielani,USA,"Apr 02, 2002",95.70,A,87,90,93,93,+87kgWomen,Snatch,531,False
+1,RODRIGUEZ LUGO Adbeel Noemi,MEX,"May 23, 2002",111.60,A,125,130,135,135,+87kgWomen,CleanJerk,531,False
+2,JUSTINO DE LIMA Taiane,BRA,"Feb 16, 2004",116.10,A,115,119,122,122,+87kgWomen,CleanJerk,531,False
+3,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",107.75,A,-120,-121,121,121,+87kgWomen,CleanJerk,531,False
+4,WALKER Nia Lielani,USA,"Apr 02, 2002",95.70,A,113,117,-120,117,+87kgWomen,CleanJerk,531,False
+5,PAVEZ MIRANDA Arantzazu,CHI,"Nov 23, 2004",116.05,A,110,-115,-118,110,+87kgWomen,CleanJerk,531,False
+1,RODRIGUEZ LUGO Adbeel Noemi,MEX,"May 23, 2002",111.60,A,105,135,240,,+87kgWomen,Total,531,False
+2,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",107.75,A,104,121,225,,+87kgWomen,Total,531,False
+3,JUSTINO DE LIMA Taiane,BRA,"Feb 16, 2004",116.10,A,97,122,219,,+87kgWomen,Total,531,False
+4,WALKER Nia Lielani,USA,"Apr 02, 2002",95.70,A,93,117,210,,+87kgWomen,Total,531,False
+5,PAVEZ MIRANDA Arantzazu,CHI,"Nov 23, 2004",116.05,A,93,110,203,,+87kgWomen,Total,531,False

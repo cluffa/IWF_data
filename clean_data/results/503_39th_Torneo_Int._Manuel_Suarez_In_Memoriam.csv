@@ -1,55 +1,55 @@
 total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,nation,group,bw,category,dq,old_classes,event_id,event,date,snatch_lift1,snatch_lift2,snatch_lift3,snatch_best,cleanjerk_lift1,cleanjerk_lift2,cleanjerk_lift3,cleanjerk_best,total
-1,1,1,LEMUS CALANCHE Gilberto Antonio,7659,1994-02-04,26.1,M,GUA,A,130.2,+109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,160,170,-173,170,193,-200,-200,193,363
-1,1,2,SALADIN TOLENTINO Veronica Estela,11975,1992-05-21,27.8,W,DOM,A,127.5,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-118,118,-123,118,140,146,-148,146,264
-2,2,1,ESPINOSA Yaniuska,3935,1986-12-05,33.2,W,VEN,A,113.2,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,110,115,117,117,140,145,147,147,264
-3,3,3,DUVERGER PILETA Eyurkenia,3685,1999-10-04,20.4,W,CUB,A,98.1,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,96,98,98,120,123,126,126,224
-4,4,4,CORREA MENA Dalia Beatriz,2990,1999-01-28,21.1,W,CUB,A,100.9,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,90,94,-96,94,118,122,124,124,218
-5,5,5,UCELO MARROQUIN Scarleth Vanessa,13894,2000-04-07,19.9,W,GUA,A,107.9,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,75,79,-82,79,108,-112,112,112,191
-1,1,1,QUESADA JAIME Jesus Manuel,11105,1996-09-30,23.4,M,CUB,A,98.8,102 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,140,147,-152,147,175,-183,183,183,330
-1,1,1,GONZALEZ BARRIOS Jesus Abrahan,4725,1991-04-22,28.9,M,VEN,A,109,109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,169,-173,-173,169,208,211,-215,211,380
-2,2,2,COLUMBIE SANAME Juan,2942,1995-01-24,25.1,M,CUB,A,107.9,109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,165,-173,-173,165,200,206,210,210,375
-1,1,1,GONZALEZ MAIRENA Jessica Massiel,4740,2000-01-25,20.1,W,NCA,A,44.3,45 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,50,55,60,60,-70,70,-80,70,130
-1,1,1,MONTERO RAMOS Ludia Marguiela,9208,1999-04-17,20.9,W,CUB,A,49,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-78,-78,78,78,95,-100,100,100,178
-2,2,3,REYNOSO LOPEZ DE GALEANO Margoth Y.,11418,1989-02-25,31,W,GUA,A,48.7,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,65,70,73,73,85,90,-93,90,163
-NA,NA,2,PIRON CANDELARIO Beatriz Elizabeth,10820,1995-02-27,25,W,DOM,A,48.8,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-82,-82,-82,NA,96,-101,-101,96,NA
-1,1,1,GUZMAN PEREZ Gilyeliz Saned,5052,1996-10-28,23.3,W,PUR,A,54.8,55 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,75,80,84,84,97,102,106,106,190
-1,3,1,GONZALEZ GALA Naveys Andrea,4734,2000-09-20,19.5,W,CUB,A,58.5,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,76,79,81,81,100,105,107,107,188
-2,2,2,PREVAL Eliany,10997,2000-09-19,19.5,W,CUB,A,58.8,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,78,-81,82,82,102,-105,105,105,187
-3,4,3,GONZALEZ CONTRERAS Santos Isabel,4731,1992-04-17,27.9,W,GUA,A,58.6,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,66,71,73,73,88,92,-94,92,165
-4,5,4,MORENO RODRIGUEZ Karla Leticia,9258,1988-03-15,32,W,NCA,A,56.8,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,65,70,-73,70,85,-90,90,90,160
-NA,1,NA,GUICHO RECIO Quisia Yaneli,4948,1987-09-12,32.5,W,MEX,A,59,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-88,88,-91,88,-117,-117,-117,NA,NA
-1,2,1,CALDERON LICOURT Arley Lazaro,2239,1999-02-26,21,M,CUB,A,60.7,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,116,120,122,122,151,-156,159,159,281
-2,1,2,GARCIA BRITO Luis Alberto,4449,1995-04-19,24.9,M,DOM,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,117,121,123,123,152,-157,157,157,280
-3,3,3,ONATE ARAUJO Otto Felix,10130,2000-01-23,20.1,M,CUB,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,117,-120,120,120,150,155,-160,155,275
-4,4,4,MONTES GONGORA Jose Lino,9211,1989-04-18,30.9,M,MEX,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,115,118,-121,118,-141,141,147,147,265
-5,5,5,VASQUEZ MORALES Orlando Antonio,14139,1997-10-28,22.3,M,NCA,A,60.5,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-115,115,-118,115,140,-146,-146,140,255
-6,6,7,CRUZ LOPEZ Dario Enrique,3050,1997-08-23,22.5,M,GUA,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,100,105,110,110,130,135,-140,135,245
-7,7,6,ESQUIVEL MORALES Henry Eduardo,3944,2000-01-21,20.1,M,GUA,A,59.1,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,97,102,-106,102,125,130,136,136,238
-8,8,8,JOSEPH Edouard,6231,1989-12-24,30.2,M,HAI,A,60.3,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-96,-96,96,96,115,121,-126,121,217
-1,2,1,RODRIGUEZ MITJAN Marina De La Caridad,11616,1995-03-02,25,W,CUB,A,64,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-94,-94,94,94,119,124,127,127,221
-2,1,2,FATTOUH Mahassen Hala,4069,1989-08-27,30.5,W,LBN,A,63.8,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,89,92,95,95,-116,-116,117,117,212
-3,3,3,LUDRICK RIVAS Sema Nancy,8092,1999-12-21,20.2,W,NCA,A,63.4,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,80,83,-90,83,102,106,113,113,196
-4,4,4,CRUZ HERNANDEZ Lesbia Marielis,3048,1987-09-10,32.5,W,GUA,A,63.9,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-77,-77,77,77,100,105,-108,105,182
-1,2,1,PINEDA ZETA Edgar Ismael,10794,1997-08-17,22.5,M,GUA,A,66.7,67 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,120,-130,-130,120,150,160,-170,160,280
-2,1,2,HERRERA VEGA Reydiel,5405,1998-11-12,21.3,M,CUB,A,66,67 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-116,116,121,121,145,150,-155,150,271
-1,1,1,MIRABAL FERIA Yeniuska,8981,1997-04-12,22.9,W,CUB,A,70.2,71 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,-96,96,96,115,120,122,122,218
-2,2,2,MALDONADO PANJOJ Maria Alejandra,8318,2001-10-16,18.4,W,GUA,A,68.7,71 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,70,75,77,77,92,97,100,100,177
-1,1,1,CASTRO PEREZ Miguel Jesus,2421,2000-11-16,19.3,M,CUB,A,70.2,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,130,-136,-136,130,155,160,-165,160,290
-2,2,2,EDISNEL ENRIQUE Corrales Rondon,3729,2001-08-06,18.6,M,CUB,A,68.5,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,120,125,-130,125,150,155,160,160,285
-3,3,3,VALDIZON CORONADO Oscar Fernando,14034,1989-06-12,30.7,M,GUA,A,73,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,122,-127,-127,122,153,158,-166,158,280
-1,1,1,FUENTES ZAVALA Aremi,4325,1993-05-23,26.8,W,MEX,A,75.9,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,103,106,-109,106,128,131,135,135,241
-2,2,2,LAYLOR Maya,7543,1995-07-04,24.7,W,CAN,A,75.3,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,95,97,99,99,121,126,130,130,229
-3,3,3,AGUILERA PENA Melisa Maida,269,1999-06-18,20.7,W,CUB,A,75.8,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,96,98,98,120,125,128,128,226
-4,4,4,LOPEZ RODRIGUEZ Kidaisha,8021,1993-01-03,27.2,W,PUR,A,72.7,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,81,83,85,85,100,102,-105,102,187
-5,5,5,GONZALEZ CONTRERAS Azucena Abigail,4728,1997-04-26,22.9,W,GUA,A,71.4,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,70,75,-80,75,90,95,98,98,173
-1,1,1,BONNAT MICHEL Zacarias,1922,1996-02-27,24,M,DOM,A,80.6,81 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,150,157,162,162,191,201,206,206,368
-2,2,2,RAMIREZ CABRERA Gilberto Antonio,11223,1998-10-27,21.3,M,CUB,A,78.7,81 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,133,-138,138,138,160,165,-170,165,303
-1,1,1,PEREZ REVERON Naryury Alexandra,10654,1992-09-29,27.4,W,VEN,A,87,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,105,107,-111,107,135,138,-140,138,245
-2,2,3,SANTANA PEGUERO Crismery Dominga,12143,1995-04-20,24.9,W,DOM,A,87,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,101,-106,106,106,125,131,136,136,242
-3,3,2,CHIRINOS LEON Dayana Aracelis,2745,1991-10-04,28.4,W,VEN,A,86.2,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-103,103,-106,103,133,-137,137,137,240
-4,4,4,RODRIGUEZ MIRANDA Keyshla Ivette,11615,1991-11-15,28.3,W,PUR,A,86.6,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-87,87,92,92,112,117,-122,117,209
-1,1,1,SAEZ VERA Olfides,11907,1994-09-24,25.4,M,CUB,A,88.1,89 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,155,160,165,165,195,201,-205,201,366
-1,2,1,LUNA MARIN Angel Jose,8123,1994-10-13,25.4,M,VEN,A,94.4,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-165,165,-169,165,204,207,-210,207,372
-2,1,2,VALLENILLA SANCHEZ Keydomar Giovanni,14066,1999-10-08,20.4,M,VEN,A,95.6,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-165,165,169,169,200,-206,-206,200,369
-3,3,3,ZALDIVAR MILIAN Juan Carlos,14974,1999-02-21,21,M,CUB,A,94.9,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,145,150,155,155,188,-195,-195,188,343
-4,4,4,LAMENZA LOPEZ Luis Armando,7458,1998-05-06,21.8,M,PUR,A,96,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,142,-150,-151,142,-170,170,-180,170,312
+1,1,1,LEMUS CALANCHE Gilberto Antonio,7886,1994-02-04,26.1,M,GUA,A,130.2,+109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,160,170,-173,170,193,-200,-200,193,363
+1,1,2,SALADIN TOLENTINO Veronica Estela,12332,1992-05-21,27.8,W,DOM,A,127.5,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-118,118,-123,118,140,146,-148,146,264
+2,2,1,ESPINOSA Yaniuska,4060,1986-12-05,33.2,W,VEN,A,113.2,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,110,115,117,117,140,145,147,147,264
+3,3,3,DUVERGER PILETA Eyurkenia,3798,1999-10-04,20.4,W,CUB,A,98.1,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,96,98,98,120,123,126,126,224
+4,4,4,CORREA MENA Dalia Beatriz,3087,1999-01-28,21.1,W,CUB,A,100.9,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,90,94,-96,94,118,122,124,124,218
+5,5,5,UCELO MARROQUIN Scarleth Vanessa,14309,2000-04-07,19.9,W,GUA,A,107.9,+87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,75,79,-82,79,108,-112,112,112,191
+1,1,1,QUESADA JAIME Jesus Manuel,11429,1996-09-30,23.4,M,CUB,A,98.8,102 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,140,147,-152,147,175,-183,183,183,330
+1,1,1,GONZALEZ BARRIOS Jesus Abrahan,4875,1991-04-22,28.9,M,VEN,A,109,109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,169,-173,-173,169,208,211,-215,211,380
+2,2,2,COLUMBIE SANAME Juan,3035,1995-01-24,25.1,M,CUB,A,107.9,109 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,165,-173,-173,165,200,206,210,210,375
+1,1,1,GONZALEZ MAIRENA Jessica Massiel,4890,2000-01-25,20.1,W,NCA,A,44.3,45 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,50,55,60,60,-70,70,-80,70,130
+1,1,1,MONTERO RAMOS Ludia Marguiela,9484,1999-04-17,20.9,W,CUB,A,49,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-78,-78,78,78,95,-100,100,100,178
+2,2,3,REYNOSO LOPEZ DE GALEANO Margoth Y.,11758,1989-02-25,31,W,GUA,A,48.7,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,65,70,73,73,85,90,-93,90,163
+NA,NA,2,PIRON CANDELARIO Beatriz Elizabeth,11138,1995-02-27,25,W,DOM,A,48.8,49 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-82,-82,-82,NA,96,-101,-101,96,NA
+1,1,1,GUZMAN PEREZ Gilyeliz Saned,5211,1996-10-28,23.3,W,PUR,A,54.8,55 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,75,80,84,84,97,102,106,106,190
+1,3,1,GONZALEZ GALA Naveys Andrea,4884,2000-09-20,19.5,W,CUB,A,58.5,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,76,79,81,81,100,105,107,107,188
+2,2,2,PREVAL Eliany,11319,2000-09-19,19.5,W,CUB,A,58.8,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,78,-81,82,82,102,-105,105,105,187
+3,4,3,GONZALEZ CONTRERAS Santos Isabel,4881,1992-04-17,27.9,W,GUA,A,58.6,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,66,71,73,73,88,92,-94,92,165
+4,5,4,MORENO RODRIGUEZ Karla Leticia,9537,1988-03-15,32,W,NCA,A,56.8,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,65,70,-73,70,85,-90,90,90,160
+NA,1,NA,GUICHO RECIO Quisia Yaneli,5103,1987-09-12,32.5,W,MEX,A,59,59 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-88,88,-91,88,-117,-117,-117,NA,NA
+1,2,1,CALDERON LICOURT Arley Lazaro,2317,1999-02-26,21,M,CUB,A,60.7,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,116,120,122,122,151,-156,159,159,281
+2,1,2,GARCIA BRITO Luis Alberto,4592,1995-04-19,24.9,M,DOM,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,117,121,123,123,152,-157,157,157,280
+3,3,3,ONATE ARAUJO Otto Felix,10430,2000-01-23,20.1,M,CUB,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,117,-120,120,120,150,155,-160,155,275
+4,4,4,MONTES GONGORA Jose Lino,9487,1989-04-18,30.9,M,MEX,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,115,118,-121,118,-141,141,147,147,265
+5,5,5,VASQUEZ MORALES Orlando Antonio,14562,1997-10-28,22.3,M,NCA,A,60.5,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-115,115,-118,115,140,-146,-146,140,255
+6,6,7,CRUZ LOPEZ Dario Enrique,3147,1997-08-23,22.5,M,GUA,A,61,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,100,105,110,110,130,135,-140,135,245
+7,7,6,ESQUIVEL MORALES Henry Eduardo,4069,2000-01-21,20.1,M,GUA,A,59.1,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,97,102,-106,102,125,130,136,136,238
+8,8,8,JOSEPH Edouard,6418,1989-12-24,30.2,M,HAI,A,60.3,61 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-96,-96,96,96,115,121,-126,121,217
+1,2,1,RODRIGUEZ MITJAN Marina De La Caridad,11965,1995-03-02,25,W,CUB,A,64,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-94,-94,94,94,119,124,127,127,221
+2,1,2,FATTOUH Mahassen Hala,4201,1989-08-27,30.5,W,LBN,A,63.8,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,89,92,95,95,-116,-116,117,117,212
+3,3,3,LUDRICK RIVAS Sema Nancy,8332,1999-12-21,20.2,W,NCA,A,63.4,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,80,83,-90,83,102,106,113,113,196
+4,4,4,CRUZ HERNANDEZ Lesbia Marielis,3145,1987-09-10,32.5,W,GUA,A,63.9,64 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-77,-77,77,77,100,105,-108,105,182
+1,2,1,PINEDA ZETA Edgar Ismael,11112,1997-08-17,22.5,M,GUA,A,66.7,67 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,120,-130,-130,120,150,160,-170,160,280
+2,1,2,HERRERA VEGA Reydiel,5575,1998-11-12,21.3,M,CUB,A,66,67 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-116,116,121,121,145,150,-155,150,271
+1,1,1,MIRABAL FERIA Yeniuska,9248,1997-04-12,22.9,W,CUB,A,70.2,71 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,-96,96,96,115,120,122,122,218
+2,2,2,MALDONADO PANJOJ Maria Alejandra,8564,2001-10-16,18.4,W,GUA,A,68.7,71 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,70,75,77,77,92,97,100,100,177
+1,1,1,CASTRO PEREZ Miguel Jesus,2504,2000-11-16,19.3,M,CUB,A,70.2,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,130,-136,-136,130,155,160,-165,160,290
+2,2,2,EDISNEL ENRIQUE Corrales Rondon,3843,2001-08-06,18.6,M,CUB,A,68.5,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,120,125,-130,125,150,155,160,160,285
+3,3,3,VALDIZON CORONADO Oscar Fernando,14453,1989-06-12,30.7,M,GUA,A,73,73 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,122,-127,-127,122,153,158,-166,158,280
+1,1,1,FUENTES ZAVALA Aremi,4465,1993-05-23,26.8,W,MEX,A,75.9,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,103,106,-109,106,128,131,135,135,241
+2,2,2,LAYLOR Maya,7768,1995-07-04,24.7,W,CAN,A,75.3,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,95,97,99,99,121,126,130,130,229
+3,3,3,AGUILERA PENA Melisa Maida,279,1999-06-18,20.7,W,CUB,A,75.8,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,92,96,98,98,120,125,128,128,226
+4,4,4,LOPEZ RODRIGUEZ Kidaisha,8259,1993-01-03,27.2,W,PUR,A,72.7,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,81,83,85,85,100,102,-105,102,187
+5,5,5,GONZALEZ CONTRERAS Azucena Abigail,4878,1997-04-26,22.9,W,GUA,A,71.4,76 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,70,75,-80,75,90,95,98,98,173
+1,1,1,BONNAT MICHEL Zacarias,1990,1996-02-27,24,M,DOM,A,80.6,81 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,150,157,162,162,191,201,206,206,368
+2,2,2,RAMIREZ CABRERA Gilberto Antonio,11555,1998-10-27,21.3,M,CUB,A,78.7,81 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,133,-138,138,138,160,165,-170,165,303
+1,1,1,PEREZ REVERON Naryury Alexandra,10969,1992-09-29,27.4,W,VEN,A,87,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,105,107,-111,107,135,138,-140,138,245
+2,2,3,SANTANA PEGUERO Crismery Dominga,12503,1995-04-20,24.9,W,DOM,A,87,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,101,-106,106,106,125,131,136,136,242
+3,3,2,CHIRINOS LEON Dayana Aracelis,2833,1991-10-04,28.4,W,VEN,A,86.2,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-103,103,-106,103,133,-137,137,137,240
+4,4,4,RODRIGUEZ MIRANDA Keyshla Ivette,11964,1991-11-15,28.3,W,PUR,A,86.6,87 kg Women,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-87,87,92,92,112,117,-122,117,209
+1,1,1,SAEZ VERA Olfides,12263,1994-09-24,25.4,M,CUB,A,88.1,89 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,155,160,165,165,195,201,-205,201,366
+1,2,1,LUNA MARIN Angel Jose,8364,1994-10-13,25.4,M,VEN,A,94.4,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-165,165,-169,165,204,207,-210,207,372
+2,1,2,VALLENILLA SANCHEZ Keydomar Giovanni,14487,1999-10-08,20.4,M,VEN,A,95.6,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,-165,165,169,169,200,-206,-206,200,369
+3,3,3,ZALDIVAR MILIAN Juan Carlos,15413,1999-02-21,21,M,CUB,A,94.9,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,145,150,155,155,188,-195,-195,188,343
+4,4,4,LAMENZA LOPEZ Luis Armando,7680,1998-05-06,21.8,M,PUR,A,96,96 kg Men,0,0,503,"39th Torneo Int. Manuel Suarez"" In Memoriam",2020-03-03,142,-150,-151,142,-170,170,-180,170,312

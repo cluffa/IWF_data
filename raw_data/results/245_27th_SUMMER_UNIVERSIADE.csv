@@ -325,7 +325,6 @@ DSQ,NABIYEV Nailkhan,AZE,"Nov 24, 1994",93.95,A,---,---,---,,94kgMen,Total,245,T
 DSQ,ZAICHIKOV Alexandr,KAZ,"Aug 17, 1992",93.65,A,---,---,---,,94kgMen,Total,245,True
 ---,LIU Hao,CHN,"Jul 20, 1989",100.27,A,165,-170,-170,165,105kgMen,Snatch,245,True
 ---,JEON Daeun,KOR,"Aug 09, 1992",104.46,A,160,-168,-168,160,105kgMen,Snatch,245,True
----,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,175,180,183,183,105kgMen,Snatch,245,True
 ---,BEDZHANYAN David,RUS,"Sep 06, 1988",104.60,A,175,179,-183,179,105kgMen,Snatch,245,True
 ---,ISTOMIN Sergey,KAZ,"Jan 24, 1986",104.50,A,170,-175,-175,170,105kgMen,Snatch,245,True
 ---,PLESNIEKS Arturs,LAT,"Jan 21, 1992",104.55,A,170,-175,-176,170,105kgMen,Snatch,245,True
@@ -341,10 +340,10 @@ DSQ,ZAICHIKOV Alexandr,KAZ,"Aug 17, 1992",93.65,A,---,---,---,,94kgMen,Total,245
 ---,OLAVE Orlando,COL,"Feb 28, 1985",100.03,B,145,150,-155,150,105kgMen,Snatch,245,True
 ---,SELLOU Ahmed Hassan Nasreldin M.,EGY,"Dec 03, 1989",101.95,B,160,-165,165,165,105kgMen,Snatch,245,True
 ---,NURUDINOV Ruslan,UZB,"Nov 24, 1991",104.30,A,184,-188,190,190,105kgMen,Snatch,245,True
+DSQ,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,175,180,183,---,105kgMen,Snatch,245,True
 DSQ,MANAGADZE Aluda,AZE,"Mar 08, 1986",104.30,A,178,181,-185,---,105kgMen,Snatch,245,True
 ---,LIU Hao,CHN,"Jul 20, 1989",100.27,A,212,220,-223,220,105kgMen,CleanJerk,245,True
 ---,JEON Daeun,KOR,"Aug 09, 1992",104.46,A,-200,-200,200,200,105kgMen,CleanJerk,245,True
----,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,212,223,-231,223,105kgMen,CleanJerk,245,True
 ---,BEDZHANYAN David,RUS,"Sep 06, 1988",104.60,A,211,216,224,224,105kgMen,CleanJerk,245,True
 ---,ISTOMIN Sergey,KAZ,"Jan 24, 1986",104.50,A,-205,205,-210,205,105kgMen,CleanJerk,245,True
 ---,PLESNIEKS Arturs,LAT,"Jan 21, 1992",104.55,A,205,---,---,205,105kgMen,CleanJerk,245,True
@@ -360,25 +359,26 @@ DSQ,MANAGADZE Aluda,AZE,"Mar 08, 1986",104.30,A,178,181,-185,---,105kgMen,Snatch
 ---,OLAVE Orlando,COL,"Feb 28, 1985",100.03,B,190,-200,-200,190,105kgMen,CleanJerk,245,True
 ---,SELLOU Ahmed Hassan Nasreldin M.,EGY,"Dec 03, 1989",101.95,B,190,-195,-195,190,105kgMen,CleanJerk,245,True
 ---,NURUDINOV Ruslan,UZB,"Nov 24, 1991",104.30,A,215,222,---,222,105kgMen,CleanJerk,245,True
+DSQ,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,212,223,-231,---,105kgMen,CleanJerk,245,True
 DSQ,MANAGADZE Aluda,AZE,"Mar 08, 1986",104.30,A,205,210,-215,---,105kgMen,CleanJerk,245,True
 1,NURUDINOV Ruslan,UZB,"Nov 24, 1991",104.30,A,190,222,412,,105kgMen,Total,245,True
-2,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,183,223,406,,105kgMen,Total,245,True
-3,BEDZHANYAN David,RUS,"Sep 06, 1988",104.60,A,179,224,403,,105kgMen,Total,245,True
-4,LIU Hao,CHN,"Jul 20, 1989",100.27,A,165,220,385,,105kgMen,Total,245,True
-5,ISTOMIN Sergey,KAZ,"Jan 24, 1986",104.50,A,170,205,375,,105kgMen,Total,245,True
-6,PLESNIEKS Arturs,LAT,"Jan 21, 1992",104.55,A,170,205,375,,105kgMen,Total,245,True
-7,KOVAC Matej,SVK,"Jun 01, 1992",102.50,A,167,200,367,,105kgMen,Total,245,True
-8,JEON Daeun,KOR,"Aug 09, 1992",104.46,A,160,200,360,,105kgMen,Total,245,True
-9,PYLYPENKO Vasyl,UKR,"Nov 03, 1991",104.51,B,160,197,357,,105kgMen,Total,245,True
-10,WILSON Ian Burdick,USA,"Jan 08, 1994",98.60,B,158,197,355,,105kgMen,Total,245,True
-11,SELLOU Ahmed Hassan Nasreldin M.,EGY,"Dec 03, 1989",101.95,B,165,190,355,,105kgMen,Total,245,True
-12,OLAVE Orlando,COL,"Feb 28, 1985",100.03,B,150,190,340,,105kgMen,Total,245,True
-13,LICHOVOJ Sergej,LTU,"Jul 27, 1993",101.91,B,150,187,337,,105kgMen,Total,245,True
-14,BURLA Emerson,ARG,"Dec 01, 1985",103.20,B,145,180,325,,105kgMen,Total,245,True
-15,COCKRELL Kollin Mark,USA,"Oct 01, 1992",103.45,B,143,180,323,,105kgMen,Total,245,True
-16,SHUKAT Haroon,PAK,"Jul 29, 1988",101.06,B,129,150,279,,105kgMen,Total,245,True
+2,BEDZHANYAN David,RUS,"Sep 06, 1988",104.60,A,179,224,403,,105kgMen,Total,245,True
+3,LIU Hao,CHN,"Jul 20, 1989",100.27,A,165,220,385,,105kgMen,Total,245,True
+4,ISTOMIN Sergey,KAZ,"Jan 24, 1986",104.50,A,170,205,375,,105kgMen,Total,245,True
+5,PLESNIEKS Arturs,LAT,"Jan 21, 1992",104.55,A,170,205,375,,105kgMen,Total,245,True
+6,KOVAC Matej,SVK,"Jun 01, 1992",102.50,A,167,200,367,,105kgMen,Total,245,True
+7,JEON Daeun,KOR,"Aug 09, 1992",104.46,A,160,200,360,,105kgMen,Total,245,True
+8,PYLYPENKO Vasyl,UKR,"Nov 03, 1991",104.51,B,160,197,357,,105kgMen,Total,245,True
+9,WILSON Ian Burdick,USA,"Jan 08, 1994",98.60,B,158,197,355,,105kgMen,Total,245,True
+10,SELLOU Ahmed Hassan Nasreldin M.,EGY,"Dec 03, 1989",101.95,B,165,190,355,,105kgMen,Total,245,True
+11,OLAVE Orlando,COL,"Feb 28, 1985",100.03,B,150,190,340,,105kgMen,Total,245,True
+12,LICHOVOJ Sergej,LTU,"Jul 27, 1993",101.91,B,150,187,337,,105kgMen,Total,245,True
+13,BURLA Emerson,ARG,"Dec 01, 1985",103.20,B,145,180,325,,105kgMen,Total,245,True
+14,COCKRELL Kollin Mark,USA,"Oct 01, 1992",103.45,B,143,180,323,,105kgMen,Total,245,True
+15,SHUKAT Haroon,PAK,"Jul 29, 1988",101.06,B,129,150,279,,105kgMen,Total,245,True
 ---,PONOMARENKO Oleksii,UKR,"Mar 27, 1992",104.46,B,---,---,---,,105kgMen,Total,245,True
 ---,BARARI Mohammadreza,IRI,"Mar 31, 1988",104.43,A,170,---,---,,105kgMen,Total,245,True
+DSQ,DEMANOV Andrey,RUS,"Jul 15, 1985",104.32,A,---,---,---,,105kgMen,Total,245,True
 DSQ,MANAGADZE Aluda,AZE,"Mar 08, 1986",104.30,A,---,---,---,,105kgMen,Total,245,True
 ---,MOHAMED Ahmed Mohamed Abdelaziz,EGY,"Apr 27, 1988",130.85,A,170,-175,176,176,+105kgMen,Snatch,245,True
 ---,BUTT Mustaqeem Mahmood,PAK,"Jan 28, 1991",128.90,A,-130,135,-140,135,+105kgMen,Snatch,245,True

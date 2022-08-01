@@ -60,32 +60,32 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 ---,SSEKITOLEKO Julius,UGA,"Aug 07, 2000",62.50,A,100,---,---,,67kgMen,Total,477,False
 ---,ANDRIATSITOHAINA Tojonirina Alain,MAD,"Feb 26, 1995",66.40,A,132,---,---,,67kgMen,Total,477,False
 1,BEN HNIA Karem,TUN,"Nov 13, 1994",72.20,A,145,-150,153,153,73kgMen,Snatch,477,False
-2,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,138,-141,-143,138,73kgMen,Snatch,477,False
-3,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,130,-135,-137,130,73kgMen,Snatch,477,False
-4,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,-121,121,-131,121,73kgMen,Snatch,477,False
-5,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,110,116,120,120,73kgMen,Snatch,477,False
-6,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,110,115,119,119,73kgMen,Snatch,477,False
-7,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,111,-116,-116,111,73kgMen,Snatch,477,False
-8,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,101,-108,109,109,73kgMen,Snatch,477,False
-9,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,90,-96,-100,90,73kgMen,Snatch,477,False
+2,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,130,-135,-137,130,73kgMen,Snatch,477,False
+3,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,-121,121,-131,121,73kgMen,Snatch,477,False
+4,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,110,116,120,120,73kgMen,Snatch,477,False
+5,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,110,115,119,119,73kgMen,Snatch,477,False
+6,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,111,-116,-116,111,73kgMen,Snatch,477,False
+7,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,101,-108,109,109,73kgMen,Snatch,477,False
+8,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,90,-96,-100,90,73kgMen,Snatch,477,False
+DSQ,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,138,-141,-143,---,73kgMen,Snatch,477,False
 1,BEN HNIA Karem,TUN,"Nov 13, 1994",72.20,A,180,-189,---,180,73kgMen,CleanJerk,477,False
-2,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,175,-187,-189,175,73kgMen,CleanJerk,477,False
-3,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,155,158,162,162,73kgMen,CleanJerk,477,False
-4,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,145,150,156,156,73kgMen,CleanJerk,477,False
-5,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,137,146,-151,146,73kgMen,CleanJerk,477,False
-6,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,135,-142,-144,135,73kgMen,CleanJerk,477,False
-7,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,132,-141,-141,132,73kgMen,CleanJerk,477,False
-8,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,131,-142,-143,131,73kgMen,CleanJerk,477,False
-9,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,-115,115,123,123,73kgMen,CleanJerk,477,False
+2,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,155,158,162,162,73kgMen,CleanJerk,477,False
+3,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,145,150,156,156,73kgMen,CleanJerk,477,False
+4,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,137,146,-151,146,73kgMen,CleanJerk,477,False
+5,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,135,-142,-144,135,73kgMen,CleanJerk,477,False
+6,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,132,-141,-141,132,73kgMen,CleanJerk,477,False
+7,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,131,-142,-143,131,73kgMen,CleanJerk,477,False
+8,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,-115,115,123,123,73kgMen,CleanJerk,477,False
+DSQ,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,175,-187,-189,---,73kgMen,CleanJerk,477,False
 1,BEN HNIA Karem,TUN,"Nov 13, 1994",72.20,A,153,180,333,,73kgMen,Total,477,False
-2,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,138,175,313,,73kgMen,Total,477,False
-3,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,130,162,292,,73kgMen,Total,477,False
-4,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,121,156,277,,73kgMen,Total,477,False
-5,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,120,146,266,,73kgMen,Total,477,False
-6,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,119,132,251,,73kgMen,Total,477,False
-7,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,111,135,246,,73kgMen,Total,477,False
-8,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,109,131,240,,73kgMen,Total,477,False
-9,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,90,123,213,,73kgMen,Total,477,False
+2,SARIAK Nafaa,ALG,"Nov 29, 1994",72.30,A,130,162,292,,73kgMen,Total,477,False
+3,MOUM Abderrahim,MAR,"Sep 18, 2000",71.90,A,121,156,277,,73kgMen,Total,477,False
+4,CONFIANCE Rick Yves,SEY,"May 24, 1994",72.10,A,120,146,266,,73kgMen,Total,477,False
+5,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",72.30,A,119,132,251,,73kgMen,Total,477,False
+6,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",71.40,A,111,135,246,,73kgMen,Total,477,False
+7,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.50,A,109,131,240,,73kgMen,Total,477,False
+8,NTSINYI Machachamise,LES,"Apr 29, 1998",72.60,A,90,123,213,,73kgMen,Total,477,False
+DSQ,IBRAHIM Moustafa Wahid Shaaban,EGY,"Dec 01, 1996",73.00,A,---,---,---,,73kgMen,Total,477,False
 1,MAHMOUD Mohamed Ihab Youssef Ahmed,EGY,"Nov 21, 1989",81.00,A,155,160,---,160,81kgMen,Snatch,477,False
 2,BAHLOUL Ramzi,TUN,"Oct 18, 1989",80.00,A,142,147,-152,147,81kgMen,Snatch,477,False
 3,SELDUM Mamdum Dickson,NGR,"Sep 23, 1992",80.70,A,-140,140,146,146,81kgMen,Snatch,477,False
@@ -158,24 +158,24 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 10,CORET Cedric Fabrice,MRI,"May 28, 1991",88.60,A,120,161,281,,89kgMen,Total,477,False
 11,AROMO Maurice Oduor,KEN,"Oct 22, 1988",87.50,A,110,145,255,,89kgMen,Total,477,False
 12,SOLOMON Dikabelo,BOT,"Jul 23, 1995",86.50,A,106,135,241,,89kgMen,Total,477,False
-1,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,160,165,-171,165,96kgMen,Snatch,477,False
-2,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,150,161,-166,161,96kgMen,Snatch,477,False
-3,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,-122,126,131,131,96kgMen,Snatch,477,False
-4,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,123,128,-132,128,96kgMen,Snatch,477,False
-5,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,111,121,-127,121,96kgMen,Snatch,477,False
-6,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,110,-120,120,120,96kgMen,Snatch,477,False
-1,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,195,208,-213,208,96kgMen,CleanJerk,477,False
-2,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,-190,190,-196,190,96kgMen,CleanJerk,477,False
-3,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,165,170,-181,170,96kgMen,CleanJerk,477,False
-4,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,150,-166,-166,150,96kgMen,CleanJerk,477,False
-5,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,135,146,-152,146,96kgMen,CleanJerk,477,False
-6,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,145,-151,-151,145,96kgMen,CleanJerk,477,False
-1,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,165,208,373,,96kgMen,Total,477,False
-2,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,161,190,351,,96kgMen,Total,477,False
-3,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,131,170,301,,96kgMen,Total,477,False
-4,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,128,150,278,,96kgMen,Total,477,False
-5,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,121,146,267,,96kgMen,Total,477,False
-6,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,120,145,265,,96kgMen,Total,477,False
+1,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,150,161,-166,161,96kgMen,Snatch,477,False
+2,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,-122,126,131,131,96kgMen,Snatch,477,False
+3,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,123,128,-132,128,96kgMen,Snatch,477,False
+4,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,111,121,-127,121,96kgMen,Snatch,477,False
+5,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,110,-120,120,120,96kgMen,Snatch,477,False
+DSQ,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,160,165,-171,---,96kgMen,Snatch,477,False
+1,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,-190,190,-196,190,96kgMen,CleanJerk,477,False
+2,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,165,170,-181,170,96kgMen,CleanJerk,477,False
+3,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,150,-166,-166,150,96kgMen,CleanJerk,477,False
+4,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,135,146,-152,146,96kgMen,CleanJerk,477,False
+5,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,145,-151,-151,145,96kgMen,CleanJerk,477,False
+DSQ,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,195,208,-213,---,96kgMen,CleanJerk,477,False
+1,MESSAOUI Saddam,ALG,"Jul 24, 1991",95.00,A,161,190,351,,96kgMen,Total,477,False
+2,KUBO Zubairi,UGA,"Jan 10, 1995",95.20,A,131,170,301,,96kgMen,Total,477,False
+3,DARGAL Anas,MAR,"Sep 23, 1997",89.60,A,128,150,278,,96kgMen,Total,477,False
+4,EZZOHARI Badreddine,MAR,"Jan 22, 2001",94.20,A,121,146,267,,96kgMen,Total,477,False
+5,ADEDE James Omondi,KEN,"Oct 31, 1986",95.20,A,120,145,265,,96kgMen,Total,477,False
+DSQ,ABDELALIM Mohamed Mahmoud Selim,EGY,"Dec 29, 1997",95.10,A,---,---,---,,96kgMen,Total,477,False
 1,ABDALLA Ragab Abdelhay Saad A.,EGY,"Mar 04, 1991",99.60,A,160,165,170,170,102kgMen,Snatch,477,False
 2,ESSAMA OWONA Denis Joel,CMR,"Oct 16, 1989",100.00,A,-152,152,159,159,102kgMen,Snatch,477,False
 3,BARDE Patrick,NGR,"Dec 10, 2001",101.40,A,150,155,158,158,102kgMen,Snatch,477,False
@@ -212,24 +212,24 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 1,MOHAMED Gaber Ahmed Farhan,EGY,"Sep 01, 1985",106.90,A,165,203,368,,109kgMen,Total,477,False
 2,BACHA Aymen,TUN,"Oct 26, 1999",107.70,A,167,200,367,,109kgMen,Total,477,False
 ---,ABDELAZIZ Mohamed Abdelrahman M,EGY,"Apr 07, 1998",108.30,A,---,195,---,,109kgMen,Total,477,False
-1,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,165,---,---,165,+109kgMen,Snatch,477,False
-2,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,150,160,-166,160,+109kgMen,Snatch,477,False
-3,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,-141,141,143,143,+109kgMen,Snatch,477,False
-4,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,130,140,142,142,+109kgMen,Snatch,477,False
-5,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,120,130,-135,130,+109kgMen,Snatch,477,False
-6,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,-120,120,-131,120,+109kgMen,Snatch,477,False
-1,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,196,---,---,196,+109kgMen,CleanJerk,477,False
-2,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,-182,182,195,195,+109kgMen,CleanJerk,477,False
-3,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,170,180,-190,180,+109kgMen,CleanJerk,477,False
-4,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,162,171,-181,171,+109kgMen,CleanJerk,477,False
-5,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,150,160,-170,160,+109kgMen,CleanJerk,477,False
-6,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,155,-165,-165,155,+109kgMen,CleanJerk,477,False
-1,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,165,196,361,,+109kgMen,Total,477,False
-2,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,160,195,355,,+109kgMen,Total,477,False
-3,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,143,180,323,,+109kgMen,Total,477,False
-4,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,142,171,313,,+109kgMen,Total,477,False
-5,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,130,155,285,,+109kgMen,Total,477,False
-6,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,120,160,280,,+109kgMen,Total,477,False
+1,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,150,160,-166,160,+109kgMen,Snatch,477,False
+2,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,-141,141,143,143,+109kgMen,Snatch,477,False
+3,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,130,140,142,142,+109kgMen,Snatch,477,False
+4,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,120,130,-135,130,+109kgMen,Snatch,477,False
+5,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,-120,120,-131,120,+109kgMen,Snatch,477,False
+DSQ,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,165,---,---,---,+109kgMen,Snatch,477,False
+1,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,-182,182,195,195,+109kgMen,CleanJerk,477,False
+2,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,170,180,-190,180,+109kgMen,CleanJerk,477,False
+3,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,162,171,-181,171,+109kgMen,CleanJerk,477,False
+4,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,150,160,-170,160,+109kgMen,CleanJerk,477,False
+5,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,155,-165,-165,155,+109kgMen,CleanJerk,477,False
+DSQ,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,196,---,---,---,+109kgMen,CleanJerk,477,False
+1,CHOUYA Rabeh,ALG,"Sep 10, 1988",113.40,A,160,195,355,,+109kgMen,Total,477,False
+2,ABDULHAKEEM Tijjani,NGR,"Feb 07, 1987",124.00,A,143,180,323,,+109kgMen,Total,477,False
+3,LAGSIR Badr-Eddine,MAR,"Apr 27, 1995",114.50,A,142,171,313,,+109kgMen,Total,477,False
+4,BERTALI Zakaria,MAR,"Oct 07, 1985",113.80,A,130,155,285,,+109kgMen,Total,477,False
+5,JUBOO Khelwin,MRI,"Jun 27, 2002",109.60,A,120,160,280,,+109kgMen,Total,477,False
+DSQ,ELSAYED Abdelrahman Mohamed A. A.,EGY,"May 19, 1989",143.10,A,---,---,---,,+109kgMen,Total,477,False
 1,RANDAFIARISON Rosina,MAD,"Dec 29, 1999",43.90,A,65,70,-73,70,45kgWomen,Snatch,477,False
 2,KINGSLEY Stella Peter,NGR,"Nov 13, 2002",44.50,A,55,58,-61,58,45kgWomen,Snatch,477,False
 3,NTUMI Winnifred,GHA,"Sep 28, 2002",44.90,A,52,55,57,57,45kgWomen,Snatch,477,False
@@ -246,17 +246,17 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 2,CHIHI Zohra,TUN,"Aug 27, 1994",48.80,A,68,-72,72,72,49kgWomen,Snatch,477,False
 3,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",48.60,A,-71,71,-74,71,49kgWomen,Snatch,477,False
 4,AHMED Heba Saleh Mahmoud,EGY,"Jul 03, 1996",49.00,A,69,-73,-73,69,49kgWomen,Snatch,477,False
-5,ENOCK KANGERE Rachael,KEN,"Sep 12, 2004",49.00,A,-43,43,46,46,49kgWomen,Snatch,477,False
+5,ENOCK Rachel Achieng,KEN,"Sep 12, 2004",49.00,A,-43,43,46,46,49kgWomen,Snatch,477,False
 1,RANAIVOSOA Marie Hanitra Roilya,MRI,"Nov 14, 1990",49.00,A,92,94,-95,94,49kgWomen,CleanJerk,477,False
 2,AHMED Heba Saleh Mahmoud,EGY,"Jul 03, 1996",49.00,A,90,-93,93,93,49kgWomen,CleanJerk,477,False
 3,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",48.60,A,90,-93,-93,90,49kgWomen,CleanJerk,477,False
 4,CHIHI Zohra,TUN,"Aug 27, 1994",48.80,A,82,86,-88,86,49kgWomen,CleanJerk,477,False
-5,ENOCK KANGERE Rachael,KEN,"Sep 12, 2004",49.00,A,47,-51,-51,47,49kgWomen,CleanJerk,477,False
+5,ENOCK Rachel Achieng,KEN,"Sep 12, 2004",49.00,A,47,-51,-51,47,49kgWomen,CleanJerk,477,False
 1,RANAIVOSOA Marie Hanitra Roilya,MRI,"Nov 14, 1990",49.00,A,75,94,169,,49kgWomen,Total,477,False
 2,AHMED Heba Saleh Mahmoud,EGY,"Jul 03, 1996",49.00,A,69,93,162,,49kgWomen,Total,477,False
 3,NWAOKOLO Augustina Nkem,NGR,"Dec 12, 1992",48.60,A,71,90,161,,49kgWomen,Total,477,False
 4,CHIHI Zohra,TUN,"Aug 27, 1994",48.80,A,72,86,158,,49kgWomen,Total,477,False
-5,ENOCK KANGERE Rachael,KEN,"Sep 12, 2004",49.00,A,46,47,93,,49kgWomen,Total,477,False
+5,ENOCK Rachel Achieng,KEN,"Sep 12, 2004",49.00,A,46,47,93,,49kgWomen,Total,477,False
 1,AMALAHA Chika Joy,NGR,"Oct 28, 1997",54.80,A,90,93,-94,93,55kgWomen,Snatch,477,False
 2,OLARINOYE Adijat Adenike,NGR,"Jul 14, 1999",54.70,A,90,93,-95,93,55kgWomen,Snatch,477,False
 3,BENMILOUD Meryem Nada,ALG,"Sep 26, 1997",55.00,A,62,-66,-67,62,55kgWomen,Snatch,477,False
@@ -353,45 +353,45 @@ rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_clas
 7,NYIRO Wilkister,KEN,"Feb 18, 1992",69.80,A,65,78,143,,71kgWomen,Total,477,False
 8,HALBANE Zahira,MAR,"Oct 09, 2001",65.60,A,61,75,136,,71kgWomen,Total,477,False
 9,TSOSANE Makoena,LES,"Aug 14, 1997",70.40,A,50,65,115,,71kgWomen,Total,477,False
-1,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,105,-111,-115,105,76kgWomen,Snatch,477,False
-2,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,83,86,88,88,76kgWomen,Snatch,477,False
-3,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,75,84,-87,84,76kgWomen,Snatch,477,False
-4,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,-60,61,68,68,76kgWomen,Snatch,477,False
-5,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,45,-50,-50,45,76kgWomen,Snatch,477,False
-1,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,133,-141,---,133,76kgWomen,CleanJerk,477,False
-2,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,102,107,-110,107,76kgWomen,CleanJerk,477,False
-3,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,95,105,-110,105,76kgWomen,CleanJerk,477,False
-4,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,80,85,-90,85,76kgWomen,CleanJerk,477,False
-5,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,-60,-60,60,60,76kgWomen,CleanJerk,477,False
-1,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,105,133,238,,76kgWomen,Total,477,False
-2,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,88,107,195,,76kgWomen,Total,477,False
-3,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,84,105,189,,76kgWomen,Total,477,False
-4,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,68,85,153,,76kgWomen,Total,477,False
-5,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,45,60,105,,76kgWomen,Total,477,False
+1,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,83,86,88,88,76kgWomen,Snatch,477,False
+2,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,75,84,-87,84,76kgWomen,Snatch,477,False
+3,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,-60,61,68,68,76kgWomen,Snatch,477,False
+4,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,45,-50,-50,45,76kgWomen,Snatch,477,False
+DSQ,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,105,-111,-115,---,76kgWomen,Snatch,477,False
+1,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,102,107,-110,107,76kgWomen,CleanJerk,477,False
+2,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,95,105,-110,105,76kgWomen,CleanJerk,477,False
+3,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,80,85,-90,85,76kgWomen,CleanJerk,477,False
+4,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,-60,-60,60,60,76kgWomen,CleanJerk,477,False
+DSQ,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,133,-141,---,---,76kgWomen,CleanJerk,477,False
+1,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",74.70,A,88,107,195,,76kgWomen,Total,477,False
+2,SUNEE Alison Marie Leroy,MRI,"Jul 20, 1999",74.80,A,84,105,189,,76kgWomen,Total,477,False
+3,CHARKANI Chaimaa,MAR,"Mar 25, 1997",75.90,A,68,85,153,,76kgWomen,Total,477,False
+4,KHOJALI Zikryat,SUD,"Dec 12, 1994",74.10,A,45,60,105,,76kgWomen,Total,477,False
+DSQ,AHMED Sara Samir Elsayed Mohamed,EGY,"Jan 01, 1998",75.00,A,---,---,---,,76kgWomen,Total,477,False
 1,MUSA Fatima Otiameh,NGR,"Apr 27, 1999",77.10,A,91,95,97,97,81kgWomen,Snatch,477,False
 2,FARAG Salma Ahmed Mahmoud Awad,EGY,"Sep 11, 2002",80.80,A,92,96,-98,96,81kgWomen,Snatch,477,False
 3,TAIWO Liadi,NGR,"Jun 14, 2002",77.30,A,90,93,95,95,81kgWomen,Snatch,477,False
 4,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,CMR,"Aug 01, 1998",80.20,A,85,90,-94,90,81kgWomen,Snatch,477,False
 1,MUSA Fatima Otiameh,NGR,"Apr 27, 1999",77.10,A,115,118,122,122,81kgWomen,CleanJerk,477,False
+2,FARAG Salma Ahmed Mahmoud Awad,EGY,"Sep 11, 2002",80.80,A,112,117,120,120,81kgWomen,CleanJerk,477,False
 2,TAIWO Liadi,NGR,"Jun 14, 2002",77.30,A,112,117,121,121,81kgWomen,CleanJerk,477,False
-3,FARAG Salma Ahmed Mahmoud Awad,EGY,"Sep 11, 2002",80.80,A,112,117,120,120,81kgWomen,CleanJerk,477,False
-4,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,CMR,"Aug 01, 1998",80.20,A,111,-116,-118,111,81kgWomen,CleanJerk,477,False
+3,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,CMR,"Aug 01, 1998",80.20,A,111,-116,-118,111,81kgWomen,CleanJerk,477,False
 1,MUSA Fatima Otiameh,NGR,"Apr 27, 1999",77.10,A,97,122,219,,81kgWomen,Total,477,False
 2,FARAG Salma Ahmed Mahmoud Awad,EGY,"Sep 11, 2002",80.80,A,96,120,216,,81kgWomen,Total,477,False
-3,TAIWO Liadi,NGR,"Jun 14, 2002",77.30,A,95,121,216,,81kgWomen,Total,477,False
-4,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,CMR,"Aug 01, 1998",80.20,A,90,111,201,,81kgWomen,Total,477,False
-1,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,100,103,106,106,87kgWomen,Snatch,477,False
-2,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.00,A,96,101,-104,101,87kgWomen,Snatch,477,False
-3,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,82,86,-90,86,87kgWomen,Snatch,477,False
-4,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,75,-83,-83,75,87kgWomen,Snatch,477,False
+2,TAIWO Liadi,NGR,"Jun 14, 2002",77.30,A,95,121,216,,81kgWomen,Total,477,False
+3,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,CMR,"Aug 01, 1998",80.20,A,90,111,201,,81kgWomen,Total,477,False
+1,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.00,A,96,101,-104,101,87kgWomen,Snatch,477,False
+2,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,82,86,-90,86,87kgWomen,Snatch,477,False
+3,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,75,-83,-83,75,87kgWomen,Snatch,477,False
+DSQ,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,100,103,106,---,87kgWomen,Snatch,477,False
 1,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.00,A,121,126,-130,126,87kgWomen,CleanJerk,477,False
-2,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,120,-124,125,125,87kgWomen,CleanJerk,477,False
-3,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,102,107,110,110,87kgWomen,CleanJerk,477,False
-4,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,-95,-95,95,95,87kgWomen,CleanJerk,477,False
-1,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,106,125,231,,87kgWomen,Total,477,False
-2,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.00,A,101,126,227,,87kgWomen,Total,477,False
-3,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,86,110,196,,87kgWomen,Total,477,False
-4,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,75,95,170,,87kgWomen,Total,477,False
+2,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,102,107,110,110,87kgWomen,CleanJerk,477,False
+3,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,-95,-95,95,95,87kgWomen,CleanJerk,477,False
+DSQ,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,120,-124,125,---,87kgWomen,CleanJerk,477,False
+1,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.00,A,101,126,227,,87kgWomen,Total,477,False
+2,HIRECH Bouchra Fatima Zohra,ALG,"Aug 22, 2000",81.30,A,86,110,196,,87kgWomen,Total,477,False
+3,OUASS Samira,MAR,"Apr 22, 1992",81.90,A,75,95,170,,87kgWomen,Total,477,False
+DSQ,HUSSEIN Samar Said Habashy Ahmed,EGY,"Sep 20, 1995",82.40,A,---,---,---,,87kgWomen,Total,477,False
 1,ABBAS Halima Abdelazim Sedky,EGY,"May 05, 1995",139.70,A,113,116,121,121,+87kgWomen,Snatch,477,False
 2,HARIDY Shaimaa Ahmed Khalaf,EGY,"Jan 01, 1991",120.60,A,-110,-110,110,110,+87kgWomen,Snatch,477,False
 3,JOSEPH Obehi,NGR,"Feb 20, 1994",102.60,A,95,99,105,105,+87kgWomen,Snatch,477,False

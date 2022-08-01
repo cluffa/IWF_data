@@ -117,8 +117,7 @@ def scrape_url(id: int = 522):
     #df['event'] = event
     df['event_id'] = id
     df['old_classes'] = old_classes
-    file = f'{dir}/../raw_data/results/' + str(id) + ' ' + event + '.csv'
-    file = file.replace(' ', '_').replace('-', '_')
+    file = f'{dir}/../raw_data/results/' + str(id) + '_' + event.replace(' ', '_').replace('-', '_').replace(',', '_').replace('"', "").replace("'", "") + '.csv'
     df.to_csv(file, index=False)
 
     print('Event ID: ' + str(id))
@@ -142,13 +141,12 @@ import multiprocessing as mp
 ids = pd.read_csv(f'{dir}/../raw_data/events.csv')['id']
 
 def updateResults():
-    for id in ids:
-        scrape_pass_errors(id)
-
-if __name__ == "__main__":
     pool = mp.Pool(mp.cpu_count())
     pool.map(scrape_pass_errors, ids)
     pool.close()
+
+if __name__ == "__main__":
+    updateResults()
 
 # unlisted = [1, 87, 101, 136, 169, 316, 377, 505]
 # 

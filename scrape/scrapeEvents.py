@@ -48,7 +48,8 @@ def updateEvents():
 
         combined = combined.append(df)
 
-    combined.sort_values('id').to_csv(f'{dir}/../raw_data/events.csv', index=False)
+    file = f'{dir}/../raw_data/events.csv'
+    combined.sort_values('id').to_csv(file, index=False)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     updateEvents()
