@@ -13,43 +13,43 @@ def updateEvents():
 
     dir = os.path.dirname(__file__)
 
-    urls = ['https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all',
-        'https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all']
+    urls = ["https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
+        "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all"]
 
     for url in urls:
         df = pd.DataFrame()
         req = requests.get(url)
         content = req.text
-        soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
+        soup = BeautifulSoup(content, "html.parser").find("div", "cards")
 
         ids = []
-        for id in soup.find_all('a', 'card', href=True):
-            ids.append(int(id['href'].replace('?event_id=', '')))
+        for id in soup.find_all("a", "card", href=True):
+            ids.append(int(id["href"].replace("?event_id=", "")))
 
-        df['id'] = ids
+        df["id"] = ids
 
         events = []
-        for event in soup.find_all('span', 'text'):
+        for event in soup.find_all("span", "text"):
             events.append(event.get_text())
 
-        df['event'] = events
+        df["event"] = events
 
         dates = []
-        for date in soup.find_all('div', 'col-md-2 col-4 not__cell__767'):
+        for date in soup.find_all("div", "col-md-2 col-4 not__cell__767"):
             dates.append(date.get_text().strip())
 
-        df['date'] = dates
+        df["date"] = dates
 
         locations = []
-        for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
-            locations.append(country.get_text().strip())
+        for country in soup.find_all("div", "col-md-3 col-4 not__cell__767"):
+            locations.append(country.get_text().strip().replace("  ", " "))
 
-        df['location'] = locations
+        df["location"] = locations
 
         combined = combined.append(df)
 
-    file = f'{dir}/../raw_data/events.csv'
-    combined.sort_values('id').to_csv(file, index=False)
+    file = f"{dir}/../raw_data/events.csv"
+    combined.sort_values("id").to_csv(file, index=False)
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     updateEvents()
