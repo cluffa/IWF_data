@@ -46,7 +46,7 @@ def updateEvents():
 
         df["location"] = locations
 
-        combined = combined.append(df)
+        combined = pd.concat([combined, df])
 
     file = f"{dir}/../raw_data/events.csv"
     combined.sort_values("id").to_csv(file, index=False)
