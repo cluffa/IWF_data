@@ -18,8 +18,7 @@ class EventHeaders:
 
 
 def write_to_csv(base_dir, filepath_name, data):
-    """yes"""
-    print(f"creating {filepath_name}.csv...")
+    """Code chunk from OWL / Sport80 API"""
     with open(join(base_dir, f"{filepath_name}.csv"), 'w', encoding='utf-8') as file_boi:
         csv_writer = writer(file_boi)
         csv_writer.writerows(data)
@@ -33,44 +32,35 @@ def updateEvents():
 
     all_bw_data = []
     for url in urls:
-        df = {}
         req = requests.get(url)
         content = req.text
         soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
-        ids = []
-        for id in soup.find_all('a', 'card', href=True):
-            ids.append(int(id['href'].replace('?event_id=', '')))
+        event_ids = []
+        for event_id in soup.find_all('a', 'card', href=True):
+            event_ids.append(int(event_id['href'].replace('?event_id=', '')))
 
-        df['id'] = ids
-
-        events = []
+        event_name = []
         for event in soup.find_all('span', 'text'):
-            events.append(event.get_text())
+            event_name.append(event.get_text())
 
-        df['event'] = events
-
-        dates = []
+        event_dates = []
         for date in soup.find_all('div', 'col-md-2 col-4 not__cell__767'):
-            dates.append(date.get_text().strip())
+            event_dates.append(date.get_text().strip())
 
-        df['date'] = dates
-
-        locations = []
+        event_locations = []
         for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
-            locations.append(country.get_text().strip())
+            event_locations.append(country.get_text().strip())
 
-        df['location'] = locations
-
-        # combined = combined.append(df)
-
-        zip_it = list(zip(df['id'], df['event'], df['date'], df['location']))
-        zip_it = [list(x) for x in zip_it]
+        zip_it = list(zip(event_ids, event_name, event_dates, event_locations))
+        # The below line could stay in, rest of the code doesn't really care that it's a list of tuples vs a list
+        # zip_it = [list(x) for x in zip_it]
         all_bw_data.extend(zip_it)
 
-    filename = 'events_new'
-    dir_path = f"{data_dir}/../raw_data/"
+    all_bw_data = sorted(all_bw_data, key=lambda x: x[0], reverse=False)
     all_bw_data.insert(0, [x for x in EventHeaders.__annotations__])
-    write_to_csv(dir_path, filename, all_bw_data)
+
+    dir_path = f"{data_dir}/../raw_data/"
+    write_to_csv(dir_path, "events", all_bw_data)
 
 
 if __name__ == '__main__':
