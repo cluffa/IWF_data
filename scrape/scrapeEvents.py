@@ -27,13 +27,16 @@ def write_to_csv(base_dir, filepath_name, data):
 def updateEvents():
     data_dir = dirname(__file__)
 
-    urls = ['https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all',
-            'https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all']
+
+    urls = ["https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
+        "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all"]
+
 
     all_bw_data = []
     for url in urls:
         req = requests.get(url)
         content = req.text
+
         soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
         event_ids = []
         for event_id in soup.find_all('a', 'card', href=True):
@@ -62,6 +65,5 @@ def updateEvents():
     dir_path = f"{data_dir}/../raw_data/"
     write_to_csv(dir_path, "events", all_bw_data)
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     updateEvents()

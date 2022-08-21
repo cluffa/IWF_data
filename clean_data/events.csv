@@ -4,7 +4,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 4,XXVIII OLYMPIC GAMES,2004-08-14,Athens,GRE,senior,1,0,NA
 5,31st MEN's and 11th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2005-05-17,Busan,KOR,junior,0,0,"Korea, Republic of"
 6,32nd MEN's and 12th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2006-05-28,Hangzhou,CHN,junior,0,0,China
-7,9th UNIVERSITY WORLD CUP,2006-06-30,IZMIR, TUR,junior,0,1,NA
+7,9th UNIVERSITY WORLD CUP,2006-06-30,IZMIR,TUR,junior,0,1,Turkey
 8,75th MEN's and 18th WOMEN's WORLD CHAMPIONSHIPS,2006-09-30,Santo Domingo,DOM,senior,0,0,Dominican Republic
 9,33rd MEN's and 13th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2007-06-10,Prague,CZE,junior,0,0,Czech Republic
 10,10th UNIVERSITY WORLD CUP,2007-08-09,LIMA,PER,junior,0,1,Peru
@@ -167,7 +167,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 258,ASIAN CUP,2013-09-10,Pyongyang,PRK,senior,0,0,"Korea, Democratic People's Republic of"
 259,ASIAN JUNIOR CUP,2013-09-10,Pyongyang,PRK,junior,0,0,"Korea, Democratic People's Republic of"
 260,2013 COMMONWEALTH CHAMPIONSHIPS,2013-11-24,Penang,MAS,senior,0,0,NA
-261,2013 IWF GRAND PRIX & 2nd BAKU INTERNATIONAL CUP,2013-12-06,Baku, AZE,senior,0,0,NA
+261,2013 IWF GRAND PRIX & 2nd BAKU INTERNATIONAL CUP,2013-12-06,Baku,AZE,senior,0,0,Azerbaijan
 262,2013 COMMONWEALTH JUNIOR CHAMPIONSHIPS,2013-11-24,Penang,MAS,junior,0,0,NA
 263,2013 COMMONWEALTH YOUTH CHAMPIONSHIPS,2013-11-24,Penang,MAS,youth,0,0,NA
 264,EUROPEAN UNDER 17 CHAMPIONSHIPS,2013-09-01,Klaipeda,LTU,senior,0,0,Lithuania
