@@ -1,0 +1,229 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,LAI Gia Thanh,VIE,"May 03, 1998",54.85,A,116,120,-123,120,55kgMen,Snatch,542,False
+2,SOMBOON-UAN Thada,THA,"Nov 03, 2000",54.85,A,110,-115,115,115,55kgMen,Snatch,542,False
+3,AGAD Fernando Jr,PHI,"Aug 08, 2002",54.60,A,105,110,113,113,55kgMen,Snatch,542,False
+4,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.55,A,105,110,-114,110,55kgMen,Snatch,542,False
+5,NUGROHO Satrio Adi,INA,"May 18, 2004",54.70,A,105,110,-113,110,55kgMen,Snatch,542,False
+6,SEYHA Pich,CAM,"Aug 19, 2000",53.80,A,70,-75,76,76,55kgMen,Snatch,542,False
+1,LAI Gia Thanh,VIE,"May 03, 1998",54.85,A,141,145,148,148,55kgMen,CleanJerk,542,False
+2,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.55,A,139,142,-147,142,55kgMen,CleanJerk,542,False
+3,SOMBOON-UAN Thada,THA,"Nov 03, 2000",54.85,A,135,139,141,141,55kgMen,CleanJerk,542,False
+4,NUGROHO Satrio Adi,INA,"May 18, 2004",54.70,A,135,140,-143,140,55kgMen,CleanJerk,542,False
+5,AGAD Fernando Jr,PHI,"Aug 08, 2002",54.60,A,135,-138,-138,135,55kgMen,CleanJerk,542,False
+6,SEYHA Pich,CAM,"Aug 19, 2000",53.80,A,90,95,-98,95,55kgMen,CleanJerk,542,False
+1,LAI Gia Thanh,VIE,"May 03, 1998",54.85,A,120,148,268,---,55kgMen,Total,542,False
+2,SOMBOON-UAN Thada,THA,"Nov 03, 2000",54.85,A,115,141,256,---,55kgMen,Total,542,False
+3,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.55,A,110,142,252,---,55kgMen,Total,542,False
+4,NUGROHO Satrio Adi,INA,"May 18, 2004",54.70,A,110,140,250,---,55kgMen,Total,542,False
+5,AGAD Fernando Jr,PHI,"Aug 08, 2002",54.60,A,113,135,248,---,55kgMen,Total,542,False
+6,SEYHA Pich,CAM,"Aug 19, 2000",53.80,A,76,95,171,---,55kgMen,Total,542,False
+1,IRAWAN Eko Yuli,INA,"Jul 24, 1989",60.75,A,130,135,-138,135,61kgMen,Snatch,542,False
+2,NGUYEN Ngoc Trung,VIE,"Nov 13, 1991",60.85,A,126,130,132,132,61kgMen,Snatch,542,False
+3,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.85,A,123,127,-131,127,61kgMen,Snatch,542,False
+4,GARCIA Rowel,PHI,"Dec 16, 1996",60.55,A,115,120,123,123,61kgMen,Snatch,542,False
+5,SAENG-MA Pasit,THA,"Oct 17, 2002",60.90,A,105,-110,110,110,61kgMen,Snatch,542,False
+6,NOUSIT Rattakoun,LAO,"May 06, 2004",59.75,A,85,-90,-90,85,61kgMen,Snatch,542,False
+1,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.85,A,153,-160,160,160,61kgMen,CleanJerk,542,False
+2,IRAWAN Eko Yuli,INA,"Jul 24, 1989",60.75,A,-155,155,---,155,61kgMen,CleanJerk,542,False
+3,NGUYEN Ngoc Trung,VIE,"Nov 13, 1991",60.85,A,151,-154,154,154,61kgMen,CleanJerk,542,False
+4,GARCIA Rowel,PHI,"Dec 16, 1996",60.55,A,150,-158,-158,150,61kgMen,CleanJerk,542,False
+5,SAENG-MA Pasit,THA,"Oct 17, 2002",60.90,A,-135,135,-140,135,61kgMen,CleanJerk,542,False
+6,NOUSIT Rattakoun,LAO,"May 06, 2004",59.75,A,95,-97,97,97,61kgMen,CleanJerk,542,False
+1,IRAWAN Eko Yuli,INA,"Jul 24, 1989",60.75,A,135,155,290,---,61kgMen,Total,542,False
+2,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.85,A,127,160,287,---,61kgMen,Total,542,False
+3,NGUYEN Ngoc Trung,VIE,"Nov 13, 1991",60.85,A,132,154,286,---,61kgMen,Total,542,False
+4,GARCIA Rowel,PHI,"Dec 16, 1996",60.55,A,123,150,273,---,61kgMen,Total,542,False
+5,SAENG-MA Pasit,THA,"Oct 17, 2002",60.90,A,110,135,245,---,61kgMen,Total,542,False
+6,NOUSIT Rattakoun,LAO,"May 06, 2004",59.75,A,85,97,182,---,61kgMen,Total,542,False
+1,YASIN Mohammad,INA,"Jan 18, 2000",66.75,A,125,135,141,141,67kgMen,Snatch,542,False
+2,DINH Xuan Hoang,VIE,"Jul 18, 1998",67.00,A,135,140,-142,140,67kgMen,Snatch,542,False
+3,CHANTRI Witsanu,THA,"Sep 12, 1996",66.90,A,136,-140,140,140,67kgMen,Snatch,542,False
+4,COLONIA Nestor,PHI,"Feb 16, 1992",65.80,A,115,120,125,125,67kgMen,Snatch,542,False
+5,CHANTHANUN Ny,CAM,"Feb 17, 2002",65.90,A,65,70,75,75,67kgMen,Snatch,542,False
+1,CHANTRI Witsanu,THA,"Sep 12, 1996",66.90,A,167,-172,172,172,67kgMen,CleanJerk,542,False
+2,YASIN Mohammad,INA,"Jan 18, 2000",66.75,A,150,167,-172,167,67kgMen,CleanJerk,542,False
+3,DINH Xuan Hoang,VIE,"Jul 18, 1998",67.00,A,166,-170,-172,166,67kgMen,CleanJerk,542,False
+4,COLONIA Nestor,PHI,"Feb 16, 1992",65.80,A,150,-165,---,150,67kgMen,CleanJerk,542,False
+5,CHANTHANUN Ny,CAM,"Feb 17, 2002",65.90,A,75,80,-85,80,67kgMen,CleanJerk,542,False
+1,CHANTRI Witsanu,THA,"Sep 12, 1996",66.90,A,140,172,312,---,67kgMen,Total,542,False
+2,YASIN Mohammad,INA,"Jan 18, 2000",66.75,A,141,167,308,---,67kgMen,Total,542,False
+3,DINH Xuan Hoang,VIE,"Jul 18, 1998",67.00,A,140,166,306,---,67kgMen,Total,542,False
+4,COLONIA Nestor,PHI,"Feb 16, 1992",65.80,A,125,150,275,---,67kgMen,Total,542,False
+5,CHANTHANUN Ny,CAM,"Feb 17, 2002",65.90,A,75,80,155,---,67kgMen,Total,542,False
+1,ABDULLAH Rahmat Erwin,INA,"Oct 13, 2000",72.70,A,142,150,155,155,73kgMen,Snatch,542,False
+2,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",72.90,A,133,140,143,143,73kgMen,Snatch,542,False
+3,DOUNGSRI Anucha,THA,"Sep 09, 1998",71.80,A,135,140,-143,140,73kgMen,Snatch,542,False
+4,NGUYEN Quang Truong,VIE,"Jan 14, 1999",72.50,A,-135,135,-140,135,73kgMen,Snatch,542,False
+5,DENMARK Bantoto Tarro Lemon,PHI,"Apr 16, 2000",72.00,A,-125,125,130,130,73kgMen,Snatch,542,False
+6,BUNROTH Duch,CAM,"Apr 06, 1997",71.95,A,83,86,90,90,73kgMen,Snatch,542,False
+7,MARTINS GARCIA VALENTE Jose Fernanior,TLS,"Oct 16, 1998",72.10,A,85,-90,-90,85,73kgMen,Snatch,542,False
+1,ABDULLAH Rahmat Erwin,INA,"Oct 13, 2000",72.70,A,180,190,-200,190,73kgMen,CleanJerk,542,False
+2,DOUNGSRI Anucha,THA,"Sep 09, 1998",71.80,A,172,177,181,181,73kgMen,CleanJerk,542,False
+3,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",72.90,A,165,173,-178,173,73kgMen,CleanJerk,542,False
+4,DENMARK Bantoto Tarro Lemon,PHI,"Apr 16, 2000",72.00,A,157,-164,165,165,73kgMen,CleanJerk,542,False
+5,BUNROTH Duch,CAM,"Apr 06, 1997",71.95,A,100,-106,-110,100,73kgMen,CleanJerk,542,False
+---,NGUYEN Quang Truong,VIE,"Jan 14, 1999",72.50,A,-166,-174,---,---,73kgMen,CleanJerk,542,False
+---,MARTINS GARCIA VALENTE Jose Fernanior,TLS,"Oct 16, 1998",72.10,A,-105,-107,-107,---,73kgMen,CleanJerk,542,False
+1,ABDULLAH Rahmat Erwin,INA,"Oct 13, 2000",72.70,A,155,190,345,---,73kgMen,Total,542,False
+2,DOUNGSRI Anucha,THA,"Sep 09, 1998",71.80,A,140,181,321,---,73kgMen,Total,542,False
+3,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",72.90,A,143,173,316,---,73kgMen,Total,542,False
+4,DENMARK Bantoto Tarro Lemon,PHI,"Apr 16, 2000",72.00,A,130,165,295,---,73kgMen,Total,542,False
+5,BUNROTH Duch,CAM,"Apr 06, 1997",71.95,A,90,100,190,---,73kgMen,Total,542,False
+---,NGUYEN Quang Truong,VIE,"Jan 14, 1999",72.50,A,135,---,---,---,73kgMen,Total,542,False
+---,MARTINS GARCIA VALENTE Jose Fernanior,TLS,"Oct 16, 1998",72.10,A,85,---,---,---,73kgMen,Total,542,False
+1,JUNIANSYAH Rizki,INA,"Jun 17, 2003",76.45,A,152,157,-160,157,81kgMen,Snatch,542,False
+2,SUEPSUAN Natthawut,THA,"Jul 02, 1997",80.80,A,145,150,155,155,81kgMen,Snatch,542,False
+3,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.65,A,145,150,-155,150,81kgMen,Snatch,542,False
+4,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.40,A,135,-140,14,140,81kgMen,Snatch,542,False
+5,YE Yint Naing,MYA,"Mar 16, 2000",80.70,A,-125,125,128,128,81kgMen,Snatch,542,False
+1,SUEPSUAN Natthawut,THA,"Jul 02, 1997",80.80,A,190,195,200,200,81kgMen,CleanJerk,542,False
+2,JUNIANSYAH Rizki,INA,"Jun 17, 2003",76.45,A,192,197,-200,197,81kgMen,CleanJerk,542,False
+3,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.65,A,175,190,-195,190,81kgMen,CleanJerk,542,False
+4,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.40,A,165,-170,---,165,81kgMen,CleanJerk,542,False
+5,YE Yint Naing,MYA,"Mar 16, 2000",80.70,A,160,-165,-165,160,81kgMen,CleanJerk,542,False
+1,SUEPSUAN Natthawut,THA,"Jul 02, 1997",80.80,A,155,200,355,---,81kgMen,Total,542,False
+2,JUNIANSYAH Rizki,INA,"Jun 17, 2003",76.45,A,157,197,354,---,81kgMen,Total,542,False
+3,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.65,A,150,190,340,---,81kgMen,Total,542,False
+4,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.40,A,140,165,305,---,81kgMen,Total,542,False
+5,YE Yint Naing,MYA,"Mar 16, 2000",80.70,A,128,160,288,---,81kgMen,Total,542,False
+1,ZUL ILMI Muhammad,INA,"Sep 07, 1996",88.35,A,143,147,150,150,89kgMen,Snatch,542,False
+2,BUI Tuan Anh,VIE,"Nov 30, 1999",89.00,A,138,143,147,147,89kgMen,Snatch,542,False
+3,THARAPHAN Phacharamethi,THA,"Mar 12, 1998",88.10,A,135,140,-143,140,89kgMen,Snatch,542,False
+4,WIN Naing Tun,MYA,"Jun 06, 1999",88.00,A,135,-140,-140,135,89kgMen,Snatch,542,False
+5,PADULLO ECIJA John Kevin,PHI,"Oct 24, 1999",88.65,A,-125,125,132,125,89kgMen,Snatch,542,False
+1,BUI Tuan Anh,VIE,"Nov 30, 1999",89.00,A,171,180,187,187,89kgMen,CleanJerk,542,False
+2,ZUL ILMI Muhammad,INA,"Sep 07, 1996",88.35,A,-183,183,187,187,89kgMen,CleanJerk,542,False
+3,THARAPHAN Phacharamethi,THA,"Mar 12, 1998",88.10,A,185,-198,-198,185,89kgMen,CleanJerk,542,False
+4,WIN Naing Tun,MYA,"Jun 06, 1999",88.00,A,165,170,-175,170,89kgMen,CleanJerk,542,False
+5,PADULLO ECIJA John Kevin,PHI,"Oct 24, 1999",88.65,A,160,-165,-165,160,89kgMen,CleanJerk,542,False
+1,ZUL ILMI Muhammad,INA,"Sep 07, 1996",88.35,A,150,187,337,---,89kgMen,Total,542,False
+2,BUI Tuan Anh,VIE,"Nov 30, 1999",89.00,A,147,187,334,---,89kgMen,Total,542,False
+3,THARAPHAN Phacharamethi,THA,"Mar 12, 1998",88.10,A,140,185,325,---,89kgMen,Total,542,False
+4,WIN Naing Tun,MYA,"Jun 06, 1999",88.00,A,135,170,305,---,89kgMen,Total,542,False
+5,PADULLO ECIJA John Kevin,PHI,"Oct 24, 1999",88.65,A,125,160,285,---,89kgMen,Total,542,False
+1,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",114.00,A,152,-160,-160,152,+89kgMen,Snatch,542,False
+2,NGUYEN Minh Quang,VIE,"Aug 26, 1993",117.00,A,-152,152,-160,152,+89kgMen,Snatch,542,False
+3,PANYA Rungsuriya,THA,"Mar 19, 2000",121.00,A,150,-155,-155,150,+89kgMen,Snatch,542,False
+4,TABIQUE FEBRA John Dexter,PHI,"Aug 08, 2000",101.00,A,135,140,143,143,+89kgMen,Snatch,542,False
+5,YAN Myo Kyaw,MYA,"May 27, 1999",125.00,A,135,140,143,143,+89kgMen,Snatch,542,False
+1,PANYA Rungsuriya,THA,"Mar 19, 2000",121.00,A,190,195,199,199,+89kgMen,CleanJerk,542,False
+2,NGUYEN Minh Quang,VIE,"Aug 26, 1993",117.00,A,192,196,-199,196,+89kgMen,CleanJerk,542,False
+3,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",114.00,A,180,-190,190,190,+89kgMen,CleanJerk,542,False
+4,YAN Myo Kyaw,MYA,"May 27, 1999",125.00,A,171,180,-185,180,+89kgMen,CleanJerk,542,False
+5,TABIQUE FEBRA John Dexter,PHI,"Aug 08, 2000",101.00,A,170,179,-181,179,+89kgMen,CleanJerk,542,False
+1,PANYA Rungsuriya,THA,"Mar 19, 2000",121.00,A,150,199,349,---,+89kgMen,Total,542,False
+2,NGUYEN Minh Quang,VIE,"Aug 26, 1993",117.00,A,152,196,348,---,+89kgMen,Total,542,False
+3,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",114.00,A,152,190,342,---,+89kgMen,Total,542,False
+4,YAN Myo Kyaw,MYA,"May 27, 1999",125.00,A,143,180,323,---,+89kgMen,Total,542,False
+5,TABIQUE FEBRA John Dexter,PHI,"Aug 08, 2000",101.00,A,143,179,322,---,+89kgMen,Total,542,False
+1,KHONG My Phuong,VIE,"Jul 05, 1999",45.00,A,76,78,65,80,45kgWomen,Snatch,542,False
+2,SUKCHAROEN Thanyathon,THA,"Apr 21, 1997",44.95,A,75,77,79,79,45kgWomen,Snatch,542,False
+3,HARIROH Siti Nafisatul,INA,"Apr 14, 2001",44.85,A,68,70,72,72,45kgWomen,Snatch,542,False
+4,DIAZ Mary Flor,PHI,"May 04, 1999",44.95,A,67,69,71,71,45kgWomen,Snatch,542,False
+1,SUKCHAROEN Thanyathon,THA,"Apr 21, 1997",44.95,A,93,95,-100,95,45kgWomen,CleanJerk,542,False
+2,KHONG My Phuong,VIE,"Jul 05, 1999",45.00,A,88,92,-95,92,45kgWomen,CleanJerk,542,False
+3,HARIROH Siti Nafisatul,INA,"Apr 14, 2001",44.85,A,88,90,-92,90,45kgWomen,CleanJerk,542,False
+4,DIAZ Mary Flor,PHI,"May 04, 1999",44.95,A,87,-90,-92,87,45kgWomen,CleanJerk,542,False
+1,SUKCHAROEN Thanyathon,THA,"Apr 21, 1997",44.95,A,79,95,174,---,45kgWomen,Total,542,False
+2,KHONG My Phuong,VIE,"Jul 05, 1999",45.00,A,80,92,172,---,45kgWomen,Total,542,False
+3,HARIROH Siti Nafisatul,INA,"Apr 14, 2001",44.85,A,72,90,162,---,45kgWomen,Total,542,False
+4,DIAZ Mary Flor,PHI,"May 04, 1999",44.95,A,71,87,158,---,45kgWomen,Total,542,False
+1,KHAMBAO Surodchana,THA,"Dec 23, 1999",48.55,A,83,86,88,88,49kgWomen,Snatch,542,False
+2,AISAH Windy Cantika,INA,"Jun 11, 2002",48.95,A,82,86,-88,86,49kgWomen,Snatch,542,False
+3,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,75,79,81,81,49kgWomen,Snatch,542,False
+4,PHAM Dinh Thi,VIE,"Oct 05, 2001",48.70,A,-78,78,80,80,49kgWomen,Snatch,542,False
+5,PYAE Pyae Phyo,MYA,"Jun 15, 2001",48.30,A,76,-79,-79,76,49kgWomen,Snatch,542,False
+6,BORIN Seng,CAM,"Oct 08, 1998",46.70,A,-45,-46,50,50,49kgWomen,Snatch,542,False
+---,PHONGSAKONE Bouakham,LAO,"Nov 24, 2001",48.95,A,-58,-58,-60,---,49kgWomen,Snatch,542,False
+1,KHAMBAO Surodchana,THA,"Dec 23, 1999",48.55,A,102,107,-110,107,49kgWomen,CleanJerk,542,False
+2,PHAM Dinh Thi,VIE,"Oct 05, 2001",48.70,A,97,100,103,103,49kgWomen,CleanJerk,542,False
+3,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,95,98,-100,98,49kgWomen,CleanJerk,542,False
+4,PYAE Pyae Phyo,MYA,"Jun 15, 2001",48.30,A,-95,95,-104,95,49kgWomen,CleanJerk,542,False
+5,BORIN Seng,CAM,"Oct 08, 1998",46.70,A,55,-57,58,58,49kgWomen,CleanJerk,542,False
+---,PHONGSAKONE Bouakham,LAO,"Nov 24, 2001",48.95,A,---,---,---,---,49kgWomen,CleanJerk,542,False
+---,AISAH Windy Cantika,INA,"Jun 11, 2002",48.95,A,-100,-100,-100,---,49kgWomen,CleanJerk,542,False
+1,KHAMBAO Surodchana,THA,"Dec 23, 1999",48.55,A,88,107,195,---,49kgWomen,Total,542,False
+2,PHAM Dinh Thi,VIE,"Oct 05, 2001",48.70,A,80,103,183,---,49kgWomen,Total,542,False
+3,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,81,98,179,---,49kgWomen,Total,542,False
+4,PYAE Pyae Phyo,MYA,"Jun 15, 2001",48.30,A,76,95,171,---,49kgWomen,Total,542,False
+5,BORIN Seng,CAM,"Oct 08, 1998",46.70,A,50,58,108,---,49kgWomen,Total,542,False
+---,PHONGSAKONE Bouakham,LAO,"Nov 24, 2001",48.95,A,---,---,---,---,49kgWomen,Total,542,False
+---,AISAH Windy Cantika,INA,"Jun 11, 2002",48.95,A,86,---,---,---,49kgWomen,Total,542,False
+1,SANIKUN Tanasan,THA,"Dec 23, 1994",54.80,A,85,90,93,93,55kgWomen,Snatch,542,False
+2,DIAZ Hidilyn,PHI,"Feb 20, 1991",54.70,A,90,92,-94,92,55kgWomen,Snatch,542,False
+3,BETEYOB Natasya,INA,"Sep 10, 2000",54.60,A,84,-88,-88,84,55kgWomen,Snatch,542,False
+4,NGUYEN THU Hien,VIE,"Feb 23, 1997",54.10,A,-83,-83,83,83,55kgWomen,Snatch,542,False
+5,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.45,A,73,-80,-80,73,55kgWomen,Snatch,542,False
+6,POCH Tan,CAM,"Aug 03, 1994",51.55,A,46,49,-55,49,55kgWomen,Snatch,542,False
+1,DIAZ Hidilyn,PHI,"Feb 20, 1991",54.70,A,114,-118,-121,114,55kgWomen,CleanJerk,542,False
+2,SANIKUN Tanasan,THA,"Dec 23, 1994",54.80,A,104,110,-114,110,55kgWomen,CleanJerk,542,False
+3,BETEYOB Natasya,INA,"Sep 10, 2000",54.60,A,104,-106,-110,104,55kgWomen,CleanJerk,542,False
+4,NGUYEN THU Hien,VIE,"Feb 23, 1997",54.10,A,103,-106,-106,103,55kgWomen,CleanJerk,542,False
+5,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.45,A,91,-96,-96,91,55kgWomen,CleanJerk,542,False
+6,POCH Tan,CAM,"Aug 03, 1994",51.55,A,60,-65,-65,60,55kgWomen,CleanJerk,542,False
+1,DIAZ Hidilyn,PHI,"Feb 20, 1991",54.70,A,92,114,206,---,55kgWomen,Total,542,False
+2,SANIKUN Tanasan,THA,"Dec 23, 1994",54.80,A,93,110,203,---,55kgWomen,Total,542,False
+3,BETEYOB Natasya,INA,"Sep 10, 2000",54.60,A,84,104,188,---,55kgWomen,Total,542,False
+4,NGUYEN THU Hien,VIE,"Feb 23, 1997",54.10,A,83,103,186,---,55kgWomen,Total,542,False
+5,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.45,A,73,91,164,---,55kgWomen,Total,542,False
+6,POCH Tan,CAM,"Aug 03, 1994",51.55,A,49,60,109,---,55kgWomen,Total,542,False
+1,HOANG Thi Duyen,VIE,"Apr 26, 1996",59.00,A,90,93,96,96,59kgWomen,Snatch,542,False
+2,SIRIKAEW Pimsiri,THA,"Apr 25, 1990",58.50,A,83,86,-88,86,59kgWomen,Snatch,542,False
+3,NAW TA Boe Yar,MYA,"Jan 16, 2002",58.15,A,80,83,85,85,59kgWomen,Snatch,542,False
+4,COLONIA Margaret,PHI,"Dec 09, 1998",56.75,A,-80,80,83,83,59kgWomen,Snatch,542,False
+5,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.75,A,73,-78,-78,73,59kgWomen,Snatch,542,False
+---,SARAH,INA,"Dec 21, 2005",58.50,A,-85,-85,-85,---,59kgWomen,Snatch,542,False
+1,SIRIKAEW Pimsiri,THA,"Apr 25, 1990",58.50,A,105,108,110,110,59kgWomen,CleanJerk,542,False
+2,HOANG Thi Duyen,VIE,"Apr 26, 1996",59.00,A,108,-113,-116,108,59kgWomen,CleanJerk,542,False
+3,NAW TA Boe Yar,MYA,"Jan 16, 2002",58.15,A,100,-105,106,106,59kgWomen,CleanJerk,542,False
+4,COLONIA Margaret,PHI,"Dec 09, 1998",56.75,A,105,-109,-109,105,59kgWomen,CleanJerk,542,False
+5,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.75,A,98,105,-108,105,59kgWomen,CleanJerk,542,False
+---,SARAH,INA,"Dec 21, 2005",58.50,A,---,---,---,---,59kgWomen,CleanJerk,542,False
+1,HOANG Thi Duyen,VIE,"Apr 26, 1996",59.00,A,96,108,204,---,59kgWomen,Total,542,False
+2,SIRIKAEW Pimsiri,THA,"Apr 25, 1990",58.50,A,86,110,196,---,59kgWomen,Total,542,False
+3,NAW TA Boe Yar,MYA,"Jan 16, 2002",58.15,A,85,106,191,---,59kgWomen,Total,542,False
+4,COLONIA Margaret,PHI,"Dec 09, 1998",56.75,A,83,105,188,---,59kgWomen,Total,542,False
+5,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.75,A,73,105,178,---,59kgWomen,Total,542,False
+---,SARAH,INA,"Dec 21, 2005",58.50,A,---,---,---,---,59kgWomen,Total,542,False
+1,PHAM Thi Hong Thanh,VIE,"May 08, 1999",63.50,A,98,101,104,104,64kgWomen,Snatch,542,False
+2,ANDO Elreen Ann,PHI,"Nov 01, 1998",63.00,A,95,100,103,103,64kgWomen,Snatch,542,False
+3,RAMADANI Tsabitha Alfiah,INA,"Dec 23, 2000",63.40,A,-95,95,100,100,64kgWomen,Snatch,542,False
+4,SONKAEW Rodsukon,THA,"Nov 28, 1999",64.00,A,90,93,-95,93,64kgWomen,Snatch,542,False
+5,SREYNITH Roeun,CAM,"Jan 04, 2001",62.45,A,-53,54,-58,54,64kgWomen,Snatch,542,False
+1,PHAM Thi Hong Thanh,VIE,"May 08, 1999",63.50,A,120,126,-130,126,64kgWomen,CleanJerk,542,False
+2,ANDO Elreen Ann,PHI,"Nov 01, 1998",63.00,A,120,-125,-125,120,64kgWomen,CleanJerk,542,False
+3,SONKAEW Rodsukon,THA,"Nov 28, 1999",64.00,A,-117,117,-120,117,64kgWomen,CleanJerk,542,False
+4,RAMADANI Tsabitha Alfiah,INA,"Dec 23, 2000",63.40,A,111,116,-120,116,64kgWomen,CleanJerk,542,False
+5,SREYNITH Roeun,CAM,"Jan 04, 2001",62.45,A,65,67,-70,67,64kgWomen,CleanJerk,542,False
+1,PHAM Thi Hong Thanh,VIE,"May 08, 1999",63.50,A,104,126,230,---,64kgWomen,Total,542,False
+2,ANDO Elreen Ann,PHI,"Nov 01, 1998",63.00,A,103,120,223,---,64kgWomen,Total,542,False
+3,RAMADANI Tsabitha Alfiah,INA,"Dec 23, 2000",63.40,A,100,116,216,---,64kgWomen,Total,542,False
+4,SONKAEW Rodsukon,THA,"Nov 28, 1999",64.00,A,93,117,210,---,64kgWomen,Total,542,False
+5,SREYNITH Roeun,CAM,"Jan 04, 2001",62.45,A,54,67,121,---,64kgWomen,Total,542,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.50,A,97,101,104,104,71kgWomen,Snatch,542,False
+2,KHAIPANDUNG Siriyakorn,THA,"Aug 27, 1999",70.55,A,97,101,103,103,71kgWomen,Snatch,542,False
+3,LAM Thi My Le,VIE,"Feb 07, 2002",69.55,A,88,91,93,93,71kgWomen,Snatch,542,False
+4,ANGGI Restu,INA,"Oct 21, 2002",67.75,A,88,90,92,92,71kgWomen,Snatch,542,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.50,A,123,130,135,135,71kgWomen,CleanJerk,542,False
+2,ANGGI Restu,INA,"Oct 21, 2002",67.75,A,115,120,-124,120,71kgWomen,CleanJerk,542,False
+3,KHAIPANDUNG Siriyakorn,THA,"Aug 27, 1999",70.55,A,115,118,120,120,71kgWomen,CleanJerk,542,False
+4,LAM Thi My Le,VIE,"Feb 07, 2002",69.55,A,108,-115,-115,108,71kgWomen,CleanJerk,542,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.50,A,104,135,239,---,71kgWomen,Total,542,False
+2,KHAIPANDUNG Siriyakorn,THA,"Aug 27, 1999",70.55,A,103,120,223,---,71kgWomen,Total,542,False
+3,ANGGI Restu,INA,"Oct 21, 2002",67.75,A,92,120,212,---,71kgWomen,Total,542,False
+4,LAM Thi My Le,VIE,"Feb 07, 2002",69.55,A,93,108,201,---,71kgWomen,Total,542,False
+1,CHAIDEE Duangaksorn,THA,"Aug 11, 1997",114.30,A,115,120,123,123,+71kgWomen,Snatch,542,False
+2,NGUYEN Thi Kim Van,VIE,"Aug 05, 1988",115.70,A,100,105,111,111,+71kgWomen,Snatch,542,False
+3,AKMAL Nurul,INA,"Feb 12, 1993",122.60,A,105,110,-115,110,+71kgWomen,Snatch,542,False
+4,MACROHON Kristel,PHI,"Sep 02, 1996",73.80,A,95,-100,-100,95,+71kgWomen,Snatch,542,False
+5,SONIA Cassendra Anak Masev,MAS,"Aug 26, 2000",104.50,A,85,90,-96,90,+71kgWomen,Snatch,542,False
+1,CHAIDEE Duangaksorn,THA,"Aug 11, 1997",114.30,A,145,152,156,156,+71kgWomen,CleanJerk,542,False
+2,AKMAL Nurul,INA,"Feb 12, 1993",122.60,A,140,142,-151,142,+71kgWomen,CleanJerk,542,False
+3,NGUYEN Thi Kim Van,VIE,"Aug 05, 1988",115.70,A,130,-140,140,140,+71kgWomen,CleanJerk,542,False
+4,MACROHON Kristel,PHI,"Sep 02, 1996",73.80,A,125,130,133,133,+71kgWomen,CleanJerk,542,False
+5,SONIA Cassendra Anak Masev,MAS,"Aug 26, 2000",104.50,A,115,123,-131,123,+71kgWomen,CleanJerk,542,False
+1,CHAIDEE Duangaksorn,THA,"Aug 11, 1997",114.30,A,123,156,279,---,+71kgWomen,Total,542,False
+2,AKMAL Nurul,INA,"Feb 12, 1993",122.60,A,110,142,252,---,+71kgWomen,Total,542,False
+3,NGUYEN Thi Kim Van,VIE,"Aug 05, 1988",115.70,A,111,140,251,---,+71kgWomen,Total,542,False
+4,MACROHON Kristel,PHI,"Sep 02, 1996",73.80,A,95,133,228,---,+71kgWomen,Total,542,False
+5,SONIA Cassendra Anak Masev,MAS,"Aug 26, 2000",104.50,A,90,123,213,---,+71kgWomen,Total,542,False

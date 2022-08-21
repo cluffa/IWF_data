@@ -196,7 +196,6 @@ clean_results <- function(df) {
     left_join(events %>% select(event_id, date, event), by = "event_id") %>%
     mutate(
       dq = (rank == "DSQ"), # total rank is "DSQ" if disqualified, usually due to testing positive for PEDs
-      born = ifelse(name == "ALWINE Meredith", "Jun 08, 1998", born), # override errors
       date_of_birth = as_date(born, format = "%b %d, %Y"), # convert to date
       age = round(interval(date_of_birth, date) / years(1), 1),
       across( # fix spaces between "-" and number
