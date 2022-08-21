@@ -138,6 +138,9 @@ get_age_group <- function(event_name) {
 
 events <- events_dirty %>%
   distinct() %>%
+  rename(
+    event = name
+  ) %>%
   mutate(
     location = str_remove_all(location, "\\t")
   ) %>%
