@@ -1,7 +1,7 @@
 name: scrape
-#on:
-#  schedule:
-#  - cron: "0 0 1 * *"
+on:
+  schedule:
+  - cron: "0 0 1 * *"
 
 jobs:
   Explore-GitHub-Actions:
