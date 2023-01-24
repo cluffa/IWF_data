@@ -1,0 +1,196 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,CRUZ Jet,CAN,"Apr 19, 1994",66.20,A,98,101,105,105,67kgMen,Snatch,537,False
+2,XU Cheng,CAN,"Feb 26, 1990",66.10,A,93,-97,100,100,67kgMen,Snatch,537,False
+1,CRUZ Jet,CAN,"Apr 19, 1994",66.20,A,120,125,-129,125,67kgMen,CleanJerk,537,False
+2,XU Cheng,CAN,"Feb 26, 1990",66.10,A,123,127,-132,127,67kgMen,CleanJerk,537,False
+1,CRUZ Jet,CAN,"Apr 19, 1994",66.20,A,105,125,230,---,67kgMen,Total,537,False
+2,XU Cheng,CAN,"Feb 26, 1990",66.10,A,100,127,227,---,67kgMen,Total,537,False
+1,FREVE-GUERIN Edouard,CAN,"Jan 05, 1996",72.20,A,-125,125,128,128,73kgMen,Snatch,537,False
+2,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",71.40,A,124,127,-129,127,73kgMen,Snatch,537,False
+3,LIAO Andy,CAN,"Dec 12, 1993",71.00,A,105,-109,-112,105,73kgMen,Snatch,537,False
+1,FREVE-GUERIN Edouard,CAN,"Jan 05, 1996",72.20,A,155,-158,158,158,73kgMen,CleanJerk,537,False
+2,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",71.40,A,-153,-153,157,157,73kgMen,CleanJerk,537,False
+3,LIAO Andy,CAN,"Dec 12, 1993",71.00,A,-133,133,-141,133,73kgMen,CleanJerk,537,False
+1,FREVE-GUERIN Edouard,CAN,"Jan 05, 1996",72.20,A,128,158,286,---,73kgMen,Total,537,False
+2,DARSIGNY Matt Joseph Alec,CAN,"Aug 12, 2001",71.40,A,127,157,284,---,73kgMen,Total,537,False
+3,LIAO Andy,CAN,"Dec 12, 1993",71.00,A,105,133,238,---,73kgMen,Total,537,False
+1,GUERTIN Samuel,CAN,"Aug 30, 2000",80.00,A,-140,140,-145,140,81kgMen,Snatch,537,False
+2,VACHON Nicolas,CAN,"Jul 05, 1996",81.00,A,137,-141,-143,137,81kgMen,Snatch,537,False
+3,BROWN McKay,CAN,"May 28, 2000",79.40,A,-116,116,119,119,81kgMen,Snatch,537,False
+4,SITU Tony,CAN,"Jul 04, 1998",80.40,A,110,-114,116,116,81kgMen,Snatch,537,False
+5,WU Pat,CAN,"Sep 03, 1996",80.70,A,113,-117,-117,113,81kgMen,Snatch,537,False
+1,VACHON Nicolas,CAN,"Jul 05, 1996",81.00,A,176,180,-185,180,81kgMen,CleanJerk,537,False
+2,GUERTIN Samuel,CAN,"Aug 30, 2000",80.00,A,172,-178,-181,172,81kgMen,CleanJerk,537,False
+3,SITU Tony,CAN,"Jul 04, 1998",80.40,A,-138,141,-146,141,81kgMen,CleanJerk,537,False
+4,WU Pat,CAN,"Sep 03, 1996",80.70,A,132,137,-144,137,81kgMen,CleanJerk,537,False
+5,BROWN McKay,CAN,"May 28, 2000",79.40,A,-137,-137,137,137,81kgMen,CleanJerk,537,False
+1,VACHON Nicolas,CAN,"Jul 05, 1996",81.00,A,137,180,317,---,81kgMen,Total,537,False
+2,GUERTIN Samuel,CAN,"Aug 30, 2000",80.00,A,140,172,312,---,81kgMen,Total,537,False
+3,SITU Tony,CAN,"Jul 04, 1998",80.40,A,116,141,257,---,81kgMen,Total,537,False
+4,BROWN McKay,CAN,"May 28, 2000",79.40,A,119,137,256,---,81kgMen,Total,537,False
+5,WU Pat,CAN,"Sep 03, 1996",80.70,A,113,137,250,---,81kgMen,Total,537,False
+1,DODD Daniel,USA,"Oct 31, 1990",88.80,A,137,-141,-143,137,89kgMen,Snatch,537,False
+2,BARDIER Maxime,CAN,"Sep 04, 1997",86.30,A,-130,130,-135,130,89kgMen,Snatch,537,False
+3,ROSS Tyler,CAN,"Aug 24, 1997",86.90,A,117,120,-122,120,89kgMen,Snatch,537,False
+4,FERGUSON Alexander,CAN,"Mar 11, 1991",85.90,A,113,117,-120,117,89kgMen,Snatch,537,False
+5,LUCK Mitchell,CAN,"Feb 08, 1996",88.90,A,109,114,-119,114,89kgMen,Snatch,537,False
+6,PRIDHAM Tyler,CAN,"Nov 21, 1987",88.70,A,112,116,-120,116,89kgMen,Snatch,537,False
+1,DODD Daniel,USA,"Oct 31, 1990",88.80,A,171,176,-182,176,89kgMen,CleanJerk,537,False
+2,BARDIER Maxime,CAN,"Sep 04, 1997",86.30,A,155,160,-165,160,89kgMen,CleanJerk,537,False
+3,ROSS Tyler,CAN,"Aug 24, 1997",86.90,A,145,-150,152,152,89kgMen,CleanJerk,537,False
+4,FERGUSON Alexander,CAN,"Mar 11, 1991",85.90,A,143,147,-151,147,89kgMen,CleanJerk,537,False
+5,LUCK Mitchell,CAN,"Feb 08, 1996",88.90,A,-140,140,145,145,89kgMen,CleanJerk,537,False
+6,PRIDHAM Tyler,CAN,"Nov 21, 1987",88.70,A,142,-146,-146,142,89kgMen,CleanJerk,537,False
+1,DODD Daniel,USA,"Oct 31, 1990",88.80,A,137,176,313,---,89kgMen,Total,537,False
+2,BARDIER Maxime,CAN,"Sep 04, 1997",86.30,A,130,160,290,---,89kgMen,Total,537,False
+3,ROSS Tyler,CAN,"Aug 24, 1997",86.90,A,120,152,272,---,89kgMen,Total,537,False
+4,FERGUSON Alexander,CAN,"Mar 11, 1991",85.90,A,117,147,264,---,89kgMen,Total,537,False
+5,LUCK Mitchell,CAN,"Feb 08, 1996",88.90,A,114,145,259,---,89kgMen,Total,537,False
+6,PRIDHAM Tyler,CAN,"Nov 21, 1987",88.70,A,116,142,258,---,89kgMen,Total,537,False
+1,BLANCHET Jean-Christophe,CAN,"May 21, 1998",93.30,A,138,142,-145,142,96kgMen,Snatch,537,False
+2,PRETTY Andrew,CAN,"Jan 30, 1992",95.10,A,-136,-136,138,138,96kgMen,Snatch,537,False
+3,GRIFFITH Daniel Christopher,BAR,"Dec 16, 1994",91.10,A,107,112,120,120,96kgMen,Snatch,537,False
+4,DALEY James Francis,JAM,"Mar 10, 1988",94.70,A,110,-115,-115,110,96kgMen,Snatch,537,False
+5,CLARKE Quontana Sundiata,BAR,"Jul 01, 1991",93.20,A,90,95,-100,95,96kgMen,Snatch,537,False
+1,BLANCHET Jean-Christophe,CAN,"May 21, 1998",93.30,A,176,-181,-181,176,96kgMen,CleanJerk,537,False
+2,PRETTY Andrew,CAN,"Jan 30, 1992",95.10,A,167,-175,-177,167,96kgMen,CleanJerk,537,False
+3,GRIFFITH Daniel Christopher,BAR,"Dec 16, 1994",91.10,A,145,152,-160,152,96kgMen,CleanJerk,537,False
+4,DALEY James Francis,JAM,"Mar 10, 1988",94.70,A,135,-141,-141,135,96kgMen,CleanJerk,537,False
+5,CLARKE Quontana Sundiata,BAR,"Jul 01, 1991",93.20,A,120,-125,125,125,96kgMen,CleanJerk,537,False
+1,BLANCHET Jean-Christophe,CAN,"May 21, 1998",93.30,A,142,176,318,---,96kgMen,Total,537,False
+2,PRETTY Andrew,CAN,"Jan 30, 1992",95.10,A,138,167,305,---,96kgMen,Total,537,False
+3,GRIFFITH Daniel Christopher,BAR,"Dec 16, 1994",91.10,A,120,152,272,---,96kgMen,Total,537,False
+4,DALEY James Francis,JAM,"Mar 10, 1988",94.70,A,110,135,245,---,96kgMen,Total,537,False
+5,CLARKE Quontana Sundiata,BAR,"Jul 01, 1991",93.20,A,95,125,220,---,96kgMen,Total,537,False
+1,GRIEVE Thomas,CAN,"Aug 21, 1995",101.10,A,-127,127,-132,127,102kgMen,Snatch,537,False
+1,GRIEVE Thomas,CAN,"Aug 21, 1995",101.10,A,157,-163,163,163,102kgMen,CleanJerk,537,False
+1,GRIEVE Thomas,CAN,"Aug 21, 1995",101.10,A,127,163,290,---,102kgMen,Total,537,False
+1,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",102.10,A,153,158,161,161,109kgMen,Snatch,537,False
+2,SANTAVY Noah,CAN,"Sep 22, 1998",102.10,A,148,152,-155,152,109kgMen,Snatch,537,False
+3,BOILEAU Patrick,CAN,"May 14, 1994",107.30,A,125,-130,130,130,109kgMen,Snatch,537,False
+1,SANTAVY Noah,CAN,"Sep 22, 1998",102.10,A,183,-189,-189,183,109kgMen,CleanJerk,537,False
+2,BOILEAU Patrick,CAN,"May 14, 1994",107.30,A,170,175,180,180,109kgMen,CleanJerk,537,False
+3,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",102.10,A,175,179,-183,179,109kgMen,CleanJerk,537,False
+1,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",102.10,A,161,179,340,---,109kgMen,Total,537,False
+2,SANTAVY Noah,CAN,"Sep 22, 1998",102.10,A,152,183,335,---,109kgMen,Total,537,False
+3,BOILEAU Patrick,CAN,"May 14, 1994",107.30,A,130,180,310,---,109kgMen,Total,537,False
+1,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",142.90,A,-153,153,158,158,+109kgMen,Snatch,537,False
+2,BENCSIK Miklos,CAN,"Feb 04, 1989",140.10,A,-148,-148,148,148,+109kgMen,Snatch,537,False
+3,BARON-MORASSE Robin,CAN,"Oct 14, 1996",161.50,A,134,-139,-139,134,+109kgMen,Snatch,537,False
+1,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",142.90,A,-195,195,203,203,+109kgMen,CleanJerk,537,False
+2,BENCSIK Miklos,CAN,"Feb 04, 1989",140.10,A,200,-214,-214,200,+109kgMen,CleanJerk,537,False
+3,BARON-MORASSE Robin,CAN,"Oct 14, 1996",161.50,A,-167,167,170,170,+109kgMen,CleanJerk,537,False
+1,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",142.90,A,158,203,361,---,+109kgMen,Total,537,False
+2,BENCSIK Miklos,CAN,"Feb 04, 1989",140.10,A,148,200,348,---,+109kgMen,Total,537,False
+3,BARON-MORASSE Robin,CAN,"Oct 14, 1996",161.50,A,134,170,304,---,+109kgMen,Total,537,False
+1,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.70,A,67,70,73,73,49kgWomen,Snatch,537,False
+2,GENDRON Marie-Pier,CAN,"Nov 24, 2001",49.00,A,63,65,-67,65,49kgWomen,Snatch,537,False
+3,BROWN Isabella,CAN,"May 26, 2003",46.90,A,59,62,64,64,49kgWomen,Snatch,537,False
+---,JEFFREY Joanne,CAN,"May 06, 1981",49.00,A,-59,-59,-59,---,49kgWomen,Snatch,537,False
+1,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.70,A,84,87,90,90,49kgWomen,CleanJerk,537,False
+2,GENDRON Marie-Pier,CAN,"Nov 24, 2001",49.00,A,80,82,-84,82,49kgWomen,CleanJerk,537,False
+3,BROWN Isabella,CAN,"May 26, 2003",46.90,A,69,-73,-73,69,49kgWomen,CleanJerk,537,False
+---,JEFFREY Joanne,CAN,"May 06, 1981",49.00,A,---,---,---,---,49kgWomen,CleanJerk,537,False
+1,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.70,A,73,90,163,---,49kgWomen,Total,537,False
+2,GENDRON Marie-Pier,CAN,"Nov 24, 2001",49.00,A,65,82,147,---,49kgWomen,Total,537,False
+3,BROWN Isabella,CAN,"May 26, 2003",46.90,A,64,69,133,---,49kgWomen,Total,537,False
+---,JEFFREY Joanne,CAN,"May 06, 1981",49.00,A,---,---,---,---,49kgWomen,Total,537,False
+1,BRADDOCK Amanda Melissa,CAN,"Feb 10, 1989",53.60,A,75,79,-83,79,55kgWomen,Snatch,537,False
+2,JOHNSON Haylee,CAN,"Jul 16, 1998",54.80,A,-71,71,-74,71,55kgWomen,Snatch,537,False
+3,ANDRAS Maria Elena,CAN,"Apr 30, 2006",54.60,A,65,68,-70,68,55kgWomen,Snatch,537,False
+4,WONG Vicky,CAN,"Jun 17, 1986",53.70,A,62,65,-68,65,55kgWomen,Snatch,537,False
+1,BRADDOCK Amanda Melissa,CAN,"Feb 10, 1989",53.60,A,90,93,-96,93,55kgWomen,CleanJerk,537,False
+2,JOHNSON Haylee,CAN,"Jul 16, 1998",54.80,A,90,---,---,90,55kgWomen,CleanJerk,537,False
+3,ANDRAS Maria Elena,CAN,"Apr 30, 2006",54.60,A,79,-82,82,82,55kgWomen,CleanJerk,537,False
+4,WONG Vicky,CAN,"Jun 17, 1986",53.70,A,74,-78,-79,74,55kgWomen,CleanJerk,537,False
+1,BRADDOCK Amanda Melissa,CAN,"Feb 10, 1989",53.60,A,79,93,172,---,55kgWomen,Total,537,False
+2,JOHNSON Haylee,CAN,"Jul 16, 1998",54.80,A,71,90,161,---,55kgWomen,Total,537,False
+3,ANDRAS Maria Elena,CAN,"Apr 30, 2006",54.60,A,68,82,150,---,55kgWomen,Total,537,False
+4,WONG Vicky,CAN,"Jun 17, 1986",53.70,A,65,74,139,---,55kgWomen,Total,537,False
+1,DARSIGNY Tali,CAN,"Mar 08, 1998",59.00,A,-85,-85,85,85,59kgWomen,Snatch,537,False
+2,SIMONEAU Charlotte,CAN,"May 30, 2005",58.60,A,78,80,82,82,59kgWomen,Snatch,537,False
+3,KNOWLTON Monica,CAN,"Apr 20, 1998",57.80,A,75,80,-83,80,59kgWomen,Snatch,537,False
+4,GULA Hannah,CAN,"Aug 12, 1998",57.80,A,-78,78,80,80,59kgWomen,Snatch,537,False
+5,SHEPARD Kayla,CAN,"Jul 27, 1998",58.20,A,74,-77,77,77,59kgWomen,Snatch,537,False
+6,ATHANS Zoe,CAN,"Apr 25, 1994",58.40,A,75,-78,-78,75,59kgWomen,Snatch,537,False
+7,MCGREGOR Taylor,CAN,"Jan 24, 1994",58.10,A,70,73,-76,73,59kgWomen,Snatch,537,False
+8,CAMERON Georgia Grace,CAN,"Apr 19, 2001",58.10,A,70,73,-75,73,59kgWomen,Snatch,537,False
+9,ALLERT Paige,CAN,"Jun 13, 1992",58.50,A,66,-69,70,70,59kgWomen,Snatch,537,False
+1,DARSIGNY Tali,CAN,"Mar 08, 1998",59.00,A,103,106,108,108,59kgWomen,CleanJerk,537,False
+2,SHEPARD Kayla,CAN,"Jul 27, 1998",58.20,A,97,101,103,103,59kgWomen,CleanJerk,537,False
+3,SIMONEAU Charlotte,CAN,"May 30, 2005",58.60,A,97,100,102,102,59kgWomen,CleanJerk,537,False
+4,ATHANS Zoe,CAN,"Apr 25, 1994",58.40,A,95,99,-102,99,59kgWomen,CleanJerk,537,False
+5,GULA Hannah,CAN,"Aug 12, 1998",57.80,A,92,97,-100,97,59kgWomen,CleanJerk,537,False
+6,CAMERON Georgia Grace,CAN,"Apr 19, 2001",58.10,A,88,91,-94,91,59kgWomen,CleanJerk,537,False
+7,MCGREGOR Taylor,CAN,"Jan 24, 1994",58.10,A,-91,91,-95,91,59kgWomen,CleanJerk,537,False
+8,ALLERT Paige,CAN,"Jun 13, 1992",58.50,A,80,83,86,86,59kgWomen,CleanJerk,537,False
+---,KNOWLTON Monica,CAN,"Apr 20, 1998",57.80,A,-107,-107,-108,---,59kgWomen,CleanJerk,537,False
+1,DARSIGNY Tali,CAN,"Mar 08, 1998",59.00,A,85,108,193,---,59kgWomen,Total,537,False
+2,SIMONEAU Charlotte,CAN,"May 30, 2005",58.60,A,82,102,184,---,59kgWomen,Total,537,False
+3,SHEPARD Kayla,CAN,"Jul 27, 1998",58.20,A,77,103,180,---,59kgWomen,Total,537,False
+4,GULA Hannah,CAN,"Aug 12, 1998",57.80,A,80,97,177,---,59kgWomen,Total,537,False
+5,ATHANS Zoe,CAN,"Apr 25, 1994",58.40,A,75,99,174,---,59kgWomen,Total,537,False
+6,CAMERON Georgia Grace,CAN,"Apr 19, 2001",58.10,A,73,91,164,---,59kgWomen,Total,537,False
+7,MCGREGOR Taylor,CAN,"Jan 24, 1994",58.10,A,73,91,164,---,59kgWomen,Total,537,False
+8,ALLERT Paige,CAN,"Jun 13, 1992",58.50,A,70,86,156,---,59kgWomen,Total,537,False
+---,KNOWLTON Monica,CAN,"Apr 20, 1998",57.80,A,80,---,---,---,59kgWomen,Total,537,False
+1,ELAM Hunter Nicole,USA,"Aug 12, 1995",64.00,A,90,93,-96,93,64kgWomen,Snatch,537,False
+2,THOMPSON Abra,CAN,"Sep 06, 1989",62.50,A,71,-74,-74,71,64kgWomen,Snatch,537,False
+1,ELAM Hunter Nicole,USA,"Aug 12, 1995",64.00,A,109,114,-119,114,64kgWomen,CleanJerk,537,False
+2,THOMPSON Abra,CAN,"Sep 06, 1989",62.50,A,-90,90,93,93,64kgWomen,CleanJerk,537,False
+1,ELAM Hunter Nicole,USA,"Aug 12, 1995",64.00,A,93,114,207,---,64kgWomen,Total,537,False
+2,THOMPSON Abra,CAN,"Sep 06, 1989",62.50,A,71,93,164,---,64kgWomen,Total,537,False
+1,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.50,A,92,95,98,98,71kgWomen,Snatch,537,False
+2,BEDWARD Shania Sophia,CAN,"Aug 17, 1996",70.90,A,-90,91,95,95,71kgWomen,Snatch,537,False
+3,TRUPP Megan,CAN,"Jul 03, 2000",66.80,A,85,88,91,91,71kgWomen,Snatch,537,False
+4,JOHNSON Samuella Jo,CAN,"Feb 14, 1995",69.90,A,81,-84,-86,81,71kgWomen,Snatch,537,False
+5,HARDING Kennedy,CAN,"Mar 10, 1995",70.10,A,75,-79,79,79,71kgWomen,Snatch,537,False
+6,KO Sharon,CAN,"Mar 29, 1984",69.90,A,73,-75,75,75,71kgWomen,Snatch,537,False
+7,RIEWE Kirsten,CAN,"Dec 21, 1982",69.00,A,71,74,-76,74,71kgWomen,Snatch,537,False
+8,LEE Kathryn,CAN,"May 20, 2003",69.70,A,69,71,-73,71,71kgWomen,Snatch,537,False
+9,LENZEN Nicole,CAN,"Jun 19, 1994",69.70,A,66,-69,70,70,71kgWomen,Snatch,537,False
+1,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.50,A,115,-119,122,122,71kgWomen,CleanJerk,537,False
+2,BEDWARD Shania Sophia,CAN,"Aug 17, 1996",70.90,A,111,-118,119,119,71kgWomen,CleanJerk,537,False
+3,TRUPP Megan,CAN,"Jul 03, 2000",66.80,A,104,108,111,111,71kgWomen,CleanJerk,537,False
+4,JOHNSON Samuella Jo,CAN,"Feb 14, 1995",69.90,A,99,102,-105,102,71kgWomen,CleanJerk,537,False
+5,HARDING Kennedy,CAN,"Mar 10, 1995",70.10,A,95,-100,102,102,71kgWomen,CleanJerk,537,False
+6,KO Sharon,CAN,"Mar 29, 1984",69.90,A,-94,94,-98,94,71kgWomen,CleanJerk,537,False
+7,LEE Kathryn,CAN,"May 20, 2003",69.70,A,88,91,-93,91,71kgWomen,CleanJerk,537,False
+8,RIEWE Kirsten,CAN,"Dec 21, 1982",69.00,A,86,-89,90,90,71kgWomen,CleanJerk,537,False
+9,LENZEN Nicole,CAN,"Jun 19, 1994",69.70,A,86,-90,-90,86,71kgWomen,CleanJerk,537,False
+1,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.50,A,98,122,220,---,71kgWomen,Total,537,False
+2,BEDWARD Shania Sophia,CAN,"Aug 17, 1996",70.90,A,95,119,214,---,71kgWomen,Total,537,False
+3,TRUPP Megan,CAN,"Jul 03, 2000",66.80,A,91,111,202,---,71kgWomen,Total,537,False
+4,JOHNSON Samuella Jo,CAN,"Feb 14, 1995",69.90,A,81,102,183,---,71kgWomen,Total,537,False
+5,HARDING Kennedy,CAN,"Mar 10, 1995",70.10,A,79,102,181,---,71kgWomen,Total,537,False
+6,KO Sharon,CAN,"Mar 29, 1984",69.90,A,75,94,169,---,71kgWomen,Total,537,False
+7,RIEWE Kirsten,CAN,"Dec 21, 1982",69.00,A,74,90,164,---,71kgWomen,Total,537,False
+8,LEE Kathryn,CAN,"May 20, 2003",69.70,A,71,91,162,---,71kgWomen,Total,537,False
+9,LENZEN Nicole,CAN,"Jun 19, 1994",69.70,A,70,86,156,---,71kgWomen,Total,537,False
+1,MESSIER Andreanne,CAN,"May 10, 1999",75.90,A,90,-94,-95,90,76kgWomen,Snatch,537,False
+2,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",75.10,A,76,80,83,83,76kgWomen,Snatch,537,False
+3,BHABRA Amreesa,CAN,"May 05, 2001",71.40,A,76,-79,80,80,76kgWomen,Snatch,537,False
+1,MESSIER Andreanne,CAN,"May 10, 1999",75.90,A,110,-115,-115,110,76kgWomen,CleanJerk,537,False
+2,BHABRA Amreesa,CAN,"May 05, 2001",71.40,A,93,-97,97,97,76kgWomen,CleanJerk,537,False
+3,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",75.10,A,93,-97,-97,93,76kgWomen,CleanJerk,537,False
+1,MESSIER Andreanne,CAN,"May 10, 1999",75.90,A,90,110,200,---,76kgWomen,Total,537,False
+2,BHABRA Amreesa,CAN,"May 05, 2001",71.40,A,80,97,177,---,76kgWomen,Total,537,False
+3,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",75.10,A,83,93,176,---,76kgWomen,Total,537,False
+1,COL Christine,CAN,"Oct 13, 1990",80.50,A,77,80,83,83,81kgWomen,Snatch,537,False
+2,PHAN Sandy,CAN,"Sep 16, 1998",76.10,A,-71,72,77,77,81kgWomen,Snatch,537,False
+1,PHAN Sandy,CAN,"Sep 16, 1998",76.10,A,92,95,-98,95,81kgWomen,CleanJerk,537,False
+2,COL Christine,CAN,"Oct 13, 1990",80.50,A,-94,94,-99,94,81kgWomen,CleanJerk,537,False
+1,COL Christine,CAN,"Oct 13, 1990",80.50,A,83,94,177,---,81kgWomen,Total,537,False
+2,PHAN Sandy,CAN,"Sep 16, 1998",76.10,A,77,95,172,---,81kgWomen,Total,537,False
+1,DUMAS Rosalie,CAN,"May 01, 1992",82.00,A,94,-98,-98,94,87kgWomen,Snatch,537,False
+2,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.40,A,70,73,-76,73,87kgWomen,Snatch,537,False
+1,DUMAS Rosalie,CAN,"May 01, 1992",82.00,A,110,-116,-116,110,87kgWomen,CleanJerk,537,False
+2,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.40,A,93,-98,-98,93,87kgWomen,CleanJerk,537,False
+1,DUMAS Rosalie,CAN,"May 01, 1992",82.00,A,94,110,204,---,87kgWomen,Total,537,False
+2,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.40,A,73,93,166,---,87kgWomen,Total,537,False
+1,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",114.50,A,-103,-103,103,103,+87kgWomen,Snatch,537,False
+2,LOVE Etta Mae,CAN,"Aug 28, 2007",105.50,A,90,93,95,95,+87kgWomen,Snatch,537,False
+1,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",114.50,A,120,125,-130,125,+87kgWomen,CleanJerk,537,False
+2,LOVE Etta Mae,CAN,"Aug 28, 2007",105.50,A,110,115,-120,115,+87kgWomen,CleanJerk,537,False
+1,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",114.50,A,103,125,228,---,+87kgWomen,Total,537,False
+2,LOVE Etta Mae,CAN,"Aug 28, 2007",105.50,A,95,115,210,---,+87kgWomen,Total,537,False

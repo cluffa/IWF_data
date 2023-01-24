@@ -1,0 +1,517 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,SARGAR Sanket Mahadev,IND,"Oct 16, 2000",54.56,A,107,111,113,113,55kgMen,Snatch,551,False
+2,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.72,A,107,-111,-111,107,55kgMen,Snatch,551,False
+3,YODAGE Dilanka Isuru Kumara,SRI,"Apr 21, 1996",54.80,A,-105,105,-112,105,55kgMen,Snatch,551,False
+4,TAJ Md Ashikur Rahman,BAN,"Feb 14, 2001",54.65,A,90,93,-96,93,55kgMen,Snatch,551,False
+5,HICKLING Ben,ENG,"May 22, 2002",54.79,A,-93,93,-97,93,55kgMen,Snatch,551,False
+6,MASI Philip,SOL,"Oct 27, 2004",54.50,A,82,-90,90,90,55kgMen,Snatch,551,False
+7,EMILE Willem Gwendal,MRI,"Dec 20, 2002",53.97,A,75,80,83,83,55kgMen,Snatch,551,False
+8,MOK David Pingwei,SGP,"Aug 16, 2002",54.67,A,81,-86,-87,81,55kgMen,Snatch,551,False
+9,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.55,A,70,-75,-77,70,55kgMen,Snatch,551,False
+10,OCHOMA Benjamin Osiemo,KEN,"Oct 18, 1999",54.20,A,65,-70,-70,65,55kgMen,Snatch,551,False
+---,NIYOYITA Davis,UGA,"Jan 01, 2004",55.00,A,-100,-100,-100,---,55kgMen,Snatch,551,False
+1,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.72,A,138,-142,142,142,55kgMen,CleanJerk,551,False
+2,SARGAR Sanket Mahadev,IND,"Oct 16, 2000",54.56,A,135,-139,-139,135,55kgMen,CleanJerk,551,False
+3,YODAGE Dilanka Isuru Kumara,SRI,"Apr 21, 1996",54.80,A,120,-137,-141,120,55kgMen,CleanJerk,551,False
+4,HICKLING Ben,ENG,"May 22, 2002",54.79,A,112,116,119,119,55kgMen,CleanJerk,551,False
+5,TAJ Md Ashikur Rahman,BAN,"Feb 14, 2001",54.65,A,110,-115,118,118,55kgMen,CleanJerk,551,False
+6,MASI Philip,SOL,"Oct 27, 2004",54.50,A,102,107,-110,107,55kgMen,CleanJerk,551,False
+7,EMILE Willem Gwendal,MRI,"Dec 20, 2002",53.97,A,95,100,103,103,55kgMen,CleanJerk,551,False
+8,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.55,A,95,-100,101,101,55kgMen,CleanJerk,551,False
+9,MOK David Pingwei,SGP,"Aug 16, 2002",54.67,A,100,-103,-103,100,55kgMen,CleanJerk,551,False
+10,OCHOMA Benjamin Osiemo,KEN,"Oct 18, 1999",54.20,A,83,85,-88,85,55kgMen,CleanJerk,551,False
+---,NIYOYITA Davis,UGA,"Jan 01, 2004",55.00,A,120,---,---,---,55kgMen,CleanJerk,551,False
+1,MOHAMAD ANIQ Bin Kasdan,MAS,"Jun 16, 2002",54.72,A,107,142,249,---,55kgMen,Total,551,False
+2,SARGAR Sanket Mahadev,IND,"Oct 16, 2000",54.56,A,113,135,248,---,55kgMen,Total,551,False
+3,YODAGE Dilanka Isuru Kumara,SRI,"Apr 21, 1996",54.80,A,105,120,225,---,55kgMen,Total,551,False
+4,HICKLING Ben,ENG,"May 22, 2002",54.79,A,93,119,212,---,55kgMen,Total,551,False
+5,TAJ Md Ashikur Rahman,BAN,"Feb 14, 2001",54.65,A,93,118,211,---,55kgMen,Total,551,False
+6,MASI Philip,SOL,"Oct 27, 2004",54.50,A,90,107,197,---,55kgMen,Total,551,False
+7,EMILE Willem Gwendal,MRI,"Dec 20, 2002",53.97,A,83,103,186,---,55kgMen,Total,551,False
+8,MOK David Pingwei,SGP,"Aug 16, 2002",54.67,A,81,100,181,---,55kgMen,Total,551,False
+9,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.55,A,70,101,171,---,55kgMen,Total,551,False
+10,OCHOMA Benjamin Osiemo,KEN,"Oct 18, 1999",54.20,A,65,85,150,---,55kgMen,Total,551,False
+---,NIYOYITA Davis,UGA,"Jan 01, 2004",55.00,A,---,---,---,---,55kgMen,Total,551,False
+1,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.93,A,123,127,-130,127,61kgMen,Snatch,551,False
+2,BARU Morea,PNG,"Apr 15, 1990",61.00,A,114,118,121,121,61kgMen,Snatch,551,False
+3,SIMARD Youri,CAN,"Jan 03, 2001",61.00,A,110,115,119,119,61kgMen,Snatch,551,False
+4,GURURAJA,IND,"Aug 15, 1992",60.94,A,115,118,-120,118,61kgMen,Snatch,551,False
+5,APPAH Emmanuel Inemo,NGR,"Nov 05, 1999",60.66,A,110,-115,-117,110,61kgMen,Snatch,551,False
+6,THILANKA WIRAJ KUMARA PALAGASINGHE Thilanka,SRI,"Oct 26, 1993",61.00,A,100,-105,105,100,61kgMen,Snatch,551,False
+7,BIN HAJI ABU BAKAR Mohammad Nashrul,BRU,"Sep 20, 1995",60.65,A,95,-98,-100,95,61kgMen,Snatch,551,False
+8,CAIN Shadrach,NRU,"Jul 27, 1999",59.82,A,85,-90,90,90,61kgMen,Snatch,551,False
+9,SEBOTA Nkhahle Thapelo,LES,"Jul 08, 1997",59.91,A,80,-87,-90,80,61kgMen,Snatch,551,False
+1,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.93,A,153,158,-166,158,61kgMen,CleanJerk,551,False
+2,BARU Morea,PNG,"Apr 15, 1990",61.00,A,152,-165,-165,152,61kgMen,CleanJerk,551,False
+3,GURURAJA,IND,"Aug 15, 1992",60.94,A,144,148,151,151,61kgMen,CleanJerk,551,False
+4,SIMARD Youri,CAN,"Jan 03, 2001",61.00,A,140,145,149,149,61kgMen,CleanJerk,551,False
+5,APPAH Emmanuel Inemo,NGR,"Nov 05, 1999",60.66,A,135,-140,-140,135,61kgMen,CleanJerk,551,False
+6,BIN HAJI ABU BAKAR Mohammad Nashrul,BRU,"Sep 20, 1995",60.65,A,123,127,132,132,61kgMen,CleanJerk,551,False
+7,CAIN Shadrach,NRU,"Jul 27, 1999",59.82,A,110,116,-120,116,61kgMen,CleanJerk,551,False
+8,SEBOTA Nkhahle Thapelo,LES,"Jul 08, 1997",59.91,A,106,-112,-115,106,61kgMen,CleanJerk,551,False
+---,THILANKA WIRAJ KUMARA PALAGASINGHE Thilanka,SRI,"Oct 26, 1993",61.00,A,140,---,---,---,61kgMen,CleanJerk,551,False
+1,MUHAMAD Aznil Bin Bidin,MAS,"Jun 04, 1994",60.93,A,127,158,285,---,61kgMen,Total,551,False
+2,BARU Morea,PNG,"Apr 15, 1990",61.00,A,121,152,273,---,61kgMen,Total,551,False
+3,GURURAJA,IND,"Aug 15, 1992",60.94,A,118,151,269,---,61kgMen,Total,551,False
+4,SIMARD Youri,CAN,"Jan 03, 2001",61.00,A,119,149,268,---,61kgMen,Total,551,False
+5,APPAH Emmanuel Inemo,NGR,"Nov 05, 1999",60.66,A,110,135,245,---,61kgMen,Total,551,False
+6,BIN HAJI ABU BAKAR Mohammad Nashrul,BRU,"Sep 20, 1995",60.65,A,95,132,227,---,61kgMen,Total,551,False
+7,CAIN Shadrach,NRU,"Jul 27, 1999",59.82,A,90,116,206,---,61kgMen,Total,551,False
+8,SEBOTA Nkhahle Thapelo,LES,"Jul 08, 1997",59.91,A,80,106,186,---,61kgMen,Total,551,False
+---,THILANKA WIRAJ KUMARA PALAGASINGHE Thilanka,SRI,"Oct 26, 1993",61.00,A,100,---,---,---,61kgMen,Total,551,False
+1,JEREMY Lalrinnunga,IND,"Oct 26, 2002",66.36,A,136,140,-143,140,67kgMen,Snatch,551,False
+2,UMOAFIA Edidiong Joseph,NGR,"Sep 24, 2002",66.86,A,-130,-130,130,130,67kgMen,Snatch,551,False
+3,IOANE Vaipava Nevo,SAM,"Apr 14, 1988",66.32,A,124,127,-129,127,67kgMen,Snatch,551,False
+4,JAYASOORIYA ARACHCHILAGE Chathuranga L,SRI,"Oct 07, 1988",64.57,A,112,116,119,119,67kgMen,Snatch,551,False
+5,SHERGILL Jaswant Singh,GBR,"Jan 14, 1993",66.68,A,110,114,-117,114,67kgMen,Snatch,551,False
+6,KATOATAU Ruben,KIR,"Feb 09, 1997",66.97,A,106,110,114,114,67kgMen,Snatch,551,False
+7,LOY Kester Yi Liang,SGP,"Jan 23, 1998",66.41,A,-105,106,109,109,67kgMen,Snatch,551,False
+8,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.16,A,100,105,-107,105,67kgMen,Snatch,551,False
+9,IKA Ditto Titus,NRU,"Jul 30, 2006",66.79,A,-105,105,-108,105,67kgMen,Snatch,551,False
+1,IOANE Vaipava Nevo,SAM,"Apr 14, 1988",66.32,A,163,166,-174,166,67kgMen,CleanJerk,551,False
+2,JEREMY Lalrinnunga,IND,"Oct 26, 2002",66.36,A,154,160,-165,160,67kgMen,CleanJerk,551,False
+3,UMOAFIA Edidiong Joseph,NGR,"Sep 24, 2002",66.86,A,150,-160,160,160,67kgMen,CleanJerk,551,False
+4,SHERGILL Jaswant Singh,GBR,"Jan 14, 1993",66.68,A,140,146,-150,146,67kgMen,CleanJerk,551,False
+5,KATOATAU Ruben,KIR,"Feb 09, 1997",66.97,A,136,140,144,144,67kgMen,CleanJerk,551,False
+6,IKA Ditto Titus,NRU,"Jul 30, 2006",66.79,A,135,140,-145,140,67kgMen,CleanJerk,551,False
+7,JAYASOORIYA ARACHCHILAGE Chathuranga L,SRI,"Oct 07, 1988",64.57,A,-140,140,-144,140,67kgMen,CleanJerk,551,False
+8,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.16,A,136,-140,-140,136,67kgMen,CleanJerk,551,False
+9,LOY Kester Yi Liang,SGP,"Jan 23, 1998",66.41,A,128,-134,-135,128,67kgMen,CleanJerk,551,False
+1,JEREMY Lalrinnunga,IND,"Oct 26, 2002",66.36,A,140,160,300,---,67kgMen,Total,551,False
+2,IOANE Vaipava Nevo,SAM,"Apr 14, 1988",66.32,A,127,166,293,---,67kgMen,Total,551,False
+3,UMOAFIA Edidiong Joseph,NGR,"Sep 24, 2002",66.86,A,130,160,290,---,67kgMen,Total,551,False
+4,SHERGILL Jaswant Singh,GBR,"Jan 14, 1993",66.68,A,114,146,260,---,67kgMen,Total,551,False
+5,JAYASOORIYA ARACHCHILAGE Chathuranga L,SRI,"Oct 07, 1988",64.57,A,119,140,259,---,67kgMen,Total,551,False
+6,KATOATAU Ruben,KIR,"Feb 09, 1997",66.97,A,114,144,258,---,67kgMen,Total,551,False
+7,IKA Ditto Titus,NRU,"Jul 30, 2006",66.79,A,105,140,245,---,67kgMen,Total,551,False
+8,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.16,A,105,136,241,---,67kgMen,Total,551,False
+9,LOY Kester Yi Liang,SGP,"Jan 23, 1998",66.41,A,109,128,237,---,67kgMen,Total,551,False
+1,SHEULI Achinta,IND,"Nov 24, 2001",72.70,A,137,140,143,143,73kgMen,Snatch,551,False
+2,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",71.98,A,-133,133,138,138,73kgMen,Snatch,551,False
+3,DARSIGNY Shad,CAN,"Apr 20, 2003",72.71,A,130,135,-138,135,73kgMen,Snatch,551,False
+4,DISSANAYAKE Mudiyanselage Indika Chathur,SRI,"Aug 06, 1989",72.74,A,-129,129,133,133,73kgMen,Snatch,551,False
+5,TAFI John Lautafi,SAM,"May 10, 2002",71.98,A,127,-131,131,131,73kgMen,Snatch,551,False
+6,OLIVER Jack Simon,ENG,"Jan 04, 1991",72.51,A,-131,-131,131,131,73kgMen,Snatch,551,False
+7,MOSES Ezekiel,NRU,"Jul 02, 2001",72.70,A,128,-130,130,130,73kgMen,Snatch,551,False
+8,FARMER Michael Anthony,WAL,"May 06, 1999",72.61,A,128,-131,-131,128,73kgMen,Snatch,551,False
+9,WAKELING Brandon Dean,AUS,"Feb 02, 1994",72.53,A,122,127,-132,127,73kgMen,Snatch,551,False
+10,VILLALON Vester Louie,NZL,"Nov 13, 1991",72.79,A,123,126,-129,126,73kgMen,Snatch,551,False
+11,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.27,A,118,-123,-125,118,73kgMen,Snatch,551,False
+12,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.58,A,110,-120,-120,110,73kgMen,Snatch,551,False
+1,SHEULI Achinta,IND,"Nov 24, 2001",72.70,A,166,-170,170,170,73kgMen,CleanJerk,551,False
+2,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",71.98,A,165,-176,-176,165,73kgMen,CleanJerk,551,False
+3,TAFI John Lautafi,SAM,"May 10, 2002",71.98,A,-165,165,-168,165,73kgMen,CleanJerk,551,False
+4,WAKELING Brandon Dean,AUS,"Feb 02, 1994",72.53,A,163,-172,-172,163,73kgMen,CleanJerk,551,False
+5,DARSIGNY Shad,CAN,"Apr 20, 2003",72.71,A,158,-163,163,163,73kgMen,CleanJerk,551,False
+6,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.27,A,158,162,-165,162,73kgMen,CleanJerk,551,False
+7,FARMER Michael Anthony,WAL,"May 06, 1999",72.61,A,-158,-158,158,158,73kgMen,CleanJerk,551,False
+8,OLIVER Jack Simon,ENG,"Jan 04, 1991",72.51,A,-156,156,-164,156,73kgMen,CleanJerk,551,False
+9,VILLALON Vester Louie,NZL,"Nov 13, 1991",72.79,A,155,-161,-162,155,73kgMen,CleanJerk,551,False
+10,MOSES Ezekiel,NRU,"Jul 02, 2001",72.70,A,-155,-155,155,155,73kgMen,CleanJerk,551,False
+11,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.58,A,135,140,-145,140,73kgMen,CleanJerk,551,False
+---,DISSANAYAKE Mudiyanselage Indika Chathur,SRI,"Aug 06, 1989",72.74,A,-160,-161,-167,---,73kgMen,CleanJerk,551,False
+1,SHEULI Achinta,IND,"Nov 24, 2001",72.70,A,143,170,313,---,73kgMen,Total,551,False
+2,MUHAMMAD Erry Hidayat,MAS,"Nov 24, 1999",71.98,A,138,165,303,---,73kgMen,Total,551,False
+3,DARSIGNY Shad,CAN,"Apr 20, 2003",72.71,A,135,163,298,---,73kgMen,Total,551,False
+4,TAFI John Lautafi,SAM,"May 10, 2002",71.98,A,131,165,296,---,73kgMen,Total,551,False
+5,WAKELING Brandon Dean,AUS,"Feb 02, 1994",72.53,A,127,163,290,---,73kgMen,Total,551,False
+6,OLIVER Jack Simon,ENG,"Jan 04, 1991",72.51,A,131,156,287,---,73kgMen,Total,551,False
+7,FARMER Michael Anthony,WAL,"May 06, 1999",72.61,A,128,158,286,---,73kgMen,Total,551,False
+8,MOSES Ezekiel,NRU,"Jul 02, 2001",72.70,A,130,155,285,---,73kgMen,Total,551,False
+9,VILLALON Vester Louie,NZL,"Nov 13, 1991",72.79,A,126,155,281,---,73kgMen,Total,551,False
+10,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.27,A,118,162,280,---,73kgMen,Total,551,False
+11,MASINDE Anthony Libasia,KEN,"Aug 30, 1989",72.58,A,110,140,250,---,73kgMen,Total,551,False
+---,DISSANAYAKE Mudiyanselage Indika Chathur,SRI,"Aug 06, 1989",72.74,A,133,---,---,---,73kgMen,Total,551,False
+1,MURRAY Chris,ENG,"Feb 05, 1999",80.86,A,138,141,144,144,81kgMen,Snatch,551,False
+2,BRUCE Kyle John Ryan Christopher Park,AUS,"Jul 12, 1999",80.99,A,143,-147,-147,143,81kgMen,Snatch,551,False
+3,SINGH Ajay,IND,"Apr 17, 1997",80.91,A,137,140,143,143,81kgMen,Snatch,551,False
+4,VACHON Nicolas,CAN,"Jul 05, 1996",80.82,A,136,-140,140,140,81kgMen,Snatch,551,False
+5,NGONGANG TCHUISSI Guy Michel,CMR,"Feb 18, 1995",80.43,A,136,139,-141,139,81kgMen,Snatch,551,False
+6,MCTAGGART Cameron David,NZL,"Sep 30, 1997",80.95,A,135,138,-141,138,81kgMen,Snatch,551,False
+7,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.02,A,135,-140,-140,135,81kgMen,Snatch,551,False
+8,ALI Haider,PAK,"Feb 02, 1995",79.83,A,135,-140,-140,135,81kgMen,Snatch,551,False
+9,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",80.96,A,-127,127,-130,127,81kgMen,Snatch,551,False
+10,MEARS Omarie Akiel,JAM,"Oct 13, 1993",80.61,A,120,123,126,126,81kgMen,Snatch,551,False
+11,LIM Kang Yin,SGP,"Nov 29, 1996",80.43,A,120,125,-130,125,81kgMen,Snatch,551,False
+12,EPTON Jason,SCO,"Jul 03, 2000",80.98,A,-120,120,-125,120,81kgMen,Snatch,551,False
+1,MURRAY Chris,ENG,"Feb 05, 1999",80.86,A,174,178,181,181,81kgMen,CleanJerk,551,False
+2,BRUCE Kyle John Ryan Christopher Park,AUS,"Jul 12, 1999",80.99,A,175,180,-183,180,81kgMen,CleanJerk,551,False
+3,VACHON Nicolas,CAN,"Jul 05, 1996",80.82,A,175,180,-187,180,81kgMen,CleanJerk,551,False
+4,SINGH Ajay,IND,"Apr 17, 1997",80.91,A,172,176,-180,176,81kgMen,CleanJerk,551,False
+5,ALI Haider,PAK,"Feb 02, 1995",79.83,A,161,-169,170,170,81kgMen,CleanJerk,551,False
+6,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.02,A,165,-170,-170,165,81kgMen,CleanJerk,551,False
+7,MCTAGGART Cameron David,NZL,"Sep 30, 1997",80.95,A,165,-170,-170,165,81kgMen,CleanJerk,551,False
+8,LIM Kang Yin,SGP,"Nov 29, 1996",80.43,A,156,163,-170,163,81kgMen,CleanJerk,551,False
+9,EPTON Jason,SCO,"Jul 03, 2000",80.98,A,150,157,-162,157,81kgMen,CleanJerk,551,False
+10,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",80.96,A,155,-160,160,155,81kgMen,CleanJerk,551,False
+11,MEARS Omarie Akiel,JAM,"Oct 13, 1993",80.61,A,141,147,-151,147,81kgMen,CleanJerk,551,False
+---,NGONGANG TCHUISSI Guy Michel,CMR,"Feb 18, 1995",80.43,A,-171,-172,-172,---,81kgMen,CleanJerk,551,False
+1,MURRAY Chris,ENG,"Feb 05, 1999",80.86,A,144,181,325,---,81kgMen,Total,551,False
+2,BRUCE Kyle John Ryan Christopher Park,AUS,"Jul 12, 1999",80.99,A,143,180,323,---,81kgMen,Total,551,False
+3,VACHON Nicolas,CAN,"Jul 05, 1996",80.82,A,140,180,320,---,81kgMen,Total,551,False
+4,SINGH Ajay,IND,"Apr 17, 1997",80.91,A,143,176,319,---,81kgMen,Total,551,False
+5,ALI Haider,PAK,"Feb 02, 1995",79.83,A,135,170,305,---,81kgMen,Total,551,False
+6,MCTAGGART Cameron David,NZL,"Sep 30, 1997",80.95,A,138,165,303,---,81kgMen,Total,551,False
+7,MOHAMAD Nasir Bin Roslan,MAS,"Jan 24, 1997",80.02,A,135,165,300,---,81kgMen,Total,551,False
+8,LIM Kang Yin,SGP,"Nov 29, 1996",80.43,A,125,163,288,---,81kgMen,Total,551,False
+9,VIDANAGE Chinthana Geetal Vidanage,SRI,"Dec 31, 1981",80.96,A,127,155,282,---,81kgMen,Total,551,False
+10,EPTON Jason,SCO,"Jul 03, 2000",80.98,A,120,157,277,---,81kgMen,Total,551,False
+11,MEARS Omarie Akiel,JAM,"Oct 13, 1993",80.61,A,126,147,273,---,81kgMen,Total,551,False
+---,NGONGANG TCHUISSI Guy Michel,CMR,"Feb 18, 1995",80.43,A,139,---,---,---,81kgMen,Total,551,False
+1,OPELOGE Don,SAM,"May 13, 1999",95.20,A,161,166,171,171,96kgMen,Snatch,551,False
+2,CYRILLE FAGAT Tchatchet II,CMR,"Aug 01, 1995",95.90,A,154,158,-162,158,96kgMen,Snatch,551,False
+3,RAINIBOGI Taniela Tuisuva,FIJ,"Apr 19, 1998",95.06,A,150,155,-160,155,96kgMen,Snatch,551,False
+4,THAKUR Vikas,IND,"Nov 14, 1993",95.61,A,149,153,155,155,96kgMen,Snatch,551,False
+5,MARTASIDIS Antonis,CYP,"Jun 14, 1992",89.74,A,150,-155,-155,150,96kgMen,Snatch,551,False
+6,ESSAMA OWONA Denis Joel,CMR,"Oct 16, 1989",94.94,A,145,-146,-152,145,96kgMen,Snatch,551,False
+7,CORET Cedric Fabrice,MRI,"May 28, 1991",94.75,A,130,136,141,141,96kgMen,Snatch,551,False
+8,BURGER Ruben,RSA,"Mar 03, 1991",95.36,A,-138,138,-143,138,96kgMen,Snatch,551,False
+9,BARREDO Ridge Nathan Richard,AUS,"Oct 06, 1995",95.55,A,-135,136,-142,136,96kgMen,Snatch,551,False
+---,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.15,A,-153,-153,-153,---,96kgMen,Snatch,551,False
+1,OPELOGE Don,SAM,"May 13, 1999",95.20,A,200,210,-220,210,96kgMen,CleanJerk,551,False
+2,THAKUR Vikas,IND,"Nov 14, 1993",95.61,A,187,191,-198,191,96kgMen,CleanJerk,551,False
+3,RAINIBOGI Taniela Tuisuva,FIJ,"Apr 19, 1998",95.06,A,185,188,-190,188,96kgMen,CleanJerk,551,False
+4,ESSAMA OWONA Denis Joel,CMR,"Oct 16, 1989",94.94,A,180,-187,-188,180,96kgMen,CleanJerk,551,False
+5,BARREDO Ridge Nathan Richard,AUS,"Oct 06, 1995",95.55,A,170,180,-190,180,96kgMen,CleanJerk,551,False
+6,BURGER Ruben,RSA,"Mar 03, 1991",95.36,A,165,-171,-175,165,96kgMen,CleanJerk,551,False
+7,CORET Cedric Fabrice,MRI,"May 28, 1991",94.75,A,-160,-160,160,160,96kgMen,CleanJerk,551,False
+---,CYRILLE FAGAT Tchatchet II,CMR,"Aug 01, 1995",95.90,A,-185,-185,-188,---,96kgMen,CleanJerk,551,False
+---,MARTASIDIS Antonis,CYP,"Jun 14, 1992",89.74,A,-191,-194,-194,---,96kgMen,CleanJerk,551,False
+---,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.15,A,180,---,---,---,96kgMen,CleanJerk,551,False
+1,OPELOGE Don,SAM,"May 13, 1999",95.20,A,171,210,381,---,96kgMen,Total,551,False
+2,THAKUR Vikas,IND,"Nov 14, 1993",95.61,A,155,191,346,---,96kgMen,Total,551,False
+3,RAINIBOGI Taniela Tuisuva,FIJ,"Apr 19, 1998",95.06,A,155,188,343,---,96kgMen,Total,551,False
+4,ESSAMA OWONA Denis Joel,CMR,"Oct 16, 1989",94.94,A,145,180,325,---,96kgMen,Total,551,False
+5,BARREDO Ridge Nathan Richard,AUS,"Oct 06, 1995",95.55,A,136,180,316,---,96kgMen,Total,551,False
+6,BURGER Ruben,RSA,"Mar 03, 1991",95.36,A,138,165,303,---,96kgMen,Total,551,False
+7,CORET Cedric Fabrice,MRI,"May 28, 1991",94.75,A,141,160,301,---,96kgMen,Total,551,False
+---,CYRILLE FAGAT Tchatchet II,CMR,"Aug 01, 1995",95.90,A,158,---,---,---,96kgMen,Total,551,False
+---,MARTASIDIS Antonis,CYP,"Jun 14, 1992",89.74,A,150,---,---,---,96kgMen,Total,551,False
+---,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.15,A,---,---,---,---,96kgMen,Total,551,False
+1,HITILA OPELOGE Jack,SAM,"Aug 21, 2000",102.98,A,155,160,164,164,109kgMen,Snatch,551,False
+2,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",100.81,A,150,157,163,163,109kgMen,Snatch,551,False
+3,LOVEPREET Singh,IND,"Sep 06, 1997",108.60,A,157,161,163,163,109kgMen,Snatch,551,False
+4,NGADJA NYABEYEU Junior Periclex,CMR,"Jun 16, 1993",104.11,A,156,-160,160,160,109kgMen,Snatch,551,False
+5,GRIFFITHS Andy,ENG,"May 20, 1993",108.86,A,151,155,159,159,109kgMen,Snatch,551,False
+6,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",108.04,A,-148,148,-155,148,109kgMen,Snatch,551,False
+7,SAKKAS Jordan,WAL,"Apr 25, 1999",108.20,A,-146,-146,146,146,109kgMen,Snatch,551,False
+8,ROBERTS-YOUNG Jackson George,AUS,"Aug 15, 1996",108.77,A,145,-150,-150,145,109kgMen,Snatch,551,False
+9,BUTT Hanzala Dastgir,PAK,"Aug 17, 2002",108.70,A,135,-142,142,142,109kgMen,Snatch,551,False
+10,POMELILE Sio Talakai,TGA,"Oct 10, 1993",108.98,A,140,-145,-146,140,109kgMen,Snatch,551,False
+---,TASI TAALA Koale Junior,NZL,"Mar 23, 1995",108.98,A,-145,-146,-146,---,109kgMen,Snatch,551,False
+1,ROBERTS-YOUNG Jackson George,AUS,"Aug 15, 1996",108.77,A,190,202,-211,202,109kgMen,CleanJerk,551,False
+2,NGADJA NYABEYEU Junior Periclex,CMR,"Jun 16, 1993",104.11,A,196,201,-205,201,109kgMen,CleanJerk,551,False
+3,HITILA OPELOGE Jack,SAM,"Aug 21, 2000",102.98,A,194,-200,-201,194,109kgMen,CleanJerk,551,False
+4,LOVEPREET Singh,IND,"Sep 06, 1997",108.60,A,185,189,192,192,109kgMen,CleanJerk,551,False
+5,GRIFFITHS Andy,ENG,"May 20, 1993",108.86,A,180,187,-193,187,109kgMen,CleanJerk,551,False
+6,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",100.81,A,172,-182,186,186,109kgMen,CleanJerk,551,False
+7,SAKKAS Jordan,WAL,"Apr 25, 1999",108.20,A,-182,182,-190,182,109kgMen,CleanJerk,551,False
+8,POMELILE Sio Talakai,TGA,"Oct 10, 1993",108.98,A,170,180,-189,180,109kgMen,CleanJerk,551,False
+9,BUTT Hanzala Dastgir,PAK,"Aug 17, 2002",108.70,A,173,-180,-180,173,109kgMen,CleanJerk,551,False
+---,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",108.04,A,-178,-178,-178,---,109kgMen,CleanJerk,551,False
+---,TASI TAALA Koale Junior,NZL,"Mar 23, 1995",108.98,A,190,---,---,---,109kgMen,CleanJerk,551,False
+1,NGADJA NYABEYEU Junior Periclex,CMR,"Jun 16, 1993",104.11,A,160,201,361,---,109kgMen,Total,551,False
+2,HITILA OPELOGE Jack,SAM,"Aug 21, 2000",102.98,A,164,194,358,---,109kgMen,Total,551,False
+3,LOVEPREET Singh,IND,"Sep 06, 1997",108.60,A,163,192,355,---,109kgMen,Total,551,False
+4,BESSETTE Pierre-Alexandre,CAN,"Sep 28, 1999",100.81,A,163,186,349,---,109kgMen,Total,551,False
+5,ROBERTS-YOUNG Jackson George,AUS,"Aug 15, 1996",108.77,A,145,202,347,---,109kgMen,Total,551,False
+6,GRIFFITHS Andy,ENG,"May 20, 1993",108.86,A,159,187,346,---,109kgMen,Total,551,False
+7,SAKKAS Jordan,WAL,"Apr 25, 1999",108.20,A,146,182,328,---,109kgMen,Total,551,False
+8,POMELILE Sio Talakai,TGA,"Oct 10, 1993",108.98,A,140,180,320,---,109kgMen,Total,551,False
+9,BUTT Hanzala Dastgir,PAK,"Aug 17, 2002",108.70,A,142,173,315,---,109kgMen,Total,551,False
+---,BIN SHAMSUDDIN Muhammad Hafiz,MAS,"Apr 20, 1999",108.04,A,148,---,---,---,109kgMen,Total,551,False
+---,TASI TAALA Koale Junior,NZL,"Mar 23, 1995",108.98,A,---,---,---,---,109kgMen,Total,551,False
+1,BUTT Muhammad Nooh Dastgir,PAK,"Feb 03, 1998",167.76,A,170,173,-175,173,+109kgMen,Snatch,551,False
+2,LITI David Andrew,NZL,"Jul 11, 1996",182.70,A,166,170,-174,170,+109kgMen,Snatch,551,False
+3,SHAW Gordon,RSA,"Jun 23, 1994",139.69,A,161,167,-173,167,+109kgMen,Snatch,551,False
+4,GURDEEP Singh,IND,"Oct 01, 1995",161.18,A,-167,167,-173,167,+109kgMen,Snatch,551,False
+5,LAUTUSI Petelo,SAM,"Jun 28, 1996",135.84,A,160,165,-170,165,+109kgMen,Snatch,551,False
+6,NANAI Suamili Alex,AUS,"Jan 23, 1995",133.39,A,160,-170,-170,160,+109kgMen,Snatch,551,False
+7,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",143.60,A,157,-162,-164,157,+109kgMen,Snatch,551,False
+8,MORRIS Nathan Eli,RSA,"Jul 13, 1996",129.47,A,-135,135,141,141,+109kgMen,Snatch,551,False
+9,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Aug 09, 1993",147.56,A,-138,138,-145,138,+109kgMen,Snatch,551,False
+1,BUTT Muhammad Nooh Dastgir,PAK,"Feb 03, 1998",167.76,A,225,232,233,232,+109kgMen,CleanJerk,551,False
+2,LITI David Andrew,NZL,"Jul 11, 1996",182.70,A,218,224,-232,224,+109kgMen,CleanJerk,551,False
+3,GURDEEP Singh,IND,"Oct 01, 1995",161.18,A,207,-215,223,223,+109kgMen,CleanJerk,551,False
+4,LAUTUSI Petelo,SAM,"Jun 28, 1996",135.84,A,201,206,-215,206,+109kgMen,CleanJerk,551,False
+5,NANAI Suamili Alex,AUS,"Jan 23, 1995",133.39,A,201,-215,-215,201,+109kgMen,CleanJerk,551,False
+6,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",143.60,A,201,-210,-210,201,+109kgMen,CleanJerk,551,False
+7,SHAW Gordon,RSA,"Jun 23, 1994",139.69,A,195,-203,-203,195,+109kgMen,CleanJerk,551,False
+8,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Aug 09, 1993",147.56,A,-175,175,-180,175,+109kgMen,CleanJerk,551,False
+---,MORRIS Nathan Eli,RSA,"Jul 13, 1996",129.47,A,-170,-170,-170,---,+109kgMen,CleanJerk,551,False
+1,BUTT Muhammad Nooh Dastgir,PAK,"Feb 03, 1998",167.76,A,173,232,405,---,+109kgMen,Total,551,False
+2,LITI David Andrew,NZL,"Jul 11, 1996",182.70,A,170,224,394,---,+109kgMen,Total,551,False
+3,GURDEEP Singh,IND,"Oct 01, 1995",161.18,A,167,223,390,---,+109kgMen,Total,551,False
+4,LAUTUSI Petelo,SAM,"Jun 28, 1996",135.84,A,165,206,371,---,+109kgMen,Total,551,False
+5,SHAW Gordon,RSA,"Jun 23, 1994",139.69,A,167,195,362,---,+109kgMen,Total,551,False
+6,NANAI Suamili Alex,AUS,"Jan 23, 1995",133.39,A,160,201,361,---,+109kgMen,Total,551,False
+7,EVERETT Quinn Ivan Clark,CAN,"Dec 11, 1992",143.60,A,157,201,358,---,+109kgMen,Total,551,False
+8,WIDANA PATHIRANAGE Ushan Charuka,SRI,"Aug 09, 1993",147.56,A,138,175,313,---,+109kgMen,Total,551,False
+---,MORRIS Nathan Eli,RSA,"Jul 13, 1996",129.47,A,141,---,---,---,+109kgMen,Total,551,False
+1,MIRABAI Chanu Saikhom,IND,"Aug 08, 1994",48.68,A,84,88,-90,88,49kgWomen,Snatch,551,False
+2,RANAIVOSOA Marie Hanitra Roilya,MRI,"Nov 14, 1990",48.63,A,71,73,76,76,49kgWomen,Snatch,551,False
+3,KINGSLEY Stella Peter,NGR,"Nov 13, 2002",48.52,A,70,73,75,75,49kgWomen,Snatch,551,False
+4,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.97,A,72,74,-76,74,49kgWomen,Snatch,551,False
+5,TOUA Loa Dika,PNG,"Jun 23, 1984",48.90,A,68,71,74,74,49kgWomen,Snatch,551,False
+6,GULAM Noorin Mahomed Rafik,GBR,"Sep 06, 1995",48.77,A,68,71,73,73,49kgWomen,Snatch,551,False
+7,POWELL Hannah Louise,WAL,"Dec 12, 1992",48.60,A,-67,67,-70,67,49kgWomen,Snatch,551,False
+8,DIVISEKARA Mudiyanselage Srimali Samarak,SRI,"Sep 19, 1999",48.29,A,-65,65,-68,65,49kgWomen,Snatch,551,False
+9,NTUMI Winnifred,GHA,"Sep 28, 2002",48.63,A,60,-63,63,63,49kgWomen,Snatch,551,False
+10,CHAN Ying Ying,SGP,"Mar 06, 1995",48.40,A,-57,58,61,61,49kgWomen,Snatch,551,False
+11,EKRA Marjia Akter,BAN,"May 06, 2003",48.54,A,58,-60,60,58,49kgWomen,Snatch,551,False
+1,MIRABAI Chanu Saikhom,IND,"Aug 08, 1994",48.68,A,109,113,-115,113,49kgWomen,CleanJerk,551,False
+2,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.97,A,91,94,97,97,49kgWomen,CleanJerk,551,False
+3,TOUA Loa Dika,PNG,"Jun 23, 1984",48.90,A,93,96,-98,96,49kgWomen,CleanJerk,551,False
+4,RANAIVOSOA Marie Hanitra Roilya,MRI,"Nov 14, 1990",48.63,A,-92,93,96,96,49kgWomen,CleanJerk,551,False
+5,KINGSLEY Stella Peter,NGR,"Nov 13, 2002",48.52,A,91,95,-98,95,49kgWomen,CleanJerk,551,False
+6,GULAM Noorin Mahomed Rafik,GBR,"Sep 06, 1995",48.77,A,88,-91,-93,88,49kgWomen,CleanJerk,551,False
+7,DIVISEKARA Mudiyanselage Srimali Samarak,SRI,"Sep 19, 1999",48.29,A,87,-90,-90,87,49kgWomen,CleanJerk,551,False
+8,POWELL Hannah Louise,WAL,"Dec 12, 1992",48.60,A,-85,-85,85,85,49kgWomen,CleanJerk,551,False
+9,CHAN Ying Ying,SGP,"Mar 06, 1995",48.40,A,73,76,-78,76,49kgWomen,CleanJerk,551,False
+10,NTUMI Winnifred,GHA,"Sep 28, 2002",48.63,A,73,76,-79,76,49kgWomen,CleanJerk,551,False
+---,EKRA Marjia Akter,BAN,"May 06, 2003",48.54,A,-70,70,---,---,49kgWomen,CleanJerk,551,False
+1,MIRABAI Chanu Saikhom,IND,"Aug 08, 1994",48.68,A,88,113,201,---,49kgWomen,Total,551,False
+2,RANAIVOSOA Marie Hanitra Roilya,MRI,"Nov 14, 1990",48.63,A,76,96,172,---,49kgWomen,Total,551,False
+3,KAMINSKI Hannah,CAN,"Feb 13, 1994",48.97,A,74,97,171,---,49kgWomen,Total,551,False
+4,KINGSLEY Stella Peter,NGR,"Nov 13, 2002",48.52,A,75,95,170,---,49kgWomen,Total,551,False
+5,TOUA Loa Dika,PNG,"Jun 23, 1984",48.90,A,74,96,170,---,49kgWomen,Total,551,False
+6,GULAM Noorin Mahomed Rafik,GBR,"Sep 06, 1995",48.77,A,73,88,161,---,49kgWomen,Total,551,False
+7,POWELL Hannah Louise,WAL,"Dec 12, 1992",48.60,A,67,85,152,---,49kgWomen,Total,551,False
+8,DIVISEKARA Mudiyanselage Srimali Samarak,SRI,"Sep 19, 1999",48.29,A,65,87,152,---,49kgWomen,Total,551,False
+9,NTUMI Winnifred,GHA,"Sep 28, 2002",48.63,A,63,76,139,---,49kgWomen,Total,551,False
+10,CHAN Ying Ying,SGP,"Mar 06, 1995",48.40,A,61,76,137,---,49kgWomen,Total,551,False
+---,EKRA Marjia Akter,BAN,"May 06, 2003",48.54,A,58,---,---,---,49kgWomen,Total,551,False
+1,OLARINOYE Adijat Adenike,NGR,"Jul 14, 1999",54.51,A,90,92,-93,92,55kgWomen,Snatch,551,False
+2,MORROW Fraer,ENG,"Jul 20, 1998",54.57,A,86,89,-91,89,55kgWomen,Snatch,551,False
+3,SOROKHAIBAM Bindyarani Devi,IND,"Jan 27, 1999",54.01,A,81,84,86,86,55kgWomen,Snatch,551,False
+4,LEBLANC-BAZINET Rachel,CAN,"Oct 10, 1988",54.80,A,77,80,82,82,55kgWomen,Snatch,551,False
+5,WINI Jenly Tegu,SOL,"Jun 09, 1983",54.54,A,-79,-79,79,79,55kgWomen,Snatch,551,False
+6,NORRIS Sky Simone-Lea,JAM,"May 02, 1999",53.89,A,74,-77,78,78,55kgWomen,Snatch,551,False
+7,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.40,A,73,-78,78,78,55kgWomen,Snatch,551,False
+8,WARNAKULASURIYA Wadumesthreege Chamari M,SRI,"Oct 12, 1990",54.83,A,70,-74,-74,70,55kgWomen,Snatch,551,False
+9,STEPHEN My-Only,NRU,"May 22, 2006",54.29,A,-68,68,-70,68,55kgWomen,Snatch,551,False
+---,JONES Catrin Haf,WAL,"Jun 13, 1999",54.78,A,-83,-83,-83,---,55kgWomen,Snatch,551,False
+---,HUGHES Jodey,SCO,"Feb 22, 1983",54.81,A,-71,-71,-71,---,55kgWomen,Snatch,551,False
+1,SOROKHAIBAM Bindyarani Devi,IND,"Jan 27, 1999",54.01,A,110,-114,116,116,55kgWomen,CleanJerk,551,False
+2,OLARINOYE Adijat Adenike,NGR,"Jul 14, 1999",54.51,A,-110,110,111,111,55kgWomen,CleanJerk,551,False
+3,MORROW Fraer,ENG,"Jul 20, 1998",54.57,A,-109,109,-115,109,55kgWomen,CleanJerk,551,False
+4,LEBLANC-BAZINET Rachel,CAN,"Oct 10, 1988",54.80,A,96,-101,-101,96,55kgWomen,CleanJerk,551,False
+5,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.40,A,91,96,-98,96,55kgWomen,CleanJerk,551,False
+6,WARNAKULASURIYA Wadumesthreege Chamari M,SRI,"Oct 12, 1990",54.83,A,90,-94,94,94,55kgWomen,CleanJerk,551,False
+7,NORRIS Sky Simone-Lea,JAM,"May 02, 1999",53.89,A,85,88,92,92,55kgWomen,CleanJerk,551,False
+8,STEPHEN My-Only,NRU,"May 22, 2006",54.29,A,86,-88,-88,86,55kgWomen,CleanJerk,551,False
+---,JONES Catrin Haf,WAL,"Jun 13, 1999",54.78,A,100,---,---,---,55kgWomen,CleanJerk,551,False
+---,HUGHES Jodey,SCO,"Feb 22, 1983",54.81,A,90,---,---,---,55kgWomen,CleanJerk,551,False
+---,WINI Jenly Tegu,SOL,"Jun 09, 1983",54.54,A,-105,-105,-105,---,55kgWomen,CleanJerk,551,False
+1,OLARINOYE Adijat Adenike,NGR,"Jul 14, 1999",54.51,A,92,111,203,---,55kgWomen,Total,551,False
+2,SOROKHAIBAM Bindyarani Devi,IND,"Jan 27, 1999",54.01,A,86,116,202,---,55kgWomen,Total,551,False
+3,MORROW Fraer,ENG,"Jul 20, 1998",54.57,A,89,109,198,---,55kgWomen,Total,551,False
+4,LEBLANC-BAZINET Rachel,CAN,"Oct 10, 1988",54.80,A,82,96,178,---,55kgWomen,Total,551,False
+5,ELLY Cascandra Engelbert,MAS,"Jun 19, 2000",54.40,A,78,96,174,---,55kgWomen,Total,551,False
+6,NORRIS Sky Simone-Lea,JAM,"May 02, 1999",53.89,A,78,92,170,---,55kgWomen,Total,551,False
+7,WARNAKULASURIYA Wadumesthreege Chamari M,SRI,"Oct 12, 1990",54.83,A,70,94,164,---,55kgWomen,Total,551,False
+8,STEPHEN My-Only,NRU,"May 22, 2006",54.29,A,68,86,154,---,55kgWomen,Total,551,False
+---,JONES Catrin Haf,WAL,"Jun 13, 1999",54.78,A,---,---,---,---,55kgWomen,Total,551,False
+---,HUGHES Jodey,SCO,"Feb 22, 1983",54.81,A,---,---,---,---,55kgWomen,Total,551,False
+---,WINI Jenly Tegu,SOL,"Jun 09, 1983",54.54,A,79,---,---,---,55kgWomen,Total,551,False
+1,FOLASHADE LAWAL Rafiatu,NGR,"Nov 12, 1996",57.64,A,90,-94,-95,90,59kgWomen,Snatch,551,False
+2,DARSIGNY Tali,CAN,"Mar 08, 1998",58.95,A,85,-87,87,87,59kgWomen,Snatch,551,False
+3,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.75,A,86,-89,-89,86,59kgWomen,Snatch,551,False
+4,SPIES Anneke,RSA,"Jun 28, 1993",58.89,A,80,-85,85,85,59kgWomen,Snatch,551,False
+5,CRYMBLE Hannah,NIR,"Oct 28, 1995",58.24,A,-83,83,-85,83,59kgWomen,Snatch,551,False
+6,KEAN Brenna Mae,AUS,"Mar 03, 1995",58.67,A,79,-83,83,83,59kgWomen,Snatch,551,False
+7,HAZARIKA Popy,IND,"Dec 08, 1998",57.05,A,81,-84,-86,81,59kgWomen,Snatch,551,False
+8,THORNTON Tenishia,MLT,"Sep 01, 2005",56.33,A,-78,78,-80,78,59kgWomen,Snatch,551,False
+9,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.94,A,73,-78,-78,73,59kgWomen,Snatch,551,False
+10,ANG Su En Sarah,SGP,"Dec 20, 2002",57.99,A,73,-77,-78,73,59kgWomen,Snatch,551,False
+---,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.94,A,-78,-79,-79,---,59kgWomen,Snatch,551,False
+1,FOLASHADE LAWAL Rafiatu,NGR,"Nov 12, 1996",57.64,A,110,115,116,116,59kgWomen,CleanJerk,551,False
+2,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.75,A,107,109,111,111,59kgWomen,CleanJerk,551,False
+3,DARSIGNY Tali,CAN,"Mar 08, 1998",58.95,A,105,107,109,109,59kgWomen,CleanJerk,551,False
+4,KEAN Brenna Mae,AUS,"Mar 03, 1995",58.67,A,106,-111,-114,106,59kgWomen,CleanJerk,551,False
+5,SPIES Anneke,RSA,"Jun 28, 1993",58.89,A,100,-101,105,105,59kgWomen,CleanJerk,551,False
+6,CRYMBLE Hannah,NIR,"Oct 28, 1995",58.24,A,-102,-102,103,103,59kgWomen,CleanJerk,551,False
+7,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.94,A,102,-108,-108,102,59kgWomen,CleanJerk,551,False
+8,HAZARIKA Popy,IND,"Dec 08, 1998",57.05,A,-102,102,-107,102,59kgWomen,CleanJerk,551,False
+9,THORNTON Tenishia,MLT,"Sep 01, 2005",56.33,A,100,-103,-103,100,59kgWomen,CleanJerk,551,False
+10,ANG Su En Sarah,SGP,"Dec 20, 2002",57.99,A,85,90,-95,90,59kgWomen,CleanJerk,551,False
+---,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.94,A,102,---,---,---,59kgWomen,CleanJerk,551,False
+1,FOLASHADE LAWAL Rafiatu,NGR,"Nov 12, 1996",57.64,A,90,116,206,---,59kgWomen,Total,551,False
+2,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.75,A,86,111,197,---,59kgWomen,Total,551,False
+3,DARSIGNY Tali,CAN,"Mar 08, 1998",58.95,A,87,109,196,---,59kgWomen,Total,551,False
+4,SPIES Anneke,RSA,"Jun 28, 1993",58.89,A,85,105,190,---,59kgWomen,Total,551,False
+5,KEAN Brenna Mae,AUS,"Mar 03, 1995",58.67,A,83,106,189,---,59kgWomen,Total,551,False
+6,CRYMBLE Hannah,NIR,"Oct 28, 1995",58.24,A,83,103,186,---,59kgWomen,Total,551,False
+7,HAZARIKA Popy,IND,"Dec 08, 1998",57.05,A,81,102,183,---,59kgWomen,Total,551,False
+8,THORNTON Tenishia,MLT,"Sep 01, 2005",56.33,A,78,100,178,---,59kgWomen,Total,551,False
+9,MARCEETA Marlyne Marcus,MAS,"Feb 07, 1998",56.94,A,73,102,175,---,59kgWomen,Total,551,False
+10,ANG Su En Sarah,SGP,"Dec 20, 2002",57.99,A,73,90,163,---,59kgWomen,Total,551,False
+---,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.94,A,---,---,---,---,59kgWomen,Total,551,False
+1,CHARRON Maude G,CAN,"Apr 28, 1993",61.23,A,98,-101,101,101,64kgWomen,Snatch,551,False
+2,COCHRANE Sarah Maureen,AUS,"Sep 23, 1989",63.63,A,93,97,100,100,64kgWomen,Snatch,551,False
+3,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",63.45,A,93,-97,-97,93,64kgWomen,Snatch,551,False
+4,SMITH Zoe,ENG,"Apr 26, 1994",63.86,A,88,-91,-91,88,64kgWomen,Snatch,551,False
+5,MCINTYRE Emma,NZL,"Feb 08, 1991",63.51,A,81,84,-88,84,64kgWomen,Snatch,551,False
+6,WILLIAMS Christie Marie,WAL,"Nov 24, 1992",63.74,A,80,83,-85,83,64kgWomen,Snatch,551,False
+7,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",63.51,A,-81,81,83,83,64kgWomen,Snatch,551,False
+8,DOYLE Caroline,NIR,"Oct 06, 1992",63.15,A,78,-81,-81,78,64kgWomen,Snatch,551,False
+9,AKTAR Mabia,BAN,"Oct 07, 1999",63.86,A,74,78,-80,78,64kgWomen,Snatch,551,False
+10,HENG Nicole Lin Li,SGP,"Jan 16, 1995",63.19,A,73,76,-79,76,64kgWomen,Snatch,551,False
+11,ACHIENG KENGERE Rachael,KEN,"Sep 12, 2004",63.39,A,65,70,-75,70,64kgWomen,Snatch,551,False
+12,DETUDAMO Bernice,NRU,"Jul 14, 2004",60.94,A,60,-65,-65,60,64kgWomen,Snatch,551,False
+1,CHARRON Maude G,CAN,"Apr 28, 1993",61.23,A,123,127,130,130,64kgWomen,CleanJerk,551,False
+2,SMITH Zoe,ENG,"Apr 26, 1994",63.86,A,114,122,-125,122,64kgWomen,CleanJerk,551,False
+3,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",63.45,A,113,116,119,119,64kgWomen,CleanJerk,551,False
+4,COCHRANE Sarah Maureen,AUS,"Sep 23, 1989",63.63,A,112,116,-118,116,64kgWomen,CleanJerk,551,False
+5,AKTAR Mabia,BAN,"Oct 07, 1999",63.86,A,100,103,-105,103,64kgWomen,CleanJerk,551,False
+6,MCINTYRE Emma,NZL,"Feb 08, 1991",63.51,A,100,103,-106,103,64kgWomen,CleanJerk,551,False
+7,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",63.51,A,100,-103,103,103,64kgWomen,CleanJerk,551,False
+8,DOYLE Caroline,NIR,"Oct 06, 1992",63.15,A,98,101,-105,101,64kgWomen,CleanJerk,551,False
+9,WILLIAMS Christie Marie,WAL,"Nov 24, 1992",63.74,A,-100,-100,100,100,64kgWomen,CleanJerk,551,False
+10,HENG Nicole Lin Li,SGP,"Jan 16, 1995",63.19,A,93,-96,-96,93,64kgWomen,CleanJerk,551,False
+11,ACHIENG KENGERE Rachael,KEN,"Sep 12, 2004",63.39,A,78,82,85,85,64kgWomen,CleanJerk,551,False
+12,DETUDAMO Bernice,NRU,"Jul 14, 2004",60.94,A,75,78,81,81,64kgWomen,CleanJerk,551,False
+1,CHARRON Maude G,CAN,"Apr 28, 1993",61.23,A,101,130,231,---,64kgWomen,Total,551,False
+2,COCHRANE Sarah Maureen,AUS,"Sep 23, 1989",63.63,A,100,116,216,---,64kgWomen,Total,551,False
+3,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",63.45,A,93,119,212,---,64kgWomen,Total,551,False
+4,SMITH Zoe,ENG,"Apr 26, 1994",63.86,A,88,122,210,---,64kgWomen,Total,551,False
+5,MCINTYRE Emma,NZL,"Feb 08, 1991",63.51,A,84,103,187,---,64kgWomen,Total,551,False
+6,ZAMMIT STEVENS Yasmin,MLT,"Apr 21, 1993",63.51,A,83,103,186,---,64kgWomen,Total,551,False
+7,WILLIAMS Christie Marie,WAL,"Nov 24, 1992",63.74,A,83,100,183,---,64kgWomen,Total,551,False
+8,AKTAR Mabia,BAN,"Oct 07, 1999",63.86,A,78,103,181,---,64kgWomen,Total,551,False
+9,DOYLE Caroline,NIR,"Oct 06, 1992",63.15,A,78,101,179,---,64kgWomen,Total,551,False
+10,HENG Nicole Lin Li,SGP,"Jan 16, 1995",63.19,A,76,93,169,---,64kgWomen,Total,551,False
+11,ACHIENG KENGERE Rachael,KEN,"Sep 12, 2004",63.39,A,70,85,155,---,64kgWomen,Total,551,False
+12,DETUDAMO Bernice,NRU,"Jul 14, 2004",60.94,A,60,81,141,---,64kgWomen,Total,551,False
+1,DAVIES Sarah,ENG,"Aug 19, 1992",70.58,A,97,101,103,103,71kgWomen,Snatch,551,False
+2,OGBONNE EZE Joy,NGR,"Jun 06, 2004",69.79,A,95,100,-103,100,71kgWomen,Snatch,551,False
+3,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",67.39,A,-90,90,94,94,71kgWomen,Snatch,551,False
+4,KAUR Harjinder,IND,"Oct 14, 1996",69.14,A,-90,90,93,93,71kgWomen,Snatch,551,False
+5,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.20,A,-91,91,-94,91,71kgWomen,Snatch,551,False
+6,SIGNAL Megan Ann,NZL,"Feb 17, 1990",70.73,A,-88,88,-92,88,71kgWomen,Snatch,551,False
+7,ABOUKE Nancy Genzel,NRU,"Jul 05, 2003",68.40,A,87,-90,-90,87,71kgWomen,Snatch,551,False
+8,LENT Ketty,MRI,"Jan 25, 2001",70.29,A,82,87,-90,87,71kgWomen,Snatch,551,False
+9,TABONE Roberta,MLT,"Nov 18, 1994",69.97,A,82,84,86,86,71kgWomen,Snatch,551,False
+10,PITTMAN Faye Samantha Michelle,WAL,"Jan 10, 1983",70.22,A,81,-84,-84,81,71kgWomen,Snatch,551,False
+11,HOLLY O Shea,GIB,"Dec 19, 1996",68.75,A,70,74,-76,74,71kgWomen,Snatch,551,False
+---,AITCHISON Alice Glenna,SCO,"May 01, 1999",69.88,A,-82,-82,-82,---,71kgWomen,Snatch,551,False
+1,DAVIES Sarah,ENG,"Aug 19, 1992",70.58,A,-126,126,-130,126,71kgWomen,CleanJerk,551,False
+2,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.20,A,112,116,123,123,71kgWomen,CleanJerk,551,False
+3,KAUR Harjinder,IND,"Oct 14, 1996",69.14,A,113,116,119,119,71kgWomen,CleanJerk,551,False
+4,ABOUKE Nancy Genzel,NRU,"Jul 05, 2003",68.40,A,110,-114,-114,110,71kgWomen,CleanJerk,551,False
+5,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",67.39,A,105,108,110,110,71kgWomen,CleanJerk,551,False
+6,SIGNAL Megan Ann,NZL,"Feb 17, 1990",70.73,A,108,-111,-112,108,71kgWomen,CleanJerk,551,False
+7,PITTMAN Faye Samantha Michelle,WAL,"Jan 10, 1983",70.22,A,105,-108,108,108,71kgWomen,CleanJerk,551,False
+8,LENT Ketty,MRI,"Jan 25, 2001",70.29,A,107,-111,-111,107,71kgWomen,CleanJerk,551,False
+9,TABONE Roberta,MLT,"Nov 18, 1994",69.97,A,101,105,-108,105,71kgWomen,CleanJerk,551,False
+10,HOLLY O Shea,GIB,"Dec 19, 1996",68.75,A,89,93,97,97,71kgWomen,CleanJerk,551,False
+---,OGBONNE EZE Joy,NGR,"Jun 06, 2004",69.79,A,-125,-125,-125,---,71kgWomen,CleanJerk,551,False
+---,AITCHISON Alice Glenna,SCO,"May 01, 1999",69.88,A,100,---,---,---,71kgWomen,CleanJerk,551,False
+1,DAVIES Sarah,ENG,"Aug 19, 1992",70.58,A,103,126,229,---,71kgWomen,Total,551,False
+2,ASHWORTH Alexis,CAN,"Jan 24, 1999",70.20,A,91,123,214,---,71kgWomen,Total,551,False
+3,KAUR Harjinder,IND,"Oct 14, 1996",69.14,A,93,119,212,---,71kgWomen,Total,551,False
+4,ELLIOTT Kiana Rose,AUS,"Jul 27, 1997",67.39,A,94,110,204,---,71kgWomen,Total,551,False
+5,ABOUKE Nancy Genzel,NRU,"Jul 05, 2003",68.40,A,87,110,197,---,71kgWomen,Total,551,False
+6,SIGNAL Megan Ann,NZL,"Feb 17, 1990",70.73,A,88,108,196,---,71kgWomen,Total,551,False
+7,LENT Ketty,MRI,"Jan 25, 2001",70.29,A,87,107,194,---,71kgWomen,Total,551,False
+8,TABONE Roberta,MLT,"Nov 18, 1994",69.97,A,86,105,191,---,71kgWomen,Total,551,False
+9,PITTMAN Faye Samantha Michelle,WAL,"Jan 10, 1983",70.22,A,81,108,189,---,71kgWomen,Total,551,False
+10,HOLLY O Shea,GIB,"Dec 19, 1996",68.75,A,74,97,171,---,71kgWomen,Total,551,False
+---,OGBONNE EZE Joy,NGR,"Jun 06, 2004",69.79,A,100,---,---,---,71kgWomen,Total,551,False
+---,AITCHISON Alice Glenna,SCO,"May 01, 1999",69.88,A,---,---,---,---,71kgWomen,Total,551,False
+1,LAYLOR Maya Celeste,CAN,"Jul 04, 1995",75.33,A,100,-105,-105,100,76kgWomen,Snatch,551,False
+2,YADAV Punam,IND,"Jul 09, 1995",75.46,A,-95,95,98,98,76kgWomen,Snatch,551,False
+3,UEPA Maximina,NRU,"Sep 22, 2002",72.57,A,90,94,96,96,76kgWomen,Snatch,551,False
+4,LIADI Taiwo,NGR,"Jun 14, 2002",74.23,A,90,95,96,96,76kgWomen,Snatch,551,False
+5,ALAWODE Deborah,ENG,"Sep 19, 1997",75.67,A,90,93,-96,93,76kgWomen,Snatch,551,False
+6,GORINCU Ebony,AUS,"Aug 23, 1989",74.58,A,-89,89,93,93,76kgWomen,Snatch,551,False
+7,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",75.62,A,-90,90,-96,90,76kgWomen,Snatch,551,False
+8,HERBERT Agata,SCO,"Feb 06, 1998",75.09,A,86,-90,-90,86,76kgWomen,Snatch,551,False
+9,SALT Amy,WAL,"Feb 07, 1992",73.53,A,70,86,-90,86,76kgWomen,Snatch,551,False
+10,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",74.82,A,78,81,-84,81,76kgWomen,Snatch,551,False
+11,KAZI Monira,BAN,"Aug 05, 1995",71.02,A,75,-78,-78,75,76kgWomen,Snatch,551,False
+1,LAYLOR Maya Celeste,CAN,"Jul 04, 1995",75.33,A,123,128,-135,128,76kgWomen,CleanJerk,551,False
+2,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",75.62,A,115,119,122,122,76kgWomen,CleanJerk,551,False
+3,LIADI Taiwo,NGR,"Jun 14, 2002",74.23,A,-115,115,120,120,76kgWomen,CleanJerk,551,False
+4,UEPA Maximina,NRU,"Sep 22, 2002",72.57,A,115,119,-122,119,76kgWomen,CleanJerk,551,False
+5,ALAWODE Deborah,ENG,"Sep 19, 1997",75.67,A,114,-119,119,119,76kgWomen,CleanJerk,551,False
+6,GORINCU Ebony,AUS,"Aug 23, 1989",74.58,A,113,-119,-119,113,76kgWomen,CleanJerk,551,False
+7,HERBERT Agata,SCO,"Feb 06, 1998",75.09,A,105,110,113,113,76kgWomen,CleanJerk,551,False
+8,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",74.82,A,-95,95,-98,95,76kgWomen,CleanJerk,551,False
+9,KAZI Monira,BAN,"Aug 05, 1995",71.02,A,-95,95,-98,95,76kgWomen,CleanJerk,551,False
+---,SALT Amy,WAL,"Feb 07, 1992",73.53,A,-105,-107,-107,---,76kgWomen,CleanJerk,551,False
+---,YADAV Punam,IND,"Jul 09, 1995",75.46,A,-116,-116,-116,---,76kgWomen,CleanJerk,551,False
+1,LAYLOR Maya Celeste,CAN,"Jul 04, 1995",75.33,A,100,128,228,---,76kgWomen,Total,551,False
+2,LIADI Taiwo,NGR,"Jun 14, 2002",74.23,A,96,120,216,---,76kgWomen,Total,551,False
+3,UEPA Maximina,NRU,"Sep 22, 2002",72.57,A,96,119,215,---,76kgWomen,Total,551,False
+4,ALAWODE Deborah,ENG,"Sep 19, 1997",75.67,A,93,119,212,---,76kgWomen,Total,551,False
+5,EYENGA MBOOSI Jeanne Gaelle,CMR,"Jan 24, 1999",75.62,A,90,122,212,---,76kgWomen,Total,551,False
+6,GORINCU Ebony,AUS,"Aug 23, 1989",74.58,A,93,113,206,---,76kgWomen,Total,551,False
+7,HERBERT Agata,SCO,"Feb 06, 1998",75.09,A,86,113,199,---,76kgWomen,Total,551,False
+8,WHYLIE Chloe Rebecca,JAM,"Jul 06, 1990",74.82,A,81,95,176,---,76kgWomen,Total,551,False
+9,KAZI Monira,BAN,"Aug 05, 1995",71.02,A,75,95,170,---,76kgWomen,Total,551,False
+---,SALT Amy,WAL,"Feb 07, 1992",73.53,A,86,---,---,---,76kgWomen,Total,551,False
+---,YADAV Punam,IND,"Jul 09, 1995",75.46,A,98,---,---,---,76kgWomen,Total,551,False
+1,CIKAMATANA Eileen Floanna Maria,AUS,"Sep 18, 1999",84.08,A,105,110,-113,110,87kgWomen,Snatch,551,False
+2,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",82.52,A,95,100,102,102,87kgWomen,Snatch,551,False
+3,NGARLEM Kristel,CAN,"Jul 20, 1995",82.03,A,97,101,-103,101,87kgWomen,Snatch,551,False
+4,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.11,A,97,100,-102,100,87kgWomen,Snatch,551,False
+5,NATESH KUMARA Usha Bannur,IND,"Apr 02, 1995",86.29,A,90,95,-98,95,87kgWomen,Snatch,551,False
+6,WHITING Hayley Elizabeth,NZL,"Jan 18, 1993",82.97,A,93,-97,-98,93,87kgWomen,Snatch,551,False
+7,BALAGE Chathurika Priyanthi,SRI,"Sep 09, 1992",85.20,A,81,-86,-86,81,87kgWomen,Snatch,551,False
+8,LARUE Romantha,SEY,"Jun 04, 1998",84.53,A,75,78,-81,78,87kgWomen,Snatch,551,False
+9,PRITCHARD-LOLO Ajah,VAN,"Aug 10, 2002",84.56,A,73,-78,78,78,87kgWomen,Snatch,551,False
+10,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.23,A,73,-76,-77,73,87kgWomen,Snatch,551,False
+---,SWEENEY Emily,ENG,"Feb 16, 2004",85.60,A,-88,-88,-88,---,87kgWomen,Snatch,551,False
+1,CIKAMATANA Eileen Floanna Maria,AUS,"Sep 18, 1999",84.08,A,129,137,145,145,87kgWomen,CleanJerk,551,False
+2,NGARLEM Kristel,CAN,"Jul 20, 1995",82.03,A,125,130,135,135,87kgWomen,CleanJerk,551,False
+3,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",82.52,A,116,120,123,123,87kgWomen,CleanJerk,551,False
+4,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.11,A,118,121,126,121,87kgWomen,CleanJerk,551,False
+5,WHITING Hayley Elizabeth,NZL,"Jan 18, 1993",82.97,A,-116,116,-121,116,87kgWomen,CleanJerk,551,False
+6,BALAGE Chathurika Priyanthi,SRI,"Sep 09, 1992",85.20,A,105,111,-114,111,87kgWomen,CleanJerk,551,False
+7,NATESH KUMARA Usha Bannur,IND,"Apr 02, 1995",86.29,A,110,-116,-116,110,87kgWomen,CleanJerk,551,False
+8,PRITCHARD-LOLO Ajah,VAN,"Aug 10, 2002",84.56,A,93,97,100,100,87kgWomen,CleanJerk,551,False
+9,LARUE Romantha,SEY,"Jun 04, 1998",84.53,A,93,-98,98,98,87kgWomen,CleanJerk,551,False
+10,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.23,A,90,-95,-98,90,87kgWomen,CleanJerk,551,False
+---,SWEENEY Emily,ENG,"Feb 16, 2004",85.60,A,110,---,---,---,87kgWomen,CleanJerk,551,False
+1,CIKAMATANA Eileen Floanna Maria,AUS,"Sep 18, 1999",84.08,A,110,145,255,---,87kgWomen,Total,551,False
+2,NGARLEM Kristel,CAN,"Jul 20, 1995",82.03,A,101,135,236,---,87kgWomen,Total,551,False
+3,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",82.52,A,102,123,225,---,87kgWomen,Total,551,False
+4,MEUKEUGNI NOUMBISSI Clementine,CMR,"Oct 01, 1990",86.11,A,100,121,221,---,87kgWomen,Total,551,False
+5,WHITING Hayley Elizabeth,NZL,"Jan 18, 1993",82.97,A,93,116,209,---,87kgWomen,Total,551,False
+6,NATESH KUMARA Usha Bannur,IND,"Apr 02, 1995",86.29,A,95,110,205,---,87kgWomen,Total,551,False
+7,BALAGE Chathurika Priyanthi,SRI,"Sep 09, 1992",85.20,A,81,111,192,---,87kgWomen,Total,551,False
+8,PRITCHARD-LOLO Ajah,VAN,"Aug 10, 2002",84.56,A,78,100,178,---,87kgWomen,Total,551,False
+9,LARUE Romantha,SEY,"Jun 04, 1998",84.53,A,78,98,176,---,87kgWomen,Total,551,False
+10,HENDERSON Yvgeni,JAM,"Oct 12, 1988",85.23,A,73,90,163,---,87kgWomen,Total,551,False
+---,SWEENEY Emily,ENG,"Feb 16, 2004",85.60,A,---,---,---,---,87kgWomen,Total,551,False
+1,CAMPBELL Emily,ENG,"May 06, 1994",128.50,A,117,121,124,124,+87kgWomen,Snatch,551,False
+2,STOWERS Feagaiga,SAM,"Nov 17, 2000",121.11,A,117,-121,121,121,+87kgWomen,Snatch,551,False
+3,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",101.86,A,101,104,107,107,+87kgWomen,Snatch,551,False
+4,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",112.56,A,-106,106,-110,106,+87kgWomen,Snatch,551,False
+5,PANDEY Pumima,IND,"Oct 16, 1997",98.19,A,-103,103,-108,103,+87kgWomen,Snatch,551,False
+6,AMOE-TARRANT Charisma Precious,AUS,"May 26, 1999",153.30,A,95,-100,100,100,+87kgWomen,Snatch,551,False
+7,HAPUTHENNE WIYANNALAGE Thimali N.B.J.H,SRI,"Oct 16, 1999",117.08,A,80,85,89,89,+87kgWomen,Snatch,551,False
+8,LYNCH Manine Mato Oakirangi,COK,"Feb 12, 1999",124.82,A,83,86,-90,86,+87kgWomen,Snatch,551,False
+9,SEIPUA Helen Anastasia,FIJ,"Jul 21, 2002",114.22,A,81,-85,85,85,+87kgWomen,Snatch,551,False
+10,SCICLUNA Elisia,MLT,"Aug 19, 1992",94.68,A,80,-83,-83,80,+87kgWomen,Snatch,551,False
+1,CAMPBELL Emily,ENG,"May 06, 1994",128.50,A,152,157,162,162,+87kgWomen,CleanJerk,551,False
+2,STOWERS Feagaiga,SAM,"Nov 17, 2000",121.11,A,147,-154,-154,147,+87kgWomen,CleanJerk,551,False
+3,AMOE-TARRANT Charisma Precious,AUS,"May 26, 1999",153.30,A,127,139,-145,139,+87kgWomen,CleanJerk,551,False
+4,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",112.56,A,123,128,132,132,+87kgWomen,CleanJerk,551,False
+5,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",101.86,A,121,125,128,128,+87kgWomen,CleanJerk,551,False
+6,PANDEY Pumima,IND,"Oct 16, 1997",98.19,A,125,-133,-133,125,+87kgWomen,CleanJerk,551,False
+7,LYNCH Manine Mato Oakirangi,COK,"Feb 12, 1999",124.82,A,111,116,-121,116,+87kgWomen,CleanJerk,551,False
+8,HAPUTHENNE WIYANNALAGE Thimali N.B.J.H,SRI,"Oct 16, 1999",117.08,A,105,110,-113,110,+87kgWomen,CleanJerk,551,False
+9,SEIPUA Helen Anastasia,FIJ,"Jul 21, 2002",114.22,A,102,108,-113,108,+87kgWomen,CleanJerk,551,False
+10,SCICLUNA Elisia,MLT,"Aug 19, 1992",94.68,A,100,103,105,105,+87kgWomen,CleanJerk,551,False
+1,CAMPBELL Emily,ENG,"May 06, 1994",128.50,A,124,162,286,---,+87kgWomen,Total,551,False
+2,STOWERS Feagaiga,SAM,"Nov 17, 2000",121.11,A,121,147,268,---,+87kgWomen,Total,551,False
+3,AMOE-TARRANT Charisma Precious,AUS,"May 26, 1999",153.30,A,100,139,239,---,+87kgWomen,Total,551,False
+4,FRIESEN EMMA Mary Elizabeth,CAN,"Mar 20, 2002",112.56,A,106,132,238,---,+87kgWomen,Total,551,False
+5,MANUMUA Kuinini Juanita Mechteld,TGA,"Dec 12, 2000",101.86,A,107,128,235,---,+87kgWomen,Total,551,False
+6,PANDEY Pumima,IND,"Oct 16, 1997",98.19,A,103,125,228,---,+87kgWomen,Total,551,False
+7,LYNCH Manine Mato Oakirangi,COK,"Feb 12, 1999",124.82,A,86,116,202,---,+87kgWomen,Total,551,False
+8,HAPUTHENNE WIYANNALAGE Thimali N.B.J.H,SRI,"Oct 16, 1999",117.08,A,89,110,199,---,+87kgWomen,Total,551,False
+9,SEIPUA Helen Anastasia,FIJ,"Jul 21, 2002",114.22,A,85,108,193,---,+87kgWomen,Total,551,False
+10,SCICLUNA Elisia,MLT,"Aug 19, 1992",94.68,A,80,105,185,---,+87kgWomen,Total,551,False

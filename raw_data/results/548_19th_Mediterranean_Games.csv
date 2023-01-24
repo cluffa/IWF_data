@@ -1,0 +1,205 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,HARDAL Ferdi,TUR,"Dec 31, 1996",61.00,A,124,-128,---,124,61kgMen,Snatch,548,False
+2,ELTAMADI Ahmed Abdelghani Said,EGY,"Jan 16, 1999",60.95,A,117,120,-125,120,61kgMen,Snatch,548,False
+3,BOUHIJBHA Amine,TUN,"Feb 28, 1996",60.60,A,116,-118,---,116,61kgMen,Snatch,548,False
+4,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",58.30,A,111,116,-118,116,61kgMen,Snatch,548,False
+5,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.65,A,105,-110,110,110,61kgMen,Snatch,548,False
+---,AINOUAZANE Abdelkader,ALG,"Nov 03, 1987",61.00,A,-115,-115,-118,---,61kgMen,Snatch,548,False
+---,DURAK Faris,BIH,"Sep 25, 2002",61.00,A,-86,-86,-86,---,61kgMen,Snatch,548,False
+1,HARDAL Ferdi,TUR,"Dec 31, 1996",61.00,A,147,151,153,153,61kgMen,CleanJerk,548,False
+2,ELTAMADI Ahmed Abdelghani Said,EGY,"Jan 16, 1999",60.95,A,143,150,152,152,61kgMen,CleanJerk,548,False
+3,BOUHIJBHA Amine,TUN,"Feb 28, 1996",60.60,A,142,-145,150,150,61kgMen,CleanJerk,548,False
+4,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",58.30,A,-135,139,-144,139,61kgMen,CleanJerk,548,False
+5,AINOUAZANE Abdelkader,ALG,"Nov 03, 1987",61.00,A,135,-143,-146,135,61kgMen,CleanJerk,548,False
+6,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.65,A,130,-136,---,130,61kgMen,CleanJerk,548,False
+7,DURAK Faris,BIH,"Sep 25, 2002",61.00,A,102,-107,---,102,61kgMen,CleanJerk,548,False
+---,HARDAL Ferdi,TUR,"Dec 31, 1996",61.00,A,124,153,277,---,61kgMen,Total,548,False
+---,AINOUAZANE Abdelkader,ALG,"Nov 03, 1987",61.00,A,---,135,---,---,61kgMen,Total,548,False
+---,DURAK Faris,BIH,"Sep 25, 2002",61.00,A,---,102,---,---,61kgMen,Total,548,False
+---,ELTAMADI Ahmed Abdelghani Said,EGY,"Jan 16, 1999",60.95,A,120,152,272,---,61kgMen,Total,548,False
+---,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",58.30,A,116,139,255,---,61kgMen,Total,548,False
+---,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.65,A,110,130,240,---,61kgMen,Total,548,False
+---,BOUHIJBHA Amine,TUN,"Feb 28, 1996",60.60,A,116,150,266,---,61kgMen,Total,548,False
+1,ZANNI Mirko,ITA,"Oct 16, 1997",71.75,A,147,-149,150,150,73kgMen,Snatch,548,False
+2,QERIMAJ Erkand,ALB,"Aug 10, 1988",72.85,A,-148,-148,149,149,73kgMen,Snatch,548,False
+3,BEN HNIA Karem,TUN,"Nov 13, 1994",72.85,A,-147,147,-149,147,73kgMen,Snatch,548,False
+4,MOHAMED Ahmed,EGY,"Jul 21, 1996",72.45,A,-146,146,-149,146,73kgMen,Snatch,548,False
+5,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",73.00,A,-145,145,-148,145,73kgMen,Snatch,548,False
+6,FARDJALLAH Samir,ALG,"May 18, 1998",72.45,A,136,141,-148,141,73kgMen,Snatch,548,False
+7,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,A,135,140,-143,140,73kgMen,Snatch,548,False
+8,SHABI Ahsaan Ali Alhadi,LBA,"Mar 22, 1997",72.60,A,130,136,-141,136,73kgMen,Snatch,548,False
+1,BEN HNIA Karem,TUN,"Nov 13, 1994",72.85,A,180,182,185,185,73kgMen,CleanJerk,548,False
+2,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",73.00,A,-181,181,184,184,73kgMen,CleanJerk,548,False
+3,ZANNI Mirko,ITA,"Oct 16, 1997",71.75,A,-177,177,---,177,73kgMen,CleanJerk,548,False
+4,FARDJALLAH Samir,ALG,"May 18, 1998",72.45,A,171,-178,-178,171,73kgMen,CleanJerk,548,False
+5,SHABI Ahsaan Ali Alhadi,LBA,"Mar 22, 1997",72.60,A,160,-170,170,170,73kgMen,CleanJerk,548,False
+6,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,A,165,-170,---,165,73kgMen,CleanJerk,548,False
+---,MOHAMED Ahmed,EGY,"Jul 21, 1996",72.45,A,-176,-177,-178,---,73kgMen,CleanJerk,548,False
+---,QERIMAJ Erkand,ALB,"Aug 10, 1988",72.85,A,---,---,---,---,73kgMen,CleanJerk,548,False
+---,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",73.00,A,145,184,329,---,73kgMen,Total,548,False
+---,BEN HNIA Karem,TUN,"Nov 13, 1994",72.85,A,147,185,332,---,73kgMen,Total,548,False
+---,SHABI Ahsaan Ali Alhadi,LBA,"Mar 22, 1997",72.60,A,136,170,306,---,73kgMen,Total,548,False
+---,ZANNI Mirko,ITA,"Oct 16, 1997",71.75,A,150,177,327,---,73kgMen,Total,548,False
+---,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,A,140,165,305,---,73kgMen,Total,548,False
+---,MOHAMED Ahmed,EGY,"Jul 21, 1996",72.45,A,146,---,---,---,73kgMen,Total,548,False
+---,FARDJALLAH Samir,ALG,"May 18, 1998",72.45,A,141,171,312,---,73kgMen,Total,548,False
+---,QERIMAJ Erkand,ALB,"Aug 10, 1988",72.85,A,149,---,---,---,73kgMen,Total,548,False
+1,PIZZOLATO Antonino,ITA,"Aug 20, 1996",88.15,A,170,172,---,172,89kgMen,Snatch,548,False
+2,ABOKAHLA Karim Ibrahim Ibrahim Ali,EGY,"Nov 11, 1996",88.90,A,160,165,171,171,89kgMen,Snatch,548,False
+3,TOUAIRI Faris,ALG,"Jun 11, 1999",87.50,A,161,-166,-166,161,89kgMen,Snatch,548,False
+4,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.55,A,152,157,-161,157,89kgMen,Snatch,548,False
+5,ERDOGDU Celil,TUR,"Dec 05, 1997",85.70,A,153,-158,-158,153,89kgMen,Snatch,548,False
+6,MARTASIDIS Antonis,CYP,"Jun 14, 1992",88.85,A,145,150,-153,150,89kgMen,Snatch,548,False
+7,ALAJEEMI Omar Mohammed Alhadi,LBA,"Jul 25, 1999",87.95,A,138,144,148,148,89kgMen,Snatch,548,False
+8,LISTE VIANO Martin,ESP,"Jun 11, 1996",88.80,A,-145,145,-151,145,89kgMen,Snatch,548,False
+9,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",88.30,A,135,-140,140,140,89kgMen,Snatch,548,False
+1,PIZZOLATO Antonino,ITA,"Aug 20, 1996",88.15,A,-210,210,213,213,89kgMen,CleanJerk,548,False
+2,ABOKAHLA Karim Ibrahim Ibrahim Ali,EGY,"Nov 11, 1996",88.90,A,202,212,-214,212,89kgMen,CleanJerk,548,False
+3,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",88.30,A,190,192,-200,192,89kgMen,CleanJerk,548,False
+4,MARTASIDIS Antonis,CYP,"Jun 14, 1992",88.85,A,185,-191,191,191,89kgMen,CleanJerk,548,False
+5,ALAJEEMI Omar Mohammed Alhadi,LBA,"Jul 25, 1999",87.95,A,175,-183,185,185,89kgMen,CleanJerk,548,False
+6,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.55,A,183,-191,-191,183,89kgMen,CleanJerk,548,False
+7,LISTE VIANO Martin,ESP,"Jun 11, 1996",88.80,A,-175,-175,175,175,89kgMen,CleanJerk,548,False
+---,ERDOGDU Celil,TUR,"Dec 05, 1997",85.70,A,-185,-191,-191,---,89kgMen,CleanJerk,548,False
+---,TOUAIRI Faris,ALG,"Jun 11, 1999",87.50,A,---,---,---,---,89kgMen,CleanJerk,548,False
+---,ERDOGDU Celil,TUR,"Dec 05, 1997",85.70,A,153,---,---,---,89kgMen,Total,548,False
+---,ALAJEEMI Omar Mohammed Alhadi,LBA,"Jul 25, 1999",87.95,A,148,185,333,---,89kgMen,Total,548,False
+---,PIZZOLATO Antonino,ITA,"Aug 20, 1996",88.15,A,172,213,385,---,89kgMen,Total,548,False
+---,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.55,A,157,183,340,---,89kgMen,Total,548,False
+---,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",88.30,A,140,192,332,---,89kgMen,Total,548,False
+---,LISTE VIANO Martin,ESP,"Jun 11, 1996",88.80,A,145,175,320,---,89kgMen,Total,548,False
+---,ABOKAHLA Karim Ibrahim Ibrahim Ali,EGY,"Nov 11, 1996",88.90,A,171,212,383,---,89kgMen,Total,548,False
+---,MARTASIDIS Antonis,CYP,"Jun 14, 1992",88.85,A,150,191,341,---,89kgMen,Total,548,False
+---,TOUAIRI Faris,ALG,"Jun 11, 1999",87.50,A,161,---,---,---,89kgMen,Total,548,False
+1,RUIZ I VELASCO Marcos,ESP,"Oct 13, 1996",101.15,A,168,172,175,175,102kgMen,Snatch,548,False
+2,BACHA Aymen,TUN,"Oct 26, 1999",101.15,A,167,-172,174,174,102kgMen,Snatch,548,False
+3,FICCO Cristiano Giuseppe,ITA,"Apr 05, 2001",89.30,A,161,164,-168,164,102kgMen,Snatch,548,False
+4,TOUAIRI Aymen,ALG,"Sep 11, 1998",101.80,A,-162,162,-169,162,102kgMen,Snatch,548,False
+5,ALI Ahmed,EGY,"Jan 10, 1999",100.70,A,160,-168,-168,160,102kgMen,Snatch,548,False
+6,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.25,A,160,-165,-167,160,102kgMen,Snatch,548,False
+7,ABUZRIBA Ahmed Mustafa Ahmed,LBA,"Apr 16, 2000",101.00,A,158,-164,-169,158,102kgMen,Snatch,548,False
+8,DEMIRCI Onur,TUR,"Aug 07, 2003",101.70,A,-155,155,-163,155,102kgMen,Snatch,548,False
+9,STROUMPIS Efstathios,GRE,"Jul 12, 1993",102.00,A,145,150,-155,150,102kgMen,Snatch,548,False
+10,SMAJIC Dino,BIH,"Jul 05, 1997",95.45,A,120,130,140,140,102kgMen,Snatch,548,False
+11,SKEDELJ Jure,SLO,"Jul 24, 1995",101.90,A,130,-135,135,135,102kgMen,Snatch,548,False
+1,BACHA Aymen,TUN,"Oct 26, 1999",101.15,A,-205,216,210,210,102kgMen,CleanJerk,548,False
+2,RUIZ I VELASCO Marcos,ESP,"Oct 13, 1996",101.15,A,200,205,208,208,102kgMen,CleanJerk,548,False
+3,ALI Ahmed,EGY,"Jan 10, 1999",100.70,A,-205,-206,208,208,102kgMen,CleanJerk,548,False
+4,FICCO Cristiano Giuseppe,ITA,"Apr 05, 2001",89.30,A,201,-206,207,207,102kgMen,CleanJerk,548,False
+5,TOUAIRI Aymen,ALG,"Sep 11, 1998",101.80,A,201,206,-209,206,102kgMen,CleanJerk,548,False
+6,ABUZRIBA Ahmed Mustafa Ahmed,LBA,"Apr 16, 2000",101.00,A,180,190,-200,190,102kgMen,CleanJerk,548,False
+7,STROUMPIS Efstathios,GRE,"Jul 12, 1993",102.00,A,175,-181,-185,175,102kgMen,CleanJerk,548,False
+8,SKEDELJ Jure,SLO,"Jul 24, 1995",101.90,A,-165,167,-170,167,102kgMen,CleanJerk,548,False
+9,SMAJIC Dino,BIH,"Jul 05, 1997",95.45,A,150,160,165,165,102kgMen,CleanJerk,548,False
+---,DEMIRCI Onur,TUR,"Aug 07, 2003",101.70,A,-196,-196,-196,---,102kgMen,CleanJerk,548,False
+---,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.25,A,-205,-206,-209,---,102kgMen,CleanJerk,548,False
+---,DEMIRCI Onur,TUR,"Aug 07, 2003",101.70,A,155,---,---,---,102kgMen,Total,548,False
+---,BACHA Aymen,TUN,"Oct 26, 1999",101.15,A,174,210,384,---,102kgMen,Total,548,False
+---,SKEDELJ Jure,SLO,"Jul 24, 1995",101.90,A,135,167,302,---,102kgMen,Total,548,False
+---,ABUZRIBA Ahmed Mustafa Ahmed,LBA,"Apr 16, 2000",101.00,A,158,190,348,---,102kgMen,Total,548,False
+---,FICCO Cristiano Giuseppe,ITA,"Apr 05, 2001",89.30,A,164,207,371,---,102kgMen,Total,548,False
+---,STROUMPIS Efstathios,GRE,"Jul 12, 1993",102.00,A,150,175,325,---,102kgMen,Total,548,False
+---,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.25,A,160,---,---,---,102kgMen,Total,548,False
+---,RUIZ I VELASCO Marcos,ESP,"Oct 13, 1996",101.15,A,175,208,383,---,102kgMen,Total,548,False
+---,ALI Ahmed,EGY,"Jan 10, 1999",100.70,A,160,208,368,---,102kgMen,Total,548,False
+---,SMAJIC Dino,BIH,"Jul 05, 1997",95.45,A,140,165,305,---,102kgMen,Total,548,False
+---,TOUAIRI Aymen,ALG,"Sep 11, 1998",101.80,A,162,206,368,---,102kgMen,Total,548,False
+1,BIDANI Walid,ALG,"Jun 11, 1994",143.05,A,190,196,202,202,+102kgMen,Snatch,548,False
+2,ASAAD Man,SYR,"Nov 20, 1993",155.00,A,191,197,-203,197,+102kgMen,Snatch,548,False
+3,Gaber Ahmed,EGY,"Jan 18, 1996",144.25,A,170,-180,-180,170,+102kgMen,Snatch,548,False
+4,OFLAZ Ali,TUR,"Oct 01, 2003",143.45,A,150,152,-160,152,+102kgMen,Snatch,548,False
+5,META Albert,ALB,"May 12, 1995",104.70,A,142,147,151,151,+102kgMen,Snatch,548,False
+1,ASAAD Man,SYR,"Nov 20, 1993",155.00,A,232,242,247,247,+102kgMen,CleanJerk,548,False
+2,BIDANI Walid,ALG,"Jun 11, 1994",143.05,A,225,235,-243,235,+102kgMen,CleanJerk,548,False
+3,Gaber Ahmed,EGY,"Jan 18, 1996",144.25,A,220,231,-236,231,+102kgMen,CleanJerk,548,False
+4,OFLAZ Ali,TUR,"Oct 01, 2003",143.45,A,186,-200,-200,186,+102kgMen,CleanJerk,548,False
+5,META Albert,ALB,"May 12, 1995",104.70,A,172,180,-185,180,+102kgMen,CleanJerk,548,False
+---,ASAAD Man,SYR,"Nov 20, 1993",155.00,A,197,247,444,---,+102kgMen,Total,548,False
+---,Gaber Ahmed,EGY,"Jan 18, 1996",144.25,A,170,231,401,---,+102kgMen,Total,548,False
+---,BIDANI Walid,ALG,"Jun 11, 1994",143.05,A,202,235,437,---,+102kgMen,Total,548,False
+---,META Albert,ALB,"May 12, 1995",104.70,A,151,180,331,---,+102kgMen,Total,548,False
+---,OFLAZ Ali,TUR,"Oct 01, 2003",143.45,A,152,186,338,---,+102kgMen,Total,548,False
+1,IMPERIO Giulia,ITA,"Dec 07, 2001",48.95,A,77,79,83,83,49kgWomen,Snatch,548,False
+2,HERNANDEZ MARTIN Atenery,ESP,"Dec 10, 1994",48.85,A,76,78,-80,78,49kgWomen,Snatch,548,False
+3,ERDOGAN Saziye,TUN,"Feb 23, 1992",48.85,A,73,75,-79,75,49kgWomen,Snatch,548,False
+4,FAJRESLAM Maha,MAR,"Jul 04, 2003",48.70,A,63,-66,-66,63,49kgWomen,Snatch,548,False
+5,KATBI Nadia,ALG,"Jun 26, 2002",46.70,A,52,-55,57,57,49kgWomen,Snatch,548,False
+---,CHIHI Zahra,ALG,"Aug 27, 1994",49.00,A,-74,---,---,---,49kgWomen,Snatch,548,False
+1,IMPERIO Giulia,ITA,"Dec 07, 2001",48.95,A,95,97,-102,97,49kgWomen,CleanJerk,548,False
+2,HERNANDEZ MARTIN Atenery,ESP,"Dec 10, 1994",48.85,A,93,96,-98,96,49kgWomen,CleanJerk,548,False
+3,ERDOGAN Saziye,TUN,"Feb 23, 1992",48.85,A,92,95,-97,95,49kgWomen,CleanJerk,548,False
+4,FAJRESLAM Maha,MAR,"Jul 04, 2003",48.70,A,77,-82,-83,77,49kgWomen,CleanJerk,548,False
+5,KATBI Nadia,ALG,"Jun 26, 2002",46.70,A,65,-70,-70,65,49kgWomen,CleanJerk,548,False
+---,CHIHI Zahra,ALG,"Aug 27, 1994",49.00,A,---,---,---,---,49kgWomen,CleanJerk,548,False
+---,KATBI Nadia,ALG,"Jun 26, 2002",46.70,A,57,65,122,---,49kgWomen,Total,548,False
+---,ERDOGAN Saziye,TUN,"Feb 23, 1992",48.85,A,75,95,170,---,49kgWomen,Total,548,False
+---,CHIHI Zahra,ALG,"Aug 27, 1994",49.00,A,---,---,---,---,49kgWomen,Total,548,False
+---,FAJRESLAM Maha,MAR,"Jul 04, 2003",48.70,A,63,77,140,---,49kgWomen,Total,548,False
+---,IMPERIO Giulia,ITA,"Dec 07, 2001",48.95,A,83,97,180,---,49kgWomen,Total,548,False
+---,HERNANDEZ MARTIN Atenery,ESP,"Dec 10, 1994",48.85,A,78,96,174,---,49kgWomen,Total,548,False
+1,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",58.55,A,90,93,95,95,59kgWomen,Snatch,548,False
+2,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",59.00,A,89,92,94,94,59kgWomen,Snatch,548,False
+3,OZKAN Cansel,TUR,"Feb 26, 2002",58.95,A,85,90,92,92,59kgWomen,Snatch,548,False
+4,BELKHIR Ghofrane,TUN,"Aug 11, 2001",58.70,A,-91,-91,91,91,59kgWomen,Snatch,548,False
+5,IBRAHIM Basma Emad Gouda Mohamed,EGY,"Jun 27, 1995",58.95,A,85,88,-91,88,59kgWomen,Snatch,548,False
+6,SKANDI EL ASAAD Mouna,ESP,"Jan 10, 1992",58.75,A,82,-84,-84,82,59kgWomen,Snatch,548,False
+7,RIGAUD Garance,FRA,"Nov 12, 1999",56.15,A,75,80,82,82,59kgWomen,Snatch,548,False
+8,STESL Nastasja,SLO,"May 28, 1991",58.20,A,73,-76,77,77,59kgWomen,Snatch,548,False
+9,LAGHOUATI Fatima Zohra,ALG,"Feb 27, 1999",58.90,A,76,-80,-81,76,59kgWomen,Snatch,548,False
+1,BELKHIR Ghofrane,TUN,"Aug 11, 2001",58.70,A,112,115,---,115,59kgWomen,CleanJerk,548,False
+2,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",58.55,A,111,114,-118,114,59kgWomen,CleanJerk,548,False
+3,IBRAHIM Basma Emad Gouda Mohamed,EGY,"Jun 27, 1995",58.95,A,110,113,-116,113,59kgWomen,CleanJerk,548,False
+4,SKANDI EL ASAAD Mouna,ESP,"Jan 10, 1992",58.75,A,107,111,-113,---,59kgWomen,CleanJerk,548,False
+5,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",59.00,A,108,-113,-115,108,59kgWomen,CleanJerk,548,False
+6,OZKAN Cansel,TUR,"Feb 26, 2002",58.95,A,106,-112,---,106,59kgWomen,CleanJerk,548,False
+7,LAGHOUATI Fatima Zohra,ALG,"Feb 27, 1999",58.90,A,95,100,-103,100,59kgWomen,CleanJerk,548,False
+8,RIGAUD Garance,FRA,"Nov 12, 1999",56.15,A,90,95,-100,95,59kgWomen,CleanJerk,548,False
+9,STESL Nastasja,SLO,"May 28, 1991",58.20,A,91,95,-97,95,59kgWomen,CleanJerk,548,False
+---,OZKAN Cansel,TUR,"Feb 26, 2002",58.95,A,92,106,198,---,59kgWomen,Total,548,False
+---,BELKHIR Ghofrane,TUN,"Aug 11, 2001",58.70,A,91,115,206,---,59kgWomen,Total,548,False
+---,STESL Nastasja,SLO,"May 28, 1991",58.20,A,77,95,172,---,59kgWomen,Total,548,False
+---,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",58.55,A,95,114,209,---,59kgWomen,Total,548,False
+---,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",59.00,A,94,108,202,---,59kgWomen,Total,548,False
+---,RIGAUD Garance,FRA,"Nov 12, 1999",56.15,A,82,95,177,---,59kgWomen,Total,548,False
+---,SKANDI EL ASAAD Mouna,ESP,"Jan 10, 1992",58.75,A,82,82,---,---,59kgWomen,Total,548,False
+---,IBRAHIM Basma Emad Gouda Mohamed,EGY,"Jun 27, 1995",58.95,A,88,113,201,---,59kgWomen,Total,548,False
+---,LAGHOUATI Fatima Zohra,ALG,"Feb 27, 1999",58.90,A,76,100,176,---,59kgWomen,Total,548,False
+1,SAID Neama Said Fahmi,EGY,"Nov 15, 2002",69.60,A,-100,-101,101,101,71kgWomen,Snatch,548,False
+2,HAMMADI Maghnia,ALG,"Feb 22, 2000",70.15,A,91,96,100,100,71kgWomen,Snatch,548,False
+3,GUNGOR Nuray,TUR,"May 08, 2000",65.70,A,95,99,-101,99,71kgWomen,Snatch,548,False
+4,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",61.20,A,92,97,-101,97,71kgWomen,Snatch,548,False
+5,BRUNELLI Carlotta,ITA,"Apr 11, 1993",70.70,A,-90,90,93,93,71kgWomen,Snatch,548,False
+6,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",70.75,A,-90,-90,92,92,71kgWomen,Snatch,548,False
+7,ABDELTAWWAB Roufida Fathi Taha,EGY,"Oct 01, 2003",71.00,A,88,91,-94,91,71kgWomen,Snatch,548,False
+8,FATTOUH Mahassen Hala,LBN,"Aug 27, 1989",70.20,A,88,-93,-98,88,71kgWomen,Snatch,548,False
+9,GRAILLOT Vicky,FRA,"Jul 02, 2000",64.65,A,-88,88,-91,88,71kgWomen,Snatch,548,False
+10,BJELIC Sonja,SRB,"Jul 17, 1999",69.00,A,-83,85,-89,83,71kgWomen,Snatch,548,False
+11,EL TON Andreana,LBN,"Nov 09, 1996",68.45,A,-85,-85,85,85,71kgWomen,Snatch,548,False
+12,GESMI Jawaher,TUN,"Sep 05, 1999",67.30,A,80,84,-86,84,71kgWomen,Snatch,548,False
+13,REVENIKIOTI Eleni,GRE,"May 26, 1997",69.10,A,83,-86,-86,83,71kgWomen,Snatch,548,False
+1,SAID Neama Said Fahmi,EGY,"Nov 15, 2002",69.60,A,121,125,---,125,71kgWomen,CleanJerk,548,False
+2,GUNGOR Nuray,TUR,"May 08, 2000",65.70,A,118,-122,122,122,71kgWomen,CleanJerk,548,False
+3,HAMMADI Maghnia,ALG,"Feb 22, 2000",70.15,A,117,121,-127,121,71kgWomen,CleanJerk,548,False
+4,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",70.75,A,118,121,-123,121,71kgWomen,CleanJerk,548,False
+5,ABDELTAWWAB Roufida Fathi Taha,EGY,"Oct 01, 2003",71.00,A,118,-122,-122,118,71kgWomen,CleanJerk,548,False
+6,REVENIKIOTI Eleni,GRE,"May 26, 1997",69.10,A,110,114,116,116,71kgWomen,CleanJerk,548,False
+7,GESMI Jawaher,TUN,"Sep 05, 1999",67.30,A,114,-118,-119,114,71kgWomen,CleanJerk,548,False
+8,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",61.20,A,110,114,-119,114,71kgWomen,CleanJerk,548,False
+9,GRAILLOT Vicky,FRA,"Jul 02, 2000",64.65,A,-113,-113,114,114,71kgWomen,CleanJerk,548,False
+10,FATTOUH Mahassen Hala,LBN,"Aug 27, 1989",70.20,A,-110,110,-116,110,71kgWomen,CleanJerk,548,False
+11,BRUNELLI Carlotta,ITA,"Apr 11, 1993",70.70,A,105,-111,-111,105,71kgWomen,CleanJerk,548,False
+12,BJELIC Sonja,SRB,"Jul 17, 1999",69.00,A,95,100,-103,100,71kgWomen,CleanJerk,548,False
+---,EL TON Andreana,LBN,"Nov 09, 1996",68.45,A,-103,-105,-107,---,71kgWomen,CleanJerk,548,False
+---,GUNGOR Nuray,TUR,"May 08, 2000",65.70,A,99,122,221,---,71kgWomen,Total,548,False
+---,GESMI Jawaher,TUN,"Sep 05, 1999",67.30,A,84,114,198,---,71kgWomen,Total,548,False
+---,BJELIC Sonja,SRB,"Jul 17, 1999",69.00,A,83,100,183,---,71kgWomen,Total,548,False
+---,EL TON Andreana,LBN,"Nov 09, 1996",68.45,A,85,---,---,---,71kgWomen,Total,548,False
+---,HAMMADI Maghnia,ALG,"Feb 22, 2000",70.15,A,100,121,221,---,71kgWomen,Total,548,False
+---,ABDELTAWWAB Roufida Fathi Taha,EGY,"Oct 01, 2003",71.00,A,91,118,209,---,71kgWomen,Total,548,False
+---,SAID Neama Said Fahmi,EGY,"Nov 15, 2002",69.60,A,101,125,226,---,71kgWomen,Total,548,False
+---,HERNANDEZ MARTIN Ilia,ESP,"Apr 12, 1998",70.75,A,92,121,213,---,71kgWomen,Total,548,False
+---,GRAILLOT Vicky,FRA,"Jul 02, 2000",64.65,A,88,114,202,---,71kgWomen,Total,548,False
+---,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",61.20,A,97,114,211,---,71kgWomen,Total,548,False
+---,REVENIKIOTI Eleni,GRE,"May 26, 1997",69.10,A,83,116,199,---,71kgWomen,Total,548,False
+---,BRUNELLI Carlotta,ITA,"Apr 11, 1993",70.70,A,93,105,198,---,71kgWomen,Total,548,False
+---,FATTOUH Mahassen Hala,LBN,"Aug 27, 1989",70.20,A,88,110,198,---,71kgWomen,Total,548,False

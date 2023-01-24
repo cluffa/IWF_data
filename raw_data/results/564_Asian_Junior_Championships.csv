@@ -1,0 +1,472 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,DO Tu Tung,VIE,"Jan 10, 2004",54.50,A,110,114,116,116,55kgMen,Snatch,564,False
+2,DUONG TUAN Kiet,VIE,"Oct 24, 2005",54.60,A,-106,107,112,112,55kgMen,Snatch,564,False
+3,NUGROHO Satrio Adi,INA,"May 18, 2004",54.60,A,106,111,-115,111,55kgMen,Snatch,564,False
+4,FRASCO Joefry Jr J.,PHI,"Aug 05, 2002",53.70,A,100,106,-108,106,55kgMen,Snatch,564,False
+5,SANAPATHI Gurunaidu,IND,"May 09, 2006",54.50,A,97,101,104,104,55kgMen,Snatch,564,False
+6,BAGTYYAROV Perhat,TKM,"Oct 08, 2006",54.70,A,97,100,102,102,55kgMen,Snatch,564,False
+7,SHOMURODOV Azizbek,UZB,"Mar 23, 2007",54.70,B,86,90,93,93,55kgMen,Snatch,564,False
+8,SHUKUROV Muhammad,TJK,"Jul 11, 2004",55.00,B,-65,65,-70,65,55kgMen,Snatch,564,False
+1,DO Tu Tung,VIE,"Jan 10, 2004",54.50,A,140,143,-147,143,55kgMen,CleanJerk,564,False
+2,NUGROHO Satrio Adi,INA,"May 18, 2004",54.60,A,135,141,-144,141,55kgMen,CleanJerk,564,False
+3,DUONG TUAN Kiet,VIE,"Oct 24, 2005",54.60,A,136,-142,-142,136,55kgMen,CleanJerk,564,False
+4,FRASCO Joefry Jr J.,PHI,"Aug 05, 2002",53.70,A,-130,130,136,136,55kgMen,CleanJerk,564,False
+5,BAGTYYAROV Perhat,TKM,"Oct 08, 2006",54.70,A,120,125,-127,125,55kgMen,CleanJerk,564,False
+6,SANAPATHI Gurunaidu,IND,"May 09, 2006",54.50,A,123,-126,-126,123,55kgMen,CleanJerk,564,False
+7,SHOMURODOV Azizbek,UZB,"Mar 23, 2007",54.70,B,111,-115,117,117,55kgMen,CleanJerk,564,False
+8,SHUKUROV Muhammad,TJK,"Jul 11, 2004",55.00,B,75,-80,80,80,55kgMen,CleanJerk,564,False
+1,DO Tu Tung,VIE,"Jan 10, 2004",54.50,A,116,143,259,---,55kgMen,Total,564,False
+2,NUGROHO Satrio Adi,INA,"May 18, 2004",54.60,A,111,141,252,---,55kgMen,Total,564,False
+3,DUONG TUAN Kiet,VIE,"Oct 24, 2005",54.60,A,112,136,248,---,55kgMen,Total,564,False
+4,FRASCO Joefry Jr J.,PHI,"Aug 05, 2002",53.70,A,106,136,242,---,55kgMen,Total,564,False
+5,SANAPATHI Gurunaidu,IND,"May 09, 2006",54.50,A,104,123,227,---,55kgMen,Total,564,False
+6,BAGTYYAROV Perhat,TKM,"Oct 08, 2006",54.70,A,102,125,227,---,55kgMen,Total,564,False
+7,SHOMURODOV Azizbek,UZB,"Mar 23, 2007",54.70,B,93,117,210,---,55kgMen,Total,564,False
+8,SHUKUROV Muhammad,TJK,"Jul 11, 2004",55.00,B,65,80,145,---,55kgMen,Total,564,False
+1,SHIN Rok,KOR,"Jul 08, 2002",60.80,A,126,-130,-133,126,61kgMen,Snatch,564,False
+2,MADHAVAN Thirumurgan,IND,"Dec 03, 2004",60.60,A,117,-121,121,121,61kgMen,Snatch,564,False
+3,RUZMETOV Diyorbek,UZB,"Apr 20, 2005",60.70,A,116,-120,-120,116,61kgMen,Snatch,564,False
+4,CHO Minjae,KOR,"Sep 25, 2004",60.50,A,110,114,-117,114,61kgMen,Snatch,564,False
+5,K Brum,VIE,"Mar 05, 2007",60.20,A,105,110,112,112,61kgMen,Snatch,564,False
+6,TOLEGEN Azamat,KAZ,"Nov 08, 2003",60.70,A,108,-112,112,112,61kgMen,Snatch,564,False
+7,AL MARZOUQ Mohammed Bassam A,KSA,"Sep 25, 2007",60.80,A,109,-113,-113,109,61kgMen,Snatch,564,False
+8,NEGMATOV Khikmatullo,TJK,"Oct 20, 2006",60.50,A,75,-78,78,78,61kgMen,Snatch,564,False
+1,SHIN Rok,KOR,"Jul 08, 2002",60.80,A,155,-161,-161,155,61kgMen,CleanJerk,564,False
+2,TOLEGEN Azamat,KAZ,"Nov 08, 2003",60.70,A,143,146,150,150,61kgMen,CleanJerk,564,False
+3,CHO Minjae,KOR,"Sep 25, 2004",60.50,A,-143,143,147,147,61kgMen,CleanJerk,564,False
+4,MADHAVAN Thirumurgan,IND,"Dec 03, 2004",60.60,A,-144,144,-148,144,61kgMen,CleanJerk,564,False
+5,RUZMETOV Diyorbek,UZB,"Apr 20, 2005",60.70,A,133,137,-142,137,61kgMen,CleanJerk,564,False
+6,K Brum,VIE,"Mar 05, 2007",60.20,A,128,132,-136,132,61kgMen,CleanJerk,564,False
+7,AL MARZOUQ Mohammed Bassam A,KSA,"Sep 25, 2007",60.80,A,126,130,-136,130,61kgMen,CleanJerk,564,False
+8,NEGMATOV Khikmatullo,TJK,"Oct 20, 2006",60.50,A,95,-98,-98,95,61kgMen,CleanJerk,564,False
+1,SHIN Rok,KOR,"Jul 08, 2002",60.80,A,126,155,281,---,61kgMen,Total,564,False
+2,MADHAVAN Thirumurgan,IND,"Dec 03, 2004",60.60,A,121,144,265,---,61kgMen,Total,564,False
+3,TOLEGEN Azamat,KAZ,"Nov 08, 2003",60.70,A,112,150,262,---,61kgMen,Total,564,False
+4,CHO Minjae,KOR,"Sep 25, 2004",60.50,A,114,147,261,---,61kgMen,Total,564,False
+5,RUZMETOV Diyorbek,UZB,"Apr 20, 2005",60.70,A,116,137,253,---,61kgMen,Total,564,False
+6,K Brum,VIE,"Mar 05, 2007",60.20,A,112,132,244,---,61kgMen,Total,564,False
+7,AL MARZOUQ Mohammed Bassam A,KSA,"Sep 25, 2007",60.80,A,109,130,239,---,61kgMen,Total,564,False
+8,NEGMATOV Khikmatullo,TJK,"Oct 20, 2006",60.50,A,78,95,173,---,61kgMen,Total,564,False
+1,WICHUMA Weeraphon,THA,"Aug 10, 2004",66.80,A,135,-138,-138,135,67kgMen,Snatch,564,False
+2,BAIBUROV Alisher,KAZ,"Feb 27, 2005",67.00,A,130,-134,134,134,67kgMen,Snatch,564,False
+3,MATRASULOV Khusinboy,UZB,"Sep 01, 2004",65.60,A,119,124,127,127,67kgMen,Snatch,564,False
+4,TAZHIDINOV Mukhammedali,KGZ,"Feb 14, 2004",66.50,A,-113,113,118,118,67kgMen,Snatch,564,False
+5,MAYYA Jaafar,SYR,"Dec 02, 2005",65.10,B,105,-112,112,112,67kgMen,Snatch,564,False
+6,ALZOURI Jassim Mohammed A,KSA,"Jul 24, 2005",65.00,A,108,-113,-115,108,67kgMen,Snatch,564,False
+7,MACATO John Raphael A.,PHI,"Nov 30, 2004",65.70,B,-105,105,-110,105,67kgMen,Snatch,564,False
+8,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",65.80,B,98,101,103,103,67kgMen,Snatch,564,False
+9,DEGIO Kampu,IND,"Mar 26, 2006",62.70,B,98,102,-105,102,67kgMen,Snatch,564,False
+10,ABUJARAR Abdel Rahman Atef Ahmad,JOR,"Feb 08, 2005",65.90,B,95,-100,-100,95,67kgMen,Snatch,564,False
+11,ALQASIMI Khaled Muntasir Khaled S,UAE,"Jan 27, 2005",65.60,B,-92,92,-96,92,67kgMen,Snatch,564,False
+1,WICHUMA Weeraphon,THA,"Aug 10, 2004",66.80,A,165,---,---,165,67kgMen,CleanJerk,564,False
+2,BAIBUROV Alisher,KAZ,"Feb 27, 2005",67.00,A,155,-162,-167,155,67kgMen,CleanJerk,564,False
+3,MATRASULOV Khusinboy,UZB,"Sep 01, 2004",65.60,A,141,147,151,151,67kgMen,CleanJerk,564,False
+4,ALZOURI Jassim Mohammed A,KSA,"Jul 24, 2005",65.00,A,135,141,-144,141,67kgMen,CleanJerk,564,False
+5,MACATO John Raphael A.,PHI,"Nov 30, 2004",65.70,B,135,140,-146,140,67kgMen,CleanJerk,564,False
+6,TAZHIDINOV Mukhammedali,KGZ,"Feb 14, 2004",66.50,A,135,-140,140,140,67kgMen,CleanJerk,564,False
+7,MAYYA Jaafar,SYR,"Dec 02, 2005",65.10,B,131,138,-142,138,67kgMen,CleanJerk,564,False
+8,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",65.80,B,121,125,130,130,67kgMen,CleanJerk,564,False
+9,DEGIO Kampu,IND,"Mar 26, 2006",62.70,B,123,127,-132,127,67kgMen,CleanJerk,564,False
+10,ABUJARAR Abdel Rahman Atef Ahmad,JOR,"Feb 08, 2005",65.90,B,-115,115,-120,115,67kgMen,CleanJerk,564,False
+11,ALQASIMI Khaled Muntasir Khaled S,UAE,"Jan 27, 2005",65.60,B,110,-115,115,115,67kgMen,CleanJerk,564,False
+1,WICHUMA Weeraphon,THA,"Aug 10, 2004",66.80,A,135,165,300,---,67kgMen,Total,564,False
+2,BAIBUROV Alisher,KAZ,"Feb 27, 2005",67.00,A,134,155,289,---,67kgMen,Total,564,False
+3,MATRASULOV Khusinboy,UZB,"Sep 01, 2004",65.60,A,127,151,278,---,67kgMen,Total,564,False
+4,TAZHIDINOV Mukhammedali,KGZ,"Feb 14, 2004",66.50,A,118,140,258,---,67kgMen,Total,564,False
+5,MAYYA Jaafar,SYR,"Dec 02, 2005",65.10,B,112,138,250,---,67kgMen,Total,564,False
+6,ALZOURI Jassim Mohammed A,KSA,"Jul 24, 2005",65.00,A,108,141,249,---,67kgMen,Total,564,False
+7,MACATO John Raphael A.,PHI,"Nov 30, 2004",65.70,B,105,140,245,---,67kgMen,Total,564,False
+8,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",65.80,B,103,130,233,---,67kgMen,Total,564,False
+9,DEGIO Kampu,IND,"Mar 26, 2006",62.70,B,102,127,229,---,67kgMen,Total,564,False
+10,ABUJARAR Abdel Rahman Atef Ahmad,JOR,"Feb 08, 2005",65.90,B,95,115,210,---,67kgMen,Total,564,False
+11,ALQASIMI Khaled Muntasir Khaled S,UAE,"Jan 27, 2005",65.60,B,92,115,207,---,67kgMen,Total,564,False
+1,JUNIANSYAH Rizki,INA,"Jun 17, 2003",72.90,A,149,154,157,157,73kgMen,Snatch,564,False
+2,CHURKIN Alexey,KAZ,"Mar 19, 2004",72.70,A,140,145,-148,145,73kgMen,Snatch,564,False
+3,BUI Ky Su,VIE,"Jun 12, 2002",72.60,A,136,140,-143,140,73kgMen,Snatch,564,False
+4,NARIMANOV Asadbek,UZB,"Feb 09, 2002",72.90,A,-130,130,139,139,73kgMen,Snatch,564,False
+5,TORAYEV Gaygysyz,TKM,"Apr 11, 2003",72.80,A,131,135,-138,135,73kgMen,Snatch,564,False
+6,REYIMOV Bektimur,TKM,"Dec 04, 2002",72.80,A,134,-138,-138,134,73kgMen,Snatch,564,False
+7,KHREBTOV Petr,KAZ,"Sep 30, 2003",72.40,A,130,-134,134,134,73kgMen,Snatch,564,False
+8,ALIPOUR Ali,IRI,"Nov 26, 2003",72.70,A,125,132,-137,132,73kgMen,Snatch,564,False
+9,CHOI Jiho,KOR,"Aug 29, 2002",72.50,A,-130,130,-136,130,73kgMen,Snatch,564,False
+10,ALMARZOUQ Hassan Bassam A,KSA,"Mar 28, 2004",72.10,B,113,117,122,122,73kgMen,Snatch,564,False
+11,AL QAYSUM Jawad Adel A,KSA,"Sep 02, 2003",72.80,B,117,121,-127,121,73kgMen,Snatch,564,False
+12,B VENKATA Krishna,IND,"Dec 17, 2006",72.40,B,115,119,-123,119,73kgMen,Snatch,564,False
+1,JUNIANSYAH Rizki,INA,"Jun 17, 2003",72.90,A,182,-195,-195,182,73kgMen,CleanJerk,564,False
+2,BUI Ky Su,VIE,"Jun 12, 2002",72.60,A,170,172,181,181,73kgMen,CleanJerk,564,False
+3,CHURKIN Alexey,KAZ,"Mar 19, 2004",72.70,A,175,-180,180,180,73kgMen,CleanJerk,564,False
+4,TORAYEV Gaygysyz,TKM,"Apr 11, 2003",72.80,A,165,-171,171,171,73kgMen,CleanJerk,564,False
+5,REYIMOV Bektimur,TKM,"Dec 04, 2002",72.80,A,162,-167,-170,162,73kgMen,CleanJerk,564,False
+6,CHOI Jiho,KOR,"Aug 29, 2002",72.50,A,161,-166,-166,161,73kgMen,CleanJerk,564,False
+7,NARIMANOV Asadbek,UZB,"Feb 09, 2002",72.90,A,160,-171,-171,160,73kgMen,CleanJerk,564,False
+8,ALIPOUR Ali,IRI,"Nov 26, 2003",72.70,A,155,-166,-166,155,73kgMen,CleanJerk,564,False
+9,B VENKATA Krishna,IND,"Dec 17, 2006",72.40,B,145,149,153,153,73kgMen,CleanJerk,564,False
+10,ALMARZOUQ Hassan Bassam A,KSA,"Mar 28, 2004",72.10,B,-140,140,147,147,73kgMen,CleanJerk,564,False
+11,AL QAYSUM Jawad Adel A,KSA,"Sep 02, 2003",72.80,B,-144,146,-154,146,73kgMen,CleanJerk,564,False
+---,KHREBTOV Petr,KAZ,"Sep 30, 2003",72.40,A,-163,-163,-163,---,73kgMen,CleanJerk,564,False
+1,JUNIANSYAH Rizki,INA,"Jun 17, 2003",72.90,A,157,182,339,---,73kgMen,Total,564,False
+2,CHURKIN Alexey,KAZ,"Mar 19, 2004",72.70,A,145,180,325,---,73kgMen,Total,564,False
+3,BUI Ky Su,VIE,"Jun 12, 2002",72.60,A,140,181,321,---,73kgMen,Total,564,False
+4,TORAYEV Gaygysyz,TKM,"Apr 11, 2003",72.80,A,135,171,306,---,73kgMen,Total,564,False
+5,NARIMANOV Asadbek,UZB,"Feb 09, 2002",72.90,A,139,160,299,---,73kgMen,Total,564,False
+6,REYIMOV Bektimur,TKM,"Dec 04, 2002",72.80,A,134,162,296,---,73kgMen,Total,564,False
+7,CHOI Jiho,KOR,"Aug 29, 2002",72.50,A,130,161,291,---,73kgMen,Total,564,False
+8,ALIPOUR Ali,IRI,"Nov 26, 2003",72.70,A,132,155,287,---,73kgMen,Total,564,False
+9,B VENKATA Krishna,IND,"Dec 17, 2006",72.40,B,119,153,272,---,73kgMen,Total,564,False
+10,ALMARZOUQ Hassan Bassam A,KSA,"Mar 28, 2004",72.10,B,122,147,269,---,73kgMen,Total,564,False
+11,AL QAYSUM Jawad Adel A,KSA,"Sep 02, 2003",72.80,B,121,146,267,---,73kgMen,Total,564,False
+---,KHREBTOV Petr,KAZ,"Sep 30, 2003",72.40,A,134,---,---,---,73kgMen,Total,564,False
+1,PARK Hyeongo,KOR,"Jan 14, 2002",80.60,A,148,151,156,156,81kgMen,Snatch,564,False
+2,SHERER Yegor,KAZ,"Jul 17, 2003",79.70,A,140,145,150,150,81kgMen,Snatch,564,False
+3,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.10,A,143,-147,147,147,81kgMen,Snatch,564,False
+4,MATYAKUBOV Shahzadbek,TKM,"Mar 01, 2004",80.70,A,136,141,145,145,81kgMen,Snatch,564,False
+5,AMIRHOSSEIN Ghorbani,IRI,"Apr 08, 2005",79.00,B,125,136,141,141,81kgMen,Snatch,564,False
+6,POLUBOYARINOV Denis,KAZ,"Oct 01, 2005",79.70,B,130,135,140,140,81kgMen,Snatch,564,False
+7,DULANOV Abbosbek,UZB,"Apr 11, 2002",80.30,A,130,-136,136,136,81kgMen,Snatch,564,False
+8,TARMALOV Nursultan,KGZ,"Jun 02, 2003",80.30,B,135,-142,-142,135,81kgMen,Snatch,564,False
+9,SALEHI POUR Iliya,IRI,"Mar 12, 2006",80.20,B,121,127,134,134,81kgMen,Snatch,564,False
+10,VALLURI Ajaya Babu,IND,"Nov 22, 2004",80.20,B,128,133,-136,133,81kgMen,Snatch,564,False
+11,ANNALYYEV Yazmammet,TKM,"Aug 26, 2002",77.10,A,130,133,-136,133,81kgMen,Snatch,564,False
+12,AL DUHAYLIB Hussain Ali H,KSA,"Jul 10, 2004",80.90,B,122,127,-130,127,81kgMen,Snatch,564,False
+1,PARK Hyeongo,KOR,"Jan 14, 2002",80.60,A,-181,181,186,186,81kgMen,CleanJerk,564,False
+2,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.10,A,176,179,185,185,81kgMen,CleanJerk,564,False
+3,SHERER Yegor,KAZ,"Jul 17, 2003",79.70,A,170,175,-177,175,81kgMen,CleanJerk,564,False
+4,POLUBOYARINOV Denis,KAZ,"Oct 01, 2005",79.70,B,-170,170,173,173,81kgMen,CleanJerk,564,False
+5,SALEHI POUR Iliya,IRI,"Mar 12, 2006",80.20,B,152,159,171,171,81kgMen,CleanJerk,564,False
+6,MATYAKUBOV Shahzadbek,TKM,"Mar 01, 2004",80.70,A,-170,171,-176,171,81kgMen,CleanJerk,564,False
+7,AMIRHOSSEIN Ghorbani,IRI,"Apr 08, 2005",79.00,B,155,165,-172,165,81kgMen,CleanJerk,564,False
+8,DULANOV Abbosbek,UZB,"Apr 11, 2002",80.30,A,160,-174,-176,160,81kgMen,CleanJerk,564,False
+9,ANNALYYEV Yazmammet,TKM,"Aug 26, 2002",77.10,A,160,-164,-164,160,81kgMen,CleanJerk,564,False
+10,VALLURI Ajaya Babu,IND,"Nov 22, 2004",80.20,B,153,158,-164,158,81kgMen,CleanJerk,564,False
+11,TARMALOV Nursultan,KGZ,"Jun 02, 2003",80.30,B,150,-155,-155,150,81kgMen,CleanJerk,564,False
+12,AL DUHAYLIB Hussain Ali H,KSA,"Jul 10, 2004",80.90,B,140,148,-155,148,81kgMen,CleanJerk,564,False
+1,PARK Hyeongo,KOR,"Jan 14, 2002",80.60,A,156,186,342,---,81kgMen,Total,564,False
+2,NGUYEN Quoc Toan,VIE,"Jul 18, 2002",80.10,A,147,185,332,---,81kgMen,Total,564,False
+3,SHERER Yegor,KAZ,"Jul 17, 2003",79.70,A,150,175,325,---,81kgMen,Total,564,False
+4,MATYAKUBOV Shahzadbek,TKM,"Mar 01, 2004",80.70,A,145,171,316,---,81kgMen,Total,564,False
+5,POLUBOYARINOV Denis,KAZ,"Oct 01, 2005",79.70,B,140,173,313,---,81kgMen,Total,564,False
+6,AMIRHOSSEIN Ghorbani,IRI,"Apr 08, 2005",79.00,B,141,165,306,---,81kgMen,Total,564,False
+7,SALEHI POUR Iliya,IRI,"Mar 12, 2006",80.20,B,134,171,305,---,81kgMen,Total,564,False
+8,DULANOV Abbosbek,UZB,"Apr 11, 2002",80.30,A,136,160,296,---,81kgMen,Total,564,False
+9,ANNALYYEV Yazmammet,TKM,"Aug 26, 2002",77.10,A,133,160,293,---,81kgMen,Total,564,False
+10,VALLURI Ajaya Babu,IND,"Nov 22, 2004",80.20,B,133,158,291,---,81kgMen,Total,564,False
+11,TARMALOV Nursultan,KGZ,"Jun 02, 2003",80.30,B,135,150,285,---,81kgMen,Total,564,False
+12,AL DUHAYLIB Hussain Ali H,KSA,"Jul 10, 2004",80.90,B,127,148,275,---,81kgMen,Total,564,False
+1,MOEINI SEDEH Alireza,IRI,"Feb 28, 2002",86.40,A,151,157,166,166,89kgMen,Snatch,564,False
+2,OLIMOV Khojiakbar,UZB,"Feb 11, 2003",88.10,A,145,-152,-152,145,89kgMen,Snatch,564,False
+3,BASHARGIN Klim,KAZ,"May 06, 2004",84.60,A,-143,-143,143,143,89kgMen,Snatch,564,False
+4,VUONG Truong Khoi,VIE,"Mar 03, 2002",88.20,A,138,142,-144,142,89kgMen,Snatch,564,False
+5,KESHTKAR Ali,IRI,"Sep 18, 2002",88.60,A,-141,141,-145,141,89kgMen,Snatch,564,False
+6,CHOI Yunseok,KOR,"Sep 17, 2003",86.30,A,135,140,-143,140,89kgMen,Snatch,564,False
+7,ALEID Nawaf Bader H,KSA,"Jan 19, 2003",86.50,A,-135,135,140,140,89kgMen,Snatch,564,False
+8,AL SUWAID Ali Abbas Ahmed,IRQ,"Jun 13, 2002",87.70,B,133,137,-141,137,89kgMen,Snatch,564,False
+9,MUHYYEV Saparly,TKM,"May 02, 2005",86.90,B,128,131,135,135,89kgMen,Snatch,564,False
+10,BAYRAMGELDIYEV Shageldi,TKM,"Mar 17, 2002",85.10,A,130,-135,-137,130,89kgMen,Snatch,564,False
+11,HUSAIN Husain Ali Saifalla Qahraman,BRN,"Dec 27, 2005",88.30,B,120,-126,127,127,89kgMen,Snatch,564,False
+12,ALAHMAD Abdullah Mukhtar A,KSA,"Oct 24, 2006",88.50,B,114,-118,-121,114,89kgMen,Snatch,564,False
+1,OLIMOV Khojiakbar,UZB,"Feb 11, 2003",88.10,A,180,187,192,192,89kgMen,CleanJerk,564,False
+2,MOEINI SEDEH Alireza,IRI,"Feb 28, 2002",86.40,A,176,185,191,191,89kgMen,CleanJerk,564,False
+3,KESHTKAR Ali,IRI,"Sep 18, 2002",88.60,A,175,182,186,186,89kgMen,CleanJerk,564,False
+4,VUONG Truong Khoi,VIE,"Mar 03, 2002",88.20,A,180,183,-186,183,89kgMen,CleanJerk,564,False
+5,ALEID Nawaf Bader H,KSA,"Jan 19, 2003",86.50,A,163,168,173,173,89kgMen,CleanJerk,564,False
+6,CHOI Yunseok,KOR,"Sep 17, 2003",86.30,A,162,168,172,172,89kgMen,CleanJerk,564,False
+7,BASHARGIN Klim,KAZ,"May 06, 2004",84.60,A,-168,168,---,168,89kgMen,CleanJerk,564,False
+8,MUHYYEV Saparly,TKM,"May 02, 2005",86.90,B,161,-165,165,165,89kgMen,CleanJerk,564,False
+9,HUSAIN Husain Ali Saifalla Qahraman,BRN,"Dec 27, 2005",88.30,B,156,161,-166,161,89kgMen,CleanJerk,564,False
+10,BAYRAMGELDIYEV Shageldi,TKM,"Mar 17, 2002",85.10,A,160,-165,-165,160,89kgMen,CleanJerk,564,False
+11,ALAHMAD Abdullah Mukhtar A,KSA,"Oct 24, 2006",88.50,B,-142,142,148,148,89kgMen,CleanJerk,564,False
+---,AL SUWAID Ali Abbas Ahmed,IRQ,"Jun 13, 2002",87.70,B,---,---,---,---,89kgMen,CleanJerk,564,False
+1,MOEINI SEDEH Alireza,IRI,"Feb 28, 2002",86.40,A,166,191,357,---,89kgMen,Total,564,False
+2,OLIMOV Khojiakbar,UZB,"Feb 11, 2003",88.10,A,145,192,337,---,89kgMen,Total,564,False
+3,KESHTKAR Ali,IRI,"Sep 18, 2002",88.60,A,141,186,327,---,89kgMen,Total,564,False
+4,VUONG Truong Khoi,VIE,"Mar 03, 2002",88.20,A,142,183,325,---,89kgMen,Total,564,False
+5,ALEID Nawaf Bader H,KSA,"Jan 19, 2003",86.50,A,140,173,313,---,89kgMen,Total,564,False
+6,CHOI Yunseok,KOR,"Sep 17, 2003",86.30,A,140,172,312,---,89kgMen,Total,564,False
+7,BASHARGIN Klim,KAZ,"May 06, 2004",84.60,A,143,168,311,---,89kgMen,Total,564,False
+8,MUHYYEV Saparly,TKM,"May 02, 2005",86.90,B,135,165,300,---,89kgMen,Total,564,False
+9,BAYRAMGELDIYEV Shageldi,TKM,"Mar 17, 2002",85.10,A,130,160,290,---,89kgMen,Total,564,False
+10,HUSAIN Husain Ali Saifalla Qahraman,BRN,"Dec 27, 2005",88.30,B,127,161,288,---,89kgMen,Total,564,False
+11,ALAHMAD Abdullah Mukhtar A,KSA,"Oct 24, 2006",88.50,B,114,148,262,---,89kgMen,Total,564,False
+---,AL SUWAID Ali Abbas Ahmed,IRQ,"Jun 13, 2002",87.70,B,137,---,---,---,89kgMen,Total,564,False
+1,POUZESH Mohammadtofigh,IRI,"Aug 13, 2002",95.50,A,143,150,155,155,96kgMen,Snatch,564,False
+2,ALOTHMAN Ali Yousef A,KSA,"Jun 16, 2002",92.10,A,146,151,-156,151,96kgMen,Snatch,564,False
+3,JEONG Huijun,KOR,"Jun 17, 2003",95.00,A,145,-150,-151,145,96kgMen,Snatch,564,False
+4,AMIRHOSEIN Sepah Ajerlou,IRI,"Jun 22, 2005",89.30,A,-126,126,135,135,96kgMen,Snatch,564,False
+5,SATYBALDIEV Elnur,KGZ,"Jan 26, 2002",95.30,A,125,131,135,135,96kgMen,Snatch,564,False
+6,ALSHAKHOURI Jawad Hussain J,KSA,"Mar 12, 2005",93.00,A,110,112,-115,112,96kgMen,Snatch,564,False
+1,ALOTHMAN Ali Yousef A,KSA,"Jun 16, 2002",92.10,A,188,193,-200,193,96kgMen,CleanJerk,564,False
+2,POUZESH Mohammadtofigh,IRI,"Aug 13, 2002",95.50,A,183,-190,-191,183,96kgMen,CleanJerk,564,False
+3,JEONG Huijun,KOR,"Jun 17, 2003",95.00,A,178,-189,-191,178,96kgMen,CleanJerk,564,False
+4,SATYBALDIEV Elnur,KGZ,"Jan 26, 2002",95.30,A,165,173,-177,173,96kgMen,CleanJerk,564,False
+5,AMIRHOSEIN Sepah Ajerlou,IRI,"Jun 22, 2005",89.30,A,-155,155,-166,155,96kgMen,CleanJerk,564,False
+6,ALSHAKHOURI Jawad Hussain J,KSA,"Mar 12, 2005",93.00,A,130,137,140,140,96kgMen,CleanJerk,564,False
+1,ALOTHMAN Ali Yousef A,KSA,"Jun 16, 2002",92.10,A,151,193,344,---,96kgMen,Total,564,False
+2,POUZESH Mohammadtofigh,IRI,"Aug 13, 2002",95.50,A,155,183,338,---,96kgMen,Total,564,False
+3,JEONG Huijun,KOR,"Jun 17, 2003",95.00,A,145,178,323,---,96kgMen,Total,564,False
+4,SATYBALDIEV Elnur,KGZ,"Jan 26, 2002",95.30,A,135,173,308,---,96kgMen,Total,564,False
+5,AMIRHOSEIN Sepah Ajerlou,IRI,"Jun 22, 2005",89.30,A,135,155,290,---,96kgMen,Total,564,False
+6,ALSHAKHOURI Jawad Hussain J,KSA,"Mar 12, 2005",93.00,A,112,140,252,---,96kgMen,Total,564,False
+1,SHAROFIDDIN Amriddinov,UZB,"Jun 28, 2002",101.80,A,159,165,-169,165,102kgMen,Snatch,564,False
+2,ABDRAKHMANOV Nikita,KAZ,"May 24, 2006",98.90,A,150,155,158,158,102kgMen,Snatch,564,False
+3,SALIMJONOV Kudratbek,UZB,"Sep 05, 2005",100.20,A,146,151,156,156,102kgMen,Snatch,564,False
+4,CHA Byungjun,KOR,"Jul 29, 2004",97.50,A,137,-145,145,145,102kgMen,Snatch,564,False
+5,ISMAIL Ali,SYR,"Jan 25, 2005",100.20,A,120,135,-141,135,102kgMen,Snatch,564,False
+---,ATABAYEV Batyr,TKM,"Jun 25, 2002",96.40,A,-140,-140,-141,---,102kgMen,Snatch,564,False
+1,SHAROFIDDIN Amriddinov,UZB,"Jun 28, 2002",101.80,A,190,195,197,197,102kgMen,CleanJerk,564,False
+2,ABDRAKHMANOV Nikita,KAZ,"May 24, 2006",98.90,A,180,191,196,196,102kgMen,CleanJerk,564,False
+3,CHA Byungjun,KOR,"Jul 29, 2004",97.50,A,167,175,-180,175,102kgMen,CleanJerk,564,False
+4,ATABAYEV Batyr,TKM,"Jun 25, 2002",96.40,A,160,170,-175,170,102kgMen,CleanJerk,564,False
+5,SALIMJONOV Kudratbek,UZB,"Sep 05, 2005",100.20,A,168,-174,-174,168,102kgMen,CleanJerk,564,False
+6,ISMAIL Ali,SYR,"Jan 25, 2005",100.20,A,150,161,-165,161,102kgMen,CleanJerk,564,False
+1,SHAROFIDDIN Amriddinov,UZB,"Jun 28, 2002",101.80,A,165,197,362,---,102kgMen,Total,564,False
+2,ABDRAKHMANOV Nikita,KAZ,"May 24, 2006",98.90,A,158,196,354,---,102kgMen,Total,564,False
+3,SALIMJONOV Kudratbek,UZB,"Sep 05, 2005",100.20,A,156,168,324,---,102kgMen,Total,564,False
+4,CHA Byungjun,KOR,"Jul 29, 2004",97.50,A,145,175,320,---,102kgMen,Total,564,False
+5,ISMAIL Ali,SYR,"Jan 25, 2005",100.20,A,135,161,296,---,102kgMen,Total,564,False
+---,ATABAYEV Batyr,TKM,"Jun 25, 2002",96.40,A,---,170,---,---,102kgMen,Total,564,False
+1,RUBAIAWI Ali Ammar Yusur,IRQ,"Aug 02, 2004",107.40,A,160,167,171,171,109kgMen,Snatch,564,False
+2,MAMIVAND Mohammad Masoud,IRI,"Jun 02, 2002",108.60,A,153,161,-166,161,109kgMen,Snatch,564,False
+3,ABDURASHITOV Nurbol,UZB,"May 10, 2005",106.00,A,138,-145,145,145,109kgMen,Snatch,564,False
+1,MAMIVAND Mohammad Masoud,IRI,"Jun 02, 2002",108.60,A,191,203,-213,203,109kgMen,CleanJerk,564,False
+2,RUBAIAWI Ali Ammar Yusur,IRQ,"Aug 02, 2004",107.40,A,192,197,202,202,109kgMen,CleanJerk,564,False
+3,ABDURASHITOV Nurbol,UZB,"May 10, 2005",106.00,A,162,167,171,171,109kgMen,CleanJerk,564,False
+1,RUBAIAWI Ali Ammar Yusur,IRQ,"Aug 02, 2004",107.40,A,171,202,373,---,109kgMen,Total,564,False
+2,MAMIVAND Mohammad Masoud,IRI,"Jun 02, 2002",108.60,A,161,203,364,---,109kgMen,Total,564,False
+3,ABDURASHITOV Nurbol,UZB,"May 10, 2005",106.00,A,145,171,316,---,109kgMen,Total,564,False
+1,MIRZABAEV Mirkhosil,UZB,"May 11, 2002",127.00,A,162,171,176,176,+109kgMen,Snatch,564,False
+2,ESFANDIARI Alireza,IRI,"Sep 13, 2003",158.60,A,160,170,175,175,+109kgMen,Snatch,564,False
+3,NAM Jiyong,KOR,"Dec 02, 2004",129.80,A,-155,155,159,159,+109kgMen,Snatch,564,False
+4,ALALI Ahmad,SYR,"Jan 01, 2002",127.50,A,150,157,-160,157,+109kgMen,Snatch,564,False
+5,DAYIYEV Atajan,TKM,"May 20, 2002",155.60,A,-155,-156,156,156,+109kgMen,Snatch,564,False
+6,NEMATIMOGHADDAM Taha,IRI,"Jan 30, 2006",121.40,A,150,-162,-162,150,+109kgMen,Snatch,564,False
+7,MAMATKUL Bagdat,KAZ,"Jan 03, 2002",131.80,A,140,145,148,148,+109kgMen,Snatch,564,False
+8,TUYAKOV Zhanali,KAZ,"Dec 16, 2003",125.20,A,140,-146,146,146,+109kgMen,Snatch,564,False
+9,ALYAMI Turki Saad M,KSA,"Nov 19, 2003",112.60,A,135,-141,141,141,+109kgMen,Snatch,564,False
+10,KASWARA Jghili,SYR,"Jul 10, 2005",128.60,A,-130,133,137,137,+109kgMen,Snatch,564,False
+11,RAAD Alsallaj,JOR,"Sep 23, 2002",118.60,A,-130,130,-137,130,+109kgMen,Snatch,564,False
+1,NAM Jiyong,KOR,"Dec 02, 2004",129.80,A,-207,207,212,212,+109kgMen,CleanJerk,564,False
+2,ESFANDIARI Alireza,IRI,"Sep 13, 2003",158.60,A,198,206,211,211,+109kgMen,CleanJerk,564,False
+3,MIRZABAEV Mirkhosil,UZB,"May 11, 2002",127.00,A,200,206,-211,206,+109kgMen,CleanJerk,564,False
+4,NEMATIMOGHADDAM Taha,IRI,"Jan 30, 2006",121.40,A,180,190,-200,190,+109kgMen,CleanJerk,564,False
+5,TUYAKOV Zhanali,KAZ,"Dec 16, 2003",125.20,A,180,185,190,190,+109kgMen,CleanJerk,564,False
+6,MAMATKUL Bagdat,KAZ,"Jan 03, 2002",131.80,A,180,185,-190,185,+109kgMen,CleanJerk,564,False
+7,RAAD Alsallaj,JOR,"Sep 23, 2002",118.60,A,166,-171,173,173,+109kgMen,CleanJerk,564,False
+8,KASWARA Jghili,SYR,"Jul 10, 2005",128.60,A,163,168,-172,168,+109kgMen,CleanJerk,564,False
+9,ALYAMI Turki Saad M,KSA,"Nov 19, 2003",112.60,A,155,165,-172,165,+109kgMen,CleanJerk,564,False
+---,ALALI Ahmad,SYR,"Jan 01, 2002",127.50,A,---,---,---,---,+109kgMen,CleanJerk,564,False
+---,DAYIYEV Atajan,TKM,"May 20, 2002",155.60,A,-195,-200,-200,---,+109kgMen,CleanJerk,564,False
+1,ESFANDIARI Alireza,IRI,"Sep 13, 2003",158.60,A,175,211,386,---,+109kgMen,Total,564,False
+2,MIRZABAEV Mirkhosil,UZB,"May 11, 2002",127.00,A,176,206,382,---,+109kgMen,Total,564,False
+3,NAM Jiyong,KOR,"Dec 02, 2004",129.80,A,159,212,371,---,+109kgMen,Total,564,False
+4,NEMATIMOGHADDAM Taha,IRI,"Jan 30, 2006",121.40,A,150,190,340,---,+109kgMen,Total,564,False
+5,TUYAKOV Zhanali,KAZ,"Dec 16, 2003",125.20,A,146,190,336,---,+109kgMen,Total,564,False
+6,MAMATKUL Bagdat,KAZ,"Jan 03, 2002",131.80,A,148,185,333,---,+109kgMen,Total,564,False
+7,ALYAMI Turki Saad M,KSA,"Nov 19, 2003",112.60,A,141,165,306,---,+109kgMen,Total,564,False
+8,KASWARA Jghili,SYR,"Jul 10, 2005",128.60,A,137,168,305,---,+109kgMen,Total,564,False
+9,RAAD Alsallaj,JOR,"Sep 23, 2002",118.60,A,130,173,303,---,+109kgMen,Total,564,False
+---,ALALI Ahmad,SYR,"Jan 01, 2002",127.50,A,157,---,---,---,+109kgMen,Total,564,False
+---,DAYIYEV Atajan,TKM,"May 20, 2002",155.60,A,156,---,---,---,+109kgMen,Total,564,False
+1,RAMOS AMIS Rose Jean,PHI,"Nov 06, 2005",44.90,A,65,67,70,70,45kgWomen,Snatch,564,False
+2,GARUD Harshada Sharad,IND,"Nov 08, 2003",44.80,A,-66,66,69,69,45kgWomen,Snatch,564,False
+3,NGUYEN Thi Thu Hoai,VIE,"Mar 02, 2004",44.90,A,-66,66,68,68,45kgWomen,Snatch,564,False
+4,KHOIRUNNISA Najla,INA,"Aug 10, 2005",45.00,A,-64,65,-68,65,45kgWomen,Snatch,564,False
+5,PATEL Anjali,IND,"Oct 08, 2004",45.00,A,60,63,65,65,45kgWomen,Snatch,564,False
+6,TRAN Thi Bac Giang,VIE,"Jan 09, 2004",44.80,A,-63,-63,63,63,45kgWomen,Snatch,564,False
+7,BELENKO Aleksandra,KAZ,"Aug 31, 2005",43.90,B,53,56,58,58,45kgWomen,Snatch,564,False
+1,GARUD Harshada Sharad,IND,"Nov 08, 2003",44.80,A,81,85,88,88,45kgWomen,CleanJerk,564,False
+2,NGUYEN Thi Thu Hoai,VIE,"Mar 02, 2004",44.90,A,-84,84,-86,84,45kgWomen,CleanJerk,564,False
+3,RAMOS AMIS Rose Jean,PHI,"Nov 06, 2005",44.90,A,81,83,-85,83,45kgWomen,CleanJerk,564,False
+4,TRAN Thi Bac Giang,VIE,"Jan 09, 2004",44.80,A,82,-84,-84,82,45kgWomen,CleanJerk,564,False
+5,PATEL Anjali,IND,"Oct 08, 2004",45.00,A,76,80,-83,80,45kgWomen,CleanJerk,564,False
+6,BELENKO Aleksandra,KAZ,"Aug 31, 2005",43.90,B,68,74,-77,74,45kgWomen,CleanJerk,564,False
+---,KHOIRUNNISA Najla,INA,"Aug 10, 2005",45.00,A,-81,-81,-81,---,45kgWomen,CleanJerk,564,False
+1,GARUD Harshada Sharad,IND,"Nov 08, 2003",44.80,A,69,88,157,---,45kgWomen,Total,564,False
+2,RAMOS AMIS Rose Jean,PHI,"Nov 06, 2005",44.90,A,70,83,153,---,45kgWomen,Total,564,False
+3,NGUYEN Thi Thu Hoai,VIE,"Mar 02, 2004",44.90,A,68,84,152,---,45kgWomen,Total,564,False
+4,PATEL Anjali,IND,"Oct 08, 2004",45.00,A,65,80,145,---,45kgWomen,Total,564,False
+5,TRAN Thi Bac Giang,VIE,"Jan 09, 2004",44.80,A,63,82,145,---,45kgWomen,Total,564,False
+6,BELENKO Aleksandra,KAZ,"Aug 31, 2005",43.90,B,58,74,132,---,45kgWomen,Total,564,False
+---,KHOIRUNNISA Najla,INA,"Aug 10, 2005",45.00,A,65,---,---,---,45kgWomen,Total,564,False
+1,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,75,78,80,80,49kgWomen,Snatch,564,False
+2,NGUYEN Bich Tram,VIE,"Aug 18, 2003",48.70,A,73,76,-79,76,49kgWomen,Snatch,564,False
+3,PHAN Thi Tuyet Ngoc,VIE,"Feb 05, 2004",48.80,A,-74,74,-77,74,49kgWomen,Snatch,564,False
+4,YADAV Gyaneshwari,IND,"Mar 08, 2003",48.90,A,73,-76,-77,73,49kgWomen,Snatch,564,False
+5,RITHIKA V,IND,"Jul 25, 2004",49.00,A,65,68,71,71,49kgWomen,Snatch,564,False
+6,BUYANDELGER Erdenezul,MGL,"Jan 20, 2004",48.60,A,66,69,-71,69,49kgWomen,Snatch,564,False
+7,AAMERI Hanan Khaled S,KSA,"Mar 26, 2003",48.70,B,40,42,-45,42,49kgWomen,Snatch,564,False
+---,BALABAYUK Darya,KAZ,"Jan 17, 2007",48.70,A,-67,-67,-67,---,49kgWomen,Snatch,564,False
+1,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,93,96,-100,96,49kgWomen,CleanJerk,564,False
+2,NGUYEN Bich Tram,VIE,"Aug 18, 2003",48.70,A,89,94,-97,94,49kgWomen,CleanJerk,564,False
+3,PHAN Thi Tuyet Ngoc,VIE,"Feb 05, 2004",48.80,A,90,-95,-97,90,49kgWomen,CleanJerk,564,False
+4,BUYANDELGER Erdenezul,MGL,"Jan 20, 2004",48.60,A,84,-88,88,88,49kgWomen,CleanJerk,564,False
+5,YADAV Gyaneshwari,IND,"Mar 08, 2003",48.90,A,-84,84,87,87,49kgWomen,CleanJerk,564,False
+6,BALABAYUK Darya,KAZ,"Jan 17, 2007",48.70,A,81,84,86,86,49kgWomen,CleanJerk,564,False
+7,RITHIKA V,IND,"Jul 25, 2004",49.00,A,-83,-83,83,83,49kgWomen,CleanJerk,564,False
+8,AAMERI Hanan Khaled S,KSA,"Mar 26, 2003",48.70,B,45,50,53,53,49kgWomen,CleanJerk,564,False
+1,RAMOS Rosegie,PHI,"Dec 15, 2003",48.70,A,80,96,176,---,49kgWomen,Total,564,False
+2,NGUYEN Bich Tram,VIE,"Aug 18, 2003",48.70,A,76,94,170,---,49kgWomen,Total,564,False
+3,PHAN Thi Tuyet Ngoc,VIE,"Feb 05, 2004",48.80,A,74,90,164,---,49kgWomen,Total,564,False
+4,YADAV Gyaneshwari,IND,"Mar 08, 2003",48.90,A,73,87,160,---,49kgWomen,Total,564,False
+5,BUYANDELGER Erdenezul,MGL,"Jan 20, 2004",48.60,A,69,88,157,---,49kgWomen,Total,564,False
+6,RITHIKA V,IND,"Jul 25, 2004",49.00,A,71,83,154,---,49kgWomen,Total,564,False
+7,AAMERI Hanan Khaled S,KSA,"Mar 26, 2003",48.70,B,42,53,95,---,49kgWomen,Total,564,False
+---,BALABAYUK Darya,KAZ,"Jan 17, 2007",48.70,A,---,86,---,---,49kgWomen,Total,564,False
+1,PANFILOVA Jamila,UZB,"Feb 11, 2003",54.20,A,80,83,85,85,55kgWomen,Snatch,564,False
+2,YODSARN Poisian,THA,"Jan 20, 2002",54.40,A,79,81,-84,81,55kgWomen,Snatch,564,False
+3,ALYAKINA Yekaterina,KAZ,"Dec 06, 2004",54.00,A,74,77,79,79,55kgWomen,Snatch,564,False
+4,KLARISA Juliana,INA,"Jul 29, 2002",54.80,A,78,-81,-81,78,55kgWomen,Snatch,564,False
+5,VO Thi Ngoc Thanh,VIE,"Jan 01, 2002",53.60,A,72,77,-80,77,55kgWomen,Snatch,564,False
+6,DAS Shrabani,IND,"Mar 16, 2002",55.00,A,74,-79,-79,74,55kgWomen,Snatch,564,False
+7,AMANOVA Ogulgerek,TKM,"Dec 07, 2004",54.10,B,69,71,-73,71,55kgWomen,Snatch,564,False
+8,ZHAPAR Shynar,KAZ,"Jan 29, 2004",54.50,A,70,-73,-74,70,55kgWomen,Snatch,564,False
+9,BETUA TABILON Gissele Anne,PHI,"Jun 01, 2003",54.70,B,68,-70,-70,68,55kgWomen,Snatch,564,False
+10,HOJIYEVA Ozoda,UZB,"Nov 12, 2004",54.60,B,68,-72,-73,68,55kgWomen,Snatch,564,False
+11,KAMALAKAR Nikita,IND,"Dec 10, 2005",54.60,B,65,68,-71,68,55kgWomen,Snatch,564,False
+1,VO Thi Ngoc Thanh,VIE,"Jan 01, 2002",53.60,A,96,100,103,103,55kgWomen,CleanJerk,564,False
+2,YODSARN Poisian,THA,"Jan 20, 2002",54.40,A,99,-103,103,103,55kgWomen,CleanJerk,564,False
+3,KLARISA Juliana,INA,"Jul 29, 2002",54.80,A,102,-104,-107,102,55kgWomen,CleanJerk,564,False
+4,ALYAKINA Yekaterina,KAZ,"Dec 06, 2004",54.00,A,90,95,99,99,55kgWomen,CleanJerk,564,False
+5,DAS Shrabani,IND,"Mar 16, 2002",55.00,A,98,-102,-104,98,55kgWomen,CleanJerk,564,False
+6,PANFILOVA Jamila,UZB,"Feb 11, 2003",54.20,A,95,98,-101,98,55kgWomen,CleanJerk,564,False
+7,KAMALAKAR Nikita,IND,"Dec 10, 2005",54.60,B,92,95,-97,95,55kgWomen,CleanJerk,564,False
+8,BETUA TABILON Gissele Anne,PHI,"Jun 01, 2003",54.70,B,90,-94,94,94,55kgWomen,CleanJerk,564,False
+9,AMANOVA Ogulgerek,TKM,"Dec 07, 2004",54.10,B,85,88,91,91,55kgWomen,CleanJerk,564,False
+10,HOJIYEVA Ozoda,UZB,"Nov 12, 2004",54.60,B,81,85,88,88,55kgWomen,CleanJerk,564,False
+11,ZHAPAR Shynar,KAZ,"Jan 29, 2004",54.50,A,85,-90,-90,85,55kgWomen,CleanJerk,564,False
+1,YODSARN Poisian,THA,"Jan 20, 2002",54.40,A,81,103,184,---,55kgWomen,Total,564,False
+2,PANFILOVA Jamila,UZB,"Feb 11, 2003",54.20,A,85,98,183,---,55kgWomen,Total,564,False
+3,KLARISA Juliana,INA,"Jul 29, 2002",54.80,A,78,102,180,---,55kgWomen,Total,564,False
+4,VO Thi Ngoc Thanh,VIE,"Jan 01, 2002",53.60,A,77,103,180,---,55kgWomen,Total,564,False
+5,ALYAKINA Yekaterina,KAZ,"Dec 06, 2004",54.00,A,79,99,178,---,55kgWomen,Total,564,False
+6,DAS Shrabani,IND,"Mar 16, 2002",55.00,A,74,98,172,---,55kgWomen,Total,564,False
+7,KAMALAKAR Nikita,IND,"Dec 10, 2005",54.60,B,68,95,163,---,55kgWomen,Total,564,False
+8,AMANOVA Ogulgerek,TKM,"Dec 07, 2004",54.10,B,71,91,162,---,55kgWomen,Total,564,False
+9,BETUA TABILON Gissele Anne,PHI,"Jun 01, 2003",54.70,B,68,94,162,---,55kgWomen,Total,564,False
+10,HOJIYEVA Ozoda,UZB,"Nov 12, 2004",54.60,B,68,88,156,---,55kgWomen,Total,564,False
+11,ZHAPAR Shynar,KAZ,"Jan 29, 2004",54.50,A,70,85,155,---,55kgWomen,Total,564,False
+1,QUANG Thi Tam,VIE,"Mar 25, 2003",57.50,A,-87,87,89,89,59kgWomen,Snatch,564,False
+2,SARAH,INA,"Dec 21, 2005",58.40,A,83,86,88,88,59kgWomen,Snatch,564,False
+3,BOLDBAATAR Khongorzul,MGL,"Jul 17, 2002",58.60,A,80,84,-87,84,59kgWomen,Snatch,564,False
+4,KOLIUSHKO Alina,KAZ,"Dec 03, 2005",56.30,A,74,77,-80,77,59kgWomen,Snatch,564,False
+5,KAKAMYRADOVA Gulalek,TKM,"Jan 15, 2006",58.90,A,74,77,-79,77,59kgWomen,Snatch,564,False
+6,ANKITA,IND,"Apr 10, 2006",58.90,A,69,72,-75,72,59kgWomen,Snatch,564,False
+1,QUANG Thi Tam,VIE,"Mar 25, 2003",57.50,A,105,109,111,111,59kgWomen,CleanJerk,564,False
+2,BOLDBAATAR Khongorzul,MGL,"Jul 17, 2002",58.60,A,102,108,-111,108,59kgWomen,CleanJerk,564,False
+3,SARAH,INA,"Dec 21, 2005",58.40,A,103,107,-111,107,59kgWomen,CleanJerk,564,False
+4,KOLIUSHKO Alina,KAZ,"Dec 03, 2005",56.30,A,91,94,96,96,59kgWomen,CleanJerk,564,False
+5,KAKAMYRADOVA Gulalek,TKM,"Jan 15, 2006",58.90,A,88,-91,93,93,59kgWomen,CleanJerk,564,False
+6,ANKITA,IND,"Apr 10, 2006",58.90,A,89,-92,-94,89,59kgWomen,CleanJerk,564,False
+1,QUANG Thi Tam,VIE,"Mar 25, 2003",57.50,A,89,111,200,---,59kgWomen,Total,564,False
+2,SARAH,INA,"Dec 21, 2005",58.40,A,88,107,195,---,59kgWomen,Total,564,False
+3,BOLDBAATAR Khongorzul,MGL,"Jul 17, 2002",58.60,A,84,108,192,---,59kgWomen,Total,564,False
+4,KOLIUSHKO Alina,KAZ,"Dec 03, 2005",56.30,A,77,96,173,---,59kgWomen,Total,564,False
+5,KAKAMYRADOVA Gulalek,TKM,"Jan 15, 2006",58.90,A,77,93,170,---,59kgWomen,Total,564,False
+6,ANKITA,IND,"Apr 10, 2006",58.90,A,72,89,161,---,59kgWomen,Total,564,False
+1,LEE Eunhwa,KOR,"Jun 20, 2002",63.90,A,-90,90,95,95,64kgWomen,Snatch,564,False
+2,CHONTAVIN Thipwara,THA,"Dec 14, 2002",63.60,A,89,-91,-91,89,64kgWomen,Snatch,564,False
+3,AMANOVA Medine,TKM,"Mar 05, 2006",60.50,A,-81,82,85,85,64kgWomen,Snatch,564,False
+4,LI Nadezhda,KAZ,"Sep 09, 2006",63.60,A,-81,81,84,84,64kgWomen,Snatch,564,False
+5,SANAPATHI Pallavi,IND,"Jul 13, 2003",61.00,A,80,83,-85,83,64kgWomen,Snatch,564,False
+6,ESHQULOVA Barchinoy,UZB,"Nov 03, 2002",63.20,A,80,-84,-86,80,64kgWomen,Snatch,564,False
+7,DJURAEVA Madinabonu,UZB,"Sep 29, 2004",63.00,A,74,77,-81,77,64kgWomen,Snatch,564,False
+8,YAHYA ZAINAB Ali Yusuf,BRN,"Feb 08, 2002",63.80,A,-72,72,-74,72,64kgWomen,Snatch,564,False
+1,LEE Eunhwa,KOR,"Jun 20, 2002",63.90,A,113,117,-120,117,64kgWomen,CleanJerk,564,False
+2,CHONTAVIN Thipwara,THA,"Dec 14, 2002",63.60,A,110,-114,-114,110,64kgWomen,CleanJerk,564,False
+3,ESHQULOVA Barchinoy,UZB,"Nov 03, 2002",63.20,A,101,-105,106,106,64kgWomen,CleanJerk,564,False
+4,DJURAEVA Madinabonu,UZB,"Sep 29, 2004",63.00,A,95,102,105,105,64kgWomen,CleanJerk,564,False
+5,AMANOVA Medine,TKM,"Mar 05, 2006",60.50,A,100,102,104,104,64kgWomen,CleanJerk,564,False
+6,SANAPATHI Pallavi,IND,"Jul 13, 2003",61.00,A,100,-105,-105,100,64kgWomen,CleanJerk,564,False
+7,LI Nadezhda,KAZ,"Sep 09, 2006",63.60,A,-100,-100,100,100,64kgWomen,CleanJerk,564,False
+8,YAHYA ZAINAB Ali Yusuf,BRN,"Feb 08, 2002",63.80,A,90,-93,-93,90,64kgWomen,CleanJerk,564,False
+1,LEE Eunhwa,KOR,"Jun 20, 2002",63.90,A,95,117,212,---,64kgWomen,Total,564,False
+2,CHONTAVIN Thipwara,THA,"Dec 14, 2002",63.60,A,89,110,199,---,64kgWomen,Total,564,False
+3,AMANOVA Medine,TKM,"Mar 05, 2006",60.50,A,85,104,189,---,64kgWomen,Total,564,False
+4,ESHQULOVA Barchinoy,UZB,"Nov 03, 2002",63.20,A,80,106,186,---,64kgWomen,Total,564,False
+5,LI Nadezhda,KAZ,"Sep 09, 2006",63.60,A,84,100,184,---,64kgWomen,Total,564,False
+6,SANAPATHI Pallavi,IND,"Jul 13, 2003",61.00,A,83,100,183,---,64kgWomen,Total,564,False
+7,DJURAEVA Madinabonu,UZB,"Sep 29, 2004",63.00,A,77,105,182,---,64kgWomen,Total,564,False
+8,YAHYA ZAINAB Ali Yusuf,BRN,"Feb 08, 2002",63.80,A,72,90,162,---,64kgWomen,Total,564,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.40,A,95,-100,100,100,71kgWomen,Snatch,564,False
+2,KIM Hyemin,KOR,"Nov 27, 2003",68.90,A,90,93,-96,93,71kgWomen,Snatch,564,False
+3,ANGGI Restu,INA,"Oct 21, 2002",68.20,A,88,-91,92,92,71kgWomen,Snatch,564,False
+4,PARK Yein,KOR,"Jun 28, 2002",70.60,A,88,91,-94,91,71kgWomen,Snatch,564,False
+5,LAM Thi My Le,VIE,"Feb 07, 2002",69.20,A,-91,91,-94,91,71kgWomen,Snatch,564,False
+6,OTGONCHIMEG Tugs-Erdene,MGL,"Apr 06, 2005",69.70,B,81,85,89,89,71kgWomen,Snatch,564,False
+7,KOMILOVA Sevinchoy,UZB,"Aug 01, 2004",70.70,A,83,86,89,89,71kgWomen,Snatch,564,False
+8,DAULETOVA Aruzhan,KAZ,"Jul 11, 2006",70.50,B,76,79,81,81,71kgWomen,Snatch,564,False
+9,ALQURASHI LAYAN Hassan M.,KSA,"Oct 29, 2006",66.80,B,35,40,43,43,71kgWomen,Snatch,564,False
+10,KHORMI Nujud Hussain Y,KSA,"May 04, 2005",67.60,B,-40,40,43,43,71kgWomen,Snatch,564,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.40,A,120,125,130,130,71kgWomen,CleanJerk,564,False
+2,ANGGI Restu,INA,"Oct 21, 2002",68.20,A,115,118,120,120,71kgWomen,CleanJerk,564,False
+3,KIM Hyemin,KOR,"Nov 27, 2003",68.90,A,113,116,118,118,71kgWomen,CleanJerk,564,False
+4,PARK Yein,KOR,"Jun 28, 2002",70.60,A,113,-116,117,117,71kgWomen,CleanJerk,564,False
+5,KOMILOVA Sevinchoy,UZB,"Aug 01, 2004",70.70,A,110,-114,-115,110,71kgWomen,CleanJerk,564,False
+6,OTGONCHIMEG Tugs-Erdene,MGL,"Apr 06, 2005",69.70,B,101,108,-112,108,71kgWomen,CleanJerk,564,False
+7,LAM Thi My Le,VIE,"Feb 07, 2002",69.20,A,105,-116,-117,105,71kgWomen,CleanJerk,564,False
+8,DAULETOVA Aruzhan,KAZ,"Jul 11, 2006",70.50,B,96,-99,99,99,71kgWomen,CleanJerk,564,False
+9,KHORMI Nujud Hussain Y,KSA,"May 04, 2005",67.60,B,50,-55,56,56,71kgWomen,CleanJerk,564,False
+10,ALQURASHI LAYAN Hassan M.,KSA,"Oct 29, 2006",66.80,B,48,53,55,55,71kgWomen,CleanJerk,564,False
+1,SARNO PALOMAR Vanessa,PHI,"Sep 28, 2003",70.40,A,100,130,230,---,71kgWomen,Total,564,False
+2,ANGGI Restu,INA,"Oct 21, 2002",68.20,A,92,120,212,---,71kgWomen,Total,564,False
+3,KIM Hyemin,KOR,"Nov 27, 2003",68.90,A,93,118,211,---,71kgWomen,Total,564,False
+4,PARK Yein,KOR,"Jun 28, 2002",70.60,A,91,117,208,---,71kgWomen,Total,564,False
+5,KOMILOVA Sevinchoy,UZB,"Aug 01, 2004",70.70,A,89,110,199,---,71kgWomen,Total,564,False
+6,OTGONCHIMEG Tugs-Erdene,MGL,"Apr 06, 2005",69.70,B,89,108,197,---,71kgWomen,Total,564,False
+7,LAM Thi My Le,VIE,"Feb 07, 2002",69.20,A,91,105,196,---,71kgWomen,Total,564,False
+8,DAULETOVA Aruzhan,KAZ,"Jul 11, 2006",70.50,B,81,99,180,---,71kgWomen,Total,564,False
+9,KHORMI Nujud Hussain Y,KSA,"May 04, 2005",67.60,B,43,56,99,---,71kgWomen,Total,564,False
+10,ALQURASHI LAYAN Hassan M.,KSA,"Oct 29, 2006",66.80,B,43,55,98,---,71kgWomen,Total,564,False
+1,KHONGTHONG Duangkamon,THA,"Oct 31, 2002",75.50,A,88,91,94,94,76kgWomen,Snatch,564,False
+2,HA Thi Hoa,VIE,"Sep 07, 2003",74.10,A,82,85,-89,85,76kgWomen,Snatch,564,False
+3,FAYZULLAYEVA Madina,UZB,"Jan 29, 2006",72.20,A,75,78,82,82,76kgWomen,Snatch,564,False
+4,JYOTI Yadav,IND,"Jan 16, 2004",75.60,A,78,-81,81,81,76kgWomen,Snatch,564,False
+5,GOMBOSUREN Enerel,MGL,"Apr 24, 2002",74.30,A,-79,-79,79,79,76kgWomen,Snatch,564,False
+6,BOLORTUYA Lkhagvajav,MGL,"Feb 22, 2007",74.30,A,67,74,77,77,76kgWomen,Snatch,564,False
+1,KHONGTHONG Duangkamon,THA,"Oct 31, 2002",75.50,A,117,122,-126,122,76kgWomen,CleanJerk,564,False
+2,HA Thi Hoa,VIE,"Sep 07, 2003",74.10,A,106,-108,108,108,76kgWomen,CleanJerk,564,False
+3,GOMBOSUREN Enerel,MGL,"Apr 24, 2002",74.30,A,-103,103,107,107,76kgWomen,CleanJerk,564,False
+4,FAYZULLAYEVA Madina,UZB,"Jan 29, 2006",72.20,A,98,104,106,106,76kgWomen,CleanJerk,564,False
+5,JYOTI Yadav,IND,"Jan 16, 2004",75.60,A,101,-105,105,105,76kgWomen,CleanJerk,564,False
+6,BOLORTUYA Lkhagvajav,MGL,"Feb 22, 2007",74.30,A,-97,97,-103,97,76kgWomen,CleanJerk,564,False
+1,KHONGTHONG Duangkamon,THA,"Oct 31, 2002",75.50,A,94,122,216,---,76kgWomen,Total,564,False
+2,HA Thi Hoa,VIE,"Sep 07, 2003",74.10,A,85,108,193,---,76kgWomen,Total,564,False
+3,FAYZULLAYEVA Madina,UZB,"Jan 29, 2006",72.20,A,82,106,188,---,76kgWomen,Total,564,False
+4,JYOTI Yadav,IND,"Jan 16, 2004",75.60,A,81,105,186,---,76kgWomen,Total,564,False
+5,GOMBOSUREN Enerel,MGL,"Apr 24, 2002",74.30,A,79,107,186,---,76kgWomen,Total,564,False
+6,BOLORTUYA Lkhagvajav,MGL,"Feb 22, 2007",74.30,A,77,97,174,---,76kgWomen,Total,564,False
+1,SUVONOVA Nigora,UZB,"Oct 05, 2005",78.70,A,89,93,95,95,81kgWomen,Snatch,564,False
+2,KIPSHAKBAY Dinara,KAZ,"May 20, 2002",80.10,A,85,89,-91,89,81kgWomen,Snatch,564,False
+3,RUSTAMOVA Anamjan,TKM,"May 08, 2006",80.30,A,88,-91,-92,88,81kgWomen,Snatch,564,False
+1,SUVONOVA Nigora,UZB,"Oct 05, 2005",78.70,A,110,114,117,117,81kgWomen,CleanJerk,564,False
+2,RUSTAMOVA Anamjan,TKM,"May 08, 2006",80.30,A,105,109,113,113,81kgWomen,CleanJerk,564,False
+3,KIPSHAKBAY Dinara,KAZ,"May 20, 2002",80.10,A,107,-110,111,111,81kgWomen,CleanJerk,564,False
+1,SUVONOVA Nigora,UZB,"Oct 05, 2005",78.70,A,95,117,212,---,81kgWomen,Total,564,False
+2,RUSTAMOVA Anamjan,TKM,"May 08, 2006",80.30,A,88,113,201,---,81kgWomen,Total,564,False
+3,KIPSHAKBAY Dinara,KAZ,"May 20, 2002",80.10,A,89,111,200,---,81kgWomen,Total,564,False
+1,JABBOROVA Tursunoy,UZB,"Mar 04, 2002",86.70,A,100,105,108,108,87kgWomen,Snatch,564,False
+2,HO Thi ha Phuong,VIE,"Jun 28, 2002",85.50,A,-83,83,88,88,87kgWomen,Snatch,564,False
+3,KARIMOVA Kamola,UZB,"Jul 27, 2004",83.70,A,70,77,-82,77,87kgWomen,Snatch,564,False
+1,JABBOROVA Tursunoy,UZB,"Mar 04, 2002",86.70,A,120,127,-130,127,87kgWomen,CleanJerk,564,False
+2,HO Thi ha Phuong,VIE,"Jun 28, 2002",85.50,A,95,101,106,106,87kgWomen,CleanJerk,564,False
+3,KARIMOVA Kamola,UZB,"Jul 27, 2004",83.70,A,90,100,105,105,87kgWomen,CleanJerk,564,False
+1,JABBOROVA Tursunoy,UZB,"Mar 04, 2002",86.70,A,108,127,235,---,87kgWomen,Total,564,False
+2,HO Thi ha Phuong,VIE,"Jun 28, 2002",85.50,A,88,106,194,---,87kgWomen,Total,564,False
+3,KARIMOVA Kamola,UZB,"Jul 27, 2004",83.70,A,77,105,182,---,87kgWomen,Total,564,False
+1,PARK Hyejeong,KOR,"Mar 12, 2003",123.10,A,115,---,---,115,+87kgWomen,Snatch,564,False
+2,SANSYZBAYEVA Aisamal,KAZ,"Jul 08, 2003",114.50,A,100,104,---,104,+87kgWomen,Snatch,564,False
+3,TRAN Thi Hien,VIE,"Jul 18, 2007",120.00,A,86,95,100,100,+87kgWomen,Snatch,564,False
+4,OTGONTUYA Bayantuul,MGL,"Aug 21, 2003",107.60,A,77,82,-85,82,+87kgWomen,Snatch,564,False
+5,XALIKOVA Xushnoza,UZB,"Apr 08, 2005",95.60,A,70,75,81,81,+87kgWomen,Snatch,564,False
+6,RAFA Mst Sohayba Rahman,BAN,"Jan 08, 2007",93.60,A,-60,60,63,63,+87kgWomen,Snatch,564,False
+1,PARK Hyejeong,KOR,"Mar 12, 2003",123.10,A,-155,155,---,155,+87kgWomen,CleanJerk,564,False
+2,SANSYZBAYEVA Aisamal,KAZ,"Jul 08, 2003",114.50,A,-130,130,---,130,+87kgWomen,CleanJerk,564,False
+3,TRAN Thi Hien,VIE,"Jul 18, 2007",120.00,A,115,125,-130,125,+87kgWomen,CleanJerk,564,False
+4,XALIKOVA Xushnoza,UZB,"Apr 08, 2005",95.60,A,95,100,104,104,+87kgWomen,CleanJerk,564,False
+5,OTGONTUYA Bayantuul,MGL,"Aug 21, 2003",107.60,A,95,-104,-105,95,+87kgWomen,CleanJerk,564,False
+6,RAFA Mst Sohayba Rahman,BAN,"Jan 08, 2007",93.60,A,75,79,-83,79,+87kgWomen,CleanJerk,564,False
+1,PARK Hyejeong,KOR,"Mar 12, 2003",123.10,A,115,155,270,---,+87kgWomen,Total,564,False
+2,SANSYZBAYEVA Aisamal,KAZ,"Jul 08, 2003",114.50,A,104,130,234,---,+87kgWomen,Total,564,False
+3,TRAN Thi Hien,VIE,"Jul 18, 2007",120.00,A,100,125,225,---,+87kgWomen,Total,564,False
+4,XALIKOVA Xushnoza,UZB,"Apr 08, 2005",95.60,A,81,104,185,---,+87kgWomen,Total,564,False
+5,OTGONTUYA Bayantuul,MGL,"Aug 21, 2003",107.60,A,82,95,177,---,+87kgWomen,Total,564,False
+6,RAFA Mst Sohayba Rahman,BAN,"Jan 08, 2007",93.60,A,63,79,142,---,+87kgWomen,Total,564,False
