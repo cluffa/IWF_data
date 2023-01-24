@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-      - run: chown +x .github/workflows/scrape-and-push.sh
+      - run: chown +x "$USER" .github/workflows/scrape-and-push.sh
       - run: ./.github/workflows/scrape-and-push.sh
       - name: Create date file
         run: date +%s > last-run.txt
