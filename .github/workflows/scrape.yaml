@@ -5,15 +5,16 @@ on:
   - cron: "0 0 1 * *"
 
 jobs:
-  Explore-GitHub-Actions:
+  scrape-stuff:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
       - name: install stuff
-        run: apt-get update
-        run: apt-get install -y --no-install-recommends r-base python3 python3-pip r-cran-tidyverse
-        run: pip3 install -r requirements.txt
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends r-base python3 python3-pip r-cran-tidyverse
+          pip3 install -r requirements.txt
       - name: run scripts
         run: python3 test.py #updateAll.py
         #run: Rscript clean.R
