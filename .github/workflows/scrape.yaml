@@ -15,10 +15,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends r-base python3 python3-pip r-cran-tidyverse
           pip3 install -r requirements.txt
-      - name: run scripts
-        run: |
-          python3 test.py #updateAll.py
-          Rscript clean.R
+      - name: run scaping scripts
+        run: python3 updateAll.py
+      - name: run cleaning script
+        run: Rscript clean.R
       - name: Create date file
         run: date +%m-%d-%Y > last-run.txt
       - name: Commit all
