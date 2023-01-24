@@ -12,8 +12,8 @@ jobs:
         uses: actions/checkout@v3
       - name: install stuff
         run: |
-          apt-get update
-          apt-get install -y --no-install-recommends r-base python3 python3-pip r-cran-tidyverse
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends r-base python3 python3-pip r-cran-tidyverse
           pip3 install -r requirements.txt
       - name: run scripts
         run: python3 test.py #updateAll.py
