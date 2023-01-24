@@ -4,13 +4,18 @@
 from bs4 import BeautifulSoup
 import requests
 import os
-from csv import reader
+from os.path import join
+from csv import reader, writer
 from re import sub
-from scrapeEvents import write_to_csv
 
 # file directory
 dir = os.path.dirname(__file__)
 
+def write_to_csv(base_dir, filepath_name, data):
+    """Code chunk from OWL / Sport80 API"""
+    with open(join(base_dir, f"{filepath_name}.csv"), 'w', encoding='utf-8') as file_boi:
+        csv_writer = writer(file_boi)
+        csv_writer.writerows(data)
 
 def is_cat(line):
     return (("Men" in line) | ("Women" in line)) & ("kg" in line)
