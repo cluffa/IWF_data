@@ -17,10 +17,10 @@ jobs:
           pip3 install -r requirements.txt
       - name: run scripts
         run: python3 test.py #updateAll.py
-        #run: Rscript clean.R
+        run: Rscript clean.R
       - name: Create date file
-        run: date +%s > last-run.txt
-      - name: Commit report
+        run: date +%m-%d-%Y > last-run.txt
+      - name: Commit all
         run: |
           git config --global user.name 'cluffa'
           git config --global user.email 'cluffa@users.noreply.github.com'
