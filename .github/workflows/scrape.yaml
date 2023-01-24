@@ -1,0 +1,21 @@
+name: scrape
+#on:
+#  schedule:
+#  - cron: "0 0 1 * *"
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - run: ./.github/workflows/scrape-and-push.sh
+      - name: Create date file
+        run: date +%s > last-run.txt
+      - name: Commit report
+        run: |
+          git config --global user.name 'cluffa'
+          git config --global user.email 'cluffa@users.noreply.github.com'
+          git add -all
+          git commit -am 'updated data'
+          git push
