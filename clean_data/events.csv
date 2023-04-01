@@ -313,7 +313,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 408,I COPA INTERNACIONAL CSLP (Junior),2017-12-12,Lima,PER,junior,0,0,Peru
 409,2017 SOUTH AMERICAN YOUTH CHAMPIONSHIPS,2017-12-12,Lima,PER,youth,0,0,Peru
 410,2017 SOUTH AMERICAN JUNIOR CHAMPIONSHIPS,2017-12-12,Lima,PER,junior,0,0,Peru
-411,18th BOLIVARIAN GAMES,2017-11-17,Santa Marta, COL,senior,0,0,NA
+411,18th BOLIVARIAN GAMES,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
 412,2nd SOUTH AMERICAN YOUTH GAMES,2017-10-04,Santiago,CHI,youth,0,0,NA
 413,SOUTH AMERICAN CHAMPIONSHIPS,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
 415,3rd INTERNATIONAL FAJR CUP,2018-03-06,Ahvaz,IRI,senior,0,0,NA
@@ -342,7 +342,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 439,AFRICAN CHAMPIONSHIPS,2018-08-10,Mahébourg,MRI,senior,0,0,NA
 440,YOUTH OLYMPIC GAMES,2018-10-06,Buenos Aires,ARG,youth,0,0,Argentina
 441,2018 IWF World Championships,2018-11-01,Ashgabat,TKM,senior,0,0,Turkmenistan
-442,II International Senior CSLP Cup,2018-12-07,Guayaquil,ECU,senior,0,0,Ecuador
+442,II International Senior CSLP Cup,2018-12-07,Guayaquil, ECU,senior,0,0,NA
 443,II International Junior CSLP Cup,2018-12-07,Guayaquil,ECU,junior,0,0,Ecuador
 444,5th International Qatar Cup,2018-12-19,DOHA,QAT,senior,0,0,Qatar
 445,5th International Solidarity Championships,2018-12-08,CAIRO,EGY,senior,0,0,Egypt
@@ -436,9 +436,12 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 537,Canadian Invitational,2022-02-26,Scarbourough,CAN,senior,0,0,Canada
 538,Commonwealth Games Online Qual. Event,2022-02-27,Online,ONL,senior,0,0,NA
 539,"XL Torneo Int. ""Manuel Suárez In Memoriam""",2022-03-13,Cardenas,CUB,senior,0,0,Cuba
-541,III South American Youth Games,2022-05-06,Rosario, ARG,youth,0,0,NA
+541,III South American Youth Games,2022-05-06,Rosario,ARG,youth,0,0,Argentina
 542,31st SEA Games,2022-05-19,Hanoi,VIE,senior,0,0,NA
+543,Oceania Junior Championships,2022-05-20,Online,OWF,junior,0,0,NA
+544,Pan-American Youth Championships,2022-11-20,Guatemala City,GUA,youth,0,0,NA
 545,African Junior Championships,2022-09-01,Marrakesh,MAR,junior,0,0,Morocco
+546,Pacific Mini Games + Oceania Senior Championships,2022-06-18,Saipan,NMI,senior,0,0,NA
 547,XIX Bolivarian Games,2022-06-29,Valledupar,COL,senior,0,0,Colombia
 548,19th Mediterranean Games,2022-07-01,Oran,ALG,senior,0,0,NA
 549,Asian Youth Championships,2022-07-15,Tashkent,UZB,youth,0,0,Uzbekistan
@@ -447,6 +450,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 552,European Youth Championships,2022-08-10,Raszyn,POL,youth,0,0,Poland
 553,5th Islamic Solidarity Games,2022-08-11,Konya,TUR,senior,0,0,Turkey
 554,African Youth Championships,2022-09-01,Marrakesh,MAR,youth,0,0,Morocco
+555,XII South American Games,2022-10-02,Asuncion,PAR,senior,0,0,NA
 556,Asian Championships,2022-10-06,Manama,BRN,senior,0,0,Brunei Darussalam
 557,European Junior Championships,2022-10-15,Durres,ALB,junior,0,0,Albania
 558,Pan-American Junior Championships,2022-10-19,Lima,PER,junior,0,0,Peru
@@ -456,3 +460,5 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 563,African Championships,2022-10-26,Cairo,EGY,senior,0,0,Egypt
 564,Asian Junior Championships,2022-07-15,Tashkent,UZB,junior,0,0,Uzbekistan
 565,South American Youth Championships,2022-10-19,Lima,PER,youth,0,0,Peru
+566,Oceania Youth Championships,2022-05-20,Online,OWF,youth,0,0,NA
+567,2023 IWF World Youth Championships,2023-03-25,Durres,ALB,youth,0,0,Albania
