@@ -93,7 +93,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 150,28th MEN's and 8th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2002-05-30,Havirov,CZE,junior,0,0,Czech Republic
 152,27th MEN's and 7th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2001-07-01,Thessaloniki,GRE,junior,0,0,NA
 154,26th MEN's and 6th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2000-07-02,Prague,CZE,junior,0,0,Czech Republic
-156,25th MEN's and 5th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1999-07-03,Savannah,USA,junior,0,0,United States
+156,25th MEN's and 5th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1999-07-03,Savannah, USA,junior,0,0,NA
 158,24th MEN's and 4th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1998-05-18,Sofia,BUL,junior,0,0,NA
 160,2011 IWF JUNIOR WORLD CHAMPIONSHIPS,2011-06-29,Penang,MAS,junior,0,0,NA
 161,PAN AMERICAN YOUTH (-17) CHAMPIONSHIPS,2011-04-07,Isla Margarita,VEN,youth,0,0,"Venezuela, Bolivarian Republic of"
@@ -342,7 +342,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 439,AFRICAN CHAMPIONSHIPS,2018-08-10,Mahébourg,MRI,senior,0,0,NA
 440,YOUTH OLYMPIC GAMES,2018-10-06,Buenos Aires,ARG,youth,0,0,Argentina
 441,2018 IWF World Championships,2018-11-01,Ashgabat,TKM,senior,0,0,Turkmenistan
-442,II International Senior CSLP Cup,2018-12-07,Guayaquil, ECU,senior,0,0,NA
+442,II International Senior CSLP Cup,2018-12-07,Guayaquil,ECU,senior,0,0,Ecuador
 443,II International Junior CSLP Cup,2018-12-07,Guayaquil,ECU,junior,0,0,Ecuador
 444,5th International Qatar Cup,2018-12-19,DOHA,QAT,senior,0,0,Qatar
 445,5th International Solidarity Championships,2018-12-08,CAIRO,EGY,senior,0,0,Egypt
@@ -433,6 +433,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 532,2022 European Championships,2022-05-28,Tirana,ALB,senior,0,0,Albania
 534,Singapore Weightlifting International,2022-02-25,Singapore,SGP,senior,0,0,Singapore
 535,New Zealand International,2022-02-26,Auckland,NZL,senior,0,0,New Zealand
+536,Mauritius International Open,2022-02-26,Vacoas,MRI,senior,0,0,NA
 537,Canadian Invitational,2022-02-26,Scarbourough,CAN,senior,0,0,Canada
 538,Commonwealth Games Online Qual. Event,2022-02-27,Online,ONL,senior,0,0,NA
 539,"XL Torneo Int. ""Manuel Suárez In Memoriam""",2022-03-13,Cardenas,CUB,senior,0,0,Cuba
@@ -447,7 +448,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 549,Asian Youth Championships,2022-07-15,Tashkent,UZB,youth,0,0,Uzbekistan
 550,Pan-American Championships,2022-07-24,Bogota,COL,senior,0,0,Colombia
 551,XXII Commonwealth Games,2022-07-30,Birmingham,ENG,senior,0,0,NA
-552,European Youth Championships,2022-08-10,Raszyn,POL,youth,0,0,Poland
+552,European Youth Championships,2022-08-10,Raszyn, POL,youth,0,0,NA
 553,5th Islamic Solidarity Games,2022-08-11,Konya,TUR,senior,0,0,Turkey
 554,African Youth Championships,2022-09-01,Marrakesh,MAR,youth,0,0,Morocco
 555,XII South American Games,2022-10-02,Asuncion,PAR,senior,0,0,NA
@@ -462,3 +463,5 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 565,South American Youth Championships,2022-10-19,Lima,PER,youth,0,0,Peru
 566,Oceania Youth Championships,2022-05-20,Online,OWF,youth,0,0,NA
 567,2023 IWF World Youth Championships,2023-03-25,Durres,ALB,youth,0,0,Albania
+568,Pan-American Championships,2023-03-25,Bariloche,ARG,senior,0,0,Argentina
+569,European Championships,2023-04-15,Yerevan,ARM,senior,0,0,Armenia

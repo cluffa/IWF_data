@@ -1,0 +1,106 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,NIYOYITA Davis,UGA,"Jan 01, 2004",54.81,A,---,---,90,90,55kgMen,Snatch,536,False
+2,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.25,A,---,---,71,71,55kgMen,Snatch,536,False
+1,NIYOYITA Davis,UGA,"Jan 01, 2004",54.81,A,---,---,115,115,55kgMen,CleanJerk,536,False
+2,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.25,A,---,---,95,95,55kgMen,CleanJerk,536,False
+1,NIYOYITA Davis,UGA,"Jan 01, 2004",54.81,A,90,115,205,---,55kgMen,Total,536,False
+2,KGASWANE Kgotla Alphius N,BOT,"Jul 07, 2000",54.25,A,71,95,166,---,55kgMen,Total,536,False
+1,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.73,A,---,---,100,100,67kgMen,Snatch,536,False
+1,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.73,A,---,---,130,130,67kgMen,CleanJerk,536,False
+1,CORET Marc Jonathan,MRI,"Apr 13, 1989",66.73,A,100,130,230,---,67kgMen,Total,536,False
+1,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.08,A,---,---,120,120,73kgMen,Snatch,536,False
+2,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",72.47,A,---,---,110,110,73kgMen,Snatch,536,False
+3,NTSINYI Machachamise,LES,"Apr 29, 1998",72.93,A,---,---,100,100,73kgMen,Snatch,536,False
+1,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.08,A,---,---,155,155,73kgMen,CleanJerk,536,False
+2,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",72.47,A,---,---,141,141,73kgMen,CleanJerk,536,False
+3,NTSINYI Machachamise,LES,"Apr 29, 1998",72.93,A,---,---,130,130,73kgMen,CleanJerk,536,False
+1,PHILLIPS Jon-Antohein,RSA,"May 02, 2000",72.08,A,120,155,275,---,73kgMen,Total,536,False
+2,SSEMPEREZA Hakim Musoke,UGA,"Apr 10, 1995",72.47,A,110,141,251,---,73kgMen,Total,536,False
+3,NTSINYI Machachamise,LES,"Apr 29, 1998",72.93,A,100,130,230,---,73kgMen,Total,536,False
+1,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",76.36,A,---,---,121,121,81kgMen,Snatch,536,False
+2,MADANAMOOTHOO Jack Dorian,MRI,"Apr 19, 2001",80.94,A,---,---,118,118,81kgMen,Snatch,536,False
+3,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.66,A,---,---,110,110,81kgMen,Snatch,536,False
+4,MASAKWE Ivan,UGA,"May 01, 1990",79.65,A,---,---,105,105,81kgMen,Snatch,536,False
+1,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",76.36,A,---,---,154,154,81kgMen,CleanJerk,536,False
+2,MADANAMOOTHOO Jack Dorian,MRI,"Apr 19, 2001",80.94,A,---,---,145,145,81kgMen,CleanJerk,536,False
+3,MASAKWE Ivan,UGA,"May 01, 1990",79.65,A,---,---,140,140,81kgMen,CleanJerk,536,False
+---,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.66,A,---,---,---,---,81kgMen,CleanJerk,536,False
+1,PANDOO Dinesh Jevin,MRI,"Feb 25, 2001",76.36,A,121,154,275,---,81kgMen,Total,536,False
+2,MADANAMOOTHOO Jack Dorian,MRI,"Apr 19, 2001",80.94,A,118,145,263,---,81kgMen,Total,536,False
+3,MASAKWE Ivan,UGA,"May 01, 1990",79.65,A,105,140,245,---,81kgMen,Total,536,False
+---,DU PLOOY Lyle William Henry,RSA,"Aug 02, 1988",80.66,A,110,---,---,---,81kgMen,Total,536,False
+1,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.88,A,---,---,150,150,96kgMen,Snatch,536,False
+2,BURGER Ruben,RSA,"Mar 03, 1991",95.99,A,---,---,141,141,96kgMen,Snatch,536,False
+3,CORET Cedric Fabrice,MRI,"May 28, 1991",93.45,A,---,---,138,138,96kgMen,Snatch,536,False
+4,KUBO Zubairi,UGA,"Jan 10, 1995",95.45,A,---,---,135,135,96kgMen,Snatch,536,False
+5,MASHEGO Vuyani,RSA,"Feb 22, 1992",89.50,A,---,---,115,115,96kgMen,Snatch,536,False
+6,SOLOMON Dikabelo,BOT,"Jul 23, 1995",89.31,A,---,---,110,110,96kgMen,Snatch,536,False
+1,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.88,A,---,---,185,185,96kgMen,CleanJerk,536,False
+2,CORET Cedric Fabrice,MRI,"May 28, 1991",93.45,A,---,---,176,176,96kgMen,CleanJerk,536,False
+3,BURGER Ruben,RSA,"Mar 03, 1991",95.99,A,---,---,172,172,96kgMen,CleanJerk,536,False
+4,KUBO Zubairi,UGA,"Jan 10, 1995",95.45,A,---,---,156,156,96kgMen,CleanJerk,536,False
+5,MASHEGO Vuyani,RSA,"Feb 22, 1992",89.50,A,---,---,145,145,96kgMen,CleanJerk,536,False
+6,SOLOMON Dikabelo,BOT,"Jul 23, 1995",89.31,A,---,---,130,130,96kgMen,CleanJerk,536,False
+1,OSEI Forrester Christopher,GHA,"Sep 12, 1989",95.88,A,150,185,335,---,96kgMen,Total,536,False
+2,CORET Cedric Fabrice,MRI,"May 28, 1991",93.45,A,138,176,314,---,96kgMen,Total,536,False
+3,BURGER Ruben,RSA,"Mar 03, 1991",95.99,A,141,172,313,---,96kgMen,Total,536,False
+4,KUBO Zubairi,UGA,"Jan 10, 1995",95.45,A,135,156,291,---,96kgMen,Total,536,False
+5,MASHEGO Vuyani,RSA,"Feb 22, 1992",89.50,A,115,145,260,---,96kgMen,Total,536,False
+6,SOLOMON Dikabelo,BOT,"Jul 23, 1995",89.31,A,110,130,240,---,96kgMen,Total,536,False
+1,JUBOO Khelwin,MRI,"Jun 27, 2002",105.72,A,---,---,135,135,109kgMen,Snatch,536,False
+2,REEDERS Christoffel Frederik,RSA,"Oct 06, 1990",102.01,A,---,---,135,135,109kgMen,Snatch,536,False
+3,KAGISO Bokang Alphius,BOT,"Mar 30, 1997",105.97,A,---,---,110,110,109kgMen,Snatch,536,False
+---,MADANAMOOTHOO Jack Anthony,MRI,"Jan 13, 1999",102.67,A,---,---,---,---,109kgMen,Snatch,536,False
+1,REEDERS Christoffel Frederik,RSA,"Oct 06, 1990",102.01,A,---,---,162,162,109kgMen,CleanJerk,536,False
+2,JUBOO Khelwin,MRI,"Jun 27, 2002",105.72,A,---,---,160,160,109kgMen,CleanJerk,536,False
+3,KAGISO Bokang Alphius,BOT,"Mar 30, 1997",105.97,A,---,---,145,145,109kgMen,CleanJerk,536,False
+---,MADANAMOOTHOO Jack Anthony,MRI,"Jan 13, 1999",102.67,A,---,---,170,170,109kgMen,CleanJerk,536,False
+1,REEDERS Christoffel Frederik,RSA,"Oct 06, 1990",102.01,A,135,162,297,---,109kgMen,Total,536,False
+2,JUBOO Khelwin,MRI,"Jun 27, 2002",105.72,A,135,160,295,---,109kgMen,Total,536,False
+3,KAGISO Bokang Alphius,BOT,"Mar 30, 1997",105.97,A,110,145,255,---,109kgMen,Total,536,False
+---,MADANAMOOTHOO Jack Anthony,MRI,"Jan 13, 1999",102.67,A,---,170,---,---,109kgMen,Total,536,False
+1,MORRIS Nathan Eli,RSA,"Jul 13, 1996",120.10,A,---,---,134,134,+109kgMen,Snatch,536,False
+2,BALIGEYA Godfrey,UGA,"Jul 28, 1987",110.94,A,---,---,110,110,+109kgMen,Snatch,536,False
+1,MORRIS Nathan Eli,RSA,"Jul 13, 1996",120.10,A,---,---,166,166,+109kgMen,CleanJerk,536,False
+2,BALIGEYA Godfrey,UGA,"Jul 28, 1987",110.94,A,---,---,130,130,+109kgMen,CleanJerk,536,False
+1,MORRIS Nathan Eli,RSA,"Jul 13, 1996",120.10,A,134,166,300,---,+109kgMen,Total,536,False
+2,BALIGEYA Godfrey,UGA,"Jul 28, 1987",110.94,A,110,130,240,---,+109kgMen,Total,536,False
+1,MATELOT Marie Maeva,MRI,"Jun 02, 2004",48.18,A,---,---,40,40,49kgWomen,Snatch,536,False
+1,MATELOT Marie Maeva,MRI,"Jun 02, 2004",48.18,A,---,---,56,56,49kgWomen,CleanJerk,536,False
+1,MATELOT Marie Maeva,MRI,"Jun 02, 2004",48.18,A,40,56,96,---,49kgWomen,Total,536,False
+1,GOPALOODOO Doushka,MRI,"Mar 01, 2000",54.31,A,---,---,51,51,55kgWomen,Snatch,536,False
+1,GOPALOODOO Doushka,MRI,"Mar 01, 2000",54.31,A,---,---,63,63,55kgWomen,CleanJerk,536,False
+1,GOPALOODOO Doushka,MRI,"Mar 01, 2000",54.31,A,51,63,114,---,55kgWomen,Total,536,False
+1,SPIES Anneke,RSA,"Jun 28, 1993",58.93,A,---,---,77,77,59kgWomen,Snatch,536,False
+2,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.22,A,---,---,77,77,59kgWomen,Snatch,536,False
+3,MALVINA Juliette Ruby Rita,SEY,"May 22, 1984",58.93,A,---,---,76,76,59kgWomen,Snatch,536,False
+4,GUNOO Sulakhsna Gunoo,MRI,"Jun 17, 1998",58.78,A,---,---,60,60,59kgWomen,Snatch,536,False
+1,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.22,A,---,---,100,100,59kgWomen,CleanJerk,536,False
+2,SPIES Anneke,RSA,"Jun 28, 1993",58.93,A,---,---,99,99,59kgWomen,CleanJerk,536,False
+3,MALVINA Juliette Ruby Rita,SEY,"May 22, 1984",58.93,A,---,---,95,95,59kgWomen,CleanJerk,536,False
+4,GUNOO Sulakhsna Gunoo,MRI,"Jun 17, 1998",58.78,A,---,---,77,77,59kgWomen,CleanJerk,536,False
+1,AGRICOLE Clementina Ciana,SEY,"Jul 18, 1988",58.22,A,77,100,177,---,59kgWomen,Total,536,False
+2,SPIES Anneke,RSA,"Jun 28, 1993",58.93,A,77,99,176,---,59kgWomen,Total,536,False
+3,MALVINA Juliette Ruby Rita,SEY,"May 22, 1984",58.93,A,76,95,171,---,59kgWomen,Total,536,False
+4,GUNOO Sulakhsna Gunoo,MRI,"Jun 17, 1998",58.78,A,60,77,137,---,59kgWomen,Total,536,False
+1,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",62.74,A,---,---,93,93,64kgWomen,Snatch,536,False
+1,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",62.74,A,---,---,118,118,64kgWomen,CleanJerk,536,False
+1,YUSUF Islamiyat Adebukdu,NGR,"Mar 03, 2003",62.74,A,93,118,211,---,64kgWomen,Total,536,False
+1,LENT Ketty,MRI,"Jan 25, 2001",67.29,A,---,---,78,78,71kgWomen,Snatch,536,False
+1,LENT Ketty,MRI,"Jan 25, 2001",67.29,A,---,---,98,98,71kgWomen,CleanJerk,536,False
+1,LENT Ketty,MRI,"Jan 25, 2001",67.29,A,78,98,176,---,71kgWomen,Total,536,False
+1,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",83.04,A,---,---,95,95,87kgWomen,Snatch,536,False
+2,LARUE Romantha,SEY,"Jun 04, 1998",86.83,A,---,---,70,70,87kgWomen,Snatch,536,False
+1,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",83.04,A,---,---,118,118,87kgWomen,CleanJerk,536,False
+2,LARUE Romantha,SEY,"Jun 04, 1998",86.83,A,---,---,85,85,87kgWomen,CleanJerk,536,False
+1,OSIJO Mary Taiwo,NGR,"Nov 21, 1996",83.04,A,95,118,213,---,87kgWomen,Total,536,False
+2,LARUE Romantha,SEY,"Jun 04, 1998",86.83,A,70,85,155,---,87kgWomen,Total,536,False
+1,SUNEE Marie Alison Leroy,MRI,"Jul 20, 1999",88.94,A,---,---,73,73,+87kgWomen,Snatch,536,False
+2,NYANGA Prossy Irene,UGA,"Aug 15, 1989",100.49,A,---,---,62,62,+87kgWomen,Snatch,536,False
+3,BABET ANASTAJIA,MRI,"Feb 06, 2004",87.34,A,---,---,55,55,+87kgWomen,Snatch,536,False
+1,SUNEE Marie Alison Leroy,MRI,"Jul 20, 1999",88.94,A,---,---,95,95,+87kgWomen,CleanJerk,536,False
+2,NYANGA Prossy Irene,UGA,"Aug 15, 1989",100.49,A,---,---,81,81,+87kgWomen,CleanJerk,536,False
+3,BABET ANASTAJIA,MRI,"Feb 06, 2004",87.34,A,---,---,75,75,+87kgWomen,CleanJerk,536,False
+1,SUNEE Marie Alison Leroy,MRI,"Jul 20, 1999",88.94,A,73,95,168,---,+87kgWomen,Total,536,False
+2,NYANGA Prossy Irene,UGA,"Aug 15, 1989",100.49,A,62,81,143,---,+87kgWomen,Total,536,False
+3,BABET ANASTAJIA,MRI,"Feb 06, 2004",87.34,A,55,75,130,---,+87kgWomen,Total,536,False
