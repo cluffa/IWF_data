@@ -37,7 +37,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 53,EUROPEAN U23 CHAMPIONSHIPS,2009-10-11,Wladyslawowo,POL,senior,0,0,Poland
 54,2009 COMMONWEALTH CHAMPIONSHIPS,2009-10-19,Penang,MAS,senior,0,0,NA
 55,2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS,2009-10-19,Penang,MAS,junior,0,0,NA
-56,OCEANIA & SOUTH PACIFIC SENIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin,AUS,senior,0,0,Australia
+56,OCEANIA & SOUTH PACIFIC SENIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin, AUS,senior,0,0,NA
 57,OCEANIA & SOUTH PACIFIC JUNIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin,AUS,junior,0,0,Australia
 58,7th DENIS RANDON TOURNAMENT,2009-12-05,Montpellier,FRA,senior,0,0,France
 59,2009 PACIFIC MINI GAMES,2009-09-29,Rarotonga,COK,senior,0,0,Cook Islands
@@ -93,7 +93,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 150,28th MEN's and 8th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2002-05-30,Havirov,CZE,junior,0,0,Czech Republic
 152,27th MEN's and 7th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2001-07-01,Thessaloniki,GRE,junior,0,0,NA
 154,26th MEN's and 6th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2000-07-02,Prague,CZE,junior,0,0,Czech Republic
-156,25th MEN's and 5th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1999-07-03,Savannah, USA,junior,0,0,NA
+156,25th MEN's and 5th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1999-07-03,Savannah,USA,junior,0,0,United States
 158,24th MEN's and 4th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,1998-05-18,Sofia,BUL,junior,0,0,NA
 160,2011 IWF JUNIOR WORLD CHAMPIONSHIPS,2011-06-29,Penang,MAS,junior,0,0,NA
 161,PAN AMERICAN YOUTH (-17) CHAMPIONSHIPS,2011-04-07,Isla Margarita,VEN,youth,0,0,"Venezuela, Bolivarian Republic of"
@@ -194,7 +194,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 285,2014 OCEANIAN YOUTH CH. (YOG Qualification),2014-05-25,Mont Dore,NCL,youth,0,0,New Caledonia
 286,2014 OCEANIAN JUNIOR CHAMPIONSHIPS,2014-05-25,Mont Dore,NCL,junior,0,0,New Caledonia
 287,2014 OCEANIAN CHAMPIONSHIPS,2014-05-25,Mont Dore,NCL,senior,0,0,New Caledonia
-288,2014 IWF JUNIOR WORLD CHAMPIONSHIPS,2014-06-20,Kazan,RUS,junior,0,0,Russian Federation
+288,2014 IWF JUNIOR WORLD CHAMPIONSHIPS,2014-06-20,Kazan, RUS,junior,0,0,NA
 289,2014 AFRICAN YOUTH GAMES,2014-05-23,Gaborone,BOT,youth,0,0,NA
 290,PAN AMERICAN CHAMPIONSHIPS,2014-05-26,Santo Domingo,DOM,senior,0,0,Dominican Republic
 291,2014 COMMONWEALTH GAMES,2014-07-23,Glasgow,GBR,senior,0,0,United Kingdom
@@ -265,7 +265,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 358,2016 OCEANIAN YOUTH CHAMPIONSHIPS,2016-05-23,Suva,FIJ,youth,0,0,NA
 359,1st INTERNATIONAL FAJR CUP,2016-05-30,Tehran,IRI,senior,0,0,NA
 360,2016 PAN-AMERICAN CHAMPIONSHIPS,2016-06-06,Cartagena,COL,senior,0,0,Colombia
-361,2016 IWF JUNIOR WORLD CHAMPIONSHIPS,2016-06-23,Tbilisi,GEO,junior,0,0,Georgia
+361,2016 IWF JUNIOR WORLD CHAMPIONSHIPS,2016-06-23,Tbilisi, GEO,junior,0,0,NA
 362,XXXI OLYMPIC GAMES,2016-08-05,Rio De Janeiro,BRA,senior,1,0,Brazil
 363,EUROPEAN YOUTH CHAMPIONSHIPS,2016-09-10,Nowy Tomysl,POL,youth,0,0,Poland
 364,2016 IWF YOUTH WORLD CHAMPIONSHIPS,2016-10-19,Penang,MAS,youth,0,0,NA
@@ -448,7 +448,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 549,Asian Youth Championships,2022-07-15,Tashkent,UZB,youth,0,0,Uzbekistan
 550,Pan-American Championships,2022-07-24,Bogota,COL,senior,0,0,Colombia
 551,XXII Commonwealth Games,2022-07-30,Birmingham,ENG,senior,0,0,NA
-552,European Youth Championships,2022-08-10,Raszyn, POL,youth,0,0,NA
+552,European Youth Championships,2022-08-10,Raszyn,POL,youth,0,0,Poland
 553,5th Islamic Solidarity Games,2022-08-11,Konya,TUR,senior,0,0,Turkey
 554,African Youth Championships,2022-09-01,Marrakesh,MAR,youth,0,0,Morocco
 555,XII South American Games,2022-10-02,Asuncion,PAR,senior,0,0,NA
@@ -465,3 +465,6 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 567,2023 IWF World Youth Championships,2023-03-25,Durres,ALB,youth,0,0,Albania
 568,Pan-American Championships,2023-03-25,Bariloche,ARG,senior,0,0,Argentina
 569,European Championships,2023-04-15,Yerevan,ARM,senior,0,0,Armenia
+570,2023 Asian Championships,2023-05-05,Jinju,KOR,senior,0,0,"Korea, Republic of"
+571,2023 African Championships,2023-05-11,Tunis,TUN,senior,0,0,Tunisia
+572,Pan-American Junior Championships,2023-05-10,Manizales,COL,junior,0,0,Colombia
