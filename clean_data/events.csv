@@ -23,7 +23,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 24,2009 PAN-AMERICAN CHAMPIONSHIPS,2009-06-03,CHICAGO,USA,senior,0,0,United States
 25,35th MEN's and 15th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2009-06-14,Bucharest,ROU,junior,0,0,Romania
 41,77th MEN's and 20th WOMEN's WORLD CHAMPIONSHIPS,2009-11-19,Goyang,KOR,senior,0,0,"Korea, Republic of"
-42,37th EUROPEAN UNION CHAMPIONSHIPS,2009-03-18,Ciechanow,POL,senior,0,0,Poland
+42,37th EUROPEAN UNION CHAMPIONSHIPS,2009-03-18,Ciechanow, POL,senior,0,0,NA
 43,21st ASIAN SENIOR WOMEN'S 40th ASIAN SENIOR MEN'S CHAMPIONSHIPS,2009-05-09,Taldykorgan,KAZ,senior,0,0,Kazakhstan
 44,MEDITERRANEAN GAMES,2009-06-26,Pescara,ITA,senior,0,0,Italy
 45,"AFRICAN YOUTH (1st MEN, 1st WOMEN) CHAMPIONSHIPS",2009-07-31,Kampala,UGA,youth,0,0,Uganda
@@ -37,7 +37,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 53,EUROPEAN U23 CHAMPIONSHIPS,2009-10-11,Wladyslawowo,POL,senior,0,0,Poland
 54,2009 COMMONWEALTH CHAMPIONSHIPS,2009-10-19,Penang,MAS,senior,0,0,NA
 55,2009 COMMONWEALTH JUNIOR CHAMPIONSHIPS,2009-10-19,Penang,MAS,junior,0,0,NA
-56,OCEANIA & SOUTH PACIFIC SENIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin, AUS,senior,0,0,NA
+56,OCEANIA & SOUTH PACIFIC SENIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin,AUS,senior,0,0,Australia
 57,OCEANIA & SOUTH PACIFIC JUNIOR CHAMPIONSHIPS AND ARAFURA GAMES,2009-05-12,Darwin,AUS,junior,0,0,Australia
 58,7th DENIS RANDON TOURNAMENT,2009-12-05,Montpellier,FRA,senior,0,0,France
 59,2009 PACIFIC MINI GAMES,2009-09-29,Rarotonga,COK,senior,0,0,Cook Islands
@@ -194,7 +194,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 285,2014 OCEANIAN YOUTH CH. (YOG Qualification),2014-05-25,Mont Dore,NCL,youth,0,0,New Caledonia
 286,2014 OCEANIAN JUNIOR CHAMPIONSHIPS,2014-05-25,Mont Dore,NCL,junior,0,0,New Caledonia
 287,2014 OCEANIAN CHAMPIONSHIPS,2014-05-25,Mont Dore,NCL,senior,0,0,New Caledonia
-288,2014 IWF JUNIOR WORLD CHAMPIONSHIPS,2014-06-20,Kazan, RUS,junior,0,0,NA
+288,2014 IWF JUNIOR WORLD CHAMPIONSHIPS,2014-06-20,Kazan,RUS,junior,0,0,Russian Federation
 289,2014 AFRICAN YOUTH GAMES,2014-05-23,Gaborone,BOT,youth,0,0,NA
 290,PAN AMERICAN CHAMPIONSHIPS,2014-05-26,Santo Domingo,DOM,senior,0,0,Dominican Republic
 291,2014 COMMONWEALTH GAMES,2014-07-23,Glasgow,GBR,senior,0,0,United Kingdom
@@ -265,7 +265,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 358,2016 OCEANIAN YOUTH CHAMPIONSHIPS,2016-05-23,Suva,FIJ,youth,0,0,NA
 359,1st INTERNATIONAL FAJR CUP,2016-05-30,Tehran,IRI,senior,0,0,NA
 360,2016 PAN-AMERICAN CHAMPIONSHIPS,2016-06-06,Cartagena,COL,senior,0,0,Colombia
-361,2016 IWF JUNIOR WORLD CHAMPIONSHIPS,2016-06-23,Tbilisi, GEO,junior,0,0,NA
+361,2016 IWF JUNIOR WORLD CHAMPIONSHIPS,2016-06-23,Tbilisi,GEO,junior,0,0,Georgia
 362,XXXI OLYMPIC GAMES,2016-08-05,Rio De Janeiro,BRA,senior,1,0,Brazil
 363,EUROPEAN YOUTH CHAMPIONSHIPS,2016-09-10,Nowy Tomysl,POL,youth,0,0,Poland
 364,2016 IWF YOUTH WORLD CHAMPIONSHIPS,2016-10-19,Penang,MAS,youth,0,0,NA
@@ -316,7 +316,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 411,18th BOLIVARIAN GAMES,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
 412,2nd SOUTH AMERICAN YOUTH GAMES,2017-10-04,Santiago,CHI,youth,0,0,NA
 413,SOUTH AMERICAN CHAMPIONSHIPS,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
-415,3rd INTERNATIONAL FAJR CUP,2018-03-06,Ahvaz,IRI,senior,0,0,NA
+415,3rd INTERNATIONAL FAJR CUP,2018-03-06,Ahvaz, IRI,senior,0,0,NA
 416,2018 AFRICAN YOUTH CHAMPIONSHIPS,2018-03-23,Cairo,EGY,youth,0,0,Egypt
 417,2018 AFRICAN JUNIOR CHAMPIONSHIPS,2018-03-23,Cairo,EGY,junior,0,0,Egypt
 418,EUROPEAN CHAMPIONSHIPS,2018-03-26,Bucharest,ROU,senior,0,0,Romania
@@ -468,3 +468,4 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 570,2023 Asian Championships,2023-05-05,Jinju,KOR,senior,0,0,"Korea, Republic of"
 571,2023 African Championships,2023-05-11,Tunis,TUN,senior,0,0,Tunisia
 572,Pan-American Junior Championships,2023-05-10,Manizales,COL,junior,0,0,Colombia
+574,IWF Grand Prix I,2023-06-08,Havana,CUB,senior,0,0,Cuba
