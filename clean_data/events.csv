@@ -23,7 +23,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 24,2009 PAN-AMERICAN CHAMPIONSHIPS,2009-06-03,CHICAGO,USA,senior,0,0,United States
 25,35th MEN's and 15th WOMEN's JUNIOR WORLD CHAMPIONSHIPS,2009-06-14,Bucharest,ROU,junior,0,0,Romania
 41,77th MEN's and 20th WOMEN's WORLD CHAMPIONSHIPS,2009-11-19,Goyang,KOR,senior,0,0,"Korea, Republic of"
-42,37th EUROPEAN UNION CHAMPIONSHIPS,2009-03-18,Ciechanow, POL,senior,0,0,NA
+42,37th EUROPEAN UNION CHAMPIONSHIPS,2009-03-18,Ciechanow,POL,senior,0,0,Poland
 43,21st ASIAN SENIOR WOMEN'S 40th ASIAN SENIOR MEN'S CHAMPIONSHIPS,2009-05-09,Taldykorgan,KAZ,senior,0,0,Kazakhstan
 44,MEDITERRANEAN GAMES,2009-06-26,Pescara,ITA,senior,0,0,Italy
 45,"AFRICAN YOUTH (1st MEN, 1st WOMEN) CHAMPIONSHIPS",2009-07-31,Kampala,UGA,youth,0,0,Uganda
@@ -316,7 +316,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 411,18th BOLIVARIAN GAMES,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
 412,2nd SOUTH AMERICAN YOUTH GAMES,2017-10-04,Santiago,CHI,youth,0,0,NA
 413,SOUTH AMERICAN CHAMPIONSHIPS,2017-11-17,Santa Marta,COL,senior,0,0,Colombia
-415,3rd INTERNATIONAL FAJR CUP,2018-03-06,Ahvaz, IRI,senior,0,0,NA
+415,3rd INTERNATIONAL FAJR CUP,2018-03-06,Ahvaz,IRI,senior,0,0,NA
 416,2018 AFRICAN YOUTH CHAMPIONSHIPS,2018-03-23,Cairo,EGY,youth,0,0,Egypt
 417,2018 AFRICAN JUNIOR CHAMPIONSHIPS,2018-03-23,Cairo,EGY,junior,0,0,Egypt
 418,EUROPEAN CHAMPIONSHIPS,2018-03-26,Bucharest,ROU,senior,0,0,Romania
@@ -469,3 +469,5 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 571,2023 African Championships,2023-05-11,Tunis,TUN,senior,0,0,Tunisia
 572,Pan-American Junior Championships,2023-05-10,Manizales,COL,junior,0,0,Colombia
 574,IWF Grand Prix I,2023-06-08,Havana,CUB,senior,0,0,Cuba
+575,2023 Asian Junior Championships,2023-07-28,Delhi,IND,junior,0,0,India
+576,2023 Asian Youth Championships,2023-07-28,Delhi,IND,youth,0,0,India
